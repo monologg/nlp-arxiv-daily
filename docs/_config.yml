@@ -9,10 +9,10 @@ github:
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
 
-# minima:
-skin: dark
-social_links:
-  github: monologg
+minima:
+  skin: dark
+  social_links:
+    github: monologg
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
