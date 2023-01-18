@@ -293,7 +293,7 @@ def json_to_md(filename, md_filename, task="", to_web=False, use_title=True, use
                 if not day_content:
                     continue
                 kw = keyword.replace(" ", "-")
-                f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
+                f.write(f"    <li><a href='#{kw}'>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
 
@@ -323,7 +323,7 @@ def json_to_md(filename, md_filename, task="", to_web=False, use_title=True, use
             # Add: back to top
             top_info = f"#Updated on {DateNow}"
             top_info = top_info.replace(" ", "-").replace(".", "")
-            f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
+            f.write(f"<p align=right>(<a href='{top_info}'>back to top</a>)</p>\n\n")
 
         if show_badge is True:
             # we don't like long string, break it!
