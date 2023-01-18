@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Updated on 2023.01.18
 
 <details>
@@ -19,8 +23,8 @@
 
 ## NLP
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|null|
 |**2023-01-17**|**Transformer Based Implementation for Automatic Book Summarization**|Siddhant Porwal et.al.|[2301.07057v1](http://arxiv.org/abs/2301.07057v1)|null|
 |**2023-01-17**|**SECOMlint: A linter for Security Commit Messages**|Sofia Reis et.al.|[2301.06959v1](http://arxiv.org/abs/2301.06959v1)|null|
@@ -126,8 +130,8 @@
 
 ## Legal NLP
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-01-07**|**Graph-based Keyword Planning for Legal Clause Generation from Topics**|Sagar Joshi et.al.|[2301.06901v1](http://arxiv.org/abs/2301.06901v1)|null|
 |**2023-01-06**|**MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding**|Steven H. Wang et.al.|[2301.00876v2](http://arxiv.org/abs/2301.00876v2)|**[link](https://github.com/theatticusproject/maud-extraction)**|
 |**2022-12-13**|**Attentive Deep Neural Networks for Legal Document Retrieval**|Ha-Thanh Nguyen et.al.|[2212.13899v1](http://arxiv.org/abs/2212.13899v1)|null|
@@ -233,8 +237,8 @@
 
 ## Sequence Annotation
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2006-09-28**|**Single qubit gates by selective excitation with Jump and Return sequences**|Mark D. Bowdrey et.al.|[quant-ph/0606220v2](http://arxiv.org/abs/quant-ph/0606220v2)|null|
 |**2013-05-16**|**PFMFind: a system for discovery of peptide homology and function**|Aleksandar Stojmirović et.al.|[q-bio/0603011v2](http://arxiv.org/abs/q-bio/0603011v2)|null|
 |**2005-07-08**|**Root invariants in the Adams spectral sequence**|Mark Behrens et.al.|[math/0507182v1](http://arxiv.org/abs/math/0507182v1)|null|
@@ -272,8 +276,8 @@
 
 ## Named Entity Recognition
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-01-17**|**SECOMlint: A linter for Security Commit Messages**|Sofia Reis et.al.|[2301.06959v1](http://arxiv.org/abs/2301.06959v1)|null|
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**A Dataset of Kurdish (Sorani) Named Entities -- An Amendment to Kurdish-BLARK Named Entities**|Sazan Salar et.al.|[2301.04962v1](http://arxiv.org/abs/2301.04962v1)|**[link](https://github.com/kurdishblark/kurdishnamedentities)**|
@@ -379,8 +383,8 @@
 
 ## Text Classification
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-01-17**|**Which Model Shall I Choose? Cost/Quality Trade-offs for Text Classification Tasks**|Shi Zong et.al.|[2301.07006v1](http://arxiv.org/abs/2301.07006v1)|null|
 |**2023-01-17**|**BERT-ERC: Fine-tuning BERT is Enough for Emotion Recognition in Conversation**|Xiangyu Qin et.al.|[2301.06745v1](http://arxiv.org/abs/2301.06745v1)|null|
 |**2023-01-16**|**TEDB System Description to a Shared Task on Euphemism Detection 2022**|Peratham Wiriyathammabhum et.al.|[2301.06602v1](http://arxiv.org/abs/2301.06602v1)|null|
@@ -486,8 +490,8 @@
 
 ## Sentiment Analysis
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-01-17**|**The Recent Advances in Automatic Term Extraction: A survey**|Hanh Thi Hong Tran et.al.|[2301.06767v1](http://arxiv.org/abs/2301.06767v1)|null|
 |**2023-01-17**|**Word Embeddings as Statistical Estimators**|Neil Dey et.al.|[2301.06710v1](http://arxiv.org/abs/2301.06710v1)|null|
 |**2023-01-16**|**TEDB System Description to a Shared Task on Euphemism Detection 2022**|Peratham Wiriyathammabhum et.al.|[2301.06602v1](http://arxiv.org/abs/2301.06602v1)|null|
@@ -593,8 +597,8 @@
 
 ## Question Answering
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-01-12**|**Counterfactual Explanations for Concepts in $\mathcal{ELH}$**|Leonie Nora Sieger et.al.|[2301.05109v1](http://arxiv.org/abs/2301.05109v1)|null|
 |**2023-01-12**|**SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images**|Ryota Tanaka et.al.|[2301.04883v1](http://arxiv.org/abs/2301.04883v1)|**[link](https://github.com/nttmdlab-nlp/slidevqa)**|
 |**2023-01-11**|**Semantic Web Enabled Geographic Question Answering Framework: GeoTR**|Ceren Ocal Tasar et.al.|[2301.04752v1](http://arxiv.org/abs/2301.04752v1)|null|
@@ -700,8 +704,8 @@
 
 ## Information Extraction
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-01-17**|**Syntactically Robust Training on Partially-Observed Data for Open Information Extraction**|Ji Qi et.al.|[2301.06841v1](http://arxiv.org/abs/2301.06841v1)|**[link](https://github.com/qijimrc/robustoie)**|
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 |**2023-01-13**|**Development of a Two-Level ML Spatial-temporal Framework for Industrial Thermal Striping Applications**|Yu-Jou Wang et.al.|[2301.05667v1](http://arxiv.org/abs/2301.05667v1)|null|
@@ -807,8 +811,8 @@
 
 ## Recommendation System
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-01-17**|**Optimal Algorithms for Latent Bandits with Cluster Structure**|Soumyabrata Pal et.al.|[2301.07040v1](http://arxiv.org/abs/2301.07040v1)|null|
 |**2023-01-17**|**Online Filtering over Expanding Graphs**|Bishwadeep Das et.al.|[2301.06898v1](http://arxiv.org/abs/2301.06898v1)|null|
 |**2023-01-17**|**Reusable Self-Attention Recommender Systems in Fashion Industry Applications**|Marjan Celikik et.al.|[2301.06777v1](http://arxiv.org/abs/2301.06777v1)|null|
@@ -914,8 +918,8 @@
 
 ## Knowledge Graph
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-01-17**|**Towards Improving the Explainability of Text-based Information Retrieval with Knowledge Graphs**|Boqi Chen et.al.|[2301.06974v1](http://arxiv.org/abs/2301.06974v1)|null|
 |**2023-01-17**|**Knowledge Acquisition and Completion for Long-Term Human-Robot Interactions using Knowledge Graph Embedding**|E. Bartoli et.al.|[2301.06834v1](http://arxiv.org/abs/2301.06834v1)|null|
 |**2023-01-14**|**Knowledge is Power, Understanding is Impact: Utility and Beyond Goals, Explanation Quality, and Fairness in Path Reasoning Recommendation**|Giacomo Balloccu et.al.|[2301.05944v1](http://arxiv.org/abs/2301.05944v1)|**[link](https://github.com/giacoballoccu/rep-path-reasoning-recsys)**|
@@ -1021,8 +1025,8 @@
 
 ## GNN
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-01-16**|**Mind The Gap -- Modelling Difference Between Censored and Uncensored Electric Vehicle Charging Demand**|Frederik Boe Hüttel et.al.|[2301.06418v1](http://arxiv.org/abs/2301.06418v1)|null|
 |**2023-01-16**|**PIGEON: Optimizing CUDA Code Generator for End-to-End Training and Inference of Relational Graph Neural Networks**|Kun Wu et.al.|[2301.06284v1](http://arxiv.org/abs/2301.06284v1)|null|
 |**2023-01-14**|**A Comprehensive Survey of Graph-level Learning**|Zhenyu Yang et.al.|[2301.05860v1](http://arxiv.org/abs/2301.05860v1)|null|
