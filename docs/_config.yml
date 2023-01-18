@@ -1,5 +1,5 @@
 title: NLP Arxiv Daily
-description: Automatically Update NLP Papers Daily using Github Actions 
+description: Automatically Update NLP Papers Daily using Github Actions
 show_downloads: true
 
 github:
@@ -7,7 +7,7 @@ github:
   another_url: https://github.com/monologg/nlp-arxiv-daily
 
 ## add remote theme
-remote_theme: jekyll/minima@v2.5.1
+remote_theme: pages-themes/slate@v0.2.0
 
 # minima:
 skin: dark
