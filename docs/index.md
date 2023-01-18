@@ -7,8 +7,8 @@ layout: default
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#NLP>NLP</a></li>
-    <li><a href=#Legal-NLP>Legal NLP</a></li>
+    <li><a href='#NLP'>NLP</a></li>
+    <li> <a href=#Legal-NLP>Legal NLP</a> </li>
     <li><a href=#Sequence-Annotation>Sequence Annotation</a></li>
     <li><a href=#Named-Entity-Recognition>Named Entity Recognition</a></li>
     <li><a href=#Text-Classification>Text Classification</a></li>
