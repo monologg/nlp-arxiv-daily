@@ -49,7 +49,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update nlp Arxiv Papers"
-          files: README.md docs/nlp-arxiv-daily.json docs/nlp-arxiv-daily-web.json docs/index.md docs/nlp-arxiv-daily-wechat.json docs/wechat.md
+          files: README.md docs/nlp-arxiv-daily.json docs/nlp-arxiv-daily-web.json docs/index.md
           rebase: "true"
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
