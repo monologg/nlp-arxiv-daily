@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-18**|**A Quantitative Exploration of Natural Language Processing Applications for Electricity Demand Analysis**|Yun Bai et.al.|[2301.07535v1](http://arxiv.org/abs/2301.07535v1)|null|
+|**2023-01-18**|**Discrete Latent Structure in Neural Networks**|Vlad Niculae et.al.|[2301.07473v1](http://arxiv.org/abs/2301.07473v1)|null|
 |**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|**[link](https://github.com/dennlinger/summaries)**|
 |**2023-01-17**|**Transformer Based Implementation for Automatic Book Summarization**|Siddhant Porwal et.al.|[2301.07057v1](http://arxiv.org/abs/2301.07057v1)|null|
 |**2023-01-17**|**SECOMlint: A linter for Security Commit Messages**|Sofia Reis et.al.|[2301.06959v1](http://arxiv.org/abs/2301.06959v1)|null|
@@ -595,6 +597,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-18**|**Temporal Perceiving Video-Language Pre-training**|Fan Ma et.al.|[2301.07463v1](http://arxiv.org/abs/2301.07463v1)|null|
+|**2023-01-18**|**Towards Models that Can See and Read**|Roy Ganz et.al.|[2301.07389v1](http://arxiv.org/abs/2301.07389v1)|null|
+|**2023-01-17**|**Curriculum Script Distillation for Multilingual Visual Question Answering**|Khyathi Raghavi Chandu et.al.|[2301.07227v1](http://arxiv.org/abs/2301.07227v1)|null|
 |**2023-01-12**|**Counterfactual Explanations for Concepts in $\mathcal{ELH}$**|Leonie Nora Sieger et.al.|[2301.05109v1](http://arxiv.org/abs/2301.05109v1)|null|
 |**2023-01-12**|**SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images**|Ryota Tanaka et.al.|[2301.04883v1](http://arxiv.org/abs/2301.04883v1)|**[link](https://github.com/nttmdlab-nlp/slidevqa)**|
 |**2023-01-11**|**Semantic Web Enabled Geographic Question Answering Framework: GeoTR**|Ceren Ocal Tasar et.al.|[2301.04752v1](http://arxiv.org/abs/2301.04752v1)|null|
@@ -702,6 +707,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-18**|**Gated-ViGAT: Efficient Bottom-Up Event Recognition and Explanation Using a New Frame Selection Policy and Gating Mechanism**|Nikolaos Gkalelis et.al.|[2301.07565v1](http://arxiv.org/abs/2301.07565v1)|**[link](https://github.com/bmezaris/gated-vigat)**|
 |**2023-01-17**|**Syntactically Robust Training on Partially-Observed Data for Open Information Extraction**|Ji Qi et.al.|[2301.06841v1](http://arxiv.org/abs/2301.06841v1)|**[link](https://github.com/qijimrc/robustoie)**|
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
 |**2023-01-13**|**Development of a Two-Level ML Spatial-temporal Framework for Industrial Thermal Striping Applications**|Yu-Jou Wang et.al.|[2301.05667v1](http://arxiv.org/abs/2301.05667v1)|null|
@@ -809,6 +815,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-18**|**A Comparative Analysis of Bias Amplification in Graph Neural Network Approaches for Recommender Systems**|Nikzad Chizari et.al.|[2301.07639v1](http://arxiv.org/abs/2301.07639v1)|null|
+|**2023-01-18**|**A Survey of Advanced Computer Vision Techniques for Sports**|Tiago Mendes-Neves et.al.|[2301.07583v1](http://arxiv.org/abs/2301.07583v1)|**[link](https://github.com/nvsclub/shotspeedestimation)**|
+|**2023-01-14**|**Failure Tolerant Training with Persistent Memory Disaggregation over CXL**|Miryeong Kwon et.al.|[2301.07492v1](http://arxiv.org/abs/2301.07492v1)|null|
+|**2023-01-18**|**Biases in Scholarly Recommender Systems: Impact, Prevalence, and Mitigation**|Michael Färber et.al.|[2301.07483v1](http://arxiv.org/abs/2301.07483v1)|null|
 |**2023-01-17**|**Optimal Algorithms for Latent Bandits with Cluster Structure**|Soumyabrata Pal et.al.|[2301.07040v1](http://arxiv.org/abs/2301.07040v1)|null|
 |**2023-01-17**|**Online Filtering over Expanding Graphs**|Bishwadeep Das et.al.|[2301.06898v1](http://arxiv.org/abs/2301.06898v1)|null|
 |**2023-01-17**|**Reusable Self-Attention Recommender Systems in Fashion Industry Applications**|Marjan Celikik et.al.|[2301.06777v1](http://arxiv.org/abs/2301.06777v1)|null|
@@ -916,6 +926,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-18**|**A Workflow Model for Holistic Data Management and Semantic Interoperability in Quantitative Archival Research**|Pavlos Fafalios et.al.|[2301.07676v1](http://arxiv.org/abs/2301.07676v1)|null|
 |**2023-01-17**|**Towards Improving the Explainability of Text-based Information Retrieval with Knowledge Graphs**|Boqi Chen et.al.|[2301.06974v1](http://arxiv.org/abs/2301.06974v1)|**[link](https://github.com/aggregate-intellect/xir)**|
 |**2023-01-17**|**Knowledge Acquisition and Completion for Long-Term Human-Robot Interactions using Knowledge Graph Embedding**|E. Bartoli et.al.|[2301.06834v1](http://arxiv.org/abs/2301.06834v1)|null|
 |**2023-01-14**|**Knowledge is Power, Understanding is Impact: Utility and Beyond Goals, Explanation Quality, and Fairness in Path Reasoning Recommendation**|Giacomo Balloccu et.al.|[2301.05944v1](http://arxiv.org/abs/2301.05944v1)|**[link](https://github.com/giacoballoccu/rep-path-reasoning-recsys)**|
@@ -1023,7 +1034,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-01-16**|**Mind The Gap -- Modelling Difference Between Censored and Uncensored Electric Vehicle Charging Demand**|Frederik Boe Hüttel et.al.|[2301.06418v1](http://arxiv.org/abs/2301.06418v1)|null|
+|**2023-01-18**|**A Comparative Analysis of Bias Amplification in Graph Neural Network Approaches for Recommender Systems**|Nikzad Chizari et.al.|[2301.07639v1](http://arxiv.org/abs/2301.07639v1)|null|
+|**2023-01-18**|**ReFresh: Reducing Memory Access from Exploiting Stable Historical Embeddings for Graph Neural Network Training**|Kezhao Huang et.al.|[2301.07482v1](http://arxiv.org/abs/2301.07482v1)|null|
+|**2023-01-17**|**Heterogeneous Multi-Robot Reinforcement Learning**|Matteo Bettini et.al.|[2301.07137v1](http://arxiv.org/abs/2301.07137v1)|**[link](https://github.com/proroklab/vectorizedmultiagentsimulator)**|
+|**2023-01-18**|**- Modelling Difference Between Censored and Uncensored Electric Vehicle Charging Demand**|Frederik Boe Hüttel et.al.|[2301.06418v2](http://arxiv.org/abs/2301.06418v2)|null|
 |**2023-01-16**|**PIGEON: Optimizing CUDA Code Generator for End-to-End Training and Inference of Relational Graph Neural Networks**|Kun Wu et.al.|[2301.06284v1](http://arxiv.org/abs/2301.06284v1)|null|
 |**2023-01-14**|**A Comprehensive Survey of Graph-level Learning**|Zhenyu Yang et.al.|[2301.05860v1](http://arxiv.org/abs/2301.05860v1)|**[link](https://github.com/zhenyuyangmq/awesome-graph-level-learning)**|
 |**2023-01-14**|**CrysGNN : Distilling pre-trained knowledge to enhance property prediction for crystalline materials**|Kishalay Das et.al.|[2301.05852v1](http://arxiv.org/abs/2301.05852v1)|**[link](https://github.com/kdmsit/crysgnn)**|
