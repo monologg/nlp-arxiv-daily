@@ -25,6 +25,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-19**|**Language Embeddings Sometimes Contain Typological Generalizations**|Robert Östling et.al.|[2301.08115v1](http://arxiv.org/abs/2301.08115v1)|null|
+|**2023-01-18**|**Automatically Reproducing Android Bug Reports Using Natural Language Processing and Reinforcement Learning**|Zhaoxu Zhang et.al.|[2301.07775v1](http://arxiv.org/abs/2301.07775v1)|null|
 |**2023-01-18**|**A Quantitative Exploration of Natural Language Processing Applications for Electricity Demand Analysis**|Yun Bai et.al.|[2301.07535v1](http://arxiv.org/abs/2301.07535v1)|null|
 |**2023-01-18**|**Discrete Latent Structure in Neural Networks**|Vlad Niculae et.al.|[2301.07473v1](http://arxiv.org/abs/2301.07473v1)|null|
 |**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|**[link](https://github.com/dennlinger/summaries)**|
@@ -711,6 +713,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-14**|**Music Playlist Title Generation Using Artist Information**|Haven Kim et.al.|[2301.08145v1](http://arxiv.org/abs/2301.08145v1)|null|
 |**2023-01-18**|**Gated-ViGAT: Efficient Bottom-Up Event Recognition and Explanation Using a New Frame Selection Policy and Gating Mechanism**|Nikolaos Gkalelis et.al.|[2301.07565v1](http://arxiv.org/abs/2301.07565v1)|**[link](https://github.com/bmezaris/gated-vigat)**|
 |**2023-01-17**|**Syntactically Robust Training on Partially-Observed Data for Open Information Extraction**|Ji Qi et.al.|[2301.06841v1](http://arxiv.org/abs/2301.06841v1)|**[link](https://github.com/qijimrc/robustoie)**|
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
@@ -819,6 +822,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-19**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
+|**2023-01-19**|**Individual Fairness for Social Media Influencers**|Stefania Ionescu et.al.|[2301.08177v1](http://arxiv.org/abs/2301.08177v1)|null|
+|**2023-01-17**|**Towards the design of user-centric strategy recommendation systems for collaborative Human-AI tasks**|Lakshita Dodeja et.al.|[2301.08144v1](http://arxiv.org/abs/2301.08144v1)|null|
 |**2023-01-18**|**A Comparative Analysis of Bias Amplification in Graph Neural Network Approaches for Recommender Systems**|Nikzad Chizari et.al.|[2301.07639v1](http://arxiv.org/abs/2301.07639v1)|null|
 |**2023-01-18**|**A Survey of Advanced Computer Vision Techniques for Sports**|Tiago Mendes-Neves et.al.|[2301.07583v1](http://arxiv.org/abs/2301.07583v1)|**[link](https://github.com/nvsclub/shotspeedestimation)**|
 |**2023-01-14**|**Failure Tolerant Training with Persistent Memory Disaggregation over CXL**|Miryeong Kwon et.al.|[2301.07492v1](http://arxiv.org/abs/2301.07492v1)|null|
@@ -1038,8 +1044,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-19**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
+|**2023-01-19**|**GIPA++: A General Information Propagation Algorithm for Graph Learning**|Houyi Li et.al.|[2301.08209v1](http://arxiv.org/abs/2301.08209v1)|null|
+|**2023-01-19**|**PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for Traffic Flow Prediction**|Jiawei Jiang et.al.|[2301.07945v1](http://arxiv.org/abs/2301.07945v1)|**[link](https://github.com/BUAABIGSCity/PDFormer)**|
 |**2023-01-18**|**A Comparative Analysis of Bias Amplification in Graph Neural Network Approaches for Recommender Systems**|Nikzad Chizari et.al.|[2301.07639v1](http://arxiv.org/abs/2301.07639v1)|null|
-|**2023-01-18**|**ReFresh: Reducing Memory Access from Exploiting Stable Historical Embeddings for Graph Neural Network Training**|Kezhao Huang et.al.|[2301.07482v1](http://arxiv.org/abs/2301.07482v1)|null|
+|**2023-01-19**|**ReFresh: Reducing Memory Access from Exploiting Stable Historical Embeddings for Graph Neural Network Training**|Kezhao Huang et.al.|[2301.07482v2](http://arxiv.org/abs/2301.07482v2)|null|
 |**2023-01-17**|**Heterogeneous Multi-Robot Reinforcement Learning**|Matteo Bettini et.al.|[2301.07137v1](http://arxiv.org/abs/2301.07137v1)|**[link](https://github.com/proroklab/vectorizedmultiagentsimulator)**|
 |**2023-01-18**|**- Modelling Difference Between Censored and Uncensored Electric Vehicle Charging Demand**|Frederik Boe Hüttel et.al.|[2301.06418v2](http://arxiv.org/abs/2301.06418v2)|null|
 |**2023-01-16**|**PIGEON: Optimizing CUDA Code Generator for End-to-End Training and Inference of Relational Graph Neural Networks**|Kun Wu et.al.|[2301.06284v1](http://arxiv.org/abs/2301.06284v1)|null|
