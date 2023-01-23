@@ -25,6 +25,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-19**|**Reversing The Twenty Questions Game**|Parth Parikh et.al.|[2301.08718v1](http://arxiv.org/abs/2301.08718v1)|null|
+|**2023-01-20**|**Which Features are Learned by CodeBert: An Empirical Study of the BERT-based Source Code Representation Learning**|Lan Zhang et.al.|[2301.08427v1](http://arxiv.org/abs/2301.08427v1)|null|
+|**2023-01-19**|**A Survey of research in Deep Learning for Robotics for Undergraduate research interns**|Narayanan PP et.al.|[2301.08283v1](http://arxiv.org/abs/2301.08283v1)|null|
 |**2023-01-19**|**Language Embeddings Sometimes Contain Typological Generalizations**|Robert Östling et.al.|[2301.08115v1](http://arxiv.org/abs/2301.08115v1)|null|
 |**2023-01-18**|**Automatically Reproducing Android Bug Reports Using Natural Language Processing and Reinforcement Learning**|Zhaoxu Zhang et.al.|[2301.07775v1](http://arxiv.org/abs/2301.07775v1)|null|
 |**2023-01-18**|**A Quantitative Exploration of Natural Language Processing Applications for Electricity Demand Analysis**|Yun Bai et.al.|[2301.07535v1](http://arxiv.org/abs/2301.07535v1)|null|
@@ -389,6 +392,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-20**|**A classification of metacyclic groups by group invariants**|Àngel García-Blázquez et.al.|[2301.08683v1](http://arxiv.org/abs/2301.08683v1)|null|
+|**2023-01-20**|**Transforming Unstructured Text into Data with Context Rule Assisted Machine Learning (CRAML)**|Stephen Meisenbacher et.al.|[2301.08549v1](http://arxiv.org/abs/2301.08549v1)|null|
+|**2023-01-20**|**Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network**|Mingyi Liu et.al.|[2301.08399v1](http://arxiv.org/abs/2301.08399v1)|**[link](https://github.com/hit-ices/tnnls-mtgn)**|
 |**2023-01-17**|**Which Model Shall I Choose? Cost/Quality Trade-offs for Text Classification Tasks**|Shi Zong et.al.|[2301.07006v1](http://arxiv.org/abs/2301.07006v1)|null|
 |**2023-01-17**|**BERT-ERC: Fine-tuning BERT is Enough for Emotion Recognition in Conversation**|Xiangyu Qin et.al.|[2301.06745v1](http://arxiv.org/abs/2301.06745v1)|null|
 |**2023-01-16**|**TEDB System Description to a Shared Task on Euphemism Detection 2022**|Peratham Wiriyathammabhum et.al.|[2301.06602v1](http://arxiv.org/abs/2301.06602v1)|null|
@@ -496,6 +502,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-20**|**Machine Translation for Accessible Multi-Language Text Analysis**|Edward W. Chew et.al.|[2301.08416v1](http://arxiv.org/abs/2301.08416v1)|null|
+|**2023-01-19**|**Sentiment Analysis for Measuring Hope and Fear from Reddit Posts During the 2022 Russo-Ukrainian Conflict**|Alessio Guerra et.al.|[2301.08347v1](http://arxiv.org/abs/2301.08347v1)|null|
 |**2023-01-17**|**The Recent Advances in Automatic Term Extraction: A survey**|Hanh Thi Hong Tran et.al.|[2301.06767v1](http://arxiv.org/abs/2301.06767v1)|null|
 |**2023-01-17**|**Word Embeddings as Statistical Estimators**|Neil Dey et.al.|[2301.06710v1](http://arxiv.org/abs/2301.06710v1)|**[link](https://github.com/neil-dey/word-embeddings-as-estimators)**|
 |**2023-01-16**|**TEDB System Description to a Shared Task on Euphemism Detection 2022**|Peratham Wiriyathammabhum et.al.|[2301.06602v1](http://arxiv.org/abs/2301.06602v1)|null|
@@ -603,6 +611,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-19**|**Reversing The Twenty Questions Game**|Parth Parikh et.al.|[2301.08718v1](http://arxiv.org/abs/2301.08718v1)|null|
 |**2023-01-18**|**Temporal Perceiving Video-Language Pre-training**|Fan Ma et.al.|[2301.07463v1](http://arxiv.org/abs/2301.07463v1)|null|
 |**2023-01-18**|**Towards Models that Can See and Read**|Roy Ganz et.al.|[2301.07389v1](http://arxiv.org/abs/2301.07389v1)|null|
 |**2023-01-17**|**Curriculum Script Distillation for Multilingual Visual Question Answering**|Khyathi Raghavi Chandu et.al.|[2301.07227v1](http://arxiv.org/abs/2301.07227v1)|null|
@@ -822,6 +831,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-20**|**Generative Slate Recommendation with Reinforcement Learning**|Romain Deffayet et.al.|[2301.08632v1](http://arxiv.org/abs/2301.08632v1)|null|
 |**2023-01-19**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
 |**2023-01-19**|**Individual Fairness for Social Media Influencers**|Stefania Ionescu et.al.|[2301.08177v1](http://arxiv.org/abs/2301.08177v1)|null|
 |**2023-01-17**|**Towards the design of user-centric strategy recommendation systems for collaborative Human-AI tasks**|Lakshita Dodeja et.al.|[2301.08144v1](http://arxiv.org/abs/2301.08144v1)|null|
@@ -936,6 +946,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-20**|**Introducing Expertise Logic into Graph Representation Learning from A Causal Perspective**|Hang Gao et.al.|[2301.08496v1](http://arxiv.org/abs/2301.08496v1)|null|
+|**2023-01-20**|**causalgraph: A Python Package for Modeling, Persisting and Visualizing Causal Graphs Embedded in Knowledge Graphs**|Sven Pieper et.al.|[2301.08490v1](http://arxiv.org/abs/2301.08490v1)|null|
+|**2023-01-20**|**Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network**|Mingyi Liu et.al.|[2301.08399v1](http://arxiv.org/abs/2301.08399v1)|**[link](https://github.com/hit-ices/tnnls-mtgn)**|
 |**2023-01-18**|**A Workflow Model for Holistic Data Management and Semantic Interoperability in Quantitative Archival Research**|Pavlos Fafalios et.al.|[2301.07676v1](http://arxiv.org/abs/2301.07676v1)|null|
 |**2023-01-17**|**Towards Improving the Explainability of Text-based Information Retrieval with Knowledge Graphs**|Boqi Chen et.al.|[2301.06974v1](http://arxiv.org/abs/2301.06974v1)|**[link](https://github.com/aggregate-intellect/xir)**|
 |**2023-01-17**|**Knowledge Acquisition and Completion for Long-Term Human-Robot Interactions using Knowledge Graph Embedding**|E. Bartoli et.al.|[2301.06834v1](http://arxiv.org/abs/2301.06834v1)|null|
@@ -1044,6 +1057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-20**|**Introducing Expertise Logic into Graph Representation Learning from A Causal Perspective**|Hang Gao et.al.|[2301.08496v1](http://arxiv.org/abs/2301.08496v1)|null|
+|**2023-01-20**|**Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network**|Mingyi Liu et.al.|[2301.08399v1](http://arxiv.org/abs/2301.08399v1)|**[link](https://github.com/hit-ices/tnnls-mtgn)**|
 |**2023-01-19**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
 |**2023-01-19**|**GIPA++: A General Information Propagation Algorithm for Graph Learning**|Houyi Li et.al.|[2301.08209v1](http://arxiv.org/abs/2301.08209v1)|null|
 |**2023-01-19**|**PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for Traffic Flow Prediction**|Jiawei Jiang et.al.|[2301.07945v1](http://arxiv.org/abs/2301.07945v1)|**[link](https://github.com/BUAABIGSCity/PDFormer)**|
