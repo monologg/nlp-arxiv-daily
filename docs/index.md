@@ -36,7 +36,7 @@ layout: default
 |**2023-01-17**|**The Recent Advances in Automatic Term Extraction: A survey**|Hanh Thi Hong Tran et.al.|[2301.06767v1](http://arxiv.org/abs/2301.06767v1)|null|
 |**2023-01-17**|**Word Embeddings as Statistical Estimators**|Neil Dey et.al.|[2301.06710v1](http://arxiv.org/abs/2301.06710v1)|**[link](https://github.com/neil-dey/word-embeddings-as-estimators)**|
 |**2023-01-16**|**XNLI 2.0: Improving XNLI dataset and performance on Cross Lingual Understanding (XLU)**|Ankit Kumar Upadhyay et.al.|[2301.06527v1](http://arxiv.org/abs/2301.06527v1)|null|
-|**2023-01-13**|**A Survey of Self-Supervised Learning from Multiple Perspectives: Algorithms, Theory, Applications and Future Trends**|Jie Gui et.al.|[2301.05712v1](http://arxiv.org/abs/2301.05712v1)|null|
+|**2023-01-13**|**A Survey of Self-Supervised Learning from Multiple Perspectives: Algorithms, Theory, Applications and Future Trends**|Jie Gui et.al.|[2301.05712v1](http://arxiv.org/abs/2301.05712v1)|**[link](https://github.com/guijiejie/ssl)**|
 |**2023-01-13**|**Natural Language Processing of Aviation Occurrence Reports for Safety Management**|Patrick Jonk et.al.|[2301.05663v1](http://arxiv.org/abs/2301.05663v1)|**[link](https://github.com/aviationnlp/nlp_aviation_safety)**|
 |**2023-01-13**|**The 2022 n2c2/UW Shared Task on Extracting Social Determinants of Health**|Kevin Lybarger et.al.|[2301.05571v1](http://arxiv.org/abs/2301.05571v1)|null|
 |**2023-01-12**|**Rock Guitar Tablature Generation via Natural Language Processing**|Josue Casco-Rodriguez et.al.|[2301.05295v1](http://arxiv.org/abs/2301.05295v1)|**[link](https://github.com/josuelmet/metal-music-interpolator)**|
@@ -956,7 +956,7 @@ layout: default
 |**2023-01-04**|**Enriching the scholarly metadata commons with citation metadata and spatio-temporal metadata to support responsible research assessment and research discovery**|Daniel Nüst et.al.|[2301.01502v1](http://arxiv.org/abs/2301.01502v1)|null|
 |**2023-01-03**|**Semantic Units: Organizing knowledge graphs into semantically meaningful units of representation**|Lars Vogt et.al.|[2301.01227v1](http://arxiv.org/abs/2301.01227v1)|null|
 |**2023-01-03**|**A Survey On Few-shot Knowledge Graph Completion with Structural and Commonsense Knowledge**|Haodi Ma et.al.|[2301.01172v1](http://arxiv.org/abs/2301.01172v1)|null|
-|**2023-01-03**|**Analogical Inference Enhanced Knowledge Graph Embedding**|Yao Zhen et.al.|[2301.00982v1](http://arxiv.org/abs/2301.00982v1)|null|
+|**2023-01-03**|**Analogical Inference Enhanced Knowledge Graph Embedding**|Yao Zhen et.al.|[2301.00982v1](http://arxiv.org/abs/2301.00982v1)|**[link](https://github.com/zjukg/ankge)**|
 |**2023-01-02**|**IRT2: Inductive Linking and Ranking in Knowledge Graphs of Varying Scale**|Felix Hamann et.al.|[2301.00716v1](http://arxiv.org/abs/2301.00716v1)|**[link](https://github.com/lavis-nlp/irt2)**|
 |**2023-01-02**|**A Concept Knowledge Graph for User Next Intent Prediction at Alipay**|Yacheng He et.al.|[2301.00503v1](http://arxiv.org/abs/2301.00503v1)|null|
 |**2023-01-16**|**MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid**|Zhuo Chen et.al.|[2212.14454v2](http://arxiv.org/abs/2212.14454v2)|null|
