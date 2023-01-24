@@ -21,9 +21,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-22**|**Face Generation from Textual Features using Conditionally Trained Inputs to Generative Adversarial Networks**|Sandeep Shinde et.al.|[2301.09123v1](http://arxiv.org/abs/2301.09123v1)|null|
+|**2023-01-22**|**Differentially Private Natural Language Models: Recent Advances and Future Directions**|Lijie Hu et.al.|[2301.09112v1](http://arxiv.org/abs/2301.09112v1)|null|
+|**2023-01-22**|**Learning to Reject with a Fixed Predictor: Application to Decontextualization**|Christopher Mohri et.al.|[2301.09044v1](http://arxiv.org/abs/2301.09044v1)|null|
+|**2023-01-21**|**A Semantic Modular Framework for Events Topic Modeling in Social Media**|Arya Hadizadeh Moghaddam et.al.|[2301.09009v1](http://arxiv.org/abs/2301.09009v1)|null|
+|**2023-01-21**|**Blacks is to Anger as Whites is to Joy? Understanding Latent Affective Bias in Large Pre-trained Neural Language Models**|Anoop Kadan et.al.|[2301.09003v1](http://arxiv.org/abs/2301.09003v1)|null|
+|**2023-01-21**|**Exploring Methods for Building Dialects-Mandarin Code-Mixing Corpora: A Case Study in Taiwanese Hokkien**|Sin-En Lu et.al.|[2301.08937v1](http://arxiv.org/abs/2301.08937v1)|**[link](https://github.com/alznn/taiwanese-hokkien_mandarin_cm_dataset)**|
+|**2023-01-21**|**Rationalization for Explainable NLP: A Survey**|Sai Gurrapu et.al.|[2301.08912v1](http://arxiv.org/abs/2301.08912v1)|null|
+|**2023-01-20**|**A Review of the Trends and Challenges in Adopting Natural Language Processing Methods for Education Feedback Analysis**|Thanveer Shaik et.al.|[2301.08826v1](http://arxiv.org/abs/2301.08826v1)|null|
 |**2023-01-19**|**Reversing The Twenty Questions Game**|Parth Parikh et.al.|[2301.08718v1](http://arxiv.org/abs/2301.08718v1)|null|
 |**2023-01-20**|**Which Features are Learned by CodeBert: An Empirical Study of the BERT-based Source Code Representation Learning**|Lan Zhang et.al.|[2301.08427v1](http://arxiv.org/abs/2301.08427v1)|null|
-|**2023-01-19**|**A Survey of research in Deep Learning for Robotics for Undergraduate research interns**|Narayanan PP et.al.|[2301.08283v1](http://arxiv.org/abs/2301.08283v1)|null|
+|**2023-01-23**|**A Survey of research in Deep Learning for Robotics for Undergraduate research interns**|Narayanan PP et.al.|[2301.08283v2](http://arxiv.org/abs/2301.08283v2)|null|
 |**2023-01-19**|**Language Embeddings Sometimes Contain Typological Generalizations**|Robert Östling et.al.|[2301.08115v1](http://arxiv.org/abs/2301.08115v1)|null|
 |**2023-01-18**|**Automatically Reproducing Android Bug Reports Using Natural Language Processing and Reinforcement Learning**|Zhaoxu Zhang et.al.|[2301.07775v1](http://arxiv.org/abs/2301.07775v1)|null|
 |**2023-01-18**|**A Quantitative Exploration of Natural Language Processing Applications for Electricity Demand Analysis**|Yun Bai et.al.|[2301.07535v1](http://arxiv.org/abs/2301.07535v1)|null|
@@ -281,6 +289,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-21**|**ProKD: An Unsupervised Prototypical Knowledge Distillation Network for Zero-Resource Cross-Lingual Named Entity Recognition**|Ling Ge et.al.|[2301.08855v1](http://arxiv.org/abs/2301.08855v1)|null|
 |**2023-01-17**|**SECOMlint: A linter for Security Commit Messages**|Sofia Reis et.al.|[2301.06959v1](http://arxiv.org/abs/2301.06959v1)|null|
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**A Dataset of Kurdish (Sorani) Named Entities -- An Amendment to Kurdish-BLARK Named Entities**|Sazan Salar et.al.|[2301.04962v1](http://arxiv.org/abs/2301.04962v1)|**[link](https://github.com/kurdishblark/kurdishnamedentities)**|
@@ -388,8 +397,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion**|Qitian Wu et.al.|[2301.09474v1](http://arxiv.org/abs/2301.09474v1)|null|
+|**2023-01-22**|**SPEC5G: A Dataset for 5G Cellular Network Protocol Analysis**|Imtiaz Karim et.al.|[2301.09201v1](http://arxiv.org/abs/2301.09201v1)|**[link](https://github.com/Imtiazkarimik23/SPEC5G)**|
+|**2023-01-21**|**Rationalization for Explainable NLP: A Survey**|Sai Gurrapu et.al.|[2301.08912v1](http://arxiv.org/abs/2301.08912v1)|null|
 |**2023-01-20**|**A classification of metacyclic groups by group invariants**|Àngel García-Blázquez et.al.|[2301.08683v1](http://arxiv.org/abs/2301.08683v1)|null|
-|**2023-01-20**|**Transforming Unstructured Text into Data with Context Rule Assisted Machine Learning (CRAML)**|Stephen Meisenbacher et.al.|[2301.08549v1](http://arxiv.org/abs/2301.08549v1)|null|
+|**2023-01-20**|**Transforming Unstructured Text into Data with Context Rule Assisted Machine Learning (CRAML)**|Stephen Meisenbacher et.al.|[2301.08549v1](http://arxiv.org/abs/2301.08549v1)|**[link](https://github.com/sjmeis/craml_beta)**|
 |**2023-01-20**|**Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network**|Mingyi Liu et.al.|[2301.08399v1](http://arxiv.org/abs/2301.08399v1)|**[link](https://github.com/hit-ices/tnnls-mtgn)**|
 |**2023-01-17**|**Which Model Shall I Choose? Cost/Quality Trade-offs for Text Classification Tasks**|Shi Zong et.al.|[2301.07006v1](http://arxiv.org/abs/2301.07006v1)|null|
 |**2023-01-17**|**BERT-ERC: Fine-tuning BERT is Enough for Emotion Recognition in Conversation**|Xiangyu Qin et.al.|[2301.06745v1](http://arxiv.org/abs/2301.06745v1)|null|
@@ -498,6 +510,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**StockEmotions: Discover Investor Emotions for Financial Sentiment Analysis and Multivariate Time Series**|Jean Lee et.al.|[2301.09279v1](http://arxiv.org/abs/2301.09279v1)|**[link](https://github.com/adlnlp/stockemotions)**|
+|**2023-01-21**|**A Hybrid Data-Driven Web-Based UI-UX Assessment Model**|Ebenezer Agbozo et.al.|[2301.08992v1](http://arxiv.org/abs/2301.08992v1)|null|
+|**2023-01-20**|**A Review of the Trends and Challenges in Adopting Natural Language Processing Methods for Education Feedback Analysis**|Thanveer Shaik et.al.|[2301.08826v1](http://arxiv.org/abs/2301.08826v1)|null|
 |**2023-01-20**|**Machine Translation for Accessible Multi-Language Text Analysis**|Edward W. Chew et.al.|[2301.08416v1](http://arxiv.org/abs/2301.08416v1)|null|
 |**2023-01-19**|**Sentiment Analysis for Measuring Hope and Fear from Reddit Posts During the 2022 Russo-Ukrainian Conflict**|Alessio Guerra et.al.|[2301.08347v1](http://arxiv.org/abs/2301.08347v1)|null|
 |**2023-01-17**|**The Recent Advances in Automatic Term Extraction: A survey**|Hanh Thi Hong Tran et.al.|[2301.06767v1](http://arxiv.org/abs/2301.06767v1)|null|
@@ -607,6 +622,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**HRVQA: A Visual Question Answering Benchmark for High-Resolution Aerial Images**|Kun Li et.al.|[2301.09460v1](http://arxiv.org/abs/2301.09460v1)|null|
+|**2023-01-22**|**Ensemble Transfer Learning for Multilingual Coreference Resolution**|Tuan Manh Lai et.al.|[2301.09175v1](http://arxiv.org/abs/2301.09175v1)|null|
+|**2023-01-22**|**Champion Solution for the WSDM2023 Toloka VQA Challenge**|Shengyi Gao et.al.|[2301.09045v1](http://arxiv.org/abs/2301.09045v1)|**[link](https://github.com/czczup/vit-adapter)**|
+|**2023-01-21**|**ExClaim: Explainable Neural Claim Verification Using Rationalization**|Sai Gurrapu et.al.|[2301.08914v1](http://arxiv.org/abs/2301.08914v1)|**[link](https://github.com/ai-vtrc/exclaim)**|
+|**2023-01-21**|**Rationalization for Explainable NLP: A Survey**|Sai Gurrapu et.al.|[2301.08912v1](http://arxiv.org/abs/2301.08912v1)|null|
 |**2023-01-19**|**Reversing The Twenty Questions Game**|Parth Parikh et.al.|[2301.08718v1](http://arxiv.org/abs/2301.08718v1)|null|
 |**2023-01-18**|**Temporal Perceiving Video-Language Pre-training**|Fan Ma et.al.|[2301.07463v1](http://arxiv.org/abs/2301.07463v1)|null|
 |**2023-01-18**|**Towards Models that Can See and Read**|Roy Ganz et.al.|[2301.07389v1](http://arxiv.org/abs/2301.07389v1)|null|
@@ -718,6 +738,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-22**|**Ensemble Transfer Learning for Multilingual Coreference Resolution**|Tuan Manh Lai et.al.|[2301.09175v1](http://arxiv.org/abs/2301.09175v1)|null|
 |**2023-01-14**|**Music Playlist Title Generation Using Artist Information**|Haven Kim et.al.|[2301.08145v1](http://arxiv.org/abs/2301.08145v1)|**[link](https://github.com/havenpersona/title_generation)**|
 |**2023-01-18**|**Gated-ViGAT: Efficient Bottom-Up Event Recognition and Explanation Using a New Frame Selection Policy and Gating Mechanism**|Nikolaos Gkalelis et.al.|[2301.07565v1](http://arxiv.org/abs/2301.07565v1)|**[link](https://github.com/bmezaris/gated-vigat)**|
 |**2023-01-17**|**Syntactically Robust Training on Partially-Observed Data for Open Information Extraction**|Ji Qi et.al.|[2301.06841v1](http://arxiv.org/abs/2301.06841v1)|**[link](https://github.com/qijimrc/robustoie)**|
@@ -827,6 +848,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-22**|**Federated Recommendation with Additive Personalization**|Zhiwei Li et.al.|[2301.09109v1](http://arxiv.org/abs/2301.09109v1)|null|
+|**2023-01-20**|**Inherent Limits on Topology-Based Link Prediction**|Justus I. Hibshman et.al.|[2301.08792v1](http://arxiv.org/abs/2301.08792v1)|null|
+|**2023-01-20**|**GBOSE: Generalized Bandit Orthogonalized Semiparametric Estimation**|Mubarrat Chowdhury et.al.|[2301.08781v1](http://arxiv.org/abs/2301.08781v1)|null|
 |**2023-01-20**|**Generative Slate Recommendation with Reinforcement Learning**|Romain Deffayet et.al.|[2301.08632v1](http://arxiv.org/abs/2301.08632v1)|null|
 |**2023-01-19**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
 |**2023-01-19**|**Individual Fairness for Social Media Influencers**|Stefania Ionescu et.al.|[2301.08177v1](http://arxiv.org/abs/2301.08177v1)|null|
@@ -942,8 +966,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-21**|**Unifying Structure Reasoning and Language Model Pre-training for Complex Reasoning**|Siyuan Wang et.al.|[2301.08913v1](http://arxiv.org/abs/2301.08913v1)|null|
+|**2023-01-21**|**Logical Message Passing Networks with One-hop Inference on Atomic Formulas**|Zihao Wang et.al.|[2301.08859v1](http://arxiv.org/abs/2301.08859v1)|null|
 |**2023-01-20**|**Introducing Expertise Logic into Graph Representation Learning from A Causal Perspective**|Hang Gao et.al.|[2301.08496v1](http://arxiv.org/abs/2301.08496v1)|null|
-|**2023-01-20**|**causalgraph: A Python Package for Modeling, Persisting and Visualizing Causal Graphs Embedded in Knowledge Graphs**|Sven Pieper et.al.|[2301.08490v1](http://arxiv.org/abs/2301.08490v1)|null|
+|**2023-01-20**|**causalgraph: A Python Package for Modeling, Persisting and Visualizing Causal Graphs Embedded in Knowledge Graphs**|Sven Pieper et.al.|[2301.08490v1](http://arxiv.org/abs/2301.08490v1)|**[link](https://github.com/causalgraph/causalgraph)**|
 |**2023-01-20**|**Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network**|Mingyi Liu et.al.|[2301.08399v1](http://arxiv.org/abs/2301.08399v1)|**[link](https://github.com/hit-ices/tnnls-mtgn)**|
 |**2023-01-18**|**A Workflow Model for Holistic Data Management and Semantic Interoperability in Quantitative Archival Research**|Pavlos Fafalios et.al.|[2301.07676v1](http://arxiv.org/abs/2301.07676v1)|null|
 |**2023-01-17**|**Towards Improving the Explainability of Text-based Information Retrieval with Knowledge Graphs**|Boqi Chen et.al.|[2301.06974v1](http://arxiv.org/abs/2301.06974v1)|**[link](https://github.com/aggregate-intellect/xir)**|
@@ -1053,6 +1079,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**Rethinking the Expressive Power of GNNs via Graph Biconnectivity**|Bohang Zhang et.al.|[2301.09505v1](http://arxiv.org/abs/2301.09505v1)|null|
+|**2023-01-23**|**On the Expressive Power of Geometric Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2301.09308v1](http://arxiv.org/abs/2301.09308v1)|**[link](https://github.com/chaitjo/geometric-gnn-dojo)**|
+|**2023-01-21**|**Is Signed Message Essential for Graph Neural Networks?**|Yoonhyuk Choi et.al.|[2301.08918v1](http://arxiv.org/abs/2301.08918v1)|null|
+|**2023-01-20**|**Explainable Multilayer Graph Neural Network for Cancer Gene Prediction**|Michail Chatzianastasis et.al.|[2301.08831v1](http://arxiv.org/abs/2301.08831v1)|**[link](https://github.com/zhanglab-aim/emgnn)**|
+|**2023-01-20**|**DoubleH: Twitter User Stance Detection via Bipartite Graph Neural Networks**|Chong Zhang et.al.|[2301.08774v1](http://arxiv.org/abs/2301.08774v1)|null|
 |**2023-01-20**|**Introducing Expertise Logic into Graph Representation Learning from A Causal Perspective**|Hang Gao et.al.|[2301.08496v1](http://arxiv.org/abs/2301.08496v1)|null|
 |**2023-01-20**|**Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network**|Mingyi Liu et.al.|[2301.08399v1](http://arxiv.org/abs/2301.08399v1)|**[link](https://github.com/hit-ices/tnnls-mtgn)**|
 |**2023-01-19**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
