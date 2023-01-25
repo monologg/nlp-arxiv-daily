@@ -21,11 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**A Framework To Improve User Story Sets Through Collaboration**|Salih Göktuğ Köse et.al.|[2301.10070v1](http://arxiv.org/abs/2301.10070v1)|null|
+|**2023-01-24**|**Multitask Instruction-based Prompting for Fallacy Recognition**|Tariq Alhindi et.al.|[2301.09992v1](http://arxiv.org/abs/2301.09992v1)|null|
+|**2023-01-24**|**Optimus-CC: Efficient Large NLP Model Training with 3D Parallelism Aware Communication Compression**|Jaeyong Song et.al.|[2301.09830v1](http://arxiv.org/abs/2301.09830v1)|null|
+|**2023-01-24**|**Transformer-Patcher: One Mistake worth One Neuron**|Zeyu Huang et.al.|[2301.09785v1](http://arxiv.org/abs/2301.09785v1)|**[link](https://github.com/zeroyuhuang/transformer-patcher)**|
+|**2023-01-23**|**Noisy Parallel Data Alignment**|Ruoyu Xie et.al.|[2301.09685v1](http://arxiv.org/abs/2301.09685v1)|null|
 |**2023-01-22**|**Face Generation from Textual Features using Conditionally Trained Inputs to Generative Adversarial Networks**|Sandeep Shinde et.al.|[2301.09123v1](http://arxiv.org/abs/2301.09123v1)|null|
 |**2023-01-22**|**Differentially Private Natural Language Models: Recent Advances and Future Directions**|Lijie Hu et.al.|[2301.09112v1](http://arxiv.org/abs/2301.09112v1)|null|
 |**2023-01-22**|**Learning to Reject with a Fixed Predictor: Application to Decontextualization**|Christopher Mohri et.al.|[2301.09044v1](http://arxiv.org/abs/2301.09044v1)|null|
 |**2023-01-21**|**A Semantic Modular Framework for Events Topic Modeling in Social Media**|Arya Hadizadeh Moghaddam et.al.|[2301.09009v1](http://arxiv.org/abs/2301.09009v1)|null|
-|**2023-01-21**|**Blacks is to Anger as Whites is to Joy? Understanding Latent Affective Bias in Large Pre-trained Neural Language Models**|Anoop Kadan et.al.|[2301.09003v1](http://arxiv.org/abs/2301.09003v1)|null|
+|**2023-01-21**|**Blacks is to Anger as Whites is to Joy? Understanding Latent Affective Bias in Large Pre-trained Neural Language Models**|Anoop Kadan et.al.|[2301.09003v1](http://arxiv.org/abs/2301.09003v1)|**[link](https://github.com/anoopkdcs/affective_bias_in_plm)**|
 |**2023-01-21**|**Exploring Methods for Building Dialects-Mandarin Code-Mixing Corpora: A Case Study in Taiwanese Hokkien**|Sin-En Lu et.al.|[2301.08937v1](http://arxiv.org/abs/2301.08937v1)|**[link](https://github.com/alznn/taiwanese-hokkien_mandarin_cm_dataset)**|
 |**2023-01-21**|**Rationalization for Explainable NLP: A Survey**|Sai Gurrapu et.al.|[2301.08912v1](http://arxiv.org/abs/2301.08912v1)|null|
 |**2023-01-20**|**A Review of the Trends and Challenges in Adopting Natural Language Processing Methods for Education Feedback Analysis**|Thanveer Shaik et.al.|[2301.08826v1](http://arxiv.org/abs/2301.08826v1)|null|
@@ -510,6 +515,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**Applications and Challenges of Sentiment Analysis in Real-life Scenarios**|Diptesh Kanojia et.al.|[2301.09912v1](http://arxiv.org/abs/2301.09912v1)|null|
 |**2023-01-23**|**StockEmotions: Discover Investor Emotions for Financial Sentiment Analysis and Multivariate Time Series**|Jean Lee et.al.|[2301.09279v1](http://arxiv.org/abs/2301.09279v1)|**[link](https://github.com/adlnlp/stockemotions)**|
 |**2023-01-21**|**A Hybrid Data-Driven Web-Based UI-UX Assessment Model**|Ebenezer Agbozo et.al.|[2301.08992v1](http://arxiv.org/abs/2301.08992v1)|null|
 |**2023-01-20**|**A Review of the Trends and Challenges in Adopting Natural Language Processing Methods for Education Feedback Analysis**|Thanveer Shaik et.al.|[2301.08826v1](http://arxiv.org/abs/2301.08826v1)|null|
@@ -622,6 +628,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**Multitask Instruction-based Prompting for Fallacy Recognition**|Tariq Alhindi et.al.|[2301.09992v1](http://arxiv.org/abs/2301.09992v1)|null|
+|**2023-01-23**|**PRIMEQA: The Prime Repository for State-of-the-Art MultilingualQuestion Answering Research and Development**|Avirup Sil et.al.|[2301.09715v1](http://arxiv.org/abs/2301.09715v1)|**[link](https://github.com/primeqa/primeqa)**|
+|**2023-01-21**|**Weakly-Supervised Questions for Zero-Shot Relation Extraction**|Saeed Najafi et.al.|[2301.09640v1](http://arxiv.org/abs/2301.09640v1)|**[link](https://github.com/fyshelab/qa-zre)**|
 |**2023-01-23**|**HRVQA: A Visual Question Answering Benchmark for High-Resolution Aerial Images**|Kun Li et.al.|[2301.09460v1](http://arxiv.org/abs/2301.09460v1)|null|
 |**2023-01-22**|**Ensemble Transfer Learning for Multilingual Coreference Resolution**|Tuan Manh Lai et.al.|[2301.09175v1](http://arxiv.org/abs/2301.09175v1)|null|
 |**2023-01-22**|**Champion Solution for the WSDM2023 Toloka VQA Challenge**|Shengyi Gao et.al.|[2301.09045v1](http://arxiv.org/abs/2301.09045v1)|**[link](https://github.com/czczup/vit-adapter)**|
@@ -738,12 +747,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**Cross-lingual German Biomedical Information Extraction: from Zero-shot to Human-in-the-Loop**|Siting Liang et.al.|[2301.09908v1](http://arxiv.org/abs/2301.09908v1)|null|
 |**2023-01-22**|**Ensemble Transfer Learning for Multilingual Coreference Resolution**|Tuan Manh Lai et.al.|[2301.09175v1](http://arxiv.org/abs/2301.09175v1)|null|
 |**2023-01-14**|**Music Playlist Title Generation Using Artist Information**|Haven Kim et.al.|[2301.08145v1](http://arxiv.org/abs/2301.08145v1)|**[link](https://github.com/havenpersona/title_generation)**|
 |**2023-01-18**|**Gated-ViGAT: Efficient Bottom-Up Event Recognition and Explanation Using a New Frame Selection Policy and Gating Mechanism**|Nikolaos Gkalelis et.al.|[2301.07565v1](http://arxiv.org/abs/2301.07565v1)|**[link](https://github.com/bmezaris/gated-vigat)**|
 |**2023-01-17**|**Syntactically Robust Training on Partially-Observed Data for Open Information Extraction**|Ji Qi et.al.|[2301.06841v1](http://arxiv.org/abs/2301.06841v1)|**[link](https://github.com/qijimrc/robustoie)**|
 |**2023-01-15**|**Rationalizing Predictions by Adversarial Information Calibration**|Lei Sha et.al.|[2301.06009v1](http://arxiv.org/abs/2301.06009v1)|null|
-|**2023-01-13**|**Development of a Two-Level ML Spatial-temporal Framework for Industrial Thermal Striping Applications**|Yu-Jou Wang et.al.|[2301.05667v1](http://arxiv.org/abs/2301.05667v1)|null|
+|**2023-01-23**|**Development of a Two-Level ML Spatial-temporal Framework for Industrial Thermal Striping Applications**|Yu-Jou Wang et.al.|[2301.05667v2](http://arxiv.org/abs/2301.05667v2)|null|
 |**2023-01-13**|**The 2022 n2c2/UW Shared Task on Extracting Social Determinants of Health**|Kevin Lybarger et.al.|[2301.05571v1](http://arxiv.org/abs/2301.05571v1)|null|
 |**2023-01-11**|**tieval: An Evaluation Framework for Temporal Information Extraction Systems**|Hugo Sousa et.al.|[2301.04643v1](http://arxiv.org/abs/2301.04643v1)|**[link](https://github.com/liaad/tieval)**|
 |**2023-01-11**|**Multilingual Entity and Relation Extraction from Unified to Language-specific Training**|Zixiang Wang et.al.|[2301.04434v1](http://arxiv.org/abs/2301.04434v1)|null|
@@ -848,10 +858,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-01-22**|**Federated Recommendation with Additive Personalization**|Zhiwei Li et.al.|[2301.09109v1](http://arxiv.org/abs/2301.09109v1)|null|
+|**2023-01-24**|**Bridging Systems: Open Problems for Countering Destructive Divisiveness across Ranking, Recommenders, and Governance**|Aviv Ovadya et.al.|[2301.09976v1](http://arxiv.org/abs/2301.09976v1)|null|
+|**2023-01-24**|**Federated Recommendation with Additive Personalization**|Zhiwei Li et.al.|[2301.09109v2](http://arxiv.org/abs/2301.09109v2)|null|
 |**2023-01-20**|**Inherent Limits on Topology-Based Link Prediction**|Justus I. Hibshman et.al.|[2301.08792v1](http://arxiv.org/abs/2301.08792v1)|null|
 |**2023-01-20**|**GBOSE: Generalized Bandit Orthogonalized Semiparametric Estimation**|Mubarrat Chowdhury et.al.|[2301.08781v1](http://arxiv.org/abs/2301.08781v1)|null|
-|**2023-01-20**|**Generative Slate Recommendation with Reinforcement Learning**|Romain Deffayet et.al.|[2301.08632v1](http://arxiv.org/abs/2301.08632v1)|null|
+|**2023-01-24**|**Generative Slate Recommendation with Reinforcement Learning**|Romain Deffayet et.al.|[2301.08632v2](http://arxiv.org/abs/2301.08632v2)|null|
 |**2023-01-19**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
 |**2023-01-19**|**Individual Fairness for Social Media Influencers**|Stefania Ionescu et.al.|[2301.08177v1](http://arxiv.org/abs/2301.08177v1)|null|
 |**2023-01-17**|**Towards the design of user-centric strategy recommendation systems for collaborative Human-AI tasks**|Lakshita Dodeja et.al.|[2301.08144v1](http://arxiv.org/abs/2301.08144v1)|null|
@@ -966,6 +977,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**The Semantic Scholar Open Data Platform**|Rodney Kinney et.al.|[2301.10140v1](http://arxiv.org/abs/2301.10140v1)|null|
+|**2023-01-24**|**Story Shaping: Teaching Agents Human-like Behavior with Stories**|Xiangyu Peng et.al.|[2301.10107v1](http://arxiv.org/abs/2301.10107v1)|null|
+|**2023-01-24**|**A Framework To Improve User Story Sets Through Collaboration**|Salih Göktuğ Köse et.al.|[2301.10070v1](http://arxiv.org/abs/2301.10070v1)|null|
+|**2023-01-24**|**Using Knowledge Graphs for Performance Prediction of Modular Optimization Algorithms**|Ana Kostovska et.al.|[2301.09876v1](http://arxiv.org/abs/2301.09876v1)|null|
 |**2023-01-21**|**Unifying Structure Reasoning and Language Model Pre-training for Complex Reasoning**|Siyuan Wang et.al.|[2301.08913v1](http://arxiv.org/abs/2301.08913v1)|null|
 |**2023-01-21**|**Logical Message Passing Networks with One-hop Inference on Atomic Formulas**|Zihao Wang et.al.|[2301.08859v1](http://arxiv.org/abs/2301.08859v1)|null|
 |**2023-01-20**|**Introducing Expertise Logic into Graph Representation Learning from A Causal Perspective**|Hang Gao et.al.|[2301.08496v1](http://arxiv.org/abs/2301.08496v1)|null|
@@ -1079,6 +1094,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**Learning To Dive In Branch And Bound**|Max B. Paulus et.al.|[2301.09943v1](http://arxiv.org/abs/2301.09943v1)|null|
+|**2023-01-24**|**Neighborhood Homophily-Guided Graph Convolutional Network**|Shengbo Gong et.al.|[2301.09851v1](http://arxiv.org/abs/2301.09851v1)|null|
+|**2023-01-23**|**Graph Neural Networks for Decentralized Multi-Agent Perimeter Defense**|Elijah S. Lee et.al.|[2301.09689v1](http://arxiv.org/abs/2301.09689v1)|null|
 |**2023-01-23**|**Rethinking the Expressive Power of GNNs via Graph Biconnectivity**|Bohang Zhang et.al.|[2301.09505v1](http://arxiv.org/abs/2301.09505v1)|null|
 |**2023-01-23**|**On the Expressive Power of Geometric Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2301.09308v1](http://arxiv.org/abs/2301.09308v1)|**[link](https://github.com/chaitjo/geometric-gnn-dojo)**|
 |**2023-01-21**|**Is Signed Message Essential for Graph Neural Networks?**|Yoonhyuk Choi et.al.|[2301.08918v1](http://arxiv.org/abs/2301.08918v1)|null|
