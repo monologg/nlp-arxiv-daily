@@ -21,6 +21,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**Semi-Automated Construction of Food Composition Knowledge Base**|Jason Youn et.al.|[2301.11322v1](http://arxiv.org/abs/2301.11322v1)|**[link](https://github.com/ibpa/semiautomatedfoodkbc)**|
+|**2023-01-26**|**LoRaLay: A Multilingual and Multimodal Dataset for Long Range and Layout-Aware Summarization**|Laura Nguyen et.al.|[2301.11312v1](http://arxiv.org/abs/2301.11312v1)|**[link](https://github.com/recitalai/loralay-modeling)**|
+|**2023-01-26**|**Box $^2$ EL: Concept and Role Box Embeddings for the Description Logic EL++**|Mathias Jackermeier et.al.|[2301.11118v1](http://arxiv.org/abs/2301.11118v1)|**[link](https://github.com/mathiasj33/boxsquaredel)**|
+|**2023-01-26**|**NLP as a Lens for Causal Analysis and Perception Mining to Infer Mental Health on Social Media**|Muskan Garg et.al.|[2301.11004v1](http://arxiv.org/abs/2301.11004v1)|null|
+|**2023-01-25**|**Qualitative Analysis of a Graph Transformer Approach to Addressing Hate Speech: Adapting to Dynamically Changing Content**|Liam Hebert et.al.|[2301.10871v1](http://arxiv.org/abs/2301.10871v1)|null|
 |**2023-01-25**|**Consistency is Key: Disentangling Label Variation in Natural Language Processing with Intra-Annotator Agreement**|Gavin Abercrombie et.al.|[2301.10684v1](http://arxiv.org/abs/2301.10684v1)|null|
 |**2023-01-25**|**Understanding and Improving Deep Graph Neural Networks: A Probabilistic Graphical Model Perspective**|Jiayuan Chen et.al.|[2301.10536v1](http://arxiv.org/abs/2301.10536v1)|null|
 |**2023-01-25**|**Cross-lingual Argument Mining in the Medical Domain**|Anar Yeginbergenova et.al.|[2301.10527v1](http://arxiv.org/abs/2301.10527v1)|null|
@@ -639,6 +644,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering**|Chenxi Whitehouse et.al.|[2301.10799v1](http://arxiv.org/abs/2301.10799v1)|null|
 |**2023-01-25**|**XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models**|Davis Liang et.al.|[2301.10472v1](http://arxiv.org/abs/2301.10472v1)|null|
 |**2023-01-25**|**Pre-computed memory or on-the-fly encoding? A hybrid approach to retrieval augmentation makes the most of your compute**|Michiel de Jong et.al.|[2301.10448v1](http://arxiv.org/abs/2301.10448v1)|null|
 |**2023-01-25**|**ViDeBERTa: A powerful pre-trained language model for Vietnamese**|Cong Dao Tran et.al.|[2301.10439v1](http://arxiv.org/abs/2301.10439v1)|**[link](https://github.com/hysonlab/videberta)**|
@@ -874,6 +880,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-26**|**A Graph Neural Network with Negative Message Passing for Graph Coloring**|Xiangyu Wang et.al.|[2301.11164v1](http://arxiv.org/abs/2301.11164v1)|null|
+|**2023-01-26**|**Graph-based Recommendation for Sparse and Heterogeneous User Interactions**|Simone Borg Bruun et.al.|[2301.11009v1](http://arxiv.org/abs/2301.11009v1)|**[link](https://github.com/simonebbruun/genetically_optimized_graph_rs)**|
+|**2023-01-26**|**Design aesthetics recommender system based on customer profile and wanted affect**|Brahim Benaissa et.al.|[2301.10984v1](http://arxiv.org/abs/2301.10984v1)|null|
+|**2023-01-26**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964v1](http://arxiv.org/abs/2301.10964v1)|null|
+|**2023-01-26**|**Evolution of Filter Bubbles and Polarization in News Recommendation**|Han Zhang et.al.|[2301.10926v1](http://arxiv.org/abs/2301.10926v1)|null|
 |**2023-01-25**|**Transferable Fairness for Cold-Start Recommendation**|Yunqi Li et.al.|[2301.10665v1](http://arxiv.org/abs/2301.10665v1)|null|
 |**2023-01-25**|**Spatio-Temporal Graph Neural Networks: A Survey**|Zahraa Al Sahili et.al.|[2301.10569v1](http://arxiv.org/abs/2301.10569v1)|null|
 |**2023-01-25**|**Learning to Rank Normalized Entropy Curves with Differentiable Window Transformation**|Hanyang Liu et.al.|[2301.10443v1](http://arxiv.org/abs/2301.10443v1)|null|
@@ -996,6 +1007,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-26**|**Understanding Finetuning for Factual Knowledge Extraction from Language Models**|Mehran Kazemi et.al.|[2301.11293v1](http://arxiv.org/abs/2301.11293v1)|null|
+|**2023-01-26**|**Box $^2$ EL: Concept and Role Box Embeddings for the Description Logic EL++**|Mathias Jackermeier et.al.|[2301.11118v1](http://arxiv.org/abs/2301.11118v1)|**[link](https://github.com/mathiasj33/boxsquaredel)**|
+|**2023-01-26**|**Towards Knowledge-Centric Process Mining**|Asjad Khan et.al.|[2301.10927v1](http://arxiv.org/abs/2301.10927v1)|null|
 |**2023-01-25**|**Editing Language Model-based Knowledge Graph Embeddings**|Siyuan Cheng et.al.|[2301.10405v1](http://arxiv.org/abs/2301.10405v1)|**[link](https://github.com/zjunlp/promptkg)**|
 |**2023-01-24**|**The Semantic Scholar Open Data Platform**|Rodney Kinney et.al.|[2301.10140v1](http://arxiv.org/abs/2301.10140v1)|**[link](https://github.com/allenai/s2aff)**|
 |**2023-01-24**|**Story Shaping: Teaching Agents Human-like Behavior with Stories**|Xiangyu Peng et.al.|[2301.10107v1](http://arxiv.org/abs/2301.10107v1)|null|
@@ -1114,6 +1128,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-26**|**A Graph Neural Network with Negative Message Passing for Graph Coloring**|Xiangyu Wang et.al.|[2301.11164v1](http://arxiv.org/abs/2301.11164v1)|null|
+|**2023-01-26**|**WL meet VC**|Christopher Morris et.al.|[2301.11039v1](http://arxiv.org/abs/2301.11039v1)|**[link](https://github.com/chrsmrrs/wl_vs_vs)**|
+|**2023-01-26**|**PerfSAGE: Generalized Inference Performance Predictor for Arbitrary Deep Learning Models on Edge Devices**|Yuji Chai et.al.|[2301.10999v1](http://arxiv.org/abs/2301.10999v1)|null|
+|**2023-01-26**|**Graph Neural Networks can Recover the Hidden Features Solely from the Graph Structure**|Ryoma Sato et.al.|[2301.10956v1](http://arxiv.org/abs/2301.10956v1)|null|
+|**2023-01-25**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v1](http://arxiv.org/abs/2301.10808v1)|null|
 |**2023-01-25**|**Spatio-Temporal Graph Neural Networks: A Survey**|Zahraa Al Sahili et.al.|[2301.10569v1](http://arxiv.org/abs/2301.10569v1)|null|
 |**2023-01-25**|**Understanding and Improving Deep Graph Neural Networks: A Probabilistic Graphical Model Perspective**|Jiayuan Chen et.al.|[2301.10536v1](http://arxiv.org/abs/2301.10536v1)|null|
 |**2023-01-25**|**E(n)-equivariant Graph Neural Cellular Automata**|Gennaro Gala et.al.|[2301.10497v1](http://arxiv.org/abs/2301.10497v1)|**[link](https://github.com/gengala/egnca)**|
