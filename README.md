@@ -21,6 +21,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-27**|**A Comparative Study of Pretrained Language Models for Long Clinical Text**|Yikuan Li et.al.|[2301.11847v1](http://arxiv.org/abs/2301.11847v1)|**[link](https://github.com/luoyuanlab/clinical-longformer)**|
+|**2023-01-27**|**Incorporating Knowledge into Document Summarization: an Application of Prefix-Tuning on GPT-2**|Chen Chen et.al.|[2301.11719v1](http://arxiv.org/abs/2301.11719v1)|null|
+|**2023-01-27**|**SLCNN: Sentence-Level Convolutional Neural Network for Text Classification**|Ali Jarrahi et.al.|[2301.11696v1](http://arxiv.org/abs/2301.11696v1)|null|
+|**2023-01-27**|**A rule-free workflow for the automated generation of databases from scientific literature**|Luke P. J. Gilligan et.al.|[2301.11689v1](http://arxiv.org/abs/2301.11689v1)|null|
+|**2023-01-27**|**Down the Rabbit Hole: Detecting Online Extremism, Radicalisation, and Politicised Hate Speech**|Jarod Govers et.al.|[2301.11579v1](http://arxiv.org/abs/2301.11579v1)|null|
+|**2023-01-26**|**Beyond Arabic: Software for Perso-Arabic Script Manipulation**|Alexander Gutkin et.al.|[2301.11406v1](http://arxiv.org/abs/2301.11406v1)|null|
 |**2023-01-24**|**Semi-Automated Construction of Food Composition Knowledge Base**|Jason Youn et.al.|[2301.11322v1](http://arxiv.org/abs/2301.11322v1)|**[link](https://github.com/ibpa/semiautomatedfoodkbc)**|
 |**2023-01-26**|**LoRaLay: A Multilingual and Multimodal Dataset for Long Range and Layout-Aware Summarization**|Laura Nguyen et.al.|[2301.11312v1](http://arxiv.org/abs/2301.11312v1)|**[link](https://github.com/recitalai/loralay-modeling)**|
 |**2023-01-26**|**Box $^2$ EL: Concept and Role Box Embeddings for the Description Logic EL++**|Mathias Jackermeier et.al.|[2301.11118v1](http://arxiv.org/abs/2301.11118v1)|**[link](https://github.com/mathiasj33/boxsquaredel)**|
@@ -305,6 +311,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-27**|**A Comparative Study of Pretrained Language Models for Long Clinical Text**|Yikuan Li et.al.|[2301.11847v1](http://arxiv.org/abs/2301.11847v1)|**[link](https://github.com/luoyuanlab/clinical-longformer)**|
 |**2023-01-25**|**XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models**|Davis Liang et.al.|[2301.10472v1](http://arxiv.org/abs/2301.10472v1)|null|
 |**2023-01-25**|**ViDeBERTa: A powerful pre-trained language model for Vietnamese**|Cong Dao Tran et.al.|[2301.10439v1](http://arxiv.org/abs/2301.10439v1)|**[link](https://github.com/hysonlab/videberta)**|
 |**2023-01-21**|**ProKD: An Unsupervised Prototypical Knowledge Distillation Network for Zero-Resource Cross-Lingual Named Entity Recognition**|Ling Ge et.al.|[2301.08855v1](http://arxiv.org/abs/2301.08855v1)|null|
@@ -415,6 +422,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-27**|**Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**|Xinyi Wang et.al.|[2301.11916v1](http://arxiv.org/abs/2301.11916v1)|null|
+|**2023-01-27**|**A Comparative Study of Pretrained Language Models for Long Clinical Text**|Yikuan Li et.al.|[2301.11847v1](http://arxiv.org/abs/2301.11847v1)|**[link](https://github.com/luoyuanlab/clinical-longformer)**|
+|**2023-01-27**|**Deep Clustering Survival Machines with Interpretable Expert Distributions**|Bojian Hou et.al.|[2301.11826v1](http://arxiv.org/abs/2301.11826v1)|null|
+|**2023-01-27**|**SLCNN: Sentence-Level Convolutional Neural Network for Text Classification**|Ali Jarrahi et.al.|[2301.11696v1](http://arxiv.org/abs/2301.11696v1)|null|
 |**2023-01-25**|**SWING: Balancing Coverage and Faithfulness for Dialogue Summarization**|Kung-Hsiang Huang et.al.|[2301.10483v1](http://arxiv.org/abs/2301.10483v1)|**[link](https://github.com/amazon-science/aws-swing)**|
 |**2023-01-25**|**XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models**|Davis Liang et.al.|[2301.10472v1](http://arxiv.org/abs/2301.10472v1)|null|
 |**2023-01-25**|**When to Trust Aggregated Gradients: Addressing Negative Client Sampling in Federated Learning**|Wenkai Yang et.al.|[2301.10400v1](http://arxiv.org/abs/2301.10400v1)|null|
@@ -644,6 +655,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-27**|**A Comparative Study of Pretrained Language Models for Long Clinical Text**|Yikuan Li et.al.|[2301.11847v1](http://arxiv.org/abs/2301.11847v1)|**[link](https://github.com/luoyuanlab/clinical-longformer)**|
+|**2023-01-27**|**Graph Attention with Hierarchies for Multi-hop Question Answering**|Yunjie He et.al.|[2301.11792v1](http://arxiv.org/abs/2301.11792v1)|null|
+|**2023-01-27**|**ThoughtSource: A central hub for large language model reasoning data**|Simon Ott et.al.|[2301.11596v1](http://arxiv.org/abs/2301.11596v1)|null|
 |**2023-01-25**|**Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering**|Chenxi Whitehouse et.al.|[2301.10799v1](http://arxiv.org/abs/2301.10799v1)|null|
 |**2023-01-25**|**XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models**|Davis Liang et.al.|[2301.10472v1](http://arxiv.org/abs/2301.10472v1)|null|
 |**2023-01-25**|**Pre-computed memory or on-the-fly encoding? A hybrid approach to retrieval augmentation makes the most of your compute**|Michiel de Jong et.al.|[2301.10448v1](http://arxiv.org/abs/2301.10448v1)|null|
@@ -768,6 +782,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-26**|**Task formulation for Extracting Social Determinants of Health from Clinical Narratives**|Manabu Torii et.al.|[2301.11386v1](http://arxiv.org/abs/2301.11386v1)|null|
 |**2023-01-25**|**Flow-guided Semi-supervised Video Object Segmentation**|Yushan Zhang et.al.|[2301.10492v1](http://arxiv.org/abs/2301.10492v1)|null|
 |**2023-01-24**|**Cross-lingual German Biomedical Information Extraction: from Zero-shot to Human-in-the-Loop**|Siting Liang et.al.|[2301.09908v1](http://arxiv.org/abs/2301.09908v1)|null|
 |**2023-01-22**|**Ensemble Transfer Learning for Multilingual Coreference Resolution**|Tuan Manh Lai et.al.|[2301.09175v1](http://arxiv.org/abs/2301.09175v1)|null|
@@ -880,6 +895,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-27**|**Generating Synthetic Data for Conversational Music Recommendation Using Random Walks and Language Models**|Megan Leszczynski et.al.|[2301.11489v1](http://arxiv.org/abs/2301.11489v1)|null|
+|**2023-01-26**|**Cross-domain recommendation via user interest alignment**|Chuang Zhao et.al.|[2301.11467v1](http://arxiv.org/abs/2301.11467v1)|null|
 |**2023-01-26**|**A Graph Neural Network with Negative Message Passing for Graph Coloring**|Xiangyu Wang et.al.|[2301.11164v1](http://arxiv.org/abs/2301.11164v1)|null|
 |**2023-01-26**|**Graph-based Recommendation for Sparse and Heterogeneous User Interactions**|Simone Borg Bruun et.al.|[2301.11009v1](http://arxiv.org/abs/2301.11009v1)|**[link](https://github.com/simonebbruun/genetically_optimized_graph_rs)**|
 |**2023-01-26**|**Design aesthetics recommender system based on customer profile and wanted affect**|Brahim Benaissa et.al.|[2301.10984v1](http://arxiv.org/abs/2301.10984v1)|null|
@@ -1128,6 +1145,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-27**|**PhysGraph: Physics-Based Integration Using Graph Neural Networks**|Oshri Halimi et.al.|[2301.11841v1](http://arxiv.org/abs/2301.11841v1)|null|
+|**2023-01-27**|**TrojanSAINT: Gate-Level Netlist Sampling-Based Inductive Learning for Hardware Trojan Detection**|Hazem Lashen et.al.|[2301.11804v1](http://arxiv.org/abs/2301.11804v1)|null|
+|**2023-01-27**|**Graph Attention with Hierarchies for Multi-hop Question Answering**|Yunjie He et.al.|[2301.11792v1](http://arxiv.org/abs/2301.11792v1)|null|
+|**2023-01-27**|**Large-Scale Traffic Data Imputation with Spatiotemporal Semantic Understanding**|Kunpeng Zhang et.al.|[2301.11691v1](http://arxiv.org/abs/2301.11691v1)|**[link](https://github.com/kp-zhang/gt-tdi)**|
+|**2023-01-27**|**A Multi-View Joint Learning Framework for Embedding Clinical Codes and Text Using Graph Neural Networks**|Lecheng Kong et.al.|[2301.11608v1](http://arxiv.org/abs/2301.11608v1)|null|
+|**2023-01-27**|**Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration**|Xiangyu Zhao et.al.|[2301.11517v1](http://arxiv.org/abs/2301.11517v1)|**[link](https://github.com/victorzxy/graphac)**|
+|**2023-01-26**|**Efficiently predicting high resolution mass spectra with graph neural networks**|Michael Murphy et.al.|[2301.11419v1](http://arxiv.org/abs/2301.11419v1)|null|
+|**2023-01-26**|**MG-GNN: Multigrid Graph Neural Networks for Learning Multilevel Domain Decomposition Methods**|Ali Taghibakhshi et.al.|[2301.11378v1](http://arxiv.org/abs/2301.11378v1)|**[link](https://github.com/jrd971000/code-multilevel-mloras)**|
 |**2023-01-26**|**A Graph Neural Network with Negative Message Passing for Graph Coloring**|Xiangyu Wang et.al.|[2301.11164v1](http://arxiv.org/abs/2301.11164v1)|null|
 |**2023-01-26**|**WL meet VC**|Christopher Morris et.al.|[2301.11039v1](http://arxiv.org/abs/2301.11039v1)|**[link](https://github.com/chrsmrrs/wl_vs_vs)**|
 |**2023-01-26**|**PerfSAGE: Generalized Inference Performance Predictor for Arbitrary Deep Learning Models on Edge Devices**|Yuji Chai et.al.|[2301.10999v1](http://arxiv.org/abs/2301.10999v1)|null|
