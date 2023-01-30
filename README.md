@@ -47,7 +47,7 @@
 |**2023-01-19**|**Reversing The Twenty Questions Game**|Parth Parikh et.al.|[2301.08718v1](http://arxiv.org/abs/2301.08718v1)|null|
 |**2023-01-20**|**Which Features are Learned by CodeBert: An Empirical Study of the BERT-based Source Code Representation Learning**|Lan Zhang et.al.|[2301.08427v1](http://arxiv.org/abs/2301.08427v1)|null|
 |**2023-01-23**|**A Survey of research in Deep Learning for Robotics for Undergraduate research interns**|Narayanan PP et.al.|[2301.08283v2](http://arxiv.org/abs/2301.08283v2)|null|
-|**2023-01-19**|**Language Embeddings Sometimes Contain Typological Generalizations**|Robert Östling et.al.|[2301.08115v1](http://arxiv.org/abs/2301.08115v1)|null|
+|**2023-01-19**|**Language Embeddings Sometimes Contain Typological Generalizations**|Robert Östling et.al.|[2301.08115v1](http://arxiv.org/abs/2301.08115v1)|**[link](https://github.com/robertostling/parallel-text-typology)**|
 |**2023-01-18**|**Automatically Reproducing Android Bug Reports Using Natural Language Processing and Reinforcement Learning**|Zhaoxu Zhang et.al.|[2301.07775v1](http://arxiv.org/abs/2301.07775v1)|null|
 |**2023-01-18**|**A Quantitative Exploration of Natural Language Processing Applications for Electricity Demand Analysis**|Yun Bai et.al.|[2301.07535v1](http://arxiv.org/abs/2301.07535v1)|null|
 |**2023-01-18**|**Discrete Latent Structure in Neural Networks**|Vlad Niculae et.al.|[2301.07473v1](http://arxiv.org/abs/2301.07473v1)|null|
@@ -147,7 +147,7 @@
 |**2022-12-20**|**GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator**|Jian Yang et.al.|[2212.10218v1](http://arxiv.org/abs/2212.10218v1)|null|
 |**2022-12-20**|**Human-Guided Fair Classification for Natural Language Processing**|Florian E. Dorner et.al.|[2212.10154v1](http://arxiv.org/abs/2212.10154v1)|null|
 |**2022-12-20**|**When Federated Learning Meets Pre-trained Language Models' Parameter-Efficient Tuning Methods**|Zhuo Zhang et.al.|[2212.10025v1](http://arxiv.org/abs/2212.10025v1)|**[link](https://github.com/iezhuozhuo/fedetuning)**|
-|**2022-12-19**|**A Comparative Study on Textual Saliency of Styles from Eye Tracking, Annotations, and Language Models**|Karin de Langis et.al.|[2212.09873v1](http://arxiv.org/abs/2212.09873v1)|null|
+|**2022-12-19**|**A Comparative Study on Textual Saliency of Styles from Eye Tracking, Annotations, and Language Models**|Karin de Langis et.al.|[2212.09873v1](http://arxiv.org/abs/2212.09873v1)|**[link](https://github.com/minnesotanlp/eyestyliency)**|
 |**2022-12-19**|**Exploring Hybrid and Ensemble Models for Multiclass Prediction of Mental Health Status on Social Media**|Sourabh Zanwar et.al.|[2212.09839v1](http://arxiv.org/abs/2212.09839v1)|null|
 |**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|null|
 |**2022-12-19**|**MANER: Mask Augmented Named Entity Recognition for Extreme Low-Resource Languages**|Shashank Sonkar et.al.|[2212.09723v1](http://arxiv.org/abs/2212.09723v1)|null|
@@ -545,7 +545,7 @@
 |**2023-01-10**|**Sentiment-based Engagement Strategies for intuitive Human-Robot Interaction**|Thorsten Hempel et.al.|[2301.03867v1](http://arxiv.org/abs/2301.03867v1)|null|
 |**2023-01-10**|**The use of new technologies to support Public Administration. Sentiment analysis and the case of the app IO**|Vincenzo Miracula et.al.|[2301.03848v1](http://arxiv.org/abs/2301.03848v1)|null|
 |**2023-01-09**|**Machine Learning Algorithms for Depression Detection and Their Comparison**|Danish Muzafar et.al.|[2301.03222v1](http://arxiv.org/abs/2301.03222v1)|null|
-|**2023-01-09**|**Removing Non-Stationary Knowledge From Pre-Trained Language Models for Entity-Level Sentiment Classification in Finance**|Guijin Son et.al.|[2301.03136v1](http://arxiv.org/abs/2301.03136v1)|null|
+|**2023-01-09**|**Removing Non-Stationary Knowledge From Pre-Trained Language Models for Entity-Level Sentiment Classification in Finance**|Guijin Son et.al.|[2301.03136v1](http://arxiv.org/abs/2301.03136v1)|**[link](https://github.com/guijinSON/KorFin_ASC)**|
 |**2023-01-08**|**MEGAnno: Exploratory Labeling for NLP in Computational Notebooks**|Dan Zhang et.al.|[2301.03095v1](http://arxiv.org/abs/2301.03095v1)|null|
 |**2023-01-06**|**SAIDS: A Novel Approach for Sentiment Analysis Informed of Dialect and Sarcasm**|Abdelrahman Kaseb et.al.|[2301.02521v1](http://arxiv.org/abs/2301.02521v1)|null|
 |**2023-01-02**|**Tsetlin Machine Embedding: Representing Words Using Logical Expressions**|Bimal Bhattarai et.al.|[2301.00709v1](http://arxiv.org/abs/2301.00709v1)|**[link](https://github.com/cair/tmu)**|
