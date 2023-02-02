@@ -25,11 +25,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-01**|**Energy-Based Survival Models for Predictive Maintenance**|Olov Holmer et.al.|[2302.00629v1](http://arxiv.org/abs/2302.00629v1)|null|
+|**2023-02-01**|**Feed-Forward Blocks Control Contextualization in Masked Language Models**|Goro Kobayashi et.al.|[2302.00456v1](http://arxiv.org/abs/2302.00456v1)|null|
+|**2023-02-01**|**On the Role of Morphological Information for Contextual Lemmatization**|Olia Toporkov et.al.|[2302.00407v1](http://arxiv.org/abs/2302.00407v1)|null|
+|**2023-01-31**|**Large Language Models Can Be Easily Distracted by Irrelevant Context**|Freda Shi et.al.|[2302.00093v1](http://arxiv.org/abs/2302.00093v1)|null|
 |**2023-01-31**|**PADL: Language-Directed Physics-Based Character Control**|Jordan Juravsky et.al.|[2301.13868v1](http://arxiv.org/abs/2301.13868v1)|**[link](https://github.com/nv-tlabs/padl)**|
 |**2023-01-31**|**Partitioning Distributed Compute Jobs with Reinforcement Learning and Graph Neural Networks**|Christopher W. F. Parsonson et.al.|[2301.13799v1](http://arxiv.org/abs/2301.13799v1)|null|
 |**2023-01-31**|**Zero-shot cross-lingual transfer language selection using linguistic similarity**|Juuso Eronen et.al.|[2301.13720v1](http://arxiv.org/abs/2301.13720v1)|null|
 |**2023-01-31**|**Friend-training: Learning from Models of Different but Related Tasks**|Mian Zhang et.al.|[2301.13683v1](http://arxiv.org/abs/2301.13683v1)|null|
-|**2023-01-31**|**What Makes Good Examples for Visual In-Context Learning?**|Yuanhan Zhang et.al.|[2301.13670v1](http://arxiv.org/abs/2301.13670v1)|**[link](https://github.com/zhangyuanhan-ai/visual_prompt_retrieval)**|
+|**2023-02-01**|**What Makes Good Examples for Visual In-Context Learning?**|Yuanhan Zhang et.al.|[2301.13670v2](http://arxiv.org/abs/2301.13670v2)|**[link](https://github.com/zhangyuanhan-ai/visual_prompt_retrieval)**|
 |**2023-01-30**|**Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation**|Minglun Han et.al.|[2301.13003v1](http://arxiv.org/abs/2301.13003v1)|**[link](https://github.com/MingLunHan/CIF-PyTorch)**|
 |**2023-01-30**|**Exploring AI Ethics of ChatGPT: A Diagnostic Analysis**|Terry Yue Zhuo et.al.|[2301.12867v1](http://arxiv.org/abs/2301.12867v1)|null|
 |**2023-01-30**|**Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by Distorting Task-Agnostic Features**|Sishuo Chen et.al.|[2301.12715v1](http://arxiv.org/abs/2301.12715v1)|**[link](https://github.com/lancopku/gnome)**|
@@ -444,6 +448,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-01**|**Evaluating TCFD Reporting: A New Application of Zero-Shot Analysis to Climate-Related Financial Disclosures**|Alix Auzepy et.al.|[2302.00326v1](http://arxiv.org/abs/2302.00326v1)|null|
 |**2023-01-25**|**Improving the Inference of Topic Models via Infinite Latent State Replications**|Daniel Rugeles et.al.|[2301.12974v1](http://arxiv.org/abs/2301.12974v1)|null|
 |**2023-01-30**|**How Far Can It Go?: On Intrinsic Gender Bias Mitigation for Text Classification**|Ewoenam Tokpo et.al.|[2301.12855v1](http://arxiv.org/abs/2301.12855v1)|**[link](https://github.com/ewoet/intrinsic-gender-probe)**|
 |**2023-01-30**|**Knowledge Distillation $\approx$ Label Smoothing: Fact or Fallacy?**|Md Arafat Sultan et.al.|[2301.12609v1](http://arxiv.org/abs/2301.12609v1)|null|
@@ -684,6 +689,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-01**|**Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications**|Muhammad Arslan Manzoor et.al.|[2302.00389v1](http://arxiv.org/abs/2302.00389v1)|null|
 |**2023-01-31**|**PADL: Language-Directed Physics-Based Character Control**|Jordan Juravsky et.al.|[2301.13868v1](http://arxiv.org/abs/2301.13868v1)|**[link](https://github.com/nv-tlabs/padl)**|
 |**2023-01-31**|**Mathematical Capabilities of ChatGPT**|Simon Frieder et.al.|[2301.13867v1](http://arxiv.org/abs/2301.13867v1)|null|
 |**2023-01-31**|**UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**|Dachuan Shi et.al.|[2301.13741v1](http://arxiv.org/abs/2301.13741v1)|null|
@@ -936,6 +942,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-01**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
+|**2023-02-01**|**Clinical Decision Transformer: Intended Treatment Recommendation through Goal Prompting**|Seunghyun Lee et.al.|[2302.00612v1](http://arxiv.org/abs/2302.00612v1)|null|
+|**2023-02-01**|**Machine Learning for Visualization Recommendation Systems: Open Challenges and Future Directions**|Luca Podo et.al.|[2302.00569v1](http://arxiv.org/abs/2302.00569v1)|null|
+|**2023-02-01**|**Delayed Feedback in Kernel Bandits**|Sattar Vakili et.al.|[2302.00392v1](http://arxiv.org/abs/2302.00392v1)|null|
 |**2023-01-31**|**Quantum contextual bandits and recommender systems for quantum data**|Shrigyan Brahmachari et.al.|[2301.13524v1](http://arxiv.org/abs/2301.13524v1)|null|
 |**2023-01-31**|**Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits**|Yunlong Hou et.al.|[2301.13393v1](http://arxiv.org/abs/2301.13393v1)|null|
 |**2023-01-31**|**A Counterfactual Collaborative Session-based Recommender System**|Wenzhuo Song et.al.|[2301.13364v1](http://arxiv.org/abs/2301.13364v1)|**[link](https://github.com/wzsong17/coco-sbrs)**|
@@ -1200,6 +1210,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-01**|**Graph Neural Operators for Classification of Spatial Transcriptomics Data**|Junaid Ahmed et.al.|[2302.00658v1](http://arxiv.org/abs/2302.00658v1)|null|
+|**2023-02-01**|**Graph Neural Network Based Surrogate Model of Physics Simulations for Geometry Design**|Jian Cheng Wong et.al.|[2302.00557v1](http://arxiv.org/abs/2302.00557v1)|null|
+|**2023-02-01**|**Simple yet Effective Gradient-Free Graph Convolutional Networks**|Yulin Zhu et.al.|[2302.00371v1](http://arxiv.org/abs/2302.00371v1)|null|
+|**2023-02-01**|**Knowledge Distillation on Graphs: A Survey**|Yijun Tian et.al.|[2302.00219v1](http://arxiv.org/abs/2302.00219v1)|null|
+|**2023-02-01**|**$\rm A^2Q$ : Aggregation-Aware Quantization for Graph Neural Networks**|Zeyu Zhu et.al.|[2302.00193v1](http://arxiv.org/abs/2302.00193v1)|**[link](https://github.com/weihai-98/a-2q)**|
+|**2023-01-31**|**OrthoReg: Improving Graph-regularized MLPs via Orthogonality Regularization**|Hengrui Zhang et.al.|[2302.00109v1](http://arxiv.org/abs/2302.00109v1)|null|
 |**2023-01-31**|**Partitioning Distributed Compute Jobs with Reinforcement Learning and Graph Neural Networks**|Christopher W. F. Parsonson et.al.|[2301.13799v1](http://arxiv.org/abs/2301.13799v1)|null|
 |**2023-01-31**|**Semi-Supervised Classification with Graph Convolutional Kernel Machines**|Sonny Achten et.al.|[2301.13764v1](http://arxiv.org/abs/2301.13764v1)|null|
 |**2023-01-31**|**The passive symmetries of machine learning**|Soledad Villar et.al.|[2301.13724v1](http://arxiv.org/abs/2301.13724v1)|null|
