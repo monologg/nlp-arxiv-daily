@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-03**|**Analyzing the impact of climate change on critical infrastructure from the scientific literature: A weakly supervised NLP approach**|Tanwi Mallick et.al.|[2302.01887v1](http://arxiv.org/abs/2302.01887v1)|null|
+|**2023-02-03**|**Lexical Simplification using multi level and modular approach**|Nikita Katyal et.al.|[2302.01823v1](http://arxiv.org/abs/2302.01823v1)|null|
+|**2023-02-03**|**Mitigating Data Scarcity for Large Language Models**|Hoang Van et.al.|[2302.01806v1](http://arxiv.org/abs/2302.01806v1)|**[link](https://github.com/vanh17/techqa)**|
+|**2023-02-03**|**Bioformer: an efficient transformer language model for biomedical text mining**|Li Fang et.al.|[2302.01588v1](http://arxiv.org/abs/2302.01588v1)|null|
+|**2023-02-03**|**ResMem: Learn what you can and memorize the rest**|Zitong Yang et.al.|[2302.01576v1](http://arxiv.org/abs/2302.01576v1)|null|
+|**2023-02-03**|**Witgenstein's influence on artificial intelligence**|Piero Molino et.al.|[2302.01570v1](http://arxiv.org/abs/2302.01570v1)|null|
+|**2023-02-03**|**Using natural language processing and structured medical data to phenotype patients hospitalized due to COVID-19**|Feier Chang et.al.|[2302.01536v1](http://arxiv.org/abs/2302.01536v1)|null|
+|**2023-02-03**|**SPADE: Self-supervised Pretraining for Acoustic DisEntanglement**|John Harvill et.al.|[2302.01483v1](http://arxiv.org/abs/2302.01483v1)|null|
+|**2023-02-02**|**Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation**|Yiren Liu et.al.|[2302.01441v1](http://arxiv.org/abs/2302.01441v1)|null|
+|**2023-02-02**|**Mixed Precision Post Training Quantization of Neural Networks with Sensitivity Guided Search**|Clemens JS Schaefer et.al.|[2302.01382v1](http://arxiv.org/abs/2302.01382v1)|null|
 |**2023-02-02**|**Modeling opinion polarization on social media: application to Covid-19 vaccination hesitancy in Italy**|Jonathan Franceschi et.al.|[2302.01028v1](http://arxiv.org/abs/2302.01028v1)|null|
 |**2023-02-02**|**Resilient Binary Neural Network**|Sheng Xu et.al.|[2302.00956v1](http://arxiv.org/abs/2302.00956v1)|null|
 |**2023-02-02**|**How to choose "Good" Samples for Text Data Augmentation**|Xiaotian Lin et.al.|[2302.00894v1](http://arxiv.org/abs/2302.00894v1)|null|
@@ -344,10 +354,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-03**|**Bioformer: an efficient transformer language model for biomedical text mining**|Li Fang et.al.|[2302.01588v1](http://arxiv.org/abs/2302.01588v1)|null|
 |**2023-02-02**|**Predefined domain specific embeddings of food concepts and recipes: A case study on heterogeneous recipe datasets**|Gordana Ispirova et.al.|[2302.01005v1](http://arxiv.org/abs/2302.01005v1)|null|
 |**2023-01-31**|**Zero-shot cross-lingual transfer language selection using linguistic similarity**|Juuso Eronen et.al.|[2301.13720v1](http://arxiv.org/abs/2301.13720v1)|null|
 |**2023-01-27**|**A Comparative Study of Pretrained Language Models for Long Clinical Text**|Yikuan Li et.al.|[2301.11847v1](http://arxiv.org/abs/2301.11847v1)|**[link](https://github.com/luoyuanlab/clinical-longformer)**|
-|**2023-01-25**|**XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models**|Davis Liang et.al.|[2301.10472v1](http://arxiv.org/abs/2301.10472v1)|null|
+|**2023-01-25**|**XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models**|Davis Liang et.al.|[2301.10472v1](http://arxiv.org/abs/2301.10472v1)|**[link](https://github.com/davisliang/fairseq/tree/main/examples/xlmv)**|
 |**2023-01-25**|**ViDeBERTa: A powerful pre-trained language model for Vietnamese**|Cong Dao Tran et.al.|[2301.10439v1](http://arxiv.org/abs/2301.10439v1)|**[link](https://github.com/hysonlab/videberta)**|
 |**2023-01-21**|**ProKD: An Unsupervised Prototypical Knowledge Distillation Network for Zero-Resource Cross-Lingual Named Entity Recognition**|Ling Ge et.al.|[2301.08855v1](http://arxiv.org/abs/2301.08855v1)|null|
 |**2023-01-17**|**SECOMlint: A linter for Security Commit Messages**|Sofia Reis et.al.|[2301.06959v1](http://arxiv.org/abs/2301.06959v1)|null|
@@ -702,8 +713,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-03**|**LIQUID: A Framework for List Question Answering Dataset Generation**|Seongyun Lee et.al.|[2302.01691v1](http://arxiv.org/abs/2302.01691v1)|**[link](https://github.com/dmis-lab/liquid)**|
+|**2023-02-03**|**Bioformer: an efficient transformer language model for biomedical text mining**|Li Fang et.al.|[2302.01588v1](http://arxiv.org/abs/2302.01588v1)|null|
 |**2023-02-02**|**Combining Deep Neural Reranking and Unsupervised Extraction for Multi-Query Focused Summarization**|Philipp Seeberger et.al.|[2302.01148v1](http://arxiv.org/abs/2302.01148v1)|null|
-|**2023-02-02**|**Language Quantized AutoEncoders: Towards Unsupervised Text-Image Alignment**|Hao Liu et.al.|[2302.00902v1](http://arxiv.org/abs/2302.00902v1)|null|
+|**2023-02-03**|**Language Quantized AutoEncoders: Towards Unsupervised Text-Image Alignment**|Hao Liu et.al.|[2302.00902v2](http://arxiv.org/abs/2302.00902v2)|null|
 |**2023-02-02**|**idT5: Indonesian Version of Multilingual T5 Transformer**|Mukhlish Fuadi et.al.|[2302.00856v1](http://arxiv.org/abs/2302.00856v1)|null|
 |**2023-02-01**|**Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications**|Muhammad Arslan Manzoor et.al.|[2302.00389v1](http://arxiv.org/abs/2302.00389v1)|**[link](https://github.com/marslanm/multimodality-representation-learning)**|
 |**2023-01-31**|**PADL: Language-Directed Physics-Based Character Control**|Jordan Juravsky et.al.|[2301.13868v1](http://arxiv.org/abs/2301.13868v1)|**[link](https://github.com/nv-tlabs/padl)**|
@@ -960,6 +973,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-03**|**Reinforcing User Retention in a Billion Scale Short Video Recommender System**|Qingpeng Cai et.al.|[2302.01724v1](http://arxiv.org/abs/2302.01724v1)|null|
+|**2023-02-03**|**Two-Stage Constrained Actor-Critic fo Short Video Recommendation**|Qingpeng Cai et.al.|[2302.01680v1](http://arxiv.org/abs/2302.01680v1)|null|
+|**2023-02-03**|**Improving Recommendation Relevance by simulating User Interest**|Alexander Kushkuley et.al.|[2302.01522v1](http://arxiv.org/abs/2302.01522v1)|null|
+|**2023-02-03**|**Clustered Embedding Learning for Recommender Systems**|Yizhou Chen et.al.|[2302.01478v1](http://arxiv.org/abs/2302.01478v1)|null|
+|**2023-02-02**|**DOR: A Novel Dual-Observation-Based Approach for News Recommendation Systems**|Mengyan Wang et.al.|[2302.01443v1](http://arxiv.org/abs/2302.01443v1)|null|
+|**2023-02-02**|**Learning with Exposure Constraints in Recommendation Systems**|Omer Ben-Porat et.al.|[2302.01377v1](http://arxiv.org/abs/2302.01377v1)|null|
 |**2023-02-02**|**PEPNet: Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information**|Jianxin Chang et.al.|[2302.01115v1](http://arxiv.org/abs/2302.01115v1)|null|
 |**2023-02-01**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
 |**2023-02-01**|**Clinical Decision Transformer: Intended Treatment Recommendation through Goal Prompting**|Seunghyun Lee et.al.|[2302.00612v1](http://arxiv.org/abs/2302.00612v1)|null|
@@ -1101,6 +1120,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-03**|**Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs**|Mingyang Chen et.al.|[2302.01859v1](http://arxiv.org/abs/2302.01859v1)|null|
+|**2023-02-03**|**Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding**|Mingyang Chen et.al.|[2302.01849v1](http://arxiv.org/abs/2302.01849v1)|null|
+|**2023-02-03**|**A Case Study for Compliance as Code with Graphs and Language Models: Public release of the Regulatory Knowledge Graph**|Vladimir Ershov et.al.|[2302.01842v1](http://arxiv.org/abs/2302.01842v1)|**[link](https://github.com/vladimir-ershov/adgm-kg1)**|
 |**2023-02-02**|**Double Permutation Equivariance for Knowledge Graph Completion**|Jianfei Gao et.al.|[2302.01313v1](http://arxiv.org/abs/2302.01313v1)|null|
 |**2023-02-02**|**MetaTKG: Learning Evolutionary Meta-Knowledge for Temporal Knowledge Graph Reasoning**|Yuwei Xia et.al.|[2302.00893v1](http://arxiv.org/abs/2302.00893v1)|null|
 |**2023-02-01**|**Unsupervised Entity Alignment for Temporal Knowledge Graphs**|Xiaoze Liu et.al.|[2302.00796v1](http://arxiv.org/abs/2302.00796v1)|**[link](https://github.com/zju-daily/dualmatch)**|
@@ -1232,9 +1254,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-03**|**A Case Study for Compliance as Code with Graphs and Language Models: Public release of the Regulatory Knowledge Graph**|Vladimir Ershov et.al.|[2302.01842v1](http://arxiv.org/abs/2302.01842v1)|**[link](https://github.com/vladimir-ershov/adgm-kg1)**|
+|**2023-02-03**|**Graph Embedding for Mapping Interdisciplinary Research Networks**|Eoghan Cunningham et.al.|[2302.01826v1](http://arxiv.org/abs/2302.01826v1)|null|
+|**2023-02-02**|**GraphAGILE: An FPGA-based Overlay Accelerator for Low-latency GNN Inference**|Bingyi Zhang et.al.|[2302.01769v1](http://arxiv.org/abs/2302.01769v1)|null|
+|**2023-02-03**|**Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction**|Davide Costa et.al.|[2302.01676v1](http://arxiv.org/abs/2302.01676v1)|null|
+|**2023-02-03**|**Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing**|Yunchong Song et.al.|[2302.01524v1](http://arxiv.org/abs/2302.01524v1)|**[link](https://github.com/lumia-group/orderedgnn)**|
+|**2023-02-03**|**LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation**|Rui Xue et.al.|[2302.01503v1](http://arxiv.org/abs/2302.01503v1)|null|
 |**2023-02-02**|**Geometric Deep Learning for Autonomous Driving: Unlocking the Power of Graph Neural Networks With CommonRoad-Geometric**|Eivind Meyer et.al.|[2302.01259v1](http://arxiv.org/abs/2302.01259v1)|null|
-|**2023-02-02**|**Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities**|Antonio Longa et.al.|[2302.01018v1](http://arxiv.org/abs/2302.01018v1)|null|
-|**2023-02-02**|**Predicting Molecule-Target Interaction by Learning Biomedical Network and Molecule Representations**|Jinjiang Guo et.al.|[2302.00981v1](http://arxiv.org/abs/2302.00981v1)|null|
+|**2023-02-03**|**Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities**|Antonio Longa et.al.|[2302.01018v2](http://arxiv.org/abs/2302.01018v2)|null|
+|**2023-02-03**|**Predicting Molecule-Target Interaction by Learning Biomedical Network and Molecule Representations**|Jinjiang Guo et.al.|[2302.00981v2](http://arxiv.org/abs/2302.00981v2)|null|
 |**2023-02-02**|**LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence**|Zhihao Shi et.al.|[2302.00924v1](http://arxiv.org/abs/2302.00924v1)|null|
 |**2023-02-02**|**Quantum Graph Learning: Frontiers and Outlook**|Shuo Yu et.al.|[2302.00892v1](http://arxiv.org/abs/2302.00892v1)|null|
 |**2023-02-02**|**Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network**|Wendong Bi et.al.|[2302.00873v1](http://arxiv.org/abs/2302.00873v1)|null|
