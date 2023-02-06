@@ -55,7 +55,7 @@ layout: default
 |**2023-01-27**|**A Comparative Study of Pretrained Language Models for Long Clinical Text**|Yikuan Li et.al.|[2301.11847v1](http://arxiv.org/abs/2301.11847v1)|**[link](https://github.com/luoyuanlab/clinical-longformer)**|
 |**2023-01-27**|**Incorporating Knowledge into Document Summarization: an Application of Prefix-Tuning on GPT-2**|Chen Chen et.al.|[2301.11719v1](http://arxiv.org/abs/2301.11719v1)|null|
 |**2023-01-27**|**SLCNN: Sentence-Level Convolutional Neural Network for Text Classification**|Ali Jarrahi et.al.|[2301.11696v1](http://arxiv.org/abs/2301.11696v1)|null|
-|**2023-01-27**|**A rule-free workflow for the automated generation of databases from scientific literature**|Luke P. J. Gilligan et.al.|[2301.11689v1](http://arxiv.org/abs/2301.11689v1)|null|
+|**2023-01-27**|**A rule-free workflow for the automated generation of databases from scientific literature**|Luke P. J. Gilligan et.al.|[2301.11689v1](http://arxiv.org/abs/2301.11689v1)|**[link](https://github.com/stefanosanvitogroup/bert-psie-tc)**|
 |**2023-01-27**|**Down the Rabbit Hole: Detecting Online Extremism, Radicalisation, and Politicised Hate Speech**|Jarod Govers et.al.|[2301.11579v1](http://arxiv.org/abs/2301.11579v1)|null|
 |**2023-01-26**|**Beyond Arabic: Software for Perso-Arabic Script Manipulation**|Alexander Gutkin et.al.|[2301.11406v1](http://arxiv.org/abs/2301.11406v1)|null|
 |**2023-01-24**|**Semi-Automated Construction of Food Composition Knowledge Base**|Jason Youn et.al.|[2301.11322v1](http://arxiv.org/abs/2301.11322v1)|**[link](https://github.com/ibpa/semiautomatedfoodkbc)**|
@@ -363,7 +363,7 @@ layout: default
 |**2022-12-19**|**MANER: Mask Augmented Named Entity Recognition for Extreme Low-Resource Languages**|Shashank Sonkar et.al.|[2212.09723v1](http://arxiv.org/abs/2212.09723v1)|null|
 |**2022-12-19**|**Multilingual Sequence-to-Sequence Models for Hebrew NLP**|Matan Eyal et.al.|[2212.09682v1](http://arxiv.org/abs/2212.09682v1)|null|
 |**2022-12-19**|**Enriching Relation Extraction with OpenIE**|Alessandro Temperoni et.al.|[2212.09376v1](http://arxiv.org/abs/2212.09376v1)|null|
-|**2022-12-19**|**E-NER -- An Annotated Named Entity Recognition Corpus of Legal Text**|Ting Wai Terence Au et.al.|[2212.09306v1](http://arxiv.org/abs/2212.09306v1)|null|
+|**2022-12-19**|**E-NER -- An Annotated Named Entity Recognition Corpus of Legal Text**|Ting Wai Terence Au et.al.|[2212.09306v1](http://arxiv.org/abs/2212.09306v1)|**[link](https://github.com/terenceau2/e-ner-dataset)**|
 |**2022-12-19**|**Statistical Dataset Evaluation: Reliability, Difficulty, and Validity**|Chengwen Wang et.al.|[2212.09272v1](http://arxiv.org/abs/2212.09272v1)|null|
 |**2022-12-19**|**Multi hash embeddings in spaCy**|Lester James Miranda et.al.|[2212.09255v1](http://arxiv.org/abs/2212.09255v1)|null|
 |**2022-12-16**|**Context-aware Fine-tuning of Self-supervised Speech Models**|Suwon Shon et.al.|[2212.08542v1](http://arxiv.org/abs/2212.08542v1)|null|
@@ -719,7 +719,7 @@ layout: default
 |**2023-01-27**|**Understanding the Effectiveness of Very Large Language Models on Dialog Evaluation**|Jessica Huynh et.al.|[2301.12004v1](http://arxiv.org/abs/2301.12004v1)|null|
 |**2023-01-27**|**A Comparative Study of Pretrained Language Models for Long Clinical Text**|Yikuan Li et.al.|[2301.11847v1](http://arxiv.org/abs/2301.11847v1)|**[link](https://github.com/luoyuanlab/clinical-longformer)**|
 |**2023-01-27**|**Graph Attention with Hierarchies for Multi-hop Question Answering**|Yunjie He et.al.|[2301.11792v1](http://arxiv.org/abs/2301.11792v1)|null|
-|**2023-01-27**|**ThoughtSource: A central hub for large language model reasoning data**|Simon Ott et.al.|[2301.11596v1](http://arxiv.org/abs/2301.11596v1)|null|
+|**2023-01-27**|**ThoughtSource: A central hub for large language model reasoning data**|Simon Ott et.al.|[2301.11596v1](http://arxiv.org/abs/2301.11596v1)|**[link](https://github.com/openbiolink/thoughtsource)**|
 |**2023-01-25**|**Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering**|Chenxi Whitehouse et.al.|[2301.10799v1](http://arxiv.org/abs/2301.10799v1)|null|
 |**2023-01-25**|**XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models**|Davis Liang et.al.|[2301.10472v1](http://arxiv.org/abs/2301.10472v1)|null|
 |**2023-01-25**|**Pre-computed memory or on-the-fly encoding? A hybrid approach to retrieval augmentation makes the most of your compute**|Michiel de Jong et.al.|[2301.10448v1](http://arxiv.org/abs/2301.10448v1)|null|
@@ -1253,7 +1253,7 @@ layout: default
 |**2023-01-31**|**Are Defenses for Graph Neural Networks Robust?**|Felix Mujkanovic et.al.|[2301.13694v1](http://arxiv.org/abs/2301.13694v1)|null|
 |**2023-01-31**|**DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models**|Haomin Wen et.al.|[2301.13629v1](http://arxiv.org/abs/2301.13629v1)|null|
 |**2023-01-31**|**DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs**|Hanna Kim et.al.|[2301.13577v1](http://arxiv.org/abs/2301.13577v1)|null|
-|**2023-01-31**|**Company-as-Tribe: Company Financial Risk Assessment on Tribe-Style Graph with Hierarchical Graph Neural Networks**|Wendong Bi et.al.|[2301.13492v1](http://arxiv.org/abs/2301.13492v1)|null|
+|**2023-01-31**|**Company-as-Tribe: Company Financial Risk Assessment on Tribe-Style Graph with Hierarchical Graph Neural Networks**|Wendong Bi et.al.|[2301.13492v1](http://arxiv.org/abs/2301.13492v1)|**[link](https://github.com/wendongbi/th-gnn)**|
 |**2023-01-31**|**Skeleton-based Human Action Recognition via Convolutional Neural Networks (CNN)**|Ayman Ali et.al.|[2301.13360v1](http://arxiv.org/abs/2301.13360v1)|null|
 |**2023-01-30**|**Zero-One Laws of Graph Neural Networks**|Sam Adam-Day et.al.|[2301.13060v1](http://arxiv.org/abs/2301.13060v1)|null|
 |**2023-01-30**|**Graph Neural Network Framework for Security Assessment Informed by Topological Measures**|Mojtaba Dezvarei et.al.|[2301.12988v1](http://arxiv.org/abs/2301.12988v1)|null|
