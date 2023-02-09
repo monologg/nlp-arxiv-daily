@@ -21,7 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-07**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v1](http://arxiv.org/abs/2302.03512v1)|null|
+|**2023-02-08**|**Efficient Joint Learning for Clinical Named Entity Recognition and Relation Extraction Using Fourier Networks: A Use Case in Adverse Drug Events**|Anthony Yazdani et.al.|[2302.04185v1](http://arxiv.org/abs/2302.04185v1)|**[link](https://github.com/ds4dh/jnrf)**|
+|**2023-02-08**|**Training-free Lexical Backdoor Attacks on Language Models**|Yujin Huang et.al.|[2302.04116v1](http://arxiv.org/abs/2302.04116v1)|**[link](https://github.com/jinxhy/tflexattack)**|
+|**2023-02-08**|**An Empirical Study of Uniform-Architecture Knowledge Distillation in Document Ranking**|Xubo Qin et.al.|[2302.04112v1](http://arxiv.org/abs/2302.04112v1)|null|
+|**2023-02-08**|**Automating Code-Related Tasks Through Transformers: The Impact of Pre-training**|Rosalia Tufano et.al.|[2302.04048v1](http://arxiv.org/abs/2302.04048v1)|**[link](https://github.com/rosaliatufano/impact_pre-training)**|
+|**2023-02-08**|**Revisiting Offline Compression: Going Beyond Factorization-based Methods for Transformer Language Models**|Mohammadreza Banaei et.al.|[2302.04045v1](http://arxiv.org/abs/2302.04045v1)|**[link](https://github.com/mohammadrezabanaei/auto-encoder-based-transformer-compression)**|
+|**2023-02-08**|**On the Applicability of Language Models to Block-Based Programs**|Elisabeth Griebl et.al.|[2302.03927v1](http://arxiv.org/abs/2302.03927v1)|null|
+|**2023-02-08**|**CRAFT: Criticality-Aware Fault-Tolerance Enhancement Techniques for Emerging Memories-Based Deep Neural Networks**|Thai-Hoang Nguyen et.al.|[2302.03862v1](http://arxiv.org/abs/2302.03862v1)|null|
+|**2023-02-07**|**Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems**|Peng Liu et.al.|[2302.03735v1](http://arxiv.org/abs/2302.03735v1)|**[link](https://github.com/liupeng9966/lmrs)**|
+|**2023-02-07**|**Characterizing Financial Market Coverage using Artificial Intelligence**|Jean Marie Tshimula et.al.|[2302.03694v1](http://arxiv.org/abs/2302.03694v1)|null|
+|**2023-02-08**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v2](http://arxiv.org/abs/2302.03512v2)|null|
 |**2023-02-07**|**Natural Language Processing for Policymaking**|Zhijing Jin et.al.|[2302.03490v1](http://arxiv.org/abs/2302.03490v1)|null|
 |**2023-02-06**|**APAM: Adaptive Pre-training and Adaptive Meta Learning in Language Model for Noisy Labels and Long-tailed Learning**|Sunyi Chi et.al.|[2302.03488v1](http://arxiv.org/abs/2302.03488v1)|null|
 |**2023-02-07**|**What do Language Models know about word senses? Zero-Shot WSD with Language Models and Domain Inventories**|Oscar Sainz et.al.|[2302.03353v1](http://arxiv.org/abs/2302.03353v1)|null|
@@ -364,7 +373,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-07**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v1](http://arxiv.org/abs/2302.03512v1)|null|
+|**2023-02-08**|**Efficient Joint Learning for Clinical Named Entity Recognition and Relation Extraction Using Fourier Networks: A Use Case in Adverse Drug Events**|Anthony Yazdani et.al.|[2302.04185v1](http://arxiv.org/abs/2302.04185v1)|**[link](https://github.com/ds4dh/jnrf)**|
+|**2023-02-08**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v2](http://arxiv.org/abs/2302.03512v2)|null|
 |**2023-02-06**|**Collective Robustness Certificates: Exploiting Interdependence in Graph Neural Networks**|Jan Schuchardt et.al.|[2302.02829v1](http://arxiv.org/abs/2302.02829v1)|null|
 |**2023-02-05**|**Unleashing the True Potential of Sequence-to-Sequence Models for Sequence Tagging and Structure Parsing**|Han He et.al.|[2302.02275v1](http://arxiv.org/abs/2302.02275v1)|**[link](https://github.com/emorynlp/seq2seq-corenlp)**|
 |**2023-02-03**|**Bioformer: an efficient transformer language model for biomedical text mining**|Li Fang et.al.|[2302.01588v1](http://arxiv.org/abs/2302.01588v1)|**[link](https://github.com/wglab/bioformer)**|
@@ -481,6 +491,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**A Survey on Event Prediction Methods from a Systems Perspective: Bringing Together Disparate Research Areas**|Janik-Vasily Benzin et.al.|[2302.04018v1](http://arxiv.org/abs/2302.04018v1)|null|
 |**2023-02-05**|**Meta-Learning Siamese Network for Few-Shot Text Classification**|Chengcheng Han et.al.|[2302.03507v1](http://arxiv.org/abs/2302.03507v1)|null|
 |**2023-02-07**|**Natural Language Processing for Policymaking**|Zhijing Jin et.al.|[2302.03490v1](http://arxiv.org/abs/2302.03490v1)|null|
 |**2023-02-07**|**The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study**|Yu Zhang et.al.|[2302.03341v1](http://arxiv.org/abs/2302.03341v1)|**[link](https://github.com/yuzhimanhua/maple)**|
@@ -489,7 +500,7 @@
 |**2023-02-06**|**Guide the Learner: Controlling Product of Experts Debiasing Method Based on Token Attribution Similarities**|Ali Modarressi et.al.|[2302.02852v1](http://arxiv.org/abs/2302.02852v1)|**[link](https://github.com/amodaresi/debias_w_saliencies)**|
 |**2023-02-03**|**Detecting Reddit Users with Depression Using a Hybrid Neural Network**|Ziyi Chen et.al.|[2302.02759v1](http://arxiv.org/abs/2302.02759v1)|null|
 |**2023-02-05**|**VuLASTE: Long Sequence Model with Abstract Syntax Tree Embedding for vulnerability Detection**|Botong Zhu et.al.|[2302.02345v1](http://arxiv.org/abs/2302.02345v1)|null|
-|**2023-02-05**|**A Semantic Approach to Negation Detection and Word Disambiguation with Natural Language Processing**|Izunna Okpala et.al.|[2302.02291v1](http://arxiv.org/abs/2302.02291v1)|null|
+|**2023-02-08**|**A Semantic Approach to Negation Detection and Word Disambiguation with Natural Language Processing**|Izunna Okpala et.al.|[2302.02291v2](http://arxiv.org/abs/2302.02291v2)|null|
 |**2023-02-04**|**How Many and Which Training Points Would Need to be Removed to Flip this Prediction?**|Jinghan Yang et.al.|[2302.02169v1](http://arxiv.org/abs/2302.02169v1)|**[link](https://github.com/ecielyang/smallest_set)**|
 |**2023-02-04**|**A New cross-domain strategy based XAI models for fake news detection**|Deepak Kanneganti et.al.|[2302.02122v1](http://arxiv.org/abs/2302.02122v1)|null|
 |**2023-02-03**|**TextShield: Beyond Successfully Detecting Adversarial Sentences in Text Classification**|Lingfeng Shen et.al.|[2302.02023v1](http://arxiv.org/abs/2302.02023v1)|null|
@@ -620,7 +631,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-02-04**|**Sentiment Analysis on YouTube Smart Phone Unboxing Video Reviews in Sri Lanka**|Sherina Sally et.al.|[2302.03496v1](http://arxiv.org/abs/2302.03496v1)|null|
-|**2023-02-05**|**A Semantic Approach to Negation Detection and Word Disambiguation with Natural Language Processing**|Izunna Okpala et.al.|[2302.02291v1](http://arxiv.org/abs/2302.02291v1)|null|
+|**2023-02-08**|**A Semantic Approach to Negation Detection and Word Disambiguation with Natural Language Processing**|Izunna Okpala et.al.|[2302.02291v2](http://arxiv.org/abs/2302.02291v2)|null|
 |**2023-02-04**|**Rating Sentiment Analysis Systems for Bias through a Causal Lens**|Kausik Lakkaraju et.al.|[2302.02038v1](http://arxiv.org/abs/2302.02038v1)|null|
 |**2023-02-02**|**Sentiment Overflow in the Testing Stack: Analysing Software Testing Posts on Stack Overflow**|Mark Swillus et.al.|[2302.01037v1](http://arxiv.org/abs/2302.01037v1)|null|
 |**2023-02-02**|**Modeling opinion polarization on social media: application to Covid-19 vaccination hesitancy in Italy**|Jonathan Franceschi et.al.|[2302.01028v1](http://arxiv.org/abs/2302.01028v1)|null|
@@ -741,7 +752,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-07**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v1](http://arxiv.org/abs/2302.03512v1)|null|
+|**2023-02-08**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v2](http://arxiv.org/abs/2302.03512v2)|null|
 |**2023-02-03**|**LaMPP: Language Models as Probabilistic Priors for Perception and Action**|Belinda Z. Li et.al.|[2302.02801v1](http://arxiv.org/abs/2302.02801v1)|null|
 |**2023-02-04**|**Efficient End-to-End Video Question Answering with Pyramidal Multimodal Transformer**|Min Peng et.al.|[2302.02136v1](http://arxiv.org/abs/2302.02136v1)|**[link](https://github.com/trunpm/pmt-aaai23)**|
 |**2023-02-06**|**LIQUID: A Framework for List Question Answering Dataset Generation**|Seongyun Lee et.al.|[2302.01691v2](http://arxiv.org/abs/2302.01691v2)|**[link](https://github.com/dmis-lab/liquid)**|
@@ -888,7 +899,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-07**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v1](http://arxiv.org/abs/2302.03512v1)|null|
+|**2023-02-08**|**Efficient Joint Learning for Clinical Named Entity Recognition and Relation Extraction Using Fourier Networks: A Use Case in Adverse Drug Events**|Anthony Yazdani et.al.|[2302.04185v1](http://arxiv.org/abs/2302.04185v1)|**[link](https://github.com/ds4dh/jnrf)**|
+|**2023-02-08**|**Spatio-spectral metrics in electron energy loss spectroscopy as a tool to resolve nearly degenerate plasmon modes in dimer plasmonic antennas**|Michal Horák et.al.|[2302.03838v1](http://arxiv.org/abs/2302.03838v1)|null|
+|**2023-02-08**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v2](http://arxiv.org/abs/2302.03512v2)|null|
 |**2023-02-07**|**Natural Language Processing for Policymaking**|Zhijing Jin et.al.|[2302.03490v1](http://arxiv.org/abs/2302.03490v1)|null|
 |**2023-02-07**|**Melting Domain Size and Recrystallization Dynamics of Ice Revealed by Time-Resolved X-ray Scattering**|Cheolhee Yang et.al.|[2302.03368v1](http://arxiv.org/abs/2302.03368v1)|null|
 |**2023-02-02**|**Automated classification of eclipsing binary systems in the VVV Survey**|I. V. Daza-Perilla et.al.|[2302.01200v1](http://arxiv.org/abs/2302.01200v1)|null|
@@ -1007,11 +1020,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**Source Code Recommender Systems: The Practitioners' Perspective**|Matteo Ciniselli et.al.|[2302.04098v1](http://arxiv.org/abs/2302.04098v1)|null|
+|**2023-02-08**|**Graph Signal Sampling for Inductive One-Bit Matrix Completion: a Closed-form Solution**|Chao Chen et.al.|[2302.03933v1](http://arxiv.org/abs/2302.03933v1)|**[link](https://github.com/cchao0116/GSIMC-ICLR2023)**|
+|**2023-02-08**|**Multimodal Recommender Systems: A Survey**|Qidong Liu et.al.|[2302.03883v1](http://arxiv.org/abs/2302.03883v1)|null|
+|**2023-02-07**|**Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems**|Peng Liu et.al.|[2302.03735v1](http://arxiv.org/abs/2302.03735v1)|**[link](https://github.com/liupeng9966/lmrs)**|
 |**2023-02-07**|**Optimizing Audio Recommendations for the Long-Term: A Reinforcement Learning Perspective**|Lucas Maystre et.al.|[2302.03561v1](http://arxiv.org/abs/2302.03561v1)|null|
 |**2023-02-07**|**Multi-Task Deep Recommender Systems: A Survey**|Yuhao Wang et.al.|[2302.03525v1](http://arxiv.org/abs/2302.03525v1)|null|
-|**2023-02-07**|**Exploration and Regularization of the Latent Action Space in Recommendation**|Shuchang Liu et.al.|[2302.03431v1](http://arxiv.org/abs/2302.03431v1)|null|
+|**2023-02-08**|**Exploration and Regularization of the Latent Action Space in Recommendation**|Shuchang Liu et.al.|[2302.03431v2](http://arxiv.org/abs/2302.03431v2)|null|
 |**2023-02-07**|**Multi-Task Recommendations with Reinforcement Learning**|Ziru Liu et.al.|[2302.03328v1](http://arxiv.org/abs/2302.03328v1)|null|
-|**2023-02-07**|**Disentangled Causal Embedding With Contrastive Learning For Recommender System**|Weiqi Zhao et.al.|[2302.03248v1](http://arxiv.org/abs/2302.03248v1)|**[link](https://github.com/somestudies/dccl)**|
+|**2023-02-08**|**Disentangled Causal Embedding With Contrastive Learning For Recommender System**|Weiqi Zhao et.al.|[2302.03248v2](http://arxiv.org/abs/2302.03248v2)|**[link](https://github.com/somestudies/dccl)**|
 |**2023-02-07**|**Online Misinformation Video Detection: A Survey**|Yuyan Bu et.al.|[2302.03242v1](http://arxiv.org/abs/2302.03242v1)|**[link](https://github.com/ictmcg/fakesv)**|
 |**2023-02-07**|**Calibrated Recommendations for Users with Decaying Attention**|Jon Kleinberg et.al.|[2302.03239v1](http://arxiv.org/abs/2302.03239v1)|null|
 |**2023-02-06**|**Divide and Conquer: Towards Better Embedding-based Retrieval for Recommender Systems From a Multi-task Perspective**|Yuan Zhang et.al.|[2302.02657v1](http://arxiv.org/abs/2302.02657v1)|null|
@@ -1165,7 +1182,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-07**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v1](http://arxiv.org/abs/2302.03512v1)|null|
+|**2023-02-08**|**Detecting Data Type Inconsistencies in a Property Graph Database**|Joshua R. Porter et.al.|[2302.04106v1](http://arxiv.org/abs/2302.04106v1)|null|
+|**2023-02-07**|**FFHR: Fully and Flexible Hyperbolic Representation for Knowledge Graph Completion**|Wentao Shi et.al.|[2302.04088v1](http://arxiv.org/abs/2302.04088v1)|null|
+|**2023-02-08**|**Improving (Dis)agreement Detection with Inductive Social Relation Information From Comment-Reply Interactions**|Yun Luo et.al.|[2302.03950v1](http://arxiv.org/abs/2302.03950v1)|null|
+|**2023-02-08**|**COMBO: A Complete Benchmark for Open KG Canonicalization**|Chengyue Jiang et.al.|[2302.03905v1](http://arxiv.org/abs/2302.03905v1)|null|
+|**2023-02-08**|**A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends**|Xiaoye Qu et.al.|[2302.03512v2](http://arxiv.org/abs/2302.03512v2)|null|
 |**2023-02-07**|**An entity-guided text summarization framework with relational heterogeneous graph neural network**|Jingqiang Chen et.al.|[2302.03205v1](http://arxiv.org/abs/2302.03205v1)|**[link](https://github.com/jingqiangchen/kbsumm)**|
 |**2023-02-06**|**A Pre-training Framework for Knowledge Graph Completion**|Kuan Xu et.al.|[2302.02614v1](http://arxiv.org/abs/2302.02614v1)|null|
 |**2023-02-06**|**Learning Representations of Bi-Level Knowledge Graphs for Reasoning beyond Link Prediction**|Chanyoung Chung et.al.|[2302.02601v1](http://arxiv.org/abs/2302.02601v1)|**[link](https://github.com/bdi-lab/bive)**|
@@ -1309,6 +1330,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**Cooperative Beamforming and RISs Association for Multi-RISs Aided Multi-Users MmWave MIMO Systems through Graph Neural Networks**|Mengbing Liu et.al.|[2302.04183v1](http://arxiv.org/abs/2302.04183v1)|null|
+|**2023-02-08**|**Attending to Graph Transformers**|Luis Müller et.al.|[2302.04181v1](http://arxiv.org/abs/2302.04181v1)|**[link](https://github.com/luis-mueller/probing-graph-transformers)**|
+|**2023-02-08**|**Learning Graph-Enhanced Commander-Executor for Multi-Agent Navigation**|Xinyi Yang et.al.|[2302.04094v1](http://arxiv.org/abs/2302.04094v1)|null|
+|**2023-02-08**|**Taming Local Effects in Graph-based Spatiotemporal Forecasting**|Andrea Cini et.al.|[2302.04071v1](http://arxiv.org/abs/2302.04071v1)|null|
+|**2023-02-08**|**Revisit the Algorithm Selection Problem for TSP with Spatial Information Enhanced Graph Neural Networks**|Ya Song et.al.|[2302.04035v1](http://arxiv.org/abs/2302.04035v1)|null|
+|**2023-02-08**|**SimCGNN: Simple Contrastive Graph Neural Network for Session-based Recommendation**|Yuan Cao et.al.|[2302.03997v1](http://arxiv.org/abs/2302.03997v1)|null|
+|**2023-02-08**|**On Generalized Degree Fairness in Graph Neural Networks**|Zemin Liu et.al.|[2302.03881v1](http://arxiv.org/abs/2302.03881v1)|null|
 |**2023-02-07**|**Reducing SO(3) Convolutions to SO(2) for Efficient Equivariant GNNs**|Saro Passaro et.al.|[2302.03655v1](http://arxiv.org/abs/2302.03655v1)|null|
 |**2023-02-07**|**Deep Learning Applications to Particle Physics: from Monte Carlo simulation acceleration to ProtoDUNE reconstruction**|Marco Rossi et.al.|[2302.03343v1](http://arxiv.org/abs/2302.03343v1)|null|
 |**2023-02-07**|**Machine-Learning Accelerated Annealing with Fitting-Search Style for Multi-alloy Structure Predictions**|Chuannan Li et.al.|[2302.03321v1](http://arxiv.org/abs/2302.03321v1)|null|
