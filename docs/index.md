@@ -25,6 +25,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-10**|**A Practical Mixed Precision Algorithm for Post-Training Quantization**|Nilesh Prasad Pandey et.al.|[2302.05397v1](http://arxiv.org/abs/2302.05397v1)|null|
+|**2023-02-10**|**Translating Natural Language to Planning Goals with Large-Language Models**|Yaqi Xie et.al.|[2302.05128v1](http://arxiv.org/abs/2302.05128v1)|null|
+|**2023-02-10**|**Step by Step Loss Goes Very Far: Multi-Step Quantization for Adversarial Text Attacks**|Piotr Gaiński et.al.|[2302.05120v1](http://arxiv.org/abs/2302.05120v1)|null|
+|**2023-02-09**|**Flexible, Model-Agnostic Method for Materials Data Extraction from Text Using General Purpose Language Models**|Maciej P. Polak et.al.|[2302.04914v1](http://arxiv.org/abs/2302.04914v1)|null|
 |**2023-02-09**|**AI-based Question Answering Assistance for Analyzing Natural-language Requirements**|Saad Ezzini et.al.|[2302.04793v1](http://arxiv.org/abs/2302.04793v1)|null|
 |**2023-02-09**|**Massively Multilingual Language Models for Cross Lingual Fact Extraction from Low Resource Indian Languages**|Bhavyajeet Singh et.al.|[2302.04790v1](http://arxiv.org/abs/2302.04790v1)|**[link](https://github.com/bhavyajeet/clfe)**|
 |**2023-02-09**|**Lightweight Transformers for Clinical Natural Language Processing**|Omid Rohanian et.al.|[2302.04725v1](http://arxiv.org/abs/2302.04725v1)|null|
@@ -385,6 +389,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-10**|**Span-based Named Entity Recognition by Generating and Compressing Information**|Nhung T. H. Nguyen et.al.|[2302.05392v1](http://arxiv.org/abs/2302.05392v1)|**[link](https://github.com/nguyennth/joint-ib-models)**|
 |**2023-02-09**|**Lightweight Transformers for Clinical Natural Language Processing**|Omid Rohanian et.al.|[2302.04725v1](http://arxiv.org/abs/2302.04725v1)|null|
 |**2023-02-09**|**A Novel Approach for Auto-Formulation of Optimization Problems**|Yuting Ning et.al.|[2302.04643v1](http://arxiv.org/abs/2302.04643v1)|null|
 |**2023-02-09**|**Data Augmentation for Robust Character Detection in Fantasy Novels**|Arthur Amalvy et.al.|[2302.04555v1](http://arxiv.org/abs/2302.04555v1)|**[link](https://github.com/compnet/ddaugner)**|
@@ -772,6 +777,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-10**|**Realistic Conversational Question Answering with Answer Selection based on Calibrated Confidence and Uncertainty Measurement**|Soyeong Jeong et.al.|[2302.05137v1](http://arxiv.org/abs/2302.05137v1)|null|
+|**2023-02-10**|**ControversialQA: Exploring Controversy in Question Answering**|Zhen Wang et.al.|[2302.05061v1](http://arxiv.org/abs/2302.05061v1)|null|
+|**2023-02-10**|**Is multi-modal vision supervision beneficial to language?**|Avinash Madasu et.al.|[2302.05016v1](http://arxiv.org/abs/2302.05016v1)|null|
 |**2023-02-09**|**Learning by Asking for Embodied Visual Navigation and Task Completion**|Ying Shen et.al.|[2302.04865v1](http://arxiv.org/abs/2302.04865v1)|**[link](https://github.com/plan-lab/elba)**|
 |**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
 |**2023-02-09**|**AI-based Question Answering Assistance for Analyzing Natural-language Requirements**|Saad Ezzini et.al.|[2302.04793v1](http://arxiv.org/abs/2302.04793v1)|null|
@@ -1048,6 +1056,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-10**|**Debiasing Recommendation by Learning Identifiable Latent Confounders**|Qing Zhang et.al.|[2302.05052v1](http://arxiv.org/abs/2302.05052v1)|null|
+|**2023-02-10**|**Feature Decomposition for Reducing Negative Transfer: A Novel Multi-task Learning Method for Recommender System**|Jie Zhou et.al.|[2302.05031v1](http://arxiv.org/abs/2302.05031v1)|null|
 |**2023-02-09**|**Adap-tau: Adaptively Modulating Embedding Magnitude for Recommendation**|Jiawei Chen et.al.|[2302.04775v1](http://arxiv.org/abs/2302.04775v1)|null|
 |**2023-02-09**|**Auditing Recommender Systems -- Putting the DSA into practice with a risk-scenario-based approach**|Anna-Katharina Meßmer et.al.|[2302.04556v1](http://arxiv.org/abs/2302.04556v1)|null|
 |**2023-02-09**|**Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering**|Bosong Huang et.al.|[2302.04545v1](http://arxiv.org/abs/2302.04545v1)|null|
@@ -1216,6 +1226,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-10**|**Adversarial Transformer Language Models for Contextual Commonsense Inference**|Pedro Colon-Hernandez et.al.|[2302.05406v1](http://arxiv.org/abs/2302.05406v1)|null|
+|**2023-02-10**|**Toward Degree Bias in Embedding-Based Knowledge Graph Completion**|Harry Shomer et.al.|[2302.05044v1](http://arxiv.org/abs/2302.05044v1)|**[link](https://github.com/harryshomer/kg-mixup)**|
+|**2023-02-10**|**A Comprehensive Survey on Automatic Knowledge Graph Construction**|Lingfeng Zhong et.al.|[2302.05019v1](http://arxiv.org/abs/2302.05019v1)|null|
 |**2023-02-09**|**Massively Multilingual Language Models for Cross Lingual Fact Extraction from Low Resource Indian Languages**|Bhavyajeet Singh et.al.|[2302.04790v1](http://arxiv.org/abs/2302.04790v1)|**[link](https://github.com/bhavyajeet/clfe)**|
 |**2023-02-09**|**A Biomedical Knowledge Graph for Biomarker Discovery in Cancer**|Md. Rezaul Karim et.al.|[2302.04737v1](http://arxiv.org/abs/2302.04737v1)|null|
 |**2023-02-09**|**Research on data integration of overseas discrete archives from the perspective of digital humanties**|Rina Su et.al.|[2302.04576v1](http://arxiv.org/abs/2302.04576v1)|null|
@@ -1368,6 +1381,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-10**|**Graph Neural Networks Go Forward-Forward**|Daniele Paliotta et.al.|[2302.05282v1](http://arxiv.org/abs/2302.05282v1)|null|
+|**2023-02-09**|**GCI: A (G)raph (C)oncept (I)nterpretation Framework**|Dmitry Kazhdan et.al.|[2302.04899v1](http://arxiv.org/abs/2302.04899v1)|**[link](https://github.com/dmitrykazhdan/gci)**|
 |**2023-02-09**|**Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning**|Xin-Cheng Wen et.al.|[2302.04675v1](http://arxiv.org/abs/2302.04675v1)|**[link](https://github.com/ample001/ample)**|
 |**2023-02-09**|**Generalization in Graph Neural Networks: Improved PAC-Bayesian Bounds on Graph Diffusion**|Haotian Ju et.al.|[2302.04451v1](http://arxiv.org/abs/2302.04451v1)|null|
 |**2023-02-09**|**Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes**|Huixin Zhan et.al.|[2302.04383v1](http://arxiv.org/abs/2302.04383v1)|null|
