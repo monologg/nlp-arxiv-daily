@@ -21,6 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Large Scale Multi-Lingual Multi-Modal Summarization Dataset**|Yash Verma et.al.|[2302.06560v1](http://arxiv.org/abs/2302.06560v1)|**[link](https://github.com/anubhav-jangra/m3ls)**|
+|**2023-02-13**|**Visualizing Topic Uncertainty in Topic Modelling**|Peter Winker et.al.|[2302.06482v1](http://arxiv.org/abs/2302.06482v1)|null|
+|**2023-02-13**|**Linguistic ambiguity analysis in ChatGPT**|Miguel Ortega-Martín et.al.|[2302.06426v1](http://arxiv.org/abs/2302.06426v1)|null|
+|**2023-02-13**|**Dataset of Natural Language Queries for E-Commerce**|Andrea Papenmeier et.al.|[2302.06355v1](http://arxiv.org/abs/2302.06355v1)|null|
+|**2023-02-12**|**TextDefense: Adversarial Text Detection based on Word Importance Entropy**|Lujia Shen et.al.|[2302.05892v1](http://arxiv.org/abs/2302.05892v1)|null|
+|**2023-02-12**|**"Why is this misleading?": Detecting News Headline Hallucinations with Explanations**|Jiaming Shen et.al.|[2302.05852v1](http://arxiv.org/abs/2302.05852v1)|null|
+|**2023-02-11**|**Sequential Embedding-based Attentive (SEA) classifier for malware classification**|Muhammad Ahmed et.al.|[2302.05728v1](http://arxiv.org/abs/2302.05728v1)|null|
+|**2023-02-11**|**Synthesizing Human Gaze Feedback for Improved NLP Performance**|Varun Khurana et.al.|[2302.05721v1](http://arxiv.org/abs/2302.05721v1)|null|
+|**2023-02-11**|**MatKB: Semantic Search for Polycrystalline Materials Synthesis Procedures**|Xianjun Yang et.al.|[2302.05597v1](http://arxiv.org/abs/2302.05597v1)|**[link](https://github.com/xianjun-yang/pcmsp)**|
 |**2023-02-10**|**A Practical Mixed Precision Algorithm for Post-Training Quantization**|Nilesh Prasad Pandey et.al.|[2302.05397v1](http://arxiv.org/abs/2302.05397v1)|null|
 |**2023-02-10**|**Translating Natural Language to Planning Goals with Large-Language Models**|Yaqi Xie et.al.|[2302.05128v1](http://arxiv.org/abs/2302.05128v1)|null|
 |**2023-02-10**|**Step by Step Loss Goes Very Far: Multi-Step Quantization for Adversarial Text Attacks**|Piotr Gaiński et.al.|[2302.05120v1](http://arxiv.org/abs/2302.05120v1)|null|
@@ -385,6 +394,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition**|Yongqi Li et.al.|[2302.06397v1](http://arxiv.org/abs/2302.06397v1)|**[link](https://github.com/liyongqi2002/TadNER)**|
+|**2023-02-13**|**Learning from Noisy Crowd Labels with Logics**|Zhijun Chen et.al.|[2302.06337v1](http://arxiv.org/abs/2302.06337v1)|**[link](https://github.com/junchenzhi/logic-lncl)**|
 |**2023-02-10**|**Span-based Named Entity Recognition by Generating and Compressing Information**|Nhung T. H. Nguyen et.al.|[2302.05392v1](http://arxiv.org/abs/2302.05392v1)|**[link](https://github.com/nguyennth/joint-ib-models)**|
 |**2023-02-09**|**Lightweight Transformers for Clinical Natural Language Processing**|Omid Rohanian et.al.|[2302.04725v1](http://arxiv.org/abs/2302.04725v1)|null|
 |**2023-02-09**|**A Novel Approach for Auto-Formulation of Optimization Problems**|Yuting Ning et.al.|[2302.04643v1](http://arxiv.org/abs/2302.04643v1)|null|
@@ -507,6 +518,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Towards Agile Text Classifiers for Everyone**|Maximilian Mozes et.al.|[2302.06541v1](http://arxiv.org/abs/2302.06541v1)|null|
+|**2023-02-13**|**Distinguishability Calibration to In-Context Learning**|Hongjing Li et.al.|[2302.06198v1](http://arxiv.org/abs/2302.06198v1)|**[link](https://github.com/donttal/tara)**|
+|**2023-02-13**|**Identifying Semantically Difficult Samples to Improve Text Classification**|Shashank Mujumdar et.al.|[2302.06155v1](http://arxiv.org/abs/2302.06155v1)|null|
+|**2023-02-12**|**"Why is this misleading?": Detecting News Headline Hallucinations with Explanations**|Jiaming Shen et.al.|[2302.05852v1](http://arxiv.org/abs/2302.05852v1)|null|
+|**2023-02-11**|**Compositional Exemplars for In-context Learning**|Jiacheng Ye et.al.|[2302.05698v1](http://arxiv.org/abs/2302.05698v1)|null|
+|**2023-02-11**|**Evaluating the Robustness of Discrete Prompts**|Yoichi Ishibashi et.al.|[2302.05619v1](http://arxiv.org/abs/2302.05619v1)|**[link](https://github.com/livnlp/prompt-robustness)**|
 |**2023-02-09**|**Explanation Selection Using Unlabeled Data for In-Context Learning**|Xi Ye et.al.|[2302.04813v1](http://arxiv.org/abs/2302.04813v1)|null|
 |**2023-02-09**|**Lightweight Transformers for Clinical Natural Language Processing**|Omid Rohanian et.al.|[2302.04725v1](http://arxiv.org/abs/2302.04725v1)|null|
 |**2023-02-09**|**Augmenting NLP data to counter Annotation Artifacts for NLI Tasks**|Armaan Singh Bhullar et.al.|[2302.04700v1](http://arxiv.org/abs/2302.04700v1)|null|
@@ -650,6 +667,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**Applying BERT and ChatGPT for Sentiment Analysis of Lyme Disease in Scientific Literature**|Teo Susnjak et.al.|[2302.06474v1](http://arxiv.org/abs/2302.06474v1)|null|
+|**2023-02-08**|**Ordered Memory Baselines**|Daniel Borisov et.al.|[2302.06451v1](http://arxiv.org/abs/2302.06451v1)|null|
+|**2023-02-13**|**NYCU-TWO at Memotion 3: Good Foundation, Good Teacher, then you have Good Meme Analysis**|Yu-Chien Tang et.al.|[2302.06078v1](http://arxiv.org/abs/2302.06078v1)|null|
+|**2023-02-11**|**Compositional Exemplars for In-context Learning**|Jiacheng Ye et.al.|[2302.05698v1](http://arxiv.org/abs/2302.05698v1)|null|
 |**2023-02-08**|**Sentiment analysis and opinion mining on educational data: A survey**|Thanveer Shaik et.al.|[2302.04359v1](http://arxiv.org/abs/2302.04359v1)|null|
 |**2023-02-04**|**Sentiment Analysis on YouTube Smart Phone Unboxing Video Reviews in Sri Lanka**|Sherina Sally et.al.|[2302.03496v1](http://arxiv.org/abs/2302.03496v1)|null|
 |**2023-02-08**|**A Semantic Approach to Negation Detection and Word Disambiguation with Natural Language Processing**|Izunna Okpala et.al.|[2302.02291v2](http://arxiv.org/abs/2302.02291v2)|null|
@@ -773,6 +794,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-12**|**Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering**|Xanh Ho et.al.|[2302.05963v1](http://arxiv.org/abs/2302.05963v1)|**[link](https://github.com/alab-nii/multi-hop-analysis)**|
+|**2023-02-11**|**Informing clinical assessment by contextualizing post-hoc explanations of risk prediction models in type-2 diabetes**|Shruthi Chari et.al.|[2302.05752v1](http://arxiv.org/abs/2302.05752v1)|null|
+|**2023-02-11**|**Compositional Exemplars for In-context Learning**|Jiacheng Ye et.al.|[2302.05698v1](http://arxiv.org/abs/2302.05698v1)|null|
+|**2023-02-11**|**Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis**|Zhu Wang et.al.|[2302.05608v1](http://arxiv.org/abs/2302.05608v1)|null|
 |**2023-02-10**|**Realistic Conversational Question Answering with Answer Selection based on Calibrated Confidence and Uncertainty Measurement**|Soyeong Jeong et.al.|[2302.05137v1](http://arxiv.org/abs/2302.05137v1)|null|
 |**2023-02-10**|**ControversialQA: Exploring Controversy in Question Answering**|Zhen Wang et.al.|[2302.05061v1](http://arxiv.org/abs/2302.05061v1)|null|
 |**2023-02-10**|**Is multi-modal vision supervision beneficial to language?**|Avinash Madasu et.al.|[2302.05016v1](http://arxiv.org/abs/2302.05016v1)|null|
@@ -928,6 +953,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**The impact of an interactive visualization and simulation tool on learning quantum physics: Results of an eye-tracking study**|Stefan Küchemann et.al.|[2302.06286v1](http://arxiv.org/abs/2302.06286v1)|null|
+|**2023-02-13**|**Fabrication of a Low-Cost Real-Time Mobile ECG System for Health Monitoring**|Soheil Khooyooz et.al.|[2302.06272v1](http://arxiv.org/abs/2302.06272v1)|null|
+|**2023-02-11**|**DocILE Benchmark for Document Information Localization and Extraction**|Štěpán Šimsa et.al.|[2302.05658v1](http://arxiv.org/abs/2302.05658v1)|**[link](https://github.com/rossumai/docile)**|
 |**2023-02-09**|**Massively Multilingual Language Models for Cross Lingual Fact Extraction from Low Resource Indian Languages**|Bhavyajeet Singh et.al.|[2302.04790v1](http://arxiv.org/abs/2302.04790v1)|**[link](https://github.com/bhavyajeet/clfe)**|
 |**2023-02-09**|**A Biomedical Knowledge Graph for Biomarker Discovery in Cancer**|Md. Rezaul Karim et.al.|[2302.04737v1](http://arxiv.org/abs/2302.04737v1)|null|
 |**2023-02-09**|**Global Constraints with Prompting for Zero-Shot Event Argument Classification**|Zizheng Lin et.al.|[2302.04459v1](http://arxiv.org/abs/2302.04459v1)|**[link](https://github.com/HKUST-KnowComp/Constraints-with-Prompting-for-Zero-Shot-EAC)**|
@@ -1052,6 +1080,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**When Can We Track Significant Preference Shifts in Dueling Bandits?**|Joe Suk et.al.|[2302.06595v1](http://arxiv.org/abs/2302.06595v1)|null|
+|**2023-02-13**|**Recommending to Strategic Users**|Andreas Haupt et.al.|[2302.06559v1](http://arxiv.org/abs/2302.06559v1)|null|
+|**2023-02-13**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v1](http://arxiv.org/abs/2302.06333v1)|**[link](https://github.com/newlei/fda)**|
+|**2023-02-13**|**Stability and Efficiency of Personalised Cultural Markets**|Haiqing Zhu et.al.|[2302.06226v1](http://arxiv.org/abs/2302.06226v1)|null|
+|**2023-02-13**|**On Modeling Long-Term User Engagement from Stochastic Feedback**|Guoxi Zhang et.al.|[2302.06101v1](http://arxiv.org/abs/2302.06101v1)|null|
+|**2023-02-12**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
 |**2023-02-10**|**Debiasing Recommendation by Learning Identifiable Latent Confounders**|Qing Zhang et.al.|[2302.05052v1](http://arxiv.org/abs/2302.05052v1)|null|
 |**2023-02-10**|**Feature Decomposition for Reducing Negative Transfer: A Novel Multi-task Learning Method for Recommender System**|Jie Zhou et.al.|[2302.05031v1](http://arxiv.org/abs/2302.05031v1)|null|
 |**2023-02-09**|**Adap-tau: Adaptively Modulating Embedding Magnitude for Recommendation**|Jiawei Chen et.al.|[2302.04775v1](http://arxiv.org/abs/2302.04775v1)|null|
@@ -1222,6 +1256,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Link Prediction with Attention Applied on Multiple Knowledge Graph Embedding Models**|Cosimo Gregucci et.al.|[2302.06229v1](http://arxiv.org/abs/2302.06229v1)|null|
+|**2023-02-13**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Zihui Li et.al.|[2302.06132v1](http://arxiv.org/abs/2302.06132v1)|null|
+|**2023-02-11**|**Learning by Applying: A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning**|Jiayu Liu et.al.|[2302.05717v1](http://arxiv.org/abs/2302.05717v1)|null|
+|**2023-02-11**|**Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph**|Zhongwu Chen et.al.|[2302.05640v1](http://arxiv.org/abs/2302.05640v1)|null|
+|**2023-02-11**|**Differentiable Outlier Detection Enable Robust Deep Multimodal Analysis**|Zhu Wang et.al.|[2302.05608v1](http://arxiv.org/abs/2302.05608v1)|null|
 |**2023-02-10**|**Adversarial Transformer Language Models for Contextual Commonsense Inference**|Pedro Colon-Hernandez et.al.|[2302.05406v1](http://arxiv.org/abs/2302.05406v1)|null|
 |**2023-02-10**|**Toward Degree Bias in Embedding-Based Knowledge Graph Completion**|Harry Shomer et.al.|[2302.05044v1](http://arxiv.org/abs/2302.05044v1)|**[link](https://github.com/harryshomer/kg-mixup)**|
 |**2023-02-10**|**A Comprehensive Survey on Automatic Knowledge Graph Construction**|Lingfeng Zhong et.al.|[2302.05019v1](http://arxiv.org/abs/2302.05019v1)|null|
@@ -1377,6 +1416,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Inferring Player Location in Sports Matches: Multi-Agent Spatial Imputation from Limited Observations**|Gregory Everett et.al.|[2302.06569v1](http://arxiv.org/abs/2302.06569v1)|null|
+|**2023-02-13**|**Homophily-oriented Heterogeneous Graph Rewiring**|Jiayan Guo et.al.|[2302.06299v1](http://arxiv.org/abs/2302.06299v1)|null|
+|**2023-02-13**|**Multiscale Graph Neural Network Autoencoders for Interpretable Scientific Machine Learning**|Shivam Barwey et.al.|[2302.06186v1](http://arxiv.org/abs/2302.06186v1)|null|
+|**2023-02-13**|**Learning and Aggregating Lane Graphs for Urban Automated Driving**|Martin Büchner et.al.|[2302.06175v1](http://arxiv.org/abs/2302.06175v1)|null|
+|**2023-02-13**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Zihui Li et.al.|[2302.06132v1](http://arxiv.org/abs/2302.06132v1)|null|
+|**2023-02-13**|**Expediting Distributed DNN Training with Device Topology-Aware Graph Deployment**|Shiwei Zhang et.al.|[2302.06126v1](http://arxiv.org/abs/2302.06126v1)|null|
+|**2023-02-13**|**A Survey on Graph Neural Networks for Graph Summarization**|Nasrin Shabani et.al.|[2302.06114v1](http://arxiv.org/abs/2302.06114v1)|null|
+|**2023-02-13**|**TIGER: Temporal Interaction Graph Embedding with Restarts**|Yao Zhang et.al.|[2302.06057v1](http://arxiv.org/abs/2302.06057v1)|**[link](https://github.com/yzhang1918/www2023tiger)**|
+|**2023-02-12**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
+|**2023-02-12**|**Investigating the Effect of Relative Positional Embeddings on AMR-to-Text Generation with Structural Adapters**|Sebastien Montella et.al.|[2302.05900v1](http://arxiv.org/abs/2302.05900v1)|null|
 |**2023-02-10**|**Graph Neural Networks Go Forward-Forward**|Daniele Paliotta et.al.|[2302.05282v1](http://arxiv.org/abs/2302.05282v1)|null|
 |**2023-02-09**|**GCI: A (G)raph (C)oncept (I)nterpretation Framework**|Dmitry Kazhdan et.al.|[2302.04899v1](http://arxiv.org/abs/2302.04899v1)|**[link](https://github.com/dmitrykazhdan/gci)**|
 |**2023-02-09**|**Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning**|Xin-Cheng Wen et.al.|[2302.04675v1](http://arxiv.org/abs/2302.04675v1)|**[link](https://github.com/ample001/ample)**|
