@@ -25,6 +25,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**Few-shot learning approaches for classifying low resource domain specific software requirements**|Anmol Nayak et.al.|[2302.06951v1](http://arxiv.org/abs/2302.06951v1)|null|
+|**2023-02-14**|**SwitchPrompt: Learning Domain-Specific Gated Soft Prompts for Classification in Low-Resource Domains**|Koustava Goswami et.al.|[2302.06868v1](http://arxiv.org/abs/2302.06868v1)|**[link](https://github.com/boschresearch/switchprompt)**|
+|**2023-02-14**|**Language Model Analysis for Ontology Subsumption Inference**|Yuan He et.al.|[2302.06761v1](http://arxiv.org/abs/2302.06761v1)|null|
 |**2023-02-13**|**Large Scale Multi-Lingual Multi-Modal Summarization Dataset**|Yash Verma et.al.|[2302.06560v1](http://arxiv.org/abs/2302.06560v1)|**[link](https://github.com/anubhav-jangra/m3ls)**|
 |**2023-02-13**|**Visualizing Topic Uncertainty in Topic Modelling**|Peter Winker et.al.|[2302.06482v1](http://arxiv.org/abs/2302.06482v1)|null|
 |**2023-02-13**|**Linguistic ambiguity analysis in ChatGPT**|Miguel Ortega-Martín et.al.|[2302.06426v1](http://arxiv.org/abs/2302.06426v1)|null|
@@ -399,7 +402,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-02-13**|**Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition**|Yongqi Li et.al.|[2302.06397v1](http://arxiv.org/abs/2302.06397v1)|**[link](https://github.com/liyongqi2002/TadNER)**|
-|**2023-02-13**|**Learning from Noisy Crowd Labels with Logics**|Zhijun Chen et.al.|[2302.06337v1](http://arxiv.org/abs/2302.06337v1)|**[link](https://github.com/junchenzhi/logic-lncl)**|
+|**2023-02-14**|**Learning from Noisy Crowd Labels with Logics**|Zhijun Chen et.al.|[2302.06337v2](http://arxiv.org/abs/2302.06337v2)|**[link](https://github.com/junchenzhi/logic-lncl)**|
 |**2023-02-10**|**Span-based Named Entity Recognition by Generating and Compressing Information**|Nhung T. H. Nguyen et.al.|[2302.05392v1](http://arxiv.org/abs/2302.05392v1)|**[link](https://github.com/nguyennth/joint-ib-models)**|
 |**2023-02-09**|**Lightweight Transformers for Clinical Natural Language Processing**|Omid Rohanian et.al.|[2302.04725v1](http://arxiv.org/abs/2302.04725v1)|null|
 |**2023-02-09**|**A Novel Approach for Auto-Formulation of Optimization Problems**|Yuting Ning et.al.|[2302.04643v1](http://arxiv.org/abs/2302.04643v1)|null|
@@ -522,6 +525,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**Investigating Multi-source Active Learning for Natural Language Inference**|Ard Snijders et.al.|[2302.06976v1](http://arxiv.org/abs/2302.06976v1)|**[link](https://github.com/asnijders/multi_source_al)**|
+|**2023-02-14**|**SwitchPrompt: Learning Domain-Specific Gated Soft Prompts for Classification in Low-Resource Domains**|Koustava Goswami et.al.|[2302.06868v1](http://arxiv.org/abs/2302.06868v1)|**[link](https://github.com/boschresearch/switchprompt)**|
+|**2023-02-14**|**Language Model Analysis for Ontology Subsumption Inference**|Yuan He et.al.|[2302.06761v1](http://arxiv.org/abs/2302.06761v1)|null|
+|**2023-02-13**|**Bag of Tricks for In-Distribution Calibration of Pretrained Transformers**|Jaeyoung Kim et.al.|[2302.06690v1](http://arxiv.org/abs/2302.06690v1)|**[link](https://github.com/kimjeyoung/plm_call)**|
 |**2023-02-13**|**Towards Agile Text Classifiers for Everyone**|Maximilian Mozes et.al.|[2302.06541v1](http://arxiv.org/abs/2302.06541v1)|null|
 |**2023-02-13**|**Distinguishability Calibration to In-Context Learning**|Hongjing Li et.al.|[2302.06198v1](http://arxiv.org/abs/2302.06198v1)|**[link](https://github.com/donttal/tara)**|
 |**2023-02-13**|**Identifying Semantically Difficult Samples to Improve Text Classification**|Shashank Mujumdar et.al.|[2302.06155v1](http://arxiv.org/abs/2302.06155v1)|null|
@@ -673,7 +680,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-02-07**|**Applying BERT and ChatGPT for Sentiment Analysis of Lyme Disease in Scientific Literature**|Teo Susnjak et.al.|[2302.06474v1](http://arxiv.org/abs/2302.06474v1)|null|
 |**2023-02-08**|**Ordered Memory Baselines**|Daniel Borisov et.al.|[2302.06451v1](http://arxiv.org/abs/2302.06451v1)|null|
-|**2023-02-13**|**NYCU-TWO at Memotion 3: Good Foundation, Good Teacher, then you have Good Meme Analysis**|Yu-Chien Tang et.al.|[2302.06078v1](http://arxiv.org/abs/2302.06078v1)|null|
+|**2023-02-14**|**NYCU-TWO at Memotion 3: Good Foundation, Good Teacher, then you have Good Meme Analysis**|Yu-Chien Tang et.al.|[2302.06078v2](http://arxiv.org/abs/2302.06078v2)|null|
 |**2023-02-11**|**Compositional Exemplars for In-context Learning**|Jiacheng Ye et.al.|[2302.05698v1](http://arxiv.org/abs/2302.05698v1)|null|
 |**2023-02-08**|**Sentiment analysis and opinion mining on educational data: A survey**|Thanveer Shaik et.al.|[2302.04359v1](http://arxiv.org/abs/2302.04359v1)|null|
 |**2023-02-04**|**Sentiment Analysis on YouTube Smart Phone Unboxing Video Reviews in Sri Lanka**|Sherina Sally et.al.|[2302.03496v1](http://arxiv.org/abs/2302.03496v1)|null|
@@ -798,6 +805,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**Effects of Locality and Rule Language on Explanations for Knowledge Graph Embeddings**|Luis Galárraga et.al.|[2302.06967v1](http://arxiv.org/abs/2302.06967v1)|null|
+|**2023-02-14**|**Large-Scale Knowledge Synthesis and Complex Information Retrieval from Biomedical Documents**|Shreya Saxena et.al.|[2302.06854v1](http://arxiv.org/abs/2302.06854v1)|null|
+|**2023-02-14**|**Using Artificial Intelligence to aid Scientific Discovery of Climate Tipping Points**|Jennifer Sleeman et.al.|[2302.06852v1](http://arxiv.org/abs/2302.06852v1)|null|
+|**2023-02-13**|**STREET: A Multi-Task Structured Reasoning and Explanation Benchmark**|Danilo Ribeiro et.al.|[2302.06729v1](http://arxiv.org/abs/2302.06729v1)|null|
 |**2023-02-12**|**Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering**|Xanh Ho et.al.|[2302.05963v1](http://arxiv.org/abs/2302.05963v1)|**[link](https://github.com/alab-nii/multi-hop-analysis)**|
 |**2023-02-11**|**Informing clinical assessment by contextualizing post-hoc explanations of risk prediction models in type-2 diabetes**|Shruthi Chari et.al.|[2302.05752v1](http://arxiv.org/abs/2302.05752v1)|null|
 |**2023-02-11**|**Compositional Exemplars for In-context Learning**|Jiacheng Ye et.al.|[2302.05698v1](http://arxiv.org/abs/2302.05698v1)|null|
@@ -1084,6 +1095,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**Practical Cross-system Shilling Attacks with Limited Access to Data**|Meifang Zeng et.al.|[2302.07145v1](http://arxiv.org/abs/2302.07145v1)|**[link](https://github.com/KDEGroup/PC-Attack)**|
 |**2023-02-13**|**When Can We Track Significant Preference Shifts in Dueling Bandits?**|Joe Suk et.al.|[2302.06595v1](http://arxiv.org/abs/2302.06595v1)|null|
 |**2023-02-13**|**Recommending to Strategic Users**|Andreas Haupt et.al.|[2302.06559v1](http://arxiv.org/abs/2302.06559v1)|null|
 |**2023-02-13**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v1](http://arxiv.org/abs/2302.06333v1)|**[link](https://github.com/newlei/fda)**|
@@ -1260,6 +1272,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**Neurosymbolic AI for Reasoning on Graph Structures: A Survey**|Lauren Nicole DeLong et.al.|[2302.07200v1](http://arxiv.org/abs/2302.07200v1)|null|
+|**2023-02-14**|**Effects of Locality and Rule Language on Explanations for Knowledge Graph Embeddings**|Luis Galárraga et.al.|[2302.06967v1](http://arxiv.org/abs/2302.06967v1)|null|
+|**2023-02-14**|**Evaluation of Link Traversal Query Execution over Decentralized Environments with Structural Assumptions**|Ruben Taelman et.al.|[2302.06933v1](http://arxiv.org/abs/2302.06933v1)|null|
+|**2023-02-14**|**UKnow: A Unified Knowledge Protocol for Common-Sense Reasoning and Vision-Language Pre-training**|Biao Gong et.al.|[2302.06891v1](http://arxiv.org/abs/2302.06891v1)|**[link](https://github.com/gongggg/uknow)**|
+|**2023-02-14**|**Large-Scale Knowledge Synthesis and Complex Information Retrieval from Biomedical Documents**|Shreya Saxena et.al.|[2302.06854v1](http://arxiv.org/abs/2302.06854v1)|null|
 |**2023-02-13**|**Link Prediction with Attention Applied on Multiple Knowledge Graph Embedding Models**|Cosimo Gregucci et.al.|[2302.06229v1](http://arxiv.org/abs/2302.06229v1)|null|
 |**2023-02-13**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Zihui Li et.al.|[2302.06132v1](http://arxiv.org/abs/2302.06132v1)|null|
 |**2023-02-11**|**Learning by Applying: A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning**|Jiayu Liu et.al.|[2302.05717v1](http://arxiv.org/abs/2302.05717v1)|null|
@@ -1420,6 +1437,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests**|Bohang Zhang et.al.|[2302.07090v1](http://arxiv.org/abs/2302.07090v1)|null|
+|**2023-02-14**|**Over-Sampling Strategy in Feature Space for Graphs based Class-imbalanced Bot Detection**|Shuhao Shi et.al.|[2302.06900v1](http://arxiv.org/abs/2302.06900v1)|null|
+|**2023-02-14**|**Message Passing Meets Graph Neural Networks: A New Paradigm for Massive MIMO Systems**|Hengtao He et.al.|[2302.06896v1](http://arxiv.org/abs/2302.06896v1)|null|
+|**2023-02-14**|**Understanding Oversquashing in GNNs through the Lens of Effective Resistance**|Mitchell Black et.al.|[2302.06835v1](http://arxiv.org/abs/2302.06835v1)|null|
+|**2023-02-14**|**EspalomaCharge: Machine learning-enabled ultra-fast partial charge assignment**|Yuanqing Wang et.al.|[2302.06758v1](http://arxiv.org/abs/2302.06758v1)|**[link](https://github.com/choderalab/espaloma_charge)**|
 |**2023-02-13**|**Inferring Player Location in Sports Matches: Multi-Agent Spatial Imputation from Limited Observations**|Gregory Everett et.al.|[2302.06569v1](http://arxiv.org/abs/2302.06569v1)|null|
 |**2023-02-13**|**Homophily-oriented Heterogeneous Graph Rewiring**|Jiayan Guo et.al.|[2302.06299v1](http://arxiv.org/abs/2302.06299v1)|null|
 |**2023-02-13**|**Multiscale Graph Neural Network Autoencoders for Interpretable Scientific Machine Learning**|Shivam Barwey et.al.|[2302.06186v1](http://arxiv.org/abs/2302.06186v1)|null|
