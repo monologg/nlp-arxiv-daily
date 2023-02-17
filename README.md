@@ -21,6 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**Counting Carbon: A Survey of Factors Influencing the Emissions of Machine Learning**|Alexandra Sasha Luccioni et.al.|[2302.08476v1](http://arxiv.org/abs/2302.08476v1)|**[link](https://github.com/alexhernandezgarcia/co2ml)**|
+|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v1](http://arxiv.org/abs/2302.08374v1)|null|
+|**2023-02-16**|**A Survey on Event-based News Narrative Extraction**|Brian Keith Norambuena et.al.|[2302.08351v1](http://arxiv.org/abs/2302.08351v1)|null|
+|**2023-02-16**|**Tuning computer vision models with task rewards**|André Susano Pinto et.al.|[2302.08242v1](http://arxiv.org/abs/2302.08242v1)|null|
+|**2023-02-16**|**Prompt Tuning of Deep Neural Networks for Speaker-adaptive Visual Speech Recognition**|Minsu Kim et.al.|[2302.08102v1](http://arxiv.org/abs/2302.08102v1)|null|
+|**2023-02-16**|**Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization**|Xianjun Yang et.al.|[2302.08081v1](http://arxiv.org/abs/2302.08081v1)|null|
+|**2023-02-16**|**LabelPrompt: Effective Prompt-based Learning for Relation Classification**|Wenjie Zhang et.al.|[2302.08068v1](http://arxiv.org/abs/2302.08068v1)|null|
+|**2023-02-16**|**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**|Zemin Liu et.al.|[2302.08043v1](http://arxiv.org/abs/2302.08043v1)|null|
+|**2023-02-15**|**Commonsense Reasoning for Conversational AI: A Survey of the State of the Art**|Christopher Richardson et.al.|[2302.07926v1](http://arxiv.org/abs/2302.07926v1)|null|
 |**2023-02-15**|**Big Little Transformer Decoder**|Sehoon Kim et.al.|[2302.07863v1](http://arxiv.org/abs/2302.07863v1)|null|
 |**2023-02-15**|**Word class representations spontaneously emerge in a deep neural network trained on next word prediction**|Kishore Surendra et.al.|[2302.07588v1](http://arxiv.org/abs/2302.07588v1)|null|
 |**2023-02-14**|**Adding Instructions during Pretraining: Effective Way of Controlling Toxicity in Language Models**|Shrimai Prabhumoye et.al.|[2302.07388v1](http://arxiv.org/abs/2302.07388v1)|null|
@@ -400,6 +409,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-15**|**Meeting the Needs of Low-Resource Languages: The Value of Automatic Alignments via Pretrained Models**|Abteen Ebrahimi et.al.|[2302.07912v1](http://arxiv.org/abs/2302.07912v1)|null|
 |**2023-02-14**|**Meta-Learning Triplet Network with Adaptive Margins for Few-Shot Named Entity Recognition**|Chengcheng Han et.al.|[2302.07739v1](http://arxiv.org/abs/2302.07739v1)|null|
 |**2023-02-13**|**Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition**|Yongqi Li et.al.|[2302.06397v1](http://arxiv.org/abs/2302.06397v1)|**[link](https://github.com/liyongqi2002/TadNER)**|
 |**2023-02-14**|**Learning from Noisy Crowd Labels with Logics**|Zhijun Chen et.al.|[2302.06337v2](http://arxiv.org/abs/2302.06337v2)|**[link](https://github.com/junchenzhi/logic-lncl)**|
@@ -525,6 +535,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**LabelPrompt: Effective Prompt-based Learning for Relation Classification**|Wenjie Zhang et.al.|[2302.08068v1](http://arxiv.org/abs/2302.08068v1)|null|
 |**2023-02-15**|**DP-BART for Privatized Text Rewriting under Local Differential Privacy**|Timour Igamberdiev et.al.|[2302.07636v1](http://arxiv.org/abs/2302.07636v1)|null|
 |**2023-02-14**|**Investigating Multi-source Active Learning for Natural Language Inference**|Ard Snijders et.al.|[2302.06976v1](http://arxiv.org/abs/2302.06976v1)|**[link](https://github.com/asnijders/multi_source_al)**|
 |**2023-02-14**|**SwitchPrompt: Learning Domain-Specific Gated Soft Prompts for Classification in Low-Resource Domains**|Koustava Goswami et.al.|[2302.06868v1](http://arxiv.org/abs/2302.06868v1)|**[link](https://github.com/boschresearch/switchprompt)**|
@@ -807,6 +818,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**Learning to Initialize: Can Meta Learning Improve Cross-task Generalization in Prompt Tuning?**|Chengwei Qin et.al.|[2302.08143v1](http://arxiv.org/abs/2302.08143v1)|null|
+|**2023-02-16**|**Product Question Answering in E-Commerce: A Survey**|Yang Deng et.al.|[2302.08092v1](http://arxiv.org/abs/2302.08092v1)|null|
 |**2023-02-10**|**Alloprof: a new French question-answer education dataset and its use in an information retrieval case study**|Antoine Lefebvre-Brossard et.al.|[2302.07738v1](http://arxiv.org/abs/2302.07738v1)|null|
 |**2023-02-14**|**Effects of Locality and Rule Language on Explanations for Knowledge Graph Embeddings**|Luis Galárraga et.al.|[2302.06967v1](http://arxiv.org/abs/2302.06967v1)|null|
 |**2023-02-14**|**Large-Scale Knowledge Synthesis and Complex Information Retrieval from Biomedical Documents**|Shreya Saxena et.al.|[2302.06854v1](http://arxiv.org/abs/2302.06854v1)|null|
@@ -971,6 +984,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**Information extraction and artwork pricing**|Jaehyuk Choi et.al.|[2302.08167v1](http://arxiv.org/abs/2302.08167v1)|null|
 |**2023-02-15**|**Whats New? Identifying the Unfolding of New Events in Narratives**|Seyed Mahed Mousavi et.al.|[2302.07748v1](http://arxiv.org/abs/2302.07748v1)|null|
 |**2023-02-13**|**The impact of an interactive visualization and simulation tool on learning quantum physics: Results of an eye-tracking study**|Stefan Küchemann et.al.|[2302.06286v1](http://arxiv.org/abs/2302.06286v1)|null|
 |**2023-02-13**|**Fabrication of a Low-Cost Real-Time Mobile ECG System for Health Monitoring**|Soheil Khooyooz et.al.|[2302.06272v1](http://arxiv.org/abs/2302.06272v1)|null|
@@ -1099,6 +1113,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation**|Xuheng Cai et.al.|[2302.08191v1](http://arxiv.org/abs/2302.08191v1)|**[link](https://github.com/hkuds/lightgcl)**|
+|**2023-02-16**|**Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video Rank Models**|Xuanji Xiao et.al.|[2302.08128v1](http://arxiv.org/abs/2302.08128v1)|null|
+|**2023-02-16**|**Shared Microexponents: A Little Shifting Goes a Long Way**|Bita Rouhani et.al.|[2302.08007v1](http://arxiv.org/abs/2302.08007v1)|null|
 |**2023-02-14**|**IDEAL: Toward High-efficiency Device-Cloud Collaborative and Dynamic Recommendation System**|Zheqi Lv et.al.|[2302.07335v1](http://arxiv.org/abs/2302.07335v1)|null|
 |**2023-02-14**|**Practical Cross-system Shilling Attacks with Limited Access to Data**|Meifang Zeng et.al.|[2302.07145v1](http://arxiv.org/abs/2302.07145v1)|**[link](https://github.com/KDEGroup/PC-Attack)**|
 |**2023-02-13**|**When Can We Track Significant Preference Shifts in Dueling Bandits?**|Joe Suk et.al.|[2302.06595v1](http://arxiv.org/abs/2302.06595v1)|null|
@@ -1444,6 +1461,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**AirGNN: Graph Neural Network over the Air**|Zhan Gao et.al.|[2302.08447v1](http://arxiv.org/abs/2302.08447v1)|null|
+|**2023-02-16**|**Temporal Graph Neural Networks for Irregular Data**|Joel Oskarsson et.al.|[2302.08415v1](http://arxiv.org/abs/2302.08415v1)|**[link](https://github.com/joeloskarsson/tgnn4i)**|
+|**2023-02-16**|**On the BSM reach of four top production at the LHC**|Anisha et.al.|[2302.08281v1](http://arxiv.org/abs/2302.08281v1)|null|
+|**2023-02-16**|**Self-supervised Guided Hypergraph Feature Propagation for Semi-supervised Classification with Missing Node Features**|Chengxiang Lei et.al.|[2302.08250v1](http://arxiv.org/abs/2302.08250v1)|null|
+|**2023-02-16**|**LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation**|Xuheng Cai et.al.|[2302.08191v1](http://arxiv.org/abs/2302.08191v1)|**[link](https://github.com/hkuds/lightgcl)**|
+|**2023-02-16**|**Graph Adversarial Immunization for Certifiable Robustness**|Shuchang Tao et.al.|[2302.08051v1](http://arxiv.org/abs/2302.08051v1)|null|
+|**2023-02-16**|**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**|Zemin Liu et.al.|[2302.08043v1](http://arxiv.org/abs/2302.08043v1)|null|
 |**2023-02-15**|**Project Elements: A computational entity-component-system in a scene-graph pythonic framework, for a neural, geometric computer graphics curriculum**|George Papagiannakis et.al.|[2302.07691v1](http://arxiv.org/abs/2302.07691v1)|null|
 |**2023-02-15**|**CUTS: Neural Causal Discovery from Irregular Time-Series Data**|Yuxiao Cheng et.al.|[2302.07458v1](http://arxiv.org/abs/2302.07458v1)|null|
 |**2023-02-14**|**Attacking Fake News Detectors via Manipulating News Social Engagement**|Haoran Wang et.al.|[2302.07363v1](http://arxiv.org/abs/2302.07363v1)|null|
