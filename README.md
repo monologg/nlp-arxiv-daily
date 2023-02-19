@@ -22,7 +22,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-02-16**|**Counting Carbon: A Survey of Factors Influencing the Emissions of Machine Learning**|Alexandra Sasha Luccioni et.al.|[2302.08476v1](http://arxiv.org/abs/2302.08476v1)|**[link](https://github.com/alexhernandezgarcia/co2ml)**|
-|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v1](http://arxiv.org/abs/2302.08374v1)|null|
+|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v1](http://arxiv.org/abs/2302.08374v1)|**[link](https://github.com/badripatro/efficient360)**|
 |**2023-02-16**|**A Survey on Event-based News Narrative Extraction**|Brian Keith Norambuena et.al.|[2302.08351v1](http://arxiv.org/abs/2302.08351v1)|null|
 |**2023-02-16**|**Tuning computer vision models with task rewards**|André Susano Pinto et.al.|[2302.08242v1](http://arxiv.org/abs/2302.08242v1)|null|
 |**2023-02-16**|**Prompt Tuning of Deep Neural Networks for Speaker-adaptive Visual Speech Recognition**|Minsu Kim et.al.|[2302.08102v1](http://arxiv.org/abs/2302.08102v1)|null|
@@ -690,7 +690,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-15**|**Quantifying polarization across political groups on key policy issues using sentiment analysis**|Dennies Bor et.al.|[2302.07775v1](http://arxiv.org/abs/2302.07775v1)|null|
+|**2023-02-15**|**Quantifying polarization across political groups on key policy issues using sentiment analysis**|Dennies Bor et.al.|[2302.07775v1](http://arxiv.org/abs/2302.07775v1)|**[link](https://github.com/denniesbor/twitter_political_polarization)**|
 |**2023-02-07**|**Applying BERT and ChatGPT for Sentiment Analysis of Lyme Disease in Scientific Literature**|Teo Susnjak et.al.|[2302.06474v1](http://arxiv.org/abs/2302.06474v1)|null|
 |**2023-02-08**|**Ordered Memory Baselines**|Daniel Borisov et.al.|[2302.06451v1](http://arxiv.org/abs/2302.06451v1)|null|
 |**2023-02-14**|**NYCU-TWO at Memotion 3: Good Foundation, Good Teacher, then you have Good Meme Analysis**|Yu-Chien Tang et.al.|[2302.06078v2](http://arxiv.org/abs/2302.06078v2)|null|
