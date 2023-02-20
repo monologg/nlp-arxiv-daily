@@ -25,8 +25,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-17**|**Massively Multilingual Shallow Fusion with Large Language Models**|Ke Hu et.al.|[2302.08917v1](http://arxiv.org/abs/2302.08917v1)|null|
+|**2023-02-16**|**Role of Bias Terms in Dot-Product Attention**|Mahdi Namazifar et.al.|[2302.08626v1](http://arxiv.org/abs/2302.08626v1)|null|
+|**2023-02-16**|**What A Situated Language-Using Agent Must be Able to Do: A Top-Down Analysis**|David Schlangen et.al.|[2302.08590v1](http://arxiv.org/abs/2302.08590v1)|null|
+|**2023-02-16**|**Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media**|Gerhard Paaß et.al.|[2302.08575v1](http://arxiv.org/abs/2302.08575v1)|null|
+|**2023-02-16**|**THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression**|Minghao Li et.al.|[2302.08545v1](http://arxiv.org/abs/2302.08545v1)|null|
 |**2023-02-16**|**Counting Carbon: A Survey of Factors Influencing the Emissions of Machine Learning**|Alexandra Sasha Luccioni et.al.|[2302.08476v1](http://arxiv.org/abs/2302.08476v1)|**[link](https://github.com/alexhernandezgarcia/co2ml)**|
-|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v1](http://arxiv.org/abs/2302.08374v1)|**[link](https://github.com/badripatro/efficient360)**|
+|**2023-02-17**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v2](http://arxiv.org/abs/2302.08374v2)|**[link](https://github.com/badripatro/efficient360)**|
 |**2023-02-16**|**A Survey on Event-based News Narrative Extraction**|Brian Keith Norambuena et.al.|[2302.08351v1](http://arxiv.org/abs/2302.08351v1)|null|
 |**2023-02-16**|**Tuning computer vision models with task rewards**|André Susano Pinto et.al.|[2302.08242v1](http://arxiv.org/abs/2302.08242v1)|null|
 |**2023-02-16**|**Prompt Tuning of Deep Neural Networks for Speaker-adaptive Visual Speech Recognition**|Minsu Kim et.al.|[2302.08102v1](http://arxiv.org/abs/2302.08102v1)|null|
@@ -413,6 +418,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-17**|**Entry Separation using a Mixed Visual and Textual Language Model: Application to 19th century French Trade Directories**|Bertrand Duménieu et.al.|[2302.08948v1](http://arxiv.org/abs/2302.08948v1)|**[link](https://github.com/soduco/paper-entryseg-icdar23-code)**|
+|**2023-02-17**|**Uncertainty-aware Self-training for Low-resource Neural Sequence Labeling**|Jianing Wang et.al.|[2302.08659v1](http://arxiv.org/abs/2302.08659v1)|null|
 |**2023-02-15**|**Meeting the Needs of Low-Resource Languages: The Value of Automatic Alignments via Pretrained Models**|Abteen Ebrahimi et.al.|[2302.07912v1](http://arxiv.org/abs/2302.07912v1)|null|
 |**2023-02-14**|**Meta-Learning Triplet Network with Adaptive Margins for Few-Shot Named Entity Recognition**|Chengcheng Han et.al.|[2302.07739v1](http://arxiv.org/abs/2302.07739v1)|null|
 |**2023-02-13**|**Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition**|Yongqi Li et.al.|[2302.06397v1](http://arxiv.org/abs/2302.06397v1)|**[link](https://github.com/liyongqi2002/TadNER)**|
@@ -539,6 +546,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-17**|**Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**|Zhihong Chen et.al.|[2302.08958v1](http://arxiv.org/abs/2302.08958v1)|**[link](https://github.com/zhjohnchan/ptunifier)**|
+|**2023-02-17**|**Like a Good Nearest Neighbor: Practical Content Moderation with Sentence Transformers**|Luke Bates et.al.|[2302.08957v1](http://arxiv.org/abs/2302.08957v1)|**[link](https://github.com/ukplab/lagonn)**|
+|**2023-02-16**|**Keep it Neutral: Using Natural Language Inference to Improve Generation**|Michail Mersinias et.al.|[2302.08577v1](http://arxiv.org/abs/2302.08577v1)|null|
 |**2023-02-16**|**LabelPrompt: Effective Prompt-based Learning for Relation Classification**|Wenjie Zhang et.al.|[2302.08068v1](http://arxiv.org/abs/2302.08068v1)|null|
 |**2023-02-15**|**DP-BART for Privatized Text Rewriting under Local Differential Privacy**|Timour Igamberdiev et.al.|[2302.07636v1](http://arxiv.org/abs/2302.07636v1)|**[link](https://github.com/trusthlt/dp-bart-private-rewriting)**|
 |**2023-02-14**|**Investigating Multi-source Active Learning for Natural Language Inference**|Ard Snijders et.al.|[2302.06976v1](http://arxiv.org/abs/2302.06976v1)|**[link](https://github.com/asnijders/multi_source_al)**|
@@ -694,6 +704,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-17**|**AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2302.08956v1](http://arxiv.org/abs/2302.08956v1)|null|
+|**2023-02-16**|**InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis**|Kevin Scaria et.al.|[2302.08624v1](http://arxiv.org/abs/2302.08624v1)|null|
 |**2023-02-15**|**Quantifying polarization across political groups on key policy issues using sentiment analysis**|Dennies Bor et.al.|[2302.07775v1](http://arxiv.org/abs/2302.07775v1)|**[link](https://github.com/denniesbor/twitter_political_polarization)**|
 |**2023-02-07**|**Applying BERT and ChatGPT for Sentiment Analysis of Lyme Disease in Scientific Literature**|Teo Susnjak et.al.|[2302.06474v1](http://arxiv.org/abs/2302.06474v1)|null|
 |**2023-02-08**|**Ordered Memory Baselines**|Daniel Borisov et.al.|[2302.06451v1](http://arxiv.org/abs/2302.06451v1)|null|
@@ -822,6 +834,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-17**|**Complex QA and language models hybrid architectures, Survey**|Xavier Daull et.al.|[2302.09051v1](http://arxiv.org/abs/2302.09051v1)|null|
+|**2023-02-17**|**Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**|Zhihong Chen et.al.|[2302.08958v1](http://arxiv.org/abs/2302.08958v1)|**[link](https://github.com/zhjohnchan/ptunifier)**|
+|**2023-02-17**|**Multimodal Federated Learning via Contrastive Representation Ensemble**|Qiying Yu et.al.|[2302.08888v1](http://arxiv.org/abs/2302.08888v1)|null|
+|**2023-02-16**|**Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media**|Gerhard Paaß et.al.|[2302.08575v1](http://arxiv.org/abs/2302.08575v1)|null|
 |**2023-02-16**|**Learning to Initialize: Can Meta Learning Improve Cross-task Generalization in Prompt Tuning?**|Chengwei Qin et.al.|[2302.08143v1](http://arxiv.org/abs/2302.08143v1)|null|
 |**2023-02-16**|**Product Question Answering in E-Commerce: A Survey**|Yang Deng et.al.|[2302.08092v1](http://arxiv.org/abs/2302.08092v1)|null|
 |**2023-02-10**|**Alloprof: a new French question-answer education dataset and its use in an information retrieval case study**|Antoine Lefebvre-Brossard et.al.|[2302.07738v1](http://arxiv.org/abs/2302.07738v1)|null|
@@ -1117,7 +1133,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-02-16**|**LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation**|Xuheng Cai et.al.|[2302.08191v1](http://arxiv.org/abs/2302.08191v1)|**[link](https://github.com/hkuds/lightgcl)**|
+|**2023-02-17**|**Multi-Behavior Graph Neural Networks for Recommender System**|Lianghao Xia et.al.|[2302.08678v1](http://arxiv.org/abs/2302.08678v1)|null|
+|**2023-02-17**|**LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation**|Xuheng Cai et.al.|[2302.08191v2](http://arxiv.org/abs/2302.08191v2)|**[link](https://github.com/hkuds/lightgcl)**|
 |**2023-02-16**|**Neighbor Based Enhancement for the Long-Tail Ranking Problem in Video Rank Models**|Xuanji Xiao et.al.|[2302.08128v1](http://arxiv.org/abs/2302.08128v1)|null|
 |**2023-02-16**|**Shared Microexponents: A Little Shifting Goes a Long Way**|Bita Rouhani et.al.|[2302.08007v1](http://arxiv.org/abs/2302.08007v1)|null|
 |**2023-02-14**|**IDEAL: Toward High-efficiency Device-Cloud Collaborative and Dynamic Recommendation System**|Zheqi Lv et.al.|[2302.07335v1](http://arxiv.org/abs/2302.07335v1)|null|
@@ -1298,6 +1315,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-17**|**Creating Knowledge Graphs for Geographic Data on the Web**|Elena Demidova et.al.|[2302.08823v1](http://arxiv.org/abs/2302.08823v1)|**[link](https://github.com/NicolasTe/osm2kg)**|
+|**2023-02-17**|**Vision, Deduction and Alignment: An Empirical Study on Multi-modal Knowledge Graph Alignment**|Yangning Li et.al.|[2302.08774v1](http://arxiv.org/abs/2302.08774v1)|null|
+|**2023-02-16**|**Contextual Knowledge-based Intent Processing for Management of Next Generation Cellular Networks**|Kashif Mehmood et.al.|[2302.08544v1](http://arxiv.org/abs/2302.08544v1)|null|
 |**2023-02-13**|**Knowledge Enhanced Semantic Communication Receiver**|Bingyan Wang et.al.|[2302.07727v1](http://arxiv.org/abs/2302.07727v1)|null|
 |**2023-02-15**|**Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network**|Wenxuan Tu et.al.|[2302.07524v1](http://arxiv.org/abs/2302.07524v1)|null|
 |**2023-02-14**|**Neurosymbolic AI for Reasoning on Graph Structures: A Survey**|Lauren Nicole DeLong et.al.|[2302.07200v1](http://arxiv.org/abs/2302.07200v1)|null|
@@ -1465,6 +1485,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-17**|**Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection**|Weilin Cong et.al.|[2302.08990v1](http://arxiv.org/abs/2302.08990v1)|null|
+|**2023-02-17**|**Learnable Topological Features for Phylogenetic Inference via Graph Neural Networks**|Cheng Zhang et.al.|[2302.08840v1](http://arxiv.org/abs/2302.08840v1)|**[link](https://github.com/zcrabbit/vbpi-gnn)**|
+|**2023-02-17**|**G-Signatures: Global Graph Propagation With Randomized Signatures**|Bernhard Schäfl et.al.|[2302.08811v1](http://arxiv.org/abs/2302.08811v1)|null|
+|**2023-02-17**|**SE(3) symmetry lets graph neural networks learn arterial velocity estimation from small datasets**|Julian Suk et.al.|[2302.08780v1](http://arxiv.org/abs/2302.08780v1)|null|
+|**2023-02-17**|**Multi-Behavior Graph Neural Networks for Recommender System**|Lianghao Xia et.al.|[2302.08678v1](http://arxiv.org/abs/2302.08678v1)|null|
+|**2023-02-17**|**Search to Capture Long-range Dependency with Stacking GNNs for Graph Classification**|Lanning Wei et.al.|[2302.08671v1](http://arxiv.org/abs/2302.08671v1)|null|
+|**2023-02-17**|**Fast Temporal Wavelet Graph Neural Networks**|Duc Thien Nguyen et.al.|[2302.08643v1](http://arxiv.org/abs/2302.08643v1)|null|
 |**2023-02-16**|**AirGNN: Graph Neural Network over the Air**|Zhan Gao et.al.|[2302.08447v1](http://arxiv.org/abs/2302.08447v1)|null|
 |**2023-02-16**|**Temporal Graph Neural Networks for Irregular Data**|Joel Oskarsson et.al.|[2302.08415v1](http://arxiv.org/abs/2302.08415v1)|**[link](https://github.com/joeloskarsson/tgnn4i)**|
 |**2023-02-16**|**On the BSM reach of four top production at the LHC**|Anisha et.al.|[2302.08281v1](http://arxiv.org/abs/2302.08281v1)|null|
