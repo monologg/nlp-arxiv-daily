@@ -21,6 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|null|
+|**2023-02-23**|**Deep learning model for Mongolian Citizens Feedback Analysis using Word Vector Embeddings**|Zolzaya Dashdorj et.al.|[2302.12069v1](http://arxiv.org/abs/2302.12069v1)|null|
+|**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
+|**2023-02-23**|**Sentence Simplification via Large Language Models**|Yutao Feng et.al.|[2302.11957v1](http://arxiv.org/abs/2302.11957v1)|null|
+|**2023-02-23**|**Teacher Intervention: Improving Convergence of Quantization Aware Training for Ultra-Low Precision Transformers**|Minsoo Kim et.al.|[2302.11812v1](http://arxiv.org/abs/2302.11812v1)|null|
+|**2023-02-23**|**MUTANT: A Multi-sentential Code-mixed Hinglish Dataset**|Rahul Gupta et.al.|[2302.11766v1](http://arxiv.org/abs/2302.11766v1)|null|
+|**2023-02-23**|**VLSP 2022 -- EVJVQA Challenge: Multilingual Visual Question Answering**|Ngan Luu-Thuy Nguyen et.al.|[2302.11752v1](http://arxiv.org/abs/2302.11752v1)|null|
 |**2023-02-22**|**Scaling Robot Learning with Semantically Imagined Experience**|Tianhe Yu et.al.|[2302.11550v1](http://arxiv.org/abs/2302.11550v1)|null|
 |**2023-02-22**|**Data Augmentation for Neural NLP**|Domagoj Pluščec et.al.|[2302.11412v1](http://arxiv.org/abs/2302.11412v1)|null|
 |**2023-02-22**|**Learning from Predictions: Fusing Training and Autoregressive Inference for Long-Term Spatiotemporal Forecasts**|Pantelis R. Vlachas et.al.|[2302.11101v1](http://arxiv.org/abs/2302.11101v1)|null|
@@ -284,6 +291,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
 |**2023-01-30**|**LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain**|Joel Niklaus et.al.|[2301.13126v1](http://arxiv.org/abs/2301.13126v1)|**[link](https://github.com/joelniklaus/lextreme)**|
 |**2023-01-30**|**Finding the Law: Enhancing Statutory Article Retrieval via Graph Neural Networks**|Antoine Louis et.al.|[2301.12847v1](http://arxiv.org/abs/2301.12847v1)|**[link](https://github.com/maastrichtlawtech/gdsr)**|
 |**2023-01-21**|**Investigating Strategies for Clause Recommendation**|Sagar Joshi et.al.|[2301.10716v1](http://arxiv.org/abs/2301.10716v1)|**[link](https://github.com/sagarsj42/strategies_for_clause_recommendation)**|
@@ -433,7 +441,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-22**|**The Impact of Subword Pooling Strategy for Cross-lingual Event Detection**|Shantanu Agarwal et.al.|[2302.11365v1](http://arxiv.org/abs/2302.11365v1)|**[link](https://github.com/isi-boston/ed-pooling)**|
+|**2023-02-23**|**A Neural Span-Based Continual Named Entity Recognition Model**|Yunan Zhang et.al.|[2302.12200v1](http://arxiv.org/abs/2302.12200v1)|**[link](https://github.com/qznan/spankl)**|
+|**2023-02-23**|**Impact of Subword Pooling Strategy on Cross-lingual Event Detection**|Shantanu Agarwal et.al.|[2302.11365v2](http://arxiv.org/abs/2302.11365v2)|null|
 |**2023-02-22**|**FiNER: Financial Named Entity Recognition Dataset and Weak-Supervision Model**|Agam Shah et.al.|[2302.11157v1](http://arxiv.org/abs/2302.11157v1)|**[link](https://github.com/gtfintechlab/finer)**|
 |**2023-02-16**|**Dynamic Named Entity Recognition**|Tristan Luiggi et.al.|[2302.10314v1](http://arxiv.org/abs/2302.10314v1)|**[link](https://github.com/kawatami/dner)**|
 |**2023-02-20**|**Zero-Shot Information Extraction via Chatting with ChatGPT**|Xiang Wei et.al.|[2302.10205v1](http://arxiv.org/abs/2302.10205v1)|null|
@@ -870,6 +879,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-23**|**MFBE: Leveraging Multi-Field Information of FAQs for Efficient Dense Retrieval**|Debopriyo Banerjee et.al.|[2302.11953v1](http://arxiv.org/abs/2302.11953v1)|null|
+|**2023-02-23**|**FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering**|Qichen Ye et.al.|[2302.11799v1](http://arxiv.org/abs/2302.11799v1)|null|
+|**2023-02-23**|**VLSP 2022 -- EVJVQA Challenge: Multilingual Visual Question Answering**|Ngan Luu-Thuy Nguyen et.al.|[2302.11752v1](http://arxiv.org/abs/2302.11752v1)|null|
+|**2023-02-23**|**Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?**|Yang Chen et.al.|[2302.11713v1](http://arxiv.org/abs/2302.11713v1)|null|
 |**2023-02-22**|**Construction of Knowledge Graphs: State and Challenges**|Marvin Hofer et.al.|[2302.11509v1](http://arxiv.org/abs/2302.11509v1)|null|
 |**2023-02-22**|**Connecting Vision and Language with Video Localized Narratives**|Paul Voigtlaender et.al.|[2302.11217v1](http://arxiv.org/abs/2302.11217v1)|**[link](https://github.com/google/video-localized-narratives)**|
 |**2023-02-22**|**GTRL: An Entity Group-Aware Temporal Knowledge Graph Representation Learning Method**|Xing Tang et.al.|[2302.11091v1](http://arxiv.org/abs/2302.11091v1)|**[link](https://github.com/xt-55/GTRL)**|
@@ -1053,7 +1066,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-22**|**The Impact of Subword Pooling Strategy for Cross-lingual Event Detection**|Shantanu Agarwal et.al.|[2302.11365v1](http://arxiv.org/abs/2302.11365v1)|**[link](https://github.com/isi-boston/ed-pooling)**|
+|**2023-02-23**|**Automated Statement Extraction]{Automated Statement Extraction from Press Briefings**|Jüri Keller et.al.|[2302.12131v1](http://arxiv.org/abs/2302.12131v1)|null|
+|**2023-02-23**|**Impact of Subword Pooling Strategy on Cross-lingual Event Detection**|Shantanu Agarwal et.al.|[2302.11365v2](http://arxiv.org/abs/2302.11365v2)|null|
 |**2023-02-21**|**Using Semantic Information for Defining and Detecting OOD Inputs**|Ramneet Kaur et.al.|[2302.11019v1](http://arxiv.org/abs/2302.11019v1)|null|
 |**2023-02-21**|**Non-pooling Network for medical image segmentation**|Weihu Song et.al.|[2302.10412v1](http://arxiv.org/abs/2302.10412v1)|null|
 |**2023-02-20**|**Zero-Shot Information Extraction via Chatting with ChatGPT**|Xiang Wei et.al.|[2302.10205v1](http://arxiv.org/abs/2302.10205v1)|null|
@@ -1189,13 +1203,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-23**|**MFBE: Leveraging Multi-Field Information of FAQs for Efficient Dense Retrieval**|Debopriyo Banerjee et.al.|[2302.11953v1](http://arxiv.org/abs/2302.11953v1)|null|
+|**2023-02-22**|**What Makes a Code Review Useful to OpenDev Developers? An Empirical Investigation**|Asif Kamal Turzo et.al.|[2302.11686v1](http://arxiv.org/abs/2302.11686v1)|null|
 |**2023-02-22**|**Construction of Knowledge Graphs: State and Challenges**|Marvin Hofer et.al.|[2302.11509v1](http://arxiv.org/abs/2302.11509v1)|null|
-|**2023-02-22**|**Commonality in Recommender Systems: Evaluating Recommender Systems to Enhance Cultural Citizenship**|Andres Ferraro et.al.|[2302.11360v1](http://arxiv.org/abs/2302.11360v1)|null|
+|**2023-02-23**|**Commonality in Recommender Systems: Evaluating Recommender Systems to Enhance Cultural Citizenship**|Andres Ferraro et.al.|[2302.11360v2](http://arxiv.org/abs/2302.11360v2)|null|
 |**2023-02-22**|**The Amplification Paradox in Recommender Systems**|Manoel Horta Ribeiro et.al.|[2302.11225v1](http://arxiv.org/abs/2302.11225v1)|null|
 |**2023-02-22**|**A Survey on User Behavior Modeling in Recommender Systems**|Zhicheng He et.al.|[2302.11087v1](http://arxiv.org/abs/2302.11087v1)|null|
 |**2023-02-21**|**Que2Engage: Embedding-based Retrieval for Relevant and Engaging Products at Facebook Marketplace**|Yunzhong He et.al.|[2302.11052v1](http://arxiv.org/abs/2302.11052v1)|null|
 |**2023-02-21**|**MP-Rec: Hardware-Software Co-Design to Enable Multi-Path Recommendation**|Samuel Hsia et.al.|[2302.10872v1](http://arxiv.org/abs/2302.10872v1)|null|
-|**2023-02-21**|**Multi-Modal Self-Supervised Learning for Recommendation**|Wei Wei et.al.|[2302.10632v1](http://arxiv.org/abs/2302.10632v1)|**[link](https://github.com/hkuds/mmssl)**|
+|**2023-02-23**|**Multi-Modal Self-Supervised Learning for Recommendation**|Wei Wei et.al.|[2302.10632v2](http://arxiv.org/abs/2302.10632v2)|**[link](https://github.com/hkuds/mmssl)**|
 |**2023-02-21**|**Managing multi-facet bias in collaborative filtering recommender systems**|Samira Vaez Barenji et.al.|[2302.10575v1](http://arxiv.org/abs/2302.10575v1)|null|
 |**2023-02-21**|**Dual Policy Learning for Aggregation Optimization in Graph Neural Network-based Recommender Systems**|Heesoo Jung et.al.|[2302.10567v1](http://arxiv.org/abs/2302.10567v1)|**[link](https://github.com/steve30572/dpao)**|
 |**2023-02-20**|**Social4Rec: Distilling User Preference from Social Graph for Video Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v1](http://arxiv.org/abs/2302.09971v1)|**[link](https://github.com/social4rec/socialnet)**|
@@ -1385,11 +1401,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-23**|**KHAN: Knowledge-Aware Hierarchical Attention Networks for Political Stance Prediction**|Yunyong Ko et.al.|[2302.12126v1](http://arxiv.org/abs/2302.12126v1)|**[link](https://github.com/yy-ko/khan-www23)**|
+|**2023-02-23**|**FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering**|Qichen Ye et.al.|[2302.11799v1](http://arxiv.org/abs/2302.11799v1)|null|
 |**2023-02-22**|**K-Diag: Knowledge-enhanced Disease Diagnosis in Radiographic Imaging**|Chaoyi Wu et.al.|[2302.11557v1](http://arxiv.org/abs/2302.11557v1)|null|
 |**2023-02-22**|**Construction of Knowledge Graphs: State and Challenges**|Marvin Hofer et.al.|[2302.11509v1](http://arxiv.org/abs/2302.11509v1)|null|
 |**2023-02-22**|**GTRL: An Entity Group-Aware Temporal Knowledge Graph Representation Learning Method**|Xing Tang et.al.|[2302.11091v1](http://arxiv.org/abs/2302.11091v1)|**[link](https://github.com/xt-55/GTRL)**|
 |**2023-02-21**|**Dual Policy Learning for Aggregation Optimization in Graph Neural Network-based Recommender Systems**|Heesoo Jung et.al.|[2302.10567v1](http://arxiv.org/abs/2302.10567v1)|**[link](https://github.com/steve30572/dpao)**|
-|**2023-02-21**|**KG-ECO: Knowledge Graph Enhanced Entity Correction for Query Rewriting**|Jinglun Cai et.al.|[2302.10454v1](http://arxiv.org/abs/2302.10454v1)|null|
+|**2023-02-22**|**KG-ECO: Knowledge Graph Enhanced Entity Correction for Query Rewriting**|Jinglun Cai et.al.|[2302.10454v2](http://arxiv.org/abs/2302.10454v2)|null|
 |**2023-02-18**|**Knowledge Graph Completion based on Tensor Decomposition for Disease Gene Prediction**|Xinyan Wang et.al.|[2302.09335v1](http://arxiv.org/abs/2302.09335v1)|**[link](https://github.com/sienna-wxy/kdgene)**|
 |**2023-02-17**|**Creating Knowledge Graphs for Geographic Data on the Web**|Elena Demidova et.al.|[2302.08823v1](http://arxiv.org/abs/2302.08823v1)|**[link](https://github.com/NicolasTe/osm2kg)**|
 |**2023-02-17**|**Vision, Deduction and Alignment: An Empirical Study on Multi-modal Knowledge Graph Alignment**|Yangning Li et.al.|[2302.08774v1](http://arxiv.org/abs/2302.08774v1)|null|
@@ -1561,6 +1579,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-23**|**EquiPocket: an E(3)-Equivariant Geometric Graph Neural Network for Ligand Binding Site Prediction**|Yang Zhang et.al.|[2302.12177v1](http://arxiv.org/abs/2302.12177v1)|null|
+|**2023-02-23**|**Do Machine Learning Models Produce TypeScript Types that Type Check?**|Ming-Ho Yee et.al.|[2302.12163v1](http://arxiv.org/abs/2302.12163v1)|null|
+|**2023-02-22**|**A critical look at the evaluation of GNNs under heterophily: are we really making progress?**|Oleg Platonov et.al.|[2302.11640v1](http://arxiv.org/abs/2302.11640v1)|**[link](https://github.com/yandex-research/heterophilous-graphs)**|
+|**2023-02-22**|**Some Might Say All You Need Is Sum**|Eran Rosenbluth et.al.|[2302.11603v1](http://arxiv.org/abs/2302.11603v1)|null|
 |**2023-02-22**|**Equivariant Polynomials for Graph Neural Networks**|Omri Puny et.al.|[2302.11556v1](http://arxiv.org/abs/2302.11556v1)|null|
 |**2023-02-22**|**Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural Networks**|Indro Spinelli et.al.|[2302.11479v1](http://arxiv.org/abs/2302.11479v1)|null|
 |**2023-02-22**|**Power Constrained Autotuning using Graph Neural Networks**|Akash Dutta et.al.|[2302.11467v1](http://arxiv.org/abs/2302.11467v1)|null|
