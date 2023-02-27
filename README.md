@@ -21,13 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-24**|**STA: Self-controlled Text Augmentation for Improving Text Classifications**|Congcong Wang et.al.|[2302.12784v1](http://arxiv.org/abs/2302.12784v1)|**[link](https://github.com/wangcongcong123/sta)**|
+|**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
+|**2023-02-24**|**SGL-PT: A Strong Graph Learner with Graph Prompt Tuning**|Yun Zhu et.al.|[2302.12449v1](http://arxiv.org/abs/2302.12449v1)|null|
 |**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|null|
 |**2023-02-23**|**Deep learning model for Mongolian Citizens Feedback Analysis using Word Vector Embeddings**|Zolzaya Dashdorj et.al.|[2302.12069v1](http://arxiv.org/abs/2302.12069v1)|null|
 |**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
 |**2023-02-23**|**Sentence Simplification via Large Language Models**|Yutao Feng et.al.|[2302.11957v1](http://arxiv.org/abs/2302.11957v1)|null|
 |**2023-02-23**|**Teacher Intervention: Improving Convergence of Quantization Aware Training for Ultra-Low Precision Transformers**|Minsoo Kim et.al.|[2302.11812v1](http://arxiv.org/abs/2302.11812v1)|**[link](https://github.com/marsjacobs/ti-kd-qat)**|
 |**2023-02-23**|**MUTANT: A Multi-sentential Code-mixed Hinglish Dataset**|Rahul Gupta et.al.|[2302.11766v1](http://arxiv.org/abs/2302.11766v1)|null|
-|**2023-02-23**|**VLSP 2022 -- EVJVQA Challenge: Multilingual Visual Question Answering**|Ngan Luu-Thuy Nguyen et.al.|[2302.11752v1](http://arxiv.org/abs/2302.11752v1)|null|
+|**2023-02-24**|**VLSP2022 EVJVQA Challenge: Multilingual Visual Question Answering**|Ngan Luu-Thuy Nguyen et.al.|[2302.11752v2](http://arxiv.org/abs/2302.11752v2)|null|
 |**2023-02-22**|**Scaling Robot Learning with Semantically Imagined Experience**|Tianhe Yu et.al.|[2302.11550v1](http://arxiv.org/abs/2302.11550v1)|null|
 |**2023-02-22**|**Data Augmentation for Neural NLP**|Domagoj Pluščec et.al.|[2302.11412v1](http://arxiv.org/abs/2302.11412v1)|null|
 |**2023-02-22**|**Learning from Predictions: Fusing Training and Autoregressive Inference for Long-Term Spatiotemporal Forecasts**|Pantelis R. Vlachas et.al.|[2302.11101v1](http://arxiv.org/abs/2302.11101v1)|null|
@@ -576,6 +579,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-24**|**STA: Self-controlled Text Augmentation for Improving Text Classifications**|Congcong Wang et.al.|[2302.12784v1](http://arxiv.org/abs/2302.12784v1)|**[link](https://github.com/wangcongcong123/sta)**|
+|**2023-02-24**|**CARE: Collaborative AI-Assisted Reading Environment**|Dennis Zyska et.al.|[2302.12611v1](http://arxiv.org/abs/2302.12611v1)|null|
 |**2023-02-22**|**GTRL: An Entity Group-Aware Temporal Knowledge Graph Representation Learning Method**|Xing Tang et.al.|[2302.11091v1](http://arxiv.org/abs/2302.11091v1)|**[link](https://github.com/xt-55/GTRL)**|
 |**2023-02-21**|**ChatGPT: Jack of all trades, master of none**|Jan Kocoń et.al.|[2302.10724v1](http://arxiv.org/abs/2302.10724v1)|**[link](https://github.com/clarin-pl/chatgpt-evaluation-01-2023)**|
 |**2023-02-21**|**Parallel Sentence-Level Explanation Generation for Real-World Low-Resource Scenarios**|Yan Liu et.al.|[2302.10707v1](http://arxiv.org/abs/2302.10707v1)|null|
@@ -742,7 +747,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-22**|**A Twitter narrative of the COVID-19 pandemic in Australia**|Rabindra Lamsal et.al.|[2302.11136v1](http://arxiv.org/abs/2302.11136v1)|null|
+|**2023-02-24**|**A Twitter narrative of the COVID-19 pandemic in Australia**|Rabindra Lamsal et.al.|[2302.11136v2](http://arxiv.org/abs/2302.11136v2)|null|
 |**2023-02-21**|**ChatGPT: Jack of all trades, master of none**|Jan Kocoń et.al.|[2302.10724v1](http://arxiv.org/abs/2302.10724v1)|**[link](https://github.com/clarin-pl/chatgpt-evaluation-01-2023)**|
 |**2023-02-21**|**Connecting Humanities and Social Sciences: Applying Language and Speech Technology to Online Panel Surveys**|Henk van den Heuvel et.al.|[2302.10593v1](http://arxiv.org/abs/2302.10593v1)|null|
 |**2023-02-19**|**Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT**|Qihuang Zhong et.al.|[2302.10198v1](http://arxiv.org/abs/2302.10198v1)|**[link](https://github.com/whu-zqh/chatgpt-vs.-bert)**|
@@ -879,9 +884,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-24**|**Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**|Baolin Peng et.al.|[2302.12813v1](http://arxiv.org/abs/2302.12813v1)|null|
+|**2023-02-24**|**CARE: Collaborative AI-Assisted Reading Environment**|Dennis Zyska et.al.|[2302.12611v1](http://arxiv.org/abs/2302.12611v1)|null|
+|**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
+|**2023-02-23**|**Extracting Victim Counts from Text**|Mian Zhong et.al.|[2302.12367v1](http://arxiv.org/abs/2302.12367v1)|null|
 |**2023-02-23**|**MFBE: Leveraging Multi-Field Information of FAQs for Efficient Dense Retrieval**|Debopriyo Banerjee et.al.|[2302.11953v1](http://arxiv.org/abs/2302.11953v1)|null|
 |**2023-02-23**|**FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering**|Qichen Ye et.al.|[2302.11799v1](http://arxiv.org/abs/2302.11799v1)|**[link](https://github.com/yeeeqichen/fits)**|
-|**2023-02-23**|**VLSP 2022 -- EVJVQA Challenge: Multilingual Visual Question Answering**|Ngan Luu-Thuy Nguyen et.al.|[2302.11752v1](http://arxiv.org/abs/2302.11752v1)|null|
+|**2023-02-24**|**VLSP2022 EVJVQA Challenge: Multilingual Visual Question Answering**|Ngan Luu-Thuy Nguyen et.al.|[2302.11752v2](http://arxiv.org/abs/2302.11752v2)|null|
 |**2023-02-23**|**Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?**|Yang Chen et.al.|[2302.11713v1](http://arxiv.org/abs/2302.11713v1)|null|
 |**2023-02-22**|**Construction of Knowledge Graphs: State and Challenges**|Marvin Hofer et.al.|[2302.11509v1](http://arxiv.org/abs/2302.11509v1)|null|
 |**2023-02-22**|**Connecting Vision and Language with Video Localized Narratives**|Paul Voigtlaender et.al.|[2302.11217v1](http://arxiv.org/abs/2302.11217v1)|**[link](https://github.com/google/video-localized-narratives)**|
@@ -1066,7 +1075,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-23**|**Automated Statement Extraction]{Automated Statement Extraction from Press Briefings**|Jüri Keller et.al.|[2302.12131v1](http://arxiv.org/abs/2302.12131v1)|**[link](https://github.com/jueri/statement_extractor)**|
+|**2023-02-24**|**Automated Statement Extraction from Press Briefings**|Jüri Keller et.al.|[2302.12131v2](http://arxiv.org/abs/2302.12131v2)|**[link](https://github.com/jueri/statement_extractor)**|
 |**2023-02-23**|**Impact of Subword Pooling Strategy on Cross-lingual Event Detection**|Shantanu Agarwal et.al.|[2302.11365v2](http://arxiv.org/abs/2302.11365v2)|**[link](https://github.com/isi-boston/ed-pooling)**|
 |**2023-02-21**|**Using Semantic Information for Defining and Detecting OOD Inputs**|Ramneet Kaur et.al.|[2302.11019v1](http://arxiv.org/abs/2302.11019v1)|null|
 |**2023-02-21**|**Non-pooling Network for medical image segmentation**|Weihu Song et.al.|[2302.10412v1](http://arxiv.org/abs/2302.10412v1)|null|
@@ -1203,6 +1212,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-24**|**Dual Path Modeling for Semantic Matching by Perceiving Subtle Conflicts**|Chao Xue et.al.|[2302.12530v1](http://arxiv.org/abs/2302.12530v1)|null|
+|**2023-02-24**|**Slate-Aware Ranking for Recommendation**|Yi Ren et.al.|[2302.12427v1](http://arxiv.org/abs/2302.12427v1)|**[link](https://github.com/bestactionnow/slate_aware_ranking)**|
 |**2023-02-23**|**MFBE: Leveraging Multi-Field Information of FAQs for Efficient Dense Retrieval**|Debopriyo Banerjee et.al.|[2302.11953v1](http://arxiv.org/abs/2302.11953v1)|null|
 |**2023-02-22**|**What Makes a Code Review Useful to OpenDev Developers? An Empirical Investigation**|Asif Kamal Turzo et.al.|[2302.11686v1](http://arxiv.org/abs/2302.11686v1)|**[link](https://github.com/wsu-seal/cr-usefulness-emse)**|
 |**2023-02-22**|**Construction of Knowledge Graphs: State and Challenges**|Marvin Hofer et.al.|[2302.11509v1](http://arxiv.org/abs/2302.11509v1)|null|
@@ -1401,6 +1412,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
 |**2023-02-23**|**KHAN: Knowledge-Aware Hierarchical Attention Networks for Political Stance Prediction**|Yunyong Ko et.al.|[2302.12126v1](http://arxiv.org/abs/2302.12126v1)|**[link](https://github.com/yy-ko/khan-www23)**|
 |**2023-02-23**|**FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering**|Qichen Ye et.al.|[2302.11799v1](http://arxiv.org/abs/2302.11799v1)|**[link](https://github.com/yeeeqichen/fits)**|
 |**2023-02-22**|**K-Diag: Knowledge-enhanced Disease Diagnosis in Radiographic Imaging**|Chaoyi Wu et.al.|[2302.11557v1](http://arxiv.org/abs/2302.11557v1)|null|
@@ -1579,6 +1591,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-24**|**Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning**|Ryan Kortvelesy et.al.|[2302.12826v1](http://arxiv.org/abs/2302.12826v1)|null|
+|**2023-02-24**|**GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**|Mengting Zhou et.al.|[2302.12814v1](http://arxiv.org/abs/2302.12814v1)|null|
+|**2023-02-24**|**Supervised Hierarchical Clustering using Graph Neural Networks for Speaker Diarization**|Prachi Singh et.al.|[2302.12716v1](http://arxiv.org/abs/2302.12716v1)|null|
+|**2023-02-24**|**3D PETCT Tumor Lesion Segmentation via GCN Refinement**|Hengzhi Xue et.al.|[2302.12571v1](http://arxiv.org/abs/2302.12571v1)|null|
+|**2023-02-24**|**PaGE-Link: Path-based Graph Neural Network Explanation for Heterogeneous Link Prediction**|Shichang Zhang et.al.|[2302.12465v1](http://arxiv.org/abs/2302.12465v1)|null|
+|**2023-02-24**|**Effective Graph-Neural-Network based Models for Discovering Structural Hole Spanners in Large-Scale and Diverse Networks**|Diksha Goel et.al.|[2302.12442v1](http://arxiv.org/abs/2302.12442v1)|null|
+|**2023-02-24**|**Graph Neural Networks with Learnable and Optimal Polynomial Bases**|Yuhe Guo et.al.|[2302.12432v1](http://arxiv.org/abs/2302.12432v1)|null|
+|**2023-02-24**|**HyperAttack: Multi-Gradient-Guided White-box Adversarial Structure Attack of Hypergraph Neural Networks**|Chao Hu et.al.|[2302.12407v1](http://arxiv.org/abs/2302.12407v1)|null|
+|**2023-02-23**|**Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs**|Xin Zheng et.al.|[2302.12357v1](http://arxiv.org/abs/2302.12357v1)|null|
 |**2023-02-23**|**EquiPocket: an E(3)-Equivariant Geometric Graph Neural Network for Ligand Binding Site Prediction**|Yang Zhang et.al.|[2302.12177v1](http://arxiv.org/abs/2302.12177v1)|null|
 |**2023-02-23**|**Do Machine Learning Models Produce TypeScript Types that Type Check?**|Ming-Ho Yee et.al.|[2302.12163v1](http://arxiv.org/abs/2302.12163v1)|**[link](https://github.com/nuprl/typeweaver)**|
 |**2023-02-22**|**A critical look at the evaluation of GNNs under heterophily: are we really making progress?**|Oleg Platonov et.al.|[2302.11640v1](http://arxiv.org/abs/2302.11640v1)|**[link](https://github.com/yandex-research/heterophilous-graphs)**|
