@@ -25,6 +25,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**Inseq: An Interpretability Toolkit for Sequence Generation Models**|Gabriele Sarti et.al.|[2302.13942v1](http://arxiv.org/abs/2302.13942v1)|**[link](https://github.com/inseq-team/inseq)**|
+|**2023-02-24**|**Adapting Pre-trained Language Models for Quantum Natural Language Processing**|Qiuchi Li et.al.|[2302.13812v1](http://arxiv.org/abs/2302.13812v1)|null|
+|**2023-02-26**|**A Survey on Uncertainty Quantification Methods for Deep Neural Networks: An Uncertainty Source Perspective**|Wenchong He et.al.|[2302.13425v1](http://arxiv.org/abs/2302.13425v1)|null|
+|**2023-02-26**|**From Audio to Symbolic Encoding**|Shenli Yuan et.al.|[2302.13401v1](http://arxiv.org/abs/2302.13401v1)|null|
+|**2023-02-26**|**The blame game: Understanding blame assignment in social media**|Ruijie Xi et.al.|[2302.13352v1](http://arxiv.org/abs/2302.13352v1)|null|
+|**2023-02-26**|**Bayesian Networks for Named Entity Prediction in Programming Community Question Answering**|Alexey Gorbatovski et.al.|[2302.13253v1](http://arxiv.org/abs/2302.13253v1)|null|
+|**2023-02-25**|**ChatAug: Leveraging ChatGPT for Text Data Augmentation**|Haixing Dai et.al.|[2302.13007v1](http://arxiv.org/abs/2302.13007v1)|null|
 |**2023-02-24**|**STA: Self-controlled Text Augmentation for Improving Text Classifications**|Congcong Wang et.al.|[2302.12784v1](http://arxiv.org/abs/2302.12784v1)|**[link](https://github.com/wangcongcong123/sta)**|
 |**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
 |**2023-02-24**|**SGL-PT: A Strong Graph Learner with Graph Prompt Tuning**|Yun Zhu et.al.|[2302.12449v1](http://arxiv.org/abs/2302.12449v1)|null|
@@ -448,6 +455,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**A Prototypical Semantic Decoupling Method via Joint Contrastive Learning for Few-Shot Name Entity Recognition**|Guanting Dong et.al.|[2302.13610v1](http://arxiv.org/abs/2302.13610v1)|null|
 |**2023-02-23**|**A Neural Span-Based Continual Named Entity Recognition Model**|Yunan Zhang et.al.|[2302.12200v1](http://arxiv.org/abs/2302.12200v1)|**[link](https://github.com/qznan/spankl)**|
 |**2023-02-23**|**Impact of Subword Pooling Strategy on Cross-lingual Event Detection**|Shantanu Agarwal et.al.|[2302.11365v2](http://arxiv.org/abs/2302.11365v2)|**[link](https://github.com/isi-boston/ed-pooling)**|
 |**2023-02-22**|**FiNER: Financial Named Entity Recognition Dataset and Weak-Supervision Model**|Agam Shah et.al.|[2302.11157v1](http://arxiv.org/abs/2302.11157v1)|**[link](https://github.com/gtfintechlab/finer)**|
@@ -583,6 +591,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**Make Every Example Count: On Stability and Utility of Self-Influence for Learning from Noisy NLP Datasets**|Irina Bejan et.al.|[2302.13959v1](http://arxiv.org/abs/2302.13959v1)|null|
+|**2023-02-25**|**ChatAug: Leveraging ChatGPT for Text Data Augmentation**|Haixing Dai et.al.|[2302.13007v1](http://arxiv.org/abs/2302.13007v1)|null|
 |**2023-02-24**|**STA: Self-controlled Text Augmentation for Improving Text Classifications**|Congcong Wang et.al.|[2302.12784v1](http://arxiv.org/abs/2302.12784v1)|**[link](https://github.com/wangcongcong123/sta)**|
 |**2023-02-24**|**CARE: Collaborative AI-Assisted Reading Environment**|Dennis Zyska et.al.|[2302.12611v1](http://arxiv.org/abs/2302.12611v1)|null|
 |**2023-02-22**|**GTRL: An Entity Group-Aware Temporal Knowledge Graph Representation Learning Method**|Xing Tang et.al.|[2302.11091v1](http://arxiv.org/abs/2302.11091v1)|**[link](https://github.com/xt-55/GTRL)**|
@@ -751,6 +761,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-25**|**SynGen: A Syntactic Plug-and-play Module for Generative Aspect-based Sentiment Analysis**|Chengze Yu et.al.|[2302.13032v1](http://arxiv.org/abs/2302.13032v1)|null|
 |**2023-02-24**|**A Twitter narrative of the COVID-19 pandemic in Australia**|Rabindra Lamsal et.al.|[2302.11136v2](http://arxiv.org/abs/2302.11136v2)|null|
 |**2023-02-21**|**ChatGPT: Jack of all trades, master of none**|Jan Kocoń et.al.|[2302.10724v1](http://arxiv.org/abs/2302.10724v1)|**[link](https://github.com/clarin-pl/chatgpt-evaluation-01-2023)**|
 |**2023-02-21**|**Connecting Humanities and Social Sciences: Applying Language and Speech Technology to Online Panel Surveys**|Henk van den Heuvel et.al.|[2302.10593v1](http://arxiv.org/abs/2302.10593v1)|null|
@@ -888,6 +899,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|null|
+|**2023-02-27**|**Make Every Example Count: On Stability and Utility of Self-Influence for Learning from Noisy NLP Datasets**|Irina Bejan et.al.|[2302.13959v1](http://arxiv.org/abs/2302.13959v1)|null|
+|**2023-02-27**|**Contrastive Video Question Answering via Video Graph Transformer**|Junbin Xiao et.al.|[2302.13668v1](http://arxiv.org/abs/2302.13668v1)|null|
+|**2023-02-26**|**Bayesian Networks for Named Entity Prediction in Programming Community Question Answering**|Alexey Gorbatovski et.al.|[2302.13253v1](http://arxiv.org/abs/2302.13253v1)|null|
+|**2023-02-26**|**Cross-Lingual Question Answering over Knowledge Base as Reading Comprehension**|Chen Zhang et.al.|[2302.13241v1](http://arxiv.org/abs/2302.13241v1)|**[link](https://github.com/luciusssss/xkbqa-as-mrc)**|
+|**2023-02-26**|**CLICKER: Attention-Based Cross-Lingual Commonsense Knowledge Transfer**|Ruolin Su et.al.|[2302.13201v1](http://arxiv.org/abs/2302.13201v1)|null|
+|**2023-02-25**|**Medical visual question answering using joint self-supervised learning**|Yuan Zhou et.al.|[2302.13069v1](http://arxiv.org/abs/2302.13069v1)|null|
+|**2023-02-25**|**Choice Fusion as Knowledge for Zero-Shot Dialogue State Tracking**|Ruolin Su et.al.|[2302.13013v1](http://arxiv.org/abs/2302.13013v1)|**[link](https://github.com/youlandasu/choice-fusion)**|
 |**2023-02-24**|**Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**|Baolin Peng et.al.|[2302.12813v1](http://arxiv.org/abs/2302.12813v1)|null|
 |**2023-02-24**|**CARE: Collaborative AI-Assisted Reading Environment**|Dennis Zyska et.al.|[2302.12611v1](http://arxiv.org/abs/2302.12611v1)|null|
 |**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
@@ -1079,6 +1098,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-25**|**Human-in-the-Loop Schema Induction**|Tianyi Zhang et.al.|[2302.13048v1](http://arxiv.org/abs/2302.13048v1)|null|
 |**2023-02-24**|**Automated Statement Extraction from Press Briefings**|Jüri Keller et.al.|[2302.12131v2](http://arxiv.org/abs/2302.12131v2)|**[link](https://github.com/jueri/statement_extractor)**|
 |**2023-02-23**|**Impact of Subword Pooling Strategy on Cross-lingual Event Detection**|Shantanu Agarwal et.al.|[2302.11365v2](http://arxiv.org/abs/2302.11365v2)|**[link](https://github.com/isi-boston/ed-pooling)**|
 |**2023-02-21**|**Using Semantic Information for Defining and Detecting OOD Inputs**|Ramneet Kaur et.al.|[2302.11019v1](http://arxiv.org/abs/2302.11019v1)|null|
@@ -1216,6 +1236,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**TwERC: High Performance Ensembled Candidate Generation for Ads Recommendation at Twitter**|Vanessa Cai et.al.|[2302.13915v1](http://arxiv.org/abs/2302.13915v1)|null|
 |**2023-02-24**|**Dual Path Modeling for Semantic Matching by Perceiving Subtle Conflicts**|Chao Xue et.al.|[2302.12530v1](http://arxiv.org/abs/2302.12530v1)|null|
 |**2023-02-24**|**Slate-Aware Ranking for Recommendation**|Yi Ren et.al.|[2302.12427v1](http://arxiv.org/abs/2302.12427v1)|**[link](https://github.com/bestactionnow/slate_aware_ranking)**|
 |**2023-02-23**|**MFBE: Leveraging Multi-Field Information of FAQs for Efficient Dense Retrieval**|Debopriyo Banerjee et.al.|[2302.11953v1](http://arxiv.org/abs/2302.11953v1)|null|
@@ -1416,6 +1437,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**Knowledge-enhanced Pre-training for Auto-diagnosis of Chest Radiology Images**|Xiaoman Zhang et.al.|[2302.14042v1](http://arxiv.org/abs/2302.14042v1)|null|
+|**2023-02-27**|**Diversity matters: Robustness of bias measurements in Wikidata**|Paramita Das et.al.|[2302.14027v1](http://arxiv.org/abs/2302.14027v1)|null|
+|**2023-02-27**|**PyReason: Software for Open World Temporal Logic**|Dyuman Aditya et.al.|[2302.13482v1](http://arxiv.org/abs/2302.13482v1)|null|
+|**2023-02-25**|**Sequential Query Encoding For Complex Query Answering on Knowledge Graphs**|Jiaxin Bai et.al.|[2302.13114v1](http://arxiv.org/abs/2302.13114v1)|null|
+|**2023-02-25**|**Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction**|Yu Liu et.al.|[2302.13094v1](http://arxiv.org/abs/2302.13094v1)|**[link](https://github.com/tsinghua-fib-lab/urbankg-knowcl)**|
+|**2023-02-25**|**Knowledge Graph Completion with Counterfactual Augmentation**|Heng Chang et.al.|[2302.13083v1](http://arxiv.org/abs/2302.13083v1)|null|
+|**2023-02-24**|**Linking Streets in OpenStreetMap to Persons in Wikidata**|Daria Gurtovoy et.al.|[2302.12907v1](http://arxiv.org/abs/2302.12907v1)|null|
 |**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
 |**2023-02-23**|**KHAN: Knowledge-Aware Hierarchical Attention Networks for Political Stance Prediction**|Yunyong Ko et.al.|[2302.12126v1](http://arxiv.org/abs/2302.12126v1)|**[link](https://github.com/yy-ko/khan-www23)**|
 |**2023-02-23**|**FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering**|Qichen Ye et.al.|[2302.11799v1](http://arxiv.org/abs/2302.11799v1)|**[link](https://github.com/yeeeqichen/fits)**|
@@ -1595,6 +1623,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**Hulk: Graph Neural Networks for Optimizing Regionally Distributed Computing Systems**|Zhengqing Yuan et.al.|[2302.13741v1](http://arxiv.org/abs/2302.13741v1)|null|
+|**2023-02-27**|**Learning Topology-Specific Experts for Molecular Property Prediction**|Su Kim et.al.|[2302.13693v1](http://arxiv.org/abs/2302.13693v1)|**[link](https://github.com/kimsu55/toxexpert)**|
+|**2023-02-27**|**DeepSeq: Deep Sequential Circuit Learning**|Sadaf Khan et.al.|[2302.13608v1](http://arxiv.org/abs/2302.13608v1)|null|
+|**2023-02-27**|**Invariant Representations of Embedded Simplicial Complexes**|Taejin Paik et.al.|[2302.13565v1](http://arxiv.org/abs/2302.13565v1)|null|
+|**2023-02-27**|**Invariant Layers for Graphs with Nodes of Different Types**|Dmitry Rybin et.al.|[2302.13551v1](http://arxiv.org/abs/2302.13551v1)|null|
+|**2023-02-27**|**Global optimization in the discrete and variable-dimension conformational space: The case of crystal with the strongest atomic cohesion**|Guanjian Cheng et.al.|[2302.13537v1](http://arxiv.org/abs/2302.13537v1)|null|
+|**2023-02-27**|**IGB: Addressing The Gaps In Labeling, Features, Heterogeneity, and Size of Public Graph Datasets for Deep Learning Research**|Arpandeep Khatua et.al.|[2302.13522v1](http://arxiv.org/abs/2302.13522v1)|**[link](https://github.com/IllinoisGraphBenchmark/IGB-Datasets)**|
+|**2023-02-26**|**GNNDelete: A General Strategy for Unlearning in Graph Neural Networks**|Jiali Cheng et.al.|[2302.13406v1](http://arxiv.org/abs/2302.13406v1)|**[link](https://github.com/mims-harvard/gnndelete)**|
+|**2023-02-26**|**Path Integral Based Convolution and Pooling for Heterogeneous Graph Neural Networks**|Lingjie Kong et.al.|[2302.13399v1](http://arxiv.org/abs/2302.13399v1)|null|
+|**2023-02-26**|**Discovering Top-k Structural Hole Spanners in Dynamic Networks**|Diksha Goel et.al.|[2302.13292v1](http://arxiv.org/abs/2302.13292v1)|null|
 |**2023-02-24**|**Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning**|Ryan Kortvelesy et.al.|[2302.12826v1](http://arxiv.org/abs/2302.12826v1)|null|
 |**2023-02-24**|**GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**|Mengting Zhou et.al.|[2302.12814v1](http://arxiv.org/abs/2302.12814v1)|null|
 |**2023-02-24**|**Supervised Hierarchical Clustering using Graph Neural Networks for Speaker Diarization**|Prachi Singh et.al.|[2302.12716v1](http://arxiv.org/abs/2302.12716v1)|null|
