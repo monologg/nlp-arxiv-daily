@@ -21,6 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**Automatic Scoring of Dream Reports' Emotional Content with Large Language Models**|Lorenzo Bertolini et.al.|[2302.14828v1](http://arxiv.org/abs/2302.14828v1)|null|
+|**2023-02-28**|**AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference with Transformers**|Shikhar Tuli et.al.|[2302.14705v1](http://arxiv.org/abs/2302.14705v1)|null|
+|**2023-02-28**|**Improving Expert Specialization in Mixture of Experts**|Yamuna Krishnamurthy et.al.|[2302.14703v1](http://arxiv.org/abs/2302.14703v1)|null|
+|**2023-02-27**|**SpeechFormer++: A Hierarchical Efficient Framework for Paralinguistic Speech Processing**|Weidong Chen et.al.|[2302.14638v1](http://arxiv.org/abs/2302.14638v1)|null|
+|**2023-02-28**|**H-AES: Towards Automated Essay Scoring for Hindi**|Shubhankar Singh et.al.|[2302.14635v1](http://arxiv.org/abs/2302.14635v1)|null|
+|**2023-02-28**|**A Survey on Long Text Modeling with Transformers**|Zican Dong et.al.|[2302.14502v1](http://arxiv.org/abs/2302.14502v1)|null|
+|**2023-02-28**|**Text classification dataset and analysis for Uzbek language**|Elmurod Kuriyozov et.al.|[2302.14494v1](http://arxiv.org/abs/2302.14494v1)|**[link](https://github.com/elmurod1202/textclassification)**|
+|**2023-02-28**|**Efficient Masked Autoencoders with Self-Consistency**|Zhaowen Li et.al.|[2302.14431v1](http://arxiv.org/abs/2302.14431v1)|null|
+|**2023-02-28**|**HugNLP: A Unified and Comprehensive Library for Natural Language Processing**|Jianing Wang et.al.|[2302.14286v1](http://arxiv.org/abs/2302.14286v1)|**[link](https://github.com/wjn1996/hugnlp)**|
 |**2023-02-27**|**Inseq: An Interpretability Toolkit for Sequence Generation Models**|Gabriele Sarti et.al.|[2302.13942v1](http://arxiv.org/abs/2302.13942v1)|**[link](https://github.com/inseq-team/inseq)**|
 |**2023-02-24**|**Adapting Pre-trained Language Models for Quantum Natural Language Processing**|Qiuchi Li et.al.|[2302.13812v1](http://arxiv.org/abs/2302.13812v1)|null|
 |**2023-02-26**|**A Survey on Uncertainty Quantification Methods for Deep Neural Networks: An Uncertainty Source Perspective**|Wenchong He et.al.|[2302.13425v1](http://arxiv.org/abs/2302.13425v1)|null|
@@ -451,6 +460,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**OEKG: The Open Event Knowledge Graph**|Simon Gottschalk et.al.|[2302.14688v1](http://arxiv.org/abs/2302.14688v1)|null|
 |**2023-02-27**|**A Prototypical Semantic Decoupling Method via Joint Contrastive Learning for Few-Shot Name Entity Recognition**|Guanting Dong et.al.|[2302.13610v1](http://arxiv.org/abs/2302.13610v1)|null|
 |**2023-02-23**|**A Neural Span-Based Continual Named Entity Recognition Model**|Yunan Zhang et.al.|[2302.12200v1](http://arxiv.org/abs/2302.12200v1)|**[link](https://github.com/qznan/spankl)**|
 |**2023-02-23**|**Impact of Subword Pooling Strategy on Cross-lingual Event Detection**|Shantanu Agarwal et.al.|[2302.11365v2](http://arxiv.org/abs/2302.11365v2)|**[link](https://github.com/isi-boston/ed-pooling)**|
@@ -587,8 +597,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**Automatic Scoring of Dream Reports' Emotional Content with Large Language Models**|Lorenzo Bertolini et.al.|[2302.14828v1](http://arxiv.org/abs/2302.14828v1)|null|
+|**2023-02-28**|**Text classification dataset and analysis for Uzbek language**|Elmurod Kuriyozov et.al.|[2302.14494v1](http://arxiv.org/abs/2302.14494v1)|**[link](https://github.com/elmurod1202/textclassification)**|
+|**2023-02-28**|**SMoA: Sparse Mixture of Adapters to Mitigate Multiple Dataset Biases**|Yanchen Liu et.al.|[2302.14413v1](http://arxiv.org/abs/2302.14413v1)|null|
 |**2023-02-27**|**Make Every Example Count: On Stability and Utility of Self-Influence for Learning from Noisy NLP Datasets**|Irina Bejan et.al.|[2302.13959v1](http://arxiv.org/abs/2302.13959v1)|null|
-|**2023-02-25**|**ChatAug: Leveraging ChatGPT for Text Data Augmentation**|Haixing Dai et.al.|[2302.13007v1](http://arxiv.org/abs/2302.13007v1)|null|
+|**2023-02-28**|**ChatAug: Leveraging ChatGPT for Text Data Augmentation**|Haixing Dai et.al.|[2302.13007v2](http://arxiv.org/abs/2302.13007v2)|null|
 |**2023-02-24**|**STA: Self-controlled Text Augmentation for Improving Text Classifications**|Congcong Wang et.al.|[2302.12784v1](http://arxiv.org/abs/2302.12784v1)|**[link](https://github.com/wangcongcong123/sta)**|
 |**2023-02-24**|**CARE: Collaborative AI-Assisted Reading Environment**|Dennis Zyska et.al.|[2302.12611v1](http://arxiv.org/abs/2302.12611v1)|null|
 |**2023-02-22**|**GTRL: An Entity Group-Aware Temporal Knowledge Graph Representation Learning Method**|Xing Tang et.al.|[2302.11091v1](http://arxiv.org/abs/2302.11091v1)|**[link](https://github.com/xt-55/GTRL)**|
@@ -895,6 +908,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**VQA with Cascade of Self- and Co-Attention Blocks**|Aakansha Mishra et.al.|[2302.14777v1](http://arxiv.org/abs/2302.14777v1)|null|
+|**2023-02-28**|**OEKG: The Open Event Knowledge Graph**|Simon Gottschalk et.al.|[2302.14688v1](http://arxiv.org/abs/2302.14688v1)|null|
 |**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|null|
 |**2023-02-27**|**Make Every Example Count: On Stability and Utility of Self-Influence for Learning from Noisy NLP Datasets**|Irina Bejan et.al.|[2302.13959v1](http://arxiv.org/abs/2302.13959v1)|null|
 |**2023-02-27**|**Contrastive Video Question Answering via Video Graph Transformer**|Junbin Xiao et.al.|[2302.13668v1](http://arxiv.org/abs/2302.13668v1)|null|
@@ -1094,6 +1109,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**HugNLP: A Unified and Comprehensive Library for Natural Language Processing**|Jianing Wang et.al.|[2302.14286v1](http://arxiv.org/abs/2302.14286v1)|**[link](https://github.com/wjn1996/hugnlp)**|
 |**2023-02-25**|**Human-in-the-Loop Schema Induction**|Tianyi Zhang et.al.|[2302.13048v1](http://arxiv.org/abs/2302.13048v1)|null|
 |**2023-02-24**|**Automated Statement Extraction from Press Briefings**|Jüri Keller et.al.|[2302.12131v2](http://arxiv.org/abs/2302.12131v2)|**[link](https://github.com/jueri/statement_extractor)**|
 |**2023-02-23**|**Impact of Subword Pooling Strategy on Cross-lingual Event Detection**|Shantanu Agarwal et.al.|[2302.11365v2](http://arxiv.org/abs/2302.11365v2)|**[link](https://github.com/isi-boston/ed-pooling)**|
@@ -1232,6 +1248,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**Rethinking Multi-Interest Learning for Candidate Matching in Recommender Systems**|Yueqi Xie et.al.|[2302.14532v1](http://arxiv.org/abs/2302.14532v1)|null|
+|**2023-02-28**|**Item Cold Start Recommendation via Adversarial Variational Auto-encoder Warm-up**|Shenzheng Zhang et.al.|[2302.14395v1](http://arxiv.org/abs/2302.14395v1)|null|
+|**2023-02-27**|**Design-Based Inference for Multi-arm Bandits**|Dae Woong Ham et.al.|[2302.14136v1](http://arxiv.org/abs/2302.14136v1)|null|
+|**2023-02-27**|**How optimal transport can tackle gender biases in multi-class neural-network classifiers for job recommendations?**|Fanny Jourdan et.al.|[2302.14063v1](http://arxiv.org/abs/2302.14063v1)|null|
 |**2023-02-27**|**TwERC: High Performance Ensembled Candidate Generation for Ads Recommendation at Twitter**|Vanessa Cai et.al.|[2302.13915v1](http://arxiv.org/abs/2302.13915v1)|null|
 |**2023-02-24**|**Dual Path Modeling for Semantic Matching by Perceiving Subtle Conflicts**|Chao Xue et.al.|[2302.12530v1](http://arxiv.org/abs/2302.12530v1)|null|
 |**2023-02-24**|**Slate-Aware Ranking for Recommendation**|Yi Ren et.al.|[2302.12427v1](http://arxiv.org/abs/2302.12427v1)|**[link](https://github.com/bestactionnow/slate_aware_ranking)**|
@@ -1433,10 +1453,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**Joint Representations of Text and Knowledge Graphs for Retrieval and Evaluation**|Teven Le Scao et.al.|[2302.14785v1](http://arxiv.org/abs/2302.14785v1)|null|
+|**2023-02-28**|**OEKG: The Open Event Knowledge Graph**|Simon Gottschalk et.al.|[2302.14688v1](http://arxiv.org/abs/2302.14688v1)|null|
+|**2023-02-28**|**Pragmatism in industrial modelling, applied to "ladle lifetime in the steel industry"**|Stein Tore Johansen et.al.|[2302.14650v1](http://arxiv.org/abs/2302.14650v1)|null|
 |**2023-02-27**|**Knowledge-enhanced Pre-training for Auto-diagnosis of Chest Radiology Images**|Xiaoman Zhang et.al.|[2302.14042v1](http://arxiv.org/abs/2302.14042v1)|null|
 |**2023-02-27**|**Diversity matters: Robustness of bias measurements in Wikidata**|Paramita Das et.al.|[2302.14027v1](http://arxiv.org/abs/2302.14027v1)|null|
-|**2023-02-27**|**PyReason: Software for Open World Temporal Logic**|Dyuman Aditya et.al.|[2302.13482v1](http://arxiv.org/abs/2302.13482v1)|null|
-|**2023-02-25**|**Sequential Query Encoding For Complex Query Answering on Knowledge Graphs**|Jiaxin Bai et.al.|[2302.13114v1](http://arxiv.org/abs/2302.13114v1)|null|
+|**2023-02-27**|**PyReason: Software for Open World Temporal Logic**|Dyuman Aditya et.al.|[2302.13482v1](http://arxiv.org/abs/2302.13482v1)|**[link](https://github.com/lab-v2/pyreason)**|
+|**2023-02-28**|**Sequential Query Encoding For Complex Query Answering on Knowledge Graphs**|Jiaxin Bai et.al.|[2302.13114v2](http://arxiv.org/abs/2302.13114v2)|null|
 |**2023-02-25**|**Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction**|Yu Liu et.al.|[2302.13094v1](http://arxiv.org/abs/2302.13094v1)|**[link](https://github.com/tsinghua-fib-lab/urbankg-knowcl)**|
 |**2023-02-25**|**Knowledge Graph Completion with Counterfactual Augmentation**|Heng Chang et.al.|[2302.13083v1](http://arxiv.org/abs/2302.13083v1)|null|
 |**2023-02-24**|**Linking Streets in OpenStreetMap to Persons in Wikidata**|Daria Gurtovoy et.al.|[2302.12907v1](http://arxiv.org/abs/2302.12907v1)|null|
@@ -1619,6 +1642,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**EvoPrompting: Language Models for Code-Level Neural Architecture Search**|Angelica Chen et.al.|[2302.14838v1](http://arxiv.org/abs/2302.14838v1)|null|
+|**2023-02-28**|**Framelet Message Passing**|Xinliang Liu et.al.|[2302.14806v1](http://arxiv.org/abs/2302.14806v1)|null|
+|**2023-02-28**|**Graph Reinforcement Learning for Operator Selection in the ALNS Metaheuristic**|Syu-Ning Johnn et.al.|[2302.14678v1](http://arxiv.org/abs/2302.14678v1)|null|
+|**2023-02-28**|**A universal equation to predict $Ω_{\rm m}$ from halo and galaxy catalogues**|Helen Shao et.al.|[2302.14591v1](http://arxiv.org/abs/2302.14591v1)|null|
+|**2023-02-28**|**CHGNet: Pretrained universal neural network potential for charge-informed atomistic modeling**|Bowen Deng et.al.|[2302.14231v1](http://arxiv.org/abs/2302.14231v1)|null|
+|**2023-02-27**|**Connectivity Optimized Nested Graph Networks for Crystal Structures**|Robin Ruff et.al.|[2302.14102v1](http://arxiv.org/abs/2302.14102v1)|null|
+|**2023-02-27**|**Robust field-level likelihood-free inference with galaxies**|Natalí S. M. de Santi et.al.|[2302.14101v1](http://arxiv.org/abs/2302.14101v1)|null|
+|**2023-02-27**|**A Dataset for Learning Graph Representations to Predict Customer Returns in Fashion Retail**|Jamie McGowan et.al.|[2302.14096v1](http://arxiv.org/abs/2302.14096v1)|null|
 |**2023-02-27**|**Hulk: Graph Neural Networks for Optimizing Regionally Distributed Computing Systems**|Zhengqing Yuan et.al.|[2302.13741v1](http://arxiv.org/abs/2302.13741v1)|null|
 |**2023-02-27**|**Learning Topology-Specific Experts for Molecular Property Prediction**|Su Kim et.al.|[2302.13693v1](http://arxiv.org/abs/2302.13693v1)|**[link](https://github.com/kimsu55/toxexpert)**|
 |**2023-02-27**|**DeepSeq: Deep Sequential Circuit Learning**|Sadaf Khan et.al.|[2302.13608v1](http://arxiv.org/abs/2302.13608v1)|null|
