@@ -21,6 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-02**|**Local data structures**|J. F. Jardine et.al.|[2303.01415v1](http://arxiv.org/abs/2303.01415v1)|null|
+|**2023-03-02**|**Letz Translate: Low-Resource Machine Translation for Luxembourgish**|Yewei Song et.al.|[2303.01347v1](http://arxiv.org/abs/2303.01347v1)|null|
+|**2023-03-01**|**Frauds Bargain Attack: Generating Adversarial Text Samples via Word Manipulation Process**|Mingze Ni et.al.|[2303.01234v1](http://arxiv.org/abs/2303.01234v1)|null|
+|**2023-03-02**|**Can BERT Refrain from Forgetting on Sequential Tasks? A Probing Study**|Mingxu Tao et.al.|[2303.01081v1](http://arxiv.org/abs/2303.01081v1)|**[link](https://github.com/kobayashikanna01/plms_are_lifelong_learners)**|
 |**2023-03-01**|**SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks**|Kai-Wei Chang et.al.|[2303.00733v1](http://arxiv.org/abs/2303.00733v1)|null|
 |**2023-03-01**|**Uzbek text summarization based on TF-IDF**|Khabibulla Madatov et.al.|[2303.00461v1](http://arxiv.org/abs/2303.00461v1)|null|
 |**2023-03-01**|**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**|Xuanting Chen et.al.|[2303.00293v1](http://arxiv.org/abs/2303.00293v1)|null|
@@ -601,6 +605,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**PANACEA: An Automated Misinformation Detection System on COVID-19**|Runcong Zhao et.al.|[2303.01241v1](http://arxiv.org/abs/2303.01241v1)|null|
+|**2023-03-02**|**Document Provenance and Authentication through Authorship Classification**|Muhammad Tayyab Zamir et.al.|[2303.01197v1](http://arxiv.org/abs/2303.01197v1)|null|
+|**2023-03-02**|**Can BERT Refrain from Forgetting on Sequential Tasks? A Probing Study**|Mingxu Tao et.al.|[2303.01081v1](http://arxiv.org/abs/2303.01081v1)|**[link](https://github.com/kobayashikanna01/plms_are_lifelong_learners)**|
+|**2023-03-02**|**Adopting the Multi-answer Questioning Task with an Auxiliary Metric for Extreme Multi-label Text Classification Utilizing the Label Hierarchy**|Li Wang et.al.|[2303.01064v1](http://arxiv.org/abs/2303.01064v1)|null|
 |**2023-03-01**|**Fairness Evaluation in Text Classification: Machine Learning Practitioner Perspectives of Individual and Group Fairness**|Zahra Ashktorab et.al.|[2303.00673v1](http://arxiv.org/abs/2303.00673v1)|null|
 |**2023-03-01**|**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**|Xuanting Chen et.al.|[2303.00293v1](http://arxiv.org/abs/2303.00293v1)|null|
 |**2023-02-28**|**Automatic Scoring of Dream Reports' Emotional Content with Large Language Models**|Lorenzo Bertolini et.al.|[2302.14828v1](http://arxiv.org/abs/2302.14828v1)|**[link](https://github.com/lorenzoscottb/Dream_Reports_Annotation)**|
@@ -776,6 +784,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-02**|**NLP Workbench: Efficient and Extensible Integration of State-of-the-art Text Mining Tools**|Peiran Yao et.al.|[2303.01410v1](http://arxiv.org/abs/2303.01410v1)|null|
+|**2023-03-01**|**Soft Prompt Guided Joint Learning for Cross-Domain Sentiment Analysis**|Jingli Shi et.al.|[2303.00815v1](http://arxiv.org/abs/2303.00815v1)|null|
 |**2023-03-01**|**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**|Xuanting Chen et.al.|[2303.00293v1](http://arxiv.org/abs/2303.00293v1)|null|
 |**2023-02-25**|**SynGen: A Syntactic Plug-and-play Module for Generative Aspect-based Sentiment Analysis**|Chengze Yu et.al.|[2302.13032v1](http://arxiv.org/abs/2302.13032v1)|null|
 |**2023-02-24**|**A Twitter narrative of the COVID-19 pandemic in Australia**|Rabindra Lamsal et.al.|[2302.11136v2](http://arxiv.org/abs/2302.11136v2)|null|
@@ -915,6 +925,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-02**|**WiCE: Real-World Entailment for Claims in Wikipedia**|Ryo Kamoi et.al.|[2303.01432v1](http://arxiv.org/abs/2303.01432v1)|**[link](https://github.com/ryokamoi/wice)**|
+|**2023-03-02**|**MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering**|Jingjing Jiang et.al.|[2303.01239v1](http://arxiv.org/abs/2303.01239v1)|null|
+|**2023-03-01**|**Almanac: Knowledge-Grounded Language Models for Clinical Medicine**|Cyril Zakka et.al.|[2303.01229v1](http://arxiv.org/abs/2303.01229v1)|null|
+|**2023-03-02**|**Can BERT Refrain from Forgetting on Sequential Tasks? A Probing Study**|Mingxu Tao et.al.|[2303.01081v1](http://arxiv.org/abs/2303.01081v1)|**[link](https://github.com/kobayashikanna01/plms_are_lifelong_learners)**|
+|**2023-03-02**|**A deep learning-based approach for identifying unresolved questions on Stack Exchange Q&A communities through graph-based communication modelling**|Hassan Abedi Firouzjaei et.al.|[2303.00964v1](http://arxiv.org/abs/2303.00964v1)|**[link](https://github.com/habedi/GNNforUnresolvedQuestions)**|
+|**2023-03-02**|**Large-Scale Domain-Specific Pretraining for Biomedical Vision-Language Processing**|Sheng Zhang et.al.|[2303.00915v1](http://arxiv.org/abs/2303.00915v1)|null|
 |**2023-03-01**|**A Universal Question-Answering Platform for Knowledge Graphs**|Reham Omar et.al.|[2303.00595v1](http://arxiv.org/abs/2303.00595v1)|null|
 |**2023-03-01**|**RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**|Zheng Yuan et.al.|[2303.00534v1](http://arxiv.org/abs/2303.00534v1)|null|
 |**2023-03-01**|**DIFFQG: Generating Questions to Summarize Factual Changes**|Jeremy R. Cole et.al.|[2303.00242v1](http://arxiv.org/abs/2303.00242v1)|null|
@@ -1119,6 +1135,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-01**|**Black hole mergers as tracers of spinning massive black hole and galaxy populations in the Obelisk simulation**|C. A. Dong-Páez et.al.|[2303.00766v1](http://arxiv.org/abs/2303.00766v1)|null|
 |**2023-03-01**|**Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation**|Guozhen Zhang et.al.|[2303.00440v1](http://arxiv.org/abs/2303.00440v1)|null|
 |**2023-03-01**|**StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training**|Yuechen Yu et.al.|[2303.00289v1](http://arxiv.org/abs/2303.00289v1)|**[link](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT/v2)**|
 |**2023-02-28**|**HugNLP: A Unified and Comprehensive Library for Natural Language Processing**|Jianing Wang et.al.|[2302.14286v1](http://arxiv.org/abs/2302.14286v1)|**[link](https://github.com/wjn1996/hugnlp)**|
@@ -1260,6 +1277,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-02**|**An Improved Classical Singular Value Transformation for Quantum Machine Learning**|Ainesh Bakshi et.al.|[2303.01492v1](http://arxiv.org/abs/2303.01492v1)|null|
+|**2023-03-02**|**Creating Synthetic Datasets for Collaborative Filtering Recommender Systems using Generative Adversarial Networks**|Jesús Bobadilla et.al.|[2303.01297v1](http://arxiv.org/abs/2303.01297v1)|null|
+|**2023-03-02**|**Effective Visualization and Analysis of Recommender Systems**|Hao Wang et.al.|[2303.01136v1](http://arxiv.org/abs/2303.01136v1)|null|
+|**2023-03-02**|**Distillation from Heterogeneous Models for Top-K Recommendation**|SeongKu Kang et.al.|[2303.01130v1](http://arxiv.org/abs/2303.01130v1)|**[link](https://github.com/seongku-kang/hetcomp_www23)**|
+|**2023-03-02**|**Heterogeneous Graph Contrastive Learning for Recommendation**|Mengru Chen et.al.|[2303.00995v1](http://arxiv.org/abs/2303.00995v1)|**[link](https://github.com/hkuds/hgcl)**|
+|**2023-03-02**|**Dynamic fairness-aware recommendation through multi-agent social choice**|Amanda Aird et.al.|[2303.00968v1](http://arxiv.org/abs/2303.00968v1)|null|
 |**2023-03-01**|**Efficient Explorative Key-term Selection Strategies for Conversational Contextual Bandits**|Zhiyong Wang et.al.|[2303.00315v1](http://arxiv.org/abs/2303.00315v1)|**[link](https://github.com/zhiyongwangwzy/conlinucb)**|
 |**2023-03-01**|**Modeling Multiple User Interests using Hierarchical Knowledge for Conversational Recommender System**|Yuka Okuda et.al.|[2303.00311v1](http://arxiv.org/abs/2303.00311v1)|null|
 |**2023-03-01**|**Entire Space Learning Framework: Unbias Conversion Rate Prediction in Full Stages of Recommender System**|Shanshan Lyu et.al.|[2303.00276v1](http://arxiv.org/abs/2303.00276v1)|null|
@@ -1469,6 +1492,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-02**|**Cardinality Estimation over Knowledge Graphs with Embeddings and Graph Neural Networks**|Tim Schwabe et.al.|[2303.01140v1](http://arxiv.org/abs/2303.01140v1)|**[link](https://github.com/timericschwabe/gnce_reproducibility)**|
 |**2023-03-01**|**A Universal Question-Answering Platform for Knowledge Graphs**|Reham Omar et.al.|[2303.00595v1](http://arxiv.org/abs/2303.00595v1)|null|
 |**2023-03-01**|**Enhancing Knowledge Graph Embedding Models with Semantic-driven Loss Functions**|Nicolas Hubert et.al.|[2303.00286v1](http://arxiv.org/abs/2303.00286v1)|**[link](https://github.com/nicolas-hbt/semantic-lossfunc)**|
 |**2023-02-28**|**Joint Representations of Text and Knowledge Graphs for Retrieval and Evaluation**|Teven Le Scao et.al.|[2302.14785v1](http://arxiv.org/abs/2302.14785v1)|null|
@@ -1660,6 +1684,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-02**|**Boosting Distributed Full-graph GNN Training with Asynchronous One-bit Communication**|Meng Zhang et.al.|[2303.01277v1](http://arxiv.org/abs/2303.01277v1)|null|
+|**2023-03-02**|**Steering Graph Neural Networks with Pinning Control**|Acong Zhang et.al.|[2303.01265v1](http://arxiv.org/abs/2303.01265v1)|null|
+|**2023-03-02**|**Cardinality Estimation over Knowledge Graphs with Embeddings and Graph Neural Networks**|Tim Schwabe et.al.|[2303.01140v1](http://arxiv.org/abs/2303.01140v1)|**[link](https://github.com/timericschwabe/gnce_reproducibility)**|
+|**2023-03-02**|**Node Embedding from Hamiltonian Information Propagation in Graph Neural Networks**|Qiyu Kang et.al.|[2303.01030v1](http://arxiv.org/abs/2303.01030v1)|null|
+|**2023-03-02**|**Specformer: Spectral Graph Neural Networks Meet Transformers**|Deyu Bo et.al.|[2303.01028v1](http://arxiv.org/abs/2303.01028v1)|**[link](https://github.com/bdy9527/specformer)**|
+|**2023-03-02**|**Heterogeneous Graph Contrastive Learning for Recommendation**|Mengru Chen et.al.|[2303.00995v1](http://arxiv.org/abs/2303.00995v1)|**[link](https://github.com/hkuds/hgcl)**|
+|**2023-03-02**|**A deep learning-based approach for identifying unresolved questions on Stack Exchange Q&A communities through graph-based communication modelling**|Hassan Abedi Firouzjaei et.al.|[2303.00964v1](http://arxiv.org/abs/2303.00964v1)|**[link](https://github.com/habedi/GNNforUnresolvedQuestions)**|
+|**2023-03-02**|**Attention-based Graph Convolution Fusing Latent Structures and Multiple Features for Graph Neural Networks**|Yang Li et.al.|[2303.00944v1](http://arxiv.org/abs/2303.00944v1)|null|
 |**2023-03-01**|**Diffusing Graph Attention**|Daniel Glickman et.al.|[2303.00613v1](http://arxiv.org/abs/2303.00613v1)|null|
 |**2023-03-01**|**Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices**|Qiying Pan et.al.|[2303.00492v1](http://arxiv.org/abs/2303.00492v1)|null|
 |**2023-03-01**|**Single-Cell Multimodal Prediction via Transformers**|Wenzhuo Tang et.al.|[2303.00233v1](http://arxiv.org/abs/2303.00233v1)|**[link](https://github.com/omicsml/scmoformer)**|
