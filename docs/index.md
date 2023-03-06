@@ -25,6 +25,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-02**|**DeepLens: Interactive Out-of-distribution Data Detection in NLP Models**|Da Song et.al.|[2303.01577v1](http://arxiv.org/abs/2303.01577v1)|**[link](https://github.com/momentum-lab-workspace/deeplens)**|
+|**2023-03-02**|**DeepSeer: Interactive RNN Explanation and Debugging via State Abstraction**|Zhijie Wang et.al.|[2303.01576v1](http://arxiv.org/abs/2303.01576v1)|**[link](https://github.com/momentum-lab-workspace/deepseer)**|
 |**2023-03-02**|**Local data structures**|J. F. Jardine et.al.|[2303.01415v1](http://arxiv.org/abs/2303.01415v1)|null|
 |**2023-03-02**|**Letz Translate: Low-Resource Machine Translation for Luxembourgish**|Yewei Song et.al.|[2303.01347v1](http://arxiv.org/abs/2303.01347v1)|null|
 |**2023-03-01**|**Frauds Bargain Attack: Generating Adversarial Text Samples via Word Manipulation Process**|Mingze Ni et.al.|[2303.01234v1](http://arxiv.org/abs/2303.01234v1)|**[link](https://github.com/mingzelucasni/fba)**|
@@ -788,6 +790,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-03**|**Meme Sentiment Analysis Enhanced with Multimodal Spatial Encoding and Facial Embedding**|Muzhaffar Hazman et.al.|[2303.01781v1](http://arxiv.org/abs/2303.01781v1)|null|
 |**2023-03-02**|**NLP Workbench: Efficient and Extensible Integration of State-of-the-art Text Mining Tools**|Peiran Yao et.al.|[2303.01410v1](http://arxiv.org/abs/2303.01410v1)|null|
 |**2023-03-01**|**Soft Prompt Guided Joint Learning for Cross-Domain Sentiment Analysis**|Jingli Shi et.al.|[2303.00815v1](http://arxiv.org/abs/2303.00815v1)|null|
 |**2023-03-01**|**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**|Xuanting Chen et.al.|[2303.00293v1](http://arxiv.org/abs/2303.00293v1)|null|
@@ -929,6 +932,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-03**|**Discovery and Recognition of Formula Concepts using Machine Learning**|Philipp Scharpf et.al.|[2303.01994v1](http://arxiv.org/abs/2303.01994v1)|**[link](https://github.com/ag-gipp/formula-concept-retrieval)**|
+|**2023-03-03**|**Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**|Zhenwei Shao et.al.|[2303.01903v1](http://arxiv.org/abs/2303.01903v1)|null|
+|**2023-03-02**|**ConTEXTual Net: A Multimodal Vision-Language Model for Segmentation of Pneumothorax**|Zachary Huemann et.al.|[2303.01615v1](http://arxiv.org/abs/2303.01615v1)|**[link](https://github.com/zhuemann/contextualsegmentation)**|
+|**2023-03-02**|**QAID: Question Answering Inspired Few-shot Intent Detection**|Asaf Yehudai et.al.|[2303.01593v1](http://arxiv.org/abs/2303.01593v1)|null|
 |**2023-03-02**|**WiCE: Real-World Entailment for Claims in Wikipedia**|Ryo Kamoi et.al.|[2303.01432v1](http://arxiv.org/abs/2303.01432v1)|**[link](https://github.com/ryokamoi/wice)**|
 |**2023-03-02**|**MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering**|Jingjing Jiang et.al.|[2303.01239v1](http://arxiv.org/abs/2303.01239v1)|**[link](https://github.com/jingjing12110/mixphm)**|
 |**2023-03-01**|**Almanac: Knowledge-Grounded Language Models for Clinical Medicine**|Cyril Zakka et.al.|[2303.01229v1](http://arxiv.org/abs/2303.01229v1)|null|
@@ -1139,6 +1146,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-03**|**AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing**|Hongyang Du et.al.|[2303.01896v1](http://arxiv.org/abs/2303.01896v1)|null|
 |**2023-03-01**|**Black hole mergers as tracers of spinning massive black hole and galaxy populations in the Obelisk simulation**|C. A. Dong-Páez et.al.|[2303.00766v1](http://arxiv.org/abs/2303.00766v1)|null|
 |**2023-03-01**|**Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation**|Guozhen Zhang et.al.|[2303.00440v1](http://arxiv.org/abs/2303.00440v1)|**[link](https://github.com/mcg-nju/ema-vfi)**|
 |**2023-03-01**|**StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training**|Yuechen Yu et.al.|[2303.00289v1](http://arxiv.org/abs/2303.00289v1)|**[link](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT/v2)**|
@@ -1281,6 +1289,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-03**|**Discovery and Recognition of Formula Concepts using Machine Learning**|Philipp Scharpf et.al.|[2303.01994v1](http://arxiv.org/abs/2303.01994v1)|**[link](https://github.com/ag-gipp/formula-concept-retrieval)**|
+|**2023-03-03**|**Generalizing Lloyd's algorithm for graph clustering**|Tareq Zaman et.al.|[2303.01667v1](http://arxiv.org/abs/2303.01667v1)|null|
 |**2023-03-02**|**An Improved Classical Singular Value Transformation for Quantum Machine Learning**|Ainesh Bakshi et.al.|[2303.01492v1](http://arxiv.org/abs/2303.01492v1)|null|
 |**2023-03-02**|**Creating Synthetic Datasets for Collaborative Filtering Recommender Systems using Generative Adversarial Networks**|Jesús Bobadilla et.al.|[2303.01297v1](http://arxiv.org/abs/2303.01297v1)|null|
 |**2023-03-02**|**Effective Visualization and Analysis of Recommender Systems**|Hao Wang et.al.|[2303.01136v1](http://arxiv.org/abs/2303.01136v1)|null|
@@ -1688,6 +1698,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-03**|**Graph-level representations using ensemble-based readout functions**|Jakub Binkowski et.al.|[2303.02023v1](http://arxiv.org/abs/2303.02023v1)|null|
+|**2023-03-03**|**Node-Specific Space Selection via Localized Geometric Hyperbolicity in Graph Neural Networks**|See Hian Lee et.al.|[2303.01724v1](http://arxiv.org/abs/2303.01724v1)|null|
+|**2023-03-03**|**Hierarchical Graph Neural Networks for Particle Track Reconstruction**|Ryan Liu et.al.|[2303.01640v1](http://arxiv.org/abs/2303.01640v1)|null|
+|**2023-03-02**|**Technical report: Graph Neural Networks go Grammatical**|Jason Piquenot et.al.|[2303.01590v1](http://arxiv.org/abs/2303.01590v1)|null|
+|**2023-03-02**|**HitGNN: High-throughput GNN Training Framework on CPU+Multi-FPGA Heterogeneous Platform**|Yi-Chien Lin et.al.|[2303.01568v1](http://arxiv.org/abs/2303.01568v1)|null|
 |**2023-03-02**|**Boosting Distributed Full-graph GNN Training with Asynchronous One-bit Communication**|Meng Zhang et.al.|[2303.01277v1](http://arxiv.org/abs/2303.01277v1)|null|
 |**2023-03-02**|**Steering Graph Neural Networks with Pinning Control**|Acong Zhang et.al.|[2303.01265v1](http://arxiv.org/abs/2303.01265v1)|null|
 |**2023-03-02**|**Cardinality Estimation over Knowledge Graphs with Embeddings and Graph Neural Networks**|Tim Schwabe et.al.|[2303.01140v1](http://arxiv.org/abs/2303.01140v1)|**[link](https://github.com/timericschwabe/gnce_reproducibility)**|
