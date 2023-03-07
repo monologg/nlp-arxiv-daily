@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-06**|**On the Visualisation of Argumentation Graphs to Support Text Interpretation**|Hanadi Mardah et.al.|[2303.03235v1](http://arxiv.org/abs/2303.03235v1)|null|
+|**2023-03-03**|**Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT**|Mostafa M. Amin et.al.|[2303.03186v1](http://arxiv.org/abs/2303.03186v1)|null|
+|**2023-03-03**|**Pre-trained Model Representations and their Robustness against Noise for Speech Emotion Analysis**|Vikramjit Mitra et.al.|[2303.03177v1](http://arxiv.org/abs/2303.03177v1)|null|
+|**2023-03-06**|**GlobalNER: Incorporating Non-local Information into Named Entity Recognition**|Chiao-Wei Hsu et.al.|[2303.02915v1](http://arxiv.org/abs/2303.02915v1)|null|
+|**2023-03-06**|**Artificial Intelligence: 70 Years Down the Road**|Lin Zhang et.al.|[2303.02819v1](http://arxiv.org/abs/2303.02819v1)|null|
+|**2023-03-05**|**Swim: A General-Purpose, High-Performing, and Efficient Activation Function for Locomotion Control Tasks**|Maryam Abdool et.al.|[2303.02640v1](http://arxiv.org/abs/2303.02640v1)|**[link](https://github.com/maryam-abdool/swim-control)**|
+|**2023-03-04**|**Variational Quantum Classifiers for Natural-Language Text**|Daniel T. Chang et.al.|[2303.02469v1](http://arxiv.org/abs/2303.02469v1)|null|
+|**2023-03-04**|**Calibrating Transformers via Sparse Gaussian Processes**|Wenlong Chen et.al.|[2303.02444v1](http://arxiv.org/abs/2303.02444v1)|**[link](https://github.com/chenw20/sgpa)**|
+|**2023-03-03**|**TrojText: Test-time Invisible Textual Trojan Insertion**|Yepeng Liu et.al.|[2303.02242v1](http://arxiv.org/abs/2303.02242v1)|**[link](https://github.com/ucf-ml-research/trojtext)**|
+|**2023-03-03**|**Exploring Data Augmentation Methods on Social Media Corpora**|Isabel Garcia Pietri et.al.|[2303.02198v1](http://arxiv.org/abs/2303.02198v1)|null|
 |**2023-03-02**|**DeepLens: Interactive Out-of-distribution Data Detection in NLP Models**|Da Song et.al.|[2303.01577v1](http://arxiv.org/abs/2303.01577v1)|**[link](https://github.com/momentum-lab-workspace/deeplens)**|
 |**2023-03-02**|**DeepSeer: Interactive RNN Explanation and Debugging via State Abstraction**|Zhijie Wang et.al.|[2303.01576v1](http://arxiv.org/abs/2303.01576v1)|**[link](https://github.com/momentum-lab-workspace/deepseer)**|
 |**2023-03-02**|**Local data structures**|J. F. Jardine et.al.|[2303.01415v1](http://arxiv.org/abs/2303.01415v1)|null|
@@ -470,6 +480,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-06**|**GlobalNER: Incorporating Non-local Information into Named Entity Recognition**|Chiao-Wei Hsu et.al.|[2303.02915v1](http://arxiv.org/abs/2303.02915v1)|null|
 |**2023-02-28**|**OEKG: The Open Event Knowledge Graph**|Simon Gottschalk et.al.|[2302.14688v1](http://arxiv.org/abs/2302.14688v1)|null|
 |**2023-02-27**|**A Prototypical Semantic Decoupling Method via Joint Contrastive Learning for Few-Shot Name Entity Recognition**|Guanting Dong et.al.|[2302.13610v1](http://arxiv.org/abs/2302.13610v1)|null|
 |**2023-02-23**|**A Neural Span-Based Continual Named Entity Recognition Model**|Yunan Zhang et.al.|[2302.12200v1](http://arxiv.org/abs/2302.12200v1)|**[link](https://github.com/qznan/spankl)**|
@@ -607,6 +618,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT**|Mostafa M. Amin et.al.|[2303.03186v1](http://arxiv.org/abs/2303.03186v1)|null|
+|**2023-03-03**|**Extreme events prediction from nonlocal partial information in a spatiotemporally chaotic microcavity laser**|V. A Pammi et.al.|[2303.03097v1](http://arxiv.org/abs/2303.03097v1)|null|
+|**2023-03-06**|**A Multi-Grained Self-Interpretable Symbolic-Neural Model For Single/Multi-Labeled Text Classification**|Xiang Hu et.al.|[2303.02860v1](http://arxiv.org/abs/2303.02860v1)|**[link](https://github.com/ant-research/structuredlm_rtdt)**|
+|**2023-03-05**|**Time Associated Meta Learning for Clinical Prediction**|Hao Liu et.al.|[2303.02570v1](http://arxiv.org/abs/2303.02570v1)|null|
+|**2023-03-03**|**Exploring Data Augmentation Methods on Social Media Corpora**|Isabel Garcia Pietri et.al.|[2303.02198v1](http://arxiv.org/abs/2303.02198v1)|null|
 |**2023-02-28**|**PANACEA: An Automated Misinformation Detection System on COVID-19**|Runcong Zhao et.al.|[2303.01241v1](http://arxiv.org/abs/2303.01241v1)|null|
 |**2023-03-02**|**Document Provenance and Authentication through Authorship Classification**|Muhammad Tayyab Zamir et.al.|[2303.01197v1](http://arxiv.org/abs/2303.01197v1)|null|
 |**2023-03-02**|**Can BERT Refrain from Forgetting on Sequential Tasks? A Probing Study**|Mingxu Tao et.al.|[2303.01081v1](http://arxiv.org/abs/2303.01081v1)|**[link](https://github.com/kobayashikanna01/plms_are_lifelong_learners)**|
@@ -786,6 +802,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT**|Mostafa M. Amin et.al.|[2303.03186v1](http://arxiv.org/abs/2303.03186v1)|null|
+|**2023-03-06**|**Reducing Spurious Correlations for Aspect-Based Sentiment Analysis with Variational Information Bottleneck and Contrastive Learning**|Mingshan Chang et.al.|[2303.02846v1](http://arxiv.org/abs/2303.02846v1)|null|
+|**2023-03-05**|**FinXABSA:Explainable Finance through Aspect-Based Sentiment Analysis**|Keane Ong et.al.|[2303.02563v1](http://arxiv.org/abs/2303.02563v1)|null|
 |**2023-03-03**|**Meme Sentiment Analysis Enhanced with Multimodal Spatial Encoding and Facial Embedding**|Muzhaffar Hazman et.al.|[2303.01781v1](http://arxiv.org/abs/2303.01781v1)|null|
 |**2023-03-02**|**NLP Workbench: Efficient and Extensible Integration of State-of-the-art Text Mining Tools**|Peiran Yao et.al.|[2303.01410v1](http://arxiv.org/abs/2303.01410v1)|null|
 |**2023-03-01**|**Soft Prompt Guided Joint Learning for Cross-Domain Sentiment Analysis**|Jingli Shi et.al.|[2303.00815v1](http://arxiv.org/abs/2303.00815v1)|null|
@@ -928,6 +947,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-06**|**PaLM-E: An Embodied Multimodal Language Model**|Danny Driess et.al.|[2303.03378v1](http://arxiv.org/abs/2303.03378v1)|null|
+|**2023-03-06**|**AmQA: Amharic Question Answering Dataset**|Tilahun Abedissa et.al.|[2303.03290v1](http://arxiv.org/abs/2303.03290v1)|null|
+|**2023-03-06**|**Video Question Answering Using CLIP-Guided Visual-Text Attention**|Shuhong Ye et.al.|[2303.03131v1](http://arxiv.org/abs/2303.03131v1)|null|
+|**2023-03-06**|**Confidence-based Event-centric Online Video Question Answering on a Newly Constructed ATBS Dataset**|Weikai Kong et.al.|[2303.03105v1](http://arxiv.org/abs/2303.03105v1)|null|
+|**2023-03-05**|**VTQA: Visual Text Question Answering via Entity Alignment and Cross-Media Reasoning**|Kang Chen et.al.|[2303.02635v1](http://arxiv.org/abs/2303.02635v1)|null|
+|**2023-03-05**|**Knowledge-Based Counterfactual Queries for Visual Question Answering**|Theodoti Stoikou et.al.|[2303.02601v1](http://arxiv.org/abs/2303.02601v1)|null|
+|**2023-03-03**|**Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models**|Navid Madani et.al.|[2303.02206v1](http://arxiv.org/abs/2303.02206v1)|null|
 |**2023-03-03**|**Discovery and Recognition of Formula Concepts using Machine Learning**|Philipp Scharpf et.al.|[2303.01994v1](http://arxiv.org/abs/2303.01994v1)|**[link](https://github.com/ag-gipp/formula-concept-retrieval)**|
 |**2023-03-03**|**Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**|Zhenwei Shao et.al.|[2303.01903v1](http://arxiv.org/abs/2303.01903v1)|null|
 |**2023-03-02**|**ConTEXTual Net: A Multimodal Vision-Language Model for Segmentation of Pneumothorax**|Zachary Huemann et.al.|[2303.01615v1](http://arxiv.org/abs/2303.01615v1)|**[link](https://github.com/zhuemann/contextualsegmentation)**|
@@ -1142,9 +1168,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-05**|**Rank and Condition Number Analysis for UAV MIMO Channels Using Ray Tracing**|Donggu Lee et.al.|[2303.02779v1](http://arxiv.org/abs/2303.02779v1)|null|
 |**2023-03-03**|**AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing**|Hongyang Du et.al.|[2303.01896v1](http://arxiv.org/abs/2303.01896v1)|null|
 |**2023-03-01**|**Black hole mergers as tracers of spinning massive black hole and galaxy populations in the Obelisk simulation**|C. A. Dong-Páez et.al.|[2303.00766v1](http://arxiv.org/abs/2303.00766v1)|null|
-|**2023-03-01**|**Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation**|Guozhen Zhang et.al.|[2303.00440v1](http://arxiv.org/abs/2303.00440v1)|**[link](https://github.com/mcg-nju/ema-vfi)**|
+|**2023-03-05**|**Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation**|Guozhen Zhang et.al.|[2303.00440v2](http://arxiv.org/abs/2303.00440v2)|**[link](https://github.com/mcg-nju/ema-vfi)**|
 |**2023-03-01**|**StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training**|Yuechen Yu et.al.|[2303.00289v1](http://arxiv.org/abs/2303.00289v1)|**[link](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT/v2)**|
 |**2023-02-28**|**HugNLP: A Unified and Comprehensive Library for Natural Language Processing**|Jianing Wang et.al.|[2302.14286v1](http://arxiv.org/abs/2302.14286v1)|**[link](https://github.com/wjn1996/hugnlp)**|
 |**2023-02-25**|**Human-in-the-Loop Schema Induction**|Tianyi Zhang et.al.|[2302.13048v1](http://arxiv.org/abs/2302.13048v1)|null|
@@ -1285,14 +1312,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-06**|**U-Park: A User-Centric Smart Parking Recommendation System for Electric Shared Micromobility Services**|Sen Yan et.al.|[2303.03152v1](http://arxiv.org/abs/2303.03152v1)|null|
+|**2023-03-06**|**A Survey on Incremental Update for Neural Recommender Systems**|Peiyan Zhang et.al.|[2303.02851v1](http://arxiv.org/abs/2303.02851v1)|null|
 |**2023-03-03**|**Discovery and Recognition of Formula Concepts using Machine Learning**|Philipp Scharpf et.al.|[2303.01994v1](http://arxiv.org/abs/2303.01994v1)|**[link](https://github.com/ag-gipp/formula-concept-retrieval)**|
 |**2023-03-03**|**Generalizing Lloyd's algorithm for graph clustering**|Tareq Zaman et.al.|[2303.01667v1](http://arxiv.org/abs/2303.01667v1)|null|
-|**2023-03-02**|**An Improved Classical Singular Value Transformation for Quantum Machine Learning**|Ainesh Bakshi et.al.|[2303.01492v1](http://arxiv.org/abs/2303.01492v1)|null|
+|**2023-03-06**|**An Improved Classical Singular Value Transformation for Quantum Machine Learning**|Ainesh Bakshi et.al.|[2303.01492v2](http://arxiv.org/abs/2303.01492v2)|null|
 |**2023-03-02**|**Creating Synthetic Datasets for Collaborative Filtering Recommender Systems using Generative Adversarial Networks**|Jesús Bobadilla et.al.|[2303.01297v1](http://arxiv.org/abs/2303.01297v1)|null|
 |**2023-03-02**|**Effective Visualization and Analysis of Recommender Systems**|Hao Wang et.al.|[2303.01136v1](http://arxiv.org/abs/2303.01136v1)|null|
 |**2023-03-02**|**Distillation from Heterogeneous Models for Top-K Recommendation**|SeongKu Kang et.al.|[2303.01130v1](http://arxiv.org/abs/2303.01130v1)|**[link](https://github.com/seongku-kang/hetcomp_www23)**|
 |**2023-03-02**|**Heterogeneous Graph Contrastive Learning for Recommendation**|Mengru Chen et.al.|[2303.00995v1](http://arxiv.org/abs/2303.00995v1)|**[link](https://github.com/hkuds/hgcl)**|
-|**2023-03-02**|**Dynamic fairness-aware recommendation through multi-agent social choice**|Amanda Aird et.al.|[2303.00968v1](http://arxiv.org/abs/2303.00968v1)|null|
+|**2023-03-03**|**Dynamic fairness-aware recommendation through multi-agent social choice**|Amanda Aird et.al.|[2303.00968v2](http://arxiv.org/abs/2303.00968v2)|null|
 |**2023-03-01**|**Efficient Explorative Key-term Selection Strategies for Conversational Contextual Bandits**|Zhiyong Wang et.al.|[2303.00315v1](http://arxiv.org/abs/2303.00315v1)|**[link](https://github.com/zhiyongwangwzy/conlinucb)**|
 |**2023-03-01**|**Modeling Multiple User Interests using Hierarchical Knowledge for Conversational Recommender System**|Yuka Okuda et.al.|[2303.00311v1](http://arxiv.org/abs/2303.00311v1)|null|
 |**2023-03-01**|**Entire Space Learning Framework: Unbias Conversion Rate Prediction in Full Stages of Recommender System**|Shanshan Lyu et.al.|[2303.00276v1](http://arxiv.org/abs/2303.00276v1)|null|
@@ -1502,6 +1531,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-04**|**The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges**|Maria Lymperaiou et.al.|[2303.02411v1](http://arxiv.org/abs/2303.02411v1)|null|
+|**2023-03-03**|**Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models**|Navid Madani et.al.|[2303.02206v1](http://arxiv.org/abs/2303.02206v1)|null|
+|**2023-03-03**|**Linked Data Science Powered by Knowledge Graphs**|Mossad Helali et.al.|[2303.02204v1](http://arxiv.org/abs/2303.02204v1)|**[link](https://github.com/cods-gcs/kglids)**|
+|**2023-03-03**|**Towards a GML-Enabled Knowledge Graph Platform**|Hussein Abdallah et.al.|[2303.02166v1](http://arxiv.org/abs/2303.02166v1)|null|
 |**2023-03-02**|**Cardinality Estimation over Knowledge Graphs with Embeddings and Graph Neural Networks**|Tim Schwabe et.al.|[2303.01140v1](http://arxiv.org/abs/2303.01140v1)|**[link](https://github.com/timericschwabe/gnce_reproducibility)**|
 |**2023-03-01**|**A Universal Question-Answering Platform for Knowledge Graphs**|Reham Omar et.al.|[2303.00595v1](http://arxiv.org/abs/2303.00595v1)|null|
 |**2023-03-01**|**Enhancing Knowledge Graph Embedding Models with Semantic-driven Loss Functions**|Nicolas Hubert et.al.|[2303.00286v1](http://arxiv.org/abs/2303.00286v1)|**[link](https://github.com/nicolas-hbt/semantic-lossfunc)**|
@@ -1694,6 +1727,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-06**|**Graph Neural Network Autoencoders for Efficient Quantum Circuit Optimisation**|Ioana Moflic et.al.|[2303.03280v1](http://arxiv.org/abs/2303.03280v1)|null|
+|**2023-03-06**|**Transfer learning on large datasets for the accurate prediction of material properties**|Noah Hoffmann et.al.|[2303.03000v1](http://arxiv.org/abs/2303.03000v1)|null|
+|**2023-03-06**|**DR-Label: Improving GNN Models for Catalysis Systems by Label Deconstruction and Reconstruction**|Bowen Wang et.al.|[2303.02875v1](http://arxiv.org/abs/2303.02875v1)|null|
+|**2023-03-05**|**Tac-VGNN: A Voronoi Graph Neural Network for Pose-Based Tactile Servoing**|Wen Fan et.al.|[2303.02708v1](http://arxiv.org/abs/2303.02708v1)|null|
+|**2023-03-05**|**Unlearnable Graph: Protecting Graphs from Unauthorized Exploitation**|Yixin Liu et.al.|[2303.02568v1](http://arxiv.org/abs/2303.02568v1)|null|
+|**2023-03-04**|**DAG Matters! GFlowNets Enhanced Explainer For Graph Neural Networks**|Wenqian Li et.al.|[2303.02448v1](http://arxiv.org/abs/2303.02448v1)|null|
+|**2023-03-03**|**Denoise Pre-training on Non-equilibrium Molecules for Accurate and Transferable Neural Potentials**|Yuyang Wang et.al.|[2303.02216v1](http://arxiv.org/abs/2303.02216v1)|**[link](https://github.com/yuyangw/denoise-pretrain-ml-potential)**|
+|**2023-03-03**|**Estimating the parameters of epidemic spread on multilayer random graphs: a classical and a neural network approach**|Ágnes Backhausz et.al.|[2303.02195v1](http://arxiv.org/abs/2303.02195v1)|null|
 |**2023-03-03**|**Graph-level representations using ensemble-based readout functions**|Jakub Binkowski et.al.|[2303.02023v1](http://arxiv.org/abs/2303.02023v1)|null|
 |**2023-03-03**|**Node-Specific Space Selection via Localized Geometric Hyperbolicity in Graph Neural Networks**|See Hian Lee et.al.|[2303.01724v1](http://arxiv.org/abs/2303.01724v1)|null|
 |**2023-03-03**|**Hierarchical Graph Neural Networks for Particle Track Reconstruction**|Ryan Liu et.al.|[2303.01640v1](http://arxiv.org/abs/2303.01640v1)|**[link](https://github.com/ryanliu30/hierarchicalgnn)**|
