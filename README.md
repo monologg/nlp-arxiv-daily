@@ -21,6 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-08**|**Automatic Detection of Industry Sectors in Legal Articles Using Machine Learning Approaches**|Hui Yang et.al.|[2303.05387v1](http://arxiv.org/abs/2303.05387v1)|null|
+|**2023-03-09**|**Dynamic Stashing Quantization for Efficient Transformer Training**|Guo Yang et.al.|[2303.05295v1](http://arxiv.org/abs/2303.05295v1)|null|
+|**2023-03-09**|**Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**|Yasuto Hoshi et.al.|[2303.05153v1](http://arxiv.org/abs/2303.05153v1)|null|
+|**2023-03-09**|**ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction**|Jiabang He et.al.|[2303.05063v1](http://arxiv.org/abs/2303.05063v1)|null|
+|**2023-03-09**|**Rethinking Visual Prompt Learning as Masked Visual Token Modeling**|Ning Liao et.al.|[2303.04998v1](http://arxiv.org/abs/2303.04998v1)|null|
+|**2023-03-08**|**DeepGD: A Multi-Objective Black-Box Test Selection Approach for Deep Neural Networks**|Zohreh Aghababaeyan et.al.|[2303.04878v1](http://arxiv.org/abs/2303.04878v1)|null|
+|**2023-03-08**|**Non-Binary Gender Expression in Online Interactions**|Rebecca Dorn et.al.|[2303.04837v1](http://arxiv.org/abs/2303.04837v1)|null|
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
 |**2023-03-08**|**Student's t-Distribution: On Measuring the Inter-Rater Reliability When the Observations are Scarce**|Serge Gladkoff et.al.|[2303.04526v1](http://arxiv.org/abs/2303.04526v1)|null|
 |**2023-03-08**|**An Annexure to the Paper "Driving the Technology Value Stream by Analyzing App Reviews"**|Souvick Das et.al.|[2303.04519v1](http://arxiv.org/abs/2303.04519v1)|null|
@@ -337,6 +344,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
+|**2023-03-07**|**Making a Computational Attorney**|Dell Zhang et.al.|[2303.05383v1](http://arxiv.org/abs/2303.05383v1)|null|
 |**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
 |**2023-01-30**|**LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain**|Joel Niklaus et.al.|[2301.13126v1](http://arxiv.org/abs/2301.13126v1)|**[link](https://github.com/joelniklaus/lextreme)**|
 |**2023-01-30**|**Finding the Law: Enhancing Statutory Article Retrieval via Graph Neural Networks**|Antoine Louis et.al.|[2301.12847v1](http://arxiv.org/abs/2301.12847v1)|**[link](https://github.com/maastrichtlawtech/gdsr)**|
@@ -487,6 +496,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
 |**2023-03-08**|**Does Synthetic Data Generation of LLMs Help Clinical Text Mining?**|Ruixiang Tang et.al.|[2303.04360v1](http://arxiv.org/abs/2303.04360v1)|null|
 |**2023-03-06**|**GlobalNER: Incorporating Non-local Information into Named Entity Recognition**|Chiao-Wei Hsu et.al.|[2303.02915v1](http://arxiv.org/abs/2303.02915v1)|null|
 |**2023-02-28**|**OEKG: The Open Event Knowledge Graph**|Simon Gottschalk et.al.|[2302.14688v1](http://arxiv.org/abs/2302.14688v1)|null|
@@ -957,10 +967,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-09**|**Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**|Yasuto Hoshi et.al.|[2303.05153v1](http://arxiv.org/abs/2303.05153v1)|null|
+|**2023-03-09**|**Toward Unsupervised Realistic Visual Question Answering**|Yuwei Zhang et.al.|[2303.05068v1](http://arxiv.org/abs/2303.05068v1)|null|
+|**2023-03-09**|**VQA-based Robotic State Recognition Optimized with Genetic Algorithm**|Kento Kawaharazuka et.al.|[2303.05052v1](http://arxiv.org/abs/2303.05052v1)|null|
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
 |**2023-03-08**|**Interpretable Visual Question Answering Referring to Outside Knowledge**|He Zhu et.al.|[2303.04388v1](http://arxiv.org/abs/2303.04388v1)|null|
 |**2023-03-08**|**Does Synthetic Data Generation of LLMs Help Clinical Text Mining?**|Ruixiang Tang et.al.|[2303.04360v1](http://arxiv.org/abs/2303.04360v1)|null|
-|**2023-03-07**|**Exploring the Feasibility of ChatGPT for Event Extraction**|Jun Gao et.al.|[2303.03836v1](http://arxiv.org/abs/2303.03836v1)|null|
+|**2023-03-09**|**Exploring the Feasibility of ChatGPT for Event Extraction**|Jun Gao et.al.|[2303.03836v2](http://arxiv.org/abs/2303.03836v2)|null|
 |**2023-03-07**|**Graph Neural Networks in Vision-Language Image Understanding: A Survey**|Henry Senior et.al.|[2303.03761v1](http://arxiv.org/abs/2303.03761v1)|null|
 |**2023-03-06**|**PaLM-E: An Embodied Multimodal Language Model**|Danny Driess et.al.|[2303.03378v1](http://arxiv.org/abs/2303.03378v1)|null|
 |**2023-03-06**|**AmQA: Amharic Question Answering Dataset**|Tilahun Abedissa et.al.|[2303.03290v1](http://arxiv.org/abs/2303.03290v1)|null|
@@ -1183,10 +1196,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
+|**2023-03-09**|**ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction**|Jiabang He et.al.|[2303.05063v1](http://arxiv.org/abs/2303.05063v1)|null|
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
 |**2023-03-08**|**FCN+: Global Receptive Convolution Makes FCN Great Again**|Zhongying Deng et.al.|[2303.04589v1](http://arxiv.org/abs/2303.04589v1)|null|
 |**2023-03-07**|**Exploiting Asymmetry for Synthetic Training Data Generation: SynthIE and the Case of Information Extraction**|Martin Josifoski et.al.|[2303.04132v1](http://arxiv.org/abs/2303.04132v1)|**[link](https://github.com/epfl-dlab/synthie)**|
-|**2023-03-07**|**Exploring the Feasibility of ChatGPT for Event Extraction**|Jun Gao et.al.|[2303.03836v1](http://arxiv.org/abs/2303.03836v1)|null|
+|**2023-03-09**|**Exploring the Feasibility of ChatGPT for Event Extraction**|Jun Gao et.al.|[2303.03836v2](http://arxiv.org/abs/2303.03836v2)|null|
 |**2023-03-05**|**Rank and Condition Number Analysis for UAV MIMO Channels Using Ray Tracing**|Donggu Lee et.al.|[2303.02779v1](http://arxiv.org/abs/2303.02779v1)|null|
 |**2023-03-03**|**AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing**|Hongyang Du et.al.|[2303.01896v1](http://arxiv.org/abs/2303.01896v1)|null|
 |**2023-03-01**|**Black hole mergers as tracers of spinning massive black hole and galaxy populations in the Obelisk simulation**|C. A. Dong-Páez et.al.|[2303.00766v1](http://arxiv.org/abs/2303.00766v1)|null|
@@ -1331,6 +1346,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-09**|**Communication-Efficient Collaborative Heterogeneous Bandits in Networks**|Junghyun Lee et.al.|[2303.05445v1](http://arxiv.org/abs/2303.05445v1)|null|
+|**2023-03-09**|**Improving Recommendation Systems with User Personality Inferred from Product Reviews**|Xinyuan Lu et.al.|[2303.05039v1](http://arxiv.org/abs/2303.05039v1)|**[link](https://github.com/xinyuanlu00/irs-wsdm2023-personality-dataset)**|
 |**2023-03-08**|**Automatic Debiased Learning from Positive, Unlabeled, and Exposure Data**|Masahiro Kato et.al.|[2303.04797v1](http://arxiv.org/abs/2303.04797v1)|null|
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
 |**2023-03-07**|**A Privacy Preserving System for Movie Recommendations using Federated Learning**|David Neumann et.al.|[2303.04689v1](http://arxiv.org/abs/2303.04689v1)|null|
@@ -1556,6 +1573,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-09**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|null|
+|**2023-03-09**|**Knowledge-augmented Few-shot Visual Relation Detection**|Tianyu Yu et.al.|[2303.05342v1](http://arxiv.org/abs/2303.05342v1)|null|
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
 |**2023-03-08**|**NASTyLinker: NIL-Aware Scalable Transformer-based Entity Linker**|Nicolas Heist et.al.|[2303.04426v1](http://arxiv.org/abs/2303.04426v1)|null|
 |**2023-03-07**|**SKGHOI: Spatial-Semantic Knowledge Graph for Human-Object Interaction Detection**|Lijing Zhu et.al.|[2303.04253v1](http://arxiv.org/abs/2303.04253v1)|null|
@@ -1758,6 +1777,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-09**|**Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework**|Zhenshuo Zhang et.al.|[2303.05231v1](http://arxiv.org/abs/2303.05231v1)|null|
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613v1](http://arxiv.org/abs/2303.04613v1)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477v1](http://arxiv.org/abs/2303.04477v1)|null|
 |**2023-03-08**|**A Message Passing Perspective on Learning Dynamics of Contrastive Learning**|Yifei Wang et.al.|[2303.04435v1](http://arxiv.org/abs/2303.04435v1)|**[link](https://github.com/pku-ml/message-passing-contrastive-learning)**|
