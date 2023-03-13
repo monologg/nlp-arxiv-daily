@@ -25,6 +25,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**Distributionally Robust Optimization with Probabilistic Group**|Soumya Suvra Ghosal et.al.|[2303.05809v1](http://arxiv.org/abs/2303.05809v1)|null|
+|**2023-03-10**|**An Overview on Language Models: Recent Developments and Outlook**|Chengwei Wei et.al.|[2303.05759v1](http://arxiv.org/abs/2303.05759v1)|null|
+|**2023-03-10**|**Research on CPI Prediction Based on Natural Language Processing**|Xiaobin Tang et.al.|[2303.05666v1](http://arxiv.org/abs/2303.05666v1)|null|
+|**2023-03-09**|**Open World Classification with Adaptive Negative Samples**|Ke Bai et.al.|[2303.05581v1](http://arxiv.org/abs/2303.05581v1)|null|
 |**2023-03-08**|**Automatic Detection of Industry Sectors in Legal Articles Using Machine Learning Approaches**|Hui Yang et.al.|[2303.05387v1](http://arxiv.org/abs/2303.05387v1)|null|
 |**2023-03-09**|**Dynamic Stashing Quantization for Efficient Transformer Training**|Guo Yang et.al.|[2303.05295v1](http://arxiv.org/abs/2303.05295v1)|null|
 |**2023-03-09**|**Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**|Yasuto Hoshi et.al.|[2303.05153v1](http://arxiv.org/abs/2303.05153v1)|null|
@@ -971,6 +975,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models**|Tom van Sonsbeek et.al.|[2303.05977v1](http://arxiv.org/abs/2303.05977v1)|null|
+|**2023-03-10**|**Understanding and Constructing Latent Modality Structures in Multi-modal Representation Learning**|Qian Jiang et.al.|[2303.05952v1](http://arxiv.org/abs/2303.05952v1)|null|
+|**2023-03-10**|**MuLTI: Efficient Video-and-Language Understanding with MultiWay-Sampler and Multiple Choice Modeling**|Jiaqi Xu et.al.|[2303.05707v1](http://arxiv.org/abs/2303.05707v1)|null|
 |**2023-03-09**|**Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**|Yasuto Hoshi et.al.|[2303.05153v1](http://arxiv.org/abs/2303.05153v1)|null|
 |**2023-03-09**|**Toward Unsupervised Realistic Visual Question Answering**|Yuwei Zhang et.al.|[2303.05068v1](http://arxiv.org/abs/2303.05068v1)|null|
 |**2023-03-09**|**VQA-based Robotic State Recognition Optimized with Genetic Algorithm**|Kento Kawaharazuka et.al.|[2303.05052v1](http://arxiv.org/abs/2303.05052v1)|null|
@@ -1200,6 +1207,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**HiNet: A Novel Multi-Scenario & Multi-Task Learning Approach with Hierarchical Information Extraction**|Jie Zhou et.al.|[2303.06095v1](http://arxiv.org/abs/2303.06095v1)|null|
 |**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
 |**2023-03-09**|**ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction**|Jiabang He et.al.|[2303.05063v1](http://arxiv.org/abs/2303.05063v1)|null|
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
@@ -1350,6 +1358,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**HiNet: A Novel Multi-Scenario & Multi-Task Learning Approach with Hierarchical Information Extraction**|Jie Zhou et.al.|[2303.06095v1](http://arxiv.org/abs/2303.06095v1)|null|
+|**2023-03-10**|**Gradient Coordination for Quantifying and Maximizing Knowledge Transference in Multi-Task Learning**|Xuanhua Yang et.al.|[2303.05847v1](http://arxiv.org/abs/2303.05847v1)|null|
+|**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
+|**2023-03-09**|**Evaluating the Robustness of Conversational Recommender Systems by Adversarial Examples**|Ali Montazeralghaem et.al.|[2303.05575v1](http://arxiv.org/abs/2303.05575v1)|null|
 |**2023-03-09**|**Communication-Efficient Collaborative Heterogeneous Bandits in Networks**|Junghyun Lee et.al.|[2303.05445v1](http://arxiv.org/abs/2303.05445v1)|null|
 |**2023-03-09**|**Improving Recommendation Systems with User Personality Inferred from Product Reviews**|Xinyuan Lu et.al.|[2303.05039v1](http://arxiv.org/abs/2303.05039v1)|**[link](https://github.com/xinyuanlu00/irs-wsdm2023-personality-dataset)**|
 |**2023-03-08**|**Automatic Debiased Learning from Positive, Unlabeled, and Exposure Data**|Masahiro Kato et.al.|[2303.04797v1](http://arxiv.org/abs/2303.04797v1)|null|
@@ -1781,6 +1793,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**A hybrid deep-learning-metaheuristic framework to approximate discrete road network design problems**|Bahman Madadi et.al.|[2303.06024v1](http://arxiv.org/abs/2303.06024v1)|null|
+|**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
 |**2023-03-09**|**Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework**|Zhenshuo Zhang et.al.|[2303.05231v1](http://arxiv.org/abs/2303.05231v1)|null|
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613v1](http://arxiv.org/abs/2303.04613v1)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477v1](http://arxiv.org/abs/2303.04477v1)|null|
