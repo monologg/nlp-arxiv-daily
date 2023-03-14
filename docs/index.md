@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|Sheng Shen et.al.|[2303.07226v1](http://arxiv.org/abs/2303.07226v1)|null|
+|**2023-03-13**|**A Comprehensive Empirical Evaluation of Existing Word Embedding Approaches**|Obaidullah Zaland et.al.|[2303.07196v1](http://arxiv.org/abs/2303.07196v1)|null|
+|**2023-03-13**|**$\nabla$ SD: Differentiable Programming for Sparse Tensors**|Amir Shaikhha et.al.|[2303.07030v1](http://arxiv.org/abs/2303.07030v1)|null|
+|**2023-03-13**|**Roadmap towards Meta-being**|Tianyi Huang et.al.|[2303.06795v1](http://arxiv.org/abs/2303.06795v1)|null|
+|**2023-03-12**|**AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces**|SM Hasan Mansur et.al.|[2303.06782v1](http://arxiv.org/abs/2303.06782v1)|**[link](https://github.com/sageselab/aidui)**|
+|**2023-03-12**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574v1](http://arxiv.org/abs/2303.06574v1)|null|
+|**2023-03-11**|**Graph Neural Network contextual embedding for Deep Learning on Tabular Data**|Mario Villaizán-Vallelado et.al.|[2303.06455v1](http://arxiv.org/abs/2303.06455v1)|null|
+|**2023-03-11**|**Explainable AI for Time Series via Virtual Inspection Layers**|Johanna Vielhaben et.al.|[2303.06365v1](http://arxiv.org/abs/2303.06365v1)|null|
+|**2023-03-10**|**Generating Query Focused Summaries without Fine-tuning the Transformer-based Pre-trained Models**|Deen Abdullah et.al.|[2303.06230v1](http://arxiv.org/abs/2303.06230v1)|null|
+|**2023-03-10**|**Towards MoE Deployment: Mitigating Inefficiencies in Mixture-of-Expert (MoE) Inference**|Haiyang Huang et.al.|[2303.06182v1](http://arxiv.org/abs/2303.06182v1)|null|
 |**2023-03-10**|**Distributionally Robust Optimization with Probabilistic Group**|Soumya Suvra Ghosal et.al.|[2303.05809v1](http://arxiv.org/abs/2303.05809v1)|null|
 |**2023-03-10**|**An Overview on Language Models: Recent Developments and Outlook**|Chengwei Wei et.al.|[2303.05759v1](http://arxiv.org/abs/2303.05759v1)|null|
 |**2023-03-10**|**Research on CPI Prediction Based on Natural Language Processing**|Xiaobin Tang et.al.|[2303.05666v1](http://arxiv.org/abs/2303.05666v1)|null|
@@ -504,6 +514,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**A Human Subject Study of Named Entity Recognition (NER) in Conversational Music Recommendation Queries**|Elena V. Epure et.al.|[2303.06944v1](http://arxiv.org/abs/2303.06944v1)|**[link](https://github.com/deezer/music-ner-eacl2023)**|
+|**2023-03-10**|**Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models**|Iman Saberi et.al.|[2303.06233v1](http://arxiv.org/abs/2303.06233v1)|null|
 |**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
 |**2023-03-08**|**Does Synthetic Data Generation of LLMs Help Clinical Text Mining?**|Ruixiang Tang et.al.|[2303.04360v1](http://arxiv.org/abs/2303.04360v1)|null|
 |**2023-03-06**|**GlobalNER: Incorporating Non-local Information into Named Entity Recognition**|Chiao-Wei Hsu et.al.|[2303.02915v1](http://arxiv.org/abs/2303.02915v1)|null|
@@ -644,6 +656,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Transformer-based approaches to Sentiment Detection**|Olumide Ebenezer Ojo et.al.|[2303.07292v1](http://arxiv.org/abs/2303.07292v1)|null|
+|**2023-03-13**|**SA-CNN: Application to text categorization issues using simulated annealing-based convolutional neural network optimization**|Zihao Guo et.al.|[2303.07153v1](http://arxiv.org/abs/2303.07153v1)|null|
+|**2023-03-13**|**Large Language Models in the Workplace: A Case Study on Prompt Engineering for Job Type Classification**|Benjamin Clavié et.al.|[2303.07142v1](http://arxiv.org/abs/2303.07142v1)|null|
 |**2023-03-08**|**ChatGPT: Beginning of an End of Manual Linguistic Data Annotation? Use Case of Automatic Genre Identification**|Taja Kuzman et.al.|[2303.03953v2](http://arxiv.org/abs/2303.03953v2)|null|
 |**2023-03-03**|**Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT**|Mostafa M. Amin et.al.|[2303.03186v1](http://arxiv.org/abs/2303.03186v1)|null|
 |**2023-03-03**|**Extreme events prediction from nonlocal partial information in a spatiotemporally chaotic microcavity laser**|V. A Pammi et.al.|[2303.03097v1](http://arxiv.org/abs/2303.03097v1)|null|
@@ -831,8 +846,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-08**|**Extrapolative Controlled Sequence Generation via Iterative Refinement**|Vishakh Padmakumar et.al.|[2303.04562v1](http://arxiv.org/abs/2303.04562v1)|**[link](https://github.com/vishakhpk/iter-extrapolation)**|
 |**2023-03-03**|**Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT**|Mostafa M. Amin et.al.|[2303.03186v1](http://arxiv.org/abs/2303.03186v1)|null|
-|**2023-03-06**|**Reducing Spurious Correlations for Aspect-Based Sentiment Analysis with Variational Information Bottleneck and Contrastive Learning**|Mingshan Chang et.al.|[2303.02846v1](http://arxiv.org/abs/2303.02846v1)|null|
-|**2023-03-05**|**FinXABSA:Explainable Finance through Aspect-Based Sentiment Analysis**|Keane Ong et.al.|[2303.02563v1](http://arxiv.org/abs/2303.02563v1)|null|
+|**2023-03-12**|**Reducing Spurious Correlations for Aspect-Based Sentiment Analysis with Variational Information Bottleneck and Contrastive Learning**|Mingshan Chang et.al.|[2303.02846v2](http://arxiv.org/abs/2303.02846v2)|null|
+|**2023-03-11**|**FinXABSA: Explainable Finance through Aspect-Based Sentiment Analysis**|Keane Ong et.al.|[2303.02563v2](http://arxiv.org/abs/2303.02563v2)|null|
 |**2023-03-03**|**Meme Sentiment Analysis Enhanced with Multimodal Spatial Encoding and Facial Embedding**|Muzhaffar Hazman et.al.|[2303.01781v1](http://arxiv.org/abs/2303.01781v1)|null|
 |**2023-03-02**|**NLP Workbench: Efficient and Extensible Integration of State-of-the-art Text Mining Tools**|Peiran Yao et.al.|[2303.01410v1](http://arxiv.org/abs/2303.01410v1)|null|
 |**2023-03-01**|**Soft Prompt Guided Joint Learning for Cross-Domain Sentiment Analysis**|Jingli Shi et.al.|[2303.00815v1](http://arxiv.org/abs/2303.00815v1)|null|
@@ -975,6 +990,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Vision-Language Models as Success Detectors**|Yuqing Du et.al.|[2303.07280v1](http://arxiv.org/abs/2303.07280v1)|null|
+|**2023-03-13**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v1](http://arxiv.org/abs/2303.07274v1)|null|
+|**2023-03-13**|**Generating multiple-choice questions for medical question answering with distractors and cue-masking**|Damien Sileo et.al.|[2303.07069v1](http://arxiv.org/abs/2303.07069v1)|null|
+|**2023-03-12**|**ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions**|Deyao Zhu et.al.|[2303.06594v1](http://arxiv.org/abs/2303.06594v1)|**[link](https://github.com/vision-cair/chatcaptioner)**|
 |**2023-03-10**|**Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models**|Tom van Sonsbeek et.al.|[2303.05977v1](http://arxiv.org/abs/2303.05977v1)|null|
 |**2023-03-10**|**Understanding and Constructing Latent Modality Structures in Multi-modal Representation Learning**|Qian Jiang et.al.|[2303.05952v1](http://arxiv.org/abs/2303.05952v1)|null|
 |**2023-03-10**|**MuLTI: Efficient Video-and-Language Understanding with MultiWay-Sampler and Multiple Choice Modeling**|Jiaqi Xu et.al.|[2303.05707v1](http://arxiv.org/abs/2303.05707v1)|null|
@@ -1207,6 +1226,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-12**|**Domain-Knowledge-Aided Airborne Ground Moving Targets Tracking**|Jianduo Chai et.al.|[2303.06593v1](http://arxiv.org/abs/2303.06593v1)|null|
+|**2023-03-10**|**Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models**|Iman Saberi et.al.|[2303.06233v1](http://arxiv.org/abs/2303.06233v1)|null|
 |**2023-03-10**|**HiNet: A Novel Multi-Scenario & Multi-Task Learning Approach with Hierarchical Information Extraction**|Jie Zhou et.al.|[2303.06095v1](http://arxiv.org/abs/2303.06095v1)|null|
 |**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
 |**2023-03-09**|**ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction**|Jiabang He et.al.|[2303.05063v1](http://arxiv.org/abs/2303.05063v1)|null|
@@ -1358,6 +1379,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Neural Group Recommendation Based on a Probabilistic Semantic Aggregation**|Jorge Dueñas-Lerín et.al.|[2303.07001v1](http://arxiv.org/abs/2303.07001v1)|null|
+|**2023-03-13**|**Beyond Single Items: Exploring User Preferences in Item Sets with the Conversational Playlist Curation Dataset**|Arun Tejasvi Chaganty et.al.|[2303.06791v1](http://arxiv.org/abs/2303.06791v1)|null|
+|**2023-03-12**|**P-MMF: Provider Max-min Fairness Re-ranking in Recommender System**|Chen Xu et.al.|[2303.06660v1](http://arxiv.org/abs/2303.06660v1)|**[link](https://github.com/xuchen0427/p-mmf)**|
+|**2023-03-12**|**AutoDenoise: Automatic Data Instance Denoising for Recommendations**|Weilin Lin et.al.|[2303.06611v1](http://arxiv.org/abs/2303.06611v1)|null|
+|**2023-03-12**|**MobileRec: A Large-Scale Dataset for Mobile Apps Recommendation**|M. H. Maqbool et.al.|[2303.06588v1](http://arxiv.org/abs/2303.06588v1)|null|
+|**2023-03-11**|**NetworkNarratives: Data Tours for Visual Network Exploration and Analysis**|Wenchao Li et.al.|[2303.06456v1](http://arxiv.org/abs/2303.06456v1)|null|
+|**2023-03-11**|**Uncertainty-Aware Off-Policy Learning**|Xiaoying Zhang et.al.|[2303.06389v1](http://arxiv.org/abs/2303.06389v1)|null|
+|**2023-03-11**|**PowerMat: context-aware recommender system without user item rating values that solves the cold-start problem**|Hao Wang et.al.|[2303.06356v1](http://arxiv.org/abs/2303.06356v1)|null|
+|**2023-03-11**|**AutoMLP: Automated MLP for Sequential Recommendations**|Muyang Li et.al.|[2303.06337v1](http://arxiv.org/abs/2303.06337v1)|null|
+|**2023-03-10**|**Optimal and Private Learning from Human Response Data**|Duc Nguyen et.al.|[2303.06234v1](http://arxiv.org/abs/2303.06234v1)|null|
 |**2023-03-10**|**HiNet: A Novel Multi-Scenario & Multi-Task Learning Approach with Hierarchical Information Extraction**|Jie Zhou et.al.|[2303.06095v1](http://arxiv.org/abs/2303.06095v1)|null|
 |**2023-03-10**|**Gradient Coordination for Quantifying and Maximizing Knowledge Transference in Multi-Task Learning**|Xuanhua Yang et.al.|[2303.05847v1](http://arxiv.org/abs/2303.05847v1)|null|
 |**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
@@ -1589,10 +1620,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-12**|**ALIST: Associative Logic for Inference, Storage and Transfer. A Lingua Franca for Inference on the Web**|Kwabena Nuamah et.al.|[2303.06691v1](http://arxiv.org/abs/2303.06691v1)|null|
+|**2023-03-12**|**LUKE-Graph: A Transformer-based Approach with Gated Relational Graph Attention for Cloze-style Reading Comprehension**|Shima Foolad et.al.|[2303.06675v1](http://arxiv.org/abs/2303.06675v1)|null|
 |**2023-03-09**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|null|
 |**2023-03-09**|**Knowledge-augmented Few-shot Visual Relation Detection**|Tianyu Yu et.al.|[2303.05342v1](http://arxiv.org/abs/2303.05342v1)|null|
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
-|**2023-03-08**|**NASTyLinker: NIL-Aware Scalable Transformer-based Entity Linker**|Nicolas Heist et.al.|[2303.04426v1](http://arxiv.org/abs/2303.04426v1)|null|
+|**2023-03-13**|**NASTyLinker: NIL-Aware Scalable Transformer-based Entity Linker**|Nicolas Heist et.al.|[2303.04426v2](http://arxiv.org/abs/2303.04426v2)|null|
 |**2023-03-07**|**SKGHOI: Spatial-Semantic Knowledge Graph for Human-Object Interaction Detection**|Lijing Zhu et.al.|[2303.04253v1](http://arxiv.org/abs/2303.04253v1)|null|
 |**2023-03-07**|**Connecting the Dots: Context-Driven Motion Planning Using Symbolic Reasoning**|Chris van der Ploeg et.al.|[2303.04191v1](http://arxiv.org/abs/2303.04191v1)|null|
 |**2023-03-03**|**Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer**|Wen Zhang et.al.|[2303.03922v1](http://arxiv.org/abs/2303.03922v1)|**[link](https://github.com/zjukg/kgtransformer)**|
@@ -1793,6 +1826,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Learning Reduced-Order Models for Cardiovascular Simulations with Graph Neural Networks**|Luca Pegolotti et.al.|[2303.07310v1](http://arxiv.org/abs/2303.07310v1)|null|
+|**2023-03-12**|**ContraNorm: A Contrastive Learning Perspective on Oversmoothing and Beyond**|Xiaojun Guo et.al.|[2303.06562v1](http://arxiv.org/abs/2303.06562v1)|null|
+|**2023-03-12**|**Spatial Correspondence between Graph Neural Network-Segmented Images**|Qian Li et.al.|[2303.06550v1](http://arxiv.org/abs/2303.06550v1)|null|
+|**2023-03-11**|**Multimodal Data Integration for Oncology in the Era of Deep Neural Networks: A Review**|Asim Waqas et.al.|[2303.06471v1](http://arxiv.org/abs/2303.06471v1)|null|
+|**2023-03-11**|**Graph Neural Network contextual embedding for Deep Learning on Tabular Data**|Mario Villaizán-Vallelado et.al.|[2303.06455v1](http://arxiv.org/abs/2303.06455v1)|null|
+|**2023-03-11**|**Contrastive Learning under Heterophily**|Wenhan Yang et.al.|[2303.06344v1](http://arxiv.org/abs/2303.06344v1)|null|
+|**2023-03-10**|**Zero-Shot Object Searching Using Large-scale Object Relationship Prior**|Hongyi Chen et.al.|[2303.06228v1](http://arxiv.org/abs/2303.06228v1)|null|
+|**2023-03-10**|**Fast computation of permutation equivariant layers with the partition algebra**|Charles Godfrey et.al.|[2303.06208v1](http://arxiv.org/abs/2303.06208v1)|null|
+|**2023-03-10**|**Turning Strengths into Weaknesses: A Certified Robustness Inspired Attack Framework against Graph Neural Networks**|Binghui Wang et.al.|[2303.06199v1](http://arxiv.org/abs/2303.06199v1)|null|
 |**2023-03-10**|**A hybrid deep-learning-metaheuristic framework to approximate discrete road network design problems**|Bahman Madadi et.al.|[2303.06024v1](http://arxiv.org/abs/2303.06024v1)|null|
 |**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
 |**2023-03-09**|**Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework**|Zhenshuo Zhang et.al.|[2303.05231v1](http://arxiv.org/abs/2303.05231v1)|null|
