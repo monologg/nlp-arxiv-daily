@@ -25,6 +25,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Progress Note Understanding -- Assessment and Plan Reasoning: Overview of the 2022 N2C2 Track 3 Shared Task**|Yanjun Gao et.al.|[2303.08038v1](http://arxiv.org/abs/2303.08038v1)|null|
+|**2023-03-14**|**Geolocation Predicting of Tweets Using BERT-Based Models**|Kateryna Lutsai et.al.|[2303.07865v1](http://arxiv.org/abs/2303.07865v1)|null|
+|**2023-03-14**|**Input-length-shortening and text generation via attention values**|Neşet Özkan Tan et.al.|[2303.07585v1](http://arxiv.org/abs/2303.07585v1)|null|
+|**2023-03-14**|**Diffusion Models in NLP: A Survey**|Yuansong Zhu et.al.|[2303.07576v1](http://arxiv.org/abs/2303.07576v1)|null|
+|**2023-03-13**|**Automated Vulnerability Detection in Source Code Using Quantum Natural Language Processing**|Mst Shapna Akter et.al.|[2303.07525v1](http://arxiv.org/abs/2303.07525v1)|null|
+|**2023-03-13**|**X-Former: In-Memory Acceleration of Transformers**|Shrihari Sridharan et.al.|[2303.07470v1](http://arxiv.org/abs/2303.07470v1)|null|
+|**2023-03-13**|**Learning the language of QCD jets with transformers**|Thorben Finke et.al.|[2303.07364v1](http://arxiv.org/abs/2303.07364v1)|null|
 |**2023-03-13**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|Sheng Shen et.al.|[2303.07226v1](http://arxiv.org/abs/2303.07226v1)|null|
 |**2023-03-13**|**A Comprehensive Empirical Evaluation of Existing Word Embedding Approaches**|Obaidullah Zaland et.al.|[2303.07196v1](http://arxiv.org/abs/2303.07196v1)|null|
 |**2023-03-13**|**$\nabla$ SD: Differentiable Programming for Sparse Tensors**|Amir Shaikhha et.al.|[2303.07030v1](http://arxiv.org/abs/2303.07030v1)|null|
@@ -656,9 +663,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**BODEGA: Benchmark for Adversarial Example Generation in Credibility Assessment**|Piotr Przybyła et.al.|[2303.08032v1](http://arxiv.org/abs/2303.08032v1)|null|
+|**2023-03-14**|**Optimizing Deep Learning Model Parameters with the Bees Algorithm for Improved Medical Text Classification**|Mai A. Shaaban et.al.|[2303.08021v1](http://arxiv.org/abs/2303.08021v1)|**[link](https://github.com/mai-cs/ml701-ailmentclassification)**|
+|**2023-03-14**|**Input-length-shortening and text generation via attention values**|Neşet Özkan Tan et.al.|[2303.07585v1](http://arxiv.org/abs/2303.07585v1)|null|
+|**2023-03-13**|**MetaTroll: Few-shot Detection of State-Sponsored Trolls with Transformer Adapters**|Lin Tian et.al.|[2303.07354v1](http://arxiv.org/abs/2303.07354v1)|null|
 |**2023-03-13**|**Transformer-based approaches to Sentiment Detection**|Olumide Ebenezer Ojo et.al.|[2303.07292v1](http://arxiv.org/abs/2303.07292v1)|null|
 |**2023-03-13**|**SA-CNN: Application to text categorization issues using simulated annealing-based convolutional neural network optimization**|Zihao Guo et.al.|[2303.07153v1](http://arxiv.org/abs/2303.07153v1)|null|
-|**2023-03-13**|**Large Language Models in the Workplace: A Case Study on Prompt Engineering for Job Type Classification**|Benjamin Clavié et.al.|[2303.07142v1](http://arxiv.org/abs/2303.07142v1)|null|
+|**2023-03-14**|**Large Language Models in the Workplace: A Case Study on Prompt Engineering for Job Type Classification**|Benjamin Clavié et.al.|[2303.07142v2](http://arxiv.org/abs/2303.07142v2)|null|
 |**2023-03-08**|**ChatGPT: Beginning of an End of Manual Linguistic Data Annotation? Use Case of Automatic Genre Identification**|Taja Kuzman et.al.|[2303.03953v2](http://arxiv.org/abs/2303.03953v2)|null|
 |**2023-03-03**|**Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT**|Mostafa M. Amin et.al.|[2303.03186v1](http://arxiv.org/abs/2303.03186v1)|null|
 |**2023-03-03**|**Extreme events prediction from nonlocal partial information in a spatiotemporally chaotic microcavity laser**|V. A Pammi et.al.|[2303.03097v1](http://arxiv.org/abs/2303.03097v1)|null|
@@ -990,6 +1001,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions**|Yiming Tan et.al.|[2303.07992v1](http://arxiv.org/abs/2303.07992v1)|**[link](https://github.com/tan92hl/complex-question-answering-evaluation-of-chatgpt)**|
+|**2023-03-13**|**Polar-VQA: Visual Question Answering on Remote Sensed Ice sheet Imagery from Polar Region**|Argho Sarkar et.al.|[2303.07403v1](http://arxiv.org/abs/2303.07403v1)|null|
 |**2023-03-13**|**Vision-Language Models as Success Detectors**|Yuqing Du et.al.|[2303.07280v1](http://arxiv.org/abs/2303.07280v1)|null|
 |**2023-03-13**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v1](http://arxiv.org/abs/2303.07274v1)|null|
 |**2023-03-13**|**Generating multiple-choice questions for medical question answering with distractors and cue-masking**|Damien Sileo et.al.|[2303.07069v1](http://arxiv.org/abs/2303.07069v1)|null|
@@ -1226,6 +1239,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Progress Note Understanding -- Assessment and Plan Reasoning: Overview of the 2022 N2C2 Track 3 Shared Task**|Yanjun Gao et.al.|[2303.08038v1](http://arxiv.org/abs/2303.08038v1)|null|
+|**2023-03-14**|**TEA-PSE 3.0: Tencent-Ethereal-Audio-Lab Personalized Speech Enhancement System For ICASSP 2023 DNS Challenge**|Yukai Ju et.al.|[2303.07704v1](http://arxiv.org/abs/2303.07704v1)|null|
 |**2023-03-12**|**Domain-Knowledge-Aided Airborne Ground Moving Targets Tracking**|Jianduo Chai et.al.|[2303.06593v1](http://arxiv.org/abs/2303.06593v1)|null|
 |**2023-03-10**|**Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models**|Iman Saberi et.al.|[2303.06233v1](http://arxiv.org/abs/2303.06233v1)|null|
 |**2023-03-14**|**HiNet: Novel Multi-Scenario & Multi-Task Learning with Hierarchical Information Extraction**|Jie Zhou et.al.|[2303.06095v2](http://arxiv.org/abs/2303.06095v2)|null|
@@ -1379,6 +1394,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|null|
 |**2023-03-13**|**Neural Group Recommendation Based on a Probabilistic Semantic Aggregation**|Jorge Dueñas-Lerín et.al.|[2303.07001v1](http://arxiv.org/abs/2303.07001v1)|**[link](https://github.com/knodis-research-group/neural-cf-for-groups)**|
 |**2023-03-13**|**Beyond Single Items: Exploring User Preferences in Item Sets with the Conversational Playlist Curation Dataset**|Arun Tejasvi Chaganty et.al.|[2303.06791v1](http://arxiv.org/abs/2303.06791v1)|null|
 |**2023-03-12**|**P-MMF: Provider Max-min Fairness Re-ranking in Recommender System**|Chen Xu et.al.|[2303.06660v1](http://arxiv.org/abs/2303.06660v1)|**[link](https://github.com/xuchen0427/p-mmf)**|
@@ -1620,6 +1636,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Relational Multi-Task Learning: Modeling Relations between Data and Tasks**|Kaidi Cao et.al.|[2303.07666v1](http://arxiv.org/abs/2303.07666v1)|**[link](https://github.com/snap-stanford/graphgym)**|
 |**2023-03-12**|**ALIST: Associative Logic for Inference, Storage and Transfer. A Lingua Franca for Inference on the Web**|Kwabena Nuamah et.al.|[2303.06691v1](http://arxiv.org/abs/2303.06691v1)|null|
 |**2023-03-12**|**LUKE-Graph: A Transformer-based Approach with Gated Relational Graph Attention for Cloze-style Reading Comprehension**|Shima Foolad et.al.|[2303.06675v1](http://arxiv.org/abs/2303.06675v1)|null|
 |**2023-03-09**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|null|
@@ -1826,6 +1843,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|null|
+|**2023-03-14**|**Automated Self-Supervised Learning for Recommendation**|Lianghao Xia et.al.|[2303.07797v1](http://arxiv.org/abs/2303.07797v1)|**[link](https://github.com/hkuds/autocf)**|
+|**2023-03-14**|**GANN: Graph Alignment Neural Network for Semi-Supervised Learning**|Linxuan Song et.al.|[2303.07778v1](http://arxiv.org/abs/2303.07778v1)|null|
+|**2023-03-14**|**Dual-Attention Model for Aspect-Level Sentiment Classification**|Mengfei Ye et.al.|[2303.07689v1](http://arxiv.org/abs/2303.07689v1)|null|
+|**2023-03-14**|**AutoTransfer: AutoML with Knowledge Transfer -- An Application to Graph Neural Networks**|Kaidi Cao et.al.|[2303.07669v1](http://arxiv.org/abs/2303.07669v1)|null|
+|**2023-03-13**|**End-to-end Deformable Attention Graph Neural Network for Single-view Liver Mesh Reconstruction**|Matej Gazda et.al.|[2303.07432v1](http://arxiv.org/abs/2303.07432v1)|null|
 |**2023-03-13**|**Learning Reduced-Order Models for Cardiovascular Simulations with Graph Neural Networks**|Luca Pegolotti et.al.|[2303.07310v1](http://arxiv.org/abs/2303.07310v1)|**[link](https://github.com/stanfordcbcl/grom)**|
 |**2023-03-12**|**ContraNorm: A Contrastive Learning Perspective on Oversmoothing and Beyond**|Xiaojun Guo et.al.|[2303.06562v1](http://arxiv.org/abs/2303.06562v1)|null|
 |**2023-03-12**|**Spatial Correspondence between Graph Neural Network-Segmented Images**|Qian Li et.al.|[2303.06550v1](http://arxiv.org/abs/2303.06550v1)|null|
