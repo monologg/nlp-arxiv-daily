@@ -21,6 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-16**|**Towards Robust Bangla Complex Named Entity Recognition**|HAZ Sameen Shahgir et.al.|[2303.09306v1](http://arxiv.org/abs/2303.09306v1)|**[link](https://github.com/ramisa2108/bangla-complex-named-entity-recognition-challenge)**|
+|**2023-03-16**|**Block-wise Bit-Compression of Transformer-based Models**|Gaochen Dong et.al.|[2303.09184v1](http://arxiv.org/abs/2303.09184v1)|null|
+|**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|null|
+|**2023-03-15**|**Cross-domain Sentiment Classification in Spanish**|Lautaro Estienne et.al.|[2303.08985v1](http://arxiv.org/abs/2303.08985v1)|null|
+|**2023-03-15**|**Automated Interactive Domain-Specific Conversational Agents that Understand Human Dialogs**|Yankai Zeng et.al.|[2303.08941v1](http://arxiv.org/abs/2303.08941v1)|null|
+|**2023-03-15**|**Applying unsupervised keyphrase methods on concepts extracted from discharge sheets**|Hoda Memarzadeh et.al.|[2303.08928v1](http://arxiv.org/abs/2303.08928v1)|null|
+|**2023-03-15**|**ROSE: A Neurocomputational Architecture for Syntax**|Elliot Murphy et.al.|[2303.08877v1](http://arxiv.org/abs/2303.08877v1)|null|
 |**2023-03-15**|**Building an Effective Email Spam Classification Model with spaCy**|Kazem Taghandiki et.al.|[2303.08792v1](http://arxiv.org/abs/2303.08792v1)|null|
 |**2023-03-14**|**Clinical Concept and Relation Extraction Using Prompt-based Machine Reading Comprehension**|Cheng Peng et.al.|[2303.08262v1](http://arxiv.org/abs/2303.08262v1)|null|
 |**2023-03-14**|**Contextualized Medication Information Extraction Using Transformer-based Deep Learning Architectures**|Aokun Chen et.al.|[2303.08259v1](http://arxiv.org/abs/2303.08259v1)|null|
@@ -520,6 +527,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-16**|**Towards Robust Bangla Complex Named Entity Recognition**|HAZ Sameen Shahgir et.al.|[2303.09306v1](http://arxiv.org/abs/2303.09306v1)|**[link](https://github.com/ramisa2108/bangla-complex-named-entity-recognition-challenge)**|
+|**2023-03-15**|**Applying unsupervised keyphrase methods on concepts extracted from discharge sheets**|Hoda Memarzadeh et.al.|[2303.08928v1](http://arxiv.org/abs/2303.08928v1)|null|
 |**2023-03-13**|**A Human Subject Study of Named Entity Recognition (NER) in Conversational Music Recommendation Queries**|Elena V. Epure et.al.|[2303.06944v1](http://arxiv.org/abs/2303.06944v1)|**[link](https://github.com/deezer/music-ner-eacl2023)**|
 |**2023-03-10**|**Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models**|Iman Saberi et.al.|[2303.06233v1](http://arxiv.org/abs/2303.06233v1)|null|
 |**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
@@ -855,6 +864,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Cryptocurrency Price Prediction using Twitter Sentiment Analysis**|Haritha GB et.al.|[2303.09397v1](http://arxiv.org/abs/2303.09397v1)|null|
 |**2023-03-08**|**Extrapolative Controlled Sequence Generation via Iterative Refinement**|Vishakh Padmakumar et.al.|[2303.04562v1](http://arxiv.org/abs/2303.04562v1)|**[link](https://github.com/vishakhpk/iter-extrapolation)**|
 |**2023-03-03**|**Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT**|Mostafa M. Amin et.al.|[2303.03186v1](http://arxiv.org/abs/2303.03186v1)|null|
 |**2023-03-12**|**Reducing Spurious Correlations for Aspect-Based Sentiment Analysis with Variational Information Bottleneck and Contrastive Learning**|Mingshan Chang et.al.|[2303.02846v2](http://arxiv.org/abs/2303.02846v2)|null|
@@ -1001,6 +1011,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-16**|**Logical Implications for Visual Question Answering Consistency**|Sergio Tascon-Morales et.al.|[2303.09427v1](http://arxiv.org/abs/2303.09427v1)|null|
+|**2023-03-16**|**Secret-Keeping in Question Answering**|Nathaniel W. Rollings et.al.|[2303.09067v1](http://arxiv.org/abs/2303.09067v1)|null|
 |**2023-03-14**|**Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions**|Yiming Tan et.al.|[2303.07992v1](http://arxiv.org/abs/2303.07992v1)|**[link](https://github.com/tan92hl/complex-question-answering-evaluation-of-chatgpt)**|
 |**2023-03-13**|**Polar-VQA: Visual Question Answering on Remote Sensed Ice sheet Imagery from Polar Region**|Argho Sarkar et.al.|[2303.07403v1](http://arxiv.org/abs/2303.07403v1)|null|
 |**2023-03-13**|**Vision-Language Models as Success Detectors**|Yuqing Du et.al.|[2303.07280v1](http://arxiv.org/abs/2303.07280v1)|null|
@@ -1239,6 +1251,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-16**|**GLEN: General-Purpose Event Detection for Thousands of Types**|Qiusi Zhan et.al.|[2303.09093v1](http://arxiv.org/abs/2303.09093v1)|null|
 |**2023-03-15**|**Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!**|Yubo Ma et.al.|[2303.08559v1](http://arxiv.org/abs/2303.08559v1)|null|
 |**2023-03-15**|**Local Region Perception and Relationship Learning Combined with Feature Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v1](http://arxiv.org/abs/2303.08545v1)|null|
 |**2023-03-14**|**Contextualized Medication Information Extraction Using Transformer-based Deep Learning Architectures**|Aokun Chen et.al.|[2303.08259v1](http://arxiv.org/abs/2303.08259v1)|null|
@@ -1397,6 +1410,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-16**|**Measuring the Impact of Explanation Bias: A Study of Natural Language Justifications for Recommender Systems**|Krisztian Balog et.al.|[2303.09498v1](http://arxiv.org/abs/2303.09498v1)|null|
+|**2023-03-16**|**Self-Consistent Learning: Cooperation between Generators and Discriminators**|Tong Wu et.al.|[2303.09075v1](http://arxiv.org/abs/2303.09075v1)|null|
 |**2023-03-15**|**Borda Regret Minimization for Generalized Linear Dueling Bandits**|Yue Wu et.al.|[2303.08816v1](http://arxiv.org/abs/2303.08816v1)|null|
 |**2023-03-15**|**Dually Enhanced Propensity Score Estimation in Sequential Recommendation**|Chen Xu et.al.|[2303.08722v1](http://arxiv.org/abs/2303.08722v1)|**[link](https://github.com/xuchen0427/dually-enhanced-propensity-score-estimation-in-sequential-recommendation)**|
 |**2023-03-14**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|null|
@@ -1851,12 +1866,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-16**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
+|**2023-03-15**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964v1](http://arxiv.org/abs/2303.08964v1)|null|
+|**2023-03-15**|**Efficient Planning of Multi-Robot Collective Transport using Graph Reinforcement Learning with Higher Order Topological Abstraction**|Steve Paul et.al.|[2303.08933v1](http://arxiv.org/abs/2303.08933v1)|null|
 |**2023-03-15**|**RGI : Regularized Graph Infomax for self-supervised learning on graphs**|Oscar Pina et.al.|[2303.08644v1](http://arxiv.org/abs/2303.08644v1)|null|
 |**2023-03-15**|**Local Region Perception and Relationship Learning Combined with Feature Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v1](http://arxiv.org/abs/2303.08545v1)|null|
 |**2023-03-15**|**Graph-less Collaborative Filtering**|Lianghao Xia et.al.|[2303.08537v1](http://arxiv.org/abs/2303.08537v1)|**[link](https://github.com/hkuds/simrec)**|
 |**2023-03-15**|**Robust Preference-Guided Denoising for Graph based Social Recommendation**|Yuhan Quan et.al.|[2303.08346v1](http://arxiv.org/abs/2303.08346v1)|null|
 |**2023-03-14**|**Gamora: Graph Learning based Symbolic Reasoning for Large-Scale Boolean Networks**|Nan Wu et.al.|[2303.08256v1](http://arxiv.org/abs/2303.08256v1)|null|
-|**2023-03-14**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v1](http://arxiv.org/abs/2303.08157v1)|null|
+|**2023-03-16**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v2](http://arxiv.org/abs/2303.08157v2)|null|
 |**2023-03-14**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|null|
 |**2023-03-14**|**Automated Self-Supervised Learning for Recommendation**|Lianghao Xia et.al.|[2303.07797v1](http://arxiv.org/abs/2303.07797v1)|**[link](https://github.com/hkuds/autocf)**|
 |**2023-03-14**|**GANN: Graph Alignment Neural Network for Semi-Supervised Learning**|Linxuan Song et.al.|[2303.07778v1](http://arxiv.org/abs/2303.07778v1)|null|
