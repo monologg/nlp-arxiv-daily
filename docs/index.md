@@ -27,7 +27,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-16**|**Towards Robust Bangla Complex Named Entity Recognition**|HAZ Sameen Shahgir et.al.|[2303.09306v1](http://arxiv.org/abs/2303.09306v1)|**[link](https://github.com/ramisa2108/bangla-complex-named-entity-recognition-challenge)**|
 |**2023-03-16**|**Block-wise Bit-Compression of Transformer-based Models**|Gaochen Dong et.al.|[2303.09184v1](http://arxiv.org/abs/2303.09184v1)|null|
-|**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|null|
+|**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|**[link](https://github.com/jeryi-sun/llm-and-law)**|
 |**2023-03-15**|**Cross-domain Sentiment Classification in Spanish**|Lautaro Estienne et.al.|[2303.08985v1](http://arxiv.org/abs/2303.08985v1)|null|
 |**2023-03-15**|**Automated Interactive Domain-Specific Conversational Agents that Understand Human Dialogs**|Yankai Zeng et.al.|[2303.08941v1](http://arxiv.org/abs/2303.08941v1)|null|
 |**2023-03-15**|**Applying unsupervised keyphrase methods on concepts extracted from discharge sheets**|Hoda Memarzadeh et.al.|[2303.08928v1](http://arxiv.org/abs/2303.08928v1)|null|
