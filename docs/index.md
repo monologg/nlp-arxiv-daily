@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Investigating Topological Order using Recurrent Neural Networks**|Mohamed Hibat-Allah et.al.|[2303.11207v1](http://arxiv.org/abs/2303.11207v1)|null|
+|**2023-03-20**|**On the Educational Impact of ChatGPT: Is Artificial Intelligence Ready to Obtain a University Degree?**|Kamil Malinka et.al.|[2303.11146v1](http://arxiv.org/abs/2303.11146v1)|null|
+|**2023-03-20**|**Controllable Ancient Chinese Lyrics Generation Based on Phrase Prototype Retrieving**|Li Yi et.al.|[2303.11005v1](http://arxiv.org/abs/2303.11005v1)|null|
+|**2023-03-20**|**Translate your gibberish: black-box adversarial attack on machine translation systems**|Andrei Chertkov et.al.|[2303.10974v1](http://arxiv.org/abs/2303.10974v1)|null|
+|**2023-03-20**|**Self-Improving-Leaderboard(SIL): A Call for Real-World Centric Natural Language Processing Leaderboards**|Chanjun Park et.al.|[2303.10888v1](http://arxiv.org/abs/2303.10888v1)|null|
+|**2023-03-20**|**NASA Science Mission Directorate Knowledge Graph Discovery**|Roelien C. Timmer et.al.|[2303.10871v1](http://arxiv.org/abs/2303.10871v1)|null|
+|**2023-03-20**|**Multi-task Transformer with Relation-attention and Type-attention for Named Entity Recognition**|Ying Mo et.al.|[2303.10870v1](http://arxiv.org/abs/2303.10870v1)|null|
+|**2023-03-18**|**Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning**|Qingru Zhang et.al.|[2303.10512v1](http://arxiv.org/abs/2303.10512v1)|null|
+|**2023-03-18**|**A Deep Learning System for Domain-specific speech Recognition**|Yanan Jia et.al.|[2303.10510v1](http://arxiv.org/abs/2303.10510v1)|null|
+|**2023-03-18**|**Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning**|Renze Lou et.al.|[2303.10475v1](http://arxiv.org/abs/2303.10475v1)|**[link](https://github.com/renzelou/awesome-instruction-learning)**|
 |**2023-03-17**|**IRGen: Generative Modeling for Image Retrieval**|Yidan Zhang et.al.|[2303.10126v1](http://arxiv.org/abs/2303.10126v1)|null|
 |**2023-03-17**|**STIXnet: A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports**|Francesco Marchiori et.al.|[2303.09999v1](http://arxiv.org/abs/2303.09999v1)|**[link](https://github.com/vlegoy/rcATT)**|
 |**2023-03-17**|**CoLT5: Faster Long-Range Transformers with Conditional Computation**|Joshua Ainslie et.al.|[2303.09752v1](http://arxiv.org/abs/2303.09752v1)|null|
@@ -535,6 +545,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4**|Zhengliang Liu et.al.|[2303.11032v1](http://arxiv.org/abs/2303.11032v1)|**[link](https://github.com/yhydhx/chatgpt-api)**|
+|**2023-03-20**|**Multi-task Transformer with Relation-attention and Type-attention for Named Entity Recognition**|Ying Mo et.al.|[2303.10870v1](http://arxiv.org/abs/2303.10870v1)|null|
+|**2023-03-18**|**GazeReader: Detecting Unknown Word Using Webcam for English as a Second Language (ESL) Learners**|Jiexin Ding et.al.|[2303.10443v1](http://arxiv.org/abs/2303.10443v1)|null|
+|**2023-03-18**|**Exploring Partial Knowledge Base Inference in Biomedical Entity Linking**|Hongyi Yuan et.al.|[2303.10330v1](http://arxiv.org/abs/2303.10330v1)|null|
 |**2023-03-17**|**BanglaCoNER: Towards Robust Bangla Complex Named Entity Recognition**|HAZ Sameen Shahgir et.al.|[2303.09306v2](http://arxiv.org/abs/2303.09306v2)|**[link](https://github.com/ramisa2108/bangla-complex-named-entity-recognition-challenge)**|
 |**2023-03-15**|**Applying unsupervised keyphrase methods on concepts extracted from discharge sheets**|Hoda Memarzadeh et.al.|[2303.08928v1](http://arxiv.org/abs/2303.08928v1)|null|
 |**2023-03-13**|**A Human Subject Study of Named Entity Recognition (NER) in Conversational Music Recommendation Queries**|Elena V. Epure et.al.|[2303.06944v1](http://arxiv.org/abs/2303.06944v1)|**[link](https://github.com/deezer/music-ner-eacl2023)**|
@@ -679,6 +693,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset**|Hongbo Wang et.al.|[2303.11141v1](http://arxiv.org/abs/2303.11141v1)|**[link](https://github.com/pku-tangent/docred-fe)**|
 |**2023-03-17**|**Retrieving false claims on Twitter during the Russia-Ukraine conflict**|Valerio La Gatta et.al.|[2303.10121v1](http://arxiv.org/abs/2303.10121v1)|null|
 |**2023-03-15**|**Classification and calibration of affine models driven by independent Lévy processes**|Michał Barski et.al.|[2303.08477v1](http://arxiv.org/abs/2303.08477v1)|null|
 |**2023-03-14**|**BODEGA: Benchmark for Adversarial Example Generation in Credibility Assessment**|Piotr Przybyła et.al.|[2303.08032v1](http://arxiv.org/abs/2303.08032v1)|null|
@@ -873,6 +888,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-09**|**Types of Approaches, Applications and Challenges in the Development of Sentiment Analysis Systems**|Kazem Taghandiki et.al.|[2303.11176v1](http://arxiv.org/abs/2303.11176v1)|null|
+|**2023-03-18**|**Mutilmodal Feature Extraction and Attention-based Fusion for Emotion Estimation in Videos**|Tao Shu et.al.|[2303.10421v1](http://arxiv.org/abs/2303.10421v1)|**[link](https://github.com/xkwangcn/abaw-5th-rt-iai)**|
 |**2023-03-03**|**Cryptocurrency Price Prediction using Twitter Sentiment Analysis**|Haritha GB et.al.|[2303.09397v1](http://arxiv.org/abs/2303.09397v1)|null|
 |**2023-03-08**|**Extrapolative Controlled Sequence Generation via Iterative Refinement**|Vishakh Padmakumar et.al.|[2303.04562v1](http://arxiv.org/abs/2303.04562v1)|**[link](https://github.com/vishakhpk/iter-extrapolation)**|
 |**2023-03-03**|**Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT**|Mostafa M. Amin et.al.|[2303.03186v1](http://arxiv.org/abs/2303.03186v1)|null|
@@ -1020,6 +1037,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**3D Concept Learning and Reasoning from Multi-View Images**|Yining Hong et.al.|[2303.11327v1](http://arxiv.org/abs/2303.11327v1)|null|
+|**2023-03-17**|**Can AI-Generated Text be Reliably Detected?**|Vinu Sankar Sadasivan et.al.|[2303.11156v1](http://arxiv.org/abs/2303.11156v1)|null|
+|**2023-03-20**|**On-the-fly Text Retrieval for End-to-End ASR Adaptation**|Bolaji Yusuf et.al.|[2303.10942v1](http://arxiv.org/abs/2303.10942v1)|null|
+|**2023-03-20**|**PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing**|Xiaozhe Ren et.al.|[2303.10845v1](http://arxiv.org/abs/2303.10845v1)|null|
+|**2023-03-19**|**FVQA 2.0: Introducing Adversarial Samples into Fact-based Visual Question Answering**|Weizhe Lin et.al.|[2303.10699v1](http://arxiv.org/abs/2303.10699v1)|null|
+|**2023-03-19**|**COVID-19 event extraction from Twitter via extractive question answering with continuous prompts**|Yuhang Jiang et.al.|[2303.10659v1](http://arxiv.org/abs/2303.10659v1)|**[link](https://github.com/bionlproc/twitter-covid-qa-extraction)**|
+|**2023-03-18**|**Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning**|Qingru Zhang et.al.|[2303.10512v1](http://arxiv.org/abs/2303.10512v1)|null|
+|**2023-03-18**|**Divide and Conquer: Answering Questions with Object Factorization and Compositional Reasoning**|Shi Chen et.al.|[2303.10482v1](http://arxiv.org/abs/2303.10482v1)|**[link](https://github.com/szzexpoi/poem)**|
+|**2023-03-18**|**A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering**|Zhen Han et.al.|[2303.10395v1](http://arxiv.org/abs/2303.10395v1)|null|
+|**2023-03-18**|**An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering**|Nan Hu et.al.|[2303.10368v1](http://arxiv.org/abs/2303.10368v1)|**[link](https://github.com/aannonymouuss/plms-in-practical-kbqa)**|
 |**2023-03-17**|**Generate, Transform, Answer: Question Specific Tool Synthesis for Tabular Data**|Carlos Gemmell et.al.|[2303.10138v1](http://arxiv.org/abs/2303.10138v1)|null|
 |**2023-03-16**|**Logical Implications for Visual Question Answering Consistency**|Sergio Tascon-Morales et.al.|[2303.09427v1](http://arxiv.org/abs/2303.09427v1)|null|
 |**2023-03-16**|**Secret-Keeping in Question Answering**|Nathaniel W. Rollings et.al.|[2303.09067v1](http://arxiv.org/abs/2303.09067v1)|null|
@@ -1261,9 +1288,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-17**|**STIXnet: A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports**|Francesco Marchiori et.al.|[2303.09999v1](http://arxiv.org/abs/2303.09999v1)|**[link](https://github.com/vlegoy/rcATT)**|
+|**2023-03-20**|**DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset**|Hongbo Wang et.al.|[2303.11141v1](http://arxiv.org/abs/2303.11141v1)|**[link](https://github.com/pku-tangent/docred-fe)**|
+|**2023-03-20**|**Task-Oriented Communications for 6G: Vision, Principles, and Technologies**|Yuanming Shi et.al.|[2303.10920v1](http://arxiv.org/abs/2303.10920v1)|null|
+|**2023-03-19**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v1](http://arxiv.org/abs/2303.10766v1)|null|
+|**2023-03-19**|**COVID-19 event extraction from Twitter via extractive question answering with continuous prompts**|Yuhang Jiang et.al.|[2303.10659v1](http://arxiv.org/abs/2303.10659v1)|**[link](https://github.com/bionlproc/twitter-covid-qa-extraction)**|
+|**2023-03-17**|**STIXnet: A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports**|Francesco Marchiori et.al.|[2303.09999v1](http://arxiv.org/abs/2303.09999v1)|null|
 |**2023-03-17**|**A Benchmark of PDF Information Extraction Tools using a Multi-Task and Multi-Domain Evaluation Framework for Academic Documents**|Norman Meuschke et.al.|[2303.09957v1](http://arxiv.org/abs/2303.09957v1)|null|
-|**2023-03-17**|**TKN: Transformer-based Keypoint Prediction Network For Real-time Video Prediction**|Haoran Li et.al.|[2303.09807v1](http://arxiv.org/abs/2303.09807v1)|null|
+|**2023-03-20**|**TKN: Transformer-based Keypoint Prediction Network For Real-time Video Prediction**|Haoran Li et.al.|[2303.09807v2](http://arxiv.org/abs/2303.09807v2)|null|
 |**2023-03-17**|**Exploring Sparse Visual Prompt for Cross-domain Semantic Segmentation**|Senqiao Yang et.al.|[2303.09792v1](http://arxiv.org/abs/2303.09792v1)|**[link](https://github.com/iccv2595/svdp)**|
 |**2023-03-16**|**GLEN: General-Purpose Event Detection for Thousands of Types**|Qiusi Zhan et.al.|[2303.09093v1](http://arxiv.org/abs/2303.09093v1)|null|
 |**2023-03-15**|**Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!**|Yubo Ma et.al.|[2303.08559v1](http://arxiv.org/abs/2303.08559v1)|null|
@@ -1424,6 +1455,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Explaining Recommendation System Using Counterfactual Textual Explanations**|Niloofar Ranjbar et.al.|[2303.11160v1](http://arxiv.org/abs/2303.11160v1)|null|
+|**2023-03-17**|**ITM-Rec: An Open Data Set for Educational Recommender Systems**|Yong Zheng et.al.|[2303.10230v1](http://arxiv.org/abs/2303.10230v1)|**[link](https://github.com/irecsys/recdata)**|
 |**2023-03-17**|**Contrastive Self-supervised Learning in Recommender Systems: A Survey**|Mengyuan Jing et.al.|[2303.09902v1](http://arxiv.org/abs/2303.09902v1)|null|
 |**2023-03-16**|**Measuring the Impact of Explanation Bias: A Study of Natural Language Justifications for Recommender Systems**|Krisztian Balog et.al.|[2303.09498v1](http://arxiv.org/abs/2303.09498v1)|null|
 |**2023-03-16**|**Self-Consistent Learning: Cooperation between Generators and Discriminators**|Tong Wu et.al.|[2303.09075v1](http://arxiv.org/abs/2303.09075v1)|null|
@@ -1671,6 +1704,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**A set of semantic data flow diagrams and its security analysis based on ontologies and knowledge graphs**|Andrei Brazhuk et.al.|[2303.11198v1](http://arxiv.org/abs/2303.11198v1)|null|
+|**2023-03-20**|**NASA Science Mission Directorate Knowledge Graph Discovery**|Roelien C. Timmer et.al.|[2303.10871v1](http://arxiv.org/abs/2303.10871v1)|null|
+|**2023-03-20**|**IMF: Interactive Multimodal Fusion Model for Link Prediction**|Xinhang Li et.al.|[2303.10816v1](http://arxiv.org/abs/2303.10816v1)|**[link](https://github.com/hestiasky/imf-pytorch)**|
+|**2023-03-19**|**FVQA 2.0: Introducing Adversarial Samples into Fact-based Visual Question Answering**|Weizhe Lin et.al.|[2303.10699v1](http://arxiv.org/abs/2303.10699v1)|null|
+|**2023-03-18**|**A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering**|Zhen Han et.al.|[2303.10395v1](http://arxiv.org/abs/2303.10395v1)|null|
+|**2023-03-18**|**An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering**|Nan Hu et.al.|[2303.10368v1](http://arxiv.org/abs/2303.10368v1)|**[link](https://github.com/aannonymouuss/plms-in-practical-kbqa)**|
+|**2023-03-18**|**Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation**|Mingjie Li et.al.|[2303.10323v1](http://arxiv.org/abs/2303.10323v1)|**[link](https://github.com/mlii0117/dcl)**|
 |**2023-03-17**|**QUBO Decision Tree: Annealing Machine Extends Decision Tree Splitting**|Koichiro Yawata et.al.|[2303.09772v1](http://arxiv.org/abs/2303.09772v1)|null|
 |**2023-03-15**|**WikiCoder: Learning to Write Knowledge-Powered Code**|Théo Matricon et.al.|[2303.08574v1](http://arxiv.org/abs/2303.08574v1)|null|
 |**2023-03-15**|**Cognitive Semantic Communication Systems Driven by Knowledge Graph: Principle, Implementation, and Performance Evaluation**|Fuhui Zhou et.al.|[2303.08546v1](http://arxiv.org/abs/2303.08546v1)|null|
@@ -1882,6 +1922,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Positional Diffusion: Ordering Unordered Sets with Diffusion Probabilistic Models**|Francesco Giuliari et.al.|[2303.11120v1](http://arxiv.org/abs/2303.11120v1)|null|
+|**2023-03-20**|**A Survey on Oversmoothing in Graph Neural Networks**|T. Konstantin Rusch et.al.|[2303.10993v1](http://arxiv.org/abs/2303.10993v1)|null|
+|**2023-03-20**|**Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms**|Ao Zhou et.al.|[2303.10875v1](http://arxiv.org/abs/2303.10875v1)|null|
+|**2023-03-19**|**Beyond Independent Error Assumptions in Large GNN Atomistic Models**|Janghoon Ock et.al.|[2303.10797v1](http://arxiv.org/abs/2303.10797v1)|null|
+|**2023-03-19**|**Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs**|Zuoyu Yan et.al.|[2303.10576v1](http://arxiv.org/abs/2303.10576v1)|**[link](https://github.com/pkuyzy/esc-gnn)**|
+|**2023-03-19**|**The Graph feature fusion technique for speaker recognition based on wav2vec2.0 framework**|Zirui Ge et.al.|[2303.10556v1](http://arxiv.org/abs/2303.10556v1)|null|
+|**2023-03-19**|**Unsupervised Learning for Solving the Travelling Salesman Problem**|Yimeng Min et.al.|[2303.10538v1](http://arxiv.org/abs/2303.10538v1)|null|
+|**2023-03-18**|**EGTSyn: Edge-based Graph Transformer for Anti-Cancer Drug Combination Synergy Prediction**|Jie Hu et.al.|[2303.10312v1](http://arxiv.org/abs/2303.10312v1)|null|
 |**2023-03-17**|**Distill n' Explain: explaining graph neural networks using simple surrogates**|Tamara Pereira et.al.|[2303.10139v1](http://arxiv.org/abs/2303.10139v1)|**[link](https://github.com/tamararruda/dnx)**|
 |**2023-03-17**|**Neural-prior stochastic block model**|O. Duranthon et.al.|[2303.09995v1](http://arxiv.org/abs/2303.09995v1)|null|
 |**2023-03-17**|**GNNFormer: A Graph-based Framework for Cytopathology Report Generation**|Yang-Fan Zhou et.al.|[2303.09956v1](http://arxiv.org/abs/2303.09956v1)|null|
