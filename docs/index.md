@@ -25,10 +25,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-21**|**Machine Learning for Brain Disorders: Transformers and Visual Transformers**|Robin Courant et.al.|[2303.12068v1](http://arxiv.org/abs/2303.12068v1)|null|
+|**2023-03-21**|**Transformers in Speech Processing: A Survey**|Siddique Latif et.al.|[2303.11607v1](http://arxiv.org/abs/2303.11607v1)|null|
+|**2023-03-21**|**Difficulty in learning chirality for Transformer fed with SMILES**|Yasuhiro Yoshikai et.al.|[2303.11593v1](http://arxiv.org/abs/2303.11593v1)|**[link](https://github.com/mizuno-group/2023)**|
+|**2023-03-21**|**SIFT: Sparse Iso-FLOP Transformations for Maximizing Training Efficiency**|Shreyas Saxena et.al.|[2303.11525v1](http://arxiv.org/abs/2303.11525v1)|**[link](https://github.com/cerebrasresearch/sift)**|
 |**2023-03-20**|**Investigating Topological Order using Recurrent Neural Networks**|Mohamed Hibat-Allah et.al.|[2303.11207v1](http://arxiv.org/abs/2303.11207v1)|null|
 |**2023-03-20**|**On the Educational Impact of ChatGPT: Is Artificial Intelligence Ready to Obtain a University Degree?**|Kamil Malinka et.al.|[2303.11146v1](http://arxiv.org/abs/2303.11146v1)|null|
 |**2023-03-20**|**Controllable Ancient Chinese Lyrics Generation Based on Phrase Prototype Retrieving**|Li Yi et.al.|[2303.11005v1](http://arxiv.org/abs/2303.11005v1)|null|
-|**2023-03-20**|**Translate your gibberish: black-box adversarial attack on machine translation systems**|Andrei Chertkov et.al.|[2303.10974v1](http://arxiv.org/abs/2303.10974v1)|null|
+|**2023-03-20**|**Translate your gibberish: black-box adversarial attack on machine translation systems**|Andrei Chertkov et.al.|[2303.10974v1](http://arxiv.org/abs/2303.10974v1)|**[link](https://github.com/andreichertkov/tranfighterpro)**|
 |**2023-03-20**|**Self-Improving-Leaderboard(SIL): A Call for Real-World Centric Natural Language Processing Leaderboards**|Chanjun Park et.al.|[2303.10888v1](http://arxiv.org/abs/2303.10888v1)|null|
 |**2023-03-20**|**NASA Science Mission Directorate Knowledge Graph Discovery**|Roelien C. Timmer et.al.|[2303.10871v1](http://arxiv.org/abs/2303.10871v1)|null|
 |**2023-03-20**|**Multi-task Transformer with Relation-attention and Type-attention for Named Entity Recognition**|Ying Mo et.al.|[2303.10870v1](http://arxiv.org/abs/2303.10870v1)|null|
@@ -693,7 +697,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-20**|**DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset**|Hongbo Wang et.al.|[2303.11141v1](http://arxiv.org/abs/2303.11141v1)|**[link](https://github.com/pku-tangent/docred-fe)**|
+|**2023-03-21**|**Simple Yet Effective Synthetic Dataset Construction for Unsupervised Opinion Summarization**|Ming Shen et.al.|[2303.11660v1](http://arxiv.org/abs/2303.11660v1)|null|
+|**2023-03-21**|**DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset**|Hongbo Wang et.al.|[2303.11141v2](http://arxiv.org/abs/2303.11141v2)|**[link](https://github.com/pku-tangent/docred-fe)**|
 |**2023-03-17**|**Retrieving false claims on Twitter during the Russia-Ukraine conflict**|Valerio La Gatta et.al.|[2303.10121v1](http://arxiv.org/abs/2303.10121v1)|null|
 |**2023-03-15**|**Classification and calibration of affine models driven by independent Lévy processes**|Michał Barski et.al.|[2303.08477v1](http://arxiv.org/abs/2303.08477v1)|null|
 |**2023-03-14**|**BODEGA: Benchmark for Adversarial Example Generation in Credibility Assessment**|Piotr Przybyła et.al.|[2303.08032v1](http://arxiv.org/abs/2303.08032v1)|null|
@@ -1037,6 +1042,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-21**|**TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering**|Yushi Hu et.al.|[2303.11897v1](http://arxiv.org/abs/2303.11897v1)|**[link](https://github.com/Yushi-Hu/tifa)**|
+|**2023-03-21**|**LogQA: Question Answering in Unstructured Logs**|Shaohan Huang et.al.|[2303.11715v1](http://arxiv.org/abs/2303.11715v1)|null|
 |**2023-03-20**|**3D Concept Learning and Reasoning from Multi-View Images**|Yining Hong et.al.|[2303.11327v1](http://arxiv.org/abs/2303.11327v1)|null|
 |**2023-03-17**|**Can AI-Generated Text be Reliably Detected?**|Vinu Sankar Sadasivan et.al.|[2303.11156v1](http://arxiv.org/abs/2303.11156v1)|null|
 |**2023-03-20**|**On-the-fly Text Retrieval for End-to-End ASR Adaptation**|Bolaji Yusuf et.al.|[2303.10942v1](http://arxiv.org/abs/2303.10942v1)|null|
@@ -1288,9 +1295,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-20**|**DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset**|Hongbo Wang et.al.|[2303.11141v1](http://arxiv.org/abs/2303.11141v1)|**[link](https://github.com/pku-tangent/docred-fe)**|
+|**2023-03-21**|**DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset**|Hongbo Wang et.al.|[2303.11141v2](http://arxiv.org/abs/2303.11141v2)|**[link](https://github.com/pku-tangent/docred-fe)**|
 |**2023-03-20**|**Task-Oriented Communications for 6G: Vision, Principles, and Technologies**|Yuanming Shi et.al.|[2303.10920v1](http://arxiv.org/abs/2303.10920v1)|null|
-|**2023-03-19**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v1](http://arxiv.org/abs/2303.10766v1)|null|
+|**2023-03-21**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v2](http://arxiv.org/abs/2303.10766v2)|null|
 |**2023-03-19**|**COVID-19 event extraction from Twitter via extractive question answering with continuous prompts**|Yuhang Jiang et.al.|[2303.10659v1](http://arxiv.org/abs/2303.10659v1)|**[link](https://github.com/bionlproc/twitter-covid-qa-extraction)**|
 |**2023-03-17**|**STIXnet: A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports**|Francesco Marchiori et.al.|[2303.09999v1](http://arxiv.org/abs/2303.09999v1)|null|
 |**2023-03-17**|**A Benchmark of PDF Information Extraction Tools using a Multi-Task and Multi-Domain Evaluation Framework for Academic Documents**|Norman Meuschke et.al.|[2303.09957v1](http://arxiv.org/abs/2303.09957v1)|null|
@@ -1455,6 +1462,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-21**|**Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning**|Lingzi Zhang et.al.|[2303.11879v1](http://arxiv.org/abs/2303.11879v1)|null|
+|**2023-03-21**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780v1](http://arxiv.org/abs/2303.11780v1)|**[link](https://github.com/hkuds/dcrec)**|
+|**2023-03-21**|**Recommendation Systems in Libraries: an Application with Heterogeneous Data Sources**|Alessandro Speciale et.al.|[2303.11746v1](http://arxiv.org/abs/2303.11746v1)|null|
+|**2023-03-21**|**Dynamically Expandable Graph Convolution for Streaming Recommendation**|Bowei He et.al.|[2303.11700v1](http://arxiv.org/abs/2303.11700v1)|**[link](https://github.com/bokwaiho/degc)**|
+|**2023-03-21**|**A Survey on Causal Inference for Recommendation**|Huishi Luo et.al.|[2303.11666v1](http://arxiv.org/abs/2303.11666v1)|null|
+|**2023-03-21**|**Bounding System-Induced Biases in Recommender Systems with A Randomized Dataset**|Dugang Liu et.al.|[2303.11574v1](http://arxiv.org/abs/2303.11574v1)|null|
 |**2023-03-14**|**Explaining Recommendation System Using Counterfactual Textual Explanations**|Niloofar Ranjbar et.al.|[2303.11160v1](http://arxiv.org/abs/2303.11160v1)|null|
 |**2023-03-17**|**ITM-Rec: An Open Data Set for Educational Recommender Systems**|Yong Zheng et.al.|[2303.10230v1](http://arxiv.org/abs/2303.10230v1)|**[link](https://github.com/irecsys/recdata)**|
 |**2023-03-17**|**Contrastive Self-supervised Learning in Recommender Systems: A Survey**|Mengyuan Jing et.al.|[2303.09902v1](http://arxiv.org/abs/2303.09902v1)|null|
@@ -1704,6 +1717,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-21**|**Modeling Relational Patterns for Logical Query Answering over Knowledge Graphs**|Yunjie He et.al.|[2303.11858v1](http://arxiv.org/abs/2303.11858v1)|null|
 |**2023-03-20**|**A set of semantic data flow diagrams and its security analysis based on ontologies and knowledge graphs**|Andrei Brazhuk et.al.|[2303.11198v1](http://arxiv.org/abs/2303.11198v1)|null|
 |**2023-03-20**|**NASA Science Mission Directorate Knowledge Graph Discovery**|Roelien C. Timmer et.al.|[2303.10871v1](http://arxiv.org/abs/2303.10871v1)|null|
 |**2023-03-20**|**IMF: Interactive Multimodal Fusion Model for Link Prediction**|Xinhang Li et.al.|[2303.10816v1](http://arxiv.org/abs/2303.10816v1)|**[link](https://github.com/hestiasky/imf-pytorch)**|
@@ -1922,6 +1936,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Deep trip generation with graph neural networks for bike sharing system expansion**|Yuebing Liang et.al.|[2303.11977v1](http://arxiv.org/abs/2303.11977v1)|null|
+|**2023-03-21**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780v1](http://arxiv.org/abs/2303.11780v1)|**[link](https://github.com/hkuds/dcrec)**|
+|**2023-03-21**|**Projections of Model Spaces for Latent Graph Inference**|Haitz Sáez de Ocáriz Borde et.al.|[2303.11754v1](http://arxiv.org/abs/2303.11754v1)|null|
+|**2023-03-21**|**DIPPM: a Deep Learning Inference Performance Predictive Model using Graph Neural Networks**|Karthick Panner Selvam et.al.|[2303.11733v1](http://arxiv.org/abs/2303.11733v1)|null|
+|**2023-03-20**|**Exploiting Inter-Operation Data Reuse in Scientific Applications using GOGETA**|Raveesh Garg et.al.|[2303.11499v1](http://arxiv.org/abs/2303.11499v1)|null|
+|**2023-03-20**|**GNN-Ensemble: Towards Random Decision Graph Neural Networks**|Wenqi Wei et.al.|[2303.11376v1](http://arxiv.org/abs/2303.11376v1)|null|
 |**2023-03-20**|**Positional Diffusion: Ordering Unordered Sets with Diffusion Probabilistic Models**|Francesco Giuliari et.al.|[2303.11120v1](http://arxiv.org/abs/2303.11120v1)|null|
 |**2023-03-20**|**A Survey on Oversmoothing in Graph Neural Networks**|T. Konstantin Rusch et.al.|[2303.10993v1](http://arxiv.org/abs/2303.10993v1)|null|
 |**2023-03-20**|**Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms**|Ao Zhou et.al.|[2303.10875v1](http://arxiv.org/abs/2303.10875v1)|null|
