@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**MEGA: Multilingual Evaluation of Generative AI**|Kabir Ahuja et.al.|[2303.12528v1](http://arxiv.org/abs/2303.12528v1)|null|
+|**2023-03-22**|**System and Design Technology Co-optimization of SOT-MRAM for High-Performance AI Accelerator Memory System**|Kaniz Mishty et.al.|[2303.12310v1](http://arxiv.org/abs/2303.12310v1)|null|
 |**2023-03-21**|**Machine Learning for Brain Disorders: Transformers and Visual Transformers**|Robin Courant et.al.|[2303.12068v1](http://arxiv.org/abs/2303.12068v1)|null|
 |**2023-03-21**|**Transformers in Speech Processing: A Survey**|Siddique Latif et.al.|[2303.11607v1](http://arxiv.org/abs/2303.11607v1)|null|
 |**2023-03-21**|**Difficulty in learning chirality for Transformer fed with SMILES**|Yasuhiro Yoshikai et.al.|[2303.11593v1](http://arxiv.org/abs/2303.11593v1)|**[link](https://github.com/mizuno-group/2023)**|
@@ -393,6 +395,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Understand Legal Documents with Contextualized Large Language Models**|Xin Jin et.al.|[2303.12135v1](http://arxiv.org/abs/2303.12135v1)|null|
 |**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
 |**2023-03-07**|**Making a Computational Attorney**|Dell Zhang et.al.|[2303.05383v1](http://arxiv.org/abs/2303.05383v1)|null|
 |**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
@@ -693,6 +696,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**Inexact iterative numerical linear algebra for neural network-based spectral estimation and rare-event prediction**|John Strahan et.al.|[2303.12534v1](http://arxiv.org/abs/2303.12534v1)|null|
 |**2023-03-21**|**Simple Yet Effective Synthetic Dataset Construction for Unsupervised Opinion Summarization**|Ming Shen et.al.|[2303.11660v1](http://arxiv.org/abs/2303.11660v1)|null|
 |**2023-03-21**|**DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset**|Hongbo Wang et.al.|[2303.11141v2](http://arxiv.org/abs/2303.11141v2)|**[link](https://github.com/pku-tangent/docred-fe)**|
 |**2023-03-17**|**Retrieving false claims on Twitter during the Russia-Ukraine conflict**|Valerio La Gatta et.al.|[2303.10121v1](http://arxiv.org/abs/2303.10121v1)|null|
@@ -889,6 +893,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**Interpretable Bangla Sarcasm Detection using BERT and Explainable AI**|Ramisa Anan et.al.|[2303.12772v1](http://arxiv.org/abs/2303.12772v1)|null|
+|**2023-03-22**|**Evaluating the Role of Target Arguments in Rumour Stance Classification**|Yue Li et.al.|[2303.12665v1](http://arxiv.org/abs/2303.12665v1)|null|
+|**2023-03-22**|**Task-Oriented Explainable Semantic Communication Based on Semantic Triplets**|Chuanhong Liu et.al.|[2303.12286v1](http://arxiv.org/abs/2303.12286v1)|null|
+|**2023-03-22**|**Generate labeled training data using Prompt Programming and GPT-3. An example of Big Five Personality Classification**|Eason Chen et.al.|[2303.12279v1](http://arxiv.org/abs/2303.12279v1)|null|
 |**2023-03-09**|**Types of Approaches, Applications and Challenges in the Development of Sentiment Analysis Systems**|Kazem Taghandiki et.al.|[2303.11176v1](http://arxiv.org/abs/2303.11176v1)|null|
 |**2023-03-18**|**Mutilmodal Feature Extraction and Attention-based Fusion for Emotion Estimation in Videos**|Tao Shu et.al.|[2303.10421v1](http://arxiv.org/abs/2303.10421v1)|**[link](https://github.com/xkwangcn/abaw-5th-rt-iai)**|
 |**2023-03-03**|**Cryptocurrency Price Prediction using Twitter Sentiment Analysis**|Haritha GB et.al.|[2303.09397v1](http://arxiv.org/abs/2303.09397v1)|null|
@@ -1038,6 +1046,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**Integrating Image Features with Convolutional Sequence-to-sequence Network for Multilingual Visual Question Answering**|Triet Minh Thai et.al.|[2303.12671v1](http://arxiv.org/abs/2303.12671v1)|null|
+|**2023-03-22**|**Semantic Communication with Memory**|Huiqiang Xie et.al.|[2303.12335v1](http://arxiv.org/abs/2303.12335v1)|null|
+|**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
+|**2023-03-22**|**Task-Oriented Explainable Semantic Communication Based on Semantic Triplets**|Chuanhong Liu et.al.|[2303.12286v1](http://arxiv.org/abs/2303.12286v1)|null|
 |**2023-03-21**|**TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering**|Yushi Hu et.al.|[2303.11897v1](http://arxiv.org/abs/2303.11897v1)|**[link](https://github.com/Yushi-Hu/tifa)**|
 |**2023-03-21**|**LogQA: Question Answering in Unstructured Logs**|Shaohan Huang et.al.|[2303.11715v1](http://arxiv.org/abs/2303.11715v1)|null|
 |**2023-03-20**|**3D Concept Learning and Reasoning from Multi-View Images**|Yining Hong et.al.|[2303.11327v1](http://arxiv.org/abs/2303.11327v1)|null|
@@ -1291,10 +1303,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791v1](http://arxiv.org/abs/2303.12791v1)|**[link](https://github.com/skhu101/sherf)**|
 |**2023-03-21**|**DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset**|Hongbo Wang et.al.|[2303.11141v2](http://arxiv.org/abs/2303.11141v2)|**[link](https://github.com/pku-tangent/docred-fe)**|
 |**2023-03-20**|**Task-Oriented Communications for 6G: Vision, Principles, and Technologies**|Yuanming Shi et.al.|[2303.10920v1](http://arxiv.org/abs/2303.10920v1)|null|
 |**2023-03-21**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v2](http://arxiv.org/abs/2303.10766v2)|null|
-|**2023-03-19**|**COVID-19 event extraction from Twitter via extractive question answering with continuous prompts**|Yuhang Jiang et.al.|[2303.10659v1](http://arxiv.org/abs/2303.10659v1)|**[link](https://github.com/bionlproc/twitter-covid-qa-extraction)**|
+|**2023-03-22**|**COVID-19 event extraction from Twitter via extractive question answering with continuous prompts**|Yuhang Jiang et.al.|[2303.10659v2](http://arxiv.org/abs/2303.10659v2)|**[link](https://github.com/bionlproc/twitter-covid-qa-extraction)**|
 |**2023-03-17**|**STIXnet: A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports**|Francesco Marchiori et.al.|[2303.09999v1](http://arxiv.org/abs/2303.09999v1)|null|
 |**2023-03-17**|**A Benchmark of PDF Information Extraction Tools using a Multi-Task and Multi-Domain Evaluation Framework for Academic Documents**|Norman Meuschke et.al.|[2303.09957v1](http://arxiv.org/abs/2303.09957v1)|null|
 |**2023-03-20**|**TKN: Transformer-based Keypoint Prediction Network For Real-time Video Prediction**|Haoran Li et.al.|[2303.09807v2](http://arxiv.org/abs/2303.09807v2)|null|
@@ -1458,6 +1471,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**Self-Reflection as a Tool to Foster Profound Sustainable Consumption Decisions**|Florian Bemmann et.al.|[2303.12434v1](http://arxiv.org/abs/2303.12434v1)|null|
 |**2023-03-21**|**Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning**|Lingzi Zhang et.al.|[2303.11879v1](http://arxiv.org/abs/2303.11879v1)|null|
 |**2023-03-21**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780v1](http://arxiv.org/abs/2303.11780v1)|**[link](https://github.com/hkuds/dcrec)**|
 |**2023-03-21**|**Recommendation Systems in Libraries: an Application with Heterogeneous Data Sources**|Alessandro Speciale et.al.|[2303.11746v1](http://arxiv.org/abs/2303.11746v1)|null|
@@ -1713,6 +1727,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**Text with Knowledge Graph Augmented Transformer for Video Captioning**|Xin Gu et.al.|[2303.12423v1](http://arxiv.org/abs/2303.12423v1)|null|
+|**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
+|**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306v1](http://arxiv.org/abs/2303.12306v1)|null|
 |**2023-03-21**|**Modeling Relational Patterns for Logical Query Answering over Knowledge Graphs**|Yunjie He et.al.|[2303.11858v1](http://arxiv.org/abs/2303.11858v1)|null|
 |**2023-03-20**|**A set of semantic data flow diagrams and its security analysis based on ontologies and knowledge graphs**|Andrei Brazhuk et.al.|[2303.11198v1](http://arxiv.org/abs/2303.11198v1)|null|
 |**2023-03-20**|**NASA Science Mission Directorate Knowledge Graph Discovery**|Roelien C. Timmer et.al.|[2303.10871v1](http://arxiv.org/abs/2303.10871v1)|null|
@@ -1932,6 +1949,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D Signals**|Arjun Karpur et.al.|[2303.12779v1](http://arxiv.org/abs/2303.12779v1)|null|
+|**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
+|**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306v1](http://arxiv.org/abs/2303.12306v1)|null|
 |**2023-03-20**|**Deep trip generation with graph neural networks for bike sharing system expansion**|Yuebing Liang et.al.|[2303.11977v1](http://arxiv.org/abs/2303.11977v1)|null|
 |**2023-03-21**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780v1](http://arxiv.org/abs/2303.11780v1)|**[link](https://github.com/hkuds/dcrec)**|
 |**2023-03-21**|**Projections of Model Spaces for Latent Graph Inference**|Haitz Sáez de Ocáriz Borde et.al.|[2303.11754v1](http://arxiv.org/abs/2303.11754v1)|null|
