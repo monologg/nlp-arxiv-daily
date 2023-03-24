@@ -25,6 +25,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Extracting Physical Rehabilitation Exercise Information from Clinical Notes: a Comparison of Rule-Based and Machine Learning Natural Language Processing Techniques**|Stephen W. Shaffran et.al.|[2303.13466v1](http://arxiv.org/abs/2303.13466v1)|null|
+|**2023-03-23**|**Human Behavior in the Time of COVID-19: Learning from Big Data**|Hanjia Lyu et.al.|[2303.13452v1](http://arxiv.org/abs/2303.13452v1)|null|
+|**2023-03-23**|**Development and validation of a natural language processing algorithm to pseudonymize documents in the context of a clinical data warehouse**|Xavier Tannier et.al.|[2303.13451v1](http://arxiv.org/abs/2303.13451v1)|null|
+|**2023-03-23**|**Parameter-Efficient Sparse Retrievers and Rerankers using Adapters**|Vaishali Pal et.al.|[2303.13220v1](http://arxiv.org/abs/2303.13220v1)|null|
+|**2023-03-22**|**Analyzing the Generalizability of Deep Contextualized Language Representations For Text Classification**|Berfu Buyukoz et.al.|[2303.12936v1](http://arxiv.org/abs/2303.12936v1)|null|
+|**2023-03-22**|**TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics**|Salma Afifi et.al.|[2303.12914v1](http://arxiv.org/abs/2303.12914v1)|null|
+|**2023-03-22**|**A Small-Scale Switch Transformer and NLP-based Model for Clinical Narratives Classification**|Thanh-Dung Le et.al.|[2303.12892v1](http://arxiv.org/abs/2303.12892v1)|null|
 |**2023-03-22**|**MEGA: Multilingual Evaluation of Generative AI**|Kabir Ahuja et.al.|[2303.12528v1](http://arxiv.org/abs/2303.12528v1)|null|
 |**2023-03-22**|**System and Design Technology Co-optimization of SOT-MRAM for High-Performance AI Accelerator Memory System**|Kaniz Mishty et.al.|[2303.12310v1](http://arxiv.org/abs/2303.12310v1)|null|
 |**2023-03-21**|**Machine Learning for Brain Disorders: Transformers and Visual Transformers**|Robin Courant et.al.|[2303.12068v1](http://arxiv.org/abs/2303.12068v1)|null|
@@ -552,6 +559,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**W2KPE: Keyphrase Extraction with Word-Word Relation**|Wen Cheng et.al.|[2303.13463v1](http://arxiv.org/abs/2303.13463v1)|null|
 |**2023-03-20**|**DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4**|Zhengliang Liu et.al.|[2303.11032v1](http://arxiv.org/abs/2303.11032v1)|**[link](https://github.com/yhydhx/chatgpt-api)**|
 |**2023-03-20**|**Multi-task Transformer with Relation-attention and Type-attention for Named Entity Recognition**|Ying Mo et.al.|[2303.10870v1](http://arxiv.org/abs/2303.10870v1)|null|
 |**2023-03-18**|**GazeReader: Detecting Unknown Word Using Webcam for English as a Second Language (ESL) Learners**|Jiexin Ding et.al.|[2303.10443v1](http://arxiv.org/abs/2303.10443v1)|null|
@@ -700,6 +708,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-21**|**Fine-tuning ClimateBert transformer with ClimaText for the disclosure analysis of climate-related financial risks**|Eduardo C. Garrido-Merchán et.al.|[2303.13373v1](http://arxiv.org/abs/2303.13373v1)|null|
+|**2023-03-22**|**Analyzing the Generalizability of Deep Contextualized Language Representations For Text Classification**|Berfu Buyukoz et.al.|[2303.12936v1](http://arxiv.org/abs/2303.12936v1)|null|
+|**2023-03-22**|**A Small-Scale Switch Transformer and NLP-based Model for Clinical Narratives Classification**|Thanh-Dung Le et.al.|[2303.12892v1](http://arxiv.org/abs/2303.12892v1)|null|
 |**2023-03-22**|**Inexact iterative numerical linear algebra for neural network-based spectral estimation and rare-event prediction**|John Strahan et.al.|[2303.12534v1](http://arxiv.org/abs/2303.12534v1)|null|
 |**2023-03-21**|**Simple Yet Effective Synthetic Dataset Construction for Unsupervised Opinion Summarization**|Ming Shen et.al.|[2303.11660v1](http://arxiv.org/abs/2303.11660v1)|null|
 |**2023-03-21**|**DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset**|Hongbo Wang et.al.|[2303.11141v2](http://arxiv.org/abs/2303.11141v2)|**[link](https://github.com/pku-tangent/docred-fe)**|
@@ -897,6 +908,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**MELTR: Meta Loss Transformer for Learning to Fine-tune Video Foundation Models**|Dohwan Ko et.al.|[2303.13009v1](http://arxiv.org/abs/2303.13009v1)|**[link](https://github.com/mlvlab/MELTR)**|
+|**2023-03-22**|**Analyzing the Generalizability of Deep Contextualized Language Representations For Text Classification**|Berfu Buyukoz et.al.|[2303.12936v1](http://arxiv.org/abs/2303.12936v1)|null|
 |**2023-03-22**|**Interpretable Bangla Sarcasm Detection using BERT and Explainable AI**|Ramisa Anan et.al.|[2303.12772v1](http://arxiv.org/abs/2303.12772v1)|null|
 |**2023-03-22**|**Evaluating the Role of Target Arguments in Rumour Stance Classification**|Yue Li et.al.|[2303.12665v1](http://arxiv.org/abs/2303.12665v1)|null|
 |**2023-03-22**|**Task-Oriented Explainable Semantic Communication Based on Semantic Triplets**|Chuanhong Liu et.al.|[2303.12286v1](http://arxiv.org/abs/2303.12286v1)|null|
@@ -1050,6 +1063,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**|Joy Hsu et.al.|[2303.13483v1](http://arxiv.org/abs/2303.13483v1)|null|
+|**2023-03-23**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351v1](http://arxiv.org/abs/2303.13351v1)|null|
+|**2023-03-23**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284v1](http://arxiv.org/abs/2303.13284v1)|null|
+|**2023-03-23**|**MELTR: Meta Loss Transformer for Learning to Fine-tune Video Foundation Models**|Dohwan Ko et.al.|[2303.13009v1](http://arxiv.org/abs/2303.13009v1)|**[link](https://github.com/mlvlab/MELTR)**|
+|**2023-03-22**|**Salient Span Masking for Temporal Understanding**|Jeremy R. Cole et.al.|[2303.12860v1](http://arxiv.org/abs/2303.12860v1)|null|
 |**2023-03-22**|**Integrating Image Features with Convolutional Sequence-to-sequence Network for Multilingual Visual Question Answering**|Triet Minh Thai et.al.|[2303.12671v1](http://arxiv.org/abs/2303.12671v1)|null|
 |**2023-03-22**|**Semantic Communication with Memory**|Huiqiang Xie et.al.|[2303.12335v1](http://arxiv.org/abs/2303.12335v1)|null|
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
@@ -1307,6 +1325,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Leveraging Foundation Models for Clinical Text Analysis**|Shaina Raza et.al.|[2303.13314v1](http://arxiv.org/abs/2303.13314v1)|null|
+|**2023-03-23**|**Modeling Entities as Semantic Points for Visual Information Extraction in the Wild**|Zhibo Yang et.al.|[2303.13095v1](http://arxiv.org/abs/2303.13095v1)|null|
 |**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791v1](http://arxiv.org/abs/2303.12791v1)|**[link](https://github.com/skhu101/sherf)**|
 |**2023-03-21**|**DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset**|Hongbo Wang et.al.|[2303.11141v2](http://arxiv.org/abs/2303.11141v2)|**[link](https://github.com/pku-tangent/docred-fe)**|
 |**2023-03-23**|**Task-Oriented Communications for 6G: Vision, Principles, and Technologies**|Yuanming Shi et.al.|[2303.10920v2](http://arxiv.org/abs/2303.10920v2)|null|
@@ -1475,6 +1495,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**GiveMeLabeledIssues: An Open Source Issue Recommendation System**|Joseph Vargovich et.al.|[2303.13418v1](http://arxiv.org/abs/2303.13418v1)|null|
+|**2023-03-23**|**Limits of Predictability in Top-N Recommendation**|En Xu et.al.|[2303.13091v1](http://arxiv.org/abs/2303.13091v1)|null|
+|**2023-03-23**|**Uncertainty Calibration for Counterfactual Propensity Estimation in Recommendation**|Wenbo Hu et.al.|[2303.12973v1](http://arxiv.org/abs/2303.12973v1)|null|
+|**2023-03-22**|**Robust Consensus in Ranking Data Analysis: Definitions, Properties and Computational Issues**|Morgane Goibert et.al.|[2303.12878v1](http://arxiv.org/abs/2303.12878v1)|**[link](https://github.com/robustconsensusranking/robustconsensusranking)**|
 |**2023-03-22**|**Self-Reflection as a Tool to Foster Profound Sustainable Consumption Decisions**|Florian Bemmann et.al.|[2303.12434v1](http://arxiv.org/abs/2303.12434v1)|null|
 |**2023-03-21**|**Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning**|Lingzi Zhang et.al.|[2303.11879v1](http://arxiv.org/abs/2303.11879v1)|null|
 |**2023-03-21**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780v1](http://arxiv.org/abs/2303.11780v1)|**[link](https://github.com/hkuds/dcrec)**|
@@ -1731,6 +1755,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**Towards Transparent, Reusable, and Customizable Data Science in Computational Notebooks**|Frederick Choi et.al.|[2303.13447v1](http://arxiv.org/abs/2303.13447v1)|**[link](https://github.com/megagonlabs/magneton)**|
+|**2023-03-23**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351v1](http://arxiv.org/abs/2303.13351v1)|null|
+|**2023-03-23**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284v1](http://arxiv.org/abs/2303.13284v1)|null|
+|**2023-03-22**|**From Wide to Deep: Dimension Lifting Network for Parameter-efficient Knowledge Graph Embedding**|Borui Cai et.al.|[2303.12816v1](http://arxiv.org/abs/2303.12816v1)|null|
 |**2023-03-22**|**Text with Knowledge Graph Augmented Transformer for Video Captioning**|Xin Gu et.al.|[2303.12423v1](http://arxiv.org/abs/2303.12423v1)|null|
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
 |**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306v1](http://arxiv.org/abs/2303.12306v1)|null|
@@ -1953,6 +1981,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**Stochastic Graph Neural Network-based Value Decomposition for MARL in Internet of Vehicles**|Baidi Xiao et.al.|[2303.13213v1](http://arxiv.org/abs/2303.13213v1)|null|
+|**2023-03-23**|**It is all Connected: A New Graph Formulation for Spatio-Temporal Forecasting**|Lars Ødegaard Bentsen et.al.|[2303.13177v1](http://arxiv.org/abs/2303.13177v1)|null|
+|**2023-03-22**|**Dynasparse: Accelerating GNN Inference through Dynamic Sparsity Exploitation**|Bingyi Zhang et.al.|[2303.12901v1](http://arxiv.org/abs/2303.12901v1)|null|
+|**2023-03-22**|**Three iterations of $(1-d)$-WL test distinguish non isometric clouds of $d$ -dimensional points**|Valentino Delle Rose et.al.|[2303.12853v1](http://arxiv.org/abs/2303.12853v1)|null|
+|**2023-03-22**|**A Comparison of Graph Neural Networks for Malware Classification**|Vrinda Malhotra et.al.|[2303.12812v1](http://arxiv.org/abs/2303.12812v1)|null|
 |**2023-03-22**|**LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D Signals**|Arjun Karpur et.al.|[2303.12779v1](http://arxiv.org/abs/2303.12779v1)|null|
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
 |**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306v1](http://arxiv.org/abs/2303.12306v1)|null|
