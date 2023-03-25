@@ -28,7 +28,7 @@ layout: default
 |**2023-03-22**|**Extracting Physical Rehabilitation Exercise Information from Clinical Notes: a Comparison of Rule-Based and Machine Learning Natural Language Processing Techniques**|Stephen W. Shaffran et.al.|[2303.13466v1](http://arxiv.org/abs/2303.13466v1)|null|
 |**2023-03-23**|**Human Behavior in the Time of COVID-19: Learning from Big Data**|Hanjia Lyu et.al.|[2303.13452v1](http://arxiv.org/abs/2303.13452v1)|null|
 |**2023-03-23**|**Development and validation of a natural language processing algorithm to pseudonymize documents in the context of a clinical data warehouse**|Xavier Tannier et.al.|[2303.13451v1](http://arxiv.org/abs/2303.13451v1)|null|
-|**2023-03-23**|**Parameter-Efficient Sparse Retrievers and Rerankers using Adapters**|Vaishali Pal et.al.|[2303.13220v1](http://arxiv.org/abs/2303.13220v1)|null|
+|**2023-03-23**|**Parameter-Efficient Sparse Retrievers and Rerankers using Adapters**|Vaishali Pal et.al.|[2303.13220v1](http://arxiv.org/abs/2303.13220v1)|**[link](https://github.com/naver/splade)**|
 |**2023-03-22**|**Analyzing the Generalizability of Deep Contextualized Language Representations For Text Classification**|Berfu Buyukoz et.al.|[2303.12936v1](http://arxiv.org/abs/2303.12936v1)|null|
 |**2023-03-22**|**TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics**|Salma Afifi et.al.|[2303.12914v1](http://arxiv.org/abs/2303.12914v1)|null|
 |**2023-03-22**|**A Small-Scale Switch Transformer and NLP-based Model for Clinical Narratives Classification**|Thanh-Dung Le et.al.|[2303.12892v1](http://arxiv.org/abs/2303.12892v1)|null|
