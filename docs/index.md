@@ -1065,7 +1065,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-23**|**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**|Joy Hsu et.al.|[2303.13483v1](http://arxiv.org/abs/2303.13483v1)|null|
 |**2023-03-23**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351v1](http://arxiv.org/abs/2303.13351v1)|null|
-|**2023-03-23**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284v1](http://arxiv.org/abs/2303.13284v1)|null|
+|**2023-03-23**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284v1](http://arxiv.org/abs/2303.13284v1)|**[link](https://github.com/debayan/gett-qa)**|
 |**2023-03-23**|**MELTR: Meta Loss Transformer for Learning to Fine-tune Video Foundation Models**|Dohwan Ko et.al.|[2303.13009v1](http://arxiv.org/abs/2303.13009v1)|**[link](https://github.com/mlvlab/MELTR)**|
 |**2023-03-22**|**Salient Span Masking for Temporal Understanding**|Jeremy R. Cole et.al.|[2303.12860v1](http://arxiv.org/abs/2303.12860v1)|null|
 |**2023-03-22**|**Integrating Image Features with Convolutional Sequence-to-sequence Network for Multilingual Visual Question Answering**|Triet Minh Thai et.al.|[2303.12671v1](http://arxiv.org/abs/2303.12671v1)|null|
@@ -1757,7 +1757,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-23**|**Towards Transparent, Reusable, and Customizable Data Science in Computational Notebooks**|Frederick Choi et.al.|[2303.13447v1](http://arxiv.org/abs/2303.13447v1)|**[link](https://github.com/megagonlabs/magneton)**|
 |**2023-03-23**|**DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2303.13351v1](http://arxiv.org/abs/2303.13351v1)|null|
-|**2023-03-23**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284v1](http://arxiv.org/abs/2303.13284v1)|null|
+|**2023-03-23**|**GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering**|Debayan Banerjee et.al.|[2303.13284v1](http://arxiv.org/abs/2303.13284v1)|**[link](https://github.com/debayan/gett-qa)**|
 |**2023-03-22**|**From Wide to Deep: Dimension Lifting Network for Parameter-efficient Knowledge Graph Embedding**|Borui Cai et.al.|[2303.12816v1](http://arxiv.org/abs/2303.12816v1)|null|
 |**2023-03-22**|**Text with Knowledge Graph Augmented Transformer for Video Captioning**|Xin Gu et.al.|[2303.12423v1](http://arxiv.org/abs/2303.12423v1)|null|
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v1](http://arxiv.org/abs/2303.12320v1)|null|
