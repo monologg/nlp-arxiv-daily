@@ -423,7 +423,7 @@ layout: default
 |**2022-11-30**|**BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From Scratch?**|Joel Niklaus et.al.|[2211.17135v1](http://arxiv.org/abs/2211.17135v1)|null|
 |**2022-11-15**|**DeepParliament: A Legal domain Benchmark & Dataset for Parliament Bills Prediction**|Ankit Pal et.al.|[2211.15424v1](http://arxiv.org/abs/2211.15424v1)|**[link](https://github.com/monk1337/deepparliament)**|
 |**2022-11-23**|**Agent-Specific Deontic Modality Detection in Legal Language**|Abhilasha Sancheti et.al.|[2211.12752v1](http://arxiv.org/abs/2211.12752v1)|null|
-|**2022-11-21**|**Legal and Political Stance Detection of SCOTUS Language**|Noah Bergam et.al.|[2211.11724v1](http://arxiv.org/abs/2211.11724v1)|null|
+|**2022-11-21**|**Legal and Political Stance Detection of SCOTUS Language**|Noah Bergam et.al.|[2211.11724v1](http://arxiv.org/abs/2211.11724v1)|**[link](https://github.com/njbergam/scotus-public-stance)**|
 |**2022-11-15**|**An Efficient Active Learning Pipeline for Legal Text Classification**|Sepideh Mamooler et.al.|[2211.08112v1](http://arxiv.org/abs/2211.08112v1)|null|
 |**2022-11-07**|**Named Entity Recognition in Indian court judgments**|Prathamesh Kalamkar et.al.|[2211.03442v1](http://arxiv.org/abs/2211.03442v1)|**[link](https://github.com/legal-nlp-ekstep/legal_ner)**|
 |**2022-11-06**|**Knowledge is Power: Understanding Causality Makes Legal judgment Prediction Models More Generalizable and Robust**|Haotian Chen et.al.|[2211.03046v1](http://arxiv.org/abs/2211.03046v1)|null|
@@ -853,8 +853,8 @@ layout: default
 |**2022-12-12**|**Domain Adaptation of Transformer-Based Models using Unlabeled Data for Relevance and Polarity Classification of German Customer Feedback**|Ahmad Idrissi-Yaghir et.al.|[2212.05764v1](http://arxiv.org/abs/2212.05764v1)|null|
 |**2022-12-15**|**FastClass: A Time-Efficient Approach to Weakly-Supervised Text Classification**|Tingyu Xia et.al.|[2212.05506v2](http://arxiv.org/abs/2212.05506v2)|**[link](https://github.com/xiatingyu/fastclass)**|
 |**2022-12-10**|**Identifying the Source of Vulnerability in Explanation Discrepancy: A Case Study in Neural Text Classification**|Ruixuan Tang et.al.|[2212.05327v1](http://arxiv.org/abs/2212.05327v1)|null|
-|**2022-12-07**|**A Study on Extracting Named Entities from Fine-tuned vs. Differentially Private Fine-tuned BERT Models**|Andor Diera et.al.|[2212.03749v1](http://arxiv.org/abs/2212.03749v1)|null|
-|**2022-12-08**|**G-MAP: General Memory-Augmented Pre-trained Language Model for Domain Tasks**|Zhongwei Wan et.al.|[2212.03613v2](http://arxiv.org/abs/2212.03613v2)|null|
+|**2022-12-07**|**A Study on Extracting Named Entities from Fine-tuned vs. Differentially Private Fine-tuned BERT Models**|Andor Diera et.al.|[2212.03749v1](http://arxiv.org/abs/2212.03749v1)|**[link](https://github.com/drndr/bert_ent_attack)**|
+|**2022-12-08**|**G-MAP: General Memory-Augmented Pre-trained Language Model for Domain Tasks**|Zhongwei Wan et.al.|[2212.03613v2](http://arxiv.org/abs/2212.03613v2)|**[link](https://github.com/SUSTechBruce/G-MAP)**|
 |**2022-12-09**|**A Generative Approach for Script Event Prediction via Contrastive Fine-tuning**|Fangqi Zhu et.al.|[2212.03496v3](http://arxiv.org/abs/2212.03496v3)|**[link](https://github.com/zhufq00/mcnc)**|
 |**2022-12-07**|**JamPatoisNLI: A Jamaican Patois Natural Language Inference Dataset**|Ruth-Ann Armstrong et.al.|[2212.03419v1](http://arxiv.org/abs/2212.03419v1)|null|
 |**2022-12-06**|**LawngNLI: A Long-Premise Benchmark for In-Domain Generalization from Short to Long Contexts and for Implication-Based Retrieval**|William Bruno et.al.|[2212.03222v1](http://arxiv.org/abs/2212.03222v1)|**[link](https://github.com/wbrun0/LawngNLI)**|
@@ -922,7 +922,7 @@ layout: default
 |**2023-03-12**|**Reducing Spurious Correlations for Aspect-Based Sentiment Analysis with Variational Information Bottleneck and Contrastive Learning**|Mingshan Chang et.al.|[2303.02846v2](http://arxiv.org/abs/2303.02846v2)|null|
 |**2023-03-16**|**FinXABSA: Explainable Finance through Aspect-Based Sentiment Analysis**|Keane Ong et.al.|[2303.02563v3](http://arxiv.org/abs/2303.02563v3)|null|
 |**2023-03-03**|**Meme Sentiment Analysis Enhanced with Multimodal Spatial Encoding and Facial Embedding**|Muzhaffar Hazman et.al.|[2303.01781v1](http://arxiv.org/abs/2303.01781v1)|null|
-|**2023-03-02**|**NLP Workbench: Efficient and Extensible Integration of State-of-the-art Text Mining Tools**|Peiran Yao et.al.|[2303.01410v1](http://arxiv.org/abs/2303.01410v1)|null|
+|**2023-03-02**|**NLP Workbench: Efficient and Extensible Integration of State-of-the-art Text Mining Tools**|Peiran Yao et.al.|[2303.01410v1](http://arxiv.org/abs/2303.01410v1)|**[link](https://github.com/u-alberta/nlpworkbench)**|
 |**2023-03-01**|**Soft Prompt Guided Joint Learning for Cross-Domain Sentiment Analysis**|Jingli Shi et.al.|[2303.00815v1](http://arxiv.org/abs/2303.00815v1)|null|
 |**2023-03-01**|**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**|Xuanting Chen et.al.|[2303.00293v1](http://arxiv.org/abs/2303.00293v1)|null|
 |**2023-02-25**|**SynGen: A Syntactic Plug-and-play Module for Generative Aspect-based Sentiment Analysis**|Chengze Yu et.al.|[2302.13032v1](http://arxiv.org/abs/2302.13032v1)|null|
@@ -1138,7 +1138,7 @@ layout: default
 |**2023-02-24**|**CARE: Collaborative AI-Assisted Reading Environment**|Dennis Zyska et.al.|[2302.12611v1](http://arxiv.org/abs/2302.12611v1)|**[link](https://github.com/ukplab/care)**|
 |**2023-02-24**|**Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**|Yonghao Liu et.al.|[2302.12529v1](http://arxiv.org/abs/2302.12529v1)|null|
 |**2023-02-23**|**Extracting Victim Counts from Text**|Mian Zhong et.al.|[2302.12367v1](http://arxiv.org/abs/2302.12367v1)|null|
-|**2023-02-23**|**MFBE: Leveraging Multi-Field Information of FAQs for Efficient Dense Retrieval**|Debopriyo Banerjee et.al.|[2302.11953v1](http://arxiv.org/abs/2302.11953v1)|null|
+|**2023-02-23**|**MFBE: Leveraging Multi-Field Information of FAQs for Efficient Dense Retrieval**|Debopriyo Banerjee et.al.|[2302.11953v1](http://arxiv.org/abs/2302.11953v1)|**[link](https://github.com/mausamsion/mfbe)**|
 |**2023-02-23**|**FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering**|Qichen Ye et.al.|[2302.11799v1](http://arxiv.org/abs/2302.11799v1)|**[link](https://github.com/yeeeqichen/fits)**|
 |**2023-02-24**|**VLSP2022 EVJVQA Challenge: Multilingual Visual Question Answering**|Ngan Luu-Thuy Nguyen et.al.|[2302.11752v2](http://arxiv.org/abs/2302.11752v2)|null|
 |**2023-02-23**|**Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?**|Yang Chen et.al.|[2302.11713v1](http://arxiv.org/abs/2302.11713v1)|null|
@@ -1344,7 +1344,7 @@ layout: default
 |**2023-03-14**|**TEA-PSE 3.0: Tencent-Ethereal-Audio-Lab Personalized Speech Enhancement System For ICASSP 2023 DNS Challenge**|Yukai Ju et.al.|[2303.07704v1](http://arxiv.org/abs/2303.07704v1)|null|
 |**2023-03-12**|**Domain-Knowledge-Aided Airborne Ground Moving Targets Tracking**|Jianduo Chai et.al.|[2303.06593v1](http://arxiv.org/abs/2303.06593v1)|null|
 |**2023-03-10**|**Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models**|Iman Saberi et.al.|[2303.06233v1](http://arxiv.org/abs/2303.06233v1)|null|
-|**2023-03-14**|**HiNet: Novel Multi-Scenario & Multi-Task Learning with Hierarchical Information Extraction**|Jie Zhou et.al.|[2303.06095v2](http://arxiv.org/abs/2303.06095v2)|null|
+|**2023-03-14**|**HiNet: Novel Multi-Scenario & Multi-Task Learning with Hierarchical Information Extraction**|Jie Zhou et.al.|[2303.06095v2](http://arxiv.org/abs/2303.06095v2)|**[link](https://github.com/mrchor/HiNet)**|
 |**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
 |**2023-03-09**|**ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction**|Jiabang He et.al.|[2303.05063v1](http://arxiv.org/abs/2303.05063v1)|null|
 |**2023-03-08**|**Comprehensive Event Representations using Event Knowledge Graphs and Natural Language Processing**|Tin Kuculo et.al.|[2303.04794v1](http://arxiv.org/abs/2303.04794v1)|null|
@@ -1513,7 +1513,7 @@ layout: default
 |**2023-03-16**|**Self-Consistent Learning: Cooperation between Generators and Discriminators**|Tong Wu et.al.|[2303.09075v1](http://arxiv.org/abs/2303.09075v1)|null|
 |**2023-03-15**|**Borda Regret Minimization for Generalized Linear Dueling Bandits**|Yue Wu et.al.|[2303.08816v1](http://arxiv.org/abs/2303.08816v1)|null|
 |**2023-03-15**|**Dually Enhanced Propensity Score Estimation in Sequential Recommendation**|Chen Xu et.al.|[2303.08722v1](http://arxiv.org/abs/2303.08722v1)|**[link](https://github.com/xuchen0427/dually-enhanced-propensity-score-estimation-in-sequential-recommendation)**|
-|**2023-03-14**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|null|
+|**2023-03-14**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|**[link](https://github.com/hkuds/dgnn)**|
 |**2023-03-13**|**Neural Group Recommendation Based on a Probabilistic Semantic Aggregation**|Jorge Dueñas-Lerín et.al.|[2303.07001v1](http://arxiv.org/abs/2303.07001v1)|**[link](https://github.com/knodis-research-group/neural-cf-for-groups)**|
 |**2023-03-13**|**Beyond Single Items: Exploring User Preferences in Item Sets with the Conversational Playlist Curation Dataset**|Arun Tejasvi Chaganty et.al.|[2303.06791v1](http://arxiv.org/abs/2303.06791v1)|null|
 |**2023-03-12**|**P-MMF: Provider Max-min Fairness Re-ranking in Recommender System**|Chen Xu et.al.|[2303.06660v1](http://arxiv.org/abs/2303.06660v1)|**[link](https://github.com/xuchen0427/p-mmf)**|
@@ -1524,7 +1524,7 @@ layout: default
 |**2023-03-11**|**PowerMat: context-aware recommender system without user item rating values that solves the cold-start problem**|Hao Wang et.al.|[2303.06356v1](http://arxiv.org/abs/2303.06356v1)|null|
 |**2023-03-11**|**AutoMLP: Automated MLP for Sequential Recommendations**|Muyang Li et.al.|[2303.06337v1](http://arxiv.org/abs/2303.06337v1)|null|
 |**2023-03-10**|**Optimal and Private Learning from Human Response Data**|Duc Nguyen et.al.|[2303.06234v1](http://arxiv.org/abs/2303.06234v1)|null|
-|**2023-03-10**|**HiNet: A Novel Multi-Scenario & Multi-Task Learning Approach with Hierarchical Information Extraction**|Jie Zhou et.al.|[2303.06095v1](http://arxiv.org/abs/2303.06095v1)|null|
+|**2023-03-10**|**HiNet: A Novel Multi-Scenario & Multi-Task Learning Approach with Hierarchical Information Extraction**|Jie Zhou et.al.|[2303.06095v1](http://arxiv.org/abs/2303.06095v1)|**[link](https://github.com/mrchor/HiNet)**|
 |**2023-03-10**|**Gradient Coordination for Quantifying and Maximizing Knowledge Transference in Multi-Task Learning**|Xuanhua Yang et.al.|[2303.05847v1](http://arxiv.org/abs/2303.05847v1)|null|
 |**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
 |**2023-03-09**|**Evaluating the Robustness of Conversational Recommender Systems by Adversarial Examples**|Ali Montazeralghaem et.al.|[2303.05575v1](http://arxiv.org/abs/2303.05575v1)|null|
@@ -1557,7 +1557,7 @@ layout: default
 |**2023-02-27**|**TwERC: High Performance Ensembled Candidate Generation for Ads Recommendation at Twitter**|Vanessa Cai et.al.|[2302.13915v1](http://arxiv.org/abs/2302.13915v1)|null|
 |**2023-02-24**|**Dual Path Modeling for Semantic Matching by Perceiving Subtle Conflicts**|Chao Xue et.al.|[2302.12530v1](http://arxiv.org/abs/2302.12530v1)|null|
 |**2023-02-24**|**Slate-Aware Ranking for Recommendation**|Yi Ren et.al.|[2302.12427v1](http://arxiv.org/abs/2302.12427v1)|**[link](https://github.com/bestactionnow/slate_aware_ranking)**|
-|**2023-02-23**|**MFBE: Leveraging Multi-Field Information of FAQs for Efficient Dense Retrieval**|Debopriyo Banerjee et.al.|[2302.11953v1](http://arxiv.org/abs/2302.11953v1)|null|
+|**2023-02-23**|**MFBE: Leveraging Multi-Field Information of FAQs for Efficient Dense Retrieval**|Debopriyo Banerjee et.al.|[2302.11953v1](http://arxiv.org/abs/2302.11953v1)|**[link](https://github.com/mausamsion/mfbe)**|
 |**2023-02-22**|**What Makes a Code Review Useful to OpenDev Developers? An Empirical Investigation**|Asif Kamal Turzo et.al.|[2302.11686v1](http://arxiv.org/abs/2302.11686v1)|**[link](https://github.com/wsu-seal/cr-usefulness-emse)**|
 |**2023-02-22**|**Construction of Knowledge Graphs: State and Challenges**|Marvin Hofer et.al.|[2302.11509v1](http://arxiv.org/abs/2302.11509v1)|null|
 |**2023-02-23**|**Commonality in Recommender Systems: Evaluating Recommender Systems to Enhance Cultural Citizenship**|Andres Ferraro et.al.|[2302.11360v2](http://arxiv.org/abs/2302.11360v2)|null|
@@ -1587,7 +1587,7 @@ layout: default
 |**2023-02-12**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
 |**2023-02-10**|**Debiasing Recommendation by Learning Identifiable Latent Confounders**|Qing Zhang et.al.|[2302.05052v1](http://arxiv.org/abs/2302.05052v1)|null|
 |**2023-02-10**|**Feature Decomposition for Reducing Negative Transfer: A Novel Multi-task Learning Method for Recommender System**|Jie Zhou et.al.|[2302.05031v1](http://arxiv.org/abs/2302.05031v1)|null|
-|**2023-02-09**|**Adap-tau: Adaptively Modulating Embedding Magnitude for Recommendation**|Jiawei Chen et.al.|[2302.04775v1](http://arxiv.org/abs/2302.04775v1)|null|
+|**2023-02-09**|**Adap-tau: Adaptively Modulating Embedding Magnitude for Recommendation**|Jiawei Chen et.al.|[2302.04775v1](http://arxiv.org/abs/2302.04775v1)|**[link](https://github.com/junkangwu/adap_tau)**|
 |**2023-02-09**|**Auditing Recommender Systems -- Putting the DSA into practice with a risk-scenario-based approach**|Anna-Katharina Meßmer et.al.|[2302.04556v1](http://arxiv.org/abs/2302.04556v1)|null|
 |**2023-02-09**|**Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering**|Bosong Huang et.al.|[2302.04545v1](http://arxiv.org/abs/2302.04545v1)|null|
 |**2023-02-09**|**A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions**|Hongyu Zhou et.al.|[2302.04473v1](http://arxiv.org/abs/2302.04473v1)|**[link](https://github.com/enoche/mmrec)**|
@@ -1995,7 +1995,7 @@ layout: default
 |**2023-03-21**|**DIPPM: a Deep Learning Inference Performance Predictive Model using Graph Neural Networks**|Karthick Panner Selvam et.al.|[2303.11733v1](http://arxiv.org/abs/2303.11733v1)|null|
 |**2023-03-20**|**Exploiting Inter-Operation Data Reuse in Scientific Applications using GOGETA**|Raveesh Garg et.al.|[2303.11499v1](http://arxiv.org/abs/2303.11499v1)|null|
 |**2023-03-20**|**GNN-Ensemble: Towards Random Decision Graph Neural Networks**|Wenqi Wei et.al.|[2303.11376v1](http://arxiv.org/abs/2303.11376v1)|null|
-|**2023-03-20**|**Positional Diffusion: Ordering Unordered Sets with Diffusion Probabilistic Models**|Francesco Giuliari et.al.|[2303.11120v1](http://arxiv.org/abs/2303.11120v1)|null|
+|**2023-03-20**|**Positional Diffusion: Ordering Unordered Sets with Diffusion Probabilistic Models**|Francesco Giuliari et.al.|[2303.11120v1](http://arxiv.org/abs/2303.11120v1)|**[link](https://github.com/IIT-PAVIS/Positional_Diffusion)**|
 |**2023-03-20**|**A Survey on Oversmoothing in Graph Neural Networks**|T. Konstantin Rusch et.al.|[2303.10993v1](http://arxiv.org/abs/2303.10993v1)|null|
 |**2023-03-20**|**Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms**|Ao Zhou et.al.|[2303.10875v1](http://arxiv.org/abs/2303.10875v1)|null|
 |**2023-03-19**|**Beyond Independent Error Assumptions in Large GNN Atomistic Models**|Janghoon Ock et.al.|[2303.10797v1](http://arxiv.org/abs/2303.10797v1)|null|
@@ -2014,17 +2014,17 @@ layout: default
 |**2023-03-15**|**RGI : Regularized Graph Infomax for self-supervised learning on graphs**|Oscar Pina et.al.|[2303.08644v1](http://arxiv.org/abs/2303.08644v1)|null|
 |**2023-03-15**|**Local Region Perception and Relationship Learning Combined with Feature Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v1](http://arxiv.org/abs/2303.08545v1)|null|
 |**2023-03-15**|**Graph-less Collaborative Filtering**|Lianghao Xia et.al.|[2303.08537v1](http://arxiv.org/abs/2303.08537v1)|**[link](https://github.com/hkuds/simrec)**|
-|**2023-03-15**|**Robust Preference-Guided Denoising for Graph based Social Recommendation**|Yuhan Quan et.al.|[2303.08346v1](http://arxiv.org/abs/2303.08346v1)|null|
+|**2023-03-15**|**Robust Preference-Guided Denoising for Graph based Social Recommendation**|Yuhan Quan et.al.|[2303.08346v1](http://arxiv.org/abs/2303.08346v1)|**[link](https://github.com/tsinghua-fib-lab/graph-denoising-socialrec)**|
 |**2023-03-14**|**Gamora: Graph Learning based Symbolic Reasoning for Large-Scale Boolean Networks**|Nan Wu et.al.|[2303.08256v1](http://arxiv.org/abs/2303.08256v1)|null|
 |**2023-03-16**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v2](http://arxiv.org/abs/2303.08157v2)|null|
-|**2023-03-14**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|null|
+|**2023-03-14**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|**[link](https://github.com/hkuds/dgnn)**|
 |**2023-03-14**|**Automated Self-Supervised Learning for Recommendation**|Lianghao Xia et.al.|[2303.07797v1](http://arxiv.org/abs/2303.07797v1)|**[link](https://github.com/hkuds/autocf)**|
 |**2023-03-14**|**GANN: Graph Alignment Neural Network for Semi-Supervised Learning**|Linxuan Song et.al.|[2303.07778v1](http://arxiv.org/abs/2303.07778v1)|null|
 |**2023-03-14**|**Dual-Attention Model for Aspect-Level Sentiment Classification**|Mengfei Ye et.al.|[2303.07689v1](http://arxiv.org/abs/2303.07689v1)|null|
 |**2023-03-14**|**AutoTransfer: AutoML with Knowledge Transfer -- An Application to Graph Neural Networks**|Kaidi Cao et.al.|[2303.07669v1](http://arxiv.org/abs/2303.07669v1)|null|
 |**2023-03-13**|**End-to-end Deformable Attention Graph Neural Network for Single-view Liver Mesh Reconstruction**|Matej Gazda et.al.|[2303.07432v1](http://arxiv.org/abs/2303.07432v1)|null|
 |**2023-03-13**|**Learning Reduced-Order Models for Cardiovascular Simulations with Graph Neural Networks**|Luca Pegolotti et.al.|[2303.07310v1](http://arxiv.org/abs/2303.07310v1)|**[link](https://github.com/stanfordcbcl/grom)**|
-|**2023-03-12**|**ContraNorm: A Contrastive Learning Perspective on Oversmoothing and Beyond**|Xiaojun Guo et.al.|[2303.06562v1](http://arxiv.org/abs/2303.06562v1)|null|
+|**2023-03-12**|**ContraNorm: A Contrastive Learning Perspective on Oversmoothing and Beyond**|Xiaojun Guo et.al.|[2303.06562v1](http://arxiv.org/abs/2303.06562v1)|**[link](https://github.com/pku-ml/contranorm)**|
 |**2023-03-12**|**Spatial Correspondence between Graph Neural Network-Segmented Images**|Qian Li et.al.|[2303.06550v1](http://arxiv.org/abs/2303.06550v1)|null|
 |**2023-03-11**|**Multimodal Data Integration for Oncology in the Era of Deep Neural Networks: A Review**|Asim Waqas et.al.|[2303.06471v1](http://arxiv.org/abs/2303.06471v1)|null|
 |**2023-03-11**|**Graph Neural Network contextual embedding for Deep Learning on Tabular Data**|Mario Villaizán-Vallelado et.al.|[2303.06455v1](http://arxiv.org/abs/2303.06455v1)|**[link](https://github.com/matteosalvatori/ince)**|
