@@ -25,6 +25,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Exploring Natural Language Processing Methods for Interactive Behaviour Modelling**|Guanhua Zhang et.al.|[2303.16039v1](http://arxiv.org/abs/2303.16039v1)|null|
+|**2023-03-28**|**Soft-prompt tuning to predict lung cancer using primary care free-text Dutch medical notes**|Auke Elfrink et.al.|[2303.15846v1](http://arxiv.org/abs/2303.15846v1)|null|
+|**2023-03-28**|**Evaluation of ChatGPT for NLP-based Mental Health Applications**|Bishal Lamichhane et.al.|[2303.15727v1](http://arxiv.org/abs/2303.15727v1)|null|
+|**2023-03-28**|**Explicit Planning Helps Language Models in Logical Reasoning**|Hongyu Zhao et.al.|[2303.15714v1](http://arxiv.org/abs/2303.15714v1)|**[link](https://github.com/cindermond/explicit-planning-for-reasoning)**|
+|**2023-03-27**|**Typhoon: Towards an Effective Task-Specific Masking Strategy for Pre-trained Language Models**|Muhammed Shahir Abdurrahman et.al.|[2303.15619v1](http://arxiv.org/abs/2303.15619v1)|null|
 |**2023-03-27**|**Evaluating self-attention interpretability through human-grounded experimental protocol**|Milan Bhan et.al.|[2303.15190v1](http://arxiv.org/abs/2303.15190v1)|null|
 |**2023-03-27**|**unarXive 2022: All arXiv Publications Pre-Processed for NLP, Including Structured Full-Text and Citation Network**|Tarek Saier et.al.|[2303.14957v1](http://arxiv.org/abs/2303.14957v1)|**[link](https://github.com/IllDepence/unarXive)**|
 |**2023-03-27**|**Unified Text Structuralization with Instruction-tuned Language Models**|Xuanfan Ni et.al.|[2303.14956v1](http://arxiv.org/abs/2303.14956v1)|null|
@@ -726,6 +731,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Model and Evaluation: Towards Fairness in Multilingual Text Classification**|Nankai Lin et.al.|[2303.15697v1](http://arxiv.org/abs/2303.15697v1)|null|
+|**2023-03-27**|**ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization**|Zheheng Luo et.al.|[2303.15621v1](http://arxiv.org/abs/2303.15621v1)|null|
 |**2023-03-27**|**Beyond Toxic: Toxicity Detection Datasets are Not Enough for Brand Safety**|Elizaveta Korotkova et.al.|[2303.15110v1](http://arxiv.org/abs/2303.15110v1)|null|
 |**2023-03-27**|**ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks**|Fabrizio Gilardi et.al.|[2303.15056v1](http://arxiv.org/abs/2303.15056v1)|null|
 |**2023-03-27**|**Borrowing Human Senses: Comment-Aware Self-Training for Social Media Multimodal Classification**|Chunpu Xu et.al.|[2303.15016v1](http://arxiv.org/abs/2303.15016v1)|**[link](https://github.com/cpaaax/multimodal_cast)**|
@@ -932,6 +939,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**An Experimental Study on Sentiment Classification of Moroccan dialect texts in the web**|Mouad Jbel et.al.|[2303.15987v1](http://arxiv.org/abs/2303.15987v1)|null|
+|**2023-03-27**|**Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation**|Rongyu Zhang et.al.|[2303.15486v1](http://arxiv.org/abs/2303.15486v1)|null|
 |**2023-03-27**|**TextMI: Textualize Multimodal Information for Integrating Non-verbal Cues in Pre-trained Language Models**|Md Kamrul Hasan et.al.|[2303.15430v1](http://arxiv.org/abs/2303.15430v1)|null|
 |**2023-03-26**|**MGTBench: Benchmarking Machine-Generated Text Detection**|Xinlei He et.al.|[2303.14822v1](http://arxiv.org/abs/2303.14822v1)|**[link](https://github.com/xinleihe/mgtbench)**|
 |**2023-03-26**|**Exploring Multimodal Sentiment Analysis via CBAM Attention and Double-layer BiLSTM Architecture**|Huiru Wang et.al.|[2303.14708v1](http://arxiv.org/abs/2303.14708v1)|null|
@@ -1090,6 +1099,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Explicit Planning Helps Language Models in Logical Reasoning**|Hongyu Zhao et.al.|[2303.15714v1](http://arxiv.org/abs/2303.15714v1)|**[link](https://github.com/cindermond/explicit-planning-for-reasoning)**|
+|**2023-03-27**|**ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization**|Zheheng Luo et.al.|[2303.15621v1](http://arxiv.org/abs/2303.15621v1)|null|
 |**2023-03-27**|**Curriculum Learning for Compositional Visual Reasoning**|Wafa Aissa et.al.|[2303.15006v1](http://arxiv.org/abs/2303.15006v1)|null|
 |**2023-03-27**|**TabIQA: Table Questions Answering on Business Document Images**|Phuc Nguyen et.al.|[2303.14935v1](http://arxiv.org/abs/2303.14935v1)|null|
 |**2023-03-26**|**MGTBench: Benchmarking Machine-Generated Text Detection**|Xinlei He et.al.|[2303.14822v1](http://arxiv.org/abs/2303.14822v1)|**[link](https://github.com/xinleihe/mgtbench)**|
@@ -1360,6 +1371,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-25**|**Embedding Contextual Information through Reward Shaping in Multi-Agent Learning: A Case Study from Google Football**|Chaoyi Gu et.al.|[2303.15471v1](http://arxiv.org/abs/2303.15471v1)|null|
 |**2023-03-27**|**Temporal Alignment of Human Motion Data: A Geometric Point of View**|Alice Barbara Tumpach et.al.|[2303.15259v1](http://arxiv.org/abs/2303.15259v1)|null|
 |**2023-03-27**|**An Information Extraction Study: Take In Mind the Tokenization!**|Christos Theodoropoulos et.al.|[2303.15100v1](http://arxiv.org/abs/2303.15100v1)|**[link](https://github.com/christos42/inductive_bias_IE)**|
 |**2023-03-27**|**A novel Multi to Single Module for small object detection**|Xiaohui Guo et.al.|[2303.14977v1](http://arxiv.org/abs/2303.14977v1)|null|
@@ -1538,6 +1550,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Causal Disentangled Recommendation Against User Preference Shifts**|Wenjie Wang et.al.|[2303.16068v1](http://arxiv.org/abs/2303.16068v1)|null|
+|**2023-03-28**|**Item Graph Convolution Collaborative Filtering for Inductive Recommendations**|Edoardo D'Amico et.al.|[2303.15946v1](http://arxiv.org/abs/2303.15946v1)|null|
 |**2023-03-27**|**Can Few Lines of Code Change Society ? Beyond fack-checking and moderation : how recommender systems toxifies social networking sites**|David Chavalarias et.al.|[2303.15035v1](http://arxiv.org/abs/2303.15035v1)|null|
 |**2023-03-26**|**PORE: Provably Robust Recommender Systems against Data Poisoning Attacks**|Jinyuan Jia et.al.|[2303.14601v1](http://arxiv.org/abs/2303.14601v1)|null|
 |**2023-03-25**|**Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System**|Yunfan Gao et.al.|[2303.14524v1](http://arxiv.org/abs/2303.14524v1)|null|
@@ -1807,6 +1821,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Pre-training Transformers for Knowledge Graph Completion**|Sanxing Chen et.al.|[2303.15682v1](http://arxiv.org/abs/2303.15682v1)|null|
+|**2023-03-28**|**Joint embedding in Hierarchical distance and semantic representation learning for link prediction**|Jin Liu et.al.|[2303.15655v1](http://arxiv.org/abs/2303.15655v1)|null|
 |**2023-03-27**|**Describing and Organizing Semantic Web and Machine Learning Systems in the SWeMLS-KG**|Fajar J. Ekaputra et.al.|[2303.15113v1](http://arxiv.org/abs/2303.15113v1)|**[link](https://github.com/semanticsystems/swemls-toolkit)**|
 |**2023-03-27**|**Mutually-paced Knowledge Distillation for Cross-lingual Temporal Knowledge Graph Reasoning**|Ruijie Wang et.al.|[2303.14898v1](http://arxiv.org/abs/2303.14898v1)|null|
 |**2023-03-26**|**Farspredict: A benchmark dataset for link prediction**|Najmeh Torabian et.al.|[2303.14647v1](http://arxiv.org/abs/2303.14647v1)|null|
@@ -2041,6 +2057,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**DefGraspNets: Grasp Planning on 3D Fields with Graph Neural Nets**|Isabella Huang et.al.|[2303.16138v1](http://arxiv.org/abs/2303.16138v1)|null|
+|**2023-03-28**|**Transformer and Snowball Graph Convolution Learning for Biomedical Graph Classification**|Jinlong Hu et.al.|[2303.16132v1](http://arxiv.org/abs/2303.16132v1)|null|
+|**2023-03-28**|**Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction**|Yi Xu et.al.|[2303.16005v1](http://arxiv.org/abs/2303.16005v1)|**[link](https://github.com/colorfulfuture/gc-vrnn)**|
+|**2023-03-28**|**A Survey on Malware Detection with Graph Representation Learning**|Tristan Bilot et.al.|[2303.16004v1](http://arxiv.org/abs/2303.16004v1)|null|
+|**2023-03-28**|**TraffNet: Learning Causality of Traffic Generation for Road Network Digital Twins**|Ming Xu et.al.|[2303.15954v1](http://arxiv.org/abs/2303.15954v1)|**[link](https://github.com/mayunyi-1999/traffnet_code)**|
+|**2023-03-28**|**GNN-based physics solver for time-independent PDEs**|Rini Jasmine Gladstone et.al.|[2303.15681v1](http://arxiv.org/abs/2303.15681v1)|null|
+|**2023-03-27**|**Graph Sequence Learning for Premise Selection**|Edvard K. Holden et.al.|[2303.15642v1](http://arxiv.org/abs/2303.15642v1)|null|
+|**2023-03-27**|**Multi-Flow Transmission in Wireless Interference Networks: A Convergent Graph Learning Approach**|Raz Paul et.al.|[2303.15544v1](http://arxiv.org/abs/2303.15544v1)|null|
+|**2023-03-27**|**Railway Network Delay Evolution: A Heterogeneous Graph Neural Network Approach**|Zhongcan Li et.al.|[2303.15489v1](http://arxiv.org/abs/2303.15489v1)|null|
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414v1](http://arxiv.org/abs/2303.15414v1)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-27**|**Towards Open Temporal Graph Neural Networks**|Kaituo Feng et.al.|[2303.15015v1](http://arxiv.org/abs/2303.15015v1)|null|
 |**2023-03-27**|**Filter-informed Spectral Graph Wavelet Networks for Multiscale Feature Extraction and Intelligent Fault Diagnosis**|Tianfu Li et.al.|[2303.14958v1](http://arxiv.org/abs/2303.14958v1)|null|
