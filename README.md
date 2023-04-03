@@ -47,7 +47,7 @@
 |**2023-03-24**|**Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Methods**|Thilo Hagendorff et.al.|[2303.13988v1](http://arxiv.org/abs/2303.13988v1)|null|
 |**2023-03-24**|**Unleasing ChatGPT on the Metaverse: Savior or Destroyer?**|Pengyuan Zhou et.al.|[2303.13856v1](http://arxiv.org/abs/2303.13856v1)|null|
 |**2023-03-24**|**Where to Go Next for Recommender Systems? ID- vs. Modality-based recommender models revisited**|Zheng Yuan et.al.|[2303.13835v1](http://arxiv.org/abs/2303.13835v1)|null|
-|**2023-03-24**|**Natural language processing to automatically extract the presence and severity of esophagitis in notes of patients undergoing radiotherapy**|Shan Chen et.al.|[2303.13722v1](http://arxiv.org/abs/2303.13722v1)|null|
+|**2023-03-24**|**Natural language processing to automatically extract the presence and severity of esophagitis in notes of patients undergoing radiotherapy**|Shan Chen et.al.|[2303.13722v1](http://arxiv.org/abs/2303.13722v1)|**[link](https://github.com/aim-harvard/eso_alpha)**|
 |**2023-03-23**|**Primer: Fast Private Transformer Inference on Encrypted Data**|Mengxin Zheng et.al.|[2303.13679v1](http://arxiv.org/abs/2303.13679v1)|null|
 |**2023-03-23**|**Prompting Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages**|Zheng-Xin Yong et.al.|[2303.13592v1](http://arxiv.org/abs/2303.13592v1)|null|
 |**2023-03-23**|**Return of the RNN: Residual Recurrent Networks for Invertible Sentence Embeddings**|Jeremy Wilkerson et.al.|[2303.13570v1](http://arxiv.org/abs/2303.13570v1)|null|
@@ -214,7 +214,7 @@
 |**2023-02-13**|**Dataset of Natural Language Queries for E-Commerce**|Andrea Papenmeier et.al.|[2302.06355v1](http://arxiv.org/abs/2302.06355v1)|null|
 |**2023-02-12**|**TextDefense: Adversarial Text Detection based on Word Importance Entropy**|Lujia Shen et.al.|[2302.05892v1](http://arxiv.org/abs/2302.05892v1)|null|
 |**2023-02-12**|**"Why is this misleading?": Detecting News Headline Hallucinations with Explanations**|Jiaming Shen et.al.|[2302.05852v1](http://arxiv.org/abs/2302.05852v1)|null|
-|**2023-02-11**|**Sequential Embedding-based Attentive (SEA) classifier for malware classification**|Muhammad Ahmed et.al.|[2302.05728v1](http://arxiv.org/abs/2302.05728v1)|null|
+|**2023-02-11**|**Sequential Embedding-based Attentive (SEA) classifier for malware classification**|Muhammad Ahmed et.al.|[2302.05728v1](http://arxiv.org/abs/2302.05728v1)|**[link](https://github.com/Muhammad4hmed/SEA)**|
 |**2023-02-11**|**Synthesizing Human Gaze Feedback for Improved NLP Performance**|Varun Khurana et.al.|[2302.05721v1](http://arxiv.org/abs/2302.05721v1)|null|
 |**2023-02-11**|**MatKB: Semantic Search for Polycrystalline Materials Synthesis Procedures**|Xianjun Yang et.al.|[2302.05597v1](http://arxiv.org/abs/2302.05597v1)|**[link](https://github.com/xianjun-yang/pcmsp)**|
 |**2023-02-10**|**A Practical Mixed Precision Algorithm for Post-Training Quantization**|Nilesh Prasad Pandey et.al.|[2302.05397v1](http://arxiv.org/abs/2302.05397v1)|null|
@@ -756,10 +756,10 @@
 |**2023-03-21**|**DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset**|Hongbo Wang et.al.|[2303.11141v2](http://arxiv.org/abs/2303.11141v2)|**[link](https://github.com/pku-tangent/docred-fe)**|
 |**2023-03-17**|**Retrieving false claims on Twitter during the Russia-Ukraine conflict**|Valerio La Gatta et.al.|[2303.10121v1](http://arxiv.org/abs/2303.10121v1)|null|
 |**2023-03-15**|**Classification and calibration of affine models driven by independent Lévy processes**|Michał Barski et.al.|[2303.08477v1](http://arxiv.org/abs/2303.08477v1)|null|
-|**2023-03-14**|**BODEGA: Benchmark for Adversarial Example Generation in Credibility Assessment**|Piotr Przybyła et.al.|[2303.08032v1](http://arxiv.org/abs/2303.08032v1)|null|
+|**2023-03-14**|**BODEGA: Benchmark for Adversarial Example Generation in Credibility Assessment**|Piotr Przybyła et.al.|[2303.08032v1](http://arxiv.org/abs/2303.08032v1)|**[link](https://github.com/piotrmp/bodega)**|
 |**2023-03-14**|**Optimizing Deep Learning Model Parameters with the Bees Algorithm for Improved Medical Text Classification**|Mai A. Shaaban et.al.|[2303.08021v1](http://arxiv.org/abs/2303.08021v1)|**[link](https://github.com/mai-cs/ml701-ailmentclassification)**|
 |**2023-03-14**|**Input-length-shortening and text generation via attention values**|Neşet Özkan Tan et.al.|[2303.07585v1](http://arxiv.org/abs/2303.07585v1)|null|
-|**2023-03-13**|**MetaTroll: Few-shot Detection of State-Sponsored Trolls with Transformer Adapters**|Lin Tian et.al.|[2303.07354v1](http://arxiv.org/abs/2303.07354v1)|null|
+|**2023-03-13**|**MetaTroll: Few-shot Detection of State-Sponsored Trolls with Transformer Adapters**|Lin Tian et.al.|[2303.07354v1](http://arxiv.org/abs/2303.07354v1)|**[link](https://github.com/ltian678/metatroll-code)**|
 |**2023-03-13**|**Transformer-based approaches to Sentiment Detection**|Olumide Ebenezer Ojo et.al.|[2303.07292v1](http://arxiv.org/abs/2303.07292v1)|null|
 |**2023-03-13**|**SA-CNN: Application to text categorization issues using simulated annealing-based convolutional neural network optimization**|Zihao Guo et.al.|[2303.07153v1](http://arxiv.org/abs/2303.07153v1)|null|
 |**2023-03-14**|**Large Language Models in the Workplace: A Case Study on Prompt Engineering for Job Type Classification**|Benjamin Clavié et.al.|[2303.07142v2](http://arxiv.org/abs/2303.07142v2)|null|
@@ -1356,7 +1356,7 @@
 |**2022-12-13**|**Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**|Joshua Albrecht et.al.|[2212.06295v1](http://arxiv.org/abs/2212.06295v1)|null|
 |**2022-12-12**|**Prompting Is Programming: A Query Language For Large Language Models**|Luca Beurer-Kellner et.al.|[2212.06094v1](http://arxiv.org/abs/2212.06094v1)|null|
 |**2022-12-16**|**Improving Generalization of Pre-trained Language Models via Stochastic Weight Averaging**|Peng Lu et.al.|[2212.05956v2](http://arxiv.org/abs/2212.05956v2)|null|
-|**2022-12-07**|**Hierarchical multimodal transformers for Multi-Page DocVQA**|Rubèn Tito et.al.|[2212.05935v1](http://arxiv.org/abs/2212.05935v1)|null|
+|**2022-12-07**|**Hierarchical multimodal transformers for Multi-Page DocVQA**|Rubèn Tito et.al.|[2212.05935v1](http://arxiv.org/abs/2212.05935v1)|**[link](https://github.com/rubenpt91/MP-DocVQA-Framework)**|
 |**2022-12-12**|**BigText-QA: Question Answering over a Large-Scale Hybrid Knowledge Graph**|Jingjing Xu et.al.|[2212.05798v1](http://arxiv.org/abs/2212.05798v1)|null|
 |**2023-01-10**|**Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal**|Ke Liang et.al.|[2212.05767v4](http://arxiv.org/abs/2212.05767v4)|**[link](https://github.com/liangke23/awesome-knowledge-graph-reasoning)**|
 |**2022-12-12**|**Momentum Contrastive Pre-training for Question Answering**|Minda Hu et.al.|[2212.05762v1](http://arxiv.org/abs/2212.05762v1)|null|
@@ -2106,13 +2106,13 @@
 |**2023-03-25**|**Spatio-Temporal driven Attention Graph Neural Network with Block Adjacency matrix (STAG-NN-BA)**|U. Nazir et.al.|[2303.14322v1](http://arxiv.org/abs/2303.14322v1)|null|
 |**2023-03-24**|**IMA-GNN: In-Memory Acceleration of Centralized and Decentralized Graph Neural Networks at the Edge**|Mehrdad Morsali et.al.|[2303.14162v1](http://arxiv.org/abs/2303.14162v1)|null|
 |**2023-03-24**|**PoisonedGNN: Backdoor Attack on Graph Neural Networks-based Hardware Security Systems**|Lilas Alrahis et.al.|[2303.14009v1](http://arxiv.org/abs/2303.14009v1)|null|
-|**2023-03-24**|**Gradient scarcity with Bilevel Optimization for Graph Learning**|Hashem Ghanem et.al.|[2303.13964v1](http://arxiv.org/abs/2303.13964v1)|null|
+|**2023-03-24**|**Gradient scarcity with Bilevel Optimization for Graph Learning**|Hashem Ghanem et.al.|[2303.13964v1](http://arxiv.org/abs/2303.13964v1)|**[link](https://github.com/hashemghanem/Gradients_scarcity_graph_learning)**|
 |**2023-03-24**|**Topological Reconstruction of Particle Physics Processes using Graph Neural Networks**|Lukas Ehrke et.al.|[2303.13937v1](http://arxiv.org/abs/2303.13937v1)|null|
 |**2023-03-24**|**Two-level Graph Network for Few-Shot Class-Incremental Learning**|Hao Chen et.al.|[2303.13862v1](http://arxiv.org/abs/2303.13862v1)|null|
 |**2023-03-24**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775v1](http://arxiv.org/abs/2303.13775v1)|null|
 |**2023-03-24**|**A Graph Neural Network Approach to Nanosatellite Task Scheduling: Insights into Learning Mixed-Integer Models**|Bruno Machado Pacheco et.al.|[2303.13773v1](http://arxiv.org/abs/2303.13773v1)|null|
 |**2023-03-24**|**Edge-free but Structure-aware: Prototype-Guided Knowledge Distillation from GNNs to MLPs**|Taiqiang Wu et.al.|[2303.13763v1](http://arxiv.org/abs/2303.13763v1)|null|
-|**2023-03-24**|**LONGNN: Spectral GNNs with Learnable Orthonormal Basis**|Qian Tao et.al.|[2303.13750v1](http://arxiv.org/abs/2303.13750v1)|null|
+|**2023-03-24**|**LONGNN: Spectral GNNs with Learnable Orthonormal Basis**|Qian Tao et.al.|[2303.13750v1](http://arxiv.org/abs/2303.13750v1)|**[link](https://github.com/taolbr1993/lon-gnn)**|
 |**2023-03-23**|**Unbinned Deep Learning Jet Substructure Measurement in High $Q^2$ ep collisions at HERA**|The H1 collaboration et.al.|[2303.13620v1](http://arxiv.org/abs/2303.13620v1)|null|
 |**2023-03-23**|**Stochastic Graph Neural Network-based Value Decomposition for MARL in Internet of Vehicles**|Baidi Xiao et.al.|[2303.13213v1](http://arxiv.org/abs/2303.13213v1)|null|
 |**2023-03-23**|**It is all Connected: A New Graph Formulation for Spatio-Temporal Forecasting**|Lars Ødegaard Bentsen et.al.|[2303.13177v1](http://arxiv.org/abs/2303.13177v1)|null|
@@ -2142,7 +2142,7 @@
 |**2023-03-17**|**High Accurate and Explainable Multi-Pill Detection Framework with Graph Neural Network-Assisted Multimodal Data Fusion**|Anh Duy Nguyen et.al.|[2303.09782v1](http://arxiv.org/abs/2303.09782v1)|null|
 |**2023-03-17**|**SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization**|Dongcheng Zou et.al.|[2303.09778v1](http://arxiv.org/abs/2303.09778v1)|**[link](https://github.com/ringbdstack/se-gsl)**|
 |**2023-03-16**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
-|**2023-03-15**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964v1](http://arxiv.org/abs/2303.08964v1)|null|
+|**2023-03-15**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964v1](http://arxiv.org/abs/2303.08964v1)|**[link](https://github.com/joint-em/cs-tgn)**|
 |**2023-03-15**|**Efficient Planning of Multi-Robot Collective Transport using Graph Reinforcement Learning with Higher Order Topological Abstraction**|Steve Paul et.al.|[2303.08933v1](http://arxiv.org/abs/2303.08933v1)|null|
 |**2023-03-15**|**RGI : Regularized Graph Infomax for self-supervised learning on graphs**|Oscar Pina et.al.|[2303.08644v1](http://arxiv.org/abs/2303.08644v1)|null|
 |**2023-03-15**|**Local Region Perception and Relationship Learning Combined with Feature Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v1](http://arxiv.org/abs/2303.08545v1)|null|
@@ -2188,7 +2188,7 @@
 |**2023-03-04**|**DAG Matters! GFlowNets Enhanced Explainer For Graph Neural Networks**|Wenqian Li et.al.|[2303.02448v1](http://arxiv.org/abs/2303.02448v1)|**[link](https://github.com/flyingdoog/PGExplainer)**|
 |**2023-03-03**|**Denoise Pre-training on Non-equilibrium Molecules for Accurate and Transferable Neural Potentials**|Yuyang Wang et.al.|[2303.02216v1](http://arxiv.org/abs/2303.02216v1)|**[link](https://github.com/yuyangw/denoise-pretrain-ml-potential)**|
 |**2023-03-03**|**Estimating the parameters of epidemic spread on multilayer random graphs: a classical and a neural network approach**|Ágnes Backhausz et.al.|[2303.02195v1](http://arxiv.org/abs/2303.02195v1)|null|
-|**2023-03-03**|**Graph-level representations using ensemble-based readout functions**|Jakub Binkowski et.al.|[2303.02023v1](http://arxiv.org/abs/2303.02023v1)|null|
+|**2023-03-03**|**Graph-level representations using ensemble-based readout functions**|Jakub Binkowski et.al.|[2303.02023v1](http://arxiv.org/abs/2303.02023v1)|**[link](https://github.com/graphml-lab-pwr/ensemble-readouts)**|
 |**2023-03-03**|**Node-Specific Space Selection via Localized Geometric Hyperbolicity in Graph Neural Networks**|See Hian Lee et.al.|[2303.01724v1](http://arxiv.org/abs/2303.01724v1)|null|
 |**2023-03-03**|**Hierarchical Graph Neural Networks for Particle Track Reconstruction**|Ryan Liu et.al.|[2303.01640v1](http://arxiv.org/abs/2303.01640v1)|**[link](https://github.com/ryanliu30/hierarchicalgnn)**|
 |**2023-03-02**|**Technical report: Graph Neural Networks go Grammatical**|Jason Piquenot et.al.|[2303.01590v1](http://arxiv.org/abs/2303.01590v1)|null|
