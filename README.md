@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Changes to Captions: An Attentive Network for Remote Sensing Change Captioning**|Shizhen Chang et.al.|[2304.01091v1](http://arxiv.org/abs/2304.01091v1)|null|
+|**2023-04-03**|**DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains**|Yanis Labrak et.al.|[2304.00958v1](http://arxiv.org/abs/2304.00958v1)|null|
+|**2023-04-03**|**ScandEval: A Benchmark for Scandinavian Natural Language Processing**|Dan Saattrup Nielsen et.al.|[2304.00906v1](http://arxiv.org/abs/2304.00906v1)|null|
+|**2023-04-03**|**GreekBART: The First Pretrained Greek Sequence-to-Sequence Model**|Iakovos Evdaimon et.al.|[2304.00869v1](http://arxiv.org/abs/2304.00869v1)|null|
+|**2023-04-03**|**Exploring the Use of Large Language Models for Reference-Free Text Quality Evaluation: A Preliminary Empirical Study**|Yi Chen et.al.|[2304.00723v1](http://arxiv.org/abs/2304.00723v1)|null|
+|**2023-04-03**|**MiniRBT: A Two-stage Distilled Small Chinese Pre-trained Model**|Xin Yao et.al.|[2304.00717v1](http://arxiv.org/abs/2304.00717v1)|null|
+|**2023-04-03**|**DiffuRec: A Diffusion Model for Sequential Recommendation**|Zihao Li et.al.|[2304.00686v1](http://arxiv.org/abs/2304.00686v1)|null|
+|**2023-04-02**|**Classifying COVID-19 Related Tweets for Fake News Detection and Sentiment Analysis with BERT-based Models**|Rabia Bounaama et.al.|[2304.00636v1](http://arxiv.org/abs/2304.00636v1)|null|
+|**2023-04-02**|**MMT: A Multilingual and Multi-Topic Indian Social Media Dataset**|Dwip Dalal et.al.|[2304.00634v1](http://arxiv.org/abs/2304.00634v1)|null|
+|**2023-04-02**|**Sequence-aware item recommendations for multiply repeated user-item interactions**|Juan Pablo Equihua et.al.|[2304.00578v1](http://arxiv.org/abs/2304.00578v1)|null|
 |**2023-03-31**|**A Closer Look at Parameter-Efficient Tuning in Diffusion Models**|Chendong Xiang et.al.|[2303.18181v1](http://arxiv.org/abs/2303.18181v1)|null|
 |**2023-03-31**|**BERTino: an Italian DistilBERT model**|Matteo Muffo et.al.|[2303.18121v1](http://arxiv.org/abs/2303.18121v1)|**[link](https://github.com/indigo-ai/bertino)**|
 |**2023-03-31**|**Dataset and Baseline System for Multi-lingual Extraction and Normalization of Temporal and Numerical Expressions**|Sanxing Chen et.al.|[2303.18103v1](http://arxiv.org/abs/2303.18103v1)|null|
@@ -594,6 +604,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-02**|**MMT: A Multilingual and Multi-Topic Indian Social Media Dataset**|Dwip Dalal et.al.|[2304.00634v1](http://arxiv.org/abs/2304.00634v1)|null|
 |**2023-03-30**|**Task Oriented Conversational Modelling With Subjective Knowledge**|Raja Kumar et.al.|[2303.17695v1](http://arxiv.org/abs/2303.17695v1)|**[link](https://github.com/raja-kumar/knowledge-grounded-tods)**|
 |**2023-03-30**|**BloombergGPT: A Large Language Model for Finance**|Shijie Wu et.al.|[2303.17564v1](http://arxiv.org/abs/2303.17564v1)|null|
 |**2023-03-30**|**Yes but.. Can ChatGPT Identify Entities in Historical Documents?**|Carlos-Emiliano González-Gallardo et.al.|[2303.17322v1](http://arxiv.org/abs/2303.17322v1)|null|
@@ -748,6 +759,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**GreekBART: The First Pretrained Greek Sequence-to-Sequence Model**|Iakovos Evdaimon et.al.|[2304.00869v1](http://arxiv.org/abs/2304.00869v1)|null|
+|**2023-04-03**|**MiniRBT: A Two-stage Distilled Small Chinese Pre-trained Model**|Xin Yao et.al.|[2304.00717v1](http://arxiv.org/abs/2304.00717v1)|null|
 |**2023-03-31**|**A Multiple Choices Reading Comprehension Corpus for Vietnamese Language Education**|Son T. Luu et.al.|[2303.18162v1](http://arxiv.org/abs/2303.18162v1)|null|
 |**2023-03-31**|**Neural Network Entropy (NNetEn): EEG Signals and Chaotic Time Series Separation by Entropy Features, Python Package for NNetEn Calculation**|Andrei Velichko et.al.|[2303.17995v1](http://arxiv.org/abs/2303.17995v1)|null|
 |**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
@@ -962,6 +975,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-02**|**Classifying COVID-19 Related Tweets for Fake News Detection and Sentiment Analysis with BERT-based Models**|Rabia Bounaama et.al.|[2304.00636v1](http://arxiv.org/abs/2304.00636v1)|null|
+|**2023-04-02**|**Words that Wound: The Impact of Biased Language on News Sentiment and Stock Market Index**|Wonseong Kim et.al.|[2304.00468v1](http://arxiv.org/abs/2304.00468v1)|null|
+|**2023-04-01**|**When Crowd Meets Persona: Creating a Large-Scale Open-Domain Persona Dialogue Corpus**|Won Ik Cho et.al.|[2304.00350v1](http://arxiv.org/abs/2304.00350v1)|null|
 |**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
 |**2023-03-30**|**Taureau: A Stock Market Movement Inference Framework Based on Twitter Sentiment Analysis**|Nicholas Milikich et.al.|[2303.17667v1](http://arxiv.org/abs/2303.17667v1)|null|
 |**2023-03-30**|**BloombergGPT: A Large Language Model for Finance**|Shijie Wu et.al.|[2303.17564v1](http://arxiv.org/abs/2303.17564v1)|null|
@@ -1125,10 +1141,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**ScandEval: A Benchmark for Scandinavian Natural Language Processing**|Dan Saattrup Nielsen et.al.|[2304.00906v1](http://arxiv.org/abs/2304.00906v1)|null|
+|**2023-04-02**|**Instance-level Trojan Attacks on Visual Question Answering via Adversarial Learning in Neuron Activation Space**|Yuwei Sun et.al.|[2304.00436v1](http://arxiv.org/abs/2304.00436v1)|null|
+|**2023-04-01**|**When Crowd Meets Persona: Creating a Large-Scale Open-Domain Persona Dialogue Corpus**|Won Ik Cho et.al.|[2304.00350v1](http://arxiv.org/abs/2304.00350v1)|null|
 |**2023-03-31**|**UKP-SQuARE v3: A Platform for Multi-Agent QA Research**|Haritz Puerto et.al.|[2303.18120v1](http://arxiv.org/abs/2303.18120v1)|null|
 |**2023-03-31**|**WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset**|Tiago Ribeiro et.al.|[2303.17876v1](http://arxiv.org/abs/2303.17876v1)|null|
 |**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
-|**2023-03-30**|**Aligning a medium-size GPT model in English to a small closed domain in Spanish using reinforcement learning**|Oscar R. Navarrete-Parra et.al.|[2303.17649v1](http://arxiv.org/abs/2303.17649v1)|null|
+|**2023-04-03**|**Aligning a medium-size GPT model in English to a small closed domain in Spanish using reinforcement learning**|Oscar R. Navarrete-Parra et.al.|[2303.17649v2](http://arxiv.org/abs/2303.17649v2)|null|
 |**2023-03-30**|**oBERTa: Improving Sparse Transfer Learning via improved initialization, distillation, and pruning regimes**|Daniel Campos et.al.|[2303.17612v1](http://arxiv.org/abs/2303.17612v1)|null|
 |**2023-03-30**|**BloombergGPT: A Large Language Model for Finance**|Shijie Wu et.al.|[2303.17564v1](http://arxiv.org/abs/2303.17564v1)|null|
 |**2023-03-30**|**A Study of Autoregressive Decoders for Multi-Tasking in Computer Vision**|Lucas Beyer et.al.|[2303.17376v1](http://arxiv.org/abs/2303.17376v1)|null|
@@ -1408,11 +1427,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Load Balancing with Job-Size Testing: Performance Improvement or Degradation?**|Jonatha Anselmi et.al.|[2304.00899v1](http://arxiv.org/abs/2304.00899v1)|null|
+|**2023-04-02**|**Querying Large Language Models with SQL**|Mohammed Saeed et.al.|[2304.00472v1](http://arxiv.org/abs/2304.00472v1)|null|
+|**2023-03-31**|**The Environments around W Serpentis Systems: Independent Limits on System Masses and Extended Envelopes**|T. J. Davidge et.al.|[2304.00080v1](http://arxiv.org/abs/2304.00080v1)|null|
 |**2023-03-29**|**T-FFTRadNet: Object Detection with Swin Vision Transformers from Raw ADC Radar Signals**|James Giroux et.al.|[2303.16940v1](http://arxiv.org/abs/2303.16940v1)|null|
 |**2023-03-23**|**Judicial Intelligent Assistant System: Extracting Events from Divorce Cases to Detect Disputes for the Judge**|Yuan Zhang et.al.|[2303.16751v1](http://arxiv.org/abs/2303.16751v1)|null|
 |**2023-03-25**|**Embedding Contextual Information through Reward Shaping in Multi-Agent Learning: A Case Study from Google Football**|Chaoyi Gu et.al.|[2303.15471v1](http://arxiv.org/abs/2303.15471v1)|null|
 |**2023-03-27**|**Temporal Alignment of Human Motion Data: A Geometric Point of View**|Alice Barbara Tumpach et.al.|[2303.15259v1](http://arxiv.org/abs/2303.15259v1)|null|
-|**2023-03-27**|**An Information Extraction Study: Take In Mind the Tokenization!**|Christos Theodoropoulos et.al.|[2303.15100v1](http://arxiv.org/abs/2303.15100v1)|**[link](https://github.com/christos42/inductive_bias_IE)**|
+|**2023-04-01**|**An Information Extraction Study: Take In Mind the Tokenization!**|Christos Theodoropoulos et.al.|[2303.15100v2](http://arxiv.org/abs/2303.15100v2)|**[link](https://github.com/christos42/inductive_bias_IE)**|
 |**2023-03-27**|**A novel Multi to Single Module for small object detection**|Xiaohui Guo et.al.|[2303.14977v1](http://arxiv.org/abs/2303.14977v1)|null|
 |**2023-03-30**|**Unified Text Structuralization with Instruction-tuned Language Models**|Xuanfan Ni et.al.|[2303.14956v2](http://arxiv.org/abs/2303.14956v2)|null|
 |**2023-03-27**|**Mutually-paced Knowledge Distillation for Cross-lingual Temporal Knowledge Graph Reasoning**|Ruijie Wang et.al.|[2303.14898v1](http://arxiv.org/abs/2303.14898v1)|null|
@@ -1589,6 +1611,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Is More Always Better? The Effects of Personal Characteristics and Level of Detail on the Perception of Explanations in a Recommender System**|Mohamed Amine Chatti et.al.|[2304.00969v1](http://arxiv.org/abs/2304.00969v1)|null|
+|**2023-04-02**|**Sequence-aware item recommendations for multiply repeated user-item interactions**|Juan Pablo Equihua et.al.|[2304.00578v1](http://arxiv.org/abs/2304.00578v1)|null|
+|**2023-04-02**|**Risk-Sensitive and Robust Model-Based Reinforcement Learning and Planning**|Marc Rigter et.al.|[2304.00573v1](http://arxiv.org/abs/2304.00573v1)|null|
+|**2023-04-01**|**Fair-CDA: Continuous and Directional Augmentation for Group Fairness**|Rui Sun et.al.|[2304.00295v1](http://arxiv.org/abs/2304.00295v1)|null|
 |**2023-03-30**|**Masked and Adaptive Transformer for Exemplar Based Image Translation**|Chang Jiang et.al.|[2303.17123v1](http://arxiv.org/abs/2303.17123v1)|**[link](https://github.com/aiart-hdu/matebit)**|
 |**2023-03-28**|**Causal Disentangled Recommendation Against User Preference Shifts**|Wenjie Wang et.al.|[2303.16068v1](http://arxiv.org/abs/2303.16068v1)|**[link](https://github.com/linxyhaha/cdr)**|
 |**2023-03-28**|**Item Graph Convolution Collaborative Filtering for Inductive Recommendations**|Edoardo D'Amico et.al.|[2303.15946v1](http://arxiv.org/abs/2303.15946v1)|**[link](https://github.com/damicoedoardo/igccf)**|
@@ -1861,6 +1887,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-02**|**Improving Few-Shot Inductive Learning on Temporal Knowledge Graphs using Confidence-Augmented Reinforcement Learning**|Zifeng Ding et.al.|[2304.00613v1](http://arxiv.org/abs/2304.00613v1)|null|
+|**2023-04-02**|**PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model**|Cheng Deng et.al.|[2304.00592v1](http://arxiv.org/abs/2304.00592v1)|**[link](https://github.com/iiot-tbb/dialogue_dde)**|
+|**2023-04-01**|**Knowledge Graph Embedding with 3D Compound Geometric Transformations**|Xiou Ge et.al.|[2304.00378v1](http://arxiv.org/abs/2304.00378v1)|null|
+|**2023-04-01**|**Company Competition Graph**|Yanci Zhang et.al.|[2304.00323v1](http://arxiv.org/abs/2304.00323v1)|null|
+|**2023-04-01**|**Inductive Relation Prediction from Relational Paths and Context with Hierarchical Transformers**|Jiaang Li et.al.|[2304.00215v1](http://arxiv.org/abs/2304.00215v1)|null|
+|**2023-04-01**|**Leveraging Neo4j and deep learning for traffic congestion simulation & optimization**|Shyam Pratap Singh et.al.|[2304.00192v1](http://arxiv.org/abs/2304.00192v1)|null|
 |**2023-03-31**|**Procedure-Aware Pretraining for Instructional Video Understanding**|Honglu Zhou et.al.|[2303.18230v1](http://arxiv.org/abs/2303.18230v1)|**[link](https://github.com/salesforce/paprika)**|
 |**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537v1](http://arxiv.org/abs/2303.16537v1)|null|
 |**2023-03-29**|**Building a Knowledge Graph of Distributed Ledger Technologies**|Lukas König et.al.|[2303.16528v1](http://arxiv.org/abs/2303.16528v1)|null|
@@ -2100,6 +2132,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**FMGNN: Fused Manifold Graph Neural Network**|Cheng Deng et.al.|[2304.01081v1](http://arxiv.org/abs/2304.01081v1)|null|
+|**2023-04-03**|**Uncertainty Propagation in Node Classification**|Zhao Xu et.al.|[2304.00918v1](http://arxiv.org/abs/2304.00918v1)|null|
+|**2023-04-03**|**Swarm Reinforcement Learning For Adaptive Mesh Refinement**|Niklas Freymuth et.al.|[2304.00818v1](http://arxiv.org/abs/2304.00818v1)|null|
+|**2023-04-03**|**A Post-Training Framework for Improving Heterogeneous Graph Neural Networks**|Cheng Yang et.al.|[2304.00698v1](http://arxiv.org/abs/2304.00698v1)|null|
+|**2023-04-02**|**Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks**|Arindam Chowdhury et.al.|[2304.00446v1](http://arxiv.org/abs/2304.00446v1)|null|
+|**2023-04-01**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409v1](http://arxiv.org/abs/2304.00409v1)|null|
+|**2023-04-01**|**Scientific Computing Algorithms to Learn Enhanced Scalable Surrogates for Mesh Physics**|Brian R. Bartoldson et.al.|[2304.00338v1](http://arxiv.org/abs/2304.00338v1)|null|
+|**2023-03-31**|**E( $3$ ) Equivariant Graph Neural Networks for Particle-Based Fluid Mechanics**|Artur P. Toshev et.al.|[2304.00150v1](http://arxiv.org/abs/2304.00150v1)|null|
+|**2023-03-31**|**On the Relationships between Graph Neural Networks for the Simulation of Physical Systems and Classical Numerical Methods**|Artur P. Toshev et.al.|[2304.00146v1](http://arxiv.org/abs/2304.00146v1)|null|
 |**2023-03-31**|**MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering**|Guillermo Bernárdez et.al.|[2303.18157v1](http://arxiv.org/abs/2303.18157v1)|null|
 |**2023-03-31**|**Semi-Weakly Supervised Object Kinematic Motion Prediction**|Gengxin Liu et.al.|[2303.17774v1](http://arxiv.org/abs/2303.17774v1)|null|
 |**2023-03-31**|**MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Analysis**|Mohammad Khodadad et.al.|[2303.17748v1](http://arxiv.org/abs/2303.17748v1)|null|
