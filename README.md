@@ -21,6 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**ParroT: Translating During Chat Using Large Language Models**|Wenxiang Jiao et.al.|[2304.02426v1](http://arxiv.org/abs/2304.02426v1)|null|
+|**2023-04-05**|**Machine Learning of Public Sentiments toward Wind Energy in Norway**|Oskar Vågerö et.al.|[2304.02388v1](http://arxiv.org/abs/2304.02388v1)|null|
+|**2023-04-05**|**Document-Level Machine Translation with Large Language Models**|Longyue Wang et.al.|[2304.02210v1](http://arxiv.org/abs/2304.02210v1)|null|
+|**2023-04-05**|**Unleashing the Power of ChatGPT for Translation: An Empirical Study**|Yuan Gao et.al.|[2304.02182v1](http://arxiv.org/abs/2304.02182v1)|null|
 |**2023-04-04**|**PromptAid: Prompt Exploration, Perturbation, Testing and Iteration using Visual Analytics for Large Language Models**|Aditi Mishra et.al.|[2304.01964v1](http://arxiv.org/abs/2304.01964v1)|null|
 |**2023-04-04**|**Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models**|Yiheng Liu et.al.|[2304.01852v1](http://arxiv.org/abs/2304.01852v1)|null|
 |**2023-04-04**|**Is ChatGPT a Highly Fluent Grammatical Error Correction System? A Comprehensive Evaluation**|Tao Fang et.al.|[2304.01746v1](http://arxiv.org/abs/2304.01746v1)|null|
@@ -614,6 +618,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Enhancing Multimodal Entity and Relation Extraction with Variational Information Bottleneck**|Shiyao Cui et.al.|[2304.02328v1](http://arxiv.org/abs/2304.02328v1)|null|
 |**2023-04-03**|**End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies**|Xuguang Ai et.al.|[2304.01344v1](http://arxiv.org/abs/2304.01344v1)|null|
 |**2023-04-02**|**MMT: A Multilingual and Multi-Topic Indian Social Media Dataset**|Dwip Dalal et.al.|[2304.00634v1](http://arxiv.org/abs/2304.00634v1)|null|
 |**2023-03-30**|**Task Oriented Conversational Modelling With Subjective Knowledge**|Raja Kumar et.al.|[2303.17695v1](http://arxiv.org/abs/2303.17695v1)|**[link](https://github.com/raja-kumar/knowledge-grounded-tods)**|
@@ -1158,6 +1163,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification**|Shan Chen et.al.|[2304.02496v1](http://arxiv.org/abs/2304.02496v1)|**[link](https://github.com/shan23chen/healthllm_eval)**|
+|**2023-04-05**|**Ericson: An Interactive Open-Domain Conversational Search Agent**|Zihao Wang et.al.|[2304.02233v1](http://arxiv.org/abs/2304.02233v1)|null|
+|**2023-04-05**|**A Diffusion-based Method for Multi-turn Compositional Image Generation**|Chao Wang et.al.|[2304.02192v1](http://arxiv.org/abs/2304.02192v1)|null|
+|**2023-04-04**|**I2I: Initializing Adapters with Improvised Knowledge**|Tejas Srinivasan et.al.|[2304.02168v1](http://arxiv.org/abs/2304.02168v1)|null|
 |**2023-04-04**|**SC-ML: Self-supervised Counterfactual Metric Learning for Debiased Visual Question Answering**|Xinyao Shu et.al.|[2304.01647v1](http://arxiv.org/abs/2304.01647v1)|null|
 |**2023-04-04**|**Q2ATransformer: Improving Medical VQA via an Answer Querying Decoder**|Yunyi Liu et.al.|[2304.01611v1](http://arxiv.org/abs/2304.01611v1)|null|
 |**2023-04-04**|**Locate Then Generate: Bridging Vision and Language with Bounding Box for Scene-Text VQA**|Yongxin Zhu et.al.|[2304.01603v1](http://arxiv.org/abs/2304.01603v1)|null|
@@ -1449,8 +1458,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT**|Tong Xie et.al.|[2304.02213v1](http://arxiv.org/abs/2304.02213v1)|null|
 |**2023-04-04**|**EDeR: A Dataset for Exploring Dependency Relations Between Events**|Ruiqi Li et.al.|[2304.01612v1](http://arxiv.org/abs/2304.01612v1)|null|
-|**2023-04-04**|**Form-NLU: Dataset for the Form Language Understanding**|Yihao Ding et.al.|[2304.01577v1](http://arxiv.org/abs/2304.01577v1)|**[link](https://github.com/adlnlp/form_nlu)**|
+|**2023-04-05**|**Form-NLU: Dataset for the Form Language Understanding**|Yihao Ding et.al.|[2304.01577v2](http://arxiv.org/abs/2304.01577v2)|**[link](https://github.com/adlnlp/form_nlu)**|
 |**2023-04-03**|**End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies**|Xuguang Ai et.al.|[2304.01344v1](http://arxiv.org/abs/2304.01344v1)|null|
 |**2023-04-03**|**Load Balancing with Job-Size Testing: Performance Improvement or Degradation?**|Jonatha Anselmi et.al.|[2304.00899v1](http://arxiv.org/abs/2304.00899v1)|null|
 |**2023-04-02**|**Querying Large Language Models with SQL**|Mohammed Saeed et.al.|[2304.00472v1](http://arxiv.org/abs/2304.00472v1)|null|
@@ -1636,6 +1646,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Optimism Based Exploration in Large-Scale Recommender Systems**|Hongbo Guo et.al.|[2304.02572v1](http://arxiv.org/abs/2304.02572v1)|null|
+|**2023-04-05**|**A dynamic Bayesian optimized active recommender system for curiosity-driven Human-in-the-loop automated experiments**|Arpan Biswas et.al.|[2304.02484v1](http://arxiv.org/abs/2304.02484v1)|**[link](https://github.com/arpanbiswas52/vartbo)**|
+|**2023-04-05**|**Unfolded Self-Reconstruction LSH: Towards Machine Unlearning in Approximate Nearest Neighbour Search**|Kim Yong Tan et.al.|[2304.02350v1](http://arxiv.org/abs/2304.02350v1)|null|
 |**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin et.al.|[2304.02009v1](http://arxiv.org/abs/2304.02009v1)|null|
 |**2023-04-03**|**Is More Always Better? The Effects of Personal Characteristics and Level of Detail on the Perception of Explanations in a Recommender System**|Mohamed Amine Chatti et.al.|[2304.00969v1](http://arxiv.org/abs/2304.00969v1)|null|
 |**2023-04-02**|**Sequence-aware item recommendations for multiply repeated user-item interactions**|Juan Pablo Equihua et.al.|[2304.00578v1](http://arxiv.org/abs/2304.00578v1)|null|
@@ -2162,6 +2175,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Rethinking the Trigger-injecting Position in Graph Backdoor Attack**|Jing Xu et.al.|[2304.02277v1](http://arxiv.org/abs/2304.02277v1)|null|
 |**2023-04-04**|**GlueStick: Robust Image Matching by Sticking Points and Lines Together**|Rémi Pautrat et.al.|[2304.02008v1](http://arxiv.org/abs/2304.02008v1)|**[link](https://github.com/cvg/gluestick)**|
 |**2023-04-04**|**Quantum algorithms for charged particle track reconstruction in the LUXE experiment**|Arianna Crippa et.al.|[2304.01690v1](http://arxiv.org/abs/2304.01690v1)|null|
 |**2023-04-04**|**The expressive power of pooling in Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2304.01575v1](http://arxiv.org/abs/2304.01575v1)|null|
