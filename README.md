@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Locate: Low-Power Viterbi Decoder Exploration using Approximate Adders**|Rajat Bhattacharjya et.al.|[2304.03257v1](http://arxiv.org/abs/2304.03257v1)|null|
+|**2023-04-06**|**Bridging the Language Gap: Knowledge Injected Multilingual Question Answering**|Zhichao Duan et.al.|[2304.03159v1](http://arxiv.org/abs/2304.03159v1)|null|
+|**2023-04-06**|**Zero-Shot Next-Item Recommendation using Large Pretrained Language Models**|Lei Wang et.al.|[2304.03153v1](http://arxiv.org/abs/2304.03153v1)|null|
+|**2023-04-06**|**BotTriNet: A Unified and Efficient Embedding for Social Bots Detection via Metric Learning**|Jun Wu et.al.|[2304.03144v1](http://arxiv.org/abs/2304.03144v1)|null|
+|**2023-04-06**|**Static Fuzzy Bag-of-Words: a lightweight sentence embedding algorithm**|Matteo Muffo et.al.|[2304.03098v1](http://arxiv.org/abs/2304.03098v1)|null|
+|**2023-04-06**|**PointCAT: Cross-Attention Transformer for point cloud**|Xincheng Yang et.al.|[2304.03012v1](http://arxiv.org/abs/2304.03012v1)|null|
+|**2023-04-06**|**Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions**|Chen Feng Tsai et.al.|[2304.02868v1](http://arxiv.org/abs/2304.02868v1)|null|
+|**2023-04-06**|**Opportunities and challenges of ChatGPT for design knowledge management**|Xin Hu et.al.|[2304.02796v1](http://arxiv.org/abs/2304.02796v1)|null|
+|**2023-04-05**|**Application of Transformers based methods in Electronic Medical Records: A Systematic Literature Review**|Vitor Alcantara Batista et.al.|[2304.02768v1](http://arxiv.org/abs/2304.02768v1)|null|
+|**2023-04-05**|**The Saudi Privacy Policy Dataset**|Hend Al-Khalifa et.al.|[2304.02757v1](http://arxiv.org/abs/2304.02757v1)|**[link](https://github.com/iwan-rg/saudi_privacy_policy)**|
 |**2023-04-06**|**ParroT: Translating During Chat Using Large Language Models**|Wenxiang Jiao et.al.|[2304.02426v2](http://arxiv.org/abs/2304.02426v2)|**[link](https://github.com/wxjiao/parrot)**|
 |**2023-04-05**|**Machine Learning of Public Sentiments toward Wind Energy in Norway**|Oskar Vågerö et.al.|[2304.02388v1](http://arxiv.org/abs/2304.02388v1)|null|
 |**2023-04-05**|**Document-Level Machine Translation with Large Language Models**|Longyue Wang et.al.|[2304.02210v1](http://arxiv.org/abs/2304.02210v1)|null|
@@ -775,6 +785,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Performance of Data Augmentation Methods for Brazilian Portuguese Text Classification**|Marcellus Amadeus et.al.|[2304.02785v1](http://arxiv.org/abs/2304.02785v1)|null|
 |**2023-04-04**|**MEGClass: Text Classification with Extremely Weak Supervision via Mutually-Enhancing Text Granularities**|Priyanka Kargupta et.al.|[2304.01969v1](http://arxiv.org/abs/2304.01969v1)|**[link](https://github.com/pkargupta/MEGClass)**|
 |**2023-04-04**|**Multidimensional Perceptron for Efficient and Explainable Long Text Classification**|Yexiang Wang et.al.|[2304.01638v1](http://arxiv.org/abs/2304.01638v1)|null|
 |**2023-04-04**|**Unsupervised Improvement of Factual Knowledge in Language Models**|Nafis Sadeq et.al.|[2304.01597v1](http://arxiv.org/abs/2304.01597v1)|**[link](https://github.com/intuit/wmlm)**|
@@ -995,6 +1006,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**Sejarah dan Perkembangan Teknik Natural Language Processing (NLP) Bahasa Indonesia: Tinjauan tentang sejarah, perkembangan teknologi, dan aplikasi NLP dalam bahasa Indonesia**|Mukhlis Amien et.al.|[2304.02746v1](http://arxiv.org/abs/2304.02746v1)|null|
 |**2023-04-04**|**Unsupervised Improvement of Factual Knowledge in Language Models**|Nafis Sadeq et.al.|[2304.01597v1](http://arxiv.org/abs/2304.01597v1)|**[link](https://github.com/intuit/wmlm)**|
 |**2023-04-04**|**Polarity based Sarcasm Detection using Semigraph**|Swapnil Mane et.al.|[2304.01424v1](http://arxiv.org/abs/2304.01424v1)|null|
 |**2023-04-02**|**Classifying COVID-19 Related Tweets for Fake News Detection and Sentiment Analysis with BERT-based Models**|Rabia Bounaama et.al.|[2304.00636v1](http://arxiv.org/abs/2304.00636v1)|null|
@@ -1163,6 +1175,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Bridging the Language Gap: Knowledge Injected Multilingual Question Answering**|Zhichao Duan et.al.|[2304.03159v1](http://arxiv.org/abs/2304.03159v1)|null|
+|**2023-04-06**|**Improving Visual Question Answering Models through Robustness Analysis and In-Context Learning with a Chain of Basic Questions**|Jia-Hong Huang et.al.|[2304.03147v1](http://arxiv.org/abs/2304.03147v1)|null|
+|**2023-04-06**|**Evaluating the Robustness of Machine Reading Comprehension Models to Low Resource Entity Renaming**|Clemencia Siro et.al.|[2304.03145v1](http://arxiv.org/abs/2304.03145v1)|null|
+|**2023-04-06**|**Revisiting Dense Retrieval with Unanswerable Counterfactuals**|Yongho Song et.al.|[2304.03031v1](http://arxiv.org/abs/2304.03031v1)|null|
+|**2023-04-05**|**Adopting Two Supervisors for Efficient Use of Large-Scale Remote Deep Neural Networks**|Michael Weiss et.al.|[2304.02654v1](http://arxiv.org/abs/2304.02654v1)|**[link](https://github.com/testingautomated-usi/bisupervised)**|
 |**2023-04-05**|**Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification**|Shan Chen et.al.|[2304.02496v1](http://arxiv.org/abs/2304.02496v1)|**[link](https://github.com/shan23chen/healthllm_eval)**|
 |**2023-04-05**|**Ericson: An Interactive Open-Domain Conversational Search Agent**|Zihao Wang et.al.|[2304.02233v1](http://arxiv.org/abs/2304.02233v1)|null|
 |**2023-04-05**|**A Diffusion-based Method for Multi-turn Compositional Image Generation**|Chao Wang et.al.|[2304.02192v1](http://arxiv.org/abs/2304.02192v1)|null|
@@ -1458,7 +1475,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-05**|**Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT**|Tong Xie et.al.|[2304.02213v1](http://arxiv.org/abs/2304.02213v1)|null|
+|**2023-04-06**|**A Fast and Lightweight Network for Low-Light Image Enhancement**|Yu Zhang et.al.|[2304.02978v1](http://arxiv.org/abs/2304.02978v1)|**[link](https://github.com/hitzhangyu/FLW-Net)**|
+|**2023-04-06**|**SpanRE: Entities and Overlapping Relations Extraction Based on Spans and Entity Attention**|Hao Zhang et.al.|[2304.02901v1](http://arxiv.org/abs/2304.02901v1)|null|
+|**2023-04-06**|**Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT**|Tong Xie et.al.|[2304.02213v2](http://arxiv.org/abs/2304.02213v2)|null|
 |**2023-04-04**|**EDeR: A Dataset for Exploring Dependency Relations Between Events**|Ruiqi Li et.al.|[2304.01612v1](http://arxiv.org/abs/2304.01612v1)|**[link](https://github.com/richielee93/eder)**|
 |**2023-04-05**|**Form-NLU: Dataset for the Form Language Understanding**|Yihao Ding et.al.|[2304.01577v2](http://arxiv.org/abs/2304.01577v2)|**[link](https://github.com/adlnlp/form_nlu)**|
 |**2023-04-03**|**End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies**|Xuguang Ai et.al.|[2304.01344v1](http://arxiv.org/abs/2304.01344v1)|null|
@@ -1646,6 +1665,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215v1](http://arxiv.org/abs/2304.03215v1)|null|
+|**2023-04-06**|**Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures**|Wei Yuan et.al.|[2304.03054v1](http://arxiv.org/abs/2304.03054v1)|null|
+|**2023-04-06**|**Data Processing with FPGAs on Modern Architectures**|Wenqi Jiang et.al.|[2304.03044v1](http://arxiv.org/abs/2304.03044v1)|null|
+|**2023-04-06**|**TagGPT: Large Language Models are Zero-shot Multimodal Taggers**|Chen Li et.al.|[2304.03022v1](http://arxiv.org/abs/2304.03022v1)|null|
 |**2023-04-05**|**Optimism Based Exploration in Large-Scale Recommender Systems**|Hongbo Guo et.al.|[2304.02572v1](http://arxiv.org/abs/2304.02572v1)|null|
 |**2023-04-05**|**A dynamic Bayesian optimized active recommender system for curiosity-driven Human-in-the-loop automated experiments**|Arpan Biswas et.al.|[2304.02484v1](http://arxiv.org/abs/2304.02484v1)|**[link](https://github.com/arpanbiswas52/vartbo)**|
 |**2023-04-06**|**Unfolded Self-Reconstruction LSH: Towards Machine Unlearning in Approximate Nearest Neighbour Search**|Kim Yong Tan et.al.|[2304.02350v2](http://arxiv.org/abs/2304.02350v2)|null|
@@ -1926,6 +1949,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932v1](http://arxiv.org/abs/2304.02932v1)|null|
 |**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926v1](http://arxiv.org/abs/2304.01926v1)|null|
 |**2023-04-04**|**Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment**|Qian Li et.al.|[2304.01563v1](http://arxiv.org/abs/2304.01563v1)|null|
 |**2023-04-06**|**Characterizing the Users, Challenges, and Visualization Needs of Knowledge Graphs in Practice**|Harry Li et.al.|[2304.01311v2](http://arxiv.org/abs/2304.01311v2)|null|
@@ -2175,6 +2199,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215v1](http://arxiv.org/abs/2304.03215v1)|null|
+|**2023-04-06**|**Graph Mixture of Experts: Learning on Large-Scale Graphs with Explicit Diversity Modeling**|Haotao Wang et.al.|[2304.02806v1](http://arxiv.org/abs/2304.02806v1)|**[link](https://github.com/vita-group/graph-mixture-of-experts)**|
 |**2023-04-05**|**Rethinking the Trigger-injecting Position in Graph Backdoor Attack**|Jing Xu et.al.|[2304.02277v1](http://arxiv.org/abs/2304.02277v1)|null|
 |**2023-04-04**|**GlueStick: Robust Image Matching by Sticking Points and Lines Together**|Rémi Pautrat et.al.|[2304.02008v1](http://arxiv.org/abs/2304.02008v1)|**[link](https://github.com/cvg/gluestick)**|
 |**2023-04-04**|**Quantum algorithms for charged particle track reconstruction in the LUXE experiment**|Arianna Crippa et.al.|[2304.01690v1](http://arxiv.org/abs/2304.01690v1)|null|
