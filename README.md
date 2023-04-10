@@ -41,16 +41,16 @@
 |**2023-04-04**|**Rumour Detection and Analysis on Twitter**|Yaohou Fan et.al.|[2304.01712v1](http://arxiv.org/abs/2304.01712v1)|null|
 |**2023-04-04**|**A Survey on Contextualised Semantic Shift Detection**|Stefano Montanelli et.al.|[2304.01666v1](http://arxiv.org/abs/2304.01666v1)|null|
 |**2023-04-04**|**Neural Comprehension: Language Models with Compiled Neural Networks**|Yixuan Weng et.al.|[2304.01665v1](http://arxiv.org/abs/2304.01665v1)|**[link](https://github.com/wengsyx/neural-comprehension)**|
-|**2023-04-04**|**EDeR: A Dataset for Exploring Dependency Relations Between Events**|Ruiqi Li et.al.|[2304.01612v1](http://arxiv.org/abs/2304.01612v1)|null|
+|**2023-04-04**|**EDeR: A Dataset for Exploring Dependency Relations Between Events**|Ruiqi Li et.al.|[2304.01612v1](http://arxiv.org/abs/2304.01612v1)|**[link](https://github.com/richielee93/eder)**|
 |**2023-04-04**|**G2PTL: A Pre-trained Model for Delivery Address and its Applications in Logistics System**|Lixia Wu et.al.|[2304.01559v1](http://arxiv.org/abs/2304.01559v1)|null|
 |**2023-04-04**|**RARE: Robust Masked Graph Autoencoder**|Wenxuan Tu et.al.|[2304.01507v1](http://arxiv.org/abs/2304.01507v1)|null|
 |**2023-04-04**|**Unsupervised Brain Tumor Segmentation with Image-based Prompts**|Xinru Zhang et.al.|[2304.01472v1](http://arxiv.org/abs/2304.01472v1)|null|
-|**2023-04-03**|**Changes to Captions: An Attentive Network for Remote Sensing Change Captioning**|Shizhen Chang et.al.|[2304.01091v1](http://arxiv.org/abs/2304.01091v1)|null|
+|**2023-04-03**|**Changes to Captions: An Attentive Network for Remote Sensing Change Captioning**|Shizhen Chang et.al.|[2304.01091v1](http://arxiv.org/abs/2304.01091v1)|**[link](https://github.com/shizhenchang/chg2cap)**|
 |**2023-04-03**|**DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains**|Yanis Labrak et.al.|[2304.00958v1](http://arxiv.org/abs/2304.00958v1)|null|
-|**2023-04-03**|**ScandEval: A Benchmark for Scandinavian Natural Language Processing**|Dan Saattrup Nielsen et.al.|[2304.00906v1](http://arxiv.org/abs/2304.00906v1)|null|
-|**2023-04-03**|**GreekBART: The First Pretrained Greek Sequence-to-Sequence Model**|Iakovos Evdaimon et.al.|[2304.00869v1](http://arxiv.org/abs/2304.00869v1)|null|
+|**2023-04-03**|**ScandEval: A Benchmark for Scandinavian Natural Language Processing**|Dan Saattrup Nielsen et.al.|[2304.00906v1](http://arxiv.org/abs/2304.00906v1)|**[link](https://github.com/scandeval/scandeval.github.io)**|
+|**2023-04-03**|**GreekBART: The First Pretrained Greek Sequence-to-Sequence Model**|Iakovos Evdaimon et.al.|[2304.00869v1](http://arxiv.org/abs/2304.00869v1)|**[link](https://github.com/iakovosevdaimon/greekbart)**|
 |**2023-04-03**|**Exploring the Use of Large Language Models for Reference-Free Text Quality Evaluation: A Preliminary Empirical Study**|Yi Chen et.al.|[2304.00723v1](http://arxiv.org/abs/2304.00723v1)|null|
-|**2023-04-03**|**MiniRBT: A Two-stage Distilled Small Chinese Pre-trained Model**|Xin Yao et.al.|[2304.00717v1](http://arxiv.org/abs/2304.00717v1)|null|
+|**2023-04-03**|**MiniRBT: A Two-stage Distilled Small Chinese Pre-trained Model**|Xin Yao et.al.|[2304.00717v1](http://arxiv.org/abs/2304.00717v1)|**[link](https://github.com/iflytek/minirbt)**|
 |**2023-04-03**|**DiffuRec: A Diffusion Model for Sequential Recommendation**|Zihao Li et.al.|[2304.00686v1](http://arxiv.org/abs/2304.00686v1)|null|
 |**2023-04-02**|**Classifying COVID-19 Related Tweets for Fake News Detection and Sentiment Analysis with BERT-based Models**|Rabia Bounaama et.al.|[2304.00636v1](http://arxiv.org/abs/2304.00636v1)|null|
 |**2023-04-02**|**MMT: A Multilingual and Multi-Topic Indian Social Media Dataset**|Dwip Dalal et.al.|[2304.00634v1](http://arxiv.org/abs/2304.00634v1)|null|
@@ -62,7 +62,7 @@
 |**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
 |**2023-03-30**|**A CI-based Auditing Framework for Data Collection Practices**|Athina Markopoulou et.al.|[2303.17740v1](http://arxiv.org/abs/2303.17740v1)|null|
 |**2023-03-30**|**Evaluation of GPT and BERT-based models on identifying protein-protein interactions in biomedical text**|Hasin Rehana et.al.|[2303.17728v1](http://arxiv.org/abs/2303.17728v1)|null|
-|**2023-03-30**|**BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Neural Networks on Commodity CPU Hardware**|Nicholas Meisburger et.al.|[2303.17727v1](http://arxiv.org/abs/2303.17727v1)|null|
+|**2023-03-30**|**BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Neural Networks on Commodity CPU Hardware**|Nicholas Meisburger et.al.|[2303.17727v1](http://arxiv.org/abs/2303.17727v1)|**[link](https://github.com/ThirdAIResearch/BOLT_Benchmarks/tree/main/graph_learning)**|
 |**2023-03-30**|**Whether and When does Endoscopy Domain Pretraining Make Sense?**|Dominik Batić et.al.|[2303.17636v1](http://arxiv.org/abs/2303.17636v1)|null|
 |**2023-03-30**|**A BERT-based Unsupervised Grammatical Error Correction Framework**|Nankai Lin et.al.|[2303.17367v1](http://arxiv.org/abs/2303.17367v1)|null|
 |**2023-03-30**|**Topics in the Haystack: Extracting and Evaluating Topics beyond Coherence**|Anton Thielmann et.al.|[2303.17324v1](http://arxiv.org/abs/2303.17324v1)|null|
@@ -82,8 +82,8 @@
 |**2023-03-27**|**Improving Contextualized Topic Models with Negative Sampling**|Suman Adhya et.al.|[2303.14951v1](http://arxiv.org/abs/2303.14951v1)|**[link](https://github.com/adhyasuman/ctmneg)**|
 |**2023-03-27**|**Coupling Artificial Neurons in BERT and Biological Neurons in the Human Brain**|Xu Liu et.al.|[2303.14871v1](http://arxiv.org/abs/2303.14871v1)|null|
 |**2023-03-26**|**MGTBench: Benchmarking Machine-Generated Text Detection**|Xinlei He et.al.|[2303.14822v1](http://arxiv.org/abs/2303.14822v1)|**[link](https://github.com/xinleihe/mgtbench)**|
-|**2023-03-26**|**Nature Language Reasoning, A Survey**|Fei Yu et.al.|[2303.14725v1](http://arxiv.org/abs/2303.14725v1)|null|
-|**2023-03-25**|**Natural Language Processing in Ethiopian Languages: Current State, Challenges, and Opportunities**|Atnafu Lambebo Tonja et.al.|[2303.14406v1](http://arxiv.org/abs/2303.14406v1)|null|
+|**2023-03-26**|**Nature Language Reasoning, A Survey**|Fei Yu et.al.|[2303.14725v1](http://arxiv.org/abs/2303.14725v1)|**[link](https://github.com/freedomintelligence/reasoningnlp)**|
+|**2023-03-25**|**Natural Language Processing in Ethiopian Languages: Current State, Challenges, and Opportunities**|Atnafu Lambebo Tonja et.al.|[2303.14406v1](http://arxiv.org/abs/2303.14406v1)|**[link](https://github.com/EthioNLP/Ethiopian-Language-Survey)**|
 |**2023-03-25**|**An Analysis of GPT-3's Performance in Grammatical Error Correction**|Steven Coyne et.al.|[2303.14342v1](http://arxiv.org/abs/2303.14342v1)|null|
 |**2023-03-25**|**Backdoor Attacks with Input-unique Triggers in NLP**|Xukun Zhou et.al.|[2303.14325v1](http://arxiv.org/abs/2303.14325v1)|null|
 |**2023-03-24**|**The crime of being poor**|Georgina Curto et.al.|[2303.14128v1](http://arxiv.org/abs/2303.14128v1)|null|
@@ -804,7 +804,7 @@
 |**2023-03-27**|**ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks**|Fabrizio Gilardi et.al.|[2303.15056v1](http://arxiv.org/abs/2303.15056v1)|null|
 |**2023-03-27**|**Borrowing Human Senses: Comment-Aware Self-Training for Social Media Multimodal Classification**|Chunpu Xu et.al.|[2303.15016v1](http://arxiv.org/abs/2303.15016v1)|**[link](https://github.com/cpaaax/multimodal_cast)**|
 |**2023-03-26**|**MGTBench: Benchmarking Machine-Generated Text Detection**|Xinlei He et.al.|[2303.14822v1](http://arxiv.org/abs/2303.14822v1)|**[link](https://github.com/xinleihe/mgtbench)**|
-|**2023-03-26**|**Nature Language Reasoning, A Survey**|Fei Yu et.al.|[2303.14725v1](http://arxiv.org/abs/2303.14725v1)|null|
+|**2023-03-26**|**Nature Language Reasoning, A Survey**|Fei Yu et.al.|[2303.14725v1](http://arxiv.org/abs/2303.14725v1)|**[link](https://github.com/freedomintelligence/reasoningnlp)**|
 |**2023-03-25**|**Informed Machine Learning, Centrality, CNN, Relevant Document Detection, Repatriation of Indigenous Human Remains**|Md Abul Bashar et.al.|[2303.14475v1](http://arxiv.org/abs/2303.14475v1)|null|
 |**2023-03-21**|**Fine-tuning ClimateBert transformer with ClimaText for the disclosure analysis of climate-related financial risks**|Eduardo C. Garrido-Merchán et.al.|[2303.13373v1](http://arxiv.org/abs/2303.13373v1)|null|
 |**2023-03-22**|**Analyzing the Generalizability of Deep Contextualized Language Representations For Text Classification**|Berfu Buyukoz et.al.|[2303.12936v1](http://arxiv.org/abs/2303.12936v1)|null|
@@ -1193,7 +1193,7 @@
 |**2023-04-02**|**Instance-level Trojan Attacks on Visual Question Answering via Adversarial Learning in Neuron Activation Space**|Yuwei Sun et.al.|[2304.00436v1](http://arxiv.org/abs/2304.00436v1)|null|
 |**2023-04-01**|**When Crowd Meets Persona: Creating a Large-Scale Open-Domain Persona Dialogue Corpus**|Won Ik Cho et.al.|[2304.00350v1](http://arxiv.org/abs/2304.00350v1)|null|
 |**2023-03-31**|**UKP-SQuARE v3: A Platform for Multi-Agent QA Research**|Haritz Puerto et.al.|[2303.18120v1](http://arxiv.org/abs/2303.18120v1)|null|
-|**2023-03-31**|**WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset**|Tiago Ribeiro et.al.|[2303.17876v1](http://arxiv.org/abs/2303.17876v1)|null|
+|**2023-03-31**|**WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset**|Tiago Ribeiro et.al.|[2303.17876v1](http://arxiv.org/abs/2303.17876v1)|**[link](https://github.com/tfnribeiro/webqamgaze)**|
 |**2023-03-31**|**Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text**|Yasmen Wahba et.al.|[2303.17786v1](http://arxiv.org/abs/2303.17786v1)|null|
 |**2023-04-03**|**Aligning a medium-size GPT model in English to a small closed domain in Spanish using reinforcement learning**|Oscar R. Navarrete-Parra et.al.|[2303.17649v2](http://arxiv.org/abs/2303.17649v2)|null|
 |**2023-03-30**|**oBERTa: Improving Sparse Transfer Learning via improved initialization, distillation, and pruning regimes**|Daniel Campos et.al.|[2303.17612v1](http://arxiv.org/abs/2303.17612v1)|null|
@@ -1206,9 +1206,9 @@
 |**2023-03-28**|**Explicit Planning Helps Language Models in Logical Reasoning**|Hongyu Zhao et.al.|[2303.15714v1](http://arxiv.org/abs/2303.15714v1)|**[link](https://github.com/cindermond/explicit-planning-for-reasoning)**|
 |**2023-03-27**|**ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization**|Zheheng Luo et.al.|[2303.15621v1](http://arxiv.org/abs/2303.15621v1)|null|
 |**2023-03-27**|**Curriculum Learning for Compositional Visual Reasoning**|Wafa Aissa et.al.|[2303.15006v1](http://arxiv.org/abs/2303.15006v1)|null|
-|**2023-03-27**|**TabIQA: Table Questions Answering on Business Document Images**|Phuc Nguyen et.al.|[2303.14935v1](http://arxiv.org/abs/2303.14935v1)|null|
+|**2023-03-27**|**TabIQA: Table Questions Answering on Business Document Images**|Phuc Nguyen et.al.|[2303.14935v1](http://arxiv.org/abs/2303.14935v1)|**[link](https://github.com/phucty/itabqa)**|
 |**2023-03-26**|**MGTBench: Benchmarking Machine-Generated Text Detection**|Xinlei He et.al.|[2303.14822v1](http://arxiv.org/abs/2303.14822v1)|**[link](https://github.com/xinleihe/mgtbench)**|
-|**2023-03-26**|**Nature Language Reasoning, A Survey**|Fei Yu et.al.|[2303.14725v1](http://arxiv.org/abs/2303.14725v1)|null|
+|**2023-03-26**|**Nature Language Reasoning, A Survey**|Fei Yu et.al.|[2303.14725v1](http://arxiv.org/abs/2303.14725v1)|**[link](https://github.com/freedomintelligence/reasoningnlp)**|
 |**2023-03-25**|**Automatic Generation of Multiple-Choice Questions**|Cheng Zhang et.al.|[2303.14576v1](http://arxiv.org/abs/2303.14576v1)|null|
 |**2023-03-25**|**Video-Text as Game Players: Hierarchical Banzhaf Interaction for Cross-Modal Representation Learning**|Peng Jin et.al.|[2303.14369v1](http://arxiv.org/abs/2303.14369v1)|**[link](https://github.com/jpthu17/HBI)**|
 |**2023-03-24**|**Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT**|Qingyu Lu et.al.|[2303.13809v1](http://arxiv.org/abs/2303.13809v1)|**[link](https://github.com/coldmist-lu/erroranalysis_prompt)**|
@@ -1235,7 +1235,7 @@
 |**2023-03-18**|**A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering**|Zhen Han et.al.|[2303.10395v1](http://arxiv.org/abs/2303.10395v1)|null|
 |**2023-03-18**|**An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering**|Nan Hu et.al.|[2303.10368v1](http://arxiv.org/abs/2303.10368v1)|**[link](https://github.com/aannonymouuss/plms-in-practical-kbqa)**|
 |**2023-03-17**|**Generate, Transform, Answer: Question Specific Tool Synthesis for Tabular Data**|Carlos Gemmell et.al.|[2303.10138v1](http://arxiv.org/abs/2303.10138v1)|null|
-|**2023-03-16**|**Logical Implications for Visual Question Answering Consistency**|Sergio Tascon-Morales et.al.|[2303.09427v1](http://arxiv.org/abs/2303.09427v1)|null|
+|**2023-03-16**|**Logical Implications for Visual Question Answering Consistency**|Sergio Tascon-Morales et.al.|[2303.09427v1](http://arxiv.org/abs/2303.09427v1)|**[link](https://github.com/sergiotasconmorales/imp_vqa)**|
 |**2023-03-16**|**Secret-Keeping in Question Answering**|Nathaniel W. Rollings et.al.|[2303.09067v1](http://arxiv.org/abs/2303.09067v1)|null|
 |**2023-03-14**|**Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions**|Yiming Tan et.al.|[2303.07992v1](http://arxiv.org/abs/2303.07992v1)|**[link](https://github.com/tan92hl/complex-question-answering-evaluation-of-chatgpt)**|
 |**2023-03-13**|**Polar-VQA: Visual Question Answering on Remote Sensed Ice sheet Imagery from Polar Region**|Argho Sarkar et.al.|[2303.07403v1](http://arxiv.org/abs/2303.07403v1)|null|
@@ -1755,7 +1755,7 @@
 |**2023-02-22**|**What Makes a Code Review Useful to OpenDev Developers? An Empirical Investigation**|Asif Kamal Turzo et.al.|[2302.11686v1](http://arxiv.org/abs/2302.11686v1)|**[link](https://github.com/wsu-seal/cr-usefulness-emse)**|
 |**2023-02-22**|**Construction of Knowledge Graphs: State and Challenges**|Marvin Hofer et.al.|[2302.11509v1](http://arxiv.org/abs/2302.11509v1)|null|
 |**2023-02-23**|**Commonality in Recommender Systems: Evaluating Recommender Systems to Enhance Cultural Citizenship**|Andres Ferraro et.al.|[2302.11360v2](http://arxiv.org/abs/2302.11360v2)|null|
-|**2023-02-22**|**The Amplification Paradox in Recommender Systems**|Manoel Horta Ribeiro et.al.|[2302.11225v1](http://arxiv.org/abs/2302.11225v1)|null|
+|**2023-02-22**|**The Amplification Paradox in Recommender Systems**|Manoel Horta Ribeiro et.al.|[2302.11225v1](http://arxiv.org/abs/2302.11225v1)|**[link](https://github.com/epfl-dlab/amplification_paradox)**|
 |**2023-02-22**|**A Survey on User Behavior Modeling in Recommender Systems**|Zhicheng He et.al.|[2302.11087v1](http://arxiv.org/abs/2302.11087v1)|null|
 |**2023-02-21**|**Que2Engage: Embedding-based Retrieval for Relevant and Engaging Products at Facebook Marketplace**|Yunzhong He et.al.|[2302.11052v1](http://arxiv.org/abs/2302.11052v1)|null|
 |**2023-02-21**|**MP-Rec: Hardware-Software Co-Design to Enable Multi-Path Recommendation**|Samuel Hsia et.al.|[2302.10872v1](http://arxiv.org/abs/2302.10872v1)|null|
@@ -1778,7 +1778,7 @@
 |**2023-02-13**|**Improving Recommendation Fairness via Data Augmentation**|Lei Chen et.al.|[2302.06333v1](http://arxiv.org/abs/2302.06333v1)|**[link](https://github.com/newlei/fda)**|
 |**2023-02-13**|**Stability and Efficiency of Personalised Cultural Markets**|Haiqing Zhu et.al.|[2302.06226v1](http://arxiv.org/abs/2302.06226v1)|null|
 |**2023-02-13**|**On Modeling Long-Term User Engagement from Stochastic Feedback**|Guoxi Zhang et.al.|[2302.06101v1](http://arxiv.org/abs/2302.06101v1)|null|
-|**2023-02-12**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
+|**2023-02-12**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|**[link](https://github.com/alarca94/magrec)**|
 |**2023-02-10**|**Debiasing Recommendation by Learning Identifiable Latent Confounders**|Qing Zhang et.al.|[2302.05052v1](http://arxiv.org/abs/2302.05052v1)|null|
 |**2023-02-10**|**Feature Decomposition for Reducing Negative Transfer: A Novel Multi-task Learning Method for Recommender System**|Jie Zhou et.al.|[2302.05031v1](http://arxiv.org/abs/2302.05031v1)|null|
 |**2023-02-09**|**Adap-tau: Adaptively Modulating Embedding Magnitude for Recommendation**|Jiawei Chen et.al.|[2302.04775v1](http://arxiv.org/abs/2302.04775v1)|**[link](https://github.com/junkangwu/adap_tau)**|
@@ -2212,7 +2212,7 @@
 |**2023-04-03**|**Uncertainty Propagation in Node Classification**|Zhao Xu et.al.|[2304.00918v1](http://arxiv.org/abs/2304.00918v1)|null|
 |**2023-04-03**|**Swarm Reinforcement Learning For Adaptive Mesh Refinement**|Niklas Freymuth et.al.|[2304.00818v1](http://arxiv.org/abs/2304.00818v1)|null|
 |**2023-04-03**|**A Post-Training Framework for Improving Heterogeneous Graph Neural Networks**|Cheng Yang et.al.|[2304.00698v1](http://arxiv.org/abs/2304.00698v1)|null|
-|**2023-04-02**|**Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks**|Arindam Chowdhury et.al.|[2304.00446v1](http://arxiv.org/abs/2304.00446v1)|null|
+|**2023-04-02**|**Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks**|Arindam Chowdhury et.al.|[2304.00446v1](http://arxiv.org/abs/2304.00446v1)|**[link](https://github.com/archo48/unrolled-wmmse-for-mu-mimo)**|
 |**2023-04-01**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409v1](http://arxiv.org/abs/2304.00409v1)|null|
 |**2023-04-01**|**Scientific Computing Algorithms to Learn Enhanced Scalable Surrogates for Mesh Physics**|Brian R. Bartoldson et.al.|[2304.00338v1](http://arxiv.org/abs/2304.00338v1)|null|
 |**2023-03-31**|**E( $3$ ) Equivariant Graph Neural Networks for Particle-Based Fluid Mechanics**|Artur P. Toshev et.al.|[2304.00150v1](http://arxiv.org/abs/2304.00150v1)|null|
@@ -2235,7 +2235,7 @@
 |**2023-03-28**|**A Survey on Malware Detection with Graph Representation Learning**|Tristan Bilot et.al.|[2303.16004v1](http://arxiv.org/abs/2303.16004v1)|null|
 |**2023-03-28**|**TraffNet: Learning Causality of Traffic Generation for Road Network Digital Twins**|Ming Xu et.al.|[2303.15954v1](http://arxiv.org/abs/2303.15954v1)|**[link](https://github.com/mayunyi-1999/traffnet_code)**|
 |**2023-03-28**|**GNN-based physics solver for time-independent PDEs**|Rini Jasmine Gladstone et.al.|[2303.15681v1](http://arxiv.org/abs/2303.15681v1)|null|
-|**2023-03-27**|**Graph Sequence Learning for Premise Selection**|Edvard K. Holden et.al.|[2303.15642v1](http://arxiv.org/abs/2303.15642v1)|null|
+|**2023-03-27**|**Graph Sequence Learning for Premise Selection**|Edvard K. Holden et.al.|[2303.15642v1](http://arxiv.org/abs/2303.15642v1)|**[link](https://gitlab.com/korovin/iprover)**|
 |**2023-03-27**|**Multi-Flow Transmission in Wireless Interference Networks: A Convergent Graph Learning Approach**|Raz Paul et.al.|[2303.15544v1](http://arxiv.org/abs/2303.15544v1)|null|
 |**2023-03-27**|**Railway Network Delay Evolution: A Heterogeneous Graph Neural Network Approach**|Zhongcan Li et.al.|[2303.15489v1](http://arxiv.org/abs/2303.15489v1)|null|
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414v1](http://arxiv.org/abs/2303.15414v1)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
@@ -2437,7 +2437,7 @@
 |**2023-02-13**|**Expediting Distributed DNN Training with Device Topology-Aware Graph Deployment**|Shiwei Zhang et.al.|[2302.06126v1](http://arxiv.org/abs/2302.06126v1)|null|
 |**2023-02-13**|**A Survey on Graph Neural Networks for Graph Summarization**|Nasrin Shabani et.al.|[2302.06114v1](http://arxiv.org/abs/2302.06114v1)|null|
 |**2023-02-13**|**TIGER: Temporal Interaction Graph Embedding with Restarts**|Yao Zhang et.al.|[2302.06057v1](http://arxiv.org/abs/2302.06057v1)|**[link](https://github.com/yzhang1918/www2023tiger)**|
-|**2023-02-12**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|null|
+|**2023-02-12**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v1](http://arxiv.org/abs/2302.05990v1)|**[link](https://github.com/alarca94/magrec)**|
 |**2023-02-12**|**Investigating the Effect of Relative Positional Embeddings on AMR-to-Text Generation with Structural Adapters**|Sebastien Montella et.al.|[2302.05900v1](http://arxiv.org/abs/2302.05900v1)|null|
 |**2023-02-10**|**Graph Neural Networks Go Forward-Forward**|Daniele Paliotta et.al.|[2302.05282v1](http://arxiv.org/abs/2302.05282v1)|null|
 |**2023-02-09**|**GCI: A (G)raph (C)oncept (I)nterpretation Framework**|Dmitry Kazhdan et.al.|[2302.04899v1](http://arxiv.org/abs/2302.04899v1)|**[link](https://github.com/dmitrykazhdan/gci)**|
@@ -2480,7 +2480,7 @@
 |**2023-02-03**|**Predicting Molecule-Target Interaction by Learning Biomedical Network and Molecule Representations**|Jinjiang Guo et.al.|[2302.00981v2](http://arxiv.org/abs/2302.00981v2)|null|
 |**2023-02-02**|**LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence**|Zhihao Shi et.al.|[2302.00924v1](http://arxiv.org/abs/2302.00924v1)|**[link](https://github.com/miralab-ustc/gnn-lmc)**|
 |**2023-02-02**|**Quantum Graph Learning: Frontiers and Outlook**|Shuo Yu et.al.|[2302.00892v1](http://arxiv.org/abs/2302.00892v1)|null|
-|**2023-02-02**|**Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network**|Wendong Bi et.al.|[2302.00873v1](http://arxiv.org/abs/2302.00873v1)|null|
+|**2023-02-02**|**Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network**|Wendong Bi et.al.|[2302.00873v1](http://arxiv.org/abs/2302.00873v1)|**[link](https://github.com/wendongbi/KT-GNN)**|
 |**2023-02-02**|**Molecular Geometry-aware Transformer for accurate 3D Atomic System modeling**|Zheng Yuan et.al.|[2302.00855v1](http://arxiv.org/abs/2302.00855v1)|null|
 |**2023-02-02**|**Causal Effect Estimation: Recent Advances, Challenges, and Opportunities**|Zhixuan Chu et.al.|[2302.00848v1](http://arxiv.org/abs/2302.00848v1)|null|
 |**2023-02-01**|**MTP-GO: Graph-Based Probabilistic Multi-Agent Trajectory Prediction with Neural ODEs**|Theodor Westny et.al.|[2302.00735v1](http://arxiv.org/abs/2302.00735v1)|**[link](https://github.com/westny/mtp-go)**|
