@@ -25,6 +25,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**On Efficient Training of Large-Scale Deep Learning Models: A Literature Review**|Li Shen et.al.|[2304.03589v1](http://arxiv.org/abs/2304.03589v1)|null|
+|**2023-04-07**|**HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets**|Witold Wydmański et.al.|[2304.03543v1](http://arxiv.org/abs/2304.03543v1)|null|
+|**2023-04-06**|**Using LSTM and GRU With a New Dataset for Named Entity Recognition in the Arabic Language**|Alaa Shaker et.al.|[2304.03399v1](http://arxiv.org/abs/2304.03399v1)|null|
+|**2023-04-06**|**Deep Learning for Opinion Mining and Topic Classification of Course Reviews**|Anna Koufakou et.al.|[2304.03394v1](http://arxiv.org/abs/2304.03394v1)|null|
+|**2023-04-06**|**Entity Graphs for Exploring Online Discourse**|Nicholas Botzer et.al.|[2304.03351v1](http://arxiv.org/abs/2304.03351v1)|null|
+|**2023-04-06**|**On the Evaluations of ChatGPT and Emotion-enhanced Prompting for Mental Health Analysis**|Kailai Yang et.al.|[2304.03347v1](http://arxiv.org/abs/2304.03347v1)|null|
 |**2023-04-06**|**Locate: Low-Power Viterbi Decoder Exploration using Approximate Adders**|Rajat Bhattacharjya et.al.|[2304.03257v1](http://arxiv.org/abs/2304.03257v1)|null|
 |**2023-04-06**|**Bridging the Language Gap: Knowledge Injected Multilingual Question Answering**|Zhichao Duan et.al.|[2304.03159v1](http://arxiv.org/abs/2304.03159v1)|null|
 |**2023-04-06**|**Zero-Shot Next-Item Recommendation using Large Pretrained Language Models**|Lei Wang et.al.|[2304.03153v1](http://arxiv.org/abs/2304.03153v1)|null|
@@ -632,6 +638,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**Using LSTM and GRU With a New Dataset for Named Entity Recognition in the Arabic Language**|Alaa Shaker et.al.|[2304.03399v1](http://arxiv.org/abs/2304.03399v1)|null|
 |**2023-04-05**|**Enhancing Multimodal Entity and Relation Extraction with Variational Information Bottleneck**|Shiyao Cui et.al.|[2304.02328v1](http://arxiv.org/abs/2304.02328v1)|null|
 |**2023-04-03**|**End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies**|Xuguang Ai et.al.|[2304.01344v1](http://arxiv.org/abs/2304.01344v1)|null|
 |**2023-04-02**|**MMT: A Multilingual and Multi-Topic Indian Social Media Dataset**|Dwip Dalal et.al.|[2304.00634v1](http://arxiv.org/abs/2304.00634v1)|null|
@@ -789,6 +796,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4**|Hanmeng Liu et.al.|[2304.03439v1](http://arxiv.org/abs/2304.03439v1)|null|
+|**2023-04-06**|**ChatGPT-Crawler: Find out if ChatGPT really knows what it's talking about**|Aman Rangapur et.al.|[2304.03325v1](http://arxiv.org/abs/2304.03325v1)|null|
 |**2023-04-05**|**Performance of Data Augmentation Methods for Brazilian Portuguese Text Classification**|Marcellus Amadeus et.al.|[2304.02785v1](http://arxiv.org/abs/2304.02785v1)|null|
 |**2023-04-04**|**MEGClass: Text Classification with Extremely Weak Supervision via Mutually-Enhancing Text Granularities**|Priyanka Kargupta et.al.|[2304.01969v1](http://arxiv.org/abs/2304.01969v1)|**[link](https://github.com/pkargupta/MEGClass)**|
 |**2023-04-04**|**Multidimensional Perceptron for Efficient and Explainable Long Text Classification**|Yexiang Wang et.al.|[2304.01638v1](http://arxiv.org/abs/2304.01638v1)|null|
@@ -1179,6 +1188,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering**|Hung-Ting Su et.al.|[2304.03754v1](http://arxiv.org/abs/2304.03754v1)|null|
 |**2023-04-06**|**Bridging the Language Gap: Knowledge Injected Multilingual Question Answering**|Zhichao Duan et.al.|[2304.03159v1](http://arxiv.org/abs/2304.03159v1)|null|
 |**2023-04-06**|**Improving Visual Question Answering Models through Robustness Analysis and In-Context Learning with a Chain of Basic Questions**|Jia-Hong Huang et.al.|[2304.03147v1](http://arxiv.org/abs/2304.03147v1)|null|
 |**2023-04-06**|**Evaluating the Robustness of Machine Reading Comprehension Models to Low Resource Entity Renaming**|Clemencia Siro et.al.|[2304.03145v1](http://arxiv.org/abs/2304.03145v1)|null|
@@ -1479,6 +1489,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**The Rational Agent Benchmark for Data Visualization**|Yifan Wu et.al.|[2304.03432v1](http://arxiv.org/abs/2304.03432v1)|null|
 |**2023-04-06**|**A Fast and Lightweight Network for Low-Light Image Enhancement**|Yu Zhang et.al.|[2304.02978v1](http://arxiv.org/abs/2304.02978v1)|**[link](https://github.com/hitzhangyu/FLW-Net)**|
 |**2023-04-06**|**SpanRE: Entities and Overlapping Relations Extraction Based on Spans and Entity Attention**|Hao Zhang et.al.|[2304.02901v1](http://arxiv.org/abs/2304.02901v1)|null|
 |**2023-04-06**|**Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT**|Tong Xie et.al.|[2304.02213v2](http://arxiv.org/abs/2304.02213v2)|null|
@@ -1669,6 +1680,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Generative Recommendation: Towards Next-generation Recommender Paradigm**|Wenjie Wang et.al.|[2304.03516v1](http://arxiv.org/abs/2304.03516v1)|**[link](https://github.com/linxyhaha/generec)**|
+|**2023-04-07**|**Continuous Input Embedding Size Search For Recommender Systems**|Yunke Qu et.al.|[2304.03501v1](http://arxiv.org/abs/2304.03501v1)|null|
+|**2023-04-06**|**Graph Collaborative Signals Denoising and Augmentation for Recommendation**|Ziwei Fan et.al.|[2304.03344v1](http://arxiv.org/abs/2304.03344v1)|null|
+|**2023-04-06**|**On the Learnability of Multilabel Ranking**|Vinod Raman et.al.|[2304.03337v1](http://arxiv.org/abs/2304.03337v1)|null|
 |**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215v1](http://arxiv.org/abs/2304.03215v1)|null|
 |**2023-04-06**|**Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures**|Wei Yuan et.al.|[2304.03054v1](http://arxiv.org/abs/2304.03054v1)|null|
 |**2023-04-06**|**Data Processing with FPGAs on Modern Architectures**|Wenqi Jiang et.al.|[2304.03044v1](http://arxiv.org/abs/2304.03044v1)|null|
@@ -1953,6 +1968,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468v1](http://arxiv.org/abs/2304.03468v1)|null|
+|**2023-04-06**|**Handling Wikidata Qualifiers in Reasoning**|Sahar Aljalbout et.al.|[2304.03375v1](http://arxiv.org/abs/2304.03375v1)|null|
 |**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932v1](http://arxiv.org/abs/2304.02932v1)|null|
 |**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926v1](http://arxiv.org/abs/2304.01926v1)|null|
 |**2023-04-04**|**Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment**|Qian Li et.al.|[2304.01563v1](http://arxiv.org/abs/2304.01563v1)|null|
@@ -2203,6 +2220,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Distributional Signals for Node Classification in Graph Neural Networks**|Feng Ji et.al.|[2304.03507v1](http://arxiv.org/abs/2304.03507v1)|null|
+|**2023-04-07**|**ParaGraph: Weighted Graph Representation for Performance Optimization of HPC Kernels**|Ali TehraniJamsaz et.al.|[2304.03487v1](http://arxiv.org/abs/2304.03487v1)|null|
+|**2023-04-07**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468v1](http://arxiv.org/abs/2304.03468v1)|null|
 |**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215v1](http://arxiv.org/abs/2304.03215v1)|null|
 |**2023-04-06**|**Graph Mixture of Experts: Learning on Large-Scale Graphs with Explicit Diversity Modeling**|Haotao Wang et.al.|[2304.02806v1](http://arxiv.org/abs/2304.02806v1)|**[link](https://github.com/vita-group/graph-mixture-of-experts)**|
 |**2023-04-05**|**Rethinking the Trigger-injecting Position in Graph Backdoor Attack**|Jing Xu et.al.|[2304.02277v1](http://arxiv.org/abs/2304.02277v1)|null|
