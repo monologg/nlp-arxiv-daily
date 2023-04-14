@@ -21,6 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Exploring the State of the Art in Legal QA Systems**|Abdelrahman Abdallah et.al.|[2304.06623v1](http://arxiv.org/abs/2304.06623v1)|**[link](https://github.com/abdoelsayed2016/legal-question-answering-review)**|
+|**2023-04-13**|**Solving Tensor Low Cycle Rank Approximation**|Yichuan Deng et.al.|[2304.06594v1](http://arxiv.org/abs/2304.06594v1)|null|
+|**2023-04-13**|**Efficient Multimodal Fusion via Interactive Prompting**|Yaowei Li et.al.|[2304.06306v1](http://arxiv.org/abs/2304.06306v1)|null|
+|**2023-04-12**|**AGI for Agriculture**|Guoyu Lu et.al.|[2304.06136v1](http://arxiv.org/abs/2304.06136v1)|null|
 |**2023-04-12**|**ReDWINE: A Clinical Datamart with Text Analytical Capabilities to Facilitate Rehabilitation Research**|David Oniani et.al.|[2304.05929v1](http://arxiv.org/abs/2304.05929v1)|null|
 |**2023-04-12**|**ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning**|Viet Dac Lai et.al.|[2304.05613v1](http://arxiv.org/abs/2304.05613v1)|null|
 |**2023-04-11**|**A Survey of Resources and Methods for Natural Language Processing of Serbian Language**|Ulfeta A. Marovac et.al.|[2304.05468v1](http://arxiv.org/abs/2304.05468v1)|null|
@@ -649,8 +653,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**LeafAI: query generator for clinical cohort discovery rivaling a human programmer**|Nicholas J Dobbins et.al.|[2304.06203v1](http://arxiv.org/abs/2304.06203v1)|null|
 |**2023-04-11**|**A Survey of Resources and Methods for Natural Language Processing of Serbian Language**|Ulfeta A. Marovac et.al.|[2304.05468v1](http://arxiv.org/abs/2304.05468v1)|null|
-|**2023-04-09**|**Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding**|Yuqing Wang et.al.|[2304.05368v1](http://arxiv.org/abs/2304.05368v1)|null|
+|**2023-04-13**|**Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding**|Yuqing Wang et.al.|[2304.05368v2](http://arxiv.org/abs/2304.05368v2)|null|
 |**2023-04-11**|**Exploring the Use of Foundation Models for Named Entity Recognition and Lemmatization Tasks in Slavic Languages**|Gabriela Pałka et.al.|[2304.05336v1](http://arxiv.org/abs/2304.05336v1)|null|
 |**2023-04-11**|**An Entity-based Claim Extraction Pipeline for Real-world Biomedical Fact-checking**|Amelie Wührl et.al.|[2304.05268v1](http://arxiv.org/abs/2304.05268v1)|null|
 |**2023-04-08**|**WikiGoldSK: Annotated Dataset, Baselines and Few-Shot Learning Experiments for Slovak Named Entity Recognition**|Dávid Šuba et.al.|[2304.04026v1](http://arxiv.org/abs/2304.04026v1)|**[link](https://github.com/naiveneuron/wikigoldsk)**|
@@ -813,8 +818,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Improved Naive Bayes with Mislabeled Data**|Qianhan Zeng et.al.|[2304.06292v1](http://arxiv.org/abs/2304.06292v1)|null|
 |**2023-04-13**|**Learning Homographic Disambiguation Representation for Neural Machine Translation**|Weixuan Wang et.al.|[2304.05860v2](http://arxiv.org/abs/2304.05860v2)|null|
-|**2023-04-09**|**Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding**|Yuqing Wang et.al.|[2304.05368v1](http://arxiv.org/abs/2304.05368v1)|null|
+|**2023-04-13**|**Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding**|Yuqing Wang et.al.|[2304.05368v2](http://arxiv.org/abs/2304.05368v2)|null|
 |**2023-04-10**|**Asymmetric Polynomial Loss For Multi-Label Classification**|Yusheng Huang et.al.|[2304.05361v1](http://arxiv.org/abs/2304.05361v1)|**[link](https://github.com/lumia-group/apl)**|
 |**2023-04-10**|**Uncertainty-Aware Natural Language Inference with Stochastic Weight Averaging**|Aarne Talman et.al.|[2304.04726v1](http://arxiv.org/abs/2304.04726v1)|**[link](https://github.com/helsinki-nlp/uncertainty-aware-nli)**|
 |**2023-04-09**|**Study of Compact Stars in $\mathcal{R}+ α\mathcal{A}$ Gravity**|M. Farasat Shamir et.al.|[2304.04194v1](http://arxiv.org/abs/2304.04194v1)|null|
@@ -1043,6 +1049,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Masakhane-Afrisenti at SemEval-2023 Task 12: Sentiment Analysis using Afro-centric Language Models and Adapters for Low-resource African Languages**|Israel Abebe Azime et.al.|[2304.06459v1](http://arxiv.org/abs/2304.06459v1)|null|
+|**2023-04-13**|**Optimizing Multi-Domain Performance with Active Learning-based Improvement Strategies**|Anand Gokul Mahalingam et.al.|[2304.06277v1](http://arxiv.org/abs/2304.06277v1)|null|
 |**2023-04-11**|**Training Large Language Models Efficiently with Sparsity and Dataflow**|Venkat Srinivasan et.al.|[2304.05511v1](http://arxiv.org/abs/2304.05511v1)|null|
 |**2023-04-10**|**Transfer Learning for Low-Resource Sentiment Analysis**|Razhan Hameed et.al.|[2304.04703v1](http://arxiv.org/abs/2304.04703v1)|**[link](https://github.com/hrazhan/sentiment)**|
 |**2023-04-10**|**Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study**|Zengzhi Wang et.al.|[2304.04339v1](http://arxiv.org/abs/2304.04339v1)|**[link](https://github.com/nustm/chatgpt-sentiment-evaluation)**|
@@ -1215,6 +1223,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Verbs in Action: Improving verb understanding in video-language models**|Liliane Momeni et.al.|[2304.06708v1](http://arxiv.org/abs/2304.06708v1)|null|
+|**2023-04-13**|**Exploring the State of the Art in Legal QA Systems**|Abdelrahman Abdallah et.al.|[2304.06623v1](http://arxiv.org/abs/2304.06623v1)|**[link](https://github.com/abdoelsayed2016/legal-question-answering-review)**|
+|**2023-04-13**|**PDF-VQA: A New Dataset for Real-World VQA on PDF Documents**|Yihao Ding et.al.|[2304.06447v1](http://arxiv.org/abs/2304.06447v1)|null|
+|**2023-04-12**|**CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes**|Maria Parelli et.al.|[2304.06061v1](http://arxiv.org/abs/2304.06061v1)|**[link](https://github.com/alexdelitzas/3d-vqa)**|
 |**2023-04-12**|**FALQU: Finding Answers to Legal Questions**|Behrooz Mansouri et.al.|[2304.05611v1](http://arxiv.org/abs/2304.05611v1)|**[link](https://github.com/aiirlab/falqu)**|
 |**2023-04-11**|**chatIPCC: Grounding Conversational AI in Climate Science**|Saeid Ashraf Vaghefi et.al.|[2304.05510v1](http://arxiv.org/abs/2304.05510v1)|null|
 |**2023-04-11**|**Boosting Cross-task Transferability of Adversarial Patches with Visual Relations**|Tony Ma et.al.|[2304.05402v1](http://arxiv.org/abs/2304.05402v1)|null|
@@ -1527,6 +1539,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**PDF-VQA: A New Dataset for Real-World VQA on PDF Documents**|Yihao Ding et.al.|[2304.06447v1](http://arxiv.org/abs/2304.06447v1)|null|
+|**2023-04-13**|**LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model**|Hao Fei et.al.|[2304.06248v1](http://arxiv.org/abs/2304.06248v1)|**[link](https://github.com/chocowu/lasuie)**|
+|**2023-04-12**|**Skyline Operators for Document Spanners**|Antoine Amarilli et.al.|[2304.06155v1](http://arxiv.org/abs/2304.06155v1)|null|
 |**2023-04-07**|**The Rational Agent Benchmark for Data Visualization**|Yifan Wu et.al.|[2304.03432v1](http://arxiv.org/abs/2304.03432v1)|null|
 |**2023-04-06**|**A Fast and Lightweight Network for Low-Light Image Enhancement**|Yu Zhang et.al.|[2304.02978v1](http://arxiv.org/abs/2304.02978v1)|**[link](https://github.com/hitzhangyu/FLW-Net)**|
 |**2023-04-06**|**SpanRE: Entities and Overlapping Relations Extraction Based on Spans and Entity Attention**|Hao Zhang et.al.|[2304.02901v1](http://arxiv.org/abs/2304.02901v1)|null|
@@ -1718,6 +1733,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**GNNUERS: Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning**|Giacomo Medda et.al.|[2304.06182v1](http://arxiv.org/abs/2304.06182v1)|**[link](https://github.com/jackmedda/rs-bgexplainer)**|
 |**2023-04-12**|**Edge-cloud Collaborative Learning with Federated and Centralized Features**|Zexi Li et.al.|[2304.05871v1](http://arxiv.org/abs/2304.05871v1)|null|
 |**2023-04-12**|**Dynamic Graph Representation Learning with Neural Networks: A Survey**|Leshanshui Yang et.al.|[2304.05729v1](http://arxiv.org/abs/2304.05729v1)|null|
 |**2023-04-11**|**Unbiased Pairwise Learning from Implicit Feedback for Recommender Systems without Biased Variance Control**|Yi Ren et.al.|[2304.05066v1](http://arxiv.org/abs/2304.05066v1)|null|
@@ -2018,6 +2034,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**AGI for Agriculture**|Guoyu Lu et.al.|[2304.06136v1](http://arxiv.org/abs/2304.06136v1)|null|
 |**2023-04-12**|**HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting**|Jiaying Lu et.al.|[2304.05973v1](http://arxiv.org/abs/2304.05973v1)|null|
 |**2023-04-12**|**Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses**|Michalis Mountantonakis et.al.|[2304.05774v1](http://arxiv.org/abs/2304.05774v1)|null|
 |**2023-04-11**|**SciKGTeX -- A LaTeX Package to Semantically Annotate Contributions in Scientific Publications**|Christof Bless et.al.|[2304.05327v1](http://arxiv.org/abs/2304.05327v1)|**[link](https://github.com/christof93/scikgtex)**|
@@ -2280,6 +2297,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance**|Jonathan Crabbé et.al.|[2304.06715v1](http://arxiv.org/abs/2304.06715v1)|null|
+|**2023-04-13**|**RadarGNN: Transformation Invariant Graph Neural Network for Radar-based Perception**|Felix Fent et.al.|[2304.06547v1](http://arxiv.org/abs/2304.06547v1)|**[link](https://github.com/tumftm/radargnn)**|
+|**2023-04-13**|**Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs**|Zhaoliang Chen et.al.|[2304.06336v1](http://arxiv.org/abs/2304.06336v1)|null|
+|**2023-04-13**|**Enhancing Model Learning and Interpretation Using Multiple Molecular Graph Representations for Compound Property and Activity Prediction**|Apakorn Kengkanna et.al.|[2304.06253v1](http://arxiv.org/abs/2304.06253v1)|null|
 |**2023-04-12**|**Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data**|Dominik Klepl et.al.|[2304.05874v1](http://arxiv.org/abs/2304.05874v1)|null|
 |**2023-04-12**|**Learning to Communicate and Collaborate in a Competitive Multi-Agent Setup to Clean the Ocean from Macroplastics**|Philipp Dominic Siedler et.al.|[2304.05872v1](http://arxiv.org/abs/2304.05872v1)|null|
 |**2023-04-12**|**Dynamic Graph Representation Learning with Neural Networks: A Survey**|Leshanshui Yang et.al.|[2304.05729v1](http://arxiv.org/abs/2304.05729v1)|null|
