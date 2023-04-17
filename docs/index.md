@@ -62,7 +62,7 @@ layout: default
 |**2023-04-05**|**The Saudi Privacy Policy Dataset**|Hend Al-Khalifa et.al.|[2304.02757v1](http://arxiv.org/abs/2304.02757v1)|**[link](https://github.com/iwan-rg/saudi_privacy_policy)**|
 |**2023-04-06**|**ParroT: Translating During Chat Using Large Language Models**|Wenxiang Jiao et.al.|[2304.02426v2](http://arxiv.org/abs/2304.02426v2)|**[link](https://github.com/wxjiao/parrot)**|
 |**2023-04-05**|**Machine Learning of Public Sentiments toward Wind Energy in Norway**|Oskar Vågerö et.al.|[2304.02388v1](http://arxiv.org/abs/2304.02388v1)|null|
-|**2023-04-05**|**Document-Level Machine Translation with Large Language Models**|Longyue Wang et.al.|[2304.02210v1](http://arxiv.org/abs/2304.02210v1)|null|
+|**2023-04-05**|**Document-Level Machine Translation with Large Language Models**|Longyue Wang et.al.|[2304.02210v1](http://arxiv.org/abs/2304.02210v1)|**[link](https://github.com/longyuewangdcu/document-mt-llm)**|
 |**2023-04-05**|**Unleashing the Power of ChatGPT for Translation: An Empirical Study**|Yuan Gao et.al.|[2304.02182v1](http://arxiv.org/abs/2304.02182v1)|null|
 |**2023-04-04**|**PromptAid: Prompt Exploration, Perturbation, Testing and Iteration using Visual Analytics for Large Language Models**|Aditi Mishra et.al.|[2304.01964v1](http://arxiv.org/abs/2304.01964v1)|null|
 |**2023-04-04**|**Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models**|Yiheng Liu et.al.|[2304.01852v1](http://arxiv.org/abs/2304.01852v1)|null|
@@ -84,7 +84,7 @@ layout: default
 |**2023-04-02**|**Classifying COVID-19 Related Tweets for Fake News Detection and Sentiment Analysis with BERT-based Models**|Rabia Bounaama et.al.|[2304.00636v1](http://arxiv.org/abs/2304.00636v1)|null|
 |**2023-04-02**|**MMT: A Multilingual and Multi-Topic Indian Social Media Dataset**|Dwip Dalal et.al.|[2304.00634v1](http://arxiv.org/abs/2304.00634v1)|null|
 |**2023-04-02**|**Sequence-aware item recommendations for multiply repeated user-item interactions**|Juan Pablo Equihua et.al.|[2304.00578v1](http://arxiv.org/abs/2304.00578v1)|null|
-|**2023-03-31**|**A Closer Look at Parameter-Efficient Tuning in Diffusion Models**|Chendong Xiang et.al.|[2303.18181v1](http://arxiv.org/abs/2303.18181v1)|null|
+|**2023-03-31**|**A Closer Look at Parameter-Efficient Tuning in Diffusion Models**|Chendong Xiang et.al.|[2303.18181v1](http://arxiv.org/abs/2303.18181v1)|**[link](https://github.com/Xiang-cd/unet-finetune)**|
 |**2023-03-31**|**BERTino: an Italian DistilBERT model**|Matteo Muffo et.al.|[2303.18121v1](http://arxiv.org/abs/2303.18121v1)|**[link](https://github.com/indigo-ai/bertino)**|
 |**2023-03-31**|**Dataset and Baseline System for Multi-lingual Extraction and Normalization of Temporal and Numerical Expressions**|Sanxing Chen et.al.|[2303.18103v1](http://arxiv.org/abs/2303.18103v1)|null|
 |**2023-03-31**|**ConceptEVA: Concept-Based Interactive Exploration and Customization of Document Summaries**|Xiaoyu Zhang et.al.|[2303.17826v1](http://arxiv.org/abs/2303.17826v1)|null|
@@ -1338,7 +1338,7 @@ layout: default
 |**2023-03-01**|**Almanac: Knowledge-Grounded Language Models for Clinical Medicine**|Cyril Zakka et.al.|[2303.01229v1](http://arxiv.org/abs/2303.01229v1)|null|
 |**2023-03-02**|**Can BERT Refrain from Forgetting on Sequential Tasks? A Probing Study**|Mingxu Tao et.al.|[2303.01081v1](http://arxiv.org/abs/2303.01081v1)|**[link](https://github.com/kobayashikanna01/plms_are_lifelong_learners)**|
 |**2023-03-02**|**A deep learning-based approach for identifying unresolved questions on Stack Exchange Q&A communities through graph-based communication modelling**|Hassan Abedi Firouzjaei et.al.|[2303.00964v1](http://arxiv.org/abs/2303.00964v1)|**[link](https://github.com/habedi/GNNforUnresolvedQuestions)**|
-|**2023-03-02**|**Large-Scale Domain-Specific Pretraining for Biomedical Vision-Language Processing**|Sheng Zhang et.al.|[2303.00915v1](http://arxiv.org/abs/2303.00915v1)|null|
+|**2023-03-02**|**Large-Scale Domain-Specific Pretraining for Biomedical Vision-Language Processing**|Sheng Zhang et.al.|[2303.00915v1](http://arxiv.org/abs/2303.00915v1)|**[link](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)**|
 |**2023-03-01**|**A Universal Question-Answering Platform for Knowledge Graphs**|Reham Omar et.al.|[2303.00595v1](http://arxiv.org/abs/2303.00595v1)|null|
 |**2023-03-01**|**RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**|Zheng Yuan et.al.|[2303.00534v1](http://arxiv.org/abs/2303.00534v1)|**[link](https://github.com/GanjinZero/RAMM)**|
 |**2023-03-01**|**DIFFQG: Generating Questions to Summarize Factual Changes**|Jeremy R. Cole et.al.|[2303.00242v1](http://arxiv.org/abs/2303.00242v1)|null|
@@ -1657,7 +1657,7 @@ layout: default
 |**2022-12-20**|**Very Large Language Model as a Unified Methodology of Text Mining**|Meng Jiang et.al.|[2212.09271v2](http://arxiv.org/abs/2212.09271v2)|null|
 |**2022-12-17**|**Joint Information Extraction with Cross-Task and Cross-Instance High-Order Modeling**|Zixia Jia et.al.|[2212.08929v1](http://arxiv.org/abs/2212.08929v1)|null|
 |**2022-12-16**|**Traffic sign detection and recognition using event camera image reconstruction**|Kamil Jeziorek et.al.|[2212.08387v1](http://arxiv.org/abs/2212.08387v1)|null|
-|**2022-12-14**|**Leveraging Natural Language Processing to Augment Structured Social Determinants of Health Data in the Electronic Health Record**|Kevin Lybarger et.al.|[2212.07538v1](http://arxiv.org/abs/2212.07538v1)|null|
+|**2022-12-14**|**Leveraging Natural Language Processing to Augment Structured Social Determinants of Health Data in the Electronic Health Record**|Kevin Lybarger et.al.|[2212.07538v1](http://arxiv.org/abs/2212.07538v1)|**[link](https://github.com/uw-bionlp/mspert)**|
 |**2022-12-14**|**MIST: a Large-Scale Annotated Resource and Neural Models for Functions of Modal Verbs in English Scientific Text**|Sophie Henning et.al.|[2212.07156v1](http://arxiv.org/abs/2212.07156v1)|**[link](https://github.com/boschresearch/mist_emnlp_findings2022)**|
 |**2022-12-11**|**MORTY: Structured Summarization for Targeted Information Extraction from Scholarly Articles**|Mohamad Yaser Jaradeh et.al.|[2212.05429v1](http://arxiv.org/abs/2212.05429v1)|null|
 |**2022-12-10**|**Structured information extraction from complex scientific text with fine-tuned large language models**|Alexander Dunn et.al.|[2212.05238v1](http://arxiv.org/abs/2212.05238v1)|null|
@@ -1722,7 +1722,7 @@ layout: default
 |**2022-10-22**|**PHEE: A Dataset for Pharmacovigilance Event Extraction from Text**|Zhaoyue Sun et.al.|[2210.12560v1](http://arxiv.org/abs/2210.12560v1)|**[link](https://github.com/zhaoyuesun/phee)**|
 |**2022-10-22**|**PcMSP: A Dataset for Scientific Action Graphs Extraction from Polycrystalline Materials Synthesis Procedure Text**|Xianjun Yang et.al.|[2210.12401v1](http://arxiv.org/abs/2210.12401v1)|**[link](https://github.com/xianjun-yang/pcmsp)**|
 |**2022-10-30**|**CobNet: Cross Attention on Object and Background for Few-Shot Segmentation**|Haoyan Guan et.al.|[2210.11968v2](http://arxiv.org/abs/2210.11968v2)|null|
-|**2022-10-20**|**H4VDM: H.264 Video Device Matching**|Ziyue Xiang et.al.|[2210.11549v1](http://arxiv.org/abs/2210.11549v1)|null|
+|**2022-10-20**|**H4VDM: H.264 Video Device Matching**|Ziyue Xiang et.al.|[2210.11549v1](http://arxiv.org/abs/2210.11549v1)|**[link](https://gitlab.com/viper-purdue/h4vdm)**|
 |**2022-11-13**|**Content-based Graph Privacy Advisor**|Dimitrios Stoidis et.al.|[2210.11169v2](http://arxiv.org/abs/2210.11169v2)|**[link](https://github.com/smartcameras/gpa)**|
 |**2022-12-02**|**Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance**|YeongHyeon Park et.al.|[2210.11068v3](http://arxiv.org/abs/2210.11068v3)|null|
 |**2022-10-27**|**Schema-aware Reference as Prompt Improves Data-Efficient Relational Triple and Event Extraction**|Yunzhi Yao et.al.|[2210.10709v3](http://arxiv.org/abs/2210.10709v3)|**[link](https://github.com/zjunlp/RAP)**|
@@ -1788,7 +1788,7 @@ layout: default
 |**2023-03-21**|**Recommendation Systems in Libraries: an Application with Heterogeneous Data Sources**|Alessandro Speciale et.al.|[2303.11746v1](http://arxiv.org/abs/2303.11746v1)|null|
 |**2023-03-21**|**Dynamically Expandable Graph Convolution for Streaming Recommendation**|Bowei He et.al.|[2303.11700v1](http://arxiv.org/abs/2303.11700v1)|**[link](https://github.com/bokwaiho/degc)**|
 |**2023-03-21**|**A Survey on Causal Inference for Recommendation**|Huishi Luo et.al.|[2303.11666v1](http://arxiv.org/abs/2303.11666v1)|null|
-|**2023-03-21**|**Bounding System-Induced Biases in Recommender Systems with A Randomized Dataset**|Dugang Liu et.al.|[2303.11574v1](http://arxiv.org/abs/2303.11574v1)|null|
+|**2023-03-21**|**Bounding System-Induced Biases in Recommender Systems with A Randomized Dataset**|Dugang Liu et.al.|[2303.11574v1](http://arxiv.org/abs/2303.11574v1)|**[link](https://github.com/dgliu/tois_dub)**|
 |**2023-03-14**|**Explaining Recommendation System Using Counterfactual Textual Explanations**|Niloofar Ranjbar et.al.|[2303.11160v1](http://arxiv.org/abs/2303.11160v1)|null|
 |**2023-03-17**|**ITM-Rec: An Open Data Set for Educational Recommender Systems**|Yong Zheng et.al.|[2303.10230v1](http://arxiv.org/abs/2303.10230v1)|**[link](https://github.com/irecsys/recdata)**|
 |**2023-03-17**|**Contrastive Self-supervised Learning in Recommender Systems: A Survey**|Mengyuan Jing et.al.|[2303.09902v1](http://arxiv.org/abs/2303.09902v1)|null|
@@ -2216,7 +2216,7 @@ layout: default
 |**2023-01-03**|**Analogical Inference Enhanced Knowledge Graph Embedding**|Yao Zhen et.al.|[2301.00982v1](http://arxiv.org/abs/2301.00982v1)|**[link](https://github.com/zjukg/ankge)**|
 |**2023-01-02**|**IRT2: Inductive Linking and Ranking in Knowledge Graphs of Varying Scale**|Felix Hamann et.al.|[2301.00716v1](http://arxiv.org/abs/2301.00716v1)|**[link](https://github.com/lavis-nlp/irt2)**|
 |**2023-01-02**|**A Concept Knowledge Graph for User Next Intent Prediction at Alipay**|Yacheng He et.al.|[2301.00503v1](http://arxiv.org/abs/2301.00503v1)|null|
-|**2023-01-16**|**MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid**|Zhuo Chen et.al.|[2212.14454v2](http://arxiv.org/abs/2212.14454v2)|null|
+|**2023-01-16**|**MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid**|Zhuo Chen et.al.|[2212.14454v2](http://arxiv.org/abs/2212.14454v2)|**[link](https://github.com/zjukg/MEAformer)**|
 |**2022-12-28**|**Customizing Knowledge Graph Embedding to Improve Clinical Study Recommendation**|Xiong Liu et.al.|[2212.14102v1](http://arxiv.org/abs/2212.14102v1)|null|
 |**2022-12-23**|**Detection, Explanation and Filtering of Cyber Attacks Combining Symbolic and Sub-Symbolic Methods**|Anna Himmelhuber et.al.|[2212.13991v1](http://arxiv.org/abs/2212.13991v1)|null|
 |**2023-01-17**|**Democratising Knowledge Representation with BioCypher**|Sebastian Lobentanzer et.al.|[2212.13543v3](http://arxiv.org/abs/2212.13543v3)|null|
