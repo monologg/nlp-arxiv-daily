@@ -25,6 +25,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527v1](http://arxiv.org/abs/2304.10527v1)|null|
+|**2023-04-20**|**Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health**|Shaoxiong Ji et.al.|[2304.10447v1](http://arxiv.org/abs/2304.10447v1)|null|
+|**2023-04-20**|**OptoGPT: A Foundation Model for Inverse Design in Optical Multilayer Thin Film Structures**|Taigao Ma et.al.|[2304.10294v1](http://arxiv.org/abs/2304.10294v1)|null|
+|**2023-04-20**|**Is augmentation effective to improve prediction in imbalanced text datasets?**|Gabriel O. Assunção et.al.|[2304.10283v1](http://arxiv.org/abs/2304.10283v1)|null|
+|**2023-04-20**|**Replication and Verifiability in Requirements Engineering: the NLP for RE Case**|Sallam Abualhaija et.al.|[2304.10265v1](http://arxiv.org/abs/2304.10265v1)|null|
+|**2023-04-20**|**Multi-view Vision-Prompt Fusion Network: Can 2D Pre-trained Model Boost 3D Point Cloud Data-scarce Learning?**|Haoyang Peng et.al.|[2304.10224v1](http://arxiv.org/abs/2304.10224v1)|null|
+|**2023-04-19**|**Radar de Parité: An NLP system to measure gender representation in French news stories**|Valentin-Gabriel Soumah et.al.|[2304.09982v1](http://arxiv.org/abs/2304.09982v1)|null|
+|**2023-04-19**|**SurgicalGPT: End-to-End Language-Vision GPT for Visual Question Answering in Surgery**|Lalithkumar Seenivasan et.al.|[2304.09974v1](http://arxiv.org/abs/2304.09974v1)|null|
+|**2023-04-19**|**Catch Me If You Can: Identifying Fraudulent Physician Reviews with Large Language Models Using Generative Pre-Trained Transformers**|Aishwarya Deep Shukla et.al.|[2304.09948v1](http://arxiv.org/abs/2304.09948v1)|null|
 |**2023-04-19**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v1](http://arxiv.org/abs/2304.09854v1)|**[link](https://github.com/lxtgh/awesome-segmenation-with-transformer)**|
 |**2023-04-19**|**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**|Pan Lu et.al.|[2304.09842v1](http://arxiv.org/abs/2304.09842v1)|**[link](https://github.com/lupantech/chameleon-llm)**|
 |**2023-04-19**|**A Survey of Corpora for Germanic Low-Resource Languages and Dialects**|Verena Blaschke et.al.|[2304.09805v1](http://arxiv.org/abs/2304.09805v1)|**[link](https://github.com/mainlp/wikistats)**|
@@ -686,6 +695,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**GPT-NER: Named Entity Recognition via Large Language Models**|Shuhe Wang et.al.|[2304.10428v1](http://arxiv.org/abs/2304.10428v1)|null|
+|**2023-04-19**|**MasakhaNEWS: News Topic Classification for African languages**|David Ifeoluwa Adelani et.al.|[2304.09972v1](http://arxiv.org/abs/2304.09972v1)|**[link](https://github.com/masakhane-io/masakhane-news)**|
 |**2023-04-19**|**BRENT: Bidirectional Retrieval Enhanced Norwegian Transformer**|Lucas Georges Gabriel Charpentier et.al.|[2304.09649v1](http://arxiv.org/abs/2304.09649v1)|null|
 |**2023-04-19**|**SemEval 2023 Task 6: LegalEval -- Understanding Legal Texts**|Ashutosh Modi et.al.|[2304.09548v1](http://arxiv.org/abs/2304.09548v1)|null|
 |**2023-04-18**|**Transfer to a Low-Resource Language via Close Relatives: The Case Study on Faroese**|Vésteinn Snæbjarnarson et.al.|[2304.08823v1](http://arxiv.org/abs/2304.08823v1)|null|
@@ -856,6 +867,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Interventional Probing in High Dimensions: An NLI Case Study**|Julia Rozanova et.al.|[2304.10346v1](http://arxiv.org/abs/2304.10346v1)|null|
 |**2023-04-18**|**A Two-Stage Framework with Self-Supervised Distillation For Cross-Domain Text Classification**|Yunlong Feng et.al.|[2304.09820v1](http://arxiv.org/abs/2304.09820v1)|null|
 |**2023-04-19**|**Shuffle & Divide: Contrastive Learning for Long Text**|Joonseok Lee et.al.|[2304.09374v1](http://arxiv.org/abs/2304.09374v1)|null|
 |**2023-04-18**|**Complexity factor Parametrization for Traversable Wormholes**|Subhra Bhattacharya et.al.|[2304.08877v1](http://arxiv.org/abs/2304.08877v1)|null|
@@ -1096,6 +1108,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Can ChatGPT Reproduce Human-Generated Labels? A Study of Social Computing Tasks**|Yiming Zhu et.al.|[2304.10145v1](http://arxiv.org/abs/2304.10145v1)|null|
+|**2023-04-19**|**Supporting Human-AI Collaboration in Auditing LLMs with LLMs**|Charvi Rastogi et.al.|[2304.09991v1](http://arxiv.org/abs/2304.09991v1)|null|
 |**2023-04-19**|**On the Robustness of Aspect-based Sentiment Analysis: Rethinking Model, Data, and Training**|Hao Fei et.al.|[2304.09563v1](http://arxiv.org/abs/2304.09563v1)|null|
 |**2023-04-17**|**New Product Development (NPD) through Social Media-based Analysis by Comparing Word2Vec and BERT Word Embeddings**|Princessa Cintaqia et.al.|[2304.08369v1](http://arxiv.org/abs/2304.08369v1)|null|
 |**2023-04-15**|**Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models**|Alejandro Lopez-Lira et.al.|[2304.07619v1](http://arxiv.org/abs/2304.07619v1)|null|
@@ -1274,6 +1288,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Why Does ChatGPT Fall Short in Answering Questions Faithfully?**|Shen Zheng et.al.|[2304.10513v1](http://arxiv.org/abs/2304.10513v1)|null|
+|**2023-04-19**|**SurgicalGPT: End-to-End Language-Vision GPT for Visual Question Answering in Surgery**|Lalithkumar Seenivasan et.al.|[2304.09974v1](http://arxiv.org/abs/2304.09974v1)|null|
 |**2023-04-19**|**MPMQA: Multimodal Question Answering on Product Manuals**|Liang Zhang et.al.|[2304.09660v1](http://arxiv.org/abs/2304.09660v1)|**[link](https://github.com/aim3-ruc/mpmqa)**|
 |**2023-04-19**|**BRENT: Bidirectional Retrieval Enhanced Norwegian Transformer**|Lucas Georges Gabriel Charpentier et.al.|[2304.09649v1](http://arxiv.org/abs/2304.09649v1)|null|
 |**2023-04-19**|**LLM as A Robotic Brain: Unifying Egocentric Memory and Control**|Jinjie Mai et.al.|[2304.09349v1](http://arxiv.org/abs/2304.09349v1)|null|
@@ -1604,6 +1620,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Prompt-Learning for Cross-Lingual Relation Extraction**|Chiaming Hsu et.al.|[2304.10354v1](http://arxiv.org/abs/2304.10354v1)|**[link](https://github.com/hsu-chia-ming/prompt-xre)**|
 |**2023-04-18**|**Incremental Image Labeling via Iterative Refinement**|Fausto Giunchiglia et.al.|[2304.08989v1](http://arxiv.org/abs/2304.08989v1)|null|
 |**2023-04-17**|**LED: A Dataset for Life Event Extraction from Dialogs**|Yi-Pei Chen et.al.|[2304.08327v1](http://arxiv.org/abs/2304.08327v1)|null|
 |**2023-04-17**|**InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction**|Xiao Wang et.al.|[2304.08085v1](http://arxiv.org/abs/2304.08085v1)|**[link](https://github.com/beyonderxx/instructuie)**|
@@ -1805,6 +1822,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527v1](http://arxiv.org/abs/2304.10527v1)|null|
+|**2023-04-20**|**Dealing with Popularity Bias in Recommender Systems for Third-party Libraries: How far Are We?**|Phuong T. Nguyen et.al.|[2304.10409v1](http://arxiv.org/abs/2304.10409v1)|null|
+|**2023-04-20**|**Selective and Collaborative Influence Function for Efficient Recommendation Unlearning**|Yuyuan Li et.al.|[2304.10199v1](http://arxiv.org/abs/2304.10199v1)|null|
+|**2023-04-20**|**Is ChatGPT a Good Recommender? A Preliminary Study**|Junling Liu et.al.|[2304.10149v1](http://arxiv.org/abs/2304.10149v1)|null|
 |**2023-04-18**|**From RSSE to BotSE: Potentials and Challenges Revisited after 15 Years**|Walid Maalej et.al.|[2304.09308v1](http://arxiv.org/abs/2304.09308v1)|null|
 |**2023-04-18**|**Integrity and Junkiness Failure Handling for Embedding-based Retrieval: A Case Study in Social Network Search**|Wenping Wang et.al.|[2304.09287v1](http://arxiv.org/abs/2304.09287v1)|null|
 |**2023-04-18**|**Leveraging Deep Learning Techniques on Collaborative Filtering Recommender Systems**|Ali Fallahi RahmatAbadi et.al.|[2304.09282v1](http://arxiv.org/abs/2304.09282v1)|null|
@@ -2128,6 +2149,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**On the Potential of Artificial Intelligence Chatbots for Data Exploration of Federated Bioinformatics Knowledge Graphs**|Ana-Claudia Sima et.al.|[2304.10427v1](http://arxiv.org/abs/2304.10427v1)|null|
+|**2023-04-20**|**SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning**|Lingyuan Meng et.al.|[2304.10297v1](http://arxiv.org/abs/2304.10297v1)|null|
 |**2023-04-19**|**An Ecosystem for Personal Knowledge Graphs: A Survey and Research Roadmap**|Martin G. Skjæveland et.al.|[2304.09572v1](http://arxiv.org/abs/2304.09572v1)|null|
 |**2023-04-19**|**Inferring High-level Geographical Concepts via Knowledge Graph and Multi-scale Data Integration: A Case Study of C-shaped Building Pattern Recognition**|Zhiwei Wei et.al.|[2304.09391v1](http://arxiv.org/abs/2304.09391v1)|null|
 |**2023-04-18**|**BioThings Explorer: a query engine for a federated knowledge graph of biomedical APIs**|Jackson Callaghan et.al.|[2304.09344v1](http://arxiv.org/abs/2304.09344v1)|null|
@@ -2403,6 +2426,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527v1](http://arxiv.org/abs/2304.10527v1)|null|
+|**2023-04-20**|**Censoring chemical data to mitigate dual use risk**|Quintina L. Campbell et.al.|[2304.10510v1](http://arxiv.org/abs/2304.10510v1)|**[link](https://github.com/ur-whitelab/chem-dual-use)**|
+|**2023-04-20**|**Multi-label Node Classification On Graph-Structured Data**|Tianqi Zhao et.al.|[2304.10398v1](http://arxiv.org/abs/2304.10398v1)|null|
+|**2023-04-20**|**Learning Cellular Coverage from Real Network Configurations using GNNs**|Yifei Jin et.al.|[2304.10328v1](http://arxiv.org/abs/2304.10328v1)|**[link](https://github.com/bluelancer/gnn4ndosuppliment)**|
+|**2023-04-20**|**Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One**|Hongyuan Zhang et.al.|[2304.10126v1](http://arxiv.org/abs/2304.10126v1)|null|
+|**2023-04-20**|**Recurrent Transformer for Dynamic Graph Representation Learning with Edge Temporal States**|Shengxiang Hu et.al.|[2304.10079v1](http://arxiv.org/abs/2304.10079v1)|null|
+|**2023-04-20**|**Improving Graph Neural Networks on Multi-node Tasks with Labeling Tricks**|Xiyuan Wang et.al.|[2304.10074v1](http://arxiv.org/abs/2304.10074v1)|null|
+|**2023-04-19**|**HTNet: Dynamic WLAN Performance Prediction using Heterogenous Temporal GNN**|Hongkuan Zhou et.al.|[2304.10013v1](http://arxiv.org/abs/2304.10013v1)|null|
+|**2023-04-19**|**Solving the Kidney-Exchange Problem via Graph Neural Networks with No Supervision**|Pedro Foletto Pimenta et.al.|[2304.09975v1](http://arxiv.org/abs/2304.09975v1)|null|
 |**2023-04-19**|**AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks**|Shengrui Li et.al.|[2304.09595v1](http://arxiv.org/abs/2304.09595v1)|null|
 |**2023-04-20**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367v2](http://arxiv.org/abs/2304.09367v2)|null|
 |**2023-04-18**|**Neural networks for geospatial data**|Wentao Zhan et.al.|[2304.09157v1](http://arxiv.org/abs/2304.09157v1)|null|
