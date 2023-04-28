@@ -25,7 +25,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-26**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v1](http://arxiv.org/abs/2304.13712v1)|null|
+|**2023-04-27**|**string2string: A Modern Python Library for String-to-String Algorithms**|Mirac Suzgun et.al.|[2304.14395v1](http://arxiv.org/abs/2304.14395v1)|**[link](https://github.com/stanfordnlp/string2string)**|
+|**2023-04-26**|**Fine Tuning with Abnormal Examples**|Will Rieger et.al.|[2304.13783v1](http://arxiv.org/abs/2304.13783v1)|null|
+|**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|**[link](https://github.com/mooler0410/llmspracticalguide)**|
 |**2023-04-26**|**FVP: Fourier Visual Prompting for Source-Free Unsupervised Domain Adaptation of Medical Image Segmentation**|Yan Wang et.al.|[2304.13672v1](http://arxiv.org/abs/2304.13672v1)|null|
 |**2023-04-26**|**Using Implicit Feedback to Improve Question Generation**|Hugo Rodrigues et.al.|[2304.13664v1](http://arxiv.org/abs/2304.13664v1)|null|
 |**2023-04-26**|**Impact of Position Bias on Language Models in Token Classification**|Mehdi Ben Amor et.al.|[2304.13567v1](http://arxiv.org/abs/2304.13567v1)|null|
@@ -724,6 +726,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**ViMQ: A Vietnamese Medical Question Dataset for Healthcare Dialogue System Development**|Ta Duc Huy et.al.|[2304.14405v1](http://arxiv.org/abs/2304.14405v1)|**[link](https://github.com/tadeephuy/vimq)**|
+|**2023-04-27**|**Large Scale Genealogical Information Extraction From Handwritten Quebec Parish Records**|Solène Tarride et.al.|[2304.14044v1](http://arxiv.org/abs/2304.14044v1)|null|
 |**2023-04-26**|**Impact of Position Bias on Language Models in Token Classification**|Mehdi Ben Amor et.al.|[2304.13567v1](http://arxiv.org/abs/2304.13567v1)|null|
 |**2023-04-26**|**Key-value information extraction from full handwritten pages**|Solène Tarride et.al.|[2304.13530v1](http://arxiv.org/abs/2304.13530v1)|null|
 |**2023-04-18**|**HeRo: RoBERTa and Longformer Hebrew Language Models**|Vitaly Shalumov et.al.|[2304.11077v1](http://arxiv.org/abs/2304.11077v1)|null|
@@ -732,7 +736,7 @@ layout: default
 |**2023-04-24**|**IXA/Cogcomp at SemEval-2023 Task 2: Context-enriched Multilingual Named Entity Recognition using Knowledge Bases**|Iker García-Ferrero et.al.|[2304.10637v2](http://arxiv.org/abs/2304.10637v2)|**[link](https://github.com/ikergarcia1996/context-enriched-ner)**|
 |**2023-04-26**|**GPT-NER: Named Entity Recognition via Large Language Models**|Shuhe Wang et.al.|[2304.10428v2](http://arxiv.org/abs/2304.10428v2)|**[link](https://github.com/shuhewang1998/gpt-ner)**|
 |**2023-04-19**|**MasakhaNEWS: News Topic Classification for African languages**|David Ifeoluwa Adelani et.al.|[2304.09972v1](http://arxiv.org/abs/2304.09972v1)|**[link](https://github.com/masakhane-io/masakhane-news)**|
-|**2023-04-19**|**BRENT: Bidirectional Retrieval Enhanced Norwegian Transformer**|Lucas Georges Gabriel Charpentier et.al.|[2304.09649v1](http://arxiv.org/abs/2304.09649v1)|null|
+|**2023-04-19**|**BRENT: Bidirectional Retrieval Enhanced Norwegian Transformer**|Lucas Georges Gabriel Charpentier et.al.|[2304.09649v1](http://arxiv.org/abs/2304.09649v1)|**[link](https://github.com/ltgoslo/brent)**|
 |**2023-04-24**|**SemEval 2023 Task 6: LegalEval -- Understanding Legal Texts**|Ashutosh Modi et.al.|[2304.09548v2](http://arxiv.org/abs/2304.09548v2)|null|
 |**2023-04-18**|**Transfer to a Low-Resource Language via Close Relatives: The Case Study on Faroese**|Vésteinn Snæbjarnarson et.al.|[2304.08823v1](http://arxiv.org/abs/2304.08823v1)|null|
 |**2023-04-17**|**Classification of US Supreme Court Cases using BERT-Based Techniques**|Shubham Vatsal et.al.|[2304.08649v1](http://arxiv.org/abs/2304.08649v1)|**[link](https://github.com/shubham30vatsal/web-of-law)**|
@@ -907,7 +911,7 @@ layout: default
 |**2023-04-25**|**Compressing Sentence Representation with maximum Coding Rate Reduction**|Domagoj Ševerdija et.al.|[2304.12674v1](http://arxiv.org/abs/2304.12674v1)|null|
 |**2023-04-24**|**Understanding and Predicting Human Label Variation in Natural Language Inference through Explanation**|Nan-Jiang Jiang et.al.|[2304.12443v1](http://arxiv.org/abs/2304.12443v1)|null|
 |**2023-04-24**|**Generation-driven Contrastive Self-training for Zero-shot Text Classification with Instruction-tuned GPT**|Ruohong Zhang et.al.|[2304.11872v1](http://arxiv.org/abs/2304.11872v1)|**[link](https://github.com/riflezhang/genco)**|
-|**2023-04-23**|**Graph Neural Networks for Text Classification: A Survey**|Kunze Wang et.al.|[2304.11534v1](http://arxiv.org/abs/2304.11534v1)|null|
+|**2023-04-27**|**Graph Neural Networks for Text Classification: A Survey**|Kunze Wang et.al.|[2304.11534v2](http://arxiv.org/abs/2304.11534v2)|null|
 |**2023-04-24**|**Text2Time: Transformer-based Article Time Period Prediction**|Karthick Prasad Gunasekaran et.al.|[2304.10859v2](http://arxiv.org/abs/2304.10859v2)|null|
 |**2023-04-21**|**Downstream Task-Oriented Neural Tokenizer Optimization with Vocabulary Restriction as Post Processing**|Tatsuya Hiraoka et.al.|[2304.10808v1](http://arxiv.org/abs/2304.10808v1)|null|
 |**2023-04-21**|**ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness**|Archiki Prasad et.al.|[2304.10703v1](http://arxiv.org/abs/2304.10703v1)|**[link](https://github.com/archiki/receval)**|
@@ -1152,6 +1156,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**Entity-Level Sentiment Analysis (ELSA): An exploratory task survey**|Egil Rønningstad et.al.|[2304.14241v1](http://arxiv.org/abs/2304.14241v1)|**[link](https://github.com/egilron/elsa-introduction)**|
+|**2023-04-27**|**UIO at SemEval-2023 Task 12: Multilingual fine-tuning for sentiment classification in low-resource languages**|Egil Rønningstad et.al.|[2304.14189v1](http://arxiv.org/abs/2304.14189v1)|null|
 |**2023-04-26**|**HausaNLP at SemEval-2023 Task 12: Leveraging African Low Resource TweetData for Sentiment Analysis**|Saheed Abdullahi Salahudeen et.al.|[2304.13634v1](http://arxiv.org/abs/2304.13634v1)|**[link](https://github.com/ahmadmwali/semeval-afrisenti)**|
 |**2023-04-25**|**GMNLP at SemEval-2023 Task 12: Sentiment Analysis with Phylogeny-Based Adapters**|Md Mahfuz Ibn Alam et.al.|[2304.12979v1](http://arxiv.org/abs/2304.12979v1)|null|
 |**2023-04-25**|**KINLP at SemEval-2023 Task 12: Kinyarwanda Tweet Sentiment Analysis**|Antoine Nzeyimana et.al.|[2304.12569v1](http://arxiv.org/abs/2304.12569v1)|null|
@@ -1338,9 +1344,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**q2d: Turning Questions into Dialogs to Teach Models How to Search**|Yonatan Bitton et.al.|[2304.14318v1](http://arxiv.org/abs/2304.14318v1)|null|
+|**2023-04-26**|**Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining**|Bingqian Lin et.al.|[2304.14204v1](http://arxiv.org/abs/2304.14204v1)|null|
+|**2023-04-27**|**Answering Uncertain, Under-Specified API Queries Assisted by Knowledge-Aware Human-AI Dialogue**|Qing Huang et.al.|[2304.14163v1](http://arxiv.org/abs/2304.14163v1)|null|
+|**2023-04-27**|**ChatLog: Recording and Analyzing ChatGPT Across Time**|Shangqing Tu et.al.|[2304.14106v1](http://arxiv.org/abs/2304.14106v1)|**[link](https://github.com/thu-keg/chatlog)**|
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|null|
 |**2023-04-26**|**A Personalized Dense Retrieval Framework for Unified Information Access**|Hansi Zeng et.al.|[2304.13654v1](http://arxiv.org/abs/2304.13654v1)|**[link](https://github.com/hansizeng/uia)**|
-|**2023-04-26**|**A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering**|Alireza Salemi et.al.|[2304.13649v1](http://arxiv.org/abs/2304.13649v1)|null|
+|**2023-04-26**|**A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering**|Alireza Salemi et.al.|[2304.13649v1](http://arxiv.org/abs/2304.13649v1)|**[link](https://github.com/alirezasalemi7/dedr-mm-fid)**|
 |**2023-04-25**|**Unstructured and structured data: Can we have the best of both worlds with large language models?**|Wang-Chiew Tan et.al.|[2304.13010v1](http://arxiv.org/abs/2304.13010v1)|null|
 |**2023-04-25**|**Answering Questions by Meta-Reasoning over Multiple Chains of Thought**|Ori Yoran et.al.|[2304.13007v1](http://arxiv.org/abs/2304.13007v1)|**[link](https://github.com/oriyor/reasoning-on-cots)**|
 |**2023-04-25**|**MG-ShopDial: A Multi-Goal Conversational Dataset for e-Commerce**|Nolwenn Bernard et.al.|[2304.12636v1](http://arxiv.org/abs/2304.12636v1)|**[link](https://github.com/iai-group/mg-shopdial)**|
@@ -1686,6 +1696,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**A Modern Global Extraction of the Sivers Function**|I. P. Fernando et.al.|[2304.14328v1](http://arxiv.org/abs/2304.14328v1)|null|
+|**2023-04-27**|**Large Scale Genealogical Information Extraction From Handwritten Quebec Parish Records**|Solène Tarride et.al.|[2304.14044v1](http://arxiv.org/abs/2304.14044v1)|null|
 |**2023-04-26**|**SIMARA: a database for key-value information extraction from full pages**|Solène Tarride et.al.|[2304.13606v1](http://arxiv.org/abs/2304.13606v1)|null|
 |**2023-04-26**|**Key-value information extraction from full handwritten pages**|Solène Tarride et.al.|[2304.13530v1](http://arxiv.org/abs/2304.13530v1)|null|
 |**2023-04-25**|**TCR: Short Video Title Generation and Cover Selection with Attention Refinement**|Yakun Yu et.al.|[2304.12561v1](http://arxiv.org/abs/2304.12561v1)|null|
@@ -1900,9 +1912,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**A Best-of-Both-Worlds Algorithm for Constrained MDPs with Long-Term Constraints**|Jacopo Germano et.al.|[2304.14326v1](http://arxiv.org/abs/2304.14326v1)|null|
+|**2023-04-27**|**Towards Explainable Collaborative Filtering with Taste Clusters Learning**|Yuntao Du et.al.|[2304.13937v1](http://arxiv.org/abs/2304.13937v1)|**[link](https://github.com/zealscott/ecf)**|
 |**2023-04-26**|**Reformulating CTR Prediction: Learning Invariant Feature Interactions for Recommendation**|Yang Zhang et.al.|[2304.13643v1](http://arxiv.org/abs/2304.13643v1)|**[link](https://github.com/zyang1580/dil)**|
 |**2023-04-26**|**Improvements on Recommender System based on Mathematical Principles**|Fu Chen et.al.|[2304.13579v1](http://arxiv.org/abs/2304.13579v1)|null|
-|**2023-04-26**|**Self-Supervised Multi-Modal Sequential Recommendation**|Kunzhe Song et.al.|[2304.13277v1](http://arxiv.org/abs/2304.13277v1)|null|
+|**2023-04-26**|**Self-Supervised Multi-Modal Sequential Recommendation**|Kunzhe Song et.al.|[2304.13277v1](http://arxiv.org/abs/2304.13277v1)|**[link](https://github.com/kz-song/mmsrec)**|
 |**2023-04-25**|**COUPA: An Industrial Recommender System for Online to Offline Service Platforms**|Sicong Xie et.al.|[2304.12549v1](http://arxiv.org/abs/2304.12549v1)|null|
 |**2023-04-24**|**ExCalibR: Expected Calibration of Recommendations**|Pannagadatta Shivaswamy et.al.|[2304.12311v1](http://arxiv.org/abs/2304.12311v1)|null|
 |**2023-04-24**|**Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling**|Xuhui Ren et.al.|[2304.12083v1](http://arxiv.org/abs/2304.12083v1)|null|
@@ -2237,8 +2251,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**Retrieval-based Knowledge Augmented Vision Language Pre-training**|Jiahua Rao et.al.|[2304.13923v1](http://arxiv.org/abs/2304.13923v1)|null|
+|**2023-04-26**|**Understand the Dynamic World: An End-to-End Knowledge Informed Framework for Open Domain Entity State Tracking**|Mingchen Li et.al.|[2304.13854v1](http://arxiv.org/abs/2304.13854v1)|null|
 |**2023-04-26**|**Structure Diagram Recognition in Financial Announcements**|Meixuan Qiao et.al.|[2304.13240v1](http://arxiv.org/abs/2304.13240v1)|null|
-|**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195v1](http://arxiv.org/abs/2304.13195v1)|null|
+|**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195v1](http://arxiv.org/abs/2304.13195v1)|**[link](https://github.com/nslab-cuk/connector)**|
 |**2023-04-25**|**Modeling Spoken Information Queries for Virtual Assistants: Open Problems, Challenges and Opportunities**|Christophe Van Gysel et.al.|[2304.13149v1](http://arxiv.org/abs/2304.13149v1)|null|
 |**2023-04-25**|**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2304.12604v1](http://arxiv.org/abs/2304.12604v1)|null|
 |**2023-04-26**|**Extreme Classification for Answer Type Prediction in Question Answering**|Vinay Setty et.al.|[2304.12395v2](http://arxiv.org/abs/2304.12395v2)|null|
@@ -2531,12 +2547,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**When Do Graph Neural Networks Help with Node Classification: Investigating the Homophily Principle on Node Distinguishability**|Sitao Luan et.al.|[2304.14274v1](http://arxiv.org/abs/2304.14274v1)|null|
+|**2023-04-27**|**Bitcoin Double-Spending Attack Detection using Graph Neural Network**|Changhoon Kang et.al.|[2304.13935v1](http://arxiv.org/abs/2304.13935v1)|null|
 |**2023-04-26**|**Long-Short-Range Message-Passing: A Physics-Informed Framework to Capture Non-Local Interaction for Scalable Molecular Dynamics Simulation**|Yunyang Li et.al.|[2304.13542v1](http://arxiv.org/abs/2304.13542v1)|null|
 |**2023-04-26**|**SCV-GNN: Sparse Compressed Vector-based Graph Neural Network Aggregation**|Nanda K. Unnikrishnan et.al.|[2304.13532v1](http://arxiv.org/abs/2304.13532v1)|null|
 |**2023-04-26**|**Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation**|Negar Nejatishahidin et.al.|[2304.13201v1](http://arxiv.org/abs/2304.13201v1)|null|
 |**2023-04-25**|**Discovering Graph Generation Algorithms**|Mihai Babiac et.al.|[2304.12895v1](http://arxiv.org/abs/2304.12895v1)|null|
 |**2023-04-25**|**Node Feature Augmentation Vitaminizes Network Alignment**|Jin-Duk Park et.al.|[2304.12751v1](http://arxiv.org/abs/2304.12751v1)|null|
-|**2023-04-25**|**Performance Optimization using Multimodal Modeling and Heterogeneous GNN**|Akash Dutta et.al.|[2304.12568v1](http://arxiv.org/abs/2304.12568v1)|null|
+|**2023-04-27**|**Performance Optimization using Multimodal Modeling and Heterogeneous GNN**|Akash Dutta et.al.|[2304.12568v2](http://arxiv.org/abs/2304.12568v2)|null|
 |**2023-04-25**|**GARCIA: Powering Representations of Long-tail Query with Multi-granularity Contrastive Learning**|Weifan Wang et.al.|[2304.12537v1](http://arxiv.org/abs/2304.12537v1)|null|
 |**2023-04-24**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural Network**|Nian Liu et.al.|[2304.12228v1](http://arxiv.org/abs/2304.12228v1)|null|
 |**2023-04-24**|**Impact-Oriented Contextual Scholar Profiling using Self-Citation Graphs**|Yuankai Luo et.al.|[2304.12217v1](http://arxiv.org/abs/2304.12217v1)|**[link](https://github.com/visdata/geneticflow)**|
