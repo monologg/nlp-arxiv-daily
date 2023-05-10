@@ -25,6 +25,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Beyond Good Intentions: Reporting the Research Landscape of NLP for Social Good**|Fernando Gonzalez et.al.|[2305.05471v1](http://arxiv.org/abs/2305.05471v1)|**[link](https://github.com/feradauto/nlp4sg)**|
+|**2023-05-09**|**Estimating related words computationally using language model from the Mahabharata -- an Indian epic**|Vrunda Gadesha et.al.|[2305.05420v1](http://arxiv.org/abs/2305.05420v1)|null|
+|**2023-05-08**|**Knowledge-enhanced Agents for Interactive Text Games**|Prateek Chhikara et.al.|[2305.05091v1](http://arxiv.org/abs/2305.05091v1)|null|
+|**2023-05-08**|**A Unified Evaluation Framework for Novelty Detection and Accommodation in NLP with an Instantiation in Authorship Attribution**|Neeraj Varshney et.al.|[2305.05079v1](http://arxiv.org/abs/2305.05079v1)|null|
+|**2023-05-08**|**Dreams Are More "Predictable'' Than You Think**|Lorenzo Bertolini et.al.|[2305.05054v1](http://arxiv.org/abs/2305.05054v1)|null|
+|**2023-05-08**|**Knowledge Graph Guided Semantic Evaluation of Language Models For User Trust**|Kaushik Roy et.al.|[2305.04989v1](http://arxiv.org/abs/2305.04989v1)|null|
+|**2023-05-08**|**Towards Understanding Machine Learning Testing in Practise**|Arumoy Shome et.al.|[2305.04988v1](http://arxiv.org/abs/2305.04988v1)|null|
+|**2023-05-08**|**The EarlyBIRD Catches the Bug: On Exploiting Early Layers of Encoder Models for More Efficient Code Classification**|Anastasiia Grishina et.al.|[2305.04940v1](http://arxiv.org/abs/2305.04940v1)|null|
 |**2023-05-08**|**Augmented Large Language Models with Parametric Knowledge Guiding**|Ziyang Luo et.al.|[2305.04757v1](http://arxiv.org/abs/2305.04757v1)|null|
 |**2023-05-08**|**Toeplitz Neural Network for Sequence Modeling**|Zhen Qin et.al.|[2305.04749v1](http://arxiv.org/abs/2305.04749v1)|**[link](https://github.com/opennlplab/tnn)**|
 |**2023-05-08**|**Differentially Private Attention Computation**|Yeqi Gao et.al.|[2305.04701v1](http://arxiv.org/abs/2305.04701v1)|null|
@@ -782,11 +790,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Attack Named Entity Recognition by Entity Boundary Interference**|Yifei Yang et.al.|[2305.05253v1](http://arxiv.org/abs/2305.05253v1)|null|
+|**2023-05-05**|**A transformer-based method for zero and few-shot biomedical named entity recognition**|Miloš Košprdić et.al.|[2305.04928v1](http://arxiv.org/abs/2305.04928v1)|**[link](https://github.com/br-ai-ns-institute/zero-shotner)**|
 |**2023-05-08**|**Toward Adversarial Training on Contextualized Language Representation**|Hongqiu Wu et.al.|[2305.04557v1](http://arxiv.org/abs/2305.04557v1)|**[link](https://github.com/gingasan/creat)**|
 |**2023-05-06**|**SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition**|Shuzheng Si et.al.|[2305.04076v1](http://arxiv.org/abs/2305.04076v1)|**[link](https://github.com/pkunlp-icler/santa)**|
 |**2023-05-06**|**NER-to-MRC: Named-Entity Recognition Completely Solving as Machine Reading Comprehension**|Yuxiang Zhang et.al.|[2305.03970v1](http://arxiv.org/abs/2305.03970v1)|null|
 |**2023-05-06**|**Beyond Rule-based Named Entity Recognition and Relation Extraction for Process Model Generation from Natural Language Text**|Julian Neuberger et.al.|[2305.03960v1](http://arxiv.org/abs/2305.03960v1)|null|
-|**2023-05-05**|**DAMO-NLP at SemEval-2023 Task 2: A Unified Retrieval-augmented System for Multilingual Named Entity Recognition**|Zeqi Tan et.al.|[2305.03688v1](http://arxiv.org/abs/2305.03688v1)|**[link](https://github.com/modelscope/adaseq)**|
+|**2023-05-09**|**DAMO-NLP at SemEval-2023 Task 2: A Unified Retrieval-augmented System for Multilingual Named Entity Recognition**|Zeqi Tan et.al.|[2305.03688v2](http://arxiv.org/abs/2305.03688v2)|**[link](https://github.com/modelscope/adaseq)**|
 |**2023-05-05**|**LLM-RM at SemEval-2023 Task 2: Multilingual Complex NER using XLM-RoBERTa**|Rahul Mehta et.al.|[2305.03300v1](http://arxiv.org/abs/2305.03300v1)|null|
 |**2023-05-05**|**VicunaNER: Zero/Few-shot Named Entity Recognition using Vicuna**|Bin Ji et.al.|[2305.03253v1](http://arxiv.org/abs/2305.03253v1)|null|
 |**2023-05-04**|**The Role of Global and Local Context in Named Entity Recognition**|Arthur Amalvy et.al.|[2305.03132v1](http://arxiv.org/abs/2305.03132v1)|null|
@@ -977,12 +987,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**An Exploration of Encoder-Decoder Approaches to Multi-Label Classification for Legal and Biomedical Text**|Yova Kementchedjhieva et.al.|[2305.05627v1](http://arxiv.org/abs/2305.05627v1)|null|
+|**2023-05-09**|**Consistent Text Categorization using Data Augmentation in e-Commerce**|Guy Horowitz et.al.|[2305.05402v1](http://arxiv.org/abs/2305.05402v1)|null|
+|**2023-05-09**|**MoT: Pre-thinking and Recalling Enable ChatGPT to Self-Improve with Memory-of-Thoughts**|Xiaonan Li et.al.|[2305.05181v1](http://arxiv.org/abs/2305.05181v1)|null|
 |**2023-05-08**|**What Do Patients Say About Their Disease Symptoms? Deep Multilabel Text Classification With Human-in-the-Loop Curation for Automatic Labeling of Patient Self Reports of Problems**|Lakshmi Arbatti et.al.|[2305.04905v1](http://arxiv.org/abs/2305.04905v1)|null|
 |**2023-05-07**|**Shrinkers with curvature pinching conditions are compact**|Guoqiang Wu et.al.|[2305.04235v1](http://arxiv.org/abs/2305.04235v1)|null|
 |**2023-05-07**|**Does the i-process operate at nearly solar metallicity?**|D. Karinkuzhi et.al.|[2305.04189v1](http://arxiv.org/abs/2305.04189v1)|null|
 |**2023-05-06**|**Rhetorical Role Labeling of Legal Documents using Transformers and Graph Neural Networks**|Anshika Gupta et.al.|[2305.04100v1](http://arxiv.org/abs/2305.04100v1)|null|
 |**2023-05-06**|**DiscoPrompt: Path Prediction Prompt Tuning for Implicit Discourse Relation Recognition**|Chunkit Chan et.al.|[2305.03973v1](http://arxiv.org/abs/2305.03973v1)|**[link](https://github.com/hkust-knowcomp/discoprompt)**|
-|**2023-05-05**|**Calibration Assessment and Boldness-Recalibration for Binary Events**|Adeline P. Guthrie et.al.|[2305.03780v1](http://arxiv.org/abs/2305.03780v1)|null|
+|**2023-05-09**|**Calibration Assessment and Boldness-Recalibration for Binary Events**|Adeline P. Guthrie et.al.|[2305.03780v2](http://arxiv.org/abs/2305.03780v2)|null|
 |**2023-05-08**|**White-Box Multi-Objective Adversarial Attack on Dialogue Generation**|Yufei Li et.al.|[2305.03655v2](http://arxiv.org/abs/2305.03655v2)|**[link](https://github.com/yul091/dgslow)**|
 |**2023-05-05**|**NLI4CT: Multi-Evidence Natural Language Inference for Clinical Trial Reports**|Maël Jullien et.al.|[2305.03598v1](http://arxiv.org/abs/2305.03598v1)|**[link](https://github.com/ai-systems/nli4ct)**|
 |**2023-05-03**|**ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs**|Yucheng Shi et.al.|[2305.03513v1](http://arxiv.org/abs/2305.03513v1)|null|
@@ -1253,6 +1266,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Structured Sentiment Analysis as Transition-based Dependency Parsing**|Daniel Fernández-González et.al.|[2305.05311v1](http://arxiv.org/abs/2305.05311v1)|null|
+|**2023-05-09**|**PSP Framework: A novel risk assessment method in compliance with ISO/SAE-21434**|Franco Oberti et.al.|[2305.05309v1](http://arxiv.org/abs/2305.05309v1)|null|
 |**2023-05-05**|**The MuSe 2023 Multimodal Sentiment Analysis Challenge: Mimicked Emotions, Cross-Cultural Humour, and Personalisation**|Lukas Christ et.al.|[2305.03369v1](http://arxiv.org/abs/2305.03369v1)|**[link](https://github.com/eihw/muse-2023)**|
 |**2023-05-03**|**New Adversarial Image Detection Based on Sentiment Analysis**|Yulong Wang et.al.|[2305.03173v1](http://arxiv.org/abs/2305.03173v1)|**[link](https://github.com/wangfrombupt/adversarial_detector)**|
 |**2023-05-04**|**DN at SemEval-2023 Task 12: Low-Resource Language Text Classification via Multilingual Pretrained Language Model Fine-tuning**|Daniil Homskiy et.al.|[2305.02607v1](http://arxiv.org/abs/2305.02607v1)|null|
@@ -1455,6 +1470,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**MAUPQA: Massive Automatically-created Polish Question Answering Dataset**|Piotr Rybak et.al.|[2305.05486v1](http://arxiv.org/abs/2305.05486v1)|null|
+|**2023-05-09**|**Large Language Models Need Holistically Thought in Medical Conversational QA**|Yixuan Weng et.al.|[2305.05410v1](http://arxiv.org/abs/2305.05410v1)|**[link](https://github.com/wengsyx/hot)**|
+|**2023-05-09**|**Large Language Model Programs**|Imanol Schlag et.al.|[2305.05364v1](http://arxiv.org/abs/2305.05364v1)|null|
+|**2023-05-08**|**Knowledge-enhanced Agents for Interactive Text Games**|Prateek Chhikara et.al.|[2305.05091v1](http://arxiv.org/abs/2305.05091v1)|null|
 |**2023-05-08**|**A Frustratingly Easy Improvement for Position Embeddings via Random Padding**|Mingxu Tao et.al.|[2305.04859v1](http://arxiv.org/abs/2305.04859v1)|null|
 |**2023-05-08**|**SkillQG: Learning to Generate Question for Reading Comprehension Assessment**|Xiaoqiang Wang et.al.|[2305.04737v1](http://arxiv.org/abs/2305.04737v1)|null|
 |**2023-05-08**|**Event Knowledge Incorporation with Posterior Regularization for Event-Centric Question Answering**|Junru Lu et.al.|[2305.04522v1](http://arxiv.org/abs/2305.04522v1)|**[link](https://github.com/lujunru/eventqaviapr)**|
@@ -1845,6 +1864,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Integrating Holistic and Local Information to Estimate Emotional Reaction Intensity**|Yini Fang et.al.|[2305.05534v1](http://arxiv.org/abs/2305.05534v1)|**[link](https://github.com/hkust-nisl/abaw5)**|
 |**2023-05-08**|**MultiTACRED: A Multilingual Version of the TAC Relation Extraction Dataset**|Leonhard Hennig et.al.|[2305.04582v1](http://arxiv.org/abs/2305.04582v1)|**[link](https://github.com/dfki-nlp/multitacred)**|
 |**2023-05-07**|**Shall We Trust All Relational Tuples by Open Information Extraction? A Study on Speculation Detection**|Kuicai Dong et.al.|[2305.04181v1](http://arxiv.org/abs/2305.04181v1)|null|
 |**2023-05-06**|**Actively Discovering New Slots for Task-oriented Conversation**|Yuxia Wu et.al.|[2305.04049v1](http://arxiv.org/abs/2305.04049v1)|**[link](https://github.com/newslotdetection/newslotdetection)**|
@@ -2074,8 +2094,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Improving Implicit Feedback-Based Recommendation through Multi-Behavior Alignment**|Xin Xin et.al.|[2305.05585v1](http://arxiv.org/abs/2305.05585v1)|**[link](https://github.com/liuxiangyuan/mba)**|
+|**2023-05-09**|**Turning Privacy-preserving Mechanisms against Federated Learning**|Marco Arazzi et.al.|[2305.05355v1](http://arxiv.org/abs/2305.05355v1)|null|
+|**2023-05-09**|**Variational Bayesian Inference for Bipartite Mixed-membership Stochastic Block Model with Applications to Collaborative Filtering**|Jie Liu et.al.|[2305.05350v1](http://arxiv.org/abs/2305.05350v1)|null|
+|**2023-05-09**|**Explainable Recommender with Geometric Information Bottleneck**|Hanqi Yan et.al.|[2305.05331v1](http://arxiv.org/abs/2305.05331v1)|null|
+|**2023-05-09**|**Survey of Federated Learning Models for Spatial-Temporal Mobility Applications**|Yacine Belal et.al.|[2305.05257v1](http://arxiv.org/abs/2305.05257v1)|null|
+|**2023-05-09**|**Popularity Debiasing from Exposure to Interaction in Collaborative Filtering**|Yuanhao Liu et.al.|[2305.05204v1](http://arxiv.org/abs/2305.05204v1)|**[link](https://github.com/unitdan/ipl)**|
+|**2023-05-08**|**Recommender Systems with Generative Retrieval**|Shashank Rajput et.al.|[2305.05065v1](http://arxiv.org/abs/2305.05065v1)|null|
 |**2023-05-05**|**U-NEED: A Fine-grained Dataset for User Needs-Centric E-commerce Conversational Recommendation**|Yuanxing Liu et.al.|[2305.04774v1](http://arxiv.org/abs/2305.04774v1)|null|
 |**2023-05-08**|**Evaluating Impact of User-Cluster Targeted Attacks in Matrix Factorisation Recommenders**|Sulthana Shams et.al.|[2305.04694v1](http://arxiv.org/abs/2305.04694v1)|null|
+|**2023-05-09**|**Graph Masked Autoencoder for Sequential Recommendation**|Yaowen Ye et.al.|[2305.04619v2](http://arxiv.org/abs/2305.04619v2)|**[link](https://github.com/hkuds/maerec)**|
 |**2023-05-08**|**Retriever and Ranker Framework with Probabilistic Hard Negative Sampling for Code Search**|Hande Dong et.al.|[2305.04508v1](http://arxiv.org/abs/2305.04508v1)|null|
 |**2023-05-07**|**MIReAD: Simple Method for Learning High-quality Representations from Scientific Documents**|Anastasia Razdaibiedina et.al.|[2305.04177v1](http://arxiv.org/abs/2305.04177v1)|**[link](https://github.com/arazd/miread)**|
 |**2023-05-06**|**Attacking Pre-trained Recommendation**|Yiqing Wu et.al.|[2305.03995v1](http://arxiv.org/abs/2305.03995v1)|null|
@@ -2438,6 +2466,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: an application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v1](http://arxiv.org/abs/2305.05640v1)|**[link](https://github.com/ibm/hspo-ontology)**|
+|**2023-05-09**|**COKE: A Cognitive Knowledge Graph for Machine Theory of Mind**|Jincenzi Wu et.al.|[2305.05390v1](http://arxiv.org/abs/2305.05390v1)|null|
+|**2023-05-08**|**Knowledge-enhanced Agents for Interactive Text Games**|Prateek Chhikara et.al.|[2305.05091v1](http://arxiv.org/abs/2305.05091v1)|null|
+|**2023-05-08**|**Knowledge Graph Guided Semantic Evaluation of Language Models For User Trust**|Kaushik Roy et.al.|[2305.04989v1](http://arxiv.org/abs/2305.04989v1)|null|
 |**2023-05-04**|**Multi-grained Hypergraph Interest Modeling for Conversational Recommendation**|Chenzhan Shang et.al.|[2305.04798v1](http://arxiv.org/abs/2305.04798v1)|**[link](https://github.com/rucaibox/mhim)**|
 |**2023-05-08**|**Enhancing Knowledge Graph Construction Using Large Language Models**|Milena Trajanoska et.al.|[2305.04676v1](http://arxiv.org/abs/2305.04676v1)|null|
 |**2023-05-08**|**Multi-source Education Knowledge Graph Construction and Fusion for College Curricula**|Zeju Li et.al.|[2305.04567v1](http://arxiv.org/abs/2305.04567v1)|null|
@@ -2761,6 +2793,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: an application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v1](http://arxiv.org/abs/2305.05640v1)|**[link](https://github.com/ibm/hspo-ontology)**|
+|**2023-05-09**|**Deep Learning and Geometric Deep Learning: an introduction for mathematicians and physicists**|R. Fioresi et.al.|[2305.05601v1](http://arxiv.org/abs/2305.05601v1)|null|
+|**2023-05-09**|**Graph Neural Networks for Airfoil Design**|Florent Bonnet et.al.|[2305.05469v1](http://arxiv.org/abs/2305.05469v1)|null|
+|**2023-05-09**|**PLM-GNN: A Webpage Classification Method based on Joint Pre-trained Language Model and Graph Neural Network**|Qiwei Lang et.al.|[2305.05378v1](http://arxiv.org/abs/2305.05378v1)|null|
+|**2023-05-09**|**GNNs,You can be Stronger,Deeper and Faster**|Jingbo Zhou et.al.|[2305.05368v1](http://arxiv.org/abs/2305.05368v1)|null|
+|**2023-05-09**|**Turning Privacy-preserving Mechanisms against Federated Learning**|Marco Arazzi et.al.|[2305.05355v1](http://arxiv.org/abs/2305.05355v1)|null|
+|**2023-05-09**|**Graph Neural Network-based surrogate model for granular flows**|Yongjin Choi et.al.|[2305.05218v1](http://arxiv.org/abs/2305.05218v1)|null|
+|**2023-05-09**|**Cooperating Graph Neural Networks with Deep Reinforcement Learning for Vaccine Prioritization**|Lu Ling et.al.|[2305.05163v1](http://arxiv.org/abs/2305.05163v1)|null|
+|**2023-05-08**|**From Relational Pooling to Subgraph GNNs: A Universal Framework for More Expressive Graph Neural Networks**|Cai Zhou et.al.|[2305.04963v1](http://arxiv.org/abs/2305.04963v1)|null|
 |**2023-05-08**|**Anticipatory Planning: Improving Long-Lived Planning by Estimating Expected Cost of Future Tasks**|Roshan Dhakal et.al.|[2305.04692v1](http://arxiv.org/abs/2305.04692v1)|null|
 |**2023-05-08**|**Graph Masked Autoencoder for Sequential Recommendation**|Yaowen Ye et.al.|[2305.04619v1](http://arxiv.org/abs/2305.04619v1)|**[link](https://github.com/hkuds/gmrec)**|
 |**2023-05-08**|**Can graph neural network-based detection mitigate the impact of hardware imperfections?**|Lamprini Mitsiou et.al.|[2305.04612v1](http://arxiv.org/abs/2305.04612v1)|null|
