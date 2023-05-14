@@ -33,7 +33,7 @@ layout: default
 |**2023-05-10**|**CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation**|Hongbo Zhanga et.al.|[2305.06294v1](http://arxiv.org/abs/2305.06294v1)|null|
 |**2023-05-09**|**Alleviating Over-smoothing for Unsupervised Sentence Representation**|Nuo Chen et.al.|[2305.06154v1](http://arxiv.org/abs/2305.06154v1)|**[link](https://github.com/nuochenpku/sscl)**|
 |**2023-05-10**|**CrudeBERT: Applying Economic Theory towards fine-tuning Transformer-based Sentiment Analysis Models to the Crude Oil Market**|Himmet Kaplan et.al.|[2305.06140v1](http://arxiv.org/abs/2305.06140v1)|null|
-|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|null|
+|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|**[link](https://github.com/aofrancani/tsformer-vo)**|
 |**2023-05-10**|**XTab: Cross-table Pretraining for Tabular Transformers**|Bingzhao Zhu et.al.|[2305.06090v1](http://arxiv.org/abs/2305.06090v1)|**[link](https://github.com/bingzhaozhu/xtab)**|
 |**2023-05-10**|**FedSOV: Federated Model Secure Ownership Verification with Unforgeable Signature**|Wenyuan Yang et.al.|[2305.06085v1](http://arxiv.org/abs/2305.06085v1)|null|
 |**2023-05-09**|**Learning to Parallelize with OpenMP by Augmented Heterogeneous AST Representation**|Le Chen et.al.|[2305.05779v1](http://arxiv.org/abs/2305.05779v1)|null|
