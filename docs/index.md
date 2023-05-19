@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**|Siyuan Huang et.al.|[2305.11176v1](http://arxiv.org/abs/2305.11176v1)|**[link](https://github.com/opengvlab/instruct2act)**|
+|**2023-05-18**|**Visual Question Answering: A Survey on Techniques and Common Trends in Recent Literature**|Ana Cláudia Akemi Matsuki de Faria et.al.|[2305.11033v1](http://arxiv.org/abs/2305.11033v1)|null|
+|**2023-05-18**|**How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses**|Joana C. Costa et.al.|[2305.10862v1](http://arxiv.org/abs/2305.10862v1)|null|
+|**2023-05-18**|**Deep Learning Methods for Extracting Metaphorical Names of Flowers and Plants**|Amal Haddad Haddad et.al.|[2305.10833v1](http://arxiv.org/abs/2305.10833v1)|null|
+|**2023-05-18**|**Expanding the Role of Affective Phenomena in Multimodal Interaction Research**|Leena Mathur et.al.|[2305.10827v1](http://arxiv.org/abs/2305.10827v1)|null|
+|**2023-05-18**|**A Survey on Time-Series Pre-Trained Models**|Qianli Ma et.al.|[2305.10716v1](http://arxiv.org/abs/2305.10716v1)|**[link](https://github.com/qianlima-lab/time-series-ptms)**|
+|**2023-05-18**|**Vision-Language Pre-training with Object Contrastive Learning for 3D Scene Understanding**|Taolin Zhang et.al.|[2305.10714v1](http://arxiv.org/abs/2305.10714v1)|null|
+|**2023-05-18**|**NoisywikiHow: A Benchmark for Learning with Real-world Noisy Labels in Natural Language Processing**|Tingting Wu et.al.|[2305.10709v1](http://arxiv.org/abs/2305.10709v1)|null|
+|**2023-05-18**|**MolXPT: Wrapping Molecules with Text for Generative Pre-training**|Zequn Liu et.al.|[2305.10688v1](http://arxiv.org/abs/2305.10688v1)|null|
+|**2023-05-17**|**Incorporating Attribution Importance for Improving Faithfulness Metrics**|Zhixue Zhao et.al.|[2305.10496v1](http://arxiv.org/abs/2305.10496v1)|**[link](https://github.com/casszhao/softfaith)**|
 |**2023-05-17**|**G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks**|Anchun Gui et.al.|[2305.10329v1](http://arxiv.org/abs/2305.10329v1)|null|
 |**2023-05-17**|**Towards More Robust NLP System Evaluation: Handling Missing Scores in Benchmarks**|Anas Himmi et.al.|[2305.10284v1](http://arxiv.org/abs/2305.10284v1)|null|
 |**2023-05-17**|**A quantitative study of NLP approaches to question difficulty estimation**|Luca Benedetto et.al.|[2305.10236v1](http://arxiv.org/abs/2305.10236v1)|null|
@@ -839,6 +849,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**SPSQL: Step-by-step Parsing Based Framework for Text-to-SQL Generation**|Ran Shen et.al.|[2305.11061v1](http://arxiv.org/abs/2305.11061v1)|null|
+|**2023-05-18**|**Learning In-context Learning for Named Entity Recognition**|Jiawei Chen et.al.|[2305.11038v1](http://arxiv.org/abs/2305.11038v1)|**[link](https://github.com/chen700564/metaner-icl)**|
+|**2023-05-18**|**BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER**|Sreyan Ghosh et.al.|[2305.10647v1](http://arxiv.org/abs/2305.10647v1)|**[link](https://github.com/Sreyan88/BioAug)**|
 |**2023-05-17**|**UniEX: An Effective and Efficient Framework for Unified Information Extraction via a Span-extractive Perspective**|Junyu Lu et.al.|[2305.10306v1](http://arxiv.org/abs/2305.10306v1)|null|
 |**2023-05-15**|**A Novel Framework for Multimodal Named Entity Recognition with Multi-level Alignments**|Peipei Liu et.al.|[2305.08372v1](http://arxiv.org/abs/2305.08372v1)|null|
 |**2023-05-14**|**MatSci-NLP: Evaluating Scientific Language Models on Materials Science Language Tasks Using Text-to-Schema Modeling**|Yu Song et.al.|[2305.08264v1](http://arxiv.org/abs/2305.08264v1)|**[link](https://github.com/banglab-udem-mila/nlp4matsci-acl23)**|
@@ -1046,10 +1059,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models**|Zorik Gekhman et.al.|[2305.11171v1](http://arxiv.org/abs/2305.11171v1)|**[link](https://github.com/google-research/google-research/tree/master/true_teacher)**|
+|**2023-05-18**|**ReGen: Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval**|Yue Yu et.al.|[2305.10703v1](http://arxiv.org/abs/2305.10703v1)|**[link](https://github.com/yueyu1030/ReGen)**|
 |**2023-05-17**|**Variational Classification**|Shehzaad Dhuliawala et.al.|[2305.10406v1](http://arxiv.org/abs/2305.10406v1)|null|
-|**2023-05-17**|**Large-Scale Text Analysis Using Generative Language Models: A Case Study in Discovering Public Value Expressions in AI Patents**|Sergio Pelaez et.al.|[2305.10383v1](http://arxiv.org/abs/2305.10383v1)|null|
+|**2023-05-18**|**Large-Scale Text Analysis Using Generative Language Models: A Case Study in Discovering Public Value Expressions in AI Patents**|Sergio Pelaez et.al.|[2305.10383v2](http://arxiv.org/abs/2305.10383v2)|null|
 |**2023-05-17**|**XAI for Self-supervised Clustering of Wireless Spectrum Activity**|Ljupcho Milosheski et.al.|[2305.10060v1](http://arxiv.org/abs/2305.10060v1)|null|
-|**2023-05-17**|**A hybrid feature learning approach based on convolutional kernels for ATM fault prediction using event-log data**|Víctor Manuel Vargas et.al.|[2305.10059v1](http://arxiv.org/abs/2305.10059v1)|null|
+|**2023-05-17**|**A hybrid feature learning approach based on convolutional kernels for ATM fault prediction using event-log data**|Víctor Manuel Vargas et.al.|[2305.10059v1](http://arxiv.org/abs/2305.10059v1)|**[link](https://github.com/victormvy/sigma-convkernels)**|
 |**2023-05-16**|**On Dataset Transferability in Active Learning for Transformers**|Fran Jelenić et.al.|[2305.09807v1](http://arxiv.org/abs/2305.09807v1)|**[link](https://github.com/fjelenic/al-transfer)**|
 |**2023-05-16**|**Tailoring Instructions to Student's Learning Levels Boosts Knowledge Distillation**|Yuxin Ren et.al.|[2305.09651v1](http://arxiv.org/abs/2305.09651v1)|**[link](https://github.com/twinkle0331/lgtm)**|
 |**2023-05-16**|**UOR: Universal Backdoor Attacks on Pre-trained Language Models**|Wei Du et.al.|[2305.09574v1](http://arxiv.org/abs/2305.09574v1)|null|
@@ -1352,7 +1367,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-17**|**UniEX: An Effective and Efficient Framework for Unified Information Extraction via a Span-extractive Perspective**|Junyu Lu et.al.|[2305.10306v1](http://arxiv.org/abs/2305.10306v1)|null|
-|**2023-05-17**|**Few-shot Joint Multimodal Aspect-Sentiment Analysis Based on Generative Multimodal Prompt**|Xiaocui Yang et.al.|[2305.10169v1](http://arxiv.org/abs/2305.10169v1)|null|
+|**2023-05-18**|**Few-shot Joint Multimodal Aspect-Sentiment Analysis Based on Generative Multimodal Prompt**|Xiaocui Yang et.al.|[2305.10169v2](http://arxiv.org/abs/2305.10169v2)|null|
 |**2023-05-16**|**Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis**|Yue Deng et.al.|[2305.09509v1](http://arxiv.org/abs/2305.09509v1)|**[link](https://github.com/damo-nlp-sg/bgca)**|
 |**2023-05-16**|**Executive Voiced Laughter and Social Approval: An Explorative Machine Learning Study**|Niklas Mueller et.al.|[2305.09485v1](http://arxiv.org/abs/2305.09485v1)|null|
 |**2023-05-16**|**The Weighted Möbius Score: A Unified Framework for Feature Attribution**|Yifan Jiang et.al.|[2305.09204v1](http://arxiv.org/abs/2305.09204v1)|**[link](https://github.com/1fanj/wms)**|
@@ -1567,7 +1582,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-17**|**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**|Xiaoman Zhang et.al.|[2305.10415v1](http://arxiv.org/abs/2305.10415v1)|**[link](https://github.com/xiaoman-zhang/PMC-VQA)**|
+|**2023-05-18**|**ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities**|Peng Wang et.al.|[2305.11172v1](http://arxiv.org/abs/2305.11172v1)|null|
+|**2023-05-18**|**Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**|Kai Zhang et.al.|[2305.11159v1](http://arxiv.org/abs/2305.11159v1)|**[link](https://github.com/osu-nlp-group/qa4re)**|
+|**2023-05-18**|**mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences**|David Uthus et.al.|[2305.11129v1](http://arxiv.org/abs/2305.11129v1)|null|
+|**2023-05-18**|**Visual Question Answering: A Survey on Techniques and Common Trends in Recent Literature**|Ana Cláudia Akemi Matsuki de Faria et.al.|[2305.11033v1](http://arxiv.org/abs/2305.11033v1)|null|
+|**2023-05-18**|**Large Language Models can be Guided to Evade AI-Generated Text Detection**|Ning Lu et.al.|[2305.10847v1](http://arxiv.org/abs/2305.10847v1)|null|
+|**2023-05-18**|**MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts**|Qiuhui Chen et.al.|[2305.10799v1](http://arxiv.org/abs/2305.10799v1)|null|
+|**2023-05-18**|**Listen, Think, and Understand**|Yuan Gong et.al.|[2305.10790v1](http://arxiv.org/abs/2305.10790v1)|null|
+|**2023-05-17**|**IMAD: IMage-Augmented multi-modal Dialogue**|Moskvoretskii Viktor et.al.|[2305.10512v1](http://arxiv.org/abs/2305.10512v1)|**[link](https://github.com/vityavitalich/imad)**|
+|**2023-05-18**|**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**|Xiaoman Zhang et.al.|[2305.10415v2](http://arxiv.org/abs/2305.10415v2)|**[link](https://github.com/xiaoman-zhang/PMC-VQA)**|
 |**2023-05-17**|**What You See is What You Read? Improving Text-Image Alignment Evaluation**|Michal Yarom et.al.|[2305.10400v1](http://arxiv.org/abs/2305.10400v1)|**[link](https://github.com/yonatanbitton/wysiwyr)**|
 |**2023-05-17**|**An Empirical Study on the Language Modal in Visual Question Answering**|Daowan Peng et.al.|[2305.10143v1](http://arxiv.org/abs/2305.10143v1)|null|
 |**2023-05-17**|**TG-VQA: Ternary Game of Video Question Answering**|Hao Li et.al.|[2305.10049v1](http://arxiv.org/abs/2305.10049v1)|null|
@@ -2008,6 +2031,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**|Kai Zhang et.al.|[2305.11159v1](http://arxiv.org/abs/2305.11159v1)|**[link](https://github.com/osu-nlp-group/qa4re)**|
+|**2023-05-18**|**Trading Syntax Trees for Wordpieces: Target-oriented Opinion Words Extraction with Wordpieces and Aspect Enhancement**|Samuel Mensah et.al.|[2305.11034v1](http://arxiv.org/abs/2305.11034v1)|null|
+|**2023-05-18**|**Multilingual Event Extraction from Historical Newspaper Adverts**|Nadav Borenstein et.al.|[2305.10928v1](http://arxiv.org/abs/2305.10928v1)|**[link](https://github.com/nadavborenstein/ee-from-historical-ads)**|
+|**2023-05-17**|**Massively Multi-Lingual Event Understanding: Extraction, Visualization, and Search**|Chris Jenkins et.al.|[2305.10561v1](http://arxiv.org/abs/2305.10561v1)|null|
 |**2023-05-17**|**UniEX: An Effective and Efficient Framework for Unified Information Extraction via a Span-extractive Perspective**|Junyu Lu et.al.|[2305.10306v1](http://arxiv.org/abs/2305.10306v1)|null|
 |**2023-05-16**|**Boosting Event Extraction with Denoised Structure-to-Text Augmentation**|bo wang et.al.|[2305.09598v1](http://arxiv.org/abs/2305.09598v1)|null|
 |**2023-05-16**|**DLUE: Benchmarking Document Language Understanding**|Ruoxi Xu et.al.|[2305.09520v1](http://arxiv.org/abs/2305.09520v1)|null|
@@ -2251,6 +2278,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems**|Zhaochun Ren et.al.|[2305.11081v1](http://arxiv.org/abs/2305.11081v1)|**[link](https://github.com/hn-rs/csa)**|
+|**2023-05-18**|**Improving Recommendation System Serendipity Through Lexicase Selection**|Ryan Boldi et.al.|[2305.11044v1](http://arxiv.org/abs/2305.11044v1)|null|
+|**2023-05-18**|**Adaptive Graph Contrastive Learning for Recommendation**|Yangqin Jiang et.al.|[2305.10837v1](http://arxiv.org/abs/2305.10837v1)|**[link](https://github.com/zzmeei/adaptivegcl)**|
+|**2023-05-18**|**Integrating Item Relevance in Training Loss for Sequential Recommender Systems**|Andrea Bacciu et.al.|[2305.10824v1](http://arxiv.org/abs/2305.10824v1)|null|
+|**2023-05-18**|**Machine Learning Recommendation System For Health Insurance Decision Making In Nigeria**|Ayomide Owoyemi et.al.|[2305.10708v1](http://arxiv.org/abs/2305.10708v1)|null|
+|**2023-05-17**|**Dynamic Matrix Recovery**|Ziyuan Chen et.al.|[2305.10524v1](http://arxiv.org/abs/2305.10524v1)|null|
 |**2023-05-17**|**Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs**|Jiao Chen et.al.|[2305.09858v1](http://arxiv.org/abs/2305.09858v1)|null|
 |**2023-05-16**|**Consumer-side Fairness in Recommender Systems: A Systematic Survey of Methods and Evaluation**|Bjørnar Vassøy et.al.|[2305.09330v1](http://arxiv.org/abs/2305.09330v1)|null|
 |**2023-05-16**|**Fairness and Diversity in Information Access Systems**|Lorenzo Porcaro et.al.|[2305.09319v1](http://arxiv.org/abs/2305.09319v1)|null|
@@ -2654,6 +2687,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**The Water Health Open Knowledge Graph**|Gianluca Carletti et.al.|[2305.11051v1](http://arxiv.org/abs/2305.11051v1)|null|
+|**2023-05-17**|**Temporal Knowledge Graph Forecasting Without Knowledge Using In-Context Learning**|Dong-Ho Lee et.al.|[2305.10613v1](http://arxiv.org/abs/2305.10613v1)|null|
+|**2023-05-17**|**Investigating the Effect of Hard Negative Sample Distribution on Contrastive Knowledge Graph Embedding**|Honggen Zhang et.al.|[2305.10563v1](http://arxiv.org/abs/2305.10563v1)|null|
+|**2023-05-17**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**|Zihan Wang et.al.|[2305.10531v1](http://arxiv.org/abs/2305.10531v1)|null|
+|**2023-05-17**|**Analysing Biomedical Knowledge Graphs using Prime Adjacency Matrices**|Konstantinos Bougiatiotis et.al.|[2305.10467v1](http://arxiv.org/abs/2305.10467v1)|**[link](https://github.com/kbogas/pam_cbms)**|
 |**2023-05-17**|**Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations**|Yang Deng et.al.|[2305.10172v1](http://arxiv.org/abs/2305.10172v1)|null|
 |**2023-05-17**|**River of No Return: Graph Percolation Embeddings for Efficient Knowledge Graph Reasoning**|Kai Wang et.al.|[2305.09974v1](http://arxiv.org/abs/2305.09974v1)|null|
 |**2023-05-17**|**Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs**|Jiao Chen et.al.|[2305.09858v1](http://arxiv.org/abs/2305.09858v1)|null|
@@ -3005,6 +3043,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Quiver: Supporting GPUs for Low-Latency, High-Throughput GNN Serving with Workload Awareness**|Zeyuan Tan et.al.|[2305.10863v1](http://arxiv.org/abs/2305.10863v1)|null|
+|**2023-05-18**|**Adaptive Graph Contrastive Learning for Recommendation**|Yangqin Jiang et.al.|[2305.10837v1](http://arxiv.org/abs/2305.10837v1)|**[link](https://github.com/zzmeei/adaptivegcl)**|
+|**2023-05-18**|**Constructing a personalized AI assistant for shear wall layout using Stable Diffusion**|Lufeng Wang et.al.|[2305.10830v1](http://arxiv.org/abs/2305.10830v1)|null|
+|**2023-05-18**|**Seq-HGNN: Learning Sequential Node Representation on Heterogeneous Graph**|Chenguang Du et.al.|[2305.10771v1](http://arxiv.org/abs/2305.10771v1)|**[link](https://github.com/nobrowning/seq_hgnn)**|
+|**2023-05-18**|**Extracting Low-/High- Frequency Knowledge from Graph Neural Networks and Injecting it into MLPs: An Effective GNN-to-MLP Distillation Framework**|Lirong Wu et.al.|[2305.10758v1](http://arxiv.org/abs/2305.10758v1)|**[link](https://github.com/lirongwu/ff-g2m)**|
+|**2023-05-18**|**Less Can Be More: Unsupervised Graph Pruning for Large-scale Dynamic Graphs**|Jintang Li et.al.|[2305.10673v1](http://arxiv.org/abs/2305.10673v1)|**[link](https://github.com/edisonleeeee/step)**|
+|**2023-05-17**|**Quijote-PNG: The Information Content of the Halo Mass Function**|Gabriel Jung et.al.|[2305.10597v1](http://arxiv.org/abs/2305.10597v1)|null|
+|**2023-05-17**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**|Zihan Wang et.al.|[2305.10531v1](http://arxiv.org/abs/2305.10531v1)|null|
+|**2023-05-17**|**Edge Directionality Improves Learning on Heterophilic Graphs**|Emanuele Rossi et.al.|[2305.10498v1](http://arxiv.org/abs/2305.10498v1)|null|
 |**2023-05-17**|**Optimality of Message-Passing Architectures for Sparse Graphs**|Aseem Baranwal et.al.|[2305.10391v1](http://arxiv.org/abs/2305.10391v1)|null|
 |**2023-05-17**|**Curriculum Learning in Job Shop Scheduling using Reinforcement Learning**|Constantin Waubert de Puiseau et.al.|[2305.10192v1](http://arxiv.org/abs/2305.10192v1)|null|
 |**2023-05-17**|**Predicting Tweet Engagement with Graph Neural Networks**|Marco Arazzi et.al.|[2305.10103v1](http://arxiv.org/abs/2305.10103v1)|**[link](https://github.com/ocram17/engagementgnn)**|
