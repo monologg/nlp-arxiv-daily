@@ -1,4 +1,4 @@
-## Updated on 2023.05.23
+## Updated on 2023.05.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -698,14 +698,14 @@
 |**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|null|
 |**2022-12-19**|**MANER: Mask Augmented Named Entity Recognition for Extreme Low-Resource Languages**|Shashank Sonkar et.al.|[2212.09723v1](http://arxiv.org/abs/2212.09723v1)|null|
 
-<p align=right>(<a href='#updated-on-20230523'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230524'>back to top</a>)</p>
 
 ## Legal NLP
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-20**|**Proceedings of the International Workshop on Methodologies for Translating Legal Norms into Formal Representations (LN2FR 2022) in association with 35th International Conference on Legal Knowledge and Information Systems (JURIX 2022)**|Georg Borges et.al.|[2305.12203v1](http://arxiv.org/abs/2305.12203v1)|null|
-|**2023-05-12**|**LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development**|Ilias Chalkidis et.al.|[2305.07507v1](http://arxiv.org/abs/2305.07507v1)|**[link](https://github.com/coastalcph/lexlms)**|
+|**2023-05-22**|**LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development**|Ilias Chalkidis et.al.|[2305.07507v2](http://arxiv.org/abs/2305.07507v2)|**[link](https://github.com/coastalcph/lexlms)**|
 |**2023-05-11**|**THUIR@COLIEE 2023: Incorporating Structural Knowledge into Pre-trained Language Models for Legal Case Retrieval**|Haitao Li et.al.|[2305.06812v1](http://arxiv.org/abs/2305.06812v1)|**[link](https://github.com/cshaitao/thuir-coliee2023)**|
 |**2023-05-08**|**Unlocking Practical Applications in Legal Domain: Evaluation of GPT for Zero-Shot Semantic Annotation of Legal Texts**|Jaromir Savelka et.al.|[2305.04417v1](http://arxiv.org/abs/2305.04417v1)|null|
 |**2023-05-06**|**Rhetorical Role Labeling of Legal Documents using Transformers and Graph Neural Networks**|Anshika Gupta et.al.|[2305.04100v1](http://arxiv.org/abs/2305.04100v1)|null|
@@ -820,7 +820,7 @@
 |**2014-11-03**|**Unsupervised Keyword Extraction from Polish Legal Texts**|Michał Jungiewicz et.al.|[1408.3731v2](http://arxiv.org/abs/1408.3731v2)|null|
 |**2011-03-16**|**Information and Entanglement Measures in Quantum Systems With Applications to Atomic Physics**|Daniel Manzano et.al.|[1103.3186v1](http://arxiv.org/abs/1103.3186v1)|null|
 
-<p align=right>(<a href='#updated-on-20230523'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230524'>back to top</a>)</p>
 
 ## Sequence Annotation
 
@@ -859,7 +859,7 @@
 |**2008-02-16**|**Radio-loudness of Active Galaxies and the Black Hole Evolution**|M. Sikora et.al.|[0802.2302v1](http://arxiv.org/abs/0802.2302v1)|null|
 |**2007-07-16**|**Radio Loudness of AGNs: Host Galaxy Morphology and the Spin Paradigm**|L. Stawarz et.al.|[0707.2369v1](http://arxiv.org/abs/0707.2369v1)|null|
 
-<p align=right>(<a href='#updated-on-20230523'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230524'>back to top</a>)</p>
 
 ## Named Entity Recognition
 
@@ -1079,7 +1079,7 @@
 |**2022-10-12**|**MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score**|Sunjae Kwon et.al.|[2210.05875v1](http://arxiv.org/abs/2210.05875v1)|null|
 |**2022-10-11**|**SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition**|Zeng Yang et.al.|[2210.05632v1](http://arxiv.org/abs/2210.05632v1)|**[link](https://github.com/unveiled-the-red-hat/SEE-Few)**|
 
-<p align=right>(<a href='#updated-on-20230523'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230524'>back to top</a>)</p>
 
 ## Text Classification
 
@@ -1400,7 +1400,7 @@
 |**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/microsoft/scglab)**|
 |**2022-11-18**|**3d human motion generation from the text via gesture action classification and the autoregressive model**|Gwantae Kim et.al.|[2211.10003v1](http://arxiv.org/abs/2211.10003v1)|null|
 
-<p align=right>(<a href='#updated-on-20230523'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230524'>back to top</a>)</p>
 
 ## Sentiment Analysis
 
@@ -1625,7 +1625,7 @@
 |**2022-10-18**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-10-14**|**Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**|Sishuo Chen et.al.|[2210.07907v1](http://arxiv.org/abs/2210.07907v1)|**[link](https://github.com/lancopku/dan)**|
 
-<p align=right>(<a href='#updated-on-20230523'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230524'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -1636,7 +1636,7 @@
 |**2023-05-22**|**LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities**|Yuqi Zhu et.al.|[2305.13168v1](http://arxiv.org/abs/2305.13168v1)|**[link](https://github.com/zjunlp/autokg)**|
 |**2023-05-22**|**VLAB: Enhancing Video Language Pre-training by Feature Adapting and Blending**|Xingjian He et.al.|[2305.13167v1](http://arxiv.org/abs/2305.13167v1)|null|
 |**2023-05-22**|**AVeriTeC: A dataset for real-world claim verification with evidence from the web**|Michael Schlichtkrull et.al.|[2305.13117v1](http://arxiv.org/abs/2305.13117v1)|null|
-|**2023-05-22**|**Evaluating Prompt-based Question Answering for Object Prediction in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2305.12900v1](http://arxiv.org/abs/2305.12900v1)|null|
+|**2023-05-22**|**Evaluating Prompt-based Question Answering for Object Prediction in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2305.12900v1](http://arxiv.org/abs/2305.12900v1)|**[link](https://github.com/as18cia/thesis_work)**|
 |**2023-05-22**|**MultiTabQA: Generating Tabular Answers\\ for Multi-Table Question Answering**|Vaishali Pal et.al.|[2305.12820v1](http://arxiv.org/abs/2305.12820v1)|null|
 |**2023-05-22**|**Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction**|Siyu Yuan et.al.|[2305.12660v1](http://arxiv.org/abs/2305.12660v1)|**[link](https://github.com/siyuyuan/scar)**|
 |**2023-05-22**|**Beyond Words: A Comprehensive Survey of Sentence Representations**|Abhinav Ramesh Kashyap et.al.|[2305.12641v1](http://arxiv.org/abs/2305.12641v1)|null|
@@ -2094,7 +2094,7 @@
 |**2022-12-02**|**Compound Tokens: Channel Fusion for Vision-Language Representation Learning**|Maxwell Mbabilla Aladago et.al.|[2212.01447v1](http://arxiv.org/abs/2212.01447v1)|null|
 |**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|**[link](https://github.com/mlvlab/qat)**|
 
-<p align=right>(<a href='#updated-on-20230523'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230524'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -2350,7 +2350,7 @@
 |**2022-10-17**|**Zero-Shot Ranking Socio-Political Texts with Transformer Language Models to Reduce Close Reading Time**|Kiymet Akdemir et.al.|[2210.09179v1](http://arxiv.org/abs/2210.09179v1)|null|
 |**2022-10-17**|**Modeling the Lighting in Scenes as Style for Auto White-Balance Correction**|Furkan Kınlı et.al.|[2210.09090v1](http://arxiv.org/abs/2210.09090v1)|**[link](https://github.com/birdortyedi/lighting-as-style-awb-correction)**|
 
-<p align=right>(<a href='#updated-on-20230523'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230524'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -2772,7 +2772,7 @@
 |**2022-11-27**|**Dense Text Retrieval based on Pretrained Language Models: A Survey**|Wayne Xin Zhao et.al.|[2211.14876v1](http://arxiv.org/abs/2211.14876v1)|**[link](https://github.com/paddlepaddle/rocketqa)**|
 |**2022-11-27**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|**[link](https://github.com/chengang95/unkd)**|
 
-<p align=right>(<a href='#updated-on-20230523'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230524'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -2782,7 +2782,7 @@
 |**2023-05-22**|**LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities**|Yuqi Zhu et.al.|[2305.13168v1](http://arxiv.org/abs/2305.13168v1)|**[link](https://github.com/zjunlp/autokg)**|
 |**2023-05-22**|**Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction**|Adrian Kochsiek et.al.|[2305.13059v1](http://arxiv.org/abs/2305.13059v1)|null|
 |**2023-05-22**|**3D Rotation and Translation for Hyperbolic Knowledge Graph Embedding**|Yihua Zhu et.al.|[2305.13015v1](http://arxiv.org/abs/2305.13015v1)|null|
-|**2023-05-22**|**Evaluating Prompt-based Question Answering for Object Prediction in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2305.12900v1](http://arxiv.org/abs/2305.12900v1)|null|
+|**2023-05-22**|**Evaluating Prompt-based Question Answering for Object Prediction in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2305.12900v1](http://arxiv.org/abs/2305.12900v1)|**[link](https://github.com/as18cia/thesis_work)**|
 |**2023-05-22**|**GraphCare: Enhancing Healthcare Predictions with Open-World Personalized Knowledge Graphs**|Pengcheng Jiang et.al.|[2305.12788v1](http://arxiv.org/abs/2305.12788v1)|null|
 |**2023-05-22**|**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**|Chi Han et.al.|[2305.12738v1](http://arxiv.org/abs/2305.12738v1)|**[link](https://github.com/glaciohound/lerp)**|
 |**2023-05-21**|**PRODIGY: Enabling In-context Learning Over Graphs**|Qian Huang et.al.|[2305.12600v1](http://arxiv.org/abs/2305.12600v1)|null|
@@ -3139,7 +3139,7 @@
 |**2022-11-18**|**Novelpy: A Python package to measure novelty and disruptiveness of bibliometric and patent data**|Pierre Pelletier et.al.|[2211.10346v1](http://arxiv.org/abs/2211.10346v1)|**[link](https://github.com/kwirtz/novelpy)**|
 |**2022-11-18**|**Contrastive Knowledge Graph Error Detection**|Qinggang Zhang et.al.|[2211.10030v1](http://arxiv.org/abs/2211.10030v1)|**[link](https://github.com/qing145/caged)**|
 
-<p align=right>(<a href='#updated-on-20230523'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230524'>back to top</a>)</p>
 
 ## GNN
 
@@ -3793,5 +3793,5 @@
 |**2022-12-14**|**On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
 |**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 
-<p align=right>(<a href='#updated-on-20230523'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230524'>back to top</a>)</p>
 
