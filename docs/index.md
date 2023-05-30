@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Leveraging Training Data in Few-Shot Prompting for Numerical Reasoning**|Zhanming Jie et.al.|[2305.18170v1](http://arxiv.org/abs/2305.18170v1)|null|
+|**2023-05-29**|**Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods**|Mengsay Loem et.al.|[2305.18156v1](http://arxiv.org/abs/2305.18156v1)|null|
+|**2023-05-29**|**Do Large Language Models Know What They Don't Know?**|Zhangyue Yin et.al.|[2305.18153v1](http://arxiv.org/abs/2305.18153v1)|null|
+|**2023-05-29**|**The Utility of Large Language Models and Generative AI for Education Research**|Andrew Katz et.al.|[2305.18125v1](http://arxiv.org/abs/2305.18125v1)|null|
+|**2023-05-29**|**Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning**|Xuankai Chang et.al.|[2305.18108v1](http://arxiv.org/abs/2305.18108v1)|null|
+|**2023-05-29**|**Semantic Role Labeling Guided Out-of-distribution Detection**|Jinan Zou et.al.|[2305.18026v1](http://arxiv.org/abs/2305.18026v1)|null|
+|**2023-05-29**|**Can We Trust Explainable AI Methods on ASR? An Evaluation on Phoneme Recognition**|Xiaoliang Wu et.al.|[2305.18011v1](http://arxiv.org/abs/2305.18011v1)|null|
+|**2023-05-28**|**Transfer Learning for Power Outage Detection Task with Limited Training Data**|Olukunle Owolabi et.al.|[2305.17817v1](http://arxiv.org/abs/2305.17817v1)|null|
+|**2023-05-28**|**Tab-CoT: Zero-shot Tabular Chain of Thought**|Ziqi Jin et.al.|[2305.17812v1](http://arxiv.org/abs/2305.17812v1)|**[link](https://github.com/xalp/tab-cot)**|
+|**2023-05-28**|**ConvGenVisMo: Evaluation of Conversational Generative Vision Models**|Narjes Nikzad Khasmakhi et.al.|[2305.17784v1](http://arxiv.org/abs/2305.17784v1)|null|
 |**2023-05-26**|**Improving accuracy of GPT-3/4 results on biomedical data using a retrieval-augmented language model**|David Soong et.al.|[2305.17116v1](http://arxiv.org/abs/2305.17116v1)|null|
 |**2023-05-26**|**NeuroX Library for Neuron Analysis of Deep NLP Models**|Fahim Dalvi et.al.|[2305.17073v1](http://arxiv.org/abs/2305.17073v1)|**[link](https://github.com/fdalvi/NeuroX)**|
 |**2023-05-26**|**Counterfactuals of Counterfactuals: a back-translation-inspired approach to analyse counterfactual editors**|Giorgos Filandrianos et.al.|[2305.17055v1](http://arxiv.org/abs/2305.17055v1)|**[link](https://github.com/geofila/counterfactuals-of-counterfactuals)**|
@@ -910,6 +920,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Extrinsic Factors Affecting the Accuracy of Biomedical NER**|Zhiyi Li et.al.|[2305.18152v1](http://arxiv.org/abs/2305.18152v1)|null|
+|**2023-05-29**|**ContrastNER: Contrastive-based Prompt Tuning for Few-shot NER**|Amirhossein Layegh et.al.|[2305.17951v1](http://arxiv.org/abs/2305.17951v1)|null|
+|**2023-05-29**|**E-NER: Evidential Deep Learning for Trustworthy Named Entity Recognition**|Zhen Zhang et.al.|[2305.17854v1](http://arxiv.org/abs/2305.17854v1)|**[link](https://github.com/leon-bit-9527/ener)**|
+|**2023-05-27**|**Complementary and Integrative Health Lexicon (CIHLex) and Entity Recognition in the Literature**|Huixue Zhou et.al.|[2305.17353v1](http://arxiv.org/abs/2305.17353v1)|null|
 |**2023-05-26**|**PromptNER: Prompt Locating and Typing for Named Entity Recognition**|Yongliang Shen et.al.|[2305.17104v1](http://arxiv.org/abs/2305.17104v1)|null|
 |**2023-05-26**|**People and Places of Historical Europe: Bootstrapping Annotation Pipeline and a New Corpus of Named Entities in Late Medieval Texts**|Vít Novotný et.al.|[2305.16718v1](http://arxiv.org/abs/2305.16718v1)|null|
 |**2023-05-25**|**Jointprop: Joint Semi-supervised Learning for Entity and Relation Extraction with Heterogeneous Graph-based Propagation**|Yandan Zheng et.al.|[2305.15872v1](http://arxiv.org/abs/2305.15872v1)|null|
@@ -1141,6 +1155,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**LM-CPPF: Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning**|Amirhossein Abaskohi et.al.|[2305.18169v1](http://arxiv.org/abs/2305.18169v1)|null|
+|**2023-05-29**|**Multiscale Positive-Unlabeled Detection of AI-Generated Texts**|Yuchuan Tian et.al.|[2305.18149v1](http://arxiv.org/abs/2305.18149v1)|**[link](https://github.com/huawei-noah/Efficient-Computing)**|
+|**2023-05-28**|**Targeted Data Generation: Finding and Fixing Model Weaknesses**|Zexue He et.al.|[2305.17804v1](http://arxiv.org/abs/2305.17804v1)|null|
+|**2023-05-27**|**A Framework For Refining Text Classification and Object Recognition from Academic Articles**|Jinghong Li et.al.|[2305.17401v1](http://arxiv.org/abs/2305.17401v1)|null|
 |**2023-05-26**|**Characterizing and Measuring Linguistic Dataset Drift**|Tyler A. Chang et.al.|[2305.17127v1](http://arxiv.org/abs/2305.17127v1)|null|
 |**2023-05-26**|**D-CALM: A Dynamic Clustering-based Active Learning Approach for Mitigating Bias**|Sabit Hassan et.al.|[2305.17013v1](http://arxiv.org/abs/2305.17013v1)|null|
 |**2023-05-26**|**Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification**|Ke Ji et.al.|[2305.16885v1](http://arxiv.org/abs/2305.16885v1)|**[link](https://github.com/1KE-JI/HierVerb)**|
@@ -1489,6 +1507,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**The Effects of Political Martyrdom on Election Results: The Assassination of Abe**|Miu Nicole Takagi et.al.|[2305.18004v1](http://arxiv.org/abs/2305.18004v1)|null|
+|**2023-05-28**|**Targeted Data Generation: Finding and Fixing Model Weaknesses**|Zexue He et.al.|[2305.17804v1](http://arxiv.org/abs/2305.17804v1)|null|
+|**2023-05-28**|**RuSentNE-2023: Evaluating Entity-Oriented Sentiment Analysis on Russian News Texts**|Anton Golubev et.al.|[2305.17679v1](http://arxiv.org/abs/2305.17679v1)|null|
 |**2023-05-25**|**Neural Natural Language Processing for Long Texts: A Survey of the State-of-the-Art**|Dimitrios Tsirmpas et.al.|[2305.16259v1](http://arxiv.org/abs/2305.16259v1)|null|
 |**2023-05-26**|**Comparative Study of Pre-Trained BERT Models for Code-Mixed Hindi-English Data**|Aryan Patil et.al.|[2305.15722v2](http://arxiv.org/abs/2305.15722v2)|null|
 |**2023-05-24**|**Sentiment Analysis Using Aligned Word Embeddings for Uralic Languages**|Khalid Alnajjar et.al.|[2305.15380v1](http://arxiv.org/abs/2305.15380v1)|null|
@@ -1728,6 +1749,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Contextual Object Detection with Multimodal Large Language Models**|Yuhang Zang et.al.|[2305.18279v1](http://arxiv.org/abs/2305.18279v1)|**[link](https://github.com/yuhangzang/contextdet)**|
+|**2023-05-29**|**A Critical Evaluation of Evaluations for Long-form Question Answering**|Fangyuan Xu et.al.|[2305.18201v1](http://arxiv.org/abs/2305.18201v1)|**[link](https://github.com/carriex/lfqa_eval)**|
+|**2023-05-29**|**GripRank: Bridging the Gap between Retrieval and Generation via the Generative Knowledge Improved Passage Ranking**|Jiaqi Bai et.al.|[2305.18144v1](http://arxiv.org/abs/2305.18144v1)|null|
+|**2023-05-29**|**Multi-Scale Attention for Audio Question Answering**|Guangyao Li et.al.|[2305.17993v1](http://arxiv.org/abs/2305.17993v1)|**[link](https://github.com/gewu-lab/mwafm)**|
+|**2023-05-28**|**Breaking Language Barriers with a LEAP: Learning Strategies for Polyglot LLMs**|Akshay Nambi et.al.|[2305.17740v1](http://arxiv.org/abs/2305.17740v1)|null|
+|**2023-05-28**|**HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language**|Shantipriya Parida et.al.|[2305.17690v1](http://arxiv.org/abs/2305.17690v1)|null|
+|**2023-05-28**|**Plug-and-Play Document Modules for Pre-trained Models**|Chaojun Xiao et.al.|[2305.17660v1](http://arxiv.org/abs/2305.17660v1)|**[link](https://github.com/thunlp/document-plugin)**|
+|**2023-05-27**|**Answering Unanswered Questions through Semantic Reformulations in Spoken QA**|Pedro Faustini et.al.|[2305.17393v1](http://arxiv.org/abs/2305.17393v1)|null|
+|**2023-05-27**|**Modularized Zero-shot VQA with Pre-trained Models**|Rui Cao et.al.|[2305.17369v1](http://arxiv.org/abs/2305.17369v1)|null|
+|**2023-05-27**|**Beyond Positive Scaling: How Negation Impacts Scaling Trends of Language Models**|Yuhui Zhang et.al.|[2305.17311v1](http://arxiv.org/abs/2305.17311v1)|**[link](https://github.com/yuhui-zh15/neqa)**|
 |**2023-05-26**|**Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering**|Yung-Sung Chuang et.al.|[2305.17080v1](http://arxiv.org/abs/2305.17080v1)|null|
 |**2023-05-26**|**Mindstorms in Natural Language-Based Societies of Mind**|Mingchen Zhuge et.al.|[2305.17066v1](http://arxiv.org/abs/2305.17066v1)|null|
 |**2023-05-26**|**Exploiting Abstract Meaning Representation for Open-Domain Question Answering**|Cunxiang Wang et.al.|[2305.17050v1](http://arxiv.org/abs/2305.17050v1)|null|
@@ -2229,6 +2260,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-27**|**CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization**|Rui-Yang Ju et.al.|[2305.17420v1](http://arxiv.org/abs/2305.17420v1)|null|
 |**2023-05-26**|**Teamwork Is Not Always Good: An Empirical Study of Classifier Drift in Class-incremental Information Extraction**|Minqian Liu et.al.|[2305.16559v1](http://arxiv.org/abs/2305.16559v1)|**[link](https://github.com/vt-nlp/ice)**|
 |**2023-05-24**|**Leveraging LLMs for KPIs Retrieval from Hybrid Long-Document: A Comprehensive Framework and Dataset**|Chongjian Yue et.al.|[2305.16344v1](http://arxiv.org/abs/2305.16344v1)|null|
 |**2023-05-25**|**Union Subgraph Neural Networks**|Jiaxing Xu et.al.|[2305.15747v1](http://arxiv.org/abs/2305.15747v1)|null|
@@ -2508,6 +2540,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-28**|**HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language**|Shantipriya Parida et.al.|[2305.17690v1](http://arxiv.org/abs/2305.17690v1)|null|
+|**2023-05-27**|**Dynamic User Segmentation and Usage Profiling**|Animesh Mitra et.al.|[2305.17492v1](http://arxiv.org/abs/2305.17492v1)|null|
+|**2023-05-27**|**Choosing the Right Weights: Balancing Value, Strategy, and Noise in Recommender Systems**|Smitha Milli et.al.|[2305.17428v1](http://arxiv.org/abs/2305.17428v1)|null|
+|**2023-05-27**|**DotHash: Estimating Set Similarity Metrics for Link Prediction and Document Deduplication**|Igor Nunes et.al.|[2305.17310v1](http://arxiv.org/abs/2305.17310v1)|**[link](https://github.com/mikeheddes/dothash)**|
 |**2023-05-26**|**Justification vs. Transparency: Why and How Visual Explanations in a Scientific Literature Recommender System**|Mouadh Guesmi et.al.|[2305.17034v1](http://arxiv.org/abs/2305.17034v1)|null|
 |**2023-05-26**|**FARA: Future-aware Ranking Algorithm for Fairness Optimization**|Tao Yang et.al.|[2305.16637v1](http://arxiv.org/abs/2305.16637v1)|null|
 |**2023-05-26**|**Mitigating Exploitation Bias in Learning to Rank with an Uncertainty-aware Empirical Bayes Approach**|Tao Yang et.al.|[2305.16606v1](http://arxiv.org/abs/2305.16606v1)|null|
@@ -2956,6 +2992,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v1](http://arxiv.org/abs/2305.18256v1)|null|
+|**2023-05-29**|**Sequential Condition Evolved Interaction Knowledge Graph for Traditional Chinese Medicine Recommendation**|Jingjin Liu et.al.|[2305.17866v1](http://arxiv.org/abs/2305.17866v1)|null|
+|**2023-05-28**|**Choose your Data Wisely: A Framework for Semantic Counterfactuals**|Edmund Dervakos et.al.|[2305.17667v1](http://arxiv.org/abs/2305.17667v1)|null|
+|**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364v1](http://arxiv.org/abs/2305.17364v1)|**[link](https://github.com/abachaa/evaluationmetrics-acl23)**|
+|**2023-05-26**|**A Categorical Representation Language and Computational System for Knowledge-Based Planning**|Angeline Aguinaldo et.al.|[2305.17208v1](http://arxiv.org/abs/2305.17208v1)|null|
 |**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019v1](http://arxiv.org/abs/2305.17019v1)|null|
 |**2023-05-26**|**Can large language models generate salient negative statements?**|Hiba Arnaout et.al.|[2305.16755v1](http://arxiv.org/abs/2305.16755v1)|null|
 |**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944v1](http://arxiv.org/abs/2305.15944v1)|**[link](https://github.com/anongekc/gekcs)**|
@@ -3341,6 +3382,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**GazeGNN: A Gaze-Guided Graph Neural Network for Disease Classification**|Bin Wang et.al.|[2305.18221v1](http://arxiv.org/abs/2305.18221v1)|null|
+|**2023-05-29**|**On the Correspondence Between Monotonic Max-Sum GNNs and Datalog**|David Tena Cucala et.al.|[2305.18015v1](http://arxiv.org/abs/2305.18015v1)|null|
+|**2023-05-29**|**Convolutional neural network based on sparse graph attention mechanism for MRI super-resolution**|Xin Hua et.al.|[2305.17898v1](http://arxiv.org/abs/2305.17898v1)|null|
+|**2023-05-27**|**Inferring Causal Effects Under Heterogeneous Peer Influence**|Shishir Adhikari et.al.|[2305.17479v1](http://arxiv.org/abs/2305.17479v1)|null|
+|**2023-05-27**|**GraphTensor: Comprehensive GNN-Acceleration Framework for Efficient Parallel Processing of Massive Datasets**|Junhyeok Jang et.al.|[2305.17469v1](http://arxiv.org/abs/2305.17469v1)|null|
+|**2023-05-27**|**AdaptGear: Accelerating GNN Training via Adaptive Subgraph-Level Kernels on GPUs**|Yangjie Zhou et.al.|[2305.17408v1](http://arxiv.org/abs/2305.17408v1)|null|
+|**2023-05-26**|**GVdoc: Graph-based Visual Document Classification**|Fnu Mohbat et.al.|[2305.17219v1](http://arxiv.org/abs/2305.17219v1)|null|
 |**2023-05-26**|**Exploiting Abstract Meaning Representation for Open-Domain Question Answering**|Cunxiang Wang et.al.|[2305.17050v1](http://arxiv.org/abs/2305.17050v1)|null|
 |**2023-05-26**|**Geometric deep learning approach to knot theory**|Lennart Jaretzki et.al.|[2305.16808v1](http://arxiv.org/abs/2305.16808v1)|**[link](https://github.com/lennartjaretzki/geometricdeeplearningknotdata)**|
 |**2023-05-26**|**Graph Neural Convection-Diffusion with Heterophily**|Kai Zhao et.al.|[2305.16780v1](http://arxiv.org/abs/2305.16780v1)|**[link](https://github.com/zknus/graph-diffusion-cde)**|
