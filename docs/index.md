@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Findings of the VarDial Evaluation Campaign 2023**|Noëmi Aepli et.al.|[2305.20080v1](http://arxiv.org/abs/2305.20080v1)|null|
+|**2023-05-31**|**Computational Language Assessment in patients with speech, language, and communication impairments**|Charalambos Themistocleous et.al.|[2305.20046v1](http://arxiv.org/abs/2305.20046v1)|null|
+|**2023-05-31**|**ActiveAED: A Human in the Loop Improves Annotation Error Detection**|Leon Weber et.al.|[2305.20045v1](http://arxiv.org/abs/2305.20045v1)|**[link](https://github.com/mainlp/activeaed)**|
+|**2023-05-31**|**A Survey on Large Language Models for Recommendation**|Likang Wu et.al.|[2305.19860v1](http://arxiv.org/abs/2305.19860v1)|null|
+|**2023-05-31**|**UKP-SQuARE: An Interactive Tool for Teaching Question Answering**|Haishuo Fang et.al.|[2305.19748v1](http://arxiv.org/abs/2305.19748v1)|null|
+|**2023-05-31**|**Efficient Algorithms for Exact Graph Matching on Correlated Stochastic Block Models with Constant Correlation**|Joonhyuk Yang et.al.|[2305.19666v1](http://arxiv.org/abs/2305.19666v1)|null|
+|**2023-05-31**|**Large Language Models Are Not Abstract Reasoners**|Gaël Gendron et.al.|[2305.19555v1](http://arxiv.org/abs/2305.19555v1)|null|
+|**2023-05-31**|**Ethical Considerations for Machine Translation of Indigenous Languages: Giving a Voice to the Speakers**|Manuel Mager et.al.|[2305.19474v1](http://arxiv.org/abs/2305.19474v1)|null|
+|**2023-05-30**|**Examining risks of racial biases in NLP tools for child protective services**|Anjalie Field et.al.|[2305.19409v1](http://arxiv.org/abs/2305.19409v1)|null|
+|**2023-05-30**|**Quantum Natural Language Processing based Sentiment Analysis using lambeq Toolkit**|Srinjoy Ganguly et.al.|[2305.19383v1](http://arxiv.org/abs/2305.19383v1)|null|
 |**2023-05-30**|**Jointly Reparametrized Multi-Layer Adaptation for Efficient and Private Tuning**|Umang Gupta et.al.|[2305.19264v1](http://arxiv.org/abs/2305.19264v1)|**[link](https://github.com/umgupta/jointly-reparametrized-finetuning)**|
 |**2023-05-30**|**Grokking of Hierarchical Structure in Vanilla Transformers**|Shikhar Murty et.al.|[2305.18741v1](http://arxiv.org/abs/2305.18741v1)|null|
 |**2023-05-30**|**LonXplain: Lonesomeness as a Consequence of Mental Disturbance in Reddit Posts**|Muskan Garg et.al.|[2305.18736v1](http://arxiv.org/abs/2305.18736v1)|null|
@@ -927,6 +937,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**A Global Context Mechanism for Sequence Labeling**|Conglei Xu et.al.|[2305.19928v1](http://arxiv.org/abs/2305.19928v1)|**[link](https://github.com/conglei2xu/global-context-mechanism)**|
+|**2023-05-30**|**Examining risks of racial biases in NLP tools for child protective services**|Anjalie Field et.al.|[2305.19409v1](http://arxiv.org/abs/2305.19409v1)|null|
 |**2023-05-30**|**A Multilingual Evaluation of NER Robustness to Adversarial Inputs**|Akshay Srinivasan et.al.|[2305.18933v1](http://arxiv.org/abs/2305.18933v1)|null|
 |**2023-05-29**|**W-procer: Weighted Prototypical Contrastive Learning for Medical Few-Shot Named Entity Recognition**|Mingchen Li et.al.|[2305.18624v1](http://arxiv.org/abs/2305.18624v1)|null|
 |**2023-05-29**|**Extrinsic Factors Affecting the Accuracy of Biomedical NER**|Zhiyi Li et.al.|[2305.18152v1](http://arxiv.org/abs/2305.18152v1)|null|
@@ -1164,6 +1176,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Efficient Shapley Values Estimation by Amortization for Text Classification**|Chenghao Yang et.al.|[2305.19998v1](http://arxiv.org/abs/2305.19998v1)|**[link](https://github.com/yangalan123/amortized-interpretability)**|
+|**2023-05-31**|**Analyzing Text Representations by Measuring Task Alignment**|Cesar Gonzalez-Gutierrez et.al.|[2305.19747v1](http://arxiv.org/abs/2305.19747v1)|null|
+|**2023-05-31**|**Assessing Word Importance Using Models Trained for Semantic Tasks**|Dávid Javorský et.al.|[2305.19689v1](http://arxiv.org/abs/2305.19689v1)|null|
+|**2023-05-31**|**Adversarial Clean Label Backdoor Attacks and Defenses on Text Classification Systems**|Ashim Gupta et.al.|[2305.19607v1](http://arxiv.org/abs/2305.19607v1)|null|
+|**2023-05-31**|**What does the Failure to Reason with "Respectively" in Zero/Few-Shot Settings Tell Us about Language Models?**|Ruixiang Cui et.al.|[2305.19597v1](http://arxiv.org/abs/2305.19597v1)|null|
 |**2023-05-28**|**Mitigating Label Biases for In-context Learning**|Yu Fei et.al.|[2305.19148v1](http://arxiv.org/abs/2305.19148v1)|null|
 |**2023-05-31**|**Cross Encoding as Augmentation: Towards Effective Educational Text Classification**|Hyun Seung Lee et.al.|[2305.18977v2](http://arxiv.org/abs/2305.18977v2)|null|
 |**2023-05-29**|**LM-CPPF: Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning**|Amirhossein Abaskohi et.al.|[2305.18169v1](http://arxiv.org/abs/2305.18169v1)|**[link](https://github.com/amirabaskohi/lm-cppf)**|
@@ -1518,6 +1535,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**A Global Context Mechanism for Sequence Labeling**|Conglei Xu et.al.|[2305.19928v1](http://arxiv.org/abs/2305.19928v1)|**[link](https://github.com/conglei2xu/global-context-mechanism)**|
+|**2023-05-30**|**Quantum Natural Language Processing based Sentiment Analysis using lambeq Toolkit**|Srinjoy Ganguly et.al.|[2305.19383v1](http://arxiv.org/abs/2305.19383v1)|null|
 |**2023-05-25**|**Mapping ChatGPT in Mainstream Media: Early Quantitative Insights through Sentiment Analysis and Word Frequency Analysis**|Maya Karanouh et.al.|[2305.18340v1](http://arxiv.org/abs/2305.18340v1)|null|
 |**2023-05-29**|**The Effects of Political Martyrdom on Election Results: The Assassination of Abe**|Miu Nicole Takagi et.al.|[2305.18004v1](http://arxiv.org/abs/2305.18004v1)|null|
 |**2023-05-28**|**Targeted Data Generation: Finding and Fixing Model Weaknesses**|Zexue He et.al.|[2305.17804v1](http://arxiv.org/abs/2305.17804v1)|null|
@@ -1761,6 +1780,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Attention-Based Methods For Audio Question Answering**|Parthasaarathy Sudarsanam et.al.|[2305.19769v1](http://arxiv.org/abs/2305.19769v1)|null|
+|**2023-05-31**|**UKP-SQuARE: An Interactive Tool for Teaching Question Answering**|Haishuo Fang et.al.|[2305.19748v1](http://arxiv.org/abs/2305.19748v1)|null|
+|**2023-05-31**|**Knowledge Base Question Answering for Space Debris Queries**|Paul Darm et.al.|[2305.19734v1](http://arxiv.org/abs/2305.19734v1)|**[link](https://github.com/pauldrm/discosqa)**|
+|**2023-05-31**|**Building Extractive Question Answering System to Support Human-AI Health Coaching Model for Sleep Domain**|Iva Bojic et.al.|[2305.19707v1](http://arxiv.org/abs/2305.19707v1)|null|
+|**2023-05-31**|**Unveiling Cross Modality Bias in Visual Question Answering: A Causal View with Possible Worlds VQA**|Ali Vosoughi et.al.|[2305.19664v1](http://arxiv.org/abs/2305.19664v1)|null|
+|**2023-05-31**|**Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models**|Sivan Doveh et.al.|[2305.19595v1](http://arxiv.org/abs/2305.19595v1)|null|
 |**2023-05-30**|**Concise Answers to Complex Questions: Summarization of Long-form Answers**|Abhilash Potluri et.al.|[2305.19271v1](http://arxiv.org/abs/2305.19271v1)|**[link](https://github.com/acpotluri/lfqa_summary)**|
 |**2023-05-31**|**Cross Encoding as Augmentation: Towards Effective Educational Text Classification**|Hyun Seung Lee et.al.|[2305.18977v2](http://arxiv.org/abs/2305.18977v2)|null|
 |**2023-05-30**|**Generate then Select: Open-ended Visual Question Answering Guided by World Knowledge**|Xingyu Fu et.al.|[2305.18842v1](http://arxiv.org/abs/2305.18842v1)|null|
@@ -2279,6 +2304,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**CVSNet: A Computer Implementation for Central Visual System of The Brain**|Ruimin Gao et.al.|[2305.19492v1](http://arxiv.org/abs/2305.19492v1)|null|
+|**2023-05-30**|**Examining risks of racial biases in NLP tools for child protective services**|Anjalie Field et.al.|[2305.19409v1](http://arxiv.org/abs/2305.19409v1)|null|
 |**2023-05-30**|**Document-Level Multi-Event Extraction with Event Proxy Nodes and Hausdorff Distance Minimization**|Xinyu Wang et.al.|[2305.18926v1](http://arxiv.org/abs/2305.18926v1)|null|
 |**2023-05-29**|**Make-An-Audio 2: Temporal-Enhanced Text-to-Audio Generation**|Jiawei Huang et.al.|[2305.18474v1](http://arxiv.org/abs/2305.18474v1)|null|
 |**2023-05-27**|**CCDWT-GAN: Generative Adversarial Networks Based on Color Channel Using Discrete Wavelet Transform for Document Image Binarization**|Rui-Yang Ju et.al.|[2305.17420v1](http://arxiv.org/abs/2305.17420v1)|null|
@@ -2561,6 +2588,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Representer Point Selection for Explaining Regularized High-dimensional Models**|Che-Ping Tsai et.al.|[2305.20002v1](http://arxiv.org/abs/2305.20002v1)|null|
+|**2023-05-31**|**Handling Large Discrete Action Spaces via Dynamic Neighborhood Construction**|Fabian Akkerman et.al.|[2305.19891v1](http://arxiv.org/abs/2305.19891v1)|**[link](https://github.com/tumbais/dynamicneighborhoodconstruction)**|
+|**2023-05-31**|**A Survey on Large Language Models for Recommendation**|Likang Wu et.al.|[2305.19860v1](http://arxiv.org/abs/2305.19860v1)|null|
 |**2023-05-30**|**MS-DETR: Natural Language Video Localization with Sampling Moment-Moment Interaction**|Jing Wang et.al.|[2305.18969v1](http://arxiv.org/abs/2305.18969v1)|**[link](https://github.com/k-nick/ms-detr)**|
 |**2023-05-30**|**Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2305.18885v1](http://arxiv.org/abs/2305.18885v1)|**[link](https://github.com/jindeok/cpa-lgc-recbole)**|
 |**2023-05-30**|**Robust Reinforcement Learning Objectives for Sequential Recommender Systems**|Melissa Mozifian et.al.|[2305.18820v1](http://arxiv.org/abs/2305.18820v1)|null|
@@ -3020,10 +3050,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997v1](http://arxiv.org/abs/2305.19997v1)|null|
+|**2023-05-31**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987v1](http://arxiv.org/abs/2305.19987v1)|null|
+|**2023-05-31**|**Knowledge Graph Embeddings in the Biomedical Domain: Are They Useful? A Look at Link Prediction, Rule Learning, and Downstream Polypharmacy Tasks**|Aryo Pradipta Gema et.al.|[2305.19979v1](http://arxiv.org/abs/2305.19979v1)|**[link](https://github.com/aryopg/biokge)**|
 |**2023-05-30**|**Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints**|Jiaxin Bai et.al.|[2305.19068v1](http://arxiv.org/abs/2305.19068v1)|null|
 |**2023-05-30**|**Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation**|Minki Kang et.al.|[2305.18846v1](http://arxiv.org/abs/2305.18846v1)|null|
 |**2023-05-30**|**Graph Reasoning for Question Answering with Triplet Retrieval**|Shiyang Li et.al.|[2305.18742v1](http://arxiv.org/abs/2305.18742v1)|null|
-|**2023-05-30**|**Hybrid Representation Learning via Epistemic Graph**|Jin Yuan et.al.|[2305.18731v1](http://arxiv.org/abs/2305.18731v1)|null|
+|**2023-05-31**|**Hybrid Representation Learning via Epistemic Graph**|Jin Yuan et.al.|[2305.18731v2](http://arxiv.org/abs/2305.18731v2)|null|
 |**2023-05-30**|**History Repeats: Overcoming Catastrophic Forgetting For Event-Centric Temporal Knowledge Graph Completion**|Mehrnoosh Mirtaheri et.al.|[2305.18675v1](http://arxiv.org/abs/2305.18675v1)|null|
 |**2023-05-28**|**MemeGraphs: Linking Memes to Knowledge Graphs**|Vasiliki Kougia et.al.|[2305.18391v1](http://arxiv.org/abs/2305.18391v1)|**[link](https://github.com/vasilikikou/memegraphs)**|
 |**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v1](http://arxiv.org/abs/2305.18256v1)|null|
@@ -3416,6 +3449,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Hardness and fracture toughness models by symbolic regression**|Jinbin Zhao et.al.|[2305.19991v1](http://arxiv.org/abs/2305.19991v1)|null|
+|**2023-05-31**|**Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization**|Kaixuan Chen et.al.|[2305.19903v1](http://arxiv.org/abs/2305.19903v1)|**[link](https://github.com/chenchkx/supernorm)**|
+|**2023-05-31**|**Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials**|Mingguo He et.al.|[2305.19872v1](http://arxiv.org/abs/2305.19872v1)|null|
+|**2023-05-31**|**Is Rewiring Actually Helpful in Graph Neural Networks?**|Domenico Tortorella et.al.|[2305.19717v1](http://arxiv.org/abs/2305.19717v1)|null|
+|**2023-05-31**|**Improving Expressivity of Graph Neural Networks using Localization**|Anant Kumar et.al.|[2305.19659v1](http://arxiv.org/abs/2305.19659v1)|**[link](https://github.com/roy-shubhajit/insig-gnn)**|
+|**2023-05-31**|**Verifying the Smoothness of Graph Signals: A Graph Signal Processing Approach**|Lital Dabush et.al.|[2305.19618v1](http://arxiv.org/abs/2305.19618v1)|null|
+|**2023-05-31**|**Towards Semi-supervised Universal Graph Classification**|Xiao Luo et.al.|[2305.19598v1](http://arxiv.org/abs/2305.19598v1)|null|
+|**2023-05-31**|**Catalysis distillation neural network for the few shot open catalyst challenge**|Bowen Deng et.al.|[2305.19545v1](http://arxiv.org/abs/2305.19545v1)|null|
+|**2023-05-31**|**Explanations as Features: LLM-Based Features for Text-Attributed Graphs**|Xiaoxin He et.al.|[2305.19523v1](http://arxiv.org/abs/2305.19523v1)|**[link](https://github.com/XiaoxinHe/TAPE)**|
+|**2023-05-31**|**Graph Entropy Minimization for Semi-supervised Node Classification**|Yi Luo et.al.|[2305.19502v1](http://arxiv.org/abs/2305.19502v1)|**[link](https://github.com/cf020031308/gem)**|
 |**2023-05-30**|**On the Stability of Gated Graph Neural Networks**|Antonio Marino et.al.|[2305.19235v1](http://arxiv.org/abs/2305.19235v1)|null|
 |**2023-05-30**|**An AMR-based Link Prediction Approach for Document-level Event Argument Extraction**|Yuqing Yang et.al.|[2305.19162v1](http://arxiv.org/abs/2305.19162v1)|null|
 |**2023-05-30**|**Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks**|Qiyu Kang et.al.|[2305.18965v1](http://arxiv.org/abs/2305.18965v1)|**[link](https://github.com/zknus/hamiltonian-gnn)**|
