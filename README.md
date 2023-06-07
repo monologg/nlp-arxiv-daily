@@ -21,6 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**GEO-Bench: Toward Foundation Models for Earth Monitoring**|Alexandre Lacoste et.al.|[2306.03831v1](http://arxiv.org/abs/2306.03831v1)|**[link](https://github.com/servicenow/geo-bench)**|
+|**2023-06-06**|**Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models**|Fobo Shi et.al.|[2306.03799v1](http://arxiv.org/abs/2306.03799v1)|null|
+|**2023-06-06**|**On the Difference of BERT-style and CLIP-style Text Encoders**|Zhihong Chen et.al.|[2306.03678v1](http://arxiv.org/abs/2306.03678v1)|**[link](https://github.com/zhjohnchan/bert-clip-synesthesia)**|
+|**2023-06-06**|**Take the Hint: Improving Arabic Diacritization with Partially-Diacritized Text**|Parnia Bahar et.al.|[2306.03557v1](http://arxiv.org/abs/2306.03557v1)|**[link](https://github.com/apptek/arabicdiacritizationinterspeech2023)**|
+|**2023-06-06**|**SciLit: A Platform for Joint Scientific Literature Discovery, Summarization and Citation Generation**|Nianlong Gu et.al.|[2306.03535v1](http://arxiv.org/abs/2306.03535v1)|**[link](https://github.com/nianlonggu/scilit)**|
+|**2023-06-06**|**Efficient and Interpretable Compressive Text Summarisation with Unsupervised Dual-Agent Reinforcement Learning**|Peggy Tang et.al.|[2306.03415v1](http://arxiv.org/abs/2306.03415v1)|**[link](https://github.com/peggypytang/urlcomsum)**|
+|**2023-06-06**|**Stabilizing Contrastive RL: Techniques for Offline Goal Reaching**|Chongyi Zheng et.al.|[2306.03346v1](http://arxiv.org/abs/2306.03346v1)|null|
+|**2023-06-05**|**A Scalable and Adaptive System to Infer the Industry Sectors of Companies: Prompt + Model Tuning of Generative Language Models**|Lele Cao et.al.|[2306.03313v1](http://arxiv.org/abs/2306.03313v1)|null|
+|**2023-06-05**|**Easy-to-Read in Germany: A Survey on its Current State and Available Resources**|Margot Madina et.al.|[2306.03189v1](http://arxiv.org/abs/2306.03189v1)|null|
 |**2023-06-05**|**Machine Learning and Statistical Approaches to Measuring Similarity of Political Parties**|Daria Boratyn et.al.|[2306.03079v1](http://arxiv.org/abs/2306.03079v1)|null|
 |**2023-06-05**|**Using Sequences of Life-events to Predict Human Lives**|Germans Savcisens et.al.|[2306.03009v1](http://arxiv.org/abs/2306.03009v1)|null|
 |**2023-06-05**|**Gen-IR @ SIGIR 2023: The First Workshop on Generative Information Retrieval**|Gabriel Bénédict et.al.|[2306.02887v1](http://arxiv.org/abs/2306.02887v1)|null|
@@ -958,8 +967,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**Stack Over-Flowing with Results: The Case for Domain-Specific Pre-Training Over One-Size-Fits-All Models**|Manisha Mukherjee et.al.|[2306.03268v1](http://arxiv.org/abs/2306.03268v1)|null|
 |**2023-06-05**|**Transformer-Based UNet with Multi-Headed Cross-Attention Skip Connections to Eliminate Artifacts in Scanned Documents**|David Kreuzer et.al.|[2306.02815v1](http://arxiv.org/abs/2306.02815v1)|null|
-|**2023-06-04**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349v1](http://arxiv.org/abs/2306.02349v1)|null|
+|**2023-06-04**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349v1](http://arxiv.org/abs/2306.02349v1)|**[link](https://github.com/bgGLUE/bgglue)**|
 |**2023-06-03**|**Impact of translation on biomedical information extraction from real-life clinical notes**|Christel Gérardin et.al.|[2306.02042v1](http://arxiv.org/abs/2306.02042v1)|null|
 |**2023-06-02**|**Data-Efficient French Language Modeling with CamemBERTa**|Wissam Antoun et.al.|[2306.01497v1](http://arxiv.org/abs/2306.01497v1)|null|
 |**2023-06-01**|**Learning Transformer Programs**|Dan Friedman et.al.|[2306.01128v1](http://arxiv.org/abs/2306.01128v1)|**[link](https://github.com/princeton-nlp/transformerprograms)**|
@@ -1204,9 +1214,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**CL-UZH at SemEval-2023 Task 10: Sexism Detection through Incremental Fine-Tuning and Multi-Task Learning with Label Descriptions**|Janis Goldzycher et.al.|[2306.03907v1](http://arxiv.org/abs/2306.03907v1)|null|
+|**2023-06-06**|**Evaluating the Effectiveness of Natural Language Inference for Hate Speech Detection in Languages with Limited Labeled Data**|Janis Goldzycher et.al.|[2306.03722v1](http://arxiv.org/abs/2306.03722v1)|null|
+|**2023-06-06**|**CUE: An Uncertainty Interpretation Framework for Text Classifiers Built on Pre-Trained Language Models**|Jiazheng Li et.al.|[2306.03598v1](http://arxiv.org/abs/2306.03598v1)|**[link](https://github.com/lijiazheng99/cue)**|
 |**2023-06-05**|**CELDA: Leveraging Black-box Language Model as Enhanced Classifier without Labels**|Hyunsoo Cho et.al.|[2306.02693v1](http://arxiv.org/abs/2306.02693v1)|null|
 |**2023-06-05**|**A Study of Situational Reasoning for Traffic Understanding**|Jiarui Zhang et.al.|[2306.02520v1](http://arxiv.org/abs/2306.02520v1)|null|
-|**2023-06-04**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349v1](http://arxiv.org/abs/2306.02349v1)|null|
+|**2023-06-04**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349v1](http://arxiv.org/abs/2306.02349v1)|**[link](https://github.com/bgGLUE/bgglue)**|
 |**2023-06-03**|**Stubborn Lexical Bias in Data and Models**|Sofia Serrano et.al.|[2306.02190v1](http://arxiv.org/abs/2306.02190v1)|null|
 |**2023-06-03**|**TART: Improved Few-shot Text Classification Using Task-Adaptive Reference Transformation**|Shuo Lei et.al.|[2306.02175v1](http://arxiv.org/abs/2306.02175v1)|**[link](https://github.com/slei109/tart)**|
 |**2023-06-02**|**Word Embeddings for Banking Industry**|Avnish Patel et.al.|[2306.01807v1](http://arxiv.org/abs/2306.01807v1)|null|
@@ -1573,7 +1586,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-04**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349v1](http://arxiv.org/abs/2306.02349v1)|null|
+|**2023-06-06**|**Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models**|Fobo Shi et.al.|[2306.03799v1](http://arxiv.org/abs/2306.03799v1)|null|
+|**2023-06-06**|**A Survey of Quantum-Cognitively Inspired Sentiment Analysis Models**|Yaochen Liu et.al.|[2306.03608v1](http://arxiv.org/abs/2306.03608v1)|null|
+|**2023-06-06**|**CUE: An Uncertainty Interpretation Framework for Text Classifiers Built on Pre-Trained Language Models**|Jiazheng Li et.al.|[2306.03598v1](http://arxiv.org/abs/2306.03598v1)|**[link](https://github.com/lijiazheng99/cue)**|
+|**2023-06-04**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349v1](http://arxiv.org/abs/2306.02349v1)|**[link](https://github.com/bgGLUE/bgglue)**|
 |**2023-06-03**|**Financial sentiment analysis using FinBERT with application in predicting stock movement**|Tingsong Jiang et.al.|[2306.02136v1](http://arxiv.org/abs/2306.02136v1)|null|
 |**2023-06-03**|**Painsight: An Extendable Opinion Mining Framework for Detecting Pain Points Based on Online Customer Reviews**|Yukyung Lee et.al.|[2306.02043v1](http://arxiv.org/abs/2306.02043v1)|null|
 |**2023-06-02**|**Word Embeddings for Banking Industry**|Avnish Patel et.al.|[2306.01807v1](http://arxiv.org/abs/2306.01807v1)|null|
@@ -1828,6 +1844,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models**|Fobo Shi et.al.|[2306.03799v1](http://arxiv.org/abs/2306.03799v1)|null|
+|**2023-06-06**|**CUE: An Uncertainty Interpretation Framework for Text Classifiers Built on Pre-Trained Language Models**|Jiazheng Li et.al.|[2306.03598v1](http://arxiv.org/abs/2306.03598v1)|**[link](https://github.com/lijiazheng99/cue)**|
+|**2023-06-06**|**An Approach to Solving the Abstraction and Reasoning Corpus (ARC) Challenge**|Tan John Chong Min et.al.|[2306.03553v1](http://arxiv.org/abs/2306.03553v1)|null|
+|**2023-06-06**|**Diversifying Joint Vision-Language Tokenization Learning**|Vardaan Pahuja et.al.|[2306.03421v1](http://arxiv.org/abs/2306.03421v1)|null|
+|**2023-06-06**|**Generate-then-Retrieve: Intent-Aware FAQ Retrieval in Product Search**|Zhiyu Chen et.al.|[2306.03411v1](http://arxiv.org/abs/2306.03411v1)|null|
 |**2023-06-05**|**Benchmarking Large Language Models on CMExam -- A Comprehensive Chinese Medical Exam Dataset**|Junling Liu et.al.|[2306.03030v1](http://arxiv.org/abs/2306.03030v1)|null|
 |**2023-06-05**|**PokemonChat: Auditing ChatGPT for Pokémon Universe Knowledge**|Laura Cabello et.al.|[2306.03024v1](http://arxiv.org/abs/2306.03024v1)|null|
 |**2023-06-05**|**Do-GOOD: Towards Distribution Shift Evaluation for Pre-Trained Visual Document Understanding Models**|Jiabang He et.al.|[2306.02623v1](http://arxiv.org/abs/2306.02623v1)|**[link](https://github.com/maehcm/do-good)**|
@@ -2375,6 +2396,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Joint Event Extraction via Structural Semantic Matching**|Haochen Li et.al.|[2306.03469v1](http://arxiv.org/abs/2306.03469v1)|null|
+|**2023-06-05**|**ICDAR 2023 Competition on Structured Text Extraction from Visually-Rich Document Images**|Wenwen Yu et.al.|[2306.03287v1](http://arxiv.org/abs/2306.03287v1)|null|
 |**2023-06-05**|**Transformer-Based UNet with Multi-Headed Cross-Attention Skip Connections to Eliminate Artifacts in Scanned Documents**|David Kreuzer et.al.|[2306.02815v1](http://arxiv.org/abs/2306.02815v1)|null|
 |**2023-06-05**|**Do-GOOD: Towards Distribution Shift Evaluation for Pre-Trained Visual Document Understanding Models**|Jiabang He et.al.|[2306.02623v1](http://arxiv.org/abs/2306.02623v1)|**[link](https://github.com/maehcm/do-good)**|
 |**2023-06-03**|**Impact of translation on biomedical information extraction from real-life clinical notes**|Christel Gérardin et.al.|[2306.02042v1](http://arxiv.org/abs/2306.02042v1)|null|
@@ -2669,6 +2692,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering**|Jiayan Guo et.al.|[2306.03624v1](http://arxiv.org/abs/2306.03624v1)|**[link](https://github.com/spacelearner/jgcf)**|
+|**2023-06-06**|**Joint Event Extraction via Structural Semantic Matching**|Haochen Li et.al.|[2306.03469v1](http://arxiv.org/abs/2306.03469v1)|null|
+|**2023-06-06**|**Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation**|Xiao Lin et.al.|[2306.03392v1](http://arxiv.org/abs/2306.03392v1)|null|
+|**2023-06-06**|**ColdNAS: Search to Modulate for User Cold-Start Recommendation**|Shiguang Wu et.al.|[2306.03387v1](http://arxiv.org/abs/2306.03387v1)|**[link](https://github.com/lars-research/coldnas)**|
+|**2023-06-05**|**Construction d'un système de recommandation basé sur des contraintes via des graphes de connaissances**|Ngoc Luyen Le et.al.|[2306.03247v1](http://arxiv.org/abs/2306.03247v1)|null|
+|**2023-06-05**|**Personalized Federated Domain Adaptation for Item-to-Item Recommendation**|Ziwei Fan et.al.|[2306.03191v1](http://arxiv.org/abs/2306.03191v1)|null|
 |**2023-06-05**|**Gen-IR @ SIGIR 2023: The First Workshop on Generative Information Retrieval**|Gabriel Bénédict et.al.|[2306.02887v1](http://arxiv.org/abs/2306.02887v1)|null|
 |**2023-06-05**|**Improving Conversational Recommendation Systems via Counterfactual Data Simulation**|Xiaolei Wang et.al.|[2306.02842v1](http://arxiv.org/abs/2306.02842v1)|**[link](https://github.com/rucaibox/cfcrs)**|
 |**2023-06-05**|**CTRL: Connect Tabular and Language Model for CTR Prediction**|Xiangyang Li et.al.|[2306.02841v1](http://arxiv.org/abs/2306.02841v1)|null|
@@ -3152,6 +3181,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Patient Dropout Prediction in Virtual Health: A Multimodal Dynamic Knowledge Graph and Text Mining Approach**|Shuang Geng et.al.|[2306.03833v1](http://arxiv.org/abs/2306.03833v1)|null|
+|**2023-06-06**|**Schema First! Learn Versatile Knowledge Graph Embeddings by Capturing Semantics with MASCHInE**|Nicolas Hubert et.al.|[2306.03659v1](http://arxiv.org/abs/2306.03659v1)|**[link](https://github.com/nicolas-hbt/versatile-embeddings)**|
+|**2023-06-06**|**BioBLP: A Modular Framework for Learning on Multimodal Biomedical Knowledge Graphs**|Daniel Daza et.al.|[2306.03606v1](http://arxiv.org/abs/2306.03606v1)|**[link](https://github.com/elsevier-ai-lab/bioblp)**|
+|**2023-06-06**|**Logic Diffusion for Knowledge Graph Reasoning**|Xiaoying Xie et.al.|[2306.03515v1](http://arxiv.org/abs/2306.03515v1)|null|
+|**2023-06-05**|**Construction d'un système de recommandation basé sur des contraintes via des graphes de connaissances**|Ngoc Luyen Le et.al.|[2306.03247v1](http://arxiv.org/abs/2306.03247v1)|null|
 |**2023-06-05**|**Text-To-KG Alignment: Comparing Current Methods on Classification Tasks**|Sondre Wold et.al.|[2306.02871v1](http://arxiv.org/abs/2306.02871v1)|null|
 |**2023-06-05**|**Joint Pre-training and Local Re-training: Transferable Representation Learning on Multi-source Knowledge Graphs**|Zequn Sun et.al.|[2306.02679v1](http://arxiv.org/abs/2306.02679v1)|**[link](https://github.com/nju-websoft/mukge)**|
 |**2023-06-05**|**What Makes Entities Similar? A Similarity Flooding Perspective for Multi-sourced Knowledge Graph Embeddings**|Zequn Sun et.al.|[2306.02622v1](http://arxiv.org/abs/2306.02622v1)|**[link](https://github.com/nju-websoft/unify-ea-sf)**|
@@ -3562,6 +3596,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698v1](http://arxiv.org/abs/2306.03698v1)|**[link](https://github.com/nhuang37/finegrain_expressivity_gnn)**|
+|**2023-06-06**|**On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering**|Jiayan Guo et.al.|[2306.03624v1](http://arxiv.org/abs/2306.03624v1)|**[link](https://github.com/spacelearner/jgcf)**|
+|**2023-06-06**|**How does over-squashing affect the power of GNNs?**|Francesco Di Giovanni et.al.|[2306.03589v1](http://arxiv.org/abs/2306.03589v1)|null|
+|**2023-06-06**|**CIN++: Enhancing Topological Message Passing**|Lorenzo Giusti et.al.|[2306.03561v1](http://arxiv.org/abs/2306.03561v1)|null|
+|**2023-06-06**|**GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets**|Shubham Gupta et.al.|[2306.03447v1](http://arxiv.org/abs/2306.03447v1)|null|
+|**2023-06-05**|**Towards Arbitrarily Expressive GNNs in $O(n^2)$ Space by Rethinking Folklore Weisfeiler-Lehman**|Jiarui Feng et.al.|[2306.03266v1](http://arxiv.org/abs/2306.03266v1)|**[link](https://github.com/jiaruifeng/n2gnn)**|
+|**2023-06-05**|**Explaining and Adapting Graph Conditional Shift**|Qi Zhu et.al.|[2306.03256v1](http://arxiv.org/abs/2306.03256v1)|null|
+|**2023-06-05**|**Structural Re-weighting Improves Graph Domain Adaptation**|Shikun Liu et.al.|[2306.03221v1](http://arxiv.org/abs/2306.03221v1)|**[link](https://github.com/graph-com/strurw)**|
+|**2023-06-05**|**Personalized Federated Domain Adaptation for Item-to-Item Recommendation**|Ziwei Fan et.al.|[2306.03191v1](http://arxiv.org/abs/2306.03191v1)|null|
 |**2023-06-05**|**Learning Similarity among Users for Personalized Session-Based Recommendation from hierarchical structure of User-Session-Item**|Jisoo Cha et.al.|[2306.03040v1](http://arxiv.org/abs/2306.03040v1)|null|
 |**2023-06-05**|**Automating Style Analysis and Visualization With Explainable AI -- Case Studies on Brand Recognition**|Yu-hsuan Chen et.al.|[2306.03021v1](http://arxiv.org/abs/2306.03021v1)|**[link](https://github.com/parksandrecfan/bignet-phone)**|
 |**2023-06-05**|**Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications**|Han Xie et.al.|[2306.02592v1](http://arxiv.org/abs/2306.02592v1)|null|
