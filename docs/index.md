@@ -29,7 +29,7 @@ layout: default
 |**2023-06-08**|**Are fairness metric scores enough to assess discrimination biases in machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
 |**2023-06-08**|**Extensive Evaluation of Transformer-based Architectures for Adverse Drug Events Extraction**|Simone Scaboro et.al.|[2306.05276v1](http://arxiv.org/abs/2306.05276v1)|**[link](https://github.com/ailabudinegit/ade-detection-survey)**|
 |**2023-06-08**|**Image Clustering via the Principle of Rate Reduction in the Age of Pretrained Models**|Tianzhe Chu et.al.|[2306.05272v1](http://arxiv.org/abs/2306.05272v1)|**[link](https://github.com/leslietrue/cpp)**|
-|**2023-06-08**|**M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models**|Wenxuan Zhang et.al.|[2306.05179v1](http://arxiv.org/abs/2306.05179v1)|null|
+|**2023-06-08**|**M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models**|Wenxuan Zhang et.al.|[2306.05179v1](http://arxiv.org/abs/2306.05179v1)|**[link](https://github.com/damo-nlp-sg/m3exam)**|
 |**2023-06-08**|**RRWKV: Capturing Long-range Dependencies in RWKV**|Leilei Wang et.al.|[2306.05176v1](http://arxiv.org/abs/2306.05176v1)|null|
 |**2023-06-08**|**Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization**|Cheng Deng et.al.|[2306.05064v1](http://arxiv.org/abs/2306.05064v1)|**[link](https://github.com/davendw49/k2)**|
 |**2023-06-08**|**Knowledge Detection by Relevant Question and Image Attributes in Visual Question Answering**|Param Ahir et.al.|[2306.04938v1](http://arxiv.org/abs/2306.04938v1)|null|
