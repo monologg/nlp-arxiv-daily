@@ -3674,7 +3674,7 @@
 |**2023-06-08**|**ViG-UNet: Vision Graph Neural Networks for Medical Image Segmentation**|Juntao Jiang et.al.|[2306.04905v1](http://arxiv.org/abs/2306.04905v1)|null|
 |**2023-06-07**|**Empowering Counterfactual Reasoning over Graph Neural Networks through Inductivity**|Samidha Verma et.al.|[2306.04835v1](http://arxiv.org/abs/2306.04835v1)|**[link](https://github.com/idea-iitd/induce)**|
 |**2023-06-07**|**XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**|Eli Laird et.al.|[2306.04791v1](http://arxiv.org/abs/2306.04791v1)|null|
-|**2023-06-07**|**Automatic graph representation algorithm for heterogeneous catalysis**|Zachary Gariepy et.al.|[2306.04742v1](http://arxiv.org/abs/2306.04742v1)|null|
+|**2023-06-07**|**Automatic graph representation algorithm for heterogeneous catalysis**|Zachary Gariepy et.al.|[2306.04742v1](http://arxiv.org/abs/2306.04742v1)|**[link](https://github.com/feugmo-group/agra)**|
 |**2023-06-07**|**Limits, approximation and size transferability for GNNs on sparse graphs via graphops**|Thien Le et.al.|[2306.04495v1](http://arxiv.org/abs/2306.04495v1)|null|
 |**2023-06-07**|**Flavour tagging with graph neural networks with the ATLAS detector**|Arnaud Duperrin et.al.|[2306.04415v1](http://arxiv.org/abs/2306.04415v1)|null|
 |**2023-06-07**|**Permutation Equivariant Graph Framelets for Heterophilous Semi-supervised Learning**|Jianfei Li et.al.|[2306.04265v1](http://arxiv.org/abs/2306.04265v1)|null|
