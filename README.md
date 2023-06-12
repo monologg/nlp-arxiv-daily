@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**FinGPT: Open-Source Financial Large Language Models**|Hongyang Yang et.al.|[2306.06031v1](http://arxiv.org/abs/2306.06031v1)|**[link](https://github.com/ai4finance-foundation/fingpt)**|
+|**2023-06-09**|**HiTZ@Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine**|Rodrigo Agerri et.al.|[2306.06029v1](http://arxiv.org/abs/2306.06029v1)|null|
+|**2023-06-09**|**Towards a Robust Detection of Language Model Generated Text: Is ChatGPT that Easy to Detect?**|Wissam Antoun et.al.|[2306.05871v1](http://arxiv.org/abs/2306.05871v1)|null|
+|**2023-06-09**|**Towards the Exploitation of LLM-based Chatbot for Providing Legal Support to Palestinian Cooperatives**|Rabee Qasem et.al.|[2306.05827v1](http://arxiv.org/abs/2306.05827v1)|null|
+|**2023-06-09**|**How Can Recommender Systems Benefit from Large Language Models: A Survey**|Jianghao Lin et.al.|[2306.05817v1](http://arxiv.org/abs/2306.05817v1)|**[link](https://github.com/chiangel/awesome-llm-for-recsys)**|
+|**2023-06-09**|**Detecting Phishing Sites Using ChatGPT**|Takashi Koide et.al.|[2306.05816v1](http://arxiv.org/abs/2306.05816v1)|null|
+|**2023-06-09**|**Exploring Effective Mask Sampling Modeling for Neural Image Compression**|Lin Liu et.al.|[2306.05704v1](http://arxiv.org/abs/2306.05704v1)|null|
+|**2023-06-09**|**Customizing General-Purpose Foundation Models for Medical Report Generation**|Bang Yang et.al.|[2306.05642v1](http://arxiv.org/abs/2306.05642v1)|null|
+|**2023-06-09**|**Word sense extension**|Lei Yu et.al.|[2306.05609v1](http://arxiv.org/abs/2306.05609v1)|**[link](https://github.com/jadeleiyu/word_sense_extension)**|
+|**2023-06-08**|**Emotion and Sentiment Guided Paraphrasing**|Justin J. Xie et.al.|[2306.05556v1](http://arxiv.org/abs/2306.05556v1)|null|
 |**2023-06-08**|**Advancing Italian Biomedical Information Extraction with Large Language Models: Methodological Insights and Multicenter Practical Application**|Claudio Crema et.al.|[2306.05323v1](http://arxiv.org/abs/2306.05323v1)|null|
 |**2023-06-08**|**Are fairness metric scores enough to assess discrimination biases in machine learning?**|Fanny Jourdan et.al.|[2306.05307v1](http://arxiv.org/abs/2306.05307v1)|null|
 |**2023-06-08**|**Extensive Evaluation of Transformer-based Architectures for Adverse Drug Events Extraction**|Simone Scaboro et.al.|[2306.05276v1](http://arxiv.org/abs/2306.05276v1)|**[link](https://github.com/ailabudinegit/ade-detection-survey)**|
@@ -820,6 +830,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Towards the Exploitation of LLM-based Chatbot for Providing Legal Support to Palestinian Cooperatives**|Rabee Qasem et.al.|[2306.05827v1](http://arxiv.org/abs/2306.05827v1)|null|
 |**2023-06-03**|**FlairNLP at SemEval-2023 Task 6b: Extraction of Legal Named Entities from Legal Texts using Contextual String Embeddings**|Vinay N Ramesh et.al.|[2306.02182v1](http://arxiv.org/abs/2306.02182v1)|**[link](https://github.com/vinaynr/legaleval-2023)**|
 |**2023-05-24**|**CuRIAM: Corpus re Interpretation and Metalanguage in U.S. Supreme Court Opinions**|Michael Kranzlein et.al.|[2305.14719v1](http://arxiv.org/abs/2305.14719v1)|null|
 |**2023-05-20**|**Proceedings of the International Workshop on Methodologies for Translating Legal Norms into Formal Representations (LN2FR 2022) in association with 35th International Conference on Legal Knowledge and Information Systems (JURIX 2022)**|Georg Borges et.al.|[2305.12203v1](http://arxiv.org/abs/2305.12203v1)|null|
@@ -1233,6 +1244,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Transformer-based Time-to-Event Prediction for Chronic Kidney Disease Deterioration**|Moshe Zisser et.al.|[2306.05779v1](http://arxiv.org/abs/2306.05779v1)|null|
+|**2023-06-08**|**Privacy- and Utility-Preserving NLP with Anonymized Data: A case study of Pseudonymization**|Oleksandr Yermilov et.al.|[2306.05561v1](http://arxiv.org/abs/2306.05561v1)|null|
 |**2023-06-08**|**Interpretable Medical Diagnostics with Structured Data Extraction by Large Language Models**|Aleksa Bisercic et.al.|[2306.05052v1](http://arxiv.org/abs/2306.05052v1)|null|
 |**2023-06-08**|**T3L: Translate-and-Test Transfer Learning for Cross-Lingual Text Classification**|Inigo Jauregi Unanue et.al.|[2306.04996v1](http://arxiv.org/abs/2306.04996v1)|**[link](https://github.com/inigo-jauregi/t3l)**|
 |**2023-06-08**|**Assessing Phrase Break of ESL Speech with Pre-trained Language Models and Large Language Models**|Zhiyi Wang et.al.|[2306.04980v1](http://arxiv.org/abs/2306.04980v1)|null|
@@ -1613,6 +1626,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Causality between Sentiment and Cryptocurrency Prices**|Lubdhak Mondal et.al.|[2306.05803v1](http://arxiv.org/abs/2306.05803v1)|null|
 |**2023-06-08**|**Leveraging Language Identification to Enhance Code-Mixed Text Classification**|Gauri Takawane et.al.|[2306.04964v1](http://arxiv.org/abs/2306.04964v1)|null|
 |**2023-06-07**|**PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts**|Kaijie Zhu et.al.|[2306.04528v1](http://arxiv.org/abs/2306.04528v1)|null|
 |**2023-06-07**|**Analysis of the Fed's communication by using textual entailment model of Zero-Shot classification**|Yasuhiro Nakayama et.al.|[2306.04277v1](http://arxiv.org/abs/2306.04277v1)|null|
@@ -1876,6 +1890,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Towards the Exploitation of LLM-based Chatbot for Providing Legal Support to Palestinian Cooperatives**|Rabee Qasem et.al.|[2306.05827v1](http://arxiv.org/abs/2306.05827v1)|null|
+|**2023-06-09**|**Privacy Aware Question-Answering System for Online Mental Health Risk Assessment**|Prateek Chhikara et.al.|[2306.05652v1](http://arxiv.org/abs/2306.05652v1)|null|
 |**2023-06-08**|**Modular Visual Question Answering via Code Generation**|Sanjay Subramanian et.al.|[2306.05392v1](http://arxiv.org/abs/2306.05392v1)|**[link](https://github.com/sanjayss34/codevqa)**|
 |**2023-06-08**|**Mapping the Challenges of HCI: An Application and Evaluation of ChatGPT and GPT-4 for Cost-Efficient Question Answering**|Jonas Oppenlaender et.al.|[2306.05036v1](http://arxiv.org/abs/2306.05036v1)|null|
 |**2023-06-08**|**Knowledge Detection by Relevant Question and Image Attributes in Visual Question Answering**|Param Ahir et.al.|[2306.04938v1](http://arxiv.org/abs/2306.04938v1)|null|
@@ -2442,6 +2458,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**SNeL: A Structured Neuro-Symbolic Language for Entity-Based Multimodal Scene Understanding**|Silvan Ferreira et.al.|[2306.06036v1](http://arxiv.org/abs/2306.06036v1)|null|
+|**2023-06-08**|**A brief review of contrastive learning applied to astrophysics**|Marc Huertas-Company et.al.|[2306.05528v1](http://arxiv.org/abs/2306.05528v1)|null|
 |**2023-06-08**|**Advancing Italian Biomedical Information Extraction with Large Language Models: Methodological Insights and Multicenter Practical Application**|Claudio Crema et.al.|[2306.05323v1](http://arxiv.org/abs/2306.05323v1)|null|
 |**2023-06-08**|**Extensive Evaluation of Transformer-based Architectures for Adverse Drug Events Extraction**|Simone Scaboro et.al.|[2306.05276v1](http://arxiv.org/abs/2306.05276v1)|**[link](https://github.com/ailabudinegit/ade-detection-survey)**|
 |**2023-06-07**|**SKG: A Versatile Information Retrieval and Analysis Framework for Academic Papers with Semantic Knowledge Graphs**|Yamei Tu et.al.|[2306.04758v1](http://arxiv.org/abs/2306.04758v1)|null|
@@ -2741,6 +2759,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**How Can Recommender Systems Benefit from Large Language Models: A Survey**|Jianghao Lin et.al.|[2306.05817v1](http://arxiv.org/abs/2306.05817v1)|**[link](https://github.com/chiangel/awesome-llm-for-recsys)**|
+|**2023-06-09**|**Interactive Explanation with Varying Level of Details in an Explainable Scientific Literature Recommender System**|Mouadh Guesmi et.al.|[2306.05809v1](http://arxiv.org/abs/2306.05809v1)|null|
+|**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636v1](http://arxiv.org/abs/2306.05636v1)|null|
 |**2023-06-08**|**Safe Collaborative Filtering**|Riku Togashi et.al.|[2306.05292v1](http://arxiv.org/abs/2306.05292v1)|**[link](https://github.com/riktor/safer2-recommender)**|
 |**2023-06-08**|**Controllable Multi-Objective Re-ranking with Policy Hypernetworks**|Sirui Chen et.al.|[2306.05118v1](http://arxiv.org/abs/2306.05118v1)|**[link](https://github.com/lyingcs/controllable-multi-objective-reranking)**|
 |**2023-06-08**|**RE-Matching: A Fine-Grained Semantic Matching Method for Zero-Shot Relation Extraction**|Jun Zhao et.al.|[2306.04954v1](http://arxiv.org/abs/2306.04954v1)|null|
@@ -3243,6 +3264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636v1](http://arxiv.org/abs/2306.05636v1)|null|
 |**2023-06-07**|**Revisiting Inferential Benchmarks for Knowledge Graph Completion**|Shuwen Liu et.al.|[2306.04814v1](http://arxiv.org/abs/2306.04814v1)|**[link](https://github.com/shuwen-liu-ox/loginfer)**|
 |**2023-06-07**|**A Survey on Knowledge Graphs for Healthcare: Resources, Applications, and Promises**|Hejie Cui et.al.|[2306.04802v1](http://arxiv.org/abs/2306.04802v1)|null|
 |**2023-06-07**|**Enabling tabular deep learning when $d \gg n$ with an auxiliary knowledge graph**|Camilo Ruiz et.al.|[2306.04766v1](http://arxiv.org/abs/2306.04766v1)|null|
@@ -3665,6 +3687,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**A Dynamical Graph Prior for Relational Inference**|Liming Pan et.al.|[2306.06041v1](http://arxiv.org/abs/2306.06041v1)|**[link](https://github.com/dadacheng/dygr)**|
+|**2023-06-09**|**Path Neural Networks: Expressive and Accurate Graph Neural Networks**|Gaspard Michel et.al.|[2306.05955v1](http://arxiv.org/abs/2306.05955v1)|**[link](https://github.com/gasmichel/pathnns_expressive)**|
+|**2023-06-09**|**DynaBench: A benchmark dataset for learning dynamical systems from low-resolution data**|Andrzej Dulny et.al.|[2306.05805v1](http://arxiv.org/abs/2306.05805v1)|null|
+|**2023-06-09**|**Efficient GNN Explanation via Learning Removal-based Attribution**|Yao Rong et.al.|[2306.05760v1](http://arxiv.org/abs/2306.05760v1)|null|
+|**2023-06-09**|**Quantifying the Knowledge in GNNs for Reliable Distillation into MLPs**|Lirong Wu et.al.|[2306.05628v1](http://arxiv.org/abs/2306.05628v1)|**[link](https://github.com/lirongwu/rkd)**|
+|**2023-06-08**|**On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks**|Donald Loveland et.al.|[2306.05557v1](http://arxiv.org/abs/2306.05557v1)|null|
 |**2023-06-08**|**Scaling Spherical CNNs**|Carlos Esteves et.al.|[2306.05420v1](http://arxiv.org/abs/2306.05420v1)|**[link](https://github.com/google-research/spherical-cnn)**|
 |**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
 |**2023-06-08**|**Comprehensive evaluation of deep and graph learning on drug-drug interactions prediction**|Xuan Lin et.al.|[2306.05257v1](http://arxiv.org/abs/2306.05257v1)|**[link](https://github.com/xzenglab/resources-for-ddis-prediction-using-dl)**|
