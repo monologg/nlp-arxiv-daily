@@ -25,8 +25,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Adversarial Capsule Networks for Romanian Satire Detection and Sentiment Analysis**|Sebastian-Vasile Echim et.al.|[2306.07845v1](http://arxiv.org/abs/2306.07845v1)|null|
+|**2023-06-13**|**A Cloud-based Machine Learning Pipeline for the Efficient Extraction of Insights from Customer Reviews**|Robert Lakatos et.al.|[2306.07786v1](http://arxiv.org/abs/2306.07786v1)|null|
+|**2023-06-13**|**Rethink the Effectiveness of Text Data Augmentation: An Empirical Analysis**|Zhengxiang Shi et.al.|[2306.07664v1](http://arxiv.org/abs/2306.07664v1)|**[link](https://github.com/zhengxiangshi/powerfulpromptft)**|
+|**2023-06-12**|**Izindaba-Tindzaba: Machine learning news categorisation for Long and Short Text for isiZulu and Siswati**|Andani Madodonga et.al.|[2306.07426v1](http://arxiv.org/abs/2306.07426v1)|**[link](https://github.com/dsfsi/za-isizulu-siswati-news-2022)**|
+|**2023-06-12**|**EriBERTa: A Bilingual Pre-Trained Language Model for Clinical Natural Language Processing**|Iker de la Iglesia et.al.|[2306.07373v1](http://arxiv.org/abs/2306.07373v1)|null|
+|**2023-06-11**|**A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks**|Saidul Islam et.al.|[2306.07303v1](http://arxiv.org/abs/2306.07303v1)|null|
 |**2023-06-12**|**A Survey of Vision-Language Pre-training from the Lens of Multimodal Machine Translation**|Jeremy Gwinnup et.al.|[2306.07198v1](http://arxiv.org/abs/2306.07198v1)|null|
-|**2023-06-12**|**A language-inspired machine learning approach for solving strongly correlated problems with dynamical mean-field theory**|Zelong Zhao et.al.|[2306.06975v1](http://arxiv.org/abs/2306.06975v1)|null|
+|**2023-06-12**|**A language-inspired machine learning approach for solving strongly correlated problems with dynamical mean-field theory**|Zelong Zhao et.al.|[2306.06975v1](http://arxiv.org/abs/2306.06975v1)|**[link](https://github.com/zelong-zhao/scalinn)**|
 |**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955v1](http://arxiv.org/abs/2306.06955v1)|null|
 |**2023-06-11**|**AraMUS: Pushing the Limits of Data and Model Scale for Arabic Natural Language Processing**|Asaad Alghamdi et.al.|[2306.06800v1](http://arxiv.org/abs/2306.06800v1)|null|
 |**2023-06-11**|**Adapting to the Impact of AI in Scientific Writing: Balancing Benefits and Drawbacks while Developing Policies and Regulations**|Ahmed S. BaHammam et.al.|[2306.06699v1](http://arxiv.org/abs/2306.06699v1)|null|
@@ -844,6 +850,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Resources for Brewing BEIR: Reproducible Reference Models and an Official Leaderboard**|Ehsan Kamalloo et.al.|[2306.07471v1](http://arxiv.org/abs/2306.07471v1)|null|
 |**2023-06-12**|**Large Language Models as Tax Attorneys: A Case Study in Legal Capabilities Emergence**|John J. Nay et.al.|[2306.07075v1](http://arxiv.org/abs/2306.07075v1)|null|
 |**2023-06-09**|**Towards the Exploitation of LLM-based Chatbot for Providing Legal Support to Palestinian Cooperatives**|Rabee Qasem et.al.|[2306.05827v1](http://arxiv.org/abs/2306.05827v1)|null|
 |**2023-06-03**|**FlairNLP at SemEval-2023 Task 6b: Extraction of Legal Named Entities from Legal Texts using Contextual String Embeddings**|Vinay N Ramesh et.al.|[2306.02182v1](http://arxiv.org/abs/2306.02182v1)|**[link](https://github.com/vinaynr/legaleval-2023)**|
@@ -1009,6 +1016,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**MOFI: Learning Image Representations from Noisy Entity Annotated Images**|Wentao Wu et.al.|[2306.07952v1](http://arxiv.org/abs/2306.07952v1)|null|
 |**2023-06-11**|**RoBERTweet: A BERT Language Model for Romanian Tweets**|Iulian-Marius Tăiatu et.al.|[2306.06598v1](http://arxiv.org/abs/2306.06598v1)|null|
 |**2023-06-10**|**Enhancing Low Resource NER Using Assisting Language And Transfer Learning**|Maithili Sabane et.al.|[2306.06477v1](http://arxiv.org/abs/2306.06477v1)|null|
 |**2023-06-08**|**Advancing Italian Biomedical Information Extraction with Large Language Models: Methodological Insights and Multicenter Practical Application**|Claudio Crema et.al.|[2306.05323v1](http://arxiv.org/abs/2306.05323v1)|null|
@@ -1261,6 +1269,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks**|Veniamin Veselovsky et.al.|[2306.07899v1](http://arxiv.org/abs/2306.07899v1)|null|
+|**2023-06-13**|**Rank-Aware Negative Training for Semi-Supervised Text Classification**|Ahmed Murtadha et.al.|[2306.07621v1](http://arxiv.org/abs/2306.07621v1)|**[link](https://github.com/amurtadha/rnt)**|
+|**2023-06-13**|**Soft Language Clustering for Multilingual Model Pre-training**|Jiali Zeng et.al.|[2306.07610v1](http://arxiv.org/abs/2306.07610v1)|null|
+|**2023-06-12**|**Textual Augmentation Techniques Applied to Low Resource Machine Translation: Case of Swahili**|Catherine Gitau et.al.|[2306.07414v1](http://arxiv.org/abs/2306.07414v1)|null|
 |**2023-06-12**|**Linear Classifier: An Often-Forgotten Baseline for Text Classification**|Yu-Chen Lin et.al.|[2306.07111v1](http://arxiv.org/abs/2306.07111v1)|**[link](https://github.com/jameslyc88/text_classification_baseline_code)**|
 |**2023-06-12**|**Imbalanced Multi-label Classification for Business-related Text with Moderately Large Label Spaces**|Muhammad Arslan et.al.|[2306.07046v1](http://arxiv.org/abs/2306.07046v1)|null|
 |**2023-06-10**|**Annotation-Inspired Implicit Discourse Relation Classification with Auxiliary Discourse Connective Generation**|Wei Liu et.al.|[2306.06480v1](http://arxiv.org/abs/2306.06480v1)|null|
@@ -1647,13 +1659,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Massively Multilingual Corpus of Sentiment Datasets and Multi-faceted Sentiment Classification Benchmark**|Łukasz Augustyniak et.al.|[2306.07902v1](http://arxiv.org/abs/2306.07902v1)|**[link](https://github.com/brand24-ai/mms_benchmark)**|
+|**2023-06-13**|**Adversarial Capsule Networks for Romanian Satire Detection and Sentiment Analysis**|Sebastian-Vasile Echim et.al.|[2306.07845v1](http://arxiv.org/abs/2306.07845v1)|null|
 |**2023-06-12**|**Measuring Sentiment Bias in Machine Translation**|Kai Hartung et.al.|[2306.07152v1](http://arxiv.org/abs/2306.07152v1)|null|
 |**2023-06-10**|**Modality Influence in Multimodal Machine Learning**|Abdelhamid Haouhat et.al.|[2306.06476v1](http://arxiv.org/abs/2306.06476v1)|null|
 |**2023-06-10**|**Towards Arabic Multimodal Dataset for Sentiment Analysis**|Abdelhamid Haouhat et.al.|[2306.06322v1](http://arxiv.org/abs/2306.06322v1)|**[link](https://github.com/belgats/arabic-multimodal-dataset)**|
 |**2023-06-09**|**SentiGOLD: A Large Bangla Gold Standard Multi-Domain Sentiment Analysis Dataset and its Evaluation**|Md. Ekramul Islam et.al.|[2306.06147v1](http://arxiv.org/abs/2306.06147v1)|null|
 |**2023-06-09**|**Causality between Sentiment and Cryptocurrency Prices**|Lubdhak Mondal et.al.|[2306.05803v1](http://arxiv.org/abs/2306.05803v1)|null|
 |**2023-06-08**|**Leveraging Language Identification to Enhance Code-Mixed Text Classification**|Gauri Takawane et.al.|[2306.04964v1](http://arxiv.org/abs/2306.04964v1)|null|
-|**2023-06-07**|**PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts**|Kaijie Zhu et.al.|[2306.04528v1](http://arxiv.org/abs/2306.04528v1)|null|
+|**2023-06-13**|**PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts**|Kaijie Zhu et.al.|[2306.04528v2](http://arxiv.org/abs/2306.04528v2)|null|
 |**2023-06-07**|**Analysis of the Fed's communication by using textual entailment model of Zero-Shot classification**|Yasuhiro Nakayama et.al.|[2306.04277v1](http://arxiv.org/abs/2306.04277v1)|null|
 |**2023-06-07**|**A Unified One-Step Solution for Aspect Sentiment Quad Prediction**|Junxian Zhou et.al.|[2306.04152v1](http://arxiv.org/abs/2306.04152v1)|null|
 |**2023-06-06**|**Sentiment Analysis in Finance: From Transformers Back to eXplainable Lexicons (XLex)**|Maryan Rizinski et.al.|[2306.03997v1](http://arxiv.org/abs/2306.03997v1)|null|
@@ -1915,6 +1929,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences**|Xiao Liu et.al.|[2306.07906v1](http://arxiv.org/abs/2306.07906v1)|**[link](https://github.com/thudm/webglm)**|
+|**2023-06-13**|**Soft Language Clustering for Multilingual Model Pre-training**|Jiali Zeng et.al.|[2306.07610v1](http://arxiv.org/abs/2306.07610v1)|null|
+|**2023-06-13**|**Question Decomposition Tree for Answering Complex Questions over Knowledge Bases**|Xiang Huang et.al.|[2306.07597v1](http://arxiv.org/abs/2306.07597v1)|**[link](https://github.com/cdhx/qdtqa)**|
+|**2023-06-13**|**Improving Opinion-based Question Answering Systems Through Label Error Detection and Overwrite**|Xiao Yang et.al.|[2306.07499v1](http://arxiv.org/abs/2306.07499v1)|null|
 |**2023-06-12**|**A Survey of Vision-Language Pre-training from the Lens of Multimodal Machine Translation**|Jeremy Gwinnup et.al.|[2306.07198v1](http://arxiv.org/abs/2306.07198v1)|null|
 |**2023-06-12**|**The Effect of Masking Strategies on Knowledge Retention by Language Models**|Jonas Wallat et.al.|[2306.07185v1](http://arxiv.org/abs/2306.07185v1)|**[link](https://github.com/jwallat/knowledge-acquisition)**|
 |**2023-06-12**|**Global and Local Semantic Completion Learning for Vision-Language Pre-training**|Rong-Cheng Tu et.al.|[2306.07096v1](http://arxiv.org/abs/2306.07096v1)|**[link](https://github.com/iigroup/scl)**|
@@ -2493,6 +2511,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-11**|**Multi-modal Representation Learning for Social Post Location Inference**|Ruiting Dai et.al.|[2306.07935v1](http://arxiv.org/abs/2306.07935v1)|null|
+|**2023-06-13**|**A Cloud-based Machine Learning Pipeline for the Efficient Extraction of Insights from Customer Reviews**|Robert Lakatos et.al.|[2306.07786v1](http://arxiv.org/abs/2306.07786v1)|null|
 |**2023-06-12**|**CD-CTFM: A Lightweight CNN-Transformer Network for Remote Sensing Cloud Detection Fusing Multiscale Features**|Wenxuan Ge et.al.|[2306.07186v1](http://arxiv.org/abs/2306.07186v1)|null|
 |**2023-06-12**|**The Devil is in the Details: On the Pitfalls of Event Extraction Evaluation**|Peng Hao et.al.|[2306.06918v1](http://arxiv.org/abs/2306.06918v1)|**[link](https://github.com/thu-keg/omnievent)**|
 |**2023-06-12**|**Weakly supervised information extraction from inscrutable handwritten document images**|Sujoy Paul et.al.|[2306.06823v1](http://arxiv.org/abs/2306.06823v1)|null|
@@ -2797,6 +2817,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Rethinking Incentives in Recommender Systems: Are Monotone Rewards Always Beneficial?**|Fan Yao et.al.|[2306.07893v1](http://arxiv.org/abs/2306.07893v1)|null|
+|**2023-06-13**|**Topic-Centric Explanations for News Recommendation**|Dairui Liu et.al.|[2306.07506v1](http://arxiv.org/abs/2306.07506v1)|**[link](https://github.com/ruixinhua/explainednrs)**|
+|**2023-06-13**|**Incentivizing High-Quality Content in Online Recommender Systems**|Xinyan Hu et.al.|[2306.07479v1](http://arxiv.org/abs/2306.07479v1)|null|
+|**2023-06-12**|**Enhancing Topic Extraction in Recommender Systems with Entropy Regularization**|Xuefei Jiang et.al.|[2306.07403v1](http://arxiv.org/abs/2306.07403v1)|null|
 |**2023-06-11**|**Skellam Rank: Fair Learning to Rank Algorithm Based on Poisson Process and Skellam Distribution for Recommender Systems**|Hao Wang et.al.|[2306.06607v1](http://arxiv.org/abs/2306.06607v1)|null|
 |**2023-06-11**|**Mean-Variance Efficient Collaborative Filtering for Stock Recommendation**|Munki Chung et.al.|[2306.06590v1](http://arxiv.org/abs/2306.06590v1)|null|
 |**2023-06-10**|**Enjoy the Silence: Analysis of Stochastic Petri Nets with Silent Transitions**|Sander J. J. Leemans et.al.|[2306.06376v1](http://arxiv.org/abs/2306.06376v1)|null|
@@ -3307,6 +3331,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Contextual Dictionary Lookup for Knowledge Graph Completion**|Jining Wang et.al.|[2306.07719v1](http://arxiv.org/abs/2306.07719v1)|null|
+|**2023-06-13**|**Noisy Positive-Unlabeled Learning with Self-Training for Speculative Knowledge Graph Reasoning**|Ruijie Wang et.al.|[2306.07512v1](http://arxiv.org/abs/2306.07512v1)|null|
 |**2023-06-09**|**Multi-Task Knowledge Enhancement for Zero-Shot and Multi-Domain Recommendation in an AI Assistant Application**|Elan Markowitz et.al.|[2306.06302v1](http://arxiv.org/abs/2306.06302v1)|null|
 |**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636v1](http://arxiv.org/abs/2306.05636v1)|null|
 |**2023-06-07**|**Revisiting Inferential Benchmarks for Knowledge Graph Completion**|Shuwen Liu et.al.|[2306.04814v1](http://arxiv.org/abs/2306.04814v1)|**[link](https://github.com/shuwen-liu-ox/loginfer)**|
@@ -3731,6 +3757,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Vector-Quantized Graph Auto-Encoder**|Yoann Boget et.al.|[2306.07735v1](http://arxiv.org/abs/2306.07735v1)|null|
+|**2023-06-13**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618v1](http://arxiv.org/abs/2306.07618v1)|null|
+|**2023-06-13**|**Von Mises Mixture Distributions for Molecular Conformation Generation**|Kirk Swanson et.al.|[2306.07472v1](http://arxiv.org/abs/2306.07472v1)|**[link](https://github.com/thejonaslab/vonmises-icml-2023)**|
 |**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
 |**2023-06-12**|**LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability Types**|Xin-Cheng Wen et.al.|[2306.06935v1](http://arxiv.org/abs/2306.06935v1)|**[link](https://github.com/livable01/livable)**|
 |**2023-06-12**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930v1](http://arxiv.org/abs/2306.06930v1)|null|
