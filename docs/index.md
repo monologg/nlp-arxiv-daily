@@ -25,6 +25,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**Rewriting the Script: Adapting Text Instructions for Voice Interaction**|Alyssa Hwang et.al.|[2306.09992v1](http://arxiv.org/abs/2306.09992v1)|null|
+|**2023-06-16**|**ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation**|Guangyu Wang et.al.|[2306.09968v1](http://arxiv.org/abs/2306.09968v1)|null|
+|**2023-06-16**|**Revealing the impact of social circumstances on the selection of cancer therapy through natural language processing of social work notes**|Shenghuan Sun et.al.|[2306.09877v1](http://arxiv.org/abs/2306.09877v1)|null|
+|**2023-06-16**|**Full Parameter Fine-tuning for Large Language Models with Limited Resources**|Kai Lv et.al.|[2306.09782v1](http://arxiv.org/abs/2306.09782v1)|**[link](https://github.com/openlmlab/lomo)**|
+|**2023-06-16**|**Using Natural Language Processing and Networks to Automate Structured Literature Reviews: An Application to Farmers Climate Change Adaptation**|Sofia Gil-Clavel et.al.|[2306.09737v1](http://arxiv.org/abs/2306.09737v1)|null|
+|**2023-06-16**|**Reducing Computational Costs in Sentiment Analysis: Tensorized Recurrent Networks vs. Recurrent Networks**|Gabriel Lopez et.al.|[2306.09705v1](http://arxiv.org/abs/2306.09705v1)|null|
+|**2023-06-15**|**Building blocks for complex tasks: Robust generative event extraction for radiology reports under domain shifts**|Sitong Zhou et.al.|[2306.09544v1](http://arxiv.org/abs/2306.09544v1)|null|
+|**2023-06-15**|**FedMultimodal: A Benchmark For Multimodal Federated Learning**|Tiantian Feng et.al.|[2306.09486v1](http://arxiv.org/abs/2306.09486v1)|null|
 |**2023-06-15**|**From BERT to GPT-3 Codex: Harnessing the Potential of Very Large Language Models for Data Management**|Immanuel Trummer et.al.|[2306.09339v1](http://arxiv.org/abs/2306.09339v1)|null|
 |**2023-06-15**|**Opportunities for Large Language Models and Discourse in Engineering Design**|Jan Göpfert et.al.|[2306.09169v1](http://arxiv.org/abs/2306.09169v1)|null|
 |**2023-06-15**|**Mapping Researcher Activity based on Publication Data by means of Transformers**|Zineddine Bettouche et.al.|[2306.09049v1](http://arxiv.org/abs/2306.09049v1)|null|
@@ -1027,6 +1035,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**Pushing the Limits of ChatGPT on NLP Tasks**|Xiaofei Sun et.al.|[2306.09719v1](http://arxiv.org/abs/2306.09719v1)|null|
 |**2023-06-14**|**Improving Code-Switching and Named Entity Recognition in ASR with Speech Editing based Data Augmentation**|Zheng Liang et.al.|[2306.08588v1](http://arxiv.org/abs/2306.08588v1)|null|
 |**2023-06-14**|**Building a Corpus for Biomedical Relation Extraction of Species Mentions**|Oumaima El Khettari et.al.|[2306.08403v1](http://arxiv.org/abs/2306.08403v1)|null|
 |**2023-06-14**|**Research on Named Entity Recognition in Improved transformer with R-Drop structure**|Weidong Ji et.al.|[2306.08315v1](http://arxiv.org/abs/2306.08315v1)|null|
@@ -1283,6 +1292,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**No Strong Feelings One Way or Another: Re-operationalizing Neutrality in Natural Language Inference**|Animesh Nighojkar et.al.|[2306.09918v1](http://arxiv.org/abs/2306.09918v1)|null|
+|**2023-06-16**|**Smart Sentiment Analysis-based Search Engine Classification Intelligence**|Mike Nkongolo et.al.|[2306.09777v1](http://arxiv.org/abs/2306.09777v1)|null|
+|**2023-06-16**|**Pushing the Limits of ChatGPT on NLP Tasks**|Xiaofei Sun et.al.|[2306.09719v1](http://arxiv.org/abs/2306.09719v1)|null|
 |**2023-06-15**|**SCALE: Scaling up the Complexity for Advanced Language Model Evaluation**|Vishvaksenan Rasiah et.al.|[2306.09237v1](http://arxiv.org/abs/2306.09237v1)|null|
 |**2023-06-15**|**MetricPrompt: Prompting Model as a Relevance Metric for Few-shot Text Classification**|Hongyuan Dong et.al.|[2306.08892v1](http://arxiv.org/abs/2306.08892v1)|**[link](https://github.com/dousia/metricprompt)**|
 |**2023-06-15**|**Neural models for Factual Inconsistency Classification with Explanations**|Tathagata Raha et.al.|[2306.08872v1](http://arxiv.org/abs/2306.08872v1)|**[link](https://github.com/blitzprecision/ficle)**|
@@ -1678,6 +1690,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**Smart Sentiment Analysis-based Search Engine Classification Intelligence**|Mike Nkongolo et.al.|[2306.09777v1](http://arxiv.org/abs/2306.09777v1)|null|
+|**2023-06-16**|**Pushing the Limits of ChatGPT on NLP Tasks**|Xiaofei Sun et.al.|[2306.09719v1](http://arxiv.org/abs/2306.09719v1)|null|
+|**2023-06-16**|**Reducing Computational Costs in Sentiment Analysis: Tensorized Recurrent Networks vs. Recurrent Networks**|Gabriel Lopez et.al.|[2306.09705v1](http://arxiv.org/abs/2306.09705v1)|null|
 |**2023-06-15**|**Opinion Tree Parsing for Aspect-based Sentiment Analysis**|Xiaoyi Bao et.al.|[2306.08925v1](http://arxiv.org/abs/2306.08925v1)|**[link](https://github.com/horacexiaoyibao/otp4absa-acl2023)**|
 |**2023-06-14**|**AlbMoRe: A Corpus of Movie Reviews for Sentiment Analysis in Albanian**|Erion Çano et.al.|[2306.08526v1](http://arxiv.org/abs/2306.08526v1)|**[link](https://github.com/erionc/albmore)**|
 |**2023-06-14**|**A semantically enhanced dual encoder for aspect sentiment triplet extraction**|Baoxing Jiang et.al.|[2306.08373v1](http://arxiv.org/abs/2306.08373v1)|**[link](https://github.com/baosir529/dual-encoder4aste)**|
@@ -1951,6 +1966,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering**|Rabiul Awal et.al.|[2306.09996v1](http://arxiv.org/abs/2306.09996v1)|null|
+|**2023-06-16**|**ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation**|Guangyu Wang et.al.|[2306.09968v1](http://arxiv.org/abs/2306.09968v1)|null|
+|**2023-06-16**|**Learning to Summarize and Answer Questions about a Virtual Robot's Past Actions**|Chad DeChant et.al.|[2306.09922v1](http://arxiv.org/abs/2306.09922v1)|null|
+|**2023-06-16**|**Pushing the Limits of ChatGPT on NLP Tasks**|Xiaofei Sun et.al.|[2306.09719v1](http://arxiv.org/abs/2306.09719v1)|null|
 |**2023-06-15**|**LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models**|Peng Xu et.al.|[2306.09265v1](http://arxiv.org/abs/2306.09265v1)|**[link](https://github.com/opengvlab/multi-modality-arena)**|
 |**2023-06-15**|**Encyclopedic VQA: Visual questions about detailed properties of fine-grained categories**|Thomas Mensink et.al.|[2306.09224v1](http://arxiv.org/abs/2306.09224v1)|null|
 |**2023-06-15**|**COSA: Concatenated Sample Pretrained Vision-Language Foundation Model**|Sihan Chen et.al.|[2306.09085v1](http://arxiv.org/abs/2306.09085v1)|**[link](https://github.com/txh-mercury/cosa)**|
@@ -2543,6 +2562,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**Pushing the Limits of ChatGPT on NLP Tasks**|Xiaofei Sun et.al.|[2306.09719v1](http://arxiv.org/abs/2306.09719v1)|null|
+|**2023-06-15**|**Building blocks for complex tasks: Robust generative event extraction for radiology reports under domain shifts**|Sitong Zhou et.al.|[2306.09544v1](http://arxiv.org/abs/2306.09544v1)|null|
+|**2023-06-15**|**Attention-based Open RAN Slice Management using Deep Reinforcement Learning**|Fatemeh Lotfi et.al.|[2306.09490v1](http://arxiv.org/abs/2306.09490v1)|null|
+|**2023-06-15**|**Towards Long Form Audio-visual Video Understanding**|Wenxuan Hou et.al.|[2306.09431v1](http://arxiv.org/abs/2306.09431v1)|null|
 |**2023-06-15**|**Training Multimedia Event Extraction With Generated Images and Captions**|Zilin Du et.al.|[2306.08966v1](http://arxiv.org/abs/2306.08966v1)|null|
 |**2023-06-14**|**UIERL: Internal-External Representation Learning Network for Underwater Image Enhancement**|Zhengyong Wang et.al.|[2306.08344v1](http://arxiv.org/abs/2306.08344v1)|**[link](https://github.com/underwater-lab-shu/uierl)**|
 |**2023-06-11**|**Multi-modal Representation Learning for Social Post Location Inference**|Ruiting Dai et.al.|[2306.07935v1](http://arxiv.org/abs/2306.07935v1)|null|
@@ -2851,6 +2874,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets**|Yu Lu et.al.|[2306.09631v1](http://arxiv.org/abs/2306.09631v1)|null|
+|**2023-06-15**|**Graph Extraction for Assisting Crash Simulation Data Analysis**|Anahita Pakiman et.al.|[2306.09538v1](http://arxiv.org/abs/2306.09538v1)|null|
 |**2023-06-15**|**Fast and Examination-agnostic Reciprocal Recommendation in Matching Markets**|Yoji Tomita et.al.|[2306.09060v1](http://arxiv.org/abs/2306.09060v1)|null|
 |**2023-06-15**|**RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation**|Gabriel Bénédict et.al.|[2306.08947v1](http://arxiv.org/abs/2306.08947v1)|**[link](https://github.com/gabriben/recfusion)**|
 |**2023-06-15**|**Community Detection Attack against Collaborative Learning-based Recommender Systems**|Yacine Belal et.al.|[2306.08929v1](http://arxiv.org/abs/2306.08929v1)|null|
@@ -3375,6 +3400,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets**|Yu Lu et.al.|[2306.09631v1](http://arxiv.org/abs/2306.09631v1)|null|
+|**2023-06-15**|**Relation-Aware Network with Attention-Based Loss for Few-Shot Knowledge Graph Completion**|Qiao Qiao et.al.|[2306.09519v1](http://arxiv.org/abs/2306.09519v1)|null|
+|**2023-06-15**|**Sample-Efficient Learning of Novel Visual Concepts**|Sarthak Bhagat et.al.|[2306.09482v1](http://arxiv.org/abs/2306.09482v1)|null|
 |**2023-06-14**|**Recognizing Unseen Objects via Multimodal Intensive Knowledge Graph Propagation**|Likang Wu et.al.|[2306.08487v1](http://arxiv.org/abs/2306.08487v1)|null|
 |**2023-06-14**|**Unifying Large Language Models and Knowledge Graphs: A Roadmap**|Shirui Pan et.al.|[2306.08302v1](http://arxiv.org/abs/2306.08302v1)|null|
 |**2023-06-13**|**Contextual Dictionary Lookup for Knowledge Graph Completion**|Jining Wang et.al.|[2306.07719v1](http://arxiv.org/abs/2306.07719v1)|null|
@@ -3803,6 +3831,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**Uncertainty Quantification via Spatial-Temporal Tweedie Model for Zero-inflated and Long-tail Travel Demand Prediction**|Xinke Jiang et.al.|[2306.09882v1](http://arxiv.org/abs/2306.09882v1)|**[link](https://github.com/sttdanonymous/sttd)**|
+|**2023-06-16**|**Learning CO $_2$ plume migration in faulted reservoirs with Graph Neural Networks**|Xin Ju et.al.|[2306.09648v1](http://arxiv.org/abs/2306.09648v1)|null|
+|**2023-06-16**|**From Hypergraph Energy Functions to Hypergraph Neural Networks**|Yuxin Wang et.al.|[2306.09623v1](http://arxiv.org/abs/2306.09623v1)|**[link](https://github.com/yxzwang/phenomnn)**|
+|**2023-06-16**|**GraphSHA: Synthesizing Harder Samples for Class-Imbalanced Node Classification**|Wen-Zhi Li et.al.|[2306.09612v1](http://arxiv.org/abs/2306.09612v1)|**[link](https://github.com/wenzhilics/graphsha)**|
+|**2023-06-15**|**Kriging Convolutional Networks**|Gabriel Appleby et.al.|[2306.09463v1](http://arxiv.org/abs/2306.09463v1)|**[link](https://github.com/tufts-ml/kcn-torch)**|
+|**2023-06-15**|**Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation**|Yu Wang et.al.|[2306.09381v1](http://arxiv.org/abs/2306.09381v1)|null|
 |**2023-06-15**|**The Split Matters: Flat Minima Methods for Improving the Performance of GNNs**|Nicolas Lell et.al.|[2306.09121v1](http://arxiv.org/abs/2306.09121v1)|**[link](https://github.com/foisunt/fmms-in-gnns)**|
 |**2023-06-15**|**On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation**|Zhanke Zhou et.al.|[2306.09104v1](http://arxiv.org/abs/2306.09104v1)|**[link](https://github.com/tmlr-group/mc-gra)**|
 |**2023-06-15**|**Scalable Resource Management for Dynamic MEC: An Unsupervised Link-Output Graph Neural Network Approach**|Xiucheng Wang et.al.|[2306.08938v1](http://arxiv.org/abs/2306.08938v1)|**[link](https://github.com/UNIC-Lab/LOGNN)**|
