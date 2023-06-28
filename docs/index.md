@@ -25,6 +25,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Exploring Durham University Physics exams with Large Language Models**|Will Yeadon et.al.|[2306.15609v1](http://arxiv.org/abs/2306.15609v1)|null|
+|**2023-06-27**|**Using Large Language Models to Provide Explanatory Feedback to Human Tutors**|Jionghao Lin et.al.|[2306.15498v1](http://arxiv.org/abs/2306.15498v1)|null|
+|**2023-06-27**|**Gender Bias in BERT -- Measuring and Analysing Biases through Sentiment Rating in a Realistic Downstream Classification Task**|Sophie Jentzsch et.al.|[2306.15298v1](http://arxiv.org/abs/2306.15298v1)|null|
+|**2023-06-27**|**Investigating Cross-Domain Behaviors of BERT in Review Understanding**|Albert Lu et.al.|[2306.15123v1](http://arxiv.org/abs/2306.15123v1)|null|
+|**2023-06-26**|**FeedbackMap: a tool for making sense of open-ended survey responses**|Doug Beeferman et.al.|[2306.15112v1](http://arxiv.org/abs/2306.15112v1)|null|
+|**2023-06-26**|**LM4HPC: Towards Effective Language Model Application in High-Performance Computing**|Le Chen et.al.|[2306.14979v1](http://arxiv.org/abs/2306.14979v1)|null|
+|**2023-06-26**|**The Art of Embedding Fusion: Optimizing Hate Speech Detection**|Mohammad Aflah Khan et.al.|[2306.14939v1](http://arxiv.org/abs/2306.14939v1)|**[link](https://github.com/aflah02/the-art-of-embedding-fusion-optimizing-hate-speech-detection)**|
 |**2023-06-26**|**Learning to Modulate pre-trained Models in RL**|Thomas Schmied et.al.|[2306.14884v1](http://arxiv.org/abs/2306.14884v1)|**[link](https://github.com/ml-jku/l2m)**|
 |**2023-06-26**|**Enriching the NArabizi Treebank: A Multifaceted Approach to Supporting an Under-Resourced Language**|Riabi Arij et.al.|[2306.14866v1](http://arxiv.org/abs/2306.14866v1)|null|
 |**2023-06-26**|**Inter-Annotator Agreement in the Wild: Uncovering Its Emerging Roles and Considerations in Real-World Scenarios**|NamHyeok Kim et.al.|[2306.14373v1](http://arxiv.org/abs/2306.14373v1)|null|
@@ -1072,6 +1079,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**CamemBERT-bio: a Tasty French Language Model Better for your Health**|Rian Touchent et.al.|[2306.15550v1](http://arxiv.org/abs/2306.15550v1)|null|
+|**2023-06-27**|**Using Large Language Models to Provide Explanatory Feedback to Human Tutors**|Jionghao Lin et.al.|[2306.15498v1](http://arxiv.org/abs/2306.15498v1)|null|
 |**2023-06-26**|**Enriching the NArabizi Treebank: A Multifaceted Approach to Supporting an Under-Resourced Language**|Riabi Arij et.al.|[2306.14866v1](http://arxiv.org/abs/2306.14866v1)|null|
 |**2023-06-26**|**Transfer Learning across Several Centuries: Machine and Historian Integrated Method to Decipher Royal Secretary's Diary**|Sojung Lucia Kim et.al.|[2306.14592v1](http://arxiv.org/abs/2306.14592v1)|null|
 |**2023-06-25**|**Chain-of-Thought Prompt Distillation for Multimodal Named Entity and Multimodal Relation Extraction**|Feng Chen et.al.|[2306.14122v1](http://arxiv.org/abs/2306.14122v1)|**[link](https://github.com/hwchase17/langchain)**|
@@ -1335,6 +1344,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**A new classification framework for high-dimensional data**|Xiangbo Mo et.al.|[2306.15199v1](http://arxiv.org/abs/2306.15199v1)|null|
+|**2023-06-27**|**Investigating Cross-Domain Behaviors of BERT in Review Understanding**|Albert Lu et.al.|[2306.15123v1](http://arxiv.org/abs/2306.15123v1)|null|
 |**2023-06-26**|**Label-Aware Hyperbolic Embeddings for Fine-grained Emotion Classification**|Chih-Yao Chen et.al.|[2306.14822v1](http://arxiv.org/abs/2306.14822v1)|**[link](https://github.com/dinobby/hypemo)**|
 |**2023-06-24**|**Intensity-free Convolutional Temporal Point Process: Incorporating Local and Global Event Contexts**|Wang-Tao Zhou et.al.|[2306.14072v1](http://arxiv.org/abs/2306.14072v1)|null|
 |**2023-06-23**|**Deconstructing Classifiers: Towards A Data Reconstruction Attack Against Text Classification Models**|Adel Elmahdy et.al.|[2306.13789v1](http://arxiv.org/abs/2306.13789v1)|null|
@@ -1743,6 +1754,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Unleashing the Power of User Reviews: Exploring Airline Choices at Catania Airport, Italy**|Vincenzo Miracula et.al.|[2306.15541v1](http://arxiv.org/abs/2306.15541v1)|null|
 |**2023-06-25**|**Stance Prediction and Analysis of Twitter data : A case study of Ghana 2020 Presidential Elections**|Shester Gueuwou et.al.|[2306.14203v1](http://arxiv.org/abs/2306.14203v1)|**[link](https://github.com/shesterg/stance-detection-ghana-2020-elections)**|
 |**2023-06-25**|**Chinese Fine-Grained Financial Sentiment Analysis with Large Language Models**|Yinyu Lan et.al.|[2306.14096v1](http://arxiv.org/abs/2306.14096v1)|null|
 |**2023-06-24**|**My Boli: Code-mixed Marathi-English Corpora, Pretrained Language Models and Evaluation Benchmarks**|Tanmay Chavan et.al.|[2306.14030v1](http://arxiv.org/abs/2306.14030v1)|**[link](https://github.com/l3cube-pune/MarathiNLP)**|
@@ -2650,6 +2662,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Prioritized Trajectory Replay: A Replay Memory for Data-driven Reinforcement Learning**|Jinyi Liu et.al.|[2306.15503v1](http://arxiv.org/abs/2306.15503v1)|null|
+|**2023-06-23**|**Product Information Extraction using ChatGPT**|Alexander Brinkmann et.al.|[2306.14921v1](http://arxiv.org/abs/2306.14921v1)|**[link](https://github.com/wbsg-uni-mannheim/pie_chatgpt)**|
+|**2023-06-19**|**FSUIE: A Novel Fuzzy Span Mechanism for Universal Information Extraction**|Tianshuo Peng et.al.|[2306.14913v1](http://arxiv.org/abs/2306.14913v1)|null|
 |**2023-06-26**|**JSEEGraph: Joint Structured Event Extraction as Graph Parsing**|Huiling You et.al.|[2306.14633v1](http://arxiv.org/abs/2306.14633v1)|null|
 |**2023-06-26**|**HeaRT: Health Record Timeliner to visualise patients' medical history from health record text**|Shuntaro Yada et.al.|[2306.14379v1](http://arxiv.org/abs/2306.14379v1)|null|
 |**2023-06-23**|**Resume Information Extraction via Post-OCR Text Processing**|Selahattin Serdar Helli et.al.|[2306.13775v1](http://arxiv.org/abs/2306.13775v1)|null|
@@ -2974,6 +2989,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Constructing Multilingual Code Search Dataset Using Neural Machine Translation**|Ryo Sekizawa et.al.|[2306.15604v1](http://arxiv.org/abs/2306.15604v1)|**[link](https://github.com/ynklab/xcodesearchnet)**|
 |**2023-06-26**|**Scalable Neural Contextual Bandit for Recommender Systems**|Zheqing Zhu et.al.|[2306.14834v1](http://arxiv.org/abs/2306.14834v1)|null|
 |**2023-06-26**|**Reciprocal Sequential Recommendation**|Bowen Zheng et.al.|[2306.14712v1](http://arxiv.org/abs/2306.14712v1)|**[link](https://github.com/rucaibox/reseq)**|
 |**2023-06-26**|**Multi-task Item-attribute Graph Pre-training for Strict Cold-start Item Recommendation**|Yuwei Cao et.al.|[2306.14462v1](http://arxiv.org/abs/2306.14462v1)|**[link](https://github.com/yuweicao-uic/coldgpt)**|
@@ -3976,7 +3992,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-26**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857v1](http://arxiv.org/abs/2306.14857v1)|null|
+|**2023-06-27**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v1](http://arxiv.org/abs/2306.15632v1)|null|
+|**2023-06-27**|**Higher-order Graph Attention Network for Stock Selection with Joint Analysis**|Yang Qiao et.al.|[2306.15526v1](http://arxiv.org/abs/2306.15526v1)|null|
+|**2023-06-27**|**Adversarial Training for Graph Neural Networks**|Lukas Gosch et.al.|[2306.15427v1](http://arxiv.org/abs/2306.15427v1)|null|
+|**2023-06-27**|**Input-sensitive dense-sparse primitive compositions for GNN acceleration**|Damitha Lenadora et.al.|[2306.15155v1](http://arxiv.org/abs/2306.15155v1)|null|
+|**2023-06-27**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857v2](http://arxiv.org/abs/2306.14857v2)|null|
 |**2023-06-26**|**Accelerating Molecular Graph Neural Networks via Knowledge Distillation**|Filip Ekström Kelvinius et.al.|[2306.14818v1](http://arxiv.org/abs/2306.14818v1)|null|
 |**2023-06-26**|**RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools**|Haochen Shi et.al.|[2306.14447v1](http://arxiv.org/abs/2306.14447v1)|null|
 |**2023-06-26**|**Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks**|Gaotang Li et.al.|[2306.14375v1](http://arxiv.org/abs/2306.14375v1)|**[link](https://github.com/motivationss/igs)**|
