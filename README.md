@@ -21,6 +21,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Towards Grammatical Tagging for the Legal Language of Cybersecurity**|Gianpietro Castiglione et.al.|[2306.17042v1](http://arxiv.org/abs/2306.17042v1)|null|
+|**2023-06-29**|**Benchmarking Large Language Model Capabilities for Conditional Generation**|Joshua Maynez et.al.|[2306.16793v1](http://arxiv.org/abs/2306.16793v1)|null|
+|**2023-06-29**|**Principles and Guidelines for Evaluating Social Robot Navigation Algorithms**|Anthony Francis et.al.|[2306.16740v1](http://arxiv.org/abs/2306.16740v1)|null|
+|**2023-06-29**|**Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of Information Retrieval Models**|Guido Zuccon et.al.|[2306.16668v1](http://arxiv.org/abs/2306.16668v1)|**[link](https://github.com/ielab/green-ir)**|
+|**2023-06-28**|**An Efficient Sparse Inference Software Accelerator for Transformer-based Language Models on CPUs**|Haihao Shen et.al.|[2306.16601v1](http://arxiv.org/abs/2306.16601v1)|**[link](https://github.com/intel/intel-extension-for-transformers)**|
 |**2023-06-28**|**Multi-Site Clinical Federated Learning using Recursive and Attentive Models and NVFlare**|Won Joon Yun et.al.|[2306.16367v1](http://arxiv.org/abs/2306.16367v1)|null|
 |**2023-06-28**|**cuSLINK: Single-linkage Agglomerative Clustering on the GPU**|Corey J. Nolet et.al.|[2306.16354v1](http://arxiv.org/abs/2306.16354v1)|null|
 |**2023-06-28**|**Generative User-Experience Research for Developing Domain-specific Natural Language Processing Applications**|Anastasia Zhukova et.al.|[2306.16143v1](http://arxiv.org/abs/2306.16143v1)|null|
@@ -916,6 +921,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Towards Grammatical Tagging for the Legal Language of Cybersecurity**|Gianpietro Castiglione et.al.|[2306.17042v1](http://arxiv.org/abs/2306.17042v1)|null|
 |**2023-06-15**|**SCALE: Scaling up the Complexity for Advanced Language Model Evaluation**|Vishvaksenan Rasiah et.al.|[2306.09237v1](http://arxiv.org/abs/2306.09237v1)|null|
 |**2023-06-13**|**Resources for Brewing BEIR: Reproducible Reference Models and an Official Leaderboard**|Ehsan Kamalloo et.al.|[2306.07471v1](http://arxiv.org/abs/2306.07471v1)|null|
 |**2023-06-12**|**Large Language Models as Tax Attorneys: A Case Study in Legal Capabilities Emergence**|John J. Nay et.al.|[2306.07075v1](http://arxiv.org/abs/2306.07075v1)|null|
@@ -1083,6 +1089,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Integrating Large Pre-trained Models into Multimodal Named Entity Recognition with Evidential Fusion**|Weide Liu et.al.|[2306.16991v1](http://arxiv.org/abs/2306.16991v1)|null|
 |**2023-06-28**|**Streamlining Social Media Information Retrieval for Public Health Research with Deep Learning**|Yining Hua et.al.|[2306.16001v1](http://arxiv.org/abs/2306.16001v1)|null|
 |**2023-06-28**|**Sentence-to-Label Generation Framework for Multi-task Learning of Japanese Sentence Classification and Named Entity Recognition**|Chengguang Gan et.al.|[2306.15978v1](http://arxiv.org/abs/2306.15978v1)|null|
 |**2023-06-27**|**Biomedical Entity Recognition by Detection and Matching**|Junyi Bian et.al.|[2306.15736v1](http://arxiv.org/abs/2306.15736v1)|**[link](https://github.com/eulring/dmner)**|
@@ -1763,6 +1770,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**MEMD-ABSA: A Multi-Element Multi-Domain Dataset for Aspect-Based Sentiment Analysis**|Hongjie Cai et.al.|[2306.16956v1](http://arxiv.org/abs/2306.16956v1)|**[link](https://github.com/nustm/memd-absa)**|
 |**2023-06-28**|**Taqyim: Evaluating Arabic NLP Tasks Using ChatGPT Models**|Zaid Alyafeai et.al.|[2306.16322v1](http://arxiv.org/abs/2306.16322v1)|**[link](https://github.com/arbml/taqyim)**|
 |**2023-06-28**|**What Sentiment and Fun Facts We Learnt Before FIFA World Cup Qatar 2022 Using Twitter and AI**|James She et.al.|[2306.16049v1](http://arxiv.org/abs/2306.16049v1)|null|
 |**2023-06-27**|**ConKI: Contrastive Knowledge Injection for Multimodal Sentiment Analysis**|Yakun Yu et.al.|[2306.15796v1](http://arxiv.org/abs/2306.15796v1)|null|
@@ -2058,6 +2066,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**|Yanzhe Zhang et.al.|[2306.17107v1](http://arxiv.org/abs/2306.17107v1)|null|
+|**2023-06-29**|**Unified Language Representation for Question Answering over Text, Tables, and Images**|Bowen Yu et.al.|[2306.16762v1](http://arxiv.org/abs/2306.16762v1)|null|
+|**2023-06-29**|**Answer Mining from a Pool of Images: Towards Retrieval-Based Visual Question Answering**|Abhirama Subramanyam Penamakuri et.al.|[2306.16713v1](http://arxiv.org/abs/2306.16713v1)|null|
+|**2023-06-28**|**Pre-Training Multi-Modal Dense Retrievers for Outside-Knowledge Visual Question Answering**|Alireza Salemi et.al.|[2306.16478v1](http://arxiv.org/abs/2306.16478v1)|**[link](https://github.com/alirezasalemi7/pretraining-multimodal-dense-retriever-for-okvqa)**|
 |**2023-06-28**|**SE-PQA: Personalized Community Question Answering**|Pranav Kasela et.al.|[2306.16261v1](http://arxiv.org/abs/2306.16261v1)|null|
 |**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|**[link](https://github.com/jingkang50/funqa)**|
 |**2023-06-26**|**FC-KBQA: A Fine-to-Coarse Composition Framework for Knowledge Base Question Answering**|Lingxi Zhang et.al.|[2306.14722v1](http://arxiv.org/abs/2306.14722v1)|null|
@@ -2675,6 +2687,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Integrating Large Pre-trained Models into Multimodal Named Entity Recognition with Evidential Fusion**|Weide Liu et.al.|[2306.16991v1](http://arxiv.org/abs/2306.16991v1)|null|
 |**2023-06-28**|**Sentence-to-Label Generation Framework for Multi-task Learning of Japanese Sentence Classification and Named Entity Recognition**|Chengguang Gan et.al.|[2306.15978v1](http://arxiv.org/abs/2306.15978v1)|null|
 |**2023-06-27**|**Prioritized Trajectory Replay: A Replay Memory for Data-driven Reinforcement Learning**|Jinyi Liu et.al.|[2306.15503v1](http://arxiv.org/abs/2306.15503v1)|null|
 |**2023-06-23**|**Product Information Extraction using ChatGPT**|Alexander Brinkmann et.al.|[2306.14921v1](http://arxiv.org/abs/2306.14921v1)|**[link](https://github.com/wbsg-uni-mannheim/pie_chatgpt)**|
@@ -3003,6 +3016,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Obeying the Order: Introducing Ordered Transfer Hyperparameter Optimisation**|Sigrid Passano Hellan et.al.|[2306.16916v1](http://arxiv.org/abs/2306.16916v1)|null|
+|**2023-06-26**|**A Food Recommender System in Academic Environments Based on Machine Learning Models**|Abolfazl Ajami et.al.|[2306.16528v1](http://arxiv.org/abs/2306.16528v1)|null|
+|**2023-06-27**|**Shilling Black-box Review-based Recommender Systems through Fake Review Generation**|Hung-Yun Chiang et.al.|[2306.16526v1](http://arxiv.org/abs/2306.16526v1)|null|
+|**2023-06-28**|**Exploring chemical compound space with a graph-based recommender system**|Elton Ogoshi et.al.|[2306.16496v1](http://arxiv.org/abs/2306.16496v1)|null|
 |**2023-06-28**|**MyDigitalFootprint: an extensive context dataset for pervasive computing applications at the edge**|Mattia Giovanni Campana et.al.|[2306.15990v1](http://arxiv.org/abs/2306.15990v1)|**[link](https://github.com/contextkit/mydigitalfootprint)**|
 |**2023-06-28**|**Disentangled Variational Auto-encoder Enhanced by Counterfactual Data for Debiasing Recommendation**|Yupu Guo et.al.|[2306.15961v1](http://arxiv.org/abs/2306.15961v1)|null|
 |**2023-06-28**|**Blockwise Feature Interaction in Recommendation Systems**|Weijie Zhao et.al.|[2306.15881v1](http://arxiv.org/abs/2306.15881v1)|null|
@@ -3556,6 +3573,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Exploring & Exploiting High-Order Graph Structure for Sparse Knowledge Graph Completion**|Tao He et.al.|[2306.17034v1](http://arxiv.org/abs/2306.17034v1)|null|
+|**2023-06-29**|**Divide and Conquer the EmpiRE: A Community-Maintainable Knowledge Graph of Empirical Research in Requirements Engineering**|Oliver Karras et.al.|[2306.16791v1](http://arxiv.org/abs/2306.16791v1)|null|
 |**2023-06-28**|**Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning**|Lucas Jarnac et.al.|[2306.16296v1](http://arxiv.org/abs/2306.16296v1)|null|
 |**2023-06-28**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195v1](http://arxiv.org/abs/2306.16195v1)|null|
 |**2023-06-28**|**Knowledge-Enhanced Hierarchical Information Correlation Learning for Multi-Modal Rumor Detection**|Jiawei Liu et.al.|[2306.15946v1](http://arxiv.org/abs/2306.15946v1)|null|
@@ -4012,6 +4031,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting**|Ngoc-Dung Do et.al.|[2306.17090v1](http://arxiv.org/abs/2306.17090v1)|null|
+|**2023-06-29**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976v1](http://arxiv.org/abs/2306.16976v1)|null|
+|**2023-06-29**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700v1](http://arxiv.org/abs/2306.16700v1)|null|
 |**2023-06-28**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384v1](http://arxiv.org/abs/2306.16384v1)|**[link](https://github.com/jeongminpark417/gids)**|
 |**2023-06-28**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195v1](http://arxiv.org/abs/2306.16195v1)|null|
 |**2023-06-28**|**Mass Spectra Prediction with Structural Motif-based Graph Neural Networks**|Jiwon Park et.al.|[2306.16085v1](http://arxiv.org/abs/2306.16085v1)|null|
