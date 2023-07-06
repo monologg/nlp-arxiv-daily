@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Sumformer: Universal Approximation for Efficient Transformers**|Silas Alberti et.al.|[2307.02301v1](http://arxiv.org/abs/2307.02301v1)|null|
+|**2023-07-05**|**Make A Long Image Short: Adaptive Token Length for Vision Transformers**|Qiqi Zhou et.al.|[2307.02092v1](http://arxiv.org/abs/2307.02092v1)|null|
+|**2023-07-05**|**Emoji Prediction using Transformer Models**|Muhammad Osama Nusrat et.al.|[2307.02054v1](http://arxiv.org/abs/2307.02054v1)|null|
+|**2023-07-05**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2307.02046v1](http://arxiv.org/abs/2307.02046v1)|null|
+|**2023-07-04**|**RRCNN: A novel signal decomposition approach based on recurrent residue convolutional neural network**|Feng Zhou et.al.|[2307.01725v1](http://arxiv.org/abs/2307.01725v1)|null|
+|**2023-07-04**|**A Language Model for Grammatical Error Correction in L2 Russian**|Nikita Remnev et.al.|[2307.01609v1](http://arxiv.org/abs/2307.01609v1)|null|
+|**2023-07-04**|**Learning to Prompt in the Classroom to Understand AI Limits: A pilot study**|Emily Theophilou et.al.|[2307.01540v1](http://arxiv.org/abs/2307.01540v1)|null|
+|**2023-07-04**|**All in One: Multi-task Prompting for Graph Neural Networks**|Xiangguo Sun et.al.|[2307.01504v1](http://arxiv.org/abs/2307.01504v1)|null|
+|**2023-07-04**|**On Evaluating and Mitigating Gender Biases in Multilingual Settings**|Aniket Vashishtha et.al.|[2307.01503v1](http://arxiv.org/abs/2307.01503v1)|null|
+|**2023-07-04**|**SCAT: Robust Self-supervised Contrastive Learning via Adversarial Training for Text Classification**|Junjie Wu et.al.|[2307.01488v1](http://arxiv.org/abs/2307.01488v1)|null|
 |**2023-07-03**|**Improving Language Plasticity via Pretraining with Active Forgetting**|Yihong Chen et.al.|[2307.01163v1](http://arxiv.org/abs/2307.01163v1)|null|
 |**2023-07-03**|**Exploring the In-context Learning Ability of Large Language Model for Biomedical Concept Linking**|Qinyong Wang et.al.|[2307.01137v1](http://arxiv.org/abs/2307.01137v1)|null|
 |**2023-07-03**|**Challenges in Domain-Specific Abstractive Summarization and How to Overcome them**|Anum Afzal et.al.|[2307.00963v1](http://arxiv.org/abs/2307.00963v1)|null|
@@ -1104,6 +1114,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Exploring Spoken Named Entity Recognition: A Cross-Lingual Perspective**|Moncef Benaicha et.al.|[2307.01310v1](http://arxiv.org/abs/2307.01310v1)|**[link](https://github.com/moncefbenaicha/spokenner)**|
 |**2023-07-03**|**CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction**|Xiang Wei et.al.|[2307.00769v1](http://arxiv.org/abs/2307.00769v1)|null|
 |**2023-07-01**|**Effective Matching of Patients to Clinical Trials using Entity Extraction and Neural Re-ranking**|Wojciech Kusa et.al.|[2307.00381v1](http://arxiv.org/abs/2307.00381v1)|null|
 |**2023-07-01**|**How far is Language Model from 100% Few-shot Named Entity Recognition in Medical Domain**|Mingchen Li et.al.|[2307.00186v1](http://arxiv.org/abs/2307.00186v1)|**[link](https://github.com/toneli/rt-retrieving-and-thinking)**|
@@ -1379,6 +1390,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**SpaceNLI: Evaluating the Consistency of Predicting Inferences in Space**|Lasha Abzianidze et.al.|[2307.02269v1](http://arxiv.org/abs/2307.02269v1)|**[link](https://github.com/kovvalsky/spacenli)**|
+|**2023-07-04**|**KDSTM: Neural Semi-supervised Topic Modeling with Knowledge Distillation**|Weijie Xu et.al.|[2307.01878v1](http://arxiv.org/abs/2307.01878v1)|null|
+|**2023-07-04**|**SCAT: Robust Self-supervised Contrastive Learning via Adversarial Training for Text Classification**|Junjie Wu et.al.|[2307.01488v1](http://arxiv.org/abs/2307.01488v1)|null|
+|**2023-07-03**|**vONTSS: vMF based semi-supervised neural topic modeling with optimal transport**|Weijie Xu et.al.|[2307.01226v1](http://arxiv.org/abs/2307.01226v1)|null|
+|**2023-07-01**|**Automatic Counterfactual Augmentation for Robust Text Classification Based on Word-Group Search**|Rui Song et.al.|[2307.01214v1](http://arxiv.org/abs/2307.01214v1)|null|
 |**2023-07-03**|**REAL: A Representative Error-Driven Approach for Active Learning**|Cheng Chen et.al.|[2307.00968v1](http://arxiv.org/abs/2307.00968v1)|null|
 |**2023-07-02**|**Make Text Unlearnable: Exploiting Effective Patterns to Protect Personal Data**|Xinzhe Li et.al.|[2307.00456v1](http://arxiv.org/abs/2307.00456v1)|**[link](https://github.com/xinzhel/unlearnable_texts)**|
 |**2023-07-01**|**Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin**|Pin-Jie Lin et.al.|[2307.00382v1](http://arxiv.org/abs/2307.00382v1)|**[link](https://github.com/muhammed-saeed/clat)**|
@@ -1795,7 +1811,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-29**|**Towards Personalized Cold-Start Recommendation with Prompts**|Xuansheng Wu et.al.|[2306.17256v1](http://arxiv.org/abs/2306.17256v1)|**[link](https://github.com/jacksonwuxs/promptrec)**|
+|**2023-07-05**|**Emoji Prediction using Transformer Models**|Muhammad Osama Nusrat et.al.|[2307.02054v1](http://arxiv.org/abs/2307.02054v1)|null|
+|**2023-07-05**|**Towards Personalized Cold-Start Recommendation with Prompts**|Xuansheng Wu et.al.|[2306.17256v2](http://arxiv.org/abs/2306.17256v2)|**[link](https://github.com/jacksonwuxs/promptrec)**|
 |**2023-06-29**|**MEMD-ABSA: A Multi-Element Multi-Domain Dataset for Aspect-Based Sentiment Analysis**|Hongjie Cai et.al.|[2306.16956v1](http://arxiv.org/abs/2306.16956v1)|**[link](https://github.com/nustm/memd-absa)**|
 |**2023-06-28**|**Taqyim: Evaluating Arabic NLP Tasks Using ChatGPT Models**|Zaid Alyafeai et.al.|[2306.16322v1](http://arxiv.org/abs/2306.16322v1)|**[link](https://github.com/arbml/taqyim)**|
 |**2023-06-28**|**What Sentiment and Fun Facts We Learnt Before FIFA World Cup Qatar 2022 Using Twitter and AI**|James She et.al.|[2306.16049v1](http://arxiv.org/abs/2306.16049v1)|null|
@@ -2092,6 +2109,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Won't Get Fooled Again: Answering Questions with False Premises**|Shengding Hu et.al.|[2307.02394v1](http://arxiv.org/abs/2307.02394v1)|**[link](https://github.com/thunlp/falseqa)**|
+|**2023-07-04**|**Modeling Tag Prediction based on Question Tagging Behavior Analysis of CommunityQA Platform Users**|Kuntal Kumar Pal et.al.|[2307.01420v1](http://arxiv.org/abs/2307.01420v1)|null|
+|**2023-07-03**|**Shifting Attention to Relevance: Towards the Uncertainty Estimation of Large Language Models**|Jinhao Duan et.al.|[2307.01379v1](http://arxiv.org/abs/2307.01379v1)|**[link](https://github.com/jinhaoduan/shifting-attention-to-relevance)**|
 |**2023-07-03**|**Exploring the In-context Learning Ability of Large Language Model for Biomedical Concept Linking**|Qinyong Wang et.al.|[2307.01137v1](http://arxiv.org/abs/2307.01137v1)|null|
 |**2023-07-03**|**Localized Questions in Medical Visual Question Answering**|Sergio Tascon-Morales et.al.|[2307.01067v1](http://arxiv.org/abs/2307.01067v1)|null|
 |**2023-07-03**|**VOLTA: Diverse and Controllable Question-Answer Pair Generation with Variational Mutual Information Maximizing Autoencoder**|Yueen Ma et.al.|[2307.00852v1](http://arxiv.org/abs/2307.00852v1)|null|
@@ -2723,6 +2743,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Open-Domain Hierarchical Event Schema Induction by Incremental Prompting and Verification**|Sha Li et.al.|[2307.01972v1](http://arxiv.org/abs/2307.01972v1)|**[link](https://github.com/raspberryice/inc-schema)**|
+|**2023-07-05**|**Multimodal Prompt Learning for Product Title Generation with Extremely Limited Labels**|Bang Yang et.al.|[2307.01969v1](http://arxiv.org/abs/2307.01969v1)|null|
 |**2023-07-03**|**Data-Driven Information Extraction and Enrichment of Molecular Profiling Data for Cancer Cell Lines**|Ellery Smith et.al.|[2307.00933v1](http://arxiv.org/abs/2307.00933v1)|null|
 |**2023-07-03**|**CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction**|Xiang Wei et.al.|[2307.00769v1](http://arxiv.org/abs/2307.00769v1)|null|
 |**2023-06-30**|**Information Extraction in Domain and Generic Documents: Findings from Heuristic-based and Data-driven Approaches**|Shiyu Yuan et.al.|[2307.00130v1](http://arxiv.org/abs/2307.00130v1)|null|
@@ -3056,6 +3078,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**An Equivalent Graph Reconstruction Model and its Application in Recommendation Prediction**|Guangrui Yang et.al.|[2307.02183v1](http://arxiv.org/abs/2307.02183v1)|null|
+|**2023-07-05**|**Generative Job Recommendations with Large Language Model**|Zhi Zheng et.al.|[2307.02157v1](http://arxiv.org/abs/2307.02157v1)|null|
+|**2023-07-05**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2307.02046v1](http://arxiv.org/abs/2307.02046v1)|null|
+|**2023-07-04**|**Understanding User Behavior in Carousel Recommendation Systems for Click Modeling and Learning to Rank**|Santiago de Leon-Martinez et.al.|[2307.01866v1](http://arxiv.org/abs/2307.01866v1)|null|
+|**2023-07-04**|**GHOST: A Graph Neural Network Accelerator using Silicon Photonics**|Salma Afifi et.al.|[2307.01782v1](http://arxiv.org/abs/2307.01782v1)|null|
+|**2023-07-04**|**Web3Recommend: Decentralised recommendations with trust and relevance**|Rohan Madhwal et.al.|[2307.01411v1](http://arxiv.org/abs/2307.01411v1)|null|
+|**2023-07-02**|**Filter Bubbles in Recommender Systems: Fact or Fallacy -- A Systematic Review**|Qazi Mohammad Areeb et.al.|[2307.01221v1](http://arxiv.org/abs/2307.01221v1)|null|
 |**2023-07-03**|**Pareto optimal proxy metrics**|Lee Richardson et.al.|[2307.01000v1](http://arxiv.org/abs/2307.01000v1)|null|
 |**2023-07-03**|**Fixing confirmation bias in feature attribution methods via semantic match**|Giovanni Cinà et.al.|[2307.00897v1](http://arxiv.org/abs/2307.00897v1)|null|
 |**2023-07-02**|**Looks Can Be Deceiving: Linking User-Item Interactions and User's Propensity Towards Multi-Objective Recommendations**|Patrik Dokoupil et.al.|[2307.00654v1](http://arxiv.org/abs/2307.00654v1)|null|
@@ -3620,6 +3649,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Power-up! What Can Generative Models Do for Human Computation Workflows?**|Garrett Allen et.al.|[2307.02243v1](http://arxiv.org/abs/2307.02243v1)|null|
+|**2023-07-05**|**Combating Confirmation Bias: A Unified Pseudo-Labeling Framework for Entity Alignment**|Qijie Ding et.al.|[2307.02075v1](http://arxiv.org/abs/2307.02075v1)|null|
+|**2023-07-04**|**Concept2Box: Joint Geometric Embeddings for Learning Two-View Knowledge Graphs**|Zijie Huang et.al.|[2307.01933v1](http://arxiv.org/abs/2307.01933v1)|null|
+|**2023-07-04**|**Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting**|Chen Chen et.al.|[2307.01709v1](http://arxiv.org/abs/2307.01709v1)|null|
+|**2023-07-04**|**Knowledge Graph for NLG in the context of conversational agents**|Hussam Ghanem et.al.|[2307.01548v1](http://arxiv.org/abs/2307.01548v1)|null|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 |**2023-07-03**|**CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction**|Xiang Wei et.al.|[2307.00769v1](http://arxiv.org/abs/2307.00769v1)|null|
 |**2023-07-02**|**Semi-automated Thermal Envelope Model Setup for Adaptive Model Predictive Control with Event-triggered System Identification**|Lu Wan et.al.|[2307.00638v1](http://arxiv.org/abs/2307.00638v1)|null|
@@ -4084,6 +4118,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Equivariant graph neural network interatomic potential for Green-Kubo thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327v1](http://arxiv.org/abs/2307.02327v1)|null|
+|**2023-07-05**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198v1](http://arxiv.org/abs/2307.02198v1)|null|
+|**2023-07-05**|**Robust Graph Structure Learning with the Alignment of Features and Adjacency Matrix**|Shaogao Lv et.al.|[2307.02126v1](http://arxiv.org/abs/2307.02126v1)|null|
+|**2023-07-05**|**Graph Contrastive Topic Model**|Zheheng Luo et.al.|[2307.02078v1](http://arxiv.org/abs/2307.02078v1)|**[link](https://github.com/zhehengluok/gctm)**|
+|**2023-07-05**|**Graph Neural Network-based Power Flow Model**|Mingjian Tuo et.al.|[2307.02049v1](http://arxiv.org/abs/2307.02049v1)|null|
+|**2023-07-05**|**Muti-scale Graph Neural Network with Signed-attention for Social Bot Detection: A Frequency Perspective**|Shuhao Shi et.al.|[2307.01968v1](http://arxiv.org/abs/2307.01968v1)|null|
+|**2023-07-04**|**A Neural Collapse Perspective on Feature Evolution in Graph Neural Networks**|Vignesh Kothapalli et.al.|[2307.01951v1](http://arxiv.org/abs/2307.01951v1)|**[link](https://github.com/kvignesh1420/gnn_collapse)**|
+|**2023-07-04**|**Euclidean Equivariant Models for Generative Graphical Inverse Kinematics**|Oliver Limoyo et.al.|[2307.01902v1](http://arxiv.org/abs/2307.01902v1)|null|
+|**2023-07-04**|**GHOST: A Graph Neural Network Accelerator using Silicon Photonics**|Salma Afifi et.al.|[2307.01782v1](http://arxiv.org/abs/2307.01782v1)|null|
+|**2023-07-04**|**Serving Graph Neural Networks With Distributed Fog Servers For Smart IoT Services**|Liekang Zeng et.al.|[2307.01684v1](http://arxiv.org/abs/2307.01684v1)|null|
 |**2023-07-03**|**PlanE: Representation Learning over Planar Graphs**|Radoslav Dimitrov et.al.|[2307.01180v1](http://arxiv.org/abs/2307.01180v1)|null|
 |**2023-07-03**|**A Survey on Graph Classification and Link Prediction based on GNN**|Xingyu Liu et.al.|[2307.00865v1](http://arxiv.org/abs/2307.00865v1)|null|
 |**2023-07-03**|**CardiGraphormer: Unveiling the Power of Self-Supervised Learning in Revolutionizing Drug Discovery**|Abhijit Gupta et.al.|[2307.00859v1](http://arxiv.org/abs/2307.00859v1)|null|
