@@ -25,6 +25,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Transformers in Reinforcement Learning: A Survey**|Pranav Agarwal et.al.|[2307.05979v1](http://arxiv.org/abs/2307.05979v1)|null|
+|**2023-07-11**|**Machine Learning Study of the Extended Drug-target Interaction Network informed by Pain Related Voltage-Gated Sodium Channels**|Long Chen et.al.|[2307.05794v1](http://arxiv.org/abs/2307.05794v1)|**[link](https://github.com/weilabmsu/oud-ppi)**|
+|**2023-07-10**|**Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations**|Likang Wu et.al.|[2307.05722v1](http://arxiv.org/abs/2307.05722v1)|null|
+|**2023-07-11**|**Objaverse-XL: A Universe of 10M+ 3D Objects**|Matt Deitke et.al.|[2307.05663v1](http://arxiv.org/abs/2307.05663v1)|null|
+|**2023-07-10**|**Hate Speech Detection via Dual Contrastive Learning**|Junyu Lu et.al.|[2307.05578v1](http://arxiv.org/abs/2307.05578v1)|null|
 |**2023-07-11**|**GujiBERT and GujiGPT: Construction of Intelligent Information Processing Foundation Language Models for Ancient Texts**|Dongbo Wang et.al.|[2307.05354v1](http://arxiv.org/abs/2307.05354v1)|null|
 |**2023-07-11**|**On the Effectiveness of Speech Self-supervised Learning for Music**|Yinghao Ma et.al.|[2307.05161v1](http://arxiv.org/abs/2307.05161v1)|null|
 |**2023-07-11**|**Hybrid hidden Markov LSTM for short-term traffic flow prediction**|Agnimitra Sengupta et.al.|[2307.04954v1](http://arxiv.org/abs/2307.04954v1)|null|
@@ -1141,7 +1146,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-10**|**Enhancing Cross-lingual Transfer via Phonemic Transcription Integration**|Hoang H. Nguyen et.al.|[2307.04361v1](http://arxiv.org/abs/2307.04361v1)|null|
+|**2023-07-10**|**Enhancing Cross-lingual Transfer via Phonemic Transcription Integration**|Hoang H. Nguyen et.al.|[2307.04361v1](http://arxiv.org/abs/2307.04361v1)|**[link](https://github.com/nhhoang96/phonemic_xlingual)**|
 |**2023-07-05**|**Named Entity Inclusion in Abstractive Text Summarization**|Sergey Berezin et.al.|[2307.02570v1](http://arxiv.org/abs/2307.02570v1)|null|
 |**2023-07-03**|**Exploring Spoken Named Entity Recognition: A Cross-Lingual Perspective**|Moncef Benaicha et.al.|[2307.01310v1](http://arxiv.org/abs/2307.01310v1)|**[link](https://github.com/moncefbenaicha/spokenner)**|
 |**2023-07-03**|**CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction**|Xiang Wei et.al.|[2307.00769v1](http://arxiv.org/abs/2307.00769v1)|null|
@@ -1419,8 +1424,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**DDNAS: Discretized Differentiable Neural Architecture Search for Text Classification**|Kuan-Chun Chen et.al.|[2307.06005v1](http://arxiv.org/abs/2307.06005v1)|**[link](https://github.com/ddnas/ddnas)**|
 |**2023-07-11**|**Mao-Zedong At SemEval-2023 Task 4: Label Represention Multi-Head Attention Model With Contrastive Learning-Enhanced Nearest Neighbor Mechanism For Multi-Label Text Classification**|Che Zhang et.al.|[2307.05174v1](http://arxiv.org/abs/2307.05174v1)|**[link](https://github.com/peterlau0626/semeval2023-task4-humanvalue)**|
-|**2023-07-11**|**Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference**|Sushma Anand Akoju et.al.|[2307.05034v1](http://arxiv.org/abs/2307.05034v1)|**[link](https://github.com/sushmaakoju/natural-logic)**|
+|**2023-07-12**|**Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference**|Sushma Anand Akoju et.al.|[2307.05034v2](http://arxiv.org/abs/2307.05034v2)|**[link](https://github.com/sushmaakoju/natural-logic)**|
 |**2023-07-06**|**S2vNTM: Semi-supervised vMF Neural Topic Modeling**|Weijie Xu et.al.|[2307.04804v1](http://arxiv.org/abs/2307.04804v1)|null|
 |**2023-07-07**|**A Side-by-side Comparison of Transformers for English Implicit Discourse Relation Classification**|Bruce W. Lee et.al.|[2307.03378v1](http://arxiv.org/abs/2307.03378v1)|null|
 |**2023-07-06**|**NatLogAttack: A Framework for Attacking Natural Language Inference Models with Natural Logic**|Zi'ou Zheng et.al.|[2307.02849v1](http://arxiv.org/abs/2307.02849v1)|null|
@@ -2148,6 +2154,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**PolyLM: An Open Source Polyglot Large Language Model**|Xiangpeng Wei et.al.|[2307.06018v1](http://arxiv.org/abs/2307.06018v1)|null|
+|**2023-07-12**|**Prompt Generate Train (PGT): A framework for few-shot domain adaptation, alignment, and uncertainty calibration of a retriever augmented generation (RAG) model for domain specific open book question-answering**|C. S. Krishna et.al.|[2307.05915v1](http://arxiv.org/abs/2307.05915v1)|null|
+|**2023-07-11**|**Rad-ReStruct: A Novel VQA Benchmark and Method for Structured Radiology Reporting**|Chantal Pellegrini et.al.|[2307.05766v1](http://arxiv.org/abs/2307.05766v1)|**[link](https://github.com/chantalmp/rad-restruct)**|
+|**2023-07-10**|**Event Extraction as Question Generation and Answering**|Di Lu et.al.|[2307.05567v1](http://arxiv.org/abs/2307.05567v1)|null|
 |**2023-07-11**|**One-Versus-Others Attention: Scalable Multimodal Integration**|Michal Golovanevsky et.al.|[2307.05435v1](http://arxiv.org/abs/2307.05435v1)|**[link](https://github.com/rsinghlab/ovo)**|
 |**2023-07-11**|**Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering**|Pengfei Li et.al.|[2307.05314v1](http://arxiv.org/abs/2307.05314v1)|null|
 |**2023-07-11**|**Generative Pretraining in Multimodality**|Quan Sun et.al.|[2307.05222v1](http://arxiv.org/abs/2307.05222v1)|**[link](https://github.com/baaivision/emu)**|
@@ -2801,6 +2811,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Event Extraction as Question Generation and Answering**|Di Lu et.al.|[2307.05567v1](http://arxiv.org/abs/2307.05567v1)|null|
+|**2023-07-09**|**Automatic Coding at Scale: Design and Deployment of a Nationwide System for Normalizing Referrals in the Chilean Public Healthcare System**|Fabián Villena et.al.|[2307.05560v1](http://arxiv.org/abs/2307.05560v1)|null|
 |**2023-07-11**|**U-CREAT: Unsupervised Case Retrieval using Events extrAcTion**|Abhinav Joshi et.al.|[2307.05260v1](http://arxiv.org/abs/2307.05260v1)|**[link](https://github.com/exploration-lab/il-pcr)**|
 |**2023-07-07**|**Coordinate-based neural representations for computational adaptive optics in widefield microscopy**|Iksung Kang et.al.|[2307.03812v1](http://arxiv.org/abs/2307.03812v1)|null|
 |**2023-07-05**|**Achievable Rates for Information Extraction from a Strategic Sender**|Anuj S. Vora et.al.|[2307.02644v1](http://arxiv.org/abs/2307.02644v1)|null|
@@ -3139,6 +3151,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations**|Likang Wu et.al.|[2307.05722v1](http://arxiv.org/abs/2307.05722v1)|null|
 |**2023-07-07**|**AdaptiveRec: Adaptively Construct Pairs for Contrastive Learning in Sequential Recommendation**|Jaeheyoung Jeon et.al.|[2307.05469v1](http://arxiv.org/abs/2307.05469v1)|null|
 |**2023-07-11**|**Neural-Symbolic Recommendation with Graph-Enhanced Information**|Bang Chen et.al.|[2307.05036v1](http://arxiv.org/abs/2307.05036v1)|**[link](https://github.com/hanzo2020/gnnlr)**|
 |**2023-07-11**|**Empowering recommender systems using automatically generated Knowledge Graphs and Reinforcement Learning**|Ghanshyam Verma et.al.|[2307.04996v1](http://arxiv.org/abs/2307.04996v1)|**[link](https://github.com/GhanshyamVerma/Explainable-Recommender-System)**|
@@ -3725,6 +3738,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-11**|**SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]**|Renzo Angles et.al.|[2307.06119v1](http://arxiv.org/abs/2307.06119v1)|null|
+|**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013v1](http://arxiv.org/abs/2307.06013v1)|null|
+|**2023-07-11**|**An Open-Source Knowledge Graph Ecosystem for the Life Sciences**|Tiffany J. Callahan et.al.|[2307.05727v1](http://arxiv.org/abs/2307.05727v1)|null|
+|**2023-07-11**|**Separate-and-Aggregate: A Transformer-based Patch Refinement Model for Knowledge Graph Completion**|Chen Chen et.al.|[2307.05627v1](http://arxiv.org/abs/2307.05627v1)|null|
 |**2023-07-11**|**Empowering recommender systems using automatically generated Knowledge Graphs and Reinforcement Learning**|Ghanshyam Verma et.al.|[2307.04996v1](http://arxiv.org/abs/2307.04996v1)|**[link](https://github.com/GhanshyamVerma/Explainable-Recommender-System)**|
 |**2023-07-08**|**Digital Twins for Patient Care via Knowledge Graphs and Closed-Form Continuous-Time Liquid Neural Networks**|Logan Nye et.al.|[2307.04772v1](http://arxiv.org/abs/2307.04772v1)|null|
 |**2023-07-10**|**Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold**|Tuc Nguyen-Van et.al.|[2307.04514v1](http://arxiv.org/abs/2307.04514v1)|**[link](https://github.com/sharecodesubmission/weighted_product_manifold)**|
@@ -4202,6 +4219,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Learning Stochastic Dynamical Systems as an Implicit Regularization with Graph Neural Networks**|Jin Guo et.al.|[2307.06097v1](http://arxiv.org/abs/2307.06097v1)|null|
+|**2023-07-12**|**An OOD Multi-Task Perspective for Link Prediction with New Relation Types and Nodes**|Jincheng Zhou et.al.|[2307.06046v1](http://arxiv.org/abs/2307.06046v1)|null|
+|**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013v1](http://arxiv.org/abs/2307.06013v1)|null|
+|**2023-07-12**|**FIS-ONE: Floor Identification System with One Label for Crowdsourced RF Signals**|Weipeng Zhuo et.al.|[2307.05914v1](http://arxiv.org/abs/2307.05914v1)|null|
+|**2023-07-12**|**Knowledge-Driven Resource Allocation for D2D Networks: A WMMSE Unrolled Graph Neural Network Approach**|Hao Yang et.al.|[2307.05882v1](http://arxiv.org/abs/2307.05882v1)|null|
+|**2023-07-11**|**Influential Simplices Mining via Simplicial Convolutional Network**|Yujie Zeng et.al.|[2307.05841v1](http://arxiv.org/abs/2307.05841v1)|null|
+|**2023-07-11**|**Weisfeiler and Lehman Go Measurement Modeling: Probing the Validity of the WL Test**|Arjun Subramonian et.al.|[2307.05775v1](http://arxiv.org/abs/2307.05775v1)|null|
 |**2023-07-11**|**Discovering Symbolic Laws Directly from Trajectories with Hamiltonian Graph Neural Networks**|Suresh Bishnoi et.al.|[2307.05299v1](http://arxiv.org/abs/2307.05299v1)|null|
 |**2023-07-11**|**Supervised Attention Using Homophily in Graph Neural Networks**|Michail Chatzianastasis et.al.|[2307.05217v1](http://arxiv.org/abs/2307.05217v1)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180v1](http://arxiv.org/abs/2307.05180v1)|null|
