@@ -21,6 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**Parmesan: mathematical concept extraction for education**|Jacob Collard et.al.|[2307.06699v1](http://arxiv.org/abs/2307.06699v1)|null|
+|**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576v1](http://arxiv.org/abs/2307.06576v1)|null|
+|**2023-07-13**|**Convolutional Neural Networks for Sentiment Analysis on Weibo Data: A Natural Language Processing Approach**|Yufei Xie et.al.|[2307.06540v1](http://arxiv.org/abs/2307.06540v1)|null|
+|**2023-07-13**|**Exploring the Integration of Large Language Models into Automatic Speech Recognition Systems: An Empirical Study**|Zeping Min et.al.|[2307.06530v1](http://arxiv.org/abs/2307.06530v1)|null|
 |**2023-07-12**|**Transformers in Reinforcement Learning: A Survey**|Pranav Agarwal et.al.|[2307.05979v1](http://arxiv.org/abs/2307.05979v1)|null|
 |**2023-07-11**|**Machine Learning Study of the Extended Drug-target Interaction Network informed by Pain Related Voltage-Gated Sodium Channels**|Long Chen et.al.|[2307.05794v1](http://arxiv.org/abs/2307.05794v1)|**[link](https://github.com/weilabmsu/oud-ppi)**|
 |**2023-07-10**|**Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations**|Likang Wu et.al.|[2307.05722v1](http://arxiv.org/abs/2307.05722v1)|null|
@@ -1420,6 +1424,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**Unsupervised Calibration through Prior Adaptation for Text Classification using Large Language Models**|Lautaro Estienne et.al.|[2307.06713v1](http://arxiv.org/abs/2307.06713v1)|null|
 |**2023-07-12**|**DDNAS: Discretized Differentiable Neural Architecture Search for Text Classification**|Kuan-Chun Chen et.al.|[2307.06005v1](http://arxiv.org/abs/2307.06005v1)|**[link](https://github.com/ddnas/ddnas)**|
 |**2023-07-11**|**Mao-Zedong At SemEval-2023 Task 4: Label Represention Multi-Head Attention Model With Contrastive Learning-Enhanced Nearest Neighbor Mechanism For Multi-Label Text Classification**|Che Zhang et.al.|[2307.05174v1](http://arxiv.org/abs/2307.05174v1)|**[link](https://github.com/peterlau0626/semeval2023-task4-humanvalue)**|
 |**2023-07-12**|**Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference**|Sushma Anand Akoju et.al.|[2307.05034v2](http://arxiv.org/abs/2307.05034v2)|**[link](https://github.com/sushmaakoju/natural-logic)**|
@@ -1847,6 +1852,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**Convolutional Neural Networks for Sentiment Analysis on Weibo Data: A Natural Language Processing Approach**|Yufei Xie et.al.|[2307.06540v1](http://arxiv.org/abs/2307.06540v1)|null|
 |**2023-07-11**|**Towards Understanding In-Context Learning with Contrastive Demonstrations and Saliency Maps**|Zongxia Li et.al.|[2307.05052v1](http://arxiv.org/abs/2307.05052v1)|**[link](https://github.com/paihengxu/xicl)**|
 |**2023-07-06**|**Can ChatGPT's Responses Boost Traditional Natural Language Processing?**|Mostafa M. Amin et.al.|[2307.04648v1](http://arxiv.org/abs/2307.04648v1)|null|
 |**2023-07-09**|**Extending the Forward Forward Algorithm**|Saumya Gandhi et.al.|[2307.04205v1](http://arxiv.org/abs/2307.04205v1)|null|
@@ -2150,9 +2156,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**DecompEval: Evaluating Generated Texts as Unsupervised Decomposed Question Answering**|Pei Ke et.al.|[2307.06869v1](http://arxiv.org/abs/2307.06869v1)|null|
 |**2023-07-12**|**PolyLM: An Open Source Polyglot Large Language Model**|Xiangpeng Wei et.al.|[2307.06018v1](http://arxiv.org/abs/2307.06018v1)|null|
 |**2023-07-12**|**Prompt Generate Train (PGT): A framework for few-shot domain adaptation, alignment, and uncertainty calibration of a retriever augmented generation (RAG) model for domain specific open book question-answering**|C. S. Krishna et.al.|[2307.05915v1](http://arxiv.org/abs/2307.05915v1)|null|
-|**2023-07-11**|**Rad-ReStruct: A Novel VQA Benchmark and Method for Structured Radiology Reporting**|Chantal Pellegrini et.al.|[2307.05766v1](http://arxiv.org/abs/2307.05766v1)|**[link](https://github.com/chantalmp/rad-restruct)**|
+|**2023-07-13**|**Rad-ReStruct: A Novel VQA Benchmark and Method for Structured Radiology Reporting**|Chantal Pellegrini et.al.|[2307.05766v2](http://arxiv.org/abs/2307.05766v2)|**[link](https://github.com/chantalmp/rad-restruct)**|
 |**2023-07-10**|**Event Extraction as Question Generation and Answering**|Di Lu et.al.|[2307.05567v1](http://arxiv.org/abs/2307.05567v1)|null|
 |**2023-07-11**|**One-Versus-Others Attention: Scalable Multimodal Integration**|Michal Golovanevsky et.al.|[2307.05435v1](http://arxiv.org/abs/2307.05435v1)|**[link](https://github.com/rsinghlab/ovo)**|
 |**2023-07-11**|**Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering**|Pengfei Li et.al.|[2307.05314v1](http://arxiv.org/abs/2307.05314v1)|null|
@@ -3147,6 +3154,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576v1](http://arxiv.org/abs/2307.06576v1)|null|
 |**2023-07-10**|**Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations**|Likang Wu et.al.|[2307.05722v1](http://arxiv.org/abs/2307.05722v1)|null|
 |**2023-07-07**|**AdaptiveRec: Adaptively Construct Pairs for Contrastive Learning in Sequential Recommendation**|Jaeheyoung Jeon et.al.|[2307.05469v1](http://arxiv.org/abs/2307.05469v1)|null|
 |**2023-07-11**|**Neural-Symbolic Recommendation with Graph-Enhanced Information**|Bang Chen et.al.|[2307.05036v1](http://arxiv.org/abs/2307.05036v1)|**[link](https://github.com/hanzo2020/gnnlr)**|
@@ -3734,6 +3742,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT**|Lars-Peter Meyer et.al.|[2307.06917v1](http://arxiv.org/abs/2307.06917v1)|null|
+|**2023-07-13**|**IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation**|Thiviyan Thanapalasingam et.al.|[2307.06698v1](http://arxiv.org/abs/2307.06698v1)|null|
 |**2023-07-11**|**SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]**|Renzo Angles et.al.|[2307.06119v1](http://arxiv.org/abs/2307.06119v1)|null|
 |**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013v1](http://arxiv.org/abs/2307.06013v1)|null|
 |**2023-07-11**|**An Open-Source Knowledge Graph Ecosystem for the Life Sciences**|Tiffany J. Callahan et.al.|[2307.05727v1](http://arxiv.org/abs/2307.05727v1)|null|
@@ -4215,6 +4225,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**Privacy-Utility Trade-offs in Neural Networks for Medical Population Graphs: Insights from Differential Privacy and Graph Structure**|Tamara T. Mueller et.al.|[2307.06760v1](http://arxiv.org/abs/2307.06760v1)|null|
+|**2023-07-13**|**Frameless Graph Knowledge Distillation**|Dai Shi et.al.|[2307.06631v1](http://arxiv.org/abs/2307.06631v1)|null|
+|**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576v1](http://arxiv.org/abs/2307.06576v1)|null|
+|**2023-07-12**|**Improved selective background Monte Carlo simulation at Belle II with graph attention networks and weighted events**|Boyang Yu et.al.|[2307.06434v1](http://arxiv.org/abs/2307.06434v1)|null|
+|**2023-07-12**|**Differentially Private Decoupled Graph Convolutions for Multigranular Topology Protection**|Eli Chien et.al.|[2307.06422v1](http://arxiv.org/abs/2307.06422v1)|null|
 |**2023-07-12**|**Learning Stochastic Dynamical Systems as an Implicit Regularization with Graph Neural Networks**|Jin Guo et.al.|[2307.06097v1](http://arxiv.org/abs/2307.06097v1)|null|
 |**2023-07-12**|**An OOD Multi-Task Perspective for Link Prediction with New Relation Types and Nodes**|Jincheng Zhou et.al.|[2307.06046v1](http://arxiv.org/abs/2307.06046v1)|null|
 |**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013v1](http://arxiv.org/abs/2307.06013v1)|null|
