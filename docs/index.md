@@ -2166,7 +2166,7 @@ layout: default
 |**2023-07-13**|**Rad-ReStruct: A Novel VQA Benchmark and Method for Structured Radiology Reporting**|Chantal Pellegrini et.al.|[2307.05766v2](http://arxiv.org/abs/2307.05766v2)|**[link](https://github.com/chantalmp/rad-restruct)**|
 |**2023-07-10**|**Event Extraction as Question Generation and Answering**|Di Lu et.al.|[2307.05567v1](http://arxiv.org/abs/2307.05567v1)|null|
 |**2023-07-11**|**One-Versus-Others Attention: Scalable Multimodal Integration**|Michal Golovanevsky et.al.|[2307.05435v1](http://arxiv.org/abs/2307.05435v1)|**[link](https://github.com/rsinghlab/ovo)**|
-|**2023-07-11**|**Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering**|Pengfei Li et.al.|[2307.05314v1](http://arxiv.org/abs/2307.05314v1)|null|
+|**2023-07-11**|**Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering**|Pengfei Li et.al.|[2307.05314v1](http://arxiv.org/abs/2307.05314v1)|**[link](https://github.com/pengfeiliheu/mumc)**|
 |**2023-07-11**|**Generative Pretraining in Multimodality**|Quan Sun et.al.|[2307.05222v1](http://arxiv.org/abs/2307.05222v1)|**[link](https://github.com/baaivision/emu)**|
 |**2023-07-11**|**Co-Attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery**|Long Bai et.al.|[2307.05182v1](http://arxiv.org/abs/2307.05182v1)|**[link](https://github.com/longbai1006/cat-vil)**|
 |**2023-07-11**|**Overview of BioASQ 2023: The eleventh BioASQ challenge on Large-Scale Biomedical Semantic Indexing and Question Answering**|Anastasios Nentidis et.al.|[2307.05131v1](http://arxiv.org/abs/2307.05131v1)|null|
