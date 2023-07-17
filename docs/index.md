@@ -25,6 +25,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Investigating ChatGPT's Potential to Assist in Requirements Elicitation Processes**|Krishna Ronanki et.al.|[2307.07381v1](http://arxiv.org/abs/2307.07381v1)|null|
+|**2023-07-14**|**AIC-AB NET: A Neural Network for Image Captioning with Spatial Attention and Text Attributes**|Guoyun Tu et.al.|[2307.07370v1](http://arxiv.org/abs/2307.07370v1)|null|
+|**2023-07-14**|**A scoping review on multimodal deep learning in biomedical images and texts**|Zhaoyi Sun et.al.|[2307.07362v1](http://arxiv.org/abs/2307.07362v1)|null|
+|**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
+|**2023-07-14**|**Software Testing with Large Language Model: Survey, Landscape, and Vision**|Junjie Wang et.al.|[2307.07221v1](http://arxiv.org/abs/2307.07221v1)|null|
+|**2023-07-13**|**Making the Most Out of the Limited Context Length: Predictive Power Varies with Clinical Note Type and Note Section**|Hongyi Zheng et.al.|[2307.07051v1](http://arxiv.org/abs/2307.07051v1)|null|
 |**2023-07-13**|**Parmesan: mathematical concept extraction for education**|Jacob Collard et.al.|[2307.06699v1](http://arxiv.org/abs/2307.06699v1)|null|
 |**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576v1](http://arxiv.org/abs/2307.06576v1)|**[link](https://github.com/tinyrolls/glory)**|
 |**2023-07-13**|**Convolutional Neural Networks for Sentiment Analysis on Weibo Data: A Natural Language Processing Approach**|Yufei Xie et.al.|[2307.06540v1](http://arxiv.org/abs/2307.06540v1)|null|
@@ -1150,6 +1156,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-11**|**Named entity recognition using GPT for identifying comparable companies**|Eurico Covas et.al.|[2307.07420v1](http://arxiv.org/abs/2307.07420v1)|null|
+|**2023-07-11**|**RoPDA: Robust Prompt-based Data Augmentation for Low-Resource Named Entity Recognition**|Sihan Song et.al.|[2307.07417v1](http://arxiv.org/abs/2307.07417v1)|null|
 |**2023-07-10**|**Enhancing Cross-lingual Transfer via Phonemic Transcription Integration**|Hoang H. Nguyen et.al.|[2307.04361v1](http://arxiv.org/abs/2307.04361v1)|**[link](https://github.com/nhhoang96/phonemic_xlingual)**|
 |**2023-07-05**|**Named Entity Inclusion in Abstractive Text Summarization**|Sergey Berezin et.al.|[2307.02570v1](http://arxiv.org/abs/2307.02570v1)|null|
 |**2023-07-03**|**Exploring Spoken Named Entity Recognition: A Cross-Lingual Perspective**|Moncef Benaicha et.al.|[2307.01310v1](http://arxiv.org/abs/2307.01310v1)|**[link](https://github.com/moncefbenaicha/spokenner)**|
@@ -1428,6 +1436,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Generating Efficient Training Data via LLM-based Attribute Manipulation**|Letian Peng et.al.|[2307.07099v1](http://arxiv.org/abs/2307.07099v1)|**[link](https://github.com/komeijiforce/cotam)**|
+|**2023-07-13**|**Classical Out-of-Distribution Detection Methods Benchmark in Text Classification Tasks**|Mateusz Baran et.al.|[2307.07002v1](http://arxiv.org/abs/2307.07002v1)|**[link](https://github.com/mateuszbaransanok/trustworthyai)**|
 |**2023-07-13**|**Unsupervised Calibration through Prior Adaptation for Text Classification using Large Language Models**|Lautaro Estienne et.al.|[2307.06713v1](http://arxiv.org/abs/2307.06713v1)|null|
 |**2023-07-12**|**DDNAS: Discretized Differentiable Neural Architecture Search for Text Classification**|Kuan-Chun Chen et.al.|[2307.06005v1](http://arxiv.org/abs/2307.06005v1)|**[link](https://github.com/ddnas/ddnas)**|
 |**2023-07-11**|**Mao-Zedong At SemEval-2023 Task 4: Label Represention Multi-Head Attention Model With Contrastive Learning-Enhanced Nearest Neighbor Mechanism For Multi-Label Text Classification**|Che Zhang et.al.|[2307.05174v1](http://arxiv.org/abs/2307.05174v1)|**[link](https://github.com/peterlau0626/semeval2023-task4-humanvalue)**|
@@ -2160,6 +2170,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**A scoping review on multimodal deep learning in biomedical images and texts**|Zhaoyi Sun et.al.|[2307.07362v1](http://arxiv.org/abs/2307.07362v1)|null|
+|**2023-07-13**|**MegaWika: Millions of reports and their sources across 50 diverse languages**|Samuel Barham et.al.|[2307.07049v1](http://arxiv.org/abs/2307.07049v1)|null|
 |**2023-07-13**|**DecompEval: Evaluating Generated Texts as Unsupervised Decomposed Question Answering**|Pei Ke et.al.|[2307.06869v1](http://arxiv.org/abs/2307.06869v1)|**[link](https://github.com/kepei1106/decompeval)**|
 |**2023-07-12**|**PolyLM: An Open Source Polyglot Large Language Model**|Xiangpeng Wei et.al.|[2307.06018v1](http://arxiv.org/abs/2307.06018v1)|null|
 |**2023-07-12**|**Prompt Generate Train (PGT): A framework for few-shot domain adaptation, alignment, and uncertainty calibration of a retriever augmented generation (RAG) model for domain specific open book question-answering**|C. S. Krishna et.al.|[2307.05915v1](http://arxiv.org/abs/2307.05915v1)|null|
@@ -2818,6 +2830,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**Making the Most Out of the Limited Context Length: Predictive Power Varies with Clinical Note Type and Note Section**|Hongyi Zheng et.al.|[2307.07051v1](http://arxiv.org/abs/2307.07051v1)|null|
 |**2023-07-10**|**Event Extraction as Question Generation and Answering**|Di Lu et.al.|[2307.05567v1](http://arxiv.org/abs/2307.05567v1)|null|
 |**2023-07-09**|**Automatic Coding at Scale: Design and Deployment of a Nationwide System for Normalizing Referrals in the Chilean Public Healthcare System**|Fabián Villena et.al.|[2307.05560v1](http://arxiv.org/abs/2307.05560v1)|null|
 |**2023-07-11**|**U-CREAT: Unsupervised Case Retrieval using Events extrAcTion**|Abhinav Joshi et.al.|[2307.05260v1](http://arxiv.org/abs/2307.05260v1)|**[link](https://github.com/exploration-lab/il-pcr)**|
@@ -3158,6 +3171,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Streaming CTR Prediction: Rethinking Recommendation Task for Real-World Streaming Data**|Qi-Wei Wang et.al.|[2307.07509v1](http://arxiv.org/abs/2307.07509v1)|null|
+|**2023-07-13**|**NS4AR: A new, focused on sampling areas sampling method in graphical recommendation Systems**|Xiangqi Wang et.al.|[2307.07321v1](http://arxiv.org/abs/2307.07321v1)|null|
+|**2023-07-14**|**Hybrid moderation in the newsroom: Recommending featured posts to content moderators**|Cedric Waterschoot et.al.|[2307.07317v1](http://arxiv.org/abs/2307.07317v1)|null|
 |**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576v1](http://arxiv.org/abs/2307.06576v1)|**[link](https://github.com/tinyrolls/glory)**|
 |**2023-07-10**|**Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations**|Likang Wu et.al.|[2307.05722v1](http://arxiv.org/abs/2307.05722v1)|null|
 |**2023-07-07**|**AdaptiveRec: Adaptively Construct Pairs for Contrastive Learning in Sequential Recommendation**|Jaeheyoung Jeon et.al.|[2307.05469v1](http://arxiv.org/abs/2307.05469v1)|null|
@@ -3746,6 +3762,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**PG-Triggers: Triggers for Property Graphs**|Alessia Gagliardi et.al.|[2307.07354v1](http://arxiv.org/abs/2307.07354v1)|null|
+|**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312v1](http://arxiv.org/abs/2307.07312v1)|null|
+|**2023-07-13**|**Towards Populating Generalizable Engineering Design Knowledge**|L Siddharth et.al.|[2307.06985v1](http://arxiv.org/abs/2307.06985v1)|null|
 |**2023-07-13**|**LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT**|Lars-Peter Meyer et.al.|[2307.06917v1](http://arxiv.org/abs/2307.06917v1)|null|
 |**2023-07-13**|**IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation**|Thiviyan Thanapalasingam et.al.|[2307.06698v1](http://arxiv.org/abs/2307.06698v1)|**[link](https://github.com/thiviyant/intelligraphs)**|
 |**2023-07-11**|**SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]**|Renzo Angles et.al.|[2307.06119v1](http://arxiv.org/abs/2307.06119v1)|null|
@@ -4229,6 +4248,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Real-time Graph Building on FPGAs for Machine Learning Trigger Applications in Particle Physics**|Marc Neu et.al.|[2307.07289v1](http://arxiv.org/abs/2307.07289v1)|null|
+|**2023-07-13**|**MaxCorrMGNN: A Multi-Graph Neural Network Framework for Generalized Multimodal Fusion of Medical Data for Outcome Prediction**|Niharika S. D'Souza et.al.|[2307.07093v1](http://arxiv.org/abs/2307.07093v1)|null|
+|**2023-07-13**|**Espaloma-0.3.0: Machine-learned molecular mechanics force field for the simulation of protein-ligand systems and beyond**|Kenichiro Takaba et.al.|[2307.07085v1](http://arxiv.org/abs/2307.07085v1)|null|
 |**2023-07-13**|**Privacy-Utility Trade-offs in Neural Networks for Medical Population Graphs: Insights from Differential Privacy and Graph Structure**|Tamara T. Mueller et.al.|[2307.06760v1](http://arxiv.org/abs/2307.06760v1)|null|
 |**2023-07-13**|**Frameless Graph Knowledge Distillation**|Dai Shi et.al.|[2307.06631v1](http://arxiv.org/abs/2307.06631v1)|**[link](https://github.com/dshi3553usyd/frameless_graph_distillation)**|
 |**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576v1](http://arxiv.org/abs/2307.06576v1)|**[link](https://github.com/tinyrolls/glory)**|
