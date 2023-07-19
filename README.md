@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Scaling Laws for Imitation Learning in NetHack**|Jens Tuyls et.al.|[2307.09423v1](http://arxiv.org/abs/2307.09423v1)|null|
+|**2023-07-18**|**UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data**|Yazheng Yang et.al.|[2307.09249v1](http://arxiv.org/abs/2307.09249v1)|null|
+|**2023-07-18**|**Mitigating masked pixels in climate-critical datasets**|Angelina Agabin et.al.|[2307.09227v1](http://arxiv.org/abs/2307.09227v1)|null|
+|**2023-07-18**|**Automated Ableism: An Exploration of Explicit Disability Biases in Sentiment and Toxicity Analysis Models**|Pranav Narayanan Venkit et.al.|[2307.09209v1](http://arxiv.org/abs/2307.09209v1)|null|
+|**2023-07-18**|**Unveiling Gender Bias in Terms of Profession Across LLMs: Analyzing and Addressing Sociological Implications**|Vishesh Thakur et.al.|[2307.09162v1](http://arxiv.org/abs/2307.09162v1)|null|
+|**2023-07-18**|**R-Cut: Enhancing Explainability in Vision Transformers with Relationship Weighted Out and Cut**|Yingjie Niu et.al.|[2307.09050v1](http://arxiv.org/abs/2307.09050v1)|null|
+|**2023-07-18**|**On the (In)Effectiveness of Large Language Models for Chinese Text Correction**|Yinghui Li et.al.|[2307.09007v1](http://arxiv.org/abs/2307.09007v1)|null|
+|**2023-07-18**|**NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning**|Tianxin Wei et.al.|[2307.08941v1](http://arxiv.org/abs/2307.08941v1)|**[link](https://github.com/weitianxin/mlp_fusion)**|
+|**2023-07-18**|**Teach model to answer questions after comprehending the document**|Ruiqing Sun et.al.|[2307.08931v1](http://arxiv.org/abs/2307.08931v1)|null|
+|**2023-07-17**|**Harnessing the Power of AI based Image Generation Model DALLE 2 in Agricultural Settings**|Ranjan Sapkota et.al.|[2307.08789v1](http://arxiv.org/abs/2307.08789v1)|null|
 |**2023-07-17**|**COLLIE: Systematic Construction of Constrained Text Generation Tasks**|Shunyu Yao et.al.|[2307.08689v1](http://arxiv.org/abs/2307.08689v1)|**[link](https://github.com/princeton-nlp/Collie)**|
 |**2023-07-17**|**Utilization of Pre-trained Language Model for Adapter-based Knowledge Transfer in Software Engineering**|Iman Saberi et.al.|[2307.08540v1](http://arxiv.org/abs/2307.08540v1)|null|
 |**2023-07-17**|**BUS:Efficient and Effective Vision-language Pre-training with Bottom-Up Patch Summarization**|Chaoya Jiang et.al.|[2307.08504v1](http://arxiv.org/abs/2307.08504v1)|null|
@@ -1163,6 +1173,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-16**|**Cross-Lingual NER for Financial Transaction Data in Low-Resource Languages**|Sunisth Kumar et.al.|[2307.08714v1](http://arxiv.org/abs/2307.08714v1)|null|
 |**2023-07-11**|**Named entity recognition using GPT for identifying comparable companies**|Eurico Covas et.al.|[2307.07420v1](http://arxiv.org/abs/2307.07420v1)|null|
 |**2023-07-17**|**RoPDA: Robust Prompt-based Data Augmentation for Low-Resource Named Entity Recognition**|Sihan Song et.al.|[2307.07417v2](http://arxiv.org/abs/2307.07417v2)|null|
 |**2023-07-10**|**Enhancing Cross-lingual Transfer via Phonemic Transcription Integration**|Hoang H. Nguyen et.al.|[2307.04361v1](http://arxiv.org/abs/2307.04361v1)|**[link](https://github.com/nhhoang96/phonemic_xlingual)**|
@@ -1443,6 +1454,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455v1](http://arxiv.org/abs/2307.09455v1)|null|
+|**2023-07-18**|**Linearized Relative Positional Encoding**|Zhen Qin et.al.|[2307.09270v1](http://arxiv.org/abs/2307.09270v1)|null|
+|**2023-07-17**|**Classification with Incoherent Kernel Dictionary Learning**|Denis C. Ilie-Ablachim et.al.|[2307.08796v1](http://arxiv.org/abs/2307.08796v1)|**[link](https://github.com/denisilie94/incoherent-kernel-dictionary-learning)**|
 |**2023-07-17**|**Analyzing the Impact of Adversarial Examples on Explainable Machine Learning**|Prathyusha Devabhakthini et.al.|[2307.08327v1](http://arxiv.org/abs/2307.08327v1)|null|
 |**2023-07-16**|**Fast Quantum Algorithm for Attention Computation**|Yeqi Gao et.al.|[2307.08045v1](http://arxiv.org/abs/2307.08045v1)|null|
 |**2023-07-16**|**Towards Flexible Time-to-event Modeling: Optimizing Neural Networks via Rank Regression**|Hyunjun Lee et.al.|[2307.08044v1](http://arxiv.org/abs/2307.08044v1)|**[link](https://github.com/teboozas/dart_ecai23)**|
@@ -1878,6 +1892,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Automated Ableism: An Exploration of Explicit Disability Biases in Sentiment and Toxicity Analysis Models**|Pranav Narayanan Venkit et.al.|[2307.09209v1](http://arxiv.org/abs/2307.09209v1)|null|
 |**2023-07-16**|**Fast Quantum Algorithm for Attention Computation**|Yeqi Gao et.al.|[2307.08045v1](http://arxiv.org/abs/2307.08045v1)|null|
 |**2023-07-15**|**Contrasting the efficiency of stock price prediction models using various types of LSTM models aided with sentiment analysis**|Varun Sangwan et.al.|[2307.07868v1](http://arxiv.org/abs/2307.07868v1)|null|
 |**2023-07-15**|**CIDER: Context sensitive sentiment analysis for short-form text**|James C. Young et.al.|[2307.07864v1](http://arxiv.org/abs/2307.07864v1)|null|
@@ -2187,7 +2202,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-17**|**TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT**|Liangyu Zha et.al.|[2307.08674v1](http://arxiv.org/abs/2307.08674v1)|null|
+|**2023-07-18**|**Does Circuit Analysis Interpretability Scale? Evidence from Multiple Choice Capabilities in Chinchilla**|Tom Lieberum et.al.|[2307.09458v1](http://arxiv.org/abs/2307.09458v1)|null|
+|**2023-07-18**|**Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation**|Federico Betti et.al.|[2307.09416v1](http://arxiv.org/abs/2307.09416v1)|null|
+|**2023-07-18**|**Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving**|Kaavya Rekanar et.al.|[2307.09329v1](http://arxiv.org/abs/2307.09329v1)|**[link](https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving)**|
+|**2023-07-18**|**TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT**|Liangyu Zha et.al.|[2307.08674v2](http://arxiv.org/abs/2307.08674v2)|null|
 |**2023-07-17**|**Extending the Frontier of ChatGPT: Code Generation and Debugging**|Fardin Ahsan Sakib et.al.|[2307.08260v1](http://arxiv.org/abs/2307.08260v1)|null|
 |**2023-07-17**|**PAT: Parallel Attention Transformer for Visual Question Answering in Vietnamese**|Nghia Hieu Nguyen et.al.|[2307.08247v1](http://arxiv.org/abs/2307.08247v1)|null|
 |**2023-07-16**|**Fast Quantum Algorithm for Attention Computation**|Yeqi Gao et.al.|[2307.08045v1](http://arxiv.org/abs/2307.08045v1)|null|
@@ -2855,6 +2873,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Quantivine: A Visualization Approach for Large-scale Quantum Circuit Representation and Analysis**|Zhen Wen et.al.|[2307.08969v1](http://arxiv.org/abs/2307.08969v1)|null|
 |**2023-07-17**|**Compression of metrological quantum information in the presence of noise**|Flavio Salvati et.al.|[2307.08648v1](http://arxiv.org/abs/2307.08648v1)|null|
 |**2023-07-16**|**DocTr: Document Transformer for Structured Information Extraction in Documents**|Haofu Liao et.al.|[2307.07929v1](http://arxiv.org/abs/2307.07929v1)|null|
 |**2023-07-14**|**QontSum: On Contrasting Salient Content for Query-focused Summarization**|Sajad Sotudeh et.al.|[2307.07586v1](http://arxiv.org/abs/2307.07586v1)|null|
@@ -3199,7 +3218,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-17**|**Leveraging Recommender Systems to Reduce Content Gaps on Peer Production Platforms**|Mo Houtti et.al.|[2307.08669v1](http://arxiv.org/abs/2307.08669v1)|null|
+|**2023-07-18**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|null|
+|**2023-07-18**|**Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding**|Zehan Wang et.al.|[2307.09267v1](http://arxiv.org/abs/2307.09267v1)|null|
+|**2023-07-18**|**ESMC: Entire Space Multi-Task Model for Post-Click Conversion Rate via Parameter Constraint**|Zhenhao Jiang et.al.|[2307.09193v1](http://arxiv.org/abs/2307.09193v1)|null|
+|**2023-07-17**|**An Admissible Shift-Consistent Method for Recommender Systems**|Tung Nguyen et.al.|[2307.08857v1](http://arxiv.org/abs/2307.08857v1)|null|
+|**2023-07-17**|**Imposing Consistency Properties on Blackbox Systems with Applications to SVD-Based Recommender Systems**|Tung Nguyen et.al.|[2307.08760v1](http://arxiv.org/abs/2307.08760v1)|null|
+|**2023-07-18**|**Leveraging Recommender Systems to Reduce Content Gaps on Peer Production Platforms**|Mo Houtti et.al.|[2307.08669v2](http://arxiv.org/abs/2307.08669v2)|null|
 |**2023-07-17**|**Measuring Item Global Residual Value for Fair Recommendation**|Jiayin Wang et.al.|[2307.08259v1](http://arxiv.org/abs/2307.08259v1)|**[link](https://github.com/alice1998/tafr)**|
 |**2023-07-15**|**AIOptimizer -- A reinforcement learning-based software performance optimisation prototype for cost minimisation**|Noopur Zambare et.al.|[2307.07846v1](http://arxiv.org/abs/2307.07846v1)|null|
 |**2023-07-15**|**Opinion mining using Double Channel CNN for Recommender System**|Minoo Sayyadpour et.al.|[2307.07798v1](http://arxiv.org/abs/2307.07798v1)|null|
@@ -4285,6 +4309,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Rumor Detection with Diverse Counterfactual Evidence**|Kaiwei Zhang et.al.|[2307.09296v1](http://arxiv.org/abs/2307.09296v1)|null|
+|**2023-07-18**|**Learning Adaptive Neighborhoods for Graph Neural Networks**|Avishkar Saha et.al.|[2307.09065v1](http://arxiv.org/abs/2307.09065v1)|null|
+|**2023-07-18**|**Sharpness-Aware Graph Collaborative Filtering**|Huiyuan Chen et.al.|[2307.08910v1](http://arxiv.org/abs/2307.08910v1)|null|
+|**2023-07-17**|**Disentangling Node Attributes from Graph Topology for Improved Generalizability in Link Prediction**|Ayan Chatterjee et.al.|[2307.08877v1](http://arxiv.org/abs/2307.08877v1)|**[link](https://github.com/chatterjeeayan/upna)**|
+|**2023-07-17**|**Latent Space Representations of Neural Algorithmic Reasoners**|Vladimir V. Mirjanić et.al.|[2307.08874v1](http://arxiv.org/abs/2307.08874v1)|**[link](https://github.com/mirjanic/nar-latent-spaces)**|
+|**2023-07-17**|**Curriculum Learning for Graph Neural Networks: A Multiview Competence-based Approach**|Nidhi Vakil et.al.|[2307.08859v1](http://arxiv.org/abs/2307.08859v1)|null|
 |**2023-07-17**|**PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds**|Zhaiyu Chen et.al.|[2307.08636v1](http://arxiv.org/abs/2307.08636v1)|null|
 |**2023-07-17**|**G-Scan: Graph Neural Networks for Line-Level Vulnerability Identification in Smart Contracts**|Christoph Sendner et.al.|[2307.08549v1](http://arxiv.org/abs/2307.08549v1)|null|
 |**2023-07-17**|**Towards eXplainable AI for Mobility Data Science**|Anahid Jalali et.al.|[2307.08461v1](http://arxiv.org/abs/2307.08461v1)|null|
