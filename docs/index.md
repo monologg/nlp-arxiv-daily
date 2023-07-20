@@ -25,6 +25,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Alzheimer's Disease Detection from Spontaneous Speech and Text: A review**|Vrindha M. K. et.al.|[2307.10005v1](http://arxiv.org/abs/2307.10005v1)|null|
+|**2023-07-19**|**Large Language Models can accomplish Business Process Management Tasks**|Michael Grohs et.al.|[2307.09923v1](http://arxiv.org/abs/2307.09923v1)|null|
+|**2023-07-19**|**Chit-Chat or Deep Talk: Prompt Engineering for Process Mining**|Urszula Jessen et.al.|[2307.09909v1](http://arxiv.org/abs/2307.09909v1)|null|
+|**2023-07-19**|**Test-takers have a say: understanding the implications of the use of AI in language tests**|Dawen Zhang et.al.|[2307.09885v1](http://arxiv.org/abs/2307.09885v1)|null|
+|**2023-07-19**|**Enhancing conversational quality in language learning chatbots: An evaluation of GPT4 for ASR error correction**|Long Mai et.al.|[2307.09744v1](http://arxiv.org/abs/2307.09744v1)|null|
+|**2023-07-19**|**Improving Domain Generalization for Sound Classification with Sparse Frequency-Regularized Transformer**|Honglin Mu et.al.|[2307.09723v1](http://arxiv.org/abs/2307.09723v1)|null|
+|**2023-07-19**|**Efficiency Pentathlon: A Standardized Arena for Efficiency Evaluation**|Hao Peng et.al.|[2307.09701v1](http://arxiv.org/abs/2307.09701v1)|null|
+|**2023-07-18**|**Can Model Fusing Help Transformers in Long Document Classification? An Empirical Study**|Damith Premasiri et.al.|[2307.09532v1](http://arxiv.org/abs/2307.09532v1)|**[link](https://github.com/damithdr/legal-classification)**|
 |**2023-07-18**|**Scaling Laws for Imitation Learning in NetHack**|Jens Tuyls et.al.|[2307.09423v1](http://arxiv.org/abs/2307.09423v1)|null|
 |**2023-07-18**|**UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data**|Yazheng Yang et.al.|[2307.09249v1](http://arxiv.org/abs/2307.09249v1)|null|
 |**2023-07-18**|**Mitigating masked pixels in climate-critical datasets**|Angelina Agabin et.al.|[2307.09227v1](http://arxiv.org/abs/2307.09227v1)|null|
@@ -1458,7 +1466,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-18**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455v1](http://arxiv.org/abs/2307.09455v1)|null|
+|**2023-07-18**|**Can Model Fusing Help Transformers in Long Document Classification? An Empirical Study**|Damith Premasiri et.al.|[2307.09532v1](http://arxiv.org/abs/2307.09532v1)|**[link](https://github.com/damithdr/legal-classification)**|
+|**2023-07-19**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455v2](http://arxiv.org/abs/2307.09455v2)|null|
 |**2023-07-18**|**Linearized Relative Positional Encoding**|Zhen Qin et.al.|[2307.09270v1](http://arxiv.org/abs/2307.09270v1)|null|
 |**2023-07-17**|**Classification with Incoherent Kernel Dictionary Learning**|Denis C. Ilie-Ablachim et.al.|[2307.08796v1](http://arxiv.org/abs/2307.08796v1)|**[link](https://github.com/denisilie94/incoherent-kernel-dictionary-learning)**|
 |**2023-07-17**|**Analyzing the Impact of Adversarial Examples on Explainable Machine Learning**|Prathyusha Devabhakthini et.al.|[2307.08327v1](http://arxiv.org/abs/2307.08327v1)|null|
@@ -1896,6 +1905,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**An Empirical Study on Fertility Proposals Using Multi-Grined Topic Analysis Methods**|Yulin Zhou et.al.|[2307.10025v1](http://arxiv.org/abs/2307.10025v1)|null|
 |**2023-07-18**|**Automated Ableism: An Exploration of Explicit Disability Biases in Sentiment and Toxicity Analysis Models**|Pranav Narayanan Venkit et.al.|[2307.09209v1](http://arxiv.org/abs/2307.09209v1)|null|
 |**2023-07-16**|**Fast Quantum Algorithm for Attention Computation**|Yeqi Gao et.al.|[2307.08045v1](http://arxiv.org/abs/2307.08045v1)|null|
 |**2023-07-15**|**Contrasting the efficiency of stock price prediction models using various types of LSTM models aided with sentiment analysis**|Varun Sangwan et.al.|[2307.07868v1](http://arxiv.org/abs/2307.07868v1)|null|
@@ -2206,8 +2216,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-18**|**Does Circuit Analysis Interpretability Scale? Evidence from Multiple Choice Capabilities in Chinchilla**|Tom Lieberum et.al.|[2307.09458v1](http://arxiv.org/abs/2307.09458v1)|null|
-|**2023-07-18**|**Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation**|Federico Betti et.al.|[2307.09416v1](http://arxiv.org/abs/2307.09416v1)|null|
+|**2023-07-19**|**A reinforcement learning approach for VQA validation: an application to diabetic macular edema grading**|Tatiana Fountoukidou et.al.|[2307.09886v1](http://arxiv.org/abs/2307.09886v1)|null|
+|**2023-07-18**|**Traffic-Domain Video Question Answering with Automatic Captioning**|Ehsan Qasemi et.al.|[2307.09636v1](http://arxiv.org/abs/2307.09636v1)|null|
+|**2023-07-19**|**Does Circuit Analysis Interpretability Scale? Evidence from Multiple Choice Capabilities in Chinchilla**|Tom Lieberum et.al.|[2307.09458v2](http://arxiv.org/abs/2307.09458v2)|null|
+|**2023-07-19**|**Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation**|Federico Betti et.al.|[2307.09416v2](http://arxiv.org/abs/2307.09416v2)|null|
 |**2023-07-18**|**Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving**|Kaavya Rekanar et.al.|[2307.09329v1](http://arxiv.org/abs/2307.09329v1)|**[link](https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving)**|
 |**2023-07-18**|**TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT**|Liangyu Zha et.al.|[2307.08674v2](http://arxiv.org/abs/2307.08674v2)|null|
 |**2023-07-17**|**Extending the Frontier of ChatGPT: Code Generation and Debugging**|Fardin Ahsan Sakib et.al.|[2307.08260v1](http://arxiv.org/abs/2307.08260v1)|null|
@@ -2877,6 +2889,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Data-driven discovery of relevant information in quantum simulators**|R. Verdel et.al.|[2307.10040v1](http://arxiv.org/abs/2307.10040v1)|null|
+|**2023-07-19**|**Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation**|Wei Jin et.al.|[2307.09688v1](http://arxiv.org/abs/2307.09688v1)|null|
 |**2023-07-18**|**Quantivine: A Visualization Approach for Large-scale Quantum Circuit Representation and Analysis**|Zhen Wen et.al.|[2307.08969v1](http://arxiv.org/abs/2307.08969v1)|null|
 |**2023-07-17**|**Compression of metrological quantum information in the presence of noise**|Flavio Salvati et.al.|[2307.08648v1](http://arxiv.org/abs/2307.08648v1)|null|
 |**2023-07-16**|**DocTr: Document Transformer for Structured Information Extraction in Documents**|Haofu Liao et.al.|[2307.07929v1](http://arxiv.org/abs/2307.07929v1)|null|
@@ -3222,6 +3236,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Modeling Rabbit-Holes on YouTube**|Erwan Le Merrer et.al.|[2307.09986v1](http://arxiv.org/abs/2307.09986v1)|null|
+|**2023-07-19**|**Our Model Achieves Excellent Performance on MovieLens: What Does it Mean?**|Yu-chen Fan et.al.|[2307.09985v1](http://arxiv.org/abs/2307.09985v1)|null|
+|**2023-07-19**|**Impatient Bandits: Optimizing for the Long-Term Without Delay**|Thomas McDonald et.al.|[2307.09943v1](http://arxiv.org/abs/2307.09943v1)|null|
 |**2023-07-18**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|null|
 |**2023-07-18**|**Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding**|Zehan Wang et.al.|[2307.09267v1](http://arxiv.org/abs/2307.09267v1)|null|
 |**2023-07-18**|**ESMC: Entire Space Multi-Task Model for Post-Click Conversion Rate via Parameter Constraint**|Zhenhao Jiang et.al.|[2307.09193v1](http://arxiv.org/abs/2307.09193v1)|null|
@@ -3822,6 +3839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Multi-Grained Multimodal Interaction Network for Entity Linking**|Pengfei Luo et.al.|[2307.09721v1](http://arxiv.org/abs/2307.09721v1)|**[link](https://github.com/pengfei-luo/mimic)**|
 |**2023-07-17**|**Neurosymbolic AI for Reasoning on Biomedical Knowledge Graphs**|Lauren Nicole DeLong et.al.|[2307.08411v1](http://arxiv.org/abs/2307.08411v1)|null|
 |**2023-07-16**|**Bayesian inference for data-efficient, explainable, and safe robotic motion planning: A review**|Chengmin Zhou et.al.|[2307.08024v1](http://arxiv.org/abs/2307.08024v1)|null|
 |**2023-07-15**|**AspectCSE: Sentence Embeddings for Aspect-based Semantic Textual Similarity using Contrastive Learning and Structured Knowledge**|Tim Schopf et.al.|[2307.07851v1](http://arxiv.org/abs/2307.07851v1)|null|
@@ -4313,6 +4331,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**AutoAMG( $θ$ ): An Auto-tuned AMG Method Based on Deep Learning for Strong Threshold**|Haifeng Zou et.al.|[2307.09879v1](http://arxiv.org/abs/2307.09879v1)|null|
+|**2023-07-19**|**Detecting Vulnerable Nodes in Urban Infrastructure Interdependent Network**|Jinzhu Mao et.al.|[2307.09866v1](http://arxiv.org/abs/2307.09866v1)|**[link](https://github.com/tsinghua-fib-lab/kdd2023-id546-urbaninfra)**|
+|**2023-07-19**|**How Curvature Enhance the Adaptation Power of Framelet GCNs**|Dai Shi et.al.|[2307.09768v1](http://arxiv.org/abs/2307.09768v1)|null|
+|**2023-07-18**|**Anticipating Technical Expertise and Capability Evolution in Research Communities using Dynamic Graph Transformers**|Sameera Horawalavithana et.al.|[2307.09665v1](http://arxiv.org/abs/2307.09665v1)|null|
+|**2023-07-18**|**Neural Priority Queues for Graph Neural Networks**|Rishabh Jain et.al.|[2307.09660v1](http://arxiv.org/abs/2307.09660v1)|null|
 |**2023-07-18**|**Rumor Detection with Diverse Counterfactual Evidence**|Kaiwei Zhang et.al.|[2307.09296v1](http://arxiv.org/abs/2307.09296v1)|null|
 |**2023-07-18**|**Learning Adaptive Neighborhoods for Graph Neural Networks**|Avishkar Saha et.al.|[2307.09065v1](http://arxiv.org/abs/2307.09065v1)|null|
 |**2023-07-18**|**Sharpness-Aware Graph Collaborative Filtering**|Huiyuan Chen et.al.|[2307.08910v1](http://arxiv.org/abs/2307.08910v1)|null|
