@@ -1,4 +1,4 @@
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,7 +26,7 @@
 |**2023-07-19**|**Chit-Chat or Deep Talk: Prompt Engineering for Process Mining**|Urszula Jessen et.al.|[2307.09909v1](http://arxiv.org/abs/2307.09909v1)|null|
 |**2023-07-19**|**Test-takers have a say: understanding the implications of the use of AI in language tests**|Dawen Zhang et.al.|[2307.09885v1](http://arxiv.org/abs/2307.09885v1)|null|
 |**2023-07-19**|**Enhancing conversational quality in language learning chatbots: An evaluation of GPT4 for ASR error correction**|Long Mai et.al.|[2307.09744v1](http://arxiv.org/abs/2307.09744v1)|null|
-|**2023-07-19**|**Improving Domain Generalization for Sound Classification with Sparse Frequency-Regularized Transformer**|Honglin Mu et.al.|[2307.09723v1](http://arxiv.org/abs/2307.09723v1)|null|
+|**2023-07-19**|**Improving Domain Generalization for Sound Classification with Sparse Frequency-Regularized Transformer**|Honglin Mu et.al.|[2307.09723v1](http://arxiv.org/abs/2307.09723v1)|**[link](https://github.com/hlmu/frito)**|
 |**2023-07-19**|**Efficiency Pentathlon: A Standardized Arena for Efficiency Evaluation**|Hao Peng et.al.|[2307.09701v1](http://arxiv.org/abs/2307.09701v1)|null|
 |**2023-07-18**|**Can Model Fusing Help Transformers in Long Document Classification? An Empirical Study**|Damith Premasiri et.al.|[2307.09532v1](http://arxiv.org/abs/2307.09532v1)|**[link](https://github.com/damithdr/legal-classification)**|
 |**2023-07-18**|**Scaling Laws for Imitation Learning in NetHack**|Jens Tuyls et.al.|[2307.09423v1](http://arxiv.org/abs/2307.09423v1)|null|
@@ -1006,7 +1006,7 @@
 |**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|**[link](https://github.com/shuhengl/acl2023_conllpp)**|
 |**2022-12-19**|**MANER: Mask Augmented Named Entity Recognition for Extreme Low-Resource Languages**|Shashank Sonkar et.al.|[2212.09723v1](http://arxiv.org/abs/2212.09723v1)|null|
 
-<p align=right>(<a href='#updated-on-20230720'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230721'>back to top</a>)</p>
 
 ## Legal NLP
 
@@ -1136,7 +1136,7 @@
 |**2014-11-03**|**Unsupervised Keyword Extraction from Polish Legal Texts**|Michał Jungiewicz et.al.|[1408.3731v2](http://arxiv.org/abs/1408.3731v2)|null|
 |**2011-03-16**|**Information and Entanglement Measures in Quantum Systems With Applications to Atomic Physics**|Daniel Manzano et.al.|[1103.3186v1](http://arxiv.org/abs/1103.3186v1)|null|
 
-<p align=right>(<a href='#updated-on-20230720'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230721'>back to top</a>)</p>
 
 ## Sequence Annotation
 
@@ -1175,7 +1175,7 @@
 |**2008-02-16**|**Radio-loudness of Active Galaxies and the Black Hole Evolution**|M. Sikora et.al.|[0802.2302v1](http://arxiv.org/abs/0802.2302v1)|null|
 |**2007-07-16**|**Radio Loudness of AGNs: Host Galaxy Morphology and the Spin Paradigm**|L. Stawarz et.al.|[0707.2369v1](http://arxiv.org/abs/0707.2369v1)|null|
 
-<p align=right>(<a href='#updated-on-20230720'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230721'>back to top</a>)</p>
 
 ## Named Entity Recognition
 
@@ -1456,7 +1456,7 @@
 |**2022-10-12**|**MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score**|Sunjae Kwon et.al.|[2210.05875v1](http://arxiv.org/abs/2210.05875v1)|null|
 |**2022-10-11**|**SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition**|Zeng Yang et.al.|[2210.05632v1](http://arxiv.org/abs/2210.05632v1)|**[link](https://github.com/unveiled-the-red-hat/SEE-Few)**|
 
-<p align=right>(<a href='#updated-on-20230720'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230721'>back to top</a>)</p>
 
 ## Text Classification
 
@@ -1895,7 +1895,7 @@
 |**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/microsoft/scglab)**|
 |**2022-11-18**|**3d human motion generation from the text via gesture action classification and the autoregressive model**|Gwantae Kim et.al.|[2211.10003v1](http://arxiv.org/abs/2211.10003v1)|null|
 
-<p align=right>(<a href='#updated-on-20230720'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230721'>back to top</a>)</p>
 
 ## Sentiment Analysis
 
@@ -1905,7 +1905,7 @@
 |**2023-07-18**|**Automated Ableism: An Exploration of Explicit Disability Biases in Sentiment and Toxicity Analysis Models**|Pranav Narayanan Venkit et.al.|[2307.09209v1](http://arxiv.org/abs/2307.09209v1)|null|
 |**2023-07-16**|**Fast Quantum Algorithm for Attention Computation**|Yeqi Gao et.al.|[2307.08045v1](http://arxiv.org/abs/2307.08045v1)|null|
 |**2023-07-15**|**Contrasting the efficiency of stock price prediction models using various types of LSTM models aided with sentiment analysis**|Varun Sangwan et.al.|[2307.07868v1](http://arxiv.org/abs/2307.07868v1)|null|
-|**2023-07-15**|**CIDER: Context sensitive sentiment analysis for short-form text**|James C. Young et.al.|[2307.07864v1](http://arxiv.org/abs/2307.07864v1)|null|
+|**2023-07-15**|**CIDER: Context sensitive sentiment analysis for short-form text**|James C. Young et.al.|[2307.07864v1](http://arxiv.org/abs/2307.07864v1)|**[link](https://github.com/jcy204/ciderpolarity)**|
 |**2023-07-15**|**Opinion mining using Double Channel CNN for Recommender System**|Minoo Sayyadpour et.al.|[2307.07798v1](http://arxiv.org/abs/2307.07798v1)|null|
 |**2023-07-15**|**Political Sentiment Analysis of Persian Tweets Using CNN-LSTM Model**|Mohammad Dehghani et.al.|[2307.07740v1](http://arxiv.org/abs/2307.07740v1)|null|
 |**2023-07-13**|**Convolutional Neural Networks for Sentiment Analysis on Weibo Data: A Natural Language Processing Approach**|Yufei Xie et.al.|[2307.06540v1](http://arxiv.org/abs/2307.06540v1)|null|
@@ -2206,7 +2206,7 @@
 |**2022-10-18**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-10-14**|**Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**|Sishuo Chen et.al.|[2210.07907v1](http://arxiv.org/abs/2210.07907v1)|**[link](https://github.com/lancopku/dan)**|
 
-<p align=right>(<a href='#updated-on-20230720'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230721'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -2879,7 +2879,7 @@
 |**2022-12-02**|**Compound Tokens: Channel Fusion for Vision-Language Representation Learning**|Maxwell Mbabilla Aladago et.al.|[2212.01447v1](http://arxiv.org/abs/2212.01447v1)|null|
 |**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|**[link](https://github.com/mlvlab/qat)**|
 
-<p align=right>(<a href='#updated-on-20230720'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230721'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -2887,7 +2887,7 @@
 |---|---|---|---|---|
 |**2023-07-19**|**Data-driven discovery of relevant information in quantum simulators**|R. Verdel et.al.|[2307.10040v1](http://arxiv.org/abs/2307.10040v1)|null|
 |**2023-07-19**|**Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation**|Wei Jin et.al.|[2307.09688v1](http://arxiv.org/abs/2307.09688v1)|null|
-|**2023-07-18**|**Quantivine: A Visualization Approach for Large-scale Quantum Circuit Representation and Analysis**|Zhen Wen et.al.|[2307.08969v1](http://arxiv.org/abs/2307.08969v1)|null|
+|**2023-07-18**|**Quantivine: A Visualization Approach for Large-scale Quantum Circuit Representation and Analysis**|Zhen Wen et.al.|[2307.08969v1](http://arxiv.org/abs/2307.08969v1)|**[link](https://github.com/meu1024/qc-vis)**|
 |**2023-07-17**|**Compression of metrological quantum information in the presence of noise**|Flavio Salvati et.al.|[2307.08648v1](http://arxiv.org/abs/2307.08648v1)|null|
 |**2023-07-16**|**DocTr: Document Transformer for Structured Information Extraction in Documents**|Haofu Liao et.al.|[2307.07929v1](http://arxiv.org/abs/2307.07929v1)|null|
 |**2023-07-14**|**QontSum: On Contrasting Salient Content for Query-focused Summarization**|Sajad Sotudeh et.al.|[2307.07586v1](http://arxiv.org/abs/2307.07586v1)|null|
@@ -3226,7 +3226,7 @@
 |**2022-10-17**|**Zero-Shot Ranking Socio-Political Texts with Transformer Language Models to Reduce Close Reading Time**|Kiymet Akdemir et.al.|[2210.09179v1](http://arxiv.org/abs/2210.09179v1)|null|
 |**2022-10-17**|**Modeling the Lighting in Scenes as Style for Auto White-Balance Correction**|Furkan Kınlı et.al.|[2210.09090v1](http://arxiv.org/abs/2210.09090v1)|**[link](https://github.com/birdortyedi/lighting-as-style-awb-correction)**|
 
-<p align=right>(<a href='#updated-on-20230720'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230721'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -3234,7 +3234,7 @@
 |---|---|---|---|---|
 |**2023-07-19**|**Modeling Rabbit-Holes on YouTube**|Erwan Le Merrer et.al.|[2307.09986v1](http://arxiv.org/abs/2307.09986v1)|null|
 |**2023-07-19**|**Our Model Achieves Excellent Performance on MovieLens: What Does it Mean?**|Yu-chen Fan et.al.|[2307.09985v1](http://arxiv.org/abs/2307.09985v1)|null|
-|**2023-07-19**|**Impatient Bandits: Optimizing for the Long-Term Without Delay**|Thomas McDonald et.al.|[2307.09943v1](http://arxiv.org/abs/2307.09943v1)|null|
+|**2023-07-19**|**Impatient Bandits: Optimizing for the Long-Term Without Delay**|Thomas McDonald et.al.|[2307.09943v1](http://arxiv.org/abs/2307.09943v1)|**[link](https://github.com/spotify-research/impatient-bandits)**|
 |**2023-07-18**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447v1](http://arxiv.org/abs/2307.09447v1)|null|
 |**2023-07-18**|**Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding**|Zehan Wang et.al.|[2307.09267v1](http://arxiv.org/abs/2307.09267v1)|null|
 |**2023-07-18**|**ESMC: Entire Space Multi-Task Model for Post-Click Conversion Rate via Parameter Constraint**|Zhenhao Jiang et.al.|[2307.09193v1](http://arxiv.org/abs/2307.09193v1)|null|
@@ -3829,7 +3829,7 @@
 |**2022-11-27**|**Dense Text Retrieval based on Pretrained Language Models: A Survey**|Wayne Xin Zhao et.al.|[2211.14876v1](http://arxiv.org/abs/2211.14876v1)|**[link](https://github.com/paddlepaddle/rocketqa)**|
 |**2022-11-27**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|**[link](https://github.com/chengang95/unkd)**|
 
-<p align=right>(<a href='#updated-on-20230720'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230721'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -4321,7 +4321,7 @@
 |**2022-11-18**|**Novelpy: A Python package to measure novelty and disruptiveness of bibliometric and patent data**|Pierre Pelletier et.al.|[2211.10346v1](http://arxiv.org/abs/2211.10346v1)|**[link](https://github.com/kwirtz/novelpy)**|
 |**2022-11-18**|**Contrastive Knowledge Graph Error Detection**|Qinggang Zhang et.al.|[2211.10030v1](http://arxiv.org/abs/2211.10030v1)|**[link](https://github.com/qing145/caged)**|
 
-<p align=right>(<a href='#updated-on-20230720'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230721'>back to top</a>)</p>
 
 ## GNN
 
@@ -4329,7 +4329,7 @@
 |---|---|---|---|---|
 |**2023-07-19**|**AutoAMG( $θ$ ): An Auto-tuned AMG Method Based on Deep Learning for Strong Threshold**|Haifeng Zou et.al.|[2307.09879v1](http://arxiv.org/abs/2307.09879v1)|null|
 |**2023-07-19**|**Detecting Vulnerable Nodes in Urban Infrastructure Interdependent Network**|Jinzhu Mao et.al.|[2307.09866v1](http://arxiv.org/abs/2307.09866v1)|**[link](https://github.com/tsinghua-fib-lab/kdd2023-id546-urbaninfra)**|
-|**2023-07-19**|**How Curvature Enhance the Adaptation Power of Framelet GCNs**|Dai Shi et.al.|[2307.09768v1](http://arxiv.org/abs/2307.09768v1)|null|
+|**2023-07-19**|**How Curvature Enhance the Adaptation Power of Framelet GCNs**|Dai Shi et.al.|[2307.09768v1](http://arxiv.org/abs/2307.09768v1)|**[link](https://github.com/dshi3553usyd/curvature_enhanced_graph_convolution)**|
 |**2023-07-18**|**Anticipating Technical Expertise and Capability Evolution in Research Communities using Dynamic Graph Transformers**|Sameera Horawalavithana et.al.|[2307.09665v1](http://arxiv.org/abs/2307.09665v1)|null|
 |**2023-07-18**|**Neural Priority Queues for Graph Neural Networks**|Rishabh Jain et.al.|[2307.09660v1](http://arxiv.org/abs/2307.09660v1)|null|
 |**2023-07-18**|**Rumor Detection with Diverse Counterfactual Evidence**|Kaiwei Zhang et.al.|[2307.09296v1](http://arxiv.org/abs/2307.09296v1)|null|
@@ -5255,5 +5255,5 @@
 |**2022-12-14**|**On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
 |**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 
-<p align=right>(<a href='#updated-on-20230720'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230721'>back to top</a>)</p>
 
