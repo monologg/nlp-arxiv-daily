@@ -25,7 +25,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980v1](http://arxiv.org/abs/2307.12980v1)|null|
+|**2023-07-25**|**Evaluating Large Language Models for Radiology Natural Language Processing**|Zhengliang Liu et.al.|[2307.13693v1](http://arxiv.org/abs/2307.13693v1)|null|
+|**2023-07-25**|**Multilevel Large Language Models for Everyone**|Yuanhao Gong et.al.|[2307.13221v1](http://arxiv.org/abs/2307.13221v1)|null|
+|**2023-07-24**|**Explaining Math Word Problem Solvers**|Abby Newcomb et.al.|[2307.13128v1](http://arxiv.org/abs/2307.13128v1)|null|
+|**2023-07-24**|**Making Metadata More FAIR Using Large Language Models**|Sowmya S. Sundaram et.al.|[2307.13085v1](http://arxiv.org/abs/2307.13085v1)|null|
+|**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980v1](http://arxiv.org/abs/2307.12980v1)|**[link](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model)**|
 |**2023-07-24**|**Aligning Large Language Models with Human: A Survey**|Yufei Wang et.al.|[2307.12966v1](http://arxiv.org/abs/2307.12966v1)|**[link](https://github.com/garyyufei/alignllmhumansurvey)**|
 |**2023-07-24**|**Concept-based explainability for an EEG transformer model**|Anders Gjølbye Madsen et.al.|[2307.12745v1](http://arxiv.org/abs/2307.12745v1)|**[link](https://github.com/andersgmadsen/tcav-bendr)**|
 |**2023-07-23**|**Transformer-based Joint Source Channel Coding for Textual Semantic Communication**|Shicong Liu et.al.|[2307.12266v1](http://arxiv.org/abs/2307.12266v1)|null|
@@ -1202,6 +1206,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Zshot: An Open-source Framework for Zero-Shot Named Entity Recognition and Relation Extraction**|Gabriele Picco et.al.|[2307.13497v1](http://arxiv.org/abs/2307.13497v1)|null|
+|**2023-07-25**|**Embedding Models for Supervised Automatic Extraction and Classification of Named Entities in Scientific Acknowledgements**|Nina Smirnova et.al.|[2307.13377v1](http://arxiv.org/abs/2307.13377v1)|**[link](https://github.com/kalawinka/season)**|
 |**2023-07-22**|**A Zero-shot and Few-shot Study of Instruction-Finetuned Large Language Models Applied to Clinical and Biomedical Tasks**|Yanis Labrak et.al.|[2307.12114v1](http://arxiv.org/abs/2307.12114v1)|null|
 |**2023-07-20**|**UMLS-KGI-BERT: Data-Centric Knowledge Integration in Transformers for Biomedical Entity Recognition**|Aidan Mannion et.al.|[2307.11170v1](http://arxiv.org/abs/2307.11170v1)|null|
 |**2023-07-21**|**Mutual Reinforcement Effects in Japanese Sentence Classification and Named Entity Recognition Tasks**|Chengguang Gan et.al.|[2307.10291v2](http://arxiv.org/abs/2307.10291v2)|null|
@@ -1933,6 +1939,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Text-oriented Modality Reinforcement Network for Multimodal Sentiment Analysis from Unaligned Multimodal Sequences**|Yuxuan Lei et.al.|[2307.13205v1](http://arxiv.org/abs/2307.13205v1)|null|
+|**2023-07-24**|**How to use LLMs for Text Analysis**|Petter Törnberg et.al.|[2307.13106v1](http://arxiv.org/abs/2307.13106v1)|**[link](https://github.com/cssmodels/howtousellms)**|
 |**2023-07-24**|**Code-Switched Urdu ASR for Noisy Telephonic Environment using Data Centric Approach with Hybrid HMM and CNN-TDNN**|Muhammad Danyal Khan et.al.|[2307.12759v1](http://arxiv.org/abs/2307.12759v1)|null|
 |**2023-07-20**|**Applying QNLP to sentiment analysis in finance**|Jonas Stein et.al.|[2307.11788v1](http://arxiv.org/abs/2307.11788v1)|**[link](https://github.com/ichrist97/qnlp_finance)**|
 |**2023-07-18**|**an integrated npl approach to sentiment analysis in satisfaction surveys**|Edson B. Pinto-Luque et.al.|[2307.11771v1](http://arxiv.org/abs/2307.11771v1)|null|
@@ -2253,6 +2261,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Contributions to the Improvement of Question Answering Systems in the Biomedical Domain**|Mourad Sarrouti et.al.|[2307.13631v1](http://arxiv.org/abs/2307.13631v1)|null|
+|**2023-07-25**|**GPT-3 Models are Few-Shot Financial Reasoners**|Raul Salles de Padua et.al.|[2307.13617v1](http://arxiv.org/abs/2307.13617v1)|null|
+|**2023-07-25**|**Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions**|Skyler Wu et.al.|[2307.13339v1](http://arxiv.org/abs/2307.13339v1)|null|
+|**2023-07-25**|**Keyword-Aware Relative Spatio-Temporal Graph Networks for Video Question Answering**|Yi Cheng et.al.|[2307.13250v1](http://arxiv.org/abs/2307.13250v1)|null|
 |**2023-07-24**|**3D-LLM: Injecting the 3D World into Large Language Models**|Yining Hong et.al.|[2307.12981v1](http://arxiv.org/abs/2307.12981v1)|null|
 |**2023-07-23**|**CommonsenseVIS: Visualizing and Understanding Commonsense Reasoning Capabilities of Natural Language Models**|Xingbo Wang et.al.|[2307.12382v1](http://arxiv.org/abs/2307.12382v1)|null|
 |**2023-07-22**|**A Zero-shot and Few-shot Study of Instruction-Finetuned Large Language Models Applied to Clinical and Biomedical Tasks**|Yanis Labrak et.al.|[2307.12114v1](http://arxiv.org/abs/2307.12114v1)|null|
@@ -3295,10 +3307,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Mitigating Mainstream Bias in Recommendation via Cost-sensitive Learning**|Roger Zhe Li et.al.|[2307.13632v1](http://arxiv.org/abs/2307.13632v1)|**[link](https://github.com/roger-zhe-li/ictir23-cost-sensitive)**|
+|**2023-07-25**|**Argument Attribution Explanations in Quantitative Bipolar Argumentation Frameworks**|Xiang Yin et.al.|[2307.13582v1](http://arxiv.org/abs/2307.13582v1)|null|
+|**2023-07-24**|**Investigating the Robustness of Sequential Recommender Systems Against Training Data Perturbations: an Empirical Study**|Filippo Betello et.al.|[2307.13165v1](http://arxiv.org/abs/2307.13165v1)|null|
 |**2023-07-24**|**Visual Analytics for Understanding Draco's Knowledge Base**|Johanna Schmidt et.al.|[2307.12866v1](http://arxiv.org/abs/2307.12866v1)|null|
 |**2023-07-24**|**HeteFedRec: Federated Recommender Systems with Model Heterogeneity**|Wei Yuan et.al.|[2307.12810v1](http://arxiv.org/abs/2307.12810v1)|null|
 |**2023-07-24**|**DEPHN: Different Expression Parallel Heterogeneous Network using virtual gradient optimization for Multi-task Learning**|Menglin Kong et.al.|[2307.12519v1](http://arxiv.org/abs/2307.12519v1)|null|
-|**2023-07-23**|**Interface Design to Mitigate Inflation in Recommender Systems**|Rana Shahout et.al.|[2307.12424v1](http://arxiv.org/abs/2307.12424v1)|null|
+|**2023-07-23**|**Interface Design to Mitigate Inflation in Recommender Systems**|Rana Shahout et.al.|[2307.12424v1](http://arxiv.org/abs/2307.12424v1)|**[link](https://github.com/sstoikov/piki-music-dataset)**|
 |**2023-07-23**|**Scalable solution to crossed random effects model with random slopes**|Disha Ghandwani et.al.|[2307.12378v1](http://arxiv.org/abs/2307.12378v1)|null|
 |**2023-07-22**|**Conformal Group Recommender System**|Venkateswara Rao Kagita et.al.|[2307.12034v1](http://arxiv.org/abs/2307.12034v1)|null|
 |**2023-07-22**|**XWalk: Random Walk Based Candidate Retrieval for Product Search**|Jon Eskreis-Winkler et.al.|[2307.12019v1](http://arxiv.org/abs/2307.12019v1)|null|
@@ -3915,6 +3930,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**BIM-to-BRICK: Using graph modeling for IoT/BMS and spatial semantic data interoperability within digital data models of buildings**|Filippo Vittori et.al.|[2307.13197v1](http://arxiv.org/abs/2307.13197v1)|null|
 |**2023-07-24**|**Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**|Yixin Wang et.al.|[2307.12526v1](http://arxiv.org/abs/2307.12526v1)|**[link](https://github.com/wangyixinxin/mrg-kg)**|
 |**2023-07-22**|**Leveraging Knowledge Graphs for Zero-Shot Object-agnostic State Classification**|Filipos Gouidis et.al.|[2307.12179v1](http://arxiv.org/abs/2307.12179v1)|null|
 |**2023-07-22**|**Named Entity Resolution in Personal Knowledge Graphs**|Mayank Kejriwal et.al.|[2307.12173v1](http://arxiv.org/abs/2307.12173v1)|null|
@@ -4419,6 +4435,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Multi-GPU Approach for Training of Graph ML Models on large CFD Meshes**|Sebastian Strönisch et.al.|[2307.13592v1](http://arxiv.org/abs/2307.13592v1)|null|
+|**2023-07-25**|**Node Injection Link Stealing Attack**|Oualid Zari et.al.|[2307.13548v1](http://arxiv.org/abs/2307.13548v1)|null|
+|**2023-07-25**|**Differentiable Turbulence II**|Varun Shankar et.al.|[2307.13533v1](http://arxiv.org/abs/2307.13533v1)|null|
+|**2023-07-25**|**Finding Money Launderers Using Heterogeneous Graph Neural Networks**|Fredrik Johannessen et.al.|[2307.13499v1](http://arxiv.org/abs/2307.13499v1)|**[link](https://github.com/fredjo89/heterogeneous-mpnn)**|
+|**2023-07-25**|**Combinatorial Auctions and Graph Neural Networks for Local Energy Flexibility Markets**|Awadelrahman M. A. Ahmed et.al.|[2307.13470v1](http://arxiv.org/abs/2307.13470v1)|null|
+|**2023-07-25**|**Gaussian Graph with Prototypical Contrastive Learning in E-Commerce Bundle Recommendation**|Zhao-Yang Liu et.al.|[2307.13468v1](http://arxiv.org/abs/2307.13468v1)|null|
+|**2023-07-25**|**Transferability of Graph Neural Networks using Graphon and Sampling Theories**|A. Martina Neuman et.al.|[2307.13206v1](http://arxiv.org/abs/2307.13206v1)|null|
+|**2023-07-24**|**MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning**|Yun Zhu et.al.|[2307.13055v1](http://arxiv.org/abs/2307.13055v1)|null|
+|**2023-07-24**|**Graph Neural Networks For Mapping Variables Between Programs -- Extended Version**|Pedro Orvalho et.al.|[2307.13014v1](http://arxiv.org/abs/2307.13014v1)|**[link](https://github.com/pmorvalho/ecai23-gnns-for-mapping-variables-between-programs)**|
 |**2023-07-24**|**Comprehending Semantic Types in JSON Data with Graph Neural Networks**|Shuang Wei et.al.|[2307.12807v1](http://arxiv.org/abs/2307.12807v1)|null|
 |**2023-07-24**|**Compact & Capable: Harnessing Graph Neural Networks and Edge Convolution for Medical Image Classification**|Aryan Singh et.al.|[2307.12790v1](http://arxiv.org/abs/2307.12790v1)|**[link](https://github.com/anonrepo-keeper/gcnn-ec)**|
 |**2023-07-24**|**HiHGNN: Accelerating HGNNs through Parallelism and Data Reusability Exploitation**|Runzhen Xue et.al.|[2307.12765v1](http://arxiv.org/abs/2307.12765v1)|null|
