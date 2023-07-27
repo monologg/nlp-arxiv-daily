@@ -25,6 +25,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning**|Yury Gorishniy et.al.|[2307.14338v1](http://arxiv.org/abs/2307.14338v1)|**[link](https://github.com/yandex-research/tabular-dl-tabr)**|
+|**2023-07-26**|**Comparative Analysis of Libraries for the Sentimental Analysis**|Wendy Ccoya et.al.|[2307.14311v1](http://arxiv.org/abs/2307.14311v1)|null|
+|**2023-07-26**|**Mining Reddit Data to Elicit Students' Requirements During COVID-19 Pandemic**|Shadikur Rahman et.al.|[2307.14212v1](http://arxiv.org/abs/2307.14212v1)|null|
+|**2023-07-26**|**A semantics-driven methodology for high-quality image annotation**|Fausto Giunchiglia et.al.|[2307.14119v1](http://arxiv.org/abs/2307.14119v1)|null|
+|**2023-07-26**|**Decoding ChatGPT: A Taxonomy of Existing Research, Current Challenges, and Possible Future Directions**|Shahab Saquib Sohail et.al.|[2307.14107v1](http://arxiv.org/abs/2307.14107v1)|null|
 |**2023-07-25**|**Evaluating Large Language Models for Radiology Natural Language Processing**|Zhengliang Liu et.al.|[2307.13693v1](http://arxiv.org/abs/2307.13693v1)|null|
 |**2023-07-25**|**Multilevel Large Language Models for Everyone**|Yuanhao Gong et.al.|[2307.13221v1](http://arxiv.org/abs/2307.13221v1)|null|
 |**2023-07-24**|**Explaining Math Word Problem Solvers**|Abby Newcomb et.al.|[2307.13128v1](http://arxiv.org/abs/2307.13128v1)|null|
@@ -1037,9 +1042,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Towards Establishing Systematic Classification Requirements for Automated Driving**|Ken T. Mori et.al.|[2307.14058v1](http://arxiv.org/abs/2307.14058v1)|null|
 |**2023-07-16**|**It's All Relative: Interpretable Models for Scoring Bias in Documents**|Aswin Suresh et.al.|[2307.08139v1](http://arxiv.org/abs/2307.08139v1)|null|
 |**2023-06-29**|**Towards Grammatical Tagging for the Legal Language of Cybersecurity**|Gianpietro Castiglione et.al.|[2306.17042v1](http://arxiv.org/abs/2306.17042v1)|null|
-|**2023-06-15**|**SCALE: Scaling up the Complexity for Advanced Language Model Evaluation**|Vishvaksenan Rasiah et.al.|[2306.09237v1](http://arxiv.org/abs/2306.09237v1)|null|
+|**2023-06-15**|**SCALE: Scaling up the Complexity for Advanced Language Model Evaluation**|Vishvaksenan Rasiah et.al.|[2306.09237v1](http://arxiv.org/abs/2306.09237v1)|**[link](https://github.com/vr18ub/court_view_generation)**|
 |**2023-06-13**|**Resources for Brewing BEIR: Reproducible Reference Models and an Official Leaderboard**|Ehsan Kamalloo et.al.|[2306.07471v1](http://arxiv.org/abs/2306.07471v1)|**[link](https://github.com/beir-cellar/beir)**|
 |**2023-06-12**|**Large Language Models as Tax Attorneys: A Case Study in Legal Capabilities Emergence**|John J. Nay et.al.|[2306.07075v1](http://arxiv.org/abs/2306.07075v1)|null|
 |**2023-06-09**|**Towards the Exploitation of LLM-based Chatbot for Providing Legal Support to Palestinian Cooperatives**|Rabee Qasem et.al.|[2306.05827v1](http://arxiv.org/abs/2306.05827v1)|null|
@@ -1492,6 +1498,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Developing and Evaluating Tiny to Medium-Sized Turkish BERT Models**|Himmet Toprak Kesgin et.al.|[2307.14134v1](http://arxiv.org/abs/2307.14134v1)|null|
 |**2023-07-24**|**Leveraging Label Variation in Large Language Models for Zero-Shot Text Classification**|Flor Miriam Plaza-del-Arco et.al.|[2307.12973v1](http://arxiv.org/abs/2307.12973v1)|null|
 |**2023-07-22**|**Identifying Misinformation on YouTube through Transcript Contextual Analysis with Transformer Models**|Christos Christodoulou et.al.|[2307.12155v1](http://arxiv.org/abs/2307.12155v1)|**[link](https://github.com/christoschr97/misinf-detection-llms)**|
 |**2023-07-22**|**Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels?**|Cheng-En Wu et.al.|[2307.11978v1](http://arxiv.org/abs/2307.11978v1)|null|
@@ -1939,9 +1946,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Comparative Analysis of Libraries for the Sentimental Analysis**|Wendy Ccoya et.al.|[2307.14311v1](http://arxiv.org/abs/2307.14311v1)|null|
+|**2023-07-26**|**Developing and Evaluating Tiny to Medium-Sized Turkish BERT Models**|Himmet Toprak Kesgin et.al.|[2307.14134v1](http://arxiv.org/abs/2307.14134v1)|null|
+|**2023-07-26**|**Low-Parameter Federated Learning with Large Language Models**|Jingang Jiang et.al.|[2307.13896v1](http://arxiv.org/abs/2307.13896v1)|null|
 |**2023-07-25**|**Text-oriented Modality Reinforcement Network for Multimodal Sentiment Analysis from Unaligned Multimodal Sequences**|Yuxuan Lei et.al.|[2307.13205v1](http://arxiv.org/abs/2307.13205v1)|null|
 |**2023-07-24**|**How to use LLMs for Text Analysis**|Petter Törnberg et.al.|[2307.13106v1](http://arxiv.org/abs/2307.13106v1)|**[link](https://github.com/cssmodels/howtousellms)**|
-|**2023-07-24**|**Code-Switched Urdu ASR for Noisy Telephonic Environment using Data Centric Approach with Hybrid HMM and CNN-TDNN**|Muhammad Danyal Khan et.al.|[2307.12759v1](http://arxiv.org/abs/2307.12759v1)|null|
+|**2023-07-24**|**Code-Switched Urdu ASR for Noisy Telephonic Environment using Data Centric Approach with Hybrid HMM and CNN-TDNN**|Muhammad Danyal Khan et.al.|[2307.12759v1](http://arxiv.org/abs/2307.12759v1)|**[link](https://github.com/sage-khan/code-switched-noisy-urdu-asr)**|
 |**2023-07-20**|**Applying QNLP to sentiment analysis in finance**|Jonas Stein et.al.|[2307.11788v1](http://arxiv.org/abs/2307.11788v1)|**[link](https://github.com/ichrist97/qnlp_finance)**|
 |**2023-07-18**|**an integrated npl approach to sentiment analysis in satisfaction surveys**|Edson B. Pinto-Luque et.al.|[2307.11771v1](http://arxiv.org/abs/2307.11771v1)|null|
 |**2023-07-21**|**Exploring Technical Debt in Security Questions on Stack Overflow**|Joshua Aldrich Edbert et.al.|[2307.11387v1](http://arxiv.org/abs/2307.11387v1)|null|
@@ -2261,8 +2271,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
+|**2023-07-26**|**LOIS: Looking Out of Instance Semantics for Visual Question Answering**|Siyu Zhang et.al.|[2307.14142v1](http://arxiv.org/abs/2307.14142v1)|null|
 |**2023-07-25**|**Contributions to the Improvement of Question Answering Systems in the Biomedical Domain**|Mourad Sarrouti et.al.|[2307.13631v1](http://arxiv.org/abs/2307.13631v1)|null|
-|**2023-07-25**|**GPT-3 Models are Few-Shot Financial Reasoners**|Raul Salles de Padua et.al.|[2307.13617v1](http://arxiv.org/abs/2307.13617v1)|null|
+|**2023-07-26**|**GPT-3 Models are Few-Shot Financial Reasoners**|Raul Salles de Padua et.al.|[2307.13617v2](http://arxiv.org/abs/2307.13617v2)|null|
 |**2023-07-25**|**Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions**|Skyler Wu et.al.|[2307.13339v1](http://arxiv.org/abs/2307.13339v1)|null|
 |**2023-07-25**|**Keyword-Aware Relative Spatio-Temporal Graph Networks for Video Question Answering**|Yi Cheng et.al.|[2307.13250v1](http://arxiv.org/abs/2307.13250v1)|null|
 |**2023-07-24**|**3D-LLM: Injecting the 3D World into Large Language Models**|Yining Hong et.al.|[2307.12981v1](http://arxiv.org/abs/2307.12981v1)|null|
@@ -3307,6 +3319,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**ChatGPT and Persuasive Technologies for the Management and Delivery of Personalized Recommendations in Hotel Hospitality**|Manolis Remountakis et.al.|[2307.14298v1](http://arxiv.org/abs/2307.14298v1)|null|
+|**2023-07-26**|**Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences**|Scott Sanner et.al.|[2307.14225v1](http://arxiv.org/abs/2307.14225v1)|null|
+|**2023-07-26**|**A Probabilistic Position Bias Model for Short-Video Recommendation Feeds**|Olivier Jeunen et.al.|[2307.14059v1](http://arxiv.org/abs/2307.14059v1)|**[link](https://github.com/olivierjeunen/c-3po-recsys-2023)**|
+|**2023-07-26**|**Multi-view Hypergraph Contrastive Policy Learning for Conversational Recommendation**|Sen Zhao et.al.|[2307.14024v1](http://arxiv.org/abs/2307.14024v1)|null|
+|**2023-07-26**|**Human Culture: A History Irrelevant and Predictable Experience**|Hao Wang et.al.|[2307.13882v1](http://arxiv.org/abs/2307.13882v1)|null|
+|**2023-07-25**|**The GANfather: Controllable generation of malicious activity to improve defence systems**|Ricardo Ribeiro Pereira et.al.|[2307.13787v1](http://arxiv.org/abs/2307.13787v1)|null|
+|**2023-07-25**|**ClusterSeq: Enhancing Sequential Recommender Systems with Clustering based Meta-Learning**|Mohammmadmahdi Maheri et.al.|[2307.13766v1](http://arxiv.org/abs/2307.13766v1)|null|
 |**2023-07-25**|**Mitigating Mainstream Bias in Recommendation via Cost-sensitive Learning**|Roger Zhe Li et.al.|[2307.13632v1](http://arxiv.org/abs/2307.13632v1)|**[link](https://github.com/roger-zhe-li/ictir23-cost-sensitive)**|
 |**2023-07-25**|**Argument Attribution Explanations in Quantitative Bipolar Argumentation Frameworks**|Xiang Yin et.al.|[2307.13582v1](http://arxiv.org/abs/2307.13582v1)|null|
 |**2023-07-24**|**Investigating the Robustness of Sequential Recommender Systems Against Training Data Perturbations: an Empirical Study**|Filippo Betello et.al.|[2307.13165v1](http://arxiv.org/abs/2307.13165v1)|null|
@@ -4435,6 +4454,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Distributed Computing of Functions of Structured Sources with Helper Side Information**|Derya Malak et.al.|[2307.13987v1](http://arxiv.org/abs/2307.13987v1)|null|
+|**2023-07-26**|**Towards a cosmic ray composition measurement with the IceAct telescopes at the IceCube Neutrino Observatory**|Larissa Paul et.al.|[2307.13965v1](http://arxiv.org/abs/2307.13965v1)|null|
+|**2023-07-26**|**Graph Neural Networks-based Hybrid Framework For Predicting Particle Crushing Strength**|Tongya Zheng et.al.|[2307.13909v1](http://arxiv.org/abs/2307.13909v1)|**[link](https://github.com/doujiang-zheng/gnn-for-particle-crushing)**|
+|**2023-07-25**|**Uncertainty Quantification in the Road-level Traffic Risk Prediction by Spatial-Temporal Zero-Inflated Negative Binomial Graph Neural Network(STZINB-GNN)**|Xiaowei Gao et.al.|[2307.13816v1](http://arxiv.org/abs/2307.13816v1)|null|
 |**2023-07-25**|**Multi-GPU Approach for Training of Graph ML Models on large CFD Meshes**|Sebastian Strönisch et.al.|[2307.13592v1](http://arxiv.org/abs/2307.13592v1)|null|
 |**2023-07-25**|**Node Injection Link Stealing Attack**|Oualid Zari et.al.|[2307.13548v1](http://arxiv.org/abs/2307.13548v1)|null|
 |**2023-07-25**|**Differentiable Turbulence II**|Varun Shankar et.al.|[2307.13533v1](http://arxiv.org/abs/2307.13533v1)|null|
