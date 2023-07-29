@@ -3332,7 +3332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-27**|**The Effect of Third Party Implementations on Reproducibility**|Balázs Hidasi et.al.|[2307.14956v1](http://arxiv.org/abs/2307.14956v1)|null|
+|**2023-07-27**|**The Effect of Third Party Implementations on Reproducibility**|Balázs Hidasi et.al.|[2307.14956v1](http://arxiv.org/abs/2307.14956v1)|**[link](https://github.com/hidasib/gru4rec_third_party_comparison)**|
 |**2023-07-27**|**Widespread Flaws in Offline Evaluation of Recommender Systems**|Balázs Hidasi et.al.|[2307.14951v1](http://arxiv.org/abs/2307.14951v1)|**[link](https://github.com/hidasib/recsys_eval_flaws)**|
 |**2023-07-27**|**Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions**|Timo Wilm et.al.|[2307.14906v1](http://arxiv.org/abs/2307.14906v1)|**[link](https://github.com/otto-de/tron)**|
 |**2023-07-27**|**How to Train Your YouTube Recommender**|Alexander Liu et.al.|[2307.14551v1](http://arxiv.org/abs/2307.14551v1)|null|
