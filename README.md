@@ -21,6 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Universal Recurrent Event Memories for Streaming Data**|Ran Dou et.al.|[2307.15694v1](http://arxiv.org/abs/2307.15694v1)|null|
+|**2023-07-28**|**BARTPhoBEiT: Pre-trained Sequence-to-Sequence and Image Transformers Models for Vietnamese Visual Question Answering**|Khiem Vinh Tran et.al.|[2307.15335v1](http://arxiv.org/abs/2307.15335v1)|null|
+|**2023-07-28**|**TrafficSafetyGPT: Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety**|Ou Zheng et.al.|[2307.15311v1](http://arxiv.org/abs/2307.15311v1)|null|
+|**2023-07-27**|**f-Divergence Minimization for Sequence-Level Knowledge Distillation**|Yuqiao Wen et.al.|[2307.15190v1](http://arxiv.org/abs/2307.15190v1)|**[link](https://github.com/manga-uofa/fdistill)**|
 |**2023-07-27**|**Text-guided Foundation Model Adaptation for Pathological Image Classification**|Yunkun Zhang et.al.|[2307.14901v1](http://arxiv.org/abs/2307.14901v1)|**[link](https://github.com/yunkun-zhang/cite)**|
 |**2023-07-27**|**Improving Natural Language Inference in Arabic using Transformer Models and Linguistically Informed Pre-Training**|Mohammad Majd Saad Al Deen et.al.|[2307.14666v1](http://arxiv.org/abs/2307.14666v1)|**[link](https://github.com/fraunhofer-iais/arabic_nlp)**|
 |**2023-07-27**|**Metric-Based In-context Learning: A Case Study in Text Simplification**|Subha Vadlamannati et.al.|[2307.14632v1](http://arxiv.org/abs/2307.14632v1)|**[link](https://github.com/nlp-ku/metric-based-in-context-learning)**|
@@ -1501,6 +1505,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**WC-SBERT: Zero-Shot Text Classification via SBERT with Self-Training for Wikipedia Categories**|Te-Yu Chi et.al.|[2307.15293v1](http://arxiv.org/abs/2307.15293v1)|null|
 |**2023-07-27**|**Gzip versus bag-of-words for text classification with KNN**|Juri Opitz et.al.|[2307.15002v1](http://arxiv.org/abs/2307.15002v1)|null|
 |**2023-07-27**|**ARC-NLP at PAN 2023: Transition-Focused Natural Language Inference for Writing Style Detection**|Izzet Emre Kucukkaya et.al.|[2307.14913v1](http://arxiv.org/abs/2307.14913v1)|null|
 |**2023-07-27**|**ARC-NLP at PAN 2023: Hierarchical Long Text Classification for Trigger Detection**|Umitcan Sahin et.al.|[2307.14912v1](http://arxiv.org/abs/2307.14912v1)|null|
@@ -2280,6 +2285,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Universal Recurrent Event Memories for Streaming Data**|Ran Dou et.al.|[2307.15694v1](http://arxiv.org/abs/2307.15694v1)|null|
+|**2023-07-28**|**BARTPhoBEiT: Pre-trained Sequence-to-Sequence and Image Transformers Models for Vietnamese Visual Question Answering**|Khiem Vinh Tran et.al.|[2307.15335v1](http://arxiv.org/abs/2307.15335v1)|null|
+|**2023-07-28**|**RSGPT: A Remote Sensing Vision Language Model and Benchmark**|Yuan Hu et.al.|[2307.15266v1](http://arxiv.org/abs/2307.15266v1)|null|
+|**2023-07-27**|**Med-Flamingo: a Multimodal Medical Few-shot Learner**|Michael Moor et.al.|[2307.15189v1](http://arxiv.org/abs/2307.15189v1)|**[link](https://github.com/snap-stanford/med-flamingo)**|
 |**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
 |**2023-07-26**|**LOIS: Looking Out of Instance Semantics for Visual Question Answering**|Siyu Zhang et.al.|[2307.14142v1](http://arxiv.org/abs/2307.14142v1)|null|
 |**2023-07-25**|**Contributions to the Improvement of Question Answering Systems in the Biomedical Domain**|Mourad Sarrouti et.al.|[2307.13631v1](http://arxiv.org/abs/2307.13631v1)|null|
@@ -3328,6 +3337,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Improving Social Media Popularity Prediction with Multiple Post Dependencies**|Zhizhen Zhang et.al.|[2307.15413v1](http://arxiv.org/abs/2307.15413v1)|null|
+|**2023-07-27**|**Reconciling the accuracy-diversity trade-off in recommendations**|Kenny Peng et.al.|[2307.15142v1](http://arxiv.org/abs/2307.15142v1)|null|
 |**2023-07-27**|**The Effect of Third Party Implementations on Reproducibility**|Balázs Hidasi et.al.|[2307.14956v1](http://arxiv.org/abs/2307.14956v1)|**[link](https://github.com/hidasib/gru4rec_pytorch_official)**|
 |**2023-07-27**|**Widespread Flaws in Offline Evaluation of Recommender Systems**|Balázs Hidasi et.al.|[2307.14951v1](http://arxiv.org/abs/2307.14951v1)|**[link](https://github.com/hidasib/recsys_eval_flaws)**|
 |**2023-07-27**|**Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions**|Timo Wilm et.al.|[2307.14906v1](http://arxiv.org/abs/2307.14906v1)|**[link](https://github.com/otto-de/tron)**|
@@ -3963,6 +3974,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Task-driven Semantic-aware Green Cooperative Transmission Strategy for Vehicular Networks**|Wanting Yang et.al.|[2307.15284v1](http://arxiv.org/abs/2307.15284v1)|null|
 |**2023-07-25**|**BIM-to-BRICK: Using graph modeling for IoT/BMS and spatial semantic data interoperability within digital data models of buildings**|Filippo Vittori et.al.|[2307.13197v1](http://arxiv.org/abs/2307.13197v1)|null|
 |**2023-07-24**|**Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**|Yixin Wang et.al.|[2307.12526v1](http://arxiv.org/abs/2307.12526v1)|**[link](https://github.com/wangyixinxin/mrg-kg)**|
 |**2023-07-22**|**Leveraging Knowledge Graphs for Zero-Shot Object-agnostic State Classification**|Filipos Gouidis et.al.|[2307.12179v1](http://arxiv.org/abs/2307.12179v1)|null|
@@ -4468,6 +4480,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Co-attention Graph Pooling for Efficient Pairwise Graph Interaction Learning**|Junhyun Lee et.al.|[2307.15377v1](http://arxiv.org/abs/2307.15377v1)|**[link](https://github.com/leejunhyun/coattentiongraphpooling)**|
+|**2023-07-28**|**A universal equivariant graph neural network for the elasticity tensors of any crystal system**|Mingjian Wen et.al.|[2307.15242v1](http://arxiv.org/abs/2307.15242v1)|null|
 |**2023-07-27**|**TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting**|Nancy Xu et.al.|[2307.14680v1](http://arxiv.org/abs/2307.14680v1)|null|
 |**2023-07-27**|**HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic Forecasting**|Zezhi Shao et.al.|[2307.14596v1](http://arxiv.org/abs/2307.14596v1)|null|
 |**2023-07-26**|**Improving Reliable Navigation under Uncertainty via Predictions Informed by Non-Local Information**|Raihan Islam Arnob et.al.|[2307.14501v1](http://arxiv.org/abs/2307.14501v1)|null|
