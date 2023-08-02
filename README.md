@@ -21,8 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Predicting masked tokens in stochastic locations improves masked image modeling**|Amir Bar et.al.|[2308.00566v1](http://arxiv.org/abs/2308.00566v1)|null|
+|**2023-08-01**|**Discourse-Aware Text Simplification: From Complex Sentences to Linked Propositions**|Christina Niklaus et.al.|[2308.00425v1](http://arxiv.org/abs/2308.00425v1)|null|
+|**2023-08-01**|**LimeAttack: Local Explainable Method for Textual Hard-Label Adversarial Attack**|Hai Zhu et.al.|[2308.00319v1](http://arxiv.org/abs/2308.00319v1)|null|
+|**2023-08-01**|**LGViT: Dynamic Early Exiting for Accelerating Vision Transformer**|Guanyu Xu et.al.|[2308.00255v1](http://arxiv.org/abs/2308.00255v1)|null|
+|**2023-07-31**|**Adversarially Robust Neural Legal Judgement Systems**|Rohit Raj et.al.|[2308.00165v1](http://arxiv.org/abs/2308.00165v1)|null|
 |**2023-07-31**|**Structural Transfer Learning in NL-to-Bash Semantic Parsers**|Kyle Duffy et.al.|[2307.16795v1](http://arxiv.org/abs/2307.16795v1)|null|
-|**2023-07-31**|**LLMs4OL: Large Language Models for Ontology Learning**|Hamed Babaei Giglou et.al.|[2307.16648v1](http://arxiv.org/abs/2307.16648v1)|null|
+|**2023-07-31**|**LLMs4OL: Large Language Models for Ontology Learning**|Hamed Babaei Giglou et.al.|[2307.16648v1](http://arxiv.org/abs/2307.16648v1)|**[link](https://github.com/hamedbabaei/llms4ol)**|
 |**2023-07-31**|**Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks**|Xinyu Zhang et.al.|[2307.16630v1](http://arxiv.org/abs/2307.16630v1)|null|
 |**2023-07-31**|**Toward Quantum Machine Translation of Syntactically Distinct Languages**|Mina Abbaszade et.al.|[2307.16576v1](http://arxiv.org/abs/2307.16576v1)|null|
 |**2023-07-31**|**AMOE: a Tool to Automatically Extract and Assess Organizational Evidence for Continuous Cloud Audit**|Franz Deimling et.al.|[2307.16541v1](http://arxiv.org/abs/2307.16541v1)|null|
@@ -1516,11 +1521,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Tackling Hallucinations in Neural Chart Summarization**|Saad Obaid ul Islam et.al.|[2308.00399v1](http://arxiv.org/abs/2308.00399v1)|**[link](https://github.com/worldhellow/hallucinations-c2t)**|
+|**2023-07-28**|**An Overview Of Temporal Commonsense Reasoning and Acquisition**|Georg Wenzel et.al.|[2308.00002v1](http://arxiv.org/abs/2308.00002v1)|null|
 |**2023-07-31**|**DoDo Learning: DOmain-DemOgraphic Transfer in Language Models for Detecting Abuse Targeted at Public Figures**|Hannah Rose Kirk et.al.|[2307.16811v1](http://arxiv.org/abs/2307.16811v1)|null|
 |**2023-07-31**|**Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks**|Xinyu Zhang et.al.|[2307.16630v1](http://arxiv.org/abs/2307.16630v1)|null|
 |**2023-07-30**|**Recent Advances in Hierarchical Multi-label Text Classification: A Survey**|Rundong Liu et.al.|[2307.16265v1](http://arxiv.org/abs/2307.16265v1)|null|
-|**2023-07-28**|**WC-SBERT: Zero-Shot Text Classification via SBERT with Self-Training for Wikipedia Categories**|Te-Yu Chi et.al.|[2307.15293v1](http://arxiv.org/abs/2307.15293v1)|null|
-|**2023-07-31**|**Gzip versus bag-of-words for text classification with KNN**|Juri Opitz et.al.|[2307.15002v2](http://arxiv.org/abs/2307.15002v2)|**[link](https://github.com/flipz357/npc_gzip_exp)**|
+|**2023-07-28**|**WC-SBERT: Zero-Shot Text Classification via SBERT with Self-Training for Wikipedia Categories**|Te-Yu Chi et.al.|[2307.15293v1](http://arxiv.org/abs/2307.15293v1)|**[link](https://github.com/seventychi/wc-sbert)**|
+|**2023-08-01**|**Gzip versus bag-of-words for text classification with KNN**|Juri Opitz et.al.|[2307.15002v3](http://arxiv.org/abs/2307.15002v3)|**[link](https://github.com/flipz357/npc_gzip_exp)**|
 |**2023-07-27**|**ARC-NLP at PAN 2023: Transition-Focused Natural Language Inference for Writing Style Detection**|Izzet Emre Kucukkaya et.al.|[2307.14913v1](http://arxiv.org/abs/2307.14913v1)|null|
 |**2023-07-27**|**ARC-NLP at PAN 2023: Hierarchical Long Text Classification for Trigger Detection**|Umitcan Sahin et.al.|[2307.14912v1](http://arxiv.org/abs/2307.14912v1)|null|
 |**2023-07-27**|**Retrieval-based Text Selection for Addressing Class-Imbalanced Data in Classification**|Sareh Ahmadi et.al.|[2307.14899v1](http://arxiv.org/abs/2307.14899v1)|null|
@@ -2300,10 +2307,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**|Ning Miao et.al.|[2308.00436v1](http://arxiv.org/abs/2308.00436v1)|**[link](https://github.com/ningmiao/selfcheck)**|
+|**2023-08-01**|**Making the V in Text-VQA Matter**|Shamanthak Hegde et.al.|[2308.00295v1](http://arxiv.org/abs/2308.00295v1)|null|
 |**2023-07-31**|**Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering**|Vaibhav Adlakha et.al.|[2307.16877v1](http://arxiv.org/abs/2307.16877v1)|null|
 |**2023-07-31**|**KoBBQ: Korean Bias Benchmark for Question Answering**|Jiho Jin et.al.|[2307.16778v1](http://arxiv.org/abs/2307.16778v1)|null|
 |**2023-07-31**|**AsdKB: A Chinese Knowledge Base for the Early Screening and Diagnosis of Autism Spectrum Disorder**|Tianxing Wu et.al.|[2307.16773v1](http://arxiv.org/abs/2307.16773v1)|null|
-|**2023-07-31**|**Large Language Models for Education: Grading Open-Ended Questions Using ChatGPT**|Gustavo Pinto et.al.|[2307.16696v1](http://arxiv.org/abs/2307.16696v1)|null|
+|**2023-08-01**|**Large Language Models for Education: Grading Open-Ended Questions Using ChatGPT**|Gustavo Pinto et.al.|[2307.16696v2](http://arxiv.org/abs/2307.16696v2)|null|
 |**2023-07-31**|**No that's not what I meant: Handling Third Position Repair in Conversational Question Answering**|Vevake Balaraman et.al.|[2307.16689v1](http://arxiv.org/abs/2307.16689v1)|null|
 |**2023-07-31**|**AMOE: a Tool to Automatically Extract and Assess Organizational Evidence for Continuous Cloud Audit**|Franz Deimling et.al.|[2307.16541v1](http://arxiv.org/abs/2307.16541v1)|null|
 |**2023-07-31**|**Olio: A Semantic Search Interface for Data Repositories**|Vidya Setlur et.al.|[2307.16396v1](http://arxiv.org/abs/2307.16396v1)|null|
@@ -3010,6 +3019,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**LGViT: Dynamic Early Exiting for Accelerating Vision Transformer**|Guanyu Xu et.al.|[2308.00255v1](http://arxiv.org/abs/2308.00255v1)|null|
 |**2023-07-31**|**Workshop on Document Intelligence Understanding**|Soyeon Caren Han et.al.|[2307.16369v1](http://arxiv.org/abs/2307.16369v1)|null|
 |**2023-07-30**|**A Knowledge-enhanced Two-stage Generative Framework for Medical Dialogue Information Extraction**|Zefa Hu et.al.|[2307.16200v1](http://arxiv.org/abs/2307.16200v1)|**[link](https://github.com/flyingcat-fa/ktgf)**|
 |**2023-07-29**|**EnrichEvent: Enriching Social Data with Contextual Information for Emerging Event Extraction**|Mohammadali Sefidi Esfahani et.al.|[2307.16082v1](http://arxiv.org/abs/2307.16082v1)|null|
@@ -3365,6 +3375,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis**|Vito Walter Anelli et.al.|[2308.00404v1](http://arxiv.org/abs/2308.00404v1)|**[link](https://github.com/sisinflab/graph-rss-reproducibility)**|
+|**2023-07-31**|**An Efficient Recommendation System in E-commerce using Passer learning optimization based on Bi-LSTM**|Hemn Barzan Abdalla et.al.|[2308.00137v1](http://arxiv.org/abs/2308.00137v1)|null|
 |**2023-07-31**|**Metric@CustomerN: Evaluating Metrics at a Customer Level in E-Commerce**|Mayank Singh et.al.|[2307.16832v1](http://arxiv.org/abs/2307.16832v1)|null|
 |**2023-07-31**|**The Decimation Scheme for Symmetric Matrix Factorization**|Francesco Camilli et.al.|[2307.16564v1](http://arxiv.org/abs/2307.16564v1)|null|
 |**2023-07-29**|**Recommendation Unlearning via Matrix Correction**|Jiahao Liu et.al.|[2307.15960v1](http://arxiv.org/abs/2307.15960v1)|null|
@@ -4007,10 +4019,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**A Modular Ontology for MODS -- Metadata Object Description Schema**|Rushrukh Rayan et.al.|[2308.00116v1](http://arxiv.org/abs/2308.00116v1)|null|
+|**2023-07-31**|**Towards Semantically Enriched Embeddings for Knowledge Graph Completion**|Mehwish Alam et.al.|[2308.00081v1](http://arxiv.org/abs/2308.00081v1)|null|
 |**2023-07-25**|**Word Sense Disambiguation as a Game of Neurosymbolic Darts**|Tiansi Dong et.al.|[2307.16663v1](http://arxiv.org/abs/2307.16663v1)|null|
 |**2023-07-31**|**The World Literature Knowledge Graph**|Marco Antonio Stranisci et.al.|[2307.16659v1](http://arxiv.org/abs/2307.16659v1)|null|
 |**2023-07-30**|**Question Answering with Deep Neural Networks for Semi-Structured Heterogeneous Genealogical Knowledge Graphs**|Omri Suissa et.al.|[2307.16214v1](http://arxiv.org/abs/2307.16214v1)|**[link](https://github.com/omrivm/uncle-bert)**|
-|**2023-07-30**|**Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment**|Zhuo Chen et.al.|[2307.16210v1](http://arxiv.org/abs/2307.16210v1)|**[link](https://github.com/zjukg/umaea)**|
+|**2023-08-01**|**Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment**|Zhuo Chen et.al.|[2307.16210v2](http://arxiv.org/abs/2307.16210v2)|null|
 |**2023-07-30**|**Around the GLOBE: Numerical Aggregation Question-Answering on Heterogeneous Genealogical Knowledge Graphs with Deep Neural Networks**|Omri Suissa et.al.|[2307.16208v1](http://arxiv.org/abs/2307.16208v1)|null|
 |**2023-07-30**|**Synthesizing Event-centric Knowledge Graphs of Daily Activities Using Virtual Space**|Shusaku Egami et.al.|[2307.16206v1](http://arxiv.org/abs/2307.16206v1)|**[link](https://github.com/aistairc/virtualhome2kg)**|
 |**2023-07-28**|**Dialogue Shaping: Empowering Agents through NPC Interaction**|Wei Zhou et.al.|[2307.15833v1](http://arxiv.org/abs/2307.15833v1)|null|
@@ -4521,6 +4535,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems**|Yubin Xiao et.al.|[2308.00560v1](http://arxiv.org/abs/2308.00560v1)|null|
+|**2023-08-01**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535v1](http://arxiv.org/abs/2308.00535v1)|null|
+|**2023-08-01**|**Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis**|Vito Walter Anelli et.al.|[2308.00404v1](http://arxiv.org/abs/2308.00404v1)|**[link](https://github.com/sisinflab/graph-rss-reproducibility)**|
 |**2023-07-31**|**TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification**|Haozhen Zhang et.al.|[2307.16713v1](http://arxiv.org/abs/2307.16713v1)|null|
 |**2023-07-31**|**Graph Structure from Point Clouds: Geometric Attention is All You Need**|Daniel Murnane et.al.|[2307.16662v1](http://arxiv.org/abs/2307.16662v1)|**[link](https://github.com/murnanedaniel/geometricattention)**|
 |**2023-07-31**|**MRA-GNN: Minutiae Relation-Aware Model over Graph Neural Network for Fingerprint Embedding**|Yapeng Su et.al.|[2307.16416v1](http://arxiv.org/abs/2307.16416v1)|null|
