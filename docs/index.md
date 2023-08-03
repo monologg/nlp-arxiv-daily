@@ -25,13 +25,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**ADS-Cap: A Framework for Accurate and Diverse Stylized Captioning with Unpaired Stylistic Corpora**|Kanzhi Cheng et.al.|[2308.01143v1](http://arxiv.org/abs/2308.01143v1)|**[link](https://github.com/njucckevin/ads-cap)**|
+|**2023-08-02**|**Feature-aware conditional GAN for category text generation**|Xinze Li et.al.|[2308.00939v1](http://arxiv.org/abs/2308.00939v1)|null|
 |**2023-07-31**|**Predicting masked tokens in stochastic locations improves masked image modeling**|Amir Bar et.al.|[2308.00566v1](http://arxiv.org/abs/2308.00566v1)|null|
 |**2023-08-01**|**Discourse-Aware Text Simplification: From Complex Sentences to Linked Propositions**|Christina Niklaus et.al.|[2308.00425v1](http://arxiv.org/abs/2308.00425v1)|null|
 |**2023-08-01**|**LimeAttack: Local Explainable Method for Textual Hard-Label Adversarial Attack**|Hai Zhu et.al.|[2308.00319v1](http://arxiv.org/abs/2308.00319v1)|null|
 |**2023-08-01**|**LGViT: Dynamic Early Exiting for Accelerating Vision Transformer**|Guanyu Xu et.al.|[2308.00255v1](http://arxiv.org/abs/2308.00255v1)|null|
 |**2023-07-31**|**Adversarially Robust Neural Legal Judgement Systems**|Rohit Raj et.al.|[2308.00165v1](http://arxiv.org/abs/2308.00165v1)|null|
 |**2023-07-31**|**Structural Transfer Learning in NL-to-Bash Semantic Parsers**|Kyle Duffy et.al.|[2307.16795v1](http://arxiv.org/abs/2307.16795v1)|null|
-|**2023-07-31**|**LLMs4OL: Large Language Models for Ontology Learning**|Hamed Babaei Giglou et.al.|[2307.16648v1](http://arxiv.org/abs/2307.16648v1)|**[link](https://github.com/hamedbabaei/llms4ol)**|
+|**2023-08-02**|**LLMs4OL: Large Language Models for Ontology Learning**|Hamed Babaei Giglou et.al.|[2307.16648v2](http://arxiv.org/abs/2307.16648v2)|**[link](https://github.com/hamedbabaei/llms4ol)**|
 |**2023-07-31**|**Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks**|Xinyu Zhang et.al.|[2307.16630v1](http://arxiv.org/abs/2307.16630v1)|null|
 |**2023-07-31**|**Toward Quantum Machine Translation of Syntactically Distinct Languages**|Mina Abbaszade et.al.|[2307.16576v1](http://arxiv.org/abs/2307.16576v1)|null|
 |**2023-07-31**|**AMOE: a Tool to Automatically Extract and Assess Organizational Evidence for Continuous Cloud Audit**|Franz Deimling et.al.|[2307.16541v1](http://arxiv.org/abs/2307.16541v1)|null|
@@ -1525,6 +1527,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**Global Hierarchical Neural Networks using Hierarchical Softmax**|Jetze Schuurmans et.al.|[2308.01210v1](http://arxiv.org/abs/2308.01210v1)|null|
+|**2023-08-02**|**Feature-aware conditional GAN for category text generation**|Xinze Li et.al.|[2308.00939v1](http://arxiv.org/abs/2308.00939v1)|null|
 |**2023-08-01**|**Tackling Hallucinations in Neural Chart Summarization**|Saad Obaid ul Islam et.al.|[2308.00399v1](http://arxiv.org/abs/2308.00399v1)|**[link](https://github.com/worldhellow/hallucinations-c2t)**|
 |**2023-07-28**|**An Overview Of Temporal Commonsense Reasoning and Acquisition**|Georg Wenzel et.al.|[2308.00002v1](http://arxiv.org/abs/2308.00002v1)|null|
 |**2023-07-31**|**DoDo Learning: DOmain-DemOgraphic Transfer in Language Models for Detecting Abuse Targeted at Public Figures**|Hannah Rose Kirk et.al.|[2307.16811v1](http://arxiv.org/abs/2307.16811v1)|null|
@@ -2311,11 +2315,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-01**|**SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**|Ning Miao et.al.|[2308.00436v1](http://arxiv.org/abs/2308.00436v1)|**[link](https://github.com/ningmiao/selfcheck)**|
+|**2023-08-02**|**ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders**|Shawn Xu et.al.|[2308.01317v1](http://arxiv.org/abs/2308.01317v1)|null|
+|**2023-08-02**|**Teaching Smaller Language Models To Generalise To Unseen Compositional Questions**|Tim Hartill et.al.|[2308.00946v1](http://arxiv.org/abs/2308.00946v1)|null|
+|**2023-08-01**|**Designing a Communication Bridge between Communities: Participatory Design for a Question-Answering AI Agent**|Jeonghyun Lee et.al.|[2308.00813v1](http://arxiv.org/abs/2308.00813v1)|null|
+|**2023-08-02**|**SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**|Ning Miao et.al.|[2308.00436v2](http://arxiv.org/abs/2308.00436v2)|**[link](https://github.com/ningmiao/selfcheck)**|
 |**2023-08-01**|**Making the V in Text-VQA Matter**|Shamanthak Hegde et.al.|[2308.00295v1](http://arxiv.org/abs/2308.00295v1)|null|
 |**2023-07-31**|**Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering**|Vaibhav Adlakha et.al.|[2307.16877v1](http://arxiv.org/abs/2307.16877v1)|**[link](https://github.com/mcgill-nlp/instruct-qa)**|
 |**2023-07-31**|**KoBBQ: Korean Bias Benchmark for Question Answering**|Jiho Jin et.al.|[2307.16778v1](http://arxiv.org/abs/2307.16778v1)|null|
-|**2023-07-31**|**AsdKB: A Chinese Knowledge Base for the Early Screening and Diagnosis of Autism Spectrum Disorder**|Tianxing Wu et.al.|[2307.16773v1](http://arxiv.org/abs/2307.16773v1)|null|
+|**2023-08-02**|**AsdKB: A Chinese Knowledge Base for the Early Screening and Diagnosis of Autism Spectrum Disorder**|Tianxing Wu et.al.|[2307.16773v2](http://arxiv.org/abs/2307.16773v2)|null|
 |**2023-08-01**|**Large Language Models for Education: Grading Open-Ended Questions Using ChatGPT**|Gustavo Pinto et.al.|[2307.16696v2](http://arxiv.org/abs/2307.16696v2)|null|
 |**2023-07-31**|**No that's not what I meant: Handling Third Position Repair in Conversational Question Answering**|Vevake Balaraman et.al.|[2307.16689v1](http://arxiv.org/abs/2307.16689v1)|null|
 |**2023-07-31**|**AMOE: a Tool to Automatically Extract and Assess Organizational Evidence for Continuous Cloud Audit**|Franz Deimling et.al.|[2307.16541v1](http://arxiv.org/abs/2307.16541v1)|null|
@@ -3379,8 +3386,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Adaptive Collaborative Filtering with Personalized Time Decay Functions for Financial Product Recommendation**|Ashraf Ghiye et.al.|[2308.01208v1](http://arxiv.org/abs/2308.01208v1)|null|
+|**2023-08-02**|**A Survey on Popularity Bias in Recommender Systems**|Anastasiia Klimashevskaia et.al.|[2308.01118v1](http://arxiv.org/abs/2308.01118v1)|null|
+|**2023-08-02**|**User-Controllable Recommendation via Counterfactual Retrospective and Prospective Explanations**|Juntao Tan et.al.|[2308.00894v1](http://arxiv.org/abs/2308.00894v1)|**[link](https://github.com/chrisjtan/ucr)**|
 |**2023-08-01**|**Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis**|Vito Walter Anelli et.al.|[2308.00404v1](http://arxiv.org/abs/2308.00404v1)|**[link](https://github.com/sisinflab/graph-rss-reproducibility)**|
-|**2023-07-31**|**An Efficient Recommendation System in E-commerce using Passer learning optimization based on Bi-LSTM**|Hemn Barzan Abdalla et.al.|[2308.00137v1](http://arxiv.org/abs/2308.00137v1)|null|
+|**2023-08-02**|**An Efficient Recommendation System in E-commerce using Passer learning optimization based on Bi-LSTM**|Hemn Barzan Abdalla et.al.|[2308.00137v2](http://arxiv.org/abs/2308.00137v2)|null|
 |**2023-07-31**|**Metric@CustomerN: Evaluating Metrics at a Customer Level in E-Commerce**|Mayank Singh et.al.|[2307.16832v1](http://arxiv.org/abs/2307.16832v1)|null|
 |**2023-07-31**|**The Decimation Scheme for Symmetric Matrix Factorization**|Francesco Camilli et.al.|[2307.16564v1](http://arxiv.org/abs/2307.16564v1)|null|
 |**2023-07-29**|**Recommendation Unlearning via Matrix Correction**|Jiahao Liu et.al.|[2307.15960v1](http://arxiv.org/abs/2307.15960v1)|null|
@@ -4023,8 +4033,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**Literal-Aware Knowledge Graph Embedding for Welding Quality Monitoring: A Bosch Case**|Zhipeng Tan et.al.|[2308.01105v1](http://arxiv.org/abs/2308.01105v1)|null|
 |**2023-07-31**|**A Modular Ontology for MODS -- Metadata Object Description Schema**|Rushrukh Rayan et.al.|[2308.00116v1](http://arxiv.org/abs/2308.00116v1)|null|
-|**2023-07-31**|**Towards Semantically Enriched Embeddings for Knowledge Graph Completion**|Mehwish Alam et.al.|[2308.00081v1](http://arxiv.org/abs/2308.00081v1)|null|
+|**2023-08-02**|**Towards Semantically Enriched Embeddings for Knowledge Graph Completion**|Mehwish Alam et.al.|[2308.00081v2](http://arxiv.org/abs/2308.00081v2)|null|
 |**2023-07-25**|**Word Sense Disambiguation as a Game of Neurosymbolic Darts**|Tiansi Dong et.al.|[2307.16663v1](http://arxiv.org/abs/2307.16663v1)|null|
 |**2023-07-31**|**The World Literature Knowledge Graph**|Marco Antonio Stranisci et.al.|[2307.16659v1](http://arxiv.org/abs/2307.16659v1)|null|
 |**2023-07-30**|**Question Answering with Deep Neural Networks for Semi-Structured Heterogeneous Genealogical Knowledge Graphs**|Omri Suissa et.al.|[2307.16214v1](http://arxiv.org/abs/2307.16214v1)|**[link](https://github.com/omrivm/uncle-bert)**|
@@ -4539,6 +4550,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
+|**2023-08-02**|**Tango: rethinking quantization for graph neural network training on GPUs**|Shiyang Chen et.al.|[2308.00890v1](http://arxiv.org/abs/2308.00890v1)|null|
+|**2023-08-02**|**Factor Graph Neural Networks**|Zhen Zhang et.al.|[2308.00887v1](http://arxiv.org/abs/2308.00887v1)|null|
 |**2023-08-01**|**Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems**|Yubin Xiao et.al.|[2308.00560v1](http://arxiv.org/abs/2308.00560v1)|null|
 |**2023-08-01**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535v1](http://arxiv.org/abs/2308.00535v1)|null|
 |**2023-08-01**|**Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis**|Vito Walter Anelli et.al.|[2308.00404v1](http://arxiv.org/abs/2308.00404v1)|**[link](https://github.com/sisinflab/graph-rss-reproducibility)**|
