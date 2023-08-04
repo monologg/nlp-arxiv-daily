@@ -21,6 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Tag Prediction of Competitive Programming Problems using Deep Learning Techniques**|Taha Lokat et.al.|[2308.01863v1](http://arxiv.org/abs/2308.01863v1)|null|
+|**2023-08-03**|**XNLP: An Interactive Demonstration System for Universal Structured NLP**|Hao Fei et.al.|[2308.01846v1](http://arxiv.org/abs/2308.01846v1)|null|
+|**2023-08-03**|**Lexicon and Rule-based Word Lemmatization Approach for the Somali Language**|Shafie Abdi Mohamed et.al.|[2308.01785v1](http://arxiv.org/abs/2308.01785v1)|null|
+|**2023-08-03**|**Does Correction Remain An Problem For Large Language Models?**|Xiaowu Zhang et.al.|[2308.01776v1](http://arxiv.org/abs/2308.01776v1)|null|
+|**2023-08-03**|**NBIAS: A Natural Language Processing Framework for Bias Identification in Text**|Shaina Razaa et.al.|[2308.01681v1](http://arxiv.org/abs/2308.01681v1)|null|
+|**2023-08-03**|**Holy Grail 2.0: From Natural Language to Constraint Models**|Dimos Tsouros et.al.|[2308.01589v1](http://arxiv.org/abs/2308.01589v1)|null|
+|**2023-08-03**|**Large Language Model Displays Emergent Ability to Interpret Novel Literary Metaphors**|Nicholas Ichien et.al.|[2308.01497v1](http://arxiv.org/abs/2308.01497v1)|null|
+|**2023-08-02**|**Manual Tests Do Smell! Cataloging and Identifying Natural Language Test Smells**|Elvys Soares et.al.|[2308.01386v1](http://arxiv.org/abs/2308.01386v1)|null|
+|**2023-08-02**|**Careful Whisper -- leveraging advances in automatic speech recognition for robust and interpretable aphasia subtype classification**|Laurin Wagner et.al.|[2308.01327v1](http://arxiv.org/abs/2308.01327v1)|null|
 |**2023-08-02**|**ADS-Cap: A Framework for Accurate and Diverse Stylized Captioning with Unpaired Stylistic Corpora**|Kanzhi Cheng et.al.|[2308.01143v1](http://arxiv.org/abs/2308.01143v1)|**[link](https://github.com/njucckevin/ads-cap)**|
 |**2023-08-02**|**Feature-aware conditional GAN for category text generation**|Xinze Li et.al.|[2308.00939v1](http://arxiv.org/abs/2308.00939v1)|null|
 |**2023-07-31**|**Predicting masked tokens in stochastic locations improves masked image modeling**|Amir Bar et.al.|[2308.00566v1](http://arxiv.org/abs/2308.00566v1)|null|
@@ -1065,6 +1074,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**UPB at IberLEF-2023 AuTexTification: Detection of Machine-Generated Text using Transformer Ensembles**|Andrei-Alexandru Preda et.al.|[2308.01408v1](http://arxiv.org/abs/2308.01408v1)|null|
 |**2023-07-26**|**Towards Establishing Systematic Classification Requirements for Automated Driving**|Ken T. Mori et.al.|[2307.14058v1](http://arxiv.org/abs/2307.14058v1)|null|
 |**2023-07-16**|**It's All Relative: Interpretable Models for Scoring Bias in Documents**|Aswin Suresh et.al.|[2307.08139v1](http://arxiv.org/abs/2307.08139v1)|null|
 |**2023-06-29**|**Towards Grammatical Tagging for the Legal Language of Cybersecurity**|Gianpietro Castiglione et.al.|[2306.17042v1](http://arxiv.org/abs/2306.17042v1)|null|
@@ -1235,6 +1245,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Athena 2.0: Discourse and User Modeling in Open Domain Dialogue**|Omkar Patil et.al.|[2308.01887v1](http://arxiv.org/abs/2308.01887v1)|null|
 |**2023-07-28**|**Resume Evaluation through Latent Dirichlet Allocation and Natural Language Processing for Effective Candidate Selection**|Vidhita Jagwani et.al.|[2307.15752v1](http://arxiv.org/abs/2307.15752v1)|null|
 |**2023-07-27**|**Improving Natural Language Inference in Arabic using Transformer Models and Linguistically Informed Pre-Training**|Mohammad Majd Saad Al Deen et.al.|[2307.14666v1](http://arxiv.org/abs/2307.14666v1)|**[link](https://github.com/fraunhofer-iais/arabic_nlp)**|
 |**2023-07-25**|**Zshot: An Open-source Framework for Zero-Shot Named Entity Recognition and Relation Extraction**|Gabriele Picco et.al.|[2307.13497v1](http://arxiv.org/abs/2307.13497v1)|null|
@@ -1523,11 +1534,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Tag Prediction of Competitive Programming Problems using Deep Learning Techniques**|Taha Lokat et.al.|[2308.01863v1](http://arxiv.org/abs/2308.01863v1)|null|
+|**2023-08-03**|**Supply chain emission estimation using large language models**|Ayush Jain et.al.|[2308.01741v1](http://arxiv.org/abs/2308.01741v1)|null|
+|**2023-07-30**|**LaFiCMIL: Rethinking Large File Classification from the Perspective of Correlated Multiple Instance Learning**|Tiezhu Sun et.al.|[2308.01413v1](http://arxiv.org/abs/2308.01413v1)|null|
 |**2023-08-02**|**Global Hierarchical Neural Networks using Hierarchical Softmax**|Jetze Schuurmans et.al.|[2308.01210v1](http://arxiv.org/abs/2308.01210v1)|null|
 |**2023-08-02**|**Feature-aware conditional GAN for category text generation**|Xinze Li et.al.|[2308.00939v1](http://arxiv.org/abs/2308.00939v1)|null|
 |**2023-08-01**|**Tackling Hallucinations in Neural Chart Summarization**|Saad Obaid ul Islam et.al.|[2308.00399v1](http://arxiv.org/abs/2308.00399v1)|**[link](https://github.com/worldhellow/hallucinations-c2t)**|
 |**2023-07-28**|**An Overview Of Temporal Commonsense Reasoning and Acquisition**|Georg Wenzel et.al.|[2308.00002v1](http://arxiv.org/abs/2308.00002v1)|null|
-|**2023-07-31**|**DoDo Learning: DOmain-DemOgraphic Transfer in Language Models for Detecting Abuse Targeted at Public Figures**|Hannah Rose Kirk et.al.|[2307.16811v1](http://arxiv.org/abs/2307.16811v1)|null|
+|**2023-07-31**|**DoDo Learning: DOmain-DemOgraphic Transfer in Language Models for Detecting Abuse Targeted at Public Figures**|Hannah Rose Kirk et.al.|[2307.16811v1](http://arxiv.org/abs/2307.16811v1)|**[link](https://github.com/turing-online-safety-codebase/dodo-learning)**|
 |**2023-07-31**|**Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks**|Xinyu Zhang et.al.|[2307.16630v1](http://arxiv.org/abs/2307.16630v1)|null|
 |**2023-07-30**|**Recent Advances in Hierarchical Multi-label Text Classification: A Survey**|Rundong Liu et.al.|[2307.16265v1](http://arxiv.org/abs/2307.16265v1)|null|
 |**2023-07-28**|**WC-SBERT: Zero-Shot Text Classification via SBERT with Self-Training for Wikipedia Categories**|Te-Yu Chi et.al.|[2307.15293v1](http://arxiv.org/abs/2307.15293v1)|**[link](https://github.com/seventychi/wc-sbert)**|
@@ -2311,6 +2325,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World**|Weiyun Wang et.al.|[2308.01907v1](http://arxiv.org/abs/2308.01907v1)|**[link](https://github.com/opengvlab/all-seeing)**|
+|**2023-08-03**|**Baby's CoThought: Leveraging Large Language Models for Enhanced Reasoning in Compact Models**|Zheyu Zhang et.al.|[2308.01684v1](http://arxiv.org/abs/2308.01684v1)|**[link](https://github.com/oooranz/baby-cothought)**|
 |**2023-08-02**|**ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders**|Shawn Xu et.al.|[2308.01317v1](http://arxiv.org/abs/2308.01317v1)|null|
 |**2023-08-02**|**Teaching Smaller Language Models To Generalise To Unseen Compositional Questions**|Tim Hartill et.al.|[2308.00946v1](http://arxiv.org/abs/2308.00946v1)|null|
 |**2023-08-01**|**Designing a Communication Bridge between Communities: Participatory Design for a Question-Answering AI Agent**|Jeonghyun Lee et.al.|[2308.00813v1](http://arxiv.org/abs/2308.00813v1)|null|
@@ -3382,6 +3398,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**DaphneSched: A Scheduler for Integrated Data Analysis Pipelines**|Ahmed Eleliemy et.al.|[2308.01607v1](http://arxiv.org/abs/2308.01607v1)|null|
+|**2023-08-03**|**Fast Slate Policy Optimization: Going Beyond Plackett-Luce**|Otmane Sakhi et.al.|[2308.01566v1](http://arxiv.org/abs/2308.01566v1)|null|
+|**2023-08-03**|**Density Weighting for Multi-Interest Personalized Recommendation**|Nikhil Mehta et.al.|[2308.01563v1](http://arxiv.org/abs/2308.01563v1)|null|
 |**2023-08-01**|**Adaptive Collaborative Filtering with Personalized Time Decay Functions for Financial Product Recommendation**|Ashraf Ghiye et.al.|[2308.01208v1](http://arxiv.org/abs/2308.01208v1)|null|
 |**2023-08-02**|**A Survey on Popularity Bias in Recommender Systems**|Anastasiia Klimashevskaia et.al.|[2308.01118v1](http://arxiv.org/abs/2308.01118v1)|null|
 |**2023-08-02**|**User-Controllable Recommendation via Counterfactual Retrospective and Prospective Explanations**|Juntao Tan et.al.|[2308.00894v1](http://arxiv.org/abs/2308.00894v1)|**[link](https://github.com/chrisjtan/ucr)**|
@@ -4029,6 +4048,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Towards Self-organizing Personal Knowledge Assistants in Evolving Corporate Memories**|Christian Jilek et.al.|[2308.01732v1](http://arxiv.org/abs/2308.01732v1)|null|
+|**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626v1](http://arxiv.org/abs/2308.01626v1)|null|
 |**2023-08-02**|**Literal-Aware Knowledge Graph Embedding for Welding Quality Monitoring: A Bosch Case**|Zhipeng Tan et.al.|[2308.01105v1](http://arxiv.org/abs/2308.01105v1)|null|
 |**2023-07-31**|**A Modular Ontology for MODS -- Metadata Object Description Schema**|Rushrukh Rayan et.al.|[2308.00116v1](http://arxiv.org/abs/2308.00116v1)|null|
 |**2023-08-02**|**Towards Semantically Enriched Embeddings for Knowledge Graph Completion**|Mehwish Alam et.al.|[2308.00081v2](http://arxiv.org/abs/2308.00081v2)|null|
@@ -4546,6 +4567,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682v1](http://arxiv.org/abs/2308.01682v1)|null|
+|**2023-08-03**|**UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification**|Minhao Zou et.al.|[2308.01650v1](http://arxiv.org/abs/2308.01650v1)|**[link](https://github.com/minhzou/unig-encoder)**|
+|**2023-08-03**|**Deep Learning-based surrogate models for parametrized PDEs: handling geometric variability through graph neural networks**|Nicola Rares Franco et.al.|[2308.01602v1](http://arxiv.org/abs/2308.01602v1)|null|
+|**2023-08-02**|**VertexSerum: Poisoning Graph Neural Networks for Link Inference**|Ruyi Ding et.al.|[2308.01469v1](http://arxiv.org/abs/2308.01469v1)|null|
+|**2023-08-01**|**Graph Neural Networks for Forecasting Multivariate Realized Volatility with Spillover Effects**|Chao Zhang et.al.|[2308.01419v1](http://arxiv.org/abs/2308.01419v1)|null|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
 |**2023-08-02**|**Tango: rethinking quantization for graph neural network training on GPUs**|Shiyang Chen et.al.|[2308.00890v1](http://arxiv.org/abs/2308.00890v1)|null|
 |**2023-08-02**|**Factor Graph Neural Networks**|Zhen Zhang et.al.|[2308.00887v1](http://arxiv.org/abs/2308.00887v1)|null|
