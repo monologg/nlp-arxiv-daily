@@ -32,7 +32,7 @@ layout: default
 |**2023-08-03**|**NBIAS: A Natural Language Processing Framework for Bias Identification in Text**|Shaina Razaa et.al.|[2308.01681v1](http://arxiv.org/abs/2308.01681v1)|null|
 |**2023-08-03**|**Holy Grail 2.0: From Natural Language to Constraint Models**|Dimos Tsouros et.al.|[2308.01589v1](http://arxiv.org/abs/2308.01589v1)|null|
 |**2023-08-03**|**Large Language Model Displays Emergent Ability to Interpret Novel Literary Metaphors**|Nicholas Ichien et.al.|[2308.01497v1](http://arxiv.org/abs/2308.01497v1)|null|
-|**2023-08-02**|**Manual Tests Do Smell! Cataloging and Identifying Natural Language Test Smells**|Elvys Soares et.al.|[2308.01386v1](http://arxiv.org/abs/2308.01386v1)|null|
+|**2023-08-02**|**Manual Tests Do Smell! Cataloging and Identifying Natural Language Test Smells**|Elvys Soares et.al.|[2308.01386v1](http://arxiv.org/abs/2308.01386v1)|**[link](https://github.com/easy-software-ufal/manual-test-sensei)**|
 |**2023-08-02**|**Careful Whisper -- leveraging advances in automatic speech recognition for robust and interpretable aphasia subtype classification**|Laurin Wagner et.al.|[2308.01327v1](http://arxiv.org/abs/2308.01327v1)|null|
 |**2023-08-02**|**ADS-Cap: A Framework for Accurate and Diverse Stylized Captioning with Unpaired Stylistic Corpora**|Kanzhi Cheng et.al.|[2308.01143v1](http://arxiv.org/abs/2308.01143v1)|**[link](https://github.com/njucckevin/ads-cap)**|
 |**2023-08-02**|**Feature-aware conditional GAN for category text generation**|Xinze Li et.al.|[2308.00939v1](http://arxiv.org/abs/2308.00939v1)|null|
