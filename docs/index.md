@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Unmasking Nationality Bias: A Study of Human Perception of Nationalities in AI-Generated Articles**|Pranav Narayanan Venkit et.al.|[2308.04346v1](http://arxiv.org/abs/2308.04346v1)|null|
+|**2023-08-08**|**Deep Learning-Based Knowledge Injection for Metaphor Detection: A Comprehensive Review**|Cheng Yang et.al.|[2308.04306v1](http://arxiv.org/abs/2308.04306v1)|null|
+|**2023-08-08**|**CLASSLA-Stanza: The Next Step for Linguistic Processing of South Slavic Languages**|Luka Terčon et.al.|[2308.04255v1](http://arxiv.org/abs/2308.04255v1)|null|
+|**2023-08-08**|**Assistive Chatbots for healthcare: a succinct review**|Basabdatta Sen Bhattacharya et.al.|[2308.04178v1](http://arxiv.org/abs/2308.04178v1)|null|
+|**2023-08-08**|**I-WAS: a Data Augmentation Method with GPT-2 for Simile Detection**|Yongzhu Chang et.al.|[2308.04109v1](http://arxiv.org/abs/2308.04109v1)|null|
+|**2023-08-08**|**Portrayal: Leveraging NLP and Visualization for Analyzing Fictional Characters**|Md Naimul Hoque et.al.|[2308.04056v1](http://arxiv.org/abs/2308.04056v1)|null|
+|**2023-08-08**|**A Comparative Study on TF-IDF feature Weighting Method and its Analysis using Unstructured Dataset**|Mamata Das et.al.|[2308.04037v1](http://arxiv.org/abs/2308.04037v1)|null|
+|**2023-08-08**|**AI Chatbots as Multi-Role Pedagogical Agents: Transforming Engagement in CS Education**|Cassie Chen Cao et.al.|[2308.03992v1](http://arxiv.org/abs/2308.03992v1)|null|
+|**2023-08-07**|**Extracting detailed oncologic history and treatment plan from medical oncology notes with large language models**|Madhumita Sushil et.al.|[2308.03853v1](http://arxiv.org/abs/2308.03853v1)|**[link](https://github.com/madhumitasushil/oncllmextraction)**|
+|**2023-08-07**|**"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models**|Xinyue Shen et.al.|[2308.03825v1](http://arxiv.org/abs/2308.03825v1)|null|
 |**2023-08-07**|**RCMHA: Relative Convolutional Multi-Head Attention for Natural Language Modelling**|Herman Sugiharto et.al.|[2308.03429v1](http://arxiv.org/abs/2308.03429v1)|null|
 |**2023-08-07**|**TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents**|Jingqing Ruan et.al.|[2308.03427v1](http://arxiv.org/abs/2308.03427v1)|null|
 |**2023-08-07**|**Symmetry-Preserving Program Representations for Learning Code Semantics**|Kexin Pei et.al.|[2308.03312v1](http://arxiv.org/abs/2308.03312v1)|null|
@@ -1557,6 +1567,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**A Comparative Study on TF-IDF feature Weighting Method and its Analysis using Unstructured Dataset**|Mamata Das et.al.|[2308.04037v1](http://arxiv.org/abs/2308.04037v1)|null|
+|**2023-08-05**|**Textual Data Mining for Financial Fraud Detection: A Deep Learning Approach**|Qiuru Li et.al.|[2308.03800v1](http://arxiv.org/abs/2308.03800v1)|null|
 |**2023-08-07**|**Towards Controllable Natural Language Inference through Lexical Inference Types**|Yingji Zhang et.al.|[2308.03581v1](http://arxiv.org/abs/2308.03581v1)|null|
 |**2023-08-07**|**Mondrian: Prompt Abstraction Attack Against Large Language Models for Cheaper API Pricing**|Wai Man Si et.al.|[2308.03558v1](http://arxiv.org/abs/2308.03558v1)|null|
 |**2023-08-06**|**Improving Domain-Specific Retrieval by NLI Fine-Tuning**|Roman Dušek et.al.|[2308.03103v1](http://arxiv.org/abs/2308.03103v1)|null|
@@ -2029,6 +2041,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Social Media, Topic Modeling and Sentiment Analysis in Municipal Decision Support**|Miloš Švaňa et.al.|[2308.04124v1](http://arxiv.org/abs/2308.04124v1)|null|
+|**2023-08-08**|**A Comparative Study on TF-IDF feature Weighting Method and its Analysis using Unstructured Dataset**|Mamata Das et.al.|[2308.04037v1](http://arxiv.org/abs/2308.04037v1)|null|
+|**2023-08-08**|**AI Chatbots as Multi-Role Pedagogical Agents: Transforming Engagement in CS Education**|Cassie Chen Cao et.al.|[2308.03992v1](http://arxiv.org/abs/2308.03992v1)|null|
 |**2023-08-07**|**Analysis of the Evolution of Advanced Transformer-Based Language Models: Experiments on Opinion Mining**|Nour Eddine Zekaoui et.al.|[2308.03235v1](http://arxiv.org/abs/2308.03235v1)|**[link](https://github.com/zekaouinoureddine/Opinion-Transformers)**|
 |**2023-08-01**|**Aspect based sentimental analysis for travellers' reviews**|Mohammed Saad M Alaydaa et.al.|[2308.02548v1](http://arxiv.org/abs/2308.02548v1)|null|
 |**2023-08-04**|**Chinese Financial Text Emotion Mining: GCGTS -- A Character Relationship-based Approach for Simultaneous Aspect-Opinion Pair Extraction**|Qi Chen et.al.|[2308.02113v1](http://arxiv.org/abs/2308.02113v1)|null|
@@ -2360,7 +2375,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-07**|**KITLM: Domain-Specific Knowledge InTegration into Language Models for Question Answering**|Ankush Agarwal et.al.|[2308.03638v1](http://arxiv.org/abs/2308.03638v1)|null|
+|**2023-08-08**|**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**|Ziyu Zhu et.al.|[2308.04352v1](http://arxiv.org/abs/2308.04352v1)|null|
+|**2023-08-08**|**Towards an AI to Win Ghana's National Science and Maths Quiz**|George Boateng et.al.|[2308.04333v1](http://arxiv.org/abs/2308.04333v1)|**[link](https://github.com/nsmq-ai/nsmqai)**|
+|**2023-08-08**|**On Monotonic Aggregation for Open-domain QA**|Sang-eun Han et.al.|[2308.04176v1](http://arxiv.org/abs/2308.04176v1)|**[link](https://github.com/yeonseokjeong/judge-specialist)**|
+|**2023-08-08**|**OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation**|Dongyang Yu et.al.|[2308.04126v1](http://arxiv.org/abs/2308.04126v1)|null|
+|**2023-08-08**|**Top K Relevant Passage Retrieval for Biomedical Question Answering**|Shashank Gupta et.al.|[2308.04028v1](http://arxiv.org/abs/2308.04028v1)|null|
+|**2023-08-07**|**TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models**|Indranil Sur et.al.|[2308.03906v1](http://arxiv.org/abs/2308.03906v1)|null|
+|**2023-08-07**|**Trusting Language Models in Education**|Jogi Suda Neto et.al.|[2308.03866v1](http://arxiv.org/abs/2308.03866v1)|null|
+|**2023-08-07**|**KITLM: Domain-Specific Knowledge InTegration into Language Models for Question Answering**|Ankush Agarwal et.al.|[2308.03638v1](http://arxiv.org/abs/2308.03638v1)|**[link](https://github.com/sakharamg/kitlm)**|
 |**2023-08-07**|**Mondrian: Prompt Abstraction Attack Against Large Language Models for Cheaper API Pricing**|Wai Man Si et.al.|[2308.03558v1](http://arxiv.org/abs/2308.03558v1)|null|
 |**2023-08-07**|**No Length Left Behind: Enhancing Knowledge Tracing for Modeling Sequences of Excessive or Insufficient Lengths**|Moyu Zhang et.al.|[2308.03488v1](http://arxiv.org/abs/2308.03488v1)|null|
 |**2023-08-07**|**Biomedical Knowledge Graph Embeddings with Negative Statements**|Rita T. Sousa et.al.|[2308.03447v1](http://arxiv.org/abs/2308.03447v1)|**[link](https://github.com/liseda-lab/truewalks)**|
@@ -3089,6 +3111,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Adapting Foundation Models for Information Synthesis of Wireless Communication Specifications**|Manikanta Kotaru et.al.|[2308.04033v1](http://arxiv.org/abs/2308.04033v1)|null|
 |**2023-08-07**|**UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition**|Wenxuan Zhou et.al.|[2308.03279v1](http://arxiv.org/abs/2308.03279v1)|null|
 |**2023-08-06**|**Embedding-based Retrieval with LLM for Effective Agriculture Information Extracting from Unstructured Data**|Ruoling Peng et.al.|[2308.03107v1](http://arxiv.org/abs/2308.03107v1)|null|
 |**2023-08-06**|**System-Initiated Transitions from Chit-Chat to Task-Oriented Dialogues with Transition Info Extractor and Transition Sentence Generator**|Ye Liu et.al.|[2308.03098v1](http://arxiv.org/abs/2308.03098v1)|null|
@@ -3451,6 +3474,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**UniRecSys: A Unified Framework for Personalized, Group, Package, and Package-to-Group Recommendations**|Adamya Shyam et.al.|[2308.04247v1](http://arxiv.org/abs/2308.04247v1)|null|
+|**2023-08-08**|**Understanding and Modeling Passive-Negative Feedback for Short-video Sequential Recommendation**|Yunzhu Pan et.al.|[2308.04086v1](http://arxiv.org/abs/2308.04086v1)|null|
+|**2023-08-08**|**Online Distillation-enhanced Multi-modal Transformer for Sequential Recommendation**|Wei Ji et.al.|[2308.04067v1](http://arxiv.org/abs/2308.04067v1)|**[link](https://github.com/xyliugo/odmt)**|
+|**2023-08-07**|**Average Estimates in Line Graphs Are Biased Toward Areas of Higher Variability**|Dominik Moritz et.al.|[2308.03903v1](http://arxiv.org/abs/2308.03903v1)|null|
+|**2023-08-07**|**Mobile Supply: The Last Piece of Jigsaw of Recommender System**|Zhenhao Jiang et.al.|[2308.03855v1](http://arxiv.org/abs/2308.03855v1)|null|
+|**2023-08-07**|**Search Engine and Recommendation System for the Music Industry built with JinaAI**|Ishita Gopalakrishnan et.al.|[2308.03842v1](http://arxiv.org/abs/2308.03842v1)|null|
 |**2023-08-07**|**SemOpenAlex: The Scientific Landscape in 26 Billion RDF Triples**|Michael Färber et.al.|[2308.03671v1](http://arxiv.org/abs/2308.03671v1)|null|
 |**2023-08-07**|**Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation**|Taichi Liu et.al.|[2308.03470v1](http://arxiv.org/abs/2308.03470v1)|null|
 |**2023-08-07**|**Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM**|Bin Yin et.al.|[2308.03333v1](http://arxiv.org/abs/2308.03333v1)|null|
@@ -4113,6 +4142,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172v1](http://arxiv.org/abs/2308.04172v1)|null|
+|**2023-08-08**|**A Benchmarking Study of Matching Algorithms for Knowledge Graph Entity Alignment**|Nhat-Minh Dao et.al.|[2308.03961v1](http://arxiv.org/abs/2308.03961v1)|null|
+|**2023-08-07**|**Establishing Trust in ChatGPT BioMedical Generated Text: An Ontology-Based Knowledge Graph to Validate Disease-Symptom Links**|Ahmed Abdeen Hamed et.al.|[2308.03929v1](http://arxiv.org/abs/2308.03929v1)|null|
 |**2023-08-07**|**SemOpenAlex: The Scientific Landscape in 26 Billion RDF Triples**|Michael Färber et.al.|[2308.03671v1](http://arxiv.org/abs/2308.03671v1)|null|
 |**2023-08-07**|**A Polystore Architecture Using Knowledge Graphs to Support Queries on Heterogeneous Data Stores**|Leonardo Guerreiro Azevedo et.al.|[2308.03584v1](http://arxiv.org/abs/2308.03584v1)|null|
 |**2023-08-07**|**Biomedical Knowledge Graph Embeddings with Negative Statements**|Rita T. Sousa et.al.|[2308.03447v1](http://arxiv.org/abs/2308.03447v1)|**[link](https://github.com/liseda-lab/truewalks)**|
@@ -4641,6 +4673,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Semantic Interpretation and Validation of Graph Attention-based Explanations for GNN Models**|Efimia Panagiotaki et.al.|[2308.04220v1](http://arxiv.org/abs/2308.04220v1)|null|
+|**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172v1](http://arxiv.org/abs/2308.04172v1)|null|
 |**2023-08-07**|**Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation**|Taichi Liu et.al.|[2308.03470v1](http://arxiv.org/abs/2308.03470v1)|null|
 |**2023-08-07**|**Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions**|Francesco Romor et.al.|[2308.03378v1](http://arxiv.org/abs/2308.03378v1)|null|
 |**2023-08-07**|**Implicit Graph Neural Diffusion Based on Constrained Dirichlet Energy Minimization**|Guoji Fu et.al.|[2308.03306v1](http://arxiv.org/abs/2308.03306v1)|null|
