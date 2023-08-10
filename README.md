@@ -21,6 +21,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**A Novel Method for improving accuracy in neural network by reinstating traditional back propagation technique**|Gokulprasath R et.al.|[2308.05059v1](http://arxiv.org/abs/2308.05059v1)|null|
+|**2023-08-09**|**Performance Analysis of Transformer Based Models (BERT, ALBERT and RoBERTa) in Fake News Detection**|Shafna Fitria Nur Azizah et.al.|[2308.04950v1](http://arxiv.org/abs/2308.04950v1)|**[link](https://github.com/shafna81/fakenewsdetection)**|
+|**2023-08-09**|**An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures**|Tanmay Singla et.al.|[2308.04898v1](http://arxiv.org/abs/2308.04898v1)|null|
+|**2023-08-09**|**No Need to Lift a Finger Anymore? Assessing the Quality of Code Generation by ChatGPT**|Zhijie Liu et.al.|[2308.04838v1](http://arxiv.org/abs/2308.04838v1)|null|
+|**2023-08-09**|**TSSR: A Truncated and Signed Square Root Activation Function for Neural Networks**|Yuanhao Gong et.al.|[2308.04832v1](http://arxiv.org/abs/2308.04832v1)|null|
+|**2023-08-09**|**Optimizing a Transformer-based network for a deep learning seismic processing workflow**|Randy Harsuko et.al.|[2308.04739v1](http://arxiv.org/abs/2308.04739v1)|null|
+|**2023-08-09**|**A Comparative Study of Open-Source Large Language Models, GPT-4 and Claude 2: Multiple-Choice Test Taking in Nephrology**|Sean Wu et.al.|[2308.04709v1](http://arxiv.org/abs/2308.04709v1)|null|
+|**2023-08-09**|**Cross-Lingual Constituency Parsing for Middle High German: A Delexicalized Approach**|Ercong Nie et.al.|[2308.04645v1](http://arxiv.org/abs/2308.04645v1)|null|
 |**2023-08-08**|**Unmasking Nationality Bias: A Study of Human Perception of Nationalities in AI-Generated Articles**|Pranav Narayanan Venkit et.al.|[2308.04346v1](http://arxiv.org/abs/2308.04346v1)|null|
 |**2023-08-08**|**Deep Learning-Based Knowledge Injection for Metaphor Detection: A Comprehensive Review**|Cheng Yang et.al.|[2308.04306v1](http://arxiv.org/abs/2308.04306v1)|null|
 |**2023-08-08**|**CLASSLA-Stanza: The Next Step for Linguistic Processing of South Slavic Languages**|Luka Terčon et.al.|[2308.04255v1](http://arxiv.org/abs/2308.04255v1)|null|
@@ -1563,6 +1571,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Exploring Multilingual Text Data Distillation**|Shivam Sahni et.al.|[2308.04982v1](http://arxiv.org/abs/2308.04982v1)|null|
+|**2023-08-09**|**Emotion-Conditioned Text Generation through Automatic Prompt Optimization**|Yarik Menchaca Resendiz et.al.|[2308.04857v1](http://arxiv.org/abs/2308.04857v1)|null|
+|**2023-08-08**|**Different Mechanisms of Machine Learning and Optimization Algorithms Utilized in Intrusion Detection Systems**|Mohammad Aziz et.al.|[2308.04607v1](http://arxiv.org/abs/2308.04607v1)|null|
+|**2023-08-08**|**Ahead of the Text: Leveraging Entity Preposition for Financial Relation Extraction**|Stefan Pasch et.al.|[2308.04534v1](http://arxiv.org/abs/2308.04534v1)|null|
 |**2023-08-08**|**A Comparative Study on TF-IDF feature Weighting Method and its Analysis using Unstructured Dataset**|Mamata Das et.al.|[2308.04037v1](http://arxiv.org/abs/2308.04037v1)|null|
 |**2023-08-05**|**Textual Data Mining for Financial Fraud Detection: A Deep Learning Approach**|Qiuru Li et.al.|[2308.03800v1](http://arxiv.org/abs/2308.03800v1)|null|
 |**2023-08-07**|**Towards Controllable Natural Language Inference through Lexical Inference Types**|Yingji Zhang et.al.|[2308.03581v1](http://arxiv.org/abs/2308.03581v1)|null|
@@ -2371,6 +2383,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**No Need to Lift a Finger Anymore? Assessing the Quality of Code Generation by ChatGPT**|Zhijie Liu et.al.|[2308.04838v1](http://arxiv.org/abs/2308.04838v1)|null|
+|**2023-08-09**|**ADMUS: A Progressive Question Answering Framework Adaptable to Multiple Knowledge Sources**|Yirui Zhan et.al.|[2308.04800v1](http://arxiv.org/abs/2308.04800v1)|null|
+|**2023-08-09**|**Building Interpretable and Reliable Open Information Retriever for New Domains Overnight**|Xiaodong Yu et.al.|[2308.04756v1](http://arxiv.org/abs/2308.04756v1)|null|
+|**2023-08-09**|**Answering Unseen Questions With Smaller Language\\Models Using Rationale Generation and Dense Retrieval**|Tim Hartill et.al.|[2308.04711v1](http://arxiv.org/abs/2308.04711v1)|null|
+|**2023-08-09**|**Sci-CoT: Leveraging Large Language Models for Enhanced Knowledge Distillation in Small Models for Scientific QA**|Yuhan Ma et.al.|[2308.04679v1](http://arxiv.org/abs/2308.04679v1)|null|
 |**2023-08-08**|**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**|Ziyu Zhu et.al.|[2308.04352v1](http://arxiv.org/abs/2308.04352v1)|null|
 |**2023-08-08**|**Towards an AI to Win Ghana's National Science and Maths Quiz**|George Boateng et.al.|[2308.04333v1](http://arxiv.org/abs/2308.04333v1)|**[link](https://github.com/nsmq-ai/nsmqai)**|
 |**2023-08-08**|**On Monotonic Aggregation for Open-domain QA**|Sang-eun Han et.al.|[2308.04176v1](http://arxiv.org/abs/2308.04176v1)|**[link](https://github.com/yeonseokjeong/judge-specialist)**|
@@ -3107,6 +3124,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**RadGraph2: Modeling Disease Progression in Radiology Reports via Hierarchical Information Extraction**|Sameer Khanna et.al.|[2308.05046v1](http://arxiv.org/abs/2308.05046v1)|null|
 |**2023-08-08**|**Adapting Foundation Models for Information Synthesis of Wireless Communication Specifications**|Manikanta Kotaru et.al.|[2308.04033v1](http://arxiv.org/abs/2308.04033v1)|null|
 |**2023-08-07**|**UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition**|Wenxuan Zhou et.al.|[2308.03279v1](http://arxiv.org/abs/2308.03279v1)|null|
 |**2023-08-06**|**Embedding-based Retrieval with LLM for Effective Agriculture Information Extracting from Unstructured Data**|Ruoling Peng et.al.|[2308.03107v1](http://arxiv.org/abs/2308.03107v1)|null|
@@ -3470,6 +3488,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Entire Space Cascade Delayed Feedback Modeling for Effective Conversion Rate Prediction**|Yunfeng Zhao et.al.|[2308.04768v1](http://arxiv.org/abs/2308.04768v1)|null|
+|**2023-08-09**|**Unified Matrix Factorization with Dynamic Multi-view Clustering**|Shangde Gao et.al.|[2308.04661v1](http://arxiv.org/abs/2308.04661v1)|null|
+|**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579v1](http://arxiv.org/abs/2308.04579v1)|null|
 |**2023-08-08**|**UniRecSys: A Unified Framework for Personalized, Group, Package, and Package-to-Group Recommendations**|Adamya Shyam et.al.|[2308.04247v1](http://arxiv.org/abs/2308.04247v1)|null|
 |**2023-08-08**|**Understanding and Modeling Passive-Negative Feedback for Short-video Sequential Recommendation**|Yunzhu Pan et.al.|[2308.04086v1](http://arxiv.org/abs/2308.04086v1)|null|
 |**2023-08-08**|**Online Distillation-enhanced Multi-modal Transformer for Sequential Recommendation**|Wei Ji et.al.|[2308.04067v1](http://arxiv.org/abs/2308.04067v1)|**[link](https://github.com/xyliugo/odmt)**|
@@ -4138,6 +4159,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992v1](http://arxiv.org/abs/2308.04992v1)|**[link](https://github.com/thezjd/aspectmmkg)**|
+|**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579v1](http://arxiv.org/abs/2308.04579v1)|null|
 |**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172v1](http://arxiv.org/abs/2308.04172v1)|null|
 |**2023-08-08**|**A Benchmarking Study of Matching Algorithms for Knowledge Graph Entity Alignment**|Nhat-Minh Dao et.al.|[2308.03961v1](http://arxiv.org/abs/2308.03961v1)|null|
 |**2023-08-07**|**Establishing Trust in ChatGPT BioMedical Generated Text: An Ontology-Based Knowledge Graph to Validate Disease-Symptom Links**|Ahmed Abdeen Hamed et.al.|[2308.03929v1](http://arxiv.org/abs/2308.03929v1)|null|
@@ -4669,6 +4692,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068v1](http://arxiv.org/abs/2308.05068v1)|null|
+|**2023-08-09**|**Kairos: : Practical Intrusion Detection and Investigation using Whole-system Provenance**|Zijun Cheng et.al.|[2308.05034v1](http://arxiv.org/abs/2308.05034v1)|**[link](https://github.com/provenanceanalytics/kairos)**|
+|**2023-08-09**|**Differentially Private Graph Neural Network with Importance-Grained Noise Adaption**|Yuxin Qi et.al.|[2308.04943v1](http://arxiv.org/abs/2308.04943v1)|null|
+|**2023-08-09**|**GraphCC: A Practical Graph Learning-based Approach to Congestion Control in Datacenters**|Guillermo Bernárdez et.al.|[2308.04905v1](http://arxiv.org/abs/2308.04905v1)|null|
 |**2023-08-08**|**Semantic Interpretation and Validation of Graph Attention-based Explanations for GNN Models**|Efimia Panagiotaki et.al.|[2308.04220v1](http://arxiv.org/abs/2308.04220v1)|null|
 |**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172v1](http://arxiv.org/abs/2308.04172v1)|null|
 |**2023-08-07**|**Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation**|Taichi Liu et.al.|[2308.03470v1](http://arxiv.org/abs/2308.03470v1)|null|
