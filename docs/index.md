@@ -25,6 +25,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**KETM:A Knowledge-Enhanced Text Matching method**|Kexin Jiang et.al.|[2308.06235v1](http://arxiv.org/abs/2308.06235v1)|**[link](https://github.com/1094701018/ketm)**|
+|**2023-08-11**|**Large Language Models for Telecom: Forthcoming Impact on the Industry**|Ali Maatouk et.al.|[2308.06013v1](http://arxiv.org/abs/2308.06013v1)|null|
 |**2023-08-10**|**LASIGE and UNICAGE solution to the NASA LitCoin NLP Competition**|Pedro Ruas et.al.|[2308.05609v1](http://arxiv.org/abs/2308.05609v1)|null|
 |**2023-08-10**|**Bringing order into the realm of Transformer-based language models for artificial intelligence and law**|Candida M. Greco et.al.|[2308.05502v1](http://arxiv.org/abs/2308.05502v1)|null|
 |**2023-08-11**|**Exploring Machine Learning and Transformer-based Approaches for Deceptive Text Classification: A Comparative Analysis**|Anusuya Krishnan et.al.|[2308.05476v2](http://arxiv.org/abs/2308.05476v2)|null|
@@ -1580,6 +1582,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Weakly Supervised Text Classification on Free Text Comments in Patient-Reported Outcome Measures**|Anna-Grace Linton et.al.|[2308.06199v1](http://arxiv.org/abs/2308.06199v1)|null|
+|**2023-08-11**|**Identification of the Relevance of Comments in Codes Using Bag of Words and Transformer Based Models**|Sruthi S et.al.|[2308.06144v1](http://arxiv.org/abs/2308.06144v1)|null|
+|**2023-08-11**|**Hawkes Processes with Delayed Granger Causality**|Chao Yang et.al.|[2308.06106v1](http://arxiv.org/abs/2308.06106v1)|null|
 |**2023-08-11**|**Exploring Machine Learning and Transformer-based Approaches for Deceptive Text Classification: A Comparative Analysis**|Anusuya Krishnan et.al.|[2308.05476v2](http://arxiv.org/abs/2308.05476v2)|null|
 |**2023-08-09**|**Exploring Multilingual Text Data Distillation**|Shivam Sahni et.al.|[2308.04982v1](http://arxiv.org/abs/2308.04982v1)|**[link](https://github.com/harshp1802/text-dataset-distillation)**|
 |**2023-08-09**|**Emotion-Conditioned Text Generation through Automatic Prompt Optimization**|Yarik Menchaca Resendiz et.al.|[2308.04857v1](http://arxiv.org/abs/2308.04857v1)|null|
@@ -2059,6 +2064,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Covid-19 Public Sentiment Analysis for Indian Tweets Classification**|Mohammad Maksood Akhter et.al.|[2308.06241v1](http://arxiv.org/abs/2308.06241v1)|null|
 |**2023-08-08**|**Social Media, Topic Modeling and Sentiment Analysis in Municipal Decision Support**|Miloš Švaňa et.al.|[2308.04124v1](http://arxiv.org/abs/2308.04124v1)|null|
 |**2023-08-08**|**A Comparative Study on TF-IDF feature Weighting Method and its Analysis using Unstructured Dataset**|Mamata Das et.al.|[2308.04037v1](http://arxiv.org/abs/2308.04037v1)|null|
 |**2023-08-08**|**AI Chatbots as Multi-Role Pedagogical Agents: Transforming Engagement in CS Education**|Cassie Chen Cao et.al.|[2308.03992v1](http://arxiv.org/abs/2308.03992v1)|null|
@@ -2393,6 +2399,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262v1](http://arxiv.org/abs/2308.06262v1)|**[link](https://github.com/opengvlab/multitask-model-selector)**|
+|**2023-08-11**|**KETM:A Knowledge-Enhanced Text Matching method**|Kexin Jiang et.al.|[2308.06235v1](http://arxiv.org/abs/2308.06235v1)|**[link](https://github.com/1094701018/ketm)**|
+|**2023-08-11**|**LittleMu: Deploying an Online Virtual Teaching Assistant via Heterogeneous Sources Integration and Chain of Teach Prompts**|Shangqing Tu et.al.|[2308.05935v1](http://arxiv.org/abs/2308.05935v1)|**[link](https://github.com/thu-keg/vta)**|
 |**2023-08-10**|**Progressive Spatio-temporal Perception for Audio-Visual Question Answering**|Guangyao Li et.al.|[2308.05421v1](http://arxiv.org/abs/2308.05421v1)|**[link](https://github.com/gewu-lab/pstp-net)**|
 |**2023-08-09**|**No Need to Lift a Finger Anymore? Assessing the Quality of Code Generation by ChatGPT**|Zhijie Liu et.al.|[2308.04838v1](http://arxiv.org/abs/2308.04838v1)|null|
 |**2023-08-09**|**ADMUS: A Progressive Question Answering Framework Adaptable to Multiple Knowledge Sources**|Yirui Zhan et.al.|[2308.04800v1](http://arxiv.org/abs/2308.04800v1)|null|
@@ -3501,6 +3510,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**A Large Language Model Enhanced Conversational Recommender System**|Yue Feng et.al.|[2308.06212v1](http://arxiv.org/abs/2308.06212v1)|null|
+|**2023-08-11**|**Improving Zero-Shot Text Matching for Financial Auditing with Large Language Models**|Lars Hillebrand et.al.|[2308.06111v1](http://arxiv.org/abs/2308.06111v1)|null|
+|**2023-08-11**|**Toward a Better Understanding of Loss Functions for Collaborative Filtering**|Seongmin Park et.al.|[2308.06091v1](http://arxiv.org/abs/2308.06091v1)|**[link](https://github.com/psm1206/mawu)**|
+|**2023-08-11**|**Deep Task-specific Bottom Representation Network for Multi-Task Recommendation**|Qi Liu et.al.|[2308.05996v1](http://arxiv.org/abs/2308.05996v1)|null|
+|**2023-08-11**|**LTP-MMF: Towards Long-term Provider Max-min Fairness Under Recommendation Feedback Loops**|Chen Xu et.al.|[2308.05902v1](http://arxiv.org/abs/2308.05902v1)|null|
 |**2023-08-10**|**SSLRec: A Self-Supervised Learning Library for Recommendation**|Xubin Ren et.al.|[2308.05697v1](http://arxiv.org/abs/2308.05697v1)|**[link](https://github.com/hkuds/sslrec)**|
 |**2023-08-10**|**Beyond Semantics: Learning a Behavior Augmented Relevance Model with Self-supervised Learning**|Zeyuan Chen et.al.|[2308.05379v1](http://arxiv.org/abs/2308.05379v1)|**[link](https://github.com/loserchen/barl-ase)**|
 |**2023-08-09**|**Dupo: A Mixed-Initiative Authoring Tool for Responsive Visualization**|Hyeok Kim et.al.|[2308.05136v1](http://arxiv.org/abs/2308.05136v1)|null|
@@ -4179,7 +4193,7 @@ layout: default
 |**2023-08-10**|**Few-Shot Data-to-Text Generation via Unified Representation and Multi-Source Learning**|Alexander Hanbo Li et.al.|[2308.05317v1](http://arxiv.org/abs/2308.05317v1)|null|
 |**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992v1](http://arxiv.org/abs/2308.04992v1)|**[link](https://github.com/thezjd/aspectmmkg)**|
 |**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579v1](http://arxiv.org/abs/2308.04579v1)|null|
-|**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172v1](http://arxiv.org/abs/2308.04172v1)|null|
+|**2023-08-11**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172v2](http://arxiv.org/abs/2308.04172v2)|null|
 |**2023-08-08**|**A Benchmarking Study of Matching Algorithms for Knowledge Graph Entity Alignment**|Nhat-Minh Dao et.al.|[2308.03961v1](http://arxiv.org/abs/2308.03961v1)|null|
 |**2023-08-07**|**Establishing Trust in ChatGPT BioMedical Generated Text: An Ontology-Based Knowledge Graph to Validate Disease-Symptom Links**|Ahmed Abdeen Hamed et.al.|[2308.03929v1](http://arxiv.org/abs/2308.03929v1)|null|
 |**2023-08-07**|**SemOpenAlex: The Scientific Landscape in 26 Billion RDF Triples**|Michael Färber et.al.|[2308.03671v1](http://arxiv.org/abs/2308.03671v1)|null|
