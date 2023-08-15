@@ -1,4 +1,4 @@
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -1109,7 +1109,7 @@
 |**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|**[link](https://github.com/shuhengl/acl2023_conllpp)**|
 |**2022-12-19**|**MANER: Mask Augmented Named Entity Recognition for Extreme Low-Resource Languages**|Shashank Sonkar et.al.|[2212.09723v1](http://arxiv.org/abs/2212.09723v1)|null|
 
-<p align=right>(<a href='#updated-on-20230814'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230815'>back to top</a>)</p>
 
 ## Legal NLP
 
@@ -1241,7 +1241,7 @@
 |**2014-11-03**|**Unsupervised Keyword Extraction from Polish Legal Texts**|Michał Jungiewicz et.al.|[1408.3731v2](http://arxiv.org/abs/1408.3731v2)|null|
 |**2011-03-16**|**Information and Entanglement Measures in Quantum Systems With Applications to Atomic Physics**|Daniel Manzano et.al.|[1103.3186v1](http://arxiv.org/abs/1103.3186v1)|null|
 
-<p align=right>(<a href='#updated-on-20230814'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230815'>back to top</a>)</p>
 
 ## Sequence Annotation
 
@@ -1280,7 +1280,7 @@
 |**2008-02-16**|**Radio-loudness of Active Galaxies and the Black Hole Evolution**|M. Sikora et.al.|[0802.2302v1](http://arxiv.org/abs/0802.2302v1)|null|
 |**2007-07-16**|**Radio Loudness of AGNs: Host Galaxy Morphology and the Spin Paradigm**|L. Stawarz et.al.|[0707.2369v1](http://arxiv.org/abs/0707.2369v1)|null|
 
-<p align=right>(<a href='#updated-on-20230814'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230815'>back to top</a>)</p>
 
 ## Named Entity Recognition
 
@@ -1572,14 +1572,14 @@
 |**2022-10-12**|**MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score**|Sunjae Kwon et.al.|[2210.05875v1](http://arxiv.org/abs/2210.05875v1)|**[link](https://github.com/mozzitastebitter/medjex)**|
 |**2022-10-11**|**SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition**|Zeng Yang et.al.|[2210.05632v1](http://arxiv.org/abs/2210.05632v1)|**[link](https://github.com/unveiled-the-red-hat/SEE-Few)**|
 
-<p align=right>(<a href='#updated-on-20230814'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230815'>back to top</a>)</p>
 
 ## Text Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-11**|**Weakly Supervised Text Classification on Free Text Comments in Patient-Reported Outcome Measures**|Anna-Grace Linton et.al.|[2308.06199v1](http://arxiv.org/abs/2308.06199v1)|null|
-|**2023-08-11**|**Identification of the Relevance of Comments in Codes Using Bag of Words and Transformer Based Models**|Sruthi S et.al.|[2308.06144v1](http://arxiv.org/abs/2308.06144v1)|null|
+|**2023-08-11**|**Identification of the Relevance of Comments in Codes Using Bag of Words and Transformer Based Models**|Sruthi S et.al.|[2308.06144v1](http://arxiv.org/abs/2308.06144v1)|**[link](https://github.com/sruthisudheer/comment-classification-of-c-code)**|
 |**2023-08-11**|**Hawkes Processes with Delayed Granger Causality**|Chao Yang et.al.|[2308.06106v1](http://arxiv.org/abs/2308.06106v1)|null|
 |**2023-08-11**|**Exploring Machine Learning and Transformer-based Approaches for Deceptive Text Classification: A Comparative Analysis**|Anusuya Krishnan et.al.|[2308.05476v2](http://arxiv.org/abs/2308.05476v2)|null|
 |**2023-08-09**|**Exploring Multilingual Text Data Distillation**|Shivam Sahni et.al.|[2308.04982v1](http://arxiv.org/abs/2308.04982v1)|**[link](https://github.com/harshp1802/text-dataset-distillation)**|
@@ -2054,7 +2054,7 @@
 |**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/microsoft/scglab)**|
 |**2022-11-18**|**3d human motion generation from the text via gesture action classification and the autoregressive model**|Gwantae Kim et.al.|[2211.10003v1](http://arxiv.org/abs/2211.10003v1)|null|
 
-<p align=right>(<a href='#updated-on-20230814'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230815'>back to top</a>)</p>
 
 ## Sentiment Analysis
 
@@ -2389,7 +2389,7 @@
 |**2022-10-18**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-10-14**|**Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**|Sishuo Chen et.al.|[2210.07907v1](http://arxiv.org/abs/2210.07907v1)|**[link](https://github.com/lancopku/dan)**|
 
-<p align=right>(<a href='#updated-on-20230814'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230815'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -2402,7 +2402,7 @@
 |**2023-08-09**|**No Need to Lift a Finger Anymore? Assessing the Quality of Code Generation by ChatGPT**|Zhijie Liu et.al.|[2308.04838v1](http://arxiv.org/abs/2308.04838v1)|null|
 |**2023-08-09**|**ADMUS: A Progressive Question Answering Framework Adaptable to Multiple Knowledge Sources**|Yirui Zhan et.al.|[2308.04800v1](http://arxiv.org/abs/2308.04800v1)|null|
 |**2023-08-09**|**Building Interpretable and Reliable Open Information Retriever for New Domains Overnight**|Xiaodong Yu et.al.|[2308.04756v1](http://arxiv.org/abs/2308.04756v1)|null|
-|**2023-08-09**|**Answering Unseen Questions With Smaller Language\\Models Using Rationale Generation and Dense Retrieval**|Tim Hartill et.al.|[2308.04711v1](http://arxiv.org/abs/2308.04711v1)|null|
+|**2023-08-12**|**Answering Unseen Questions With Smaller Language Models Using Rationale Generation and Dense Retrieval**|Tim Hartill et.al.|[2308.04711v2](http://arxiv.org/abs/2308.04711v2)|null|
 |**2023-08-09**|**Sci-CoT: Leveraging Large Language Models for Enhanced Knowledge Distillation in Small Models for Scientific QA**|Yuhan Ma et.al.|[2308.04679v1](http://arxiv.org/abs/2308.04679v1)|null|
 |**2023-08-08**|**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**|Ziyu Zhu et.al.|[2308.04352v1](http://arxiv.org/abs/2308.04352v1)|null|
 |**2023-08-08**|**Towards an AI to Win Ghana's National Science and Maths Quiz**|George Boateng et.al.|[2308.04333v1](http://arxiv.org/abs/2308.04333v1)|**[link](https://github.com/nsmq-ai/nsmqai)**|
@@ -3134,7 +3134,7 @@
 |**2022-12-02**|**Compound Tokens: Channel Fusion for Vision-Language Representation Learning**|Maxwell Mbabilla Aladago et.al.|[2212.01447v1](http://arxiv.org/abs/2212.01447v1)|null|
 |**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|**[link](https://github.com/mlvlab/qat)**|
 
-<p align=right>(<a href='#updated-on-20230814'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230815'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -3500,7 +3500,7 @@
 |**2022-10-17**|**Zero-Shot Ranking Socio-Political Texts with Transformer Language Models to Reduce Close Reading Time**|Kiymet Akdemir et.al.|[2210.09179v1](http://arxiv.org/abs/2210.09179v1)|null|
 |**2022-10-17**|**Modeling the Lighting in Scenes as Style for Auto White-Balance Correction**|Furkan Kınlı et.al.|[2210.09090v1](http://arxiv.org/abs/2210.09090v1)|**[link](https://github.com/birdortyedi/lighting-as-style-awb-correction)**|
 
-<p align=right>(<a href='#updated-on-20230814'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230815'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -3510,7 +3510,7 @@
 |**2023-08-11**|**Improving Zero-Shot Text Matching for Financial Auditing with Large Language Models**|Lars Hillebrand et.al.|[2308.06111v1](http://arxiv.org/abs/2308.06111v1)|null|
 |**2023-08-11**|**Toward a Better Understanding of Loss Functions for Collaborative Filtering**|Seongmin Park et.al.|[2308.06091v1](http://arxiv.org/abs/2308.06091v1)|**[link](https://github.com/psm1206/mawu)**|
 |**2023-08-11**|**Deep Task-specific Bottom Representation Network for Multi-Task Recommendation**|Qi Liu et.al.|[2308.05996v1](http://arxiv.org/abs/2308.05996v1)|null|
-|**2023-08-11**|**LTP-MMF: Towards Long-term Provider Max-min Fairness Under Recommendation Feedback Loops**|Chen Xu et.al.|[2308.05902v1](http://arxiv.org/abs/2308.05902v1)|null|
+|**2023-08-11**|**LTP-MMF: Towards Long-term Provider Max-min Fairness Under Recommendation Feedback Loops**|Chen Xu et.al.|[2308.05902v1](http://arxiv.org/abs/2308.05902v1)|**[link](https://github.com/xuchen0427/ltp-mmf)**|
 |**2023-08-10**|**SSLRec: A Self-Supervised Learning Library for Recommendation**|Xubin Ren et.al.|[2308.05697v1](http://arxiv.org/abs/2308.05697v1)|**[link](https://github.com/hkuds/sslrec)**|
 |**2023-08-10**|**Beyond Semantics: Learning a Behavior Augmented Relevance Model with Self-supervised Learning**|Zeyuan Chen et.al.|[2308.05379v1](http://arxiv.org/abs/2308.05379v1)|**[link](https://github.com/loserchen/barl-ase)**|
 |**2023-08-09**|**Dupo: A Mixed-Initiative Authoring Tool for Responsive Visualization**|Hyeok Kim et.al.|[2308.05136v1](http://arxiv.org/abs/2308.05136v1)|null|
@@ -4179,7 +4179,7 @@
 |**2022-11-27**|**Dense Text Retrieval based on Pretrained Language Models: A Survey**|Wayne Xin Zhao et.al.|[2211.14876v1](http://arxiv.org/abs/2211.14876v1)|**[link](https://github.com/paddlepaddle/rocketqa)**|
 |**2022-11-27**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|**[link](https://github.com/chengang95/unkd)**|
 
-<p align=right>(<a href='#updated-on-20230814'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230815'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -4714,7 +4714,7 @@
 |**2022-11-18**|**Novelpy: A Python package to measure novelty and disruptiveness of bibliometric and patent data**|Pierre Pelletier et.al.|[2211.10346v1](http://arxiv.org/abs/2211.10346v1)|**[link](https://github.com/kwirtz/novelpy)**|
 |**2022-11-18**|**Contrastive Knowledge Graph Error Detection**|Qinggang Zhang et.al.|[2211.10030v1](http://arxiv.org/abs/2211.10030v1)|**[link](https://github.com/qing145/caged)**|
 
-<p align=right>(<a href='#updated-on-20230814'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230815'>back to top</a>)</p>
 
 ## GNN
 
@@ -5721,5 +5721,5 @@
 |**2022-12-14**|**On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
 |**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 
-<p align=right>(<a href='#updated-on-20230814'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20230815'>back to top</a>)</p>
 
