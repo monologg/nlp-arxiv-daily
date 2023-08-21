@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct**|Haipeng Luo et.al.|[2308.09583v1](http://arxiv.org/abs/2308.09583v1)|**[link](https://github.com/nlpxucan/wizardlm)**|
+|**2023-08-18**|**Learnt Contrastive Concept Embeddings for Sign Recognition**|Ryan Wong et.al.|[2308.09515v1](http://arxiv.org/abs/2308.09515v1)|null|
+|**2023-08-18**|**Exploring Sampling Techniques for Generating Melodies with a Transformer Language Model**|Mathias Rose Bjare et.al.|[2308.09454v1](http://arxiv.org/abs/2308.09454v1)|null|
+|**2023-08-18**|**Differentiable Retrieval Augmentation via Generative Language Modeling for E-commerce Query Intent Classification**|Chenyu Zhao et.al.|[2308.09308v1](http://arxiv.org/abs/2308.09308v1)|null|
+|**2023-08-17**|**Characterizing Information Seeking Events in Health-Related Social Discourse**|Omar Sharif et.al.|[2308.09156v1](http://arxiv.org/abs/2308.09156v1)|null|
+|**2023-08-17**|**Enhancing API Documentation through BERTopic Modeling and Summarization**|AmirHossein Naghshzan et.al.|[2308.09070v1](http://arxiv.org/abs/2308.09070v1)|**[link](https://github.com/scam2023-bert/bertopic)**|
+|**2023-08-17**|**Don't lose the message while paraphrasing: A study on content preserving style transfer**|Nikolay Babakov et.al.|[2308.09055v1](http://arxiv.org/abs/2308.09055v1)|null|
+|**2023-08-17**|**CodeCoT and Beyond: Learning to Program and Test like a Developer**|Dong Huang et.al.|[2308.08784v1](http://arxiv.org/abs/2308.08784v1)|null|
+|**2023-08-17**|**Real-Time Construction Algorithm of Co-Occurrence Network Based on Inverted Index**|Jiahao Cheng et.al.|[2308.08756v1](http://arxiv.org/abs/2308.08756v1)|null|
+|**2023-08-17**|**Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction**|Yuanzhen Luo et.al.|[2308.08739v1](http://arxiv.org/abs/2308.08739v1)|null|
 |**2023-08-16**|**Can Transformers Learn Optimal Filtering for Unknown Systems?**|Haldun Balim et.al.|[2308.08536v1](http://arxiv.org/abs/2308.08536v1)|null|
 |**2023-08-16**|**LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs**|Ching Chang et.al.|[2308.08469v1](http://arxiv.org/abs/2308.08469v1)|null|
 |**2023-08-16**|**Challenges and Opportunities of Using Transformer-Based Multi-Task Learning in NLP Through ML Lifecycle: A Survey**|Lovre Torbarina et.al.|[2308.08234v1](http://arxiv.org/abs/2308.08234v1)|null|
@@ -1306,6 +1316,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Accelerated materials language processing enabled by GPT**|Jaewoong Choi et.al.|[2308.09354v1](http://arxiv.org/abs/2308.09354v1)|null|
+|**2023-08-17**|**mCL-NER: Cross-Lingual Named Entity Recognition via Multi-view Contrastive Learning**|Ying Mo et.al.|[2308.09073v1](http://arxiv.org/abs/2308.09073v1)|null|
+|**2023-08-17**|**Task Relation Distillation and Prototypical Pseudo Label for Incremental Named Entity Recognition**|Duzhen Zhang et.al.|[2308.08793v1](http://arxiv.org/abs/2308.08793v1)|**[link](https://github.com/bladedancer957/iner_rdp)**|
+|**2023-08-16**|**BIOptimus: Pre-training an Optimal Biomedical Language Model with Curriculum Learning for Named Entity Recognition**|Pavlova Vera et.al.|[2308.08625v1](http://arxiv.org/abs/2308.08625v1)|**[link](https://github.com/rttl-ai/bioptimus)**|
 |**2023-08-14**|**Automated Testing and Improvement of Named Entity Recognition Systems**|Boxi Yu et.al.|[2308.07937v1](http://arxiv.org/abs/2308.07937v1)|null|
 |**2023-08-15**|**Informed Named Entity Recognition Decoding for Generative Language Models**|Tobias Deußer et.al.|[2308.07791v1](http://arxiv.org/abs/2308.07791v1)|null|
 |**2023-08-15**|**MC-DRE: Multi-Aspect Cross Integration for Drug Event/Entity Extraction**|Jie Yang et.al.|[2308.06546v2](http://arxiv.org/abs/2308.06546v2)|null|
@@ -1602,6 +1616,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Accelerated materials language processing enabled by GPT**|Jaewoong Choi et.al.|[2308.09354v1](http://arxiv.org/abs/2308.09354v1)|null|
+|**2023-08-18**|**Differentiable Retrieval Augmentation via Generative Language Modeling for E-commerce Query Intent Classification**|Chenyu Zhao et.al.|[2308.09308v1](http://arxiv.org/abs/2308.09308v1)|null|
 |**2023-08-15**|**Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT**|Yibo Hu et.al.|[2308.07876v1](http://arxiv.org/abs/2308.07876v1)|**[link](https://github.com/snowood1/zero-shot-plover)**|
 |**2023-08-14**|**Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification**|Olesya Razuvayevskaya et.al.|[2308.07282v1](http://arxiv.org/abs/2308.07282v1)|null|
 |**2023-08-14**|**Approximating Human-Like Few-shot Learning with GPT-based Compression**|Cynthia Huang et.al.|[2308.06942v1](http://arxiv.org/abs/2308.06942v1)|null|
@@ -2425,6 +2441,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**PUMGPT: A Large Vision-Language Model for Product Understanding**|Shuhui Wu et.al.|[2308.09568v1](http://arxiv.org/abs/2308.09568v1)|null|
+|**2023-08-18**|**Open-vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models**|Dohwan Ko et.al.|[2308.09363v1](http://arxiv.org/abs/2308.09363v1)|null|
+|**2023-08-18**|**Accelerated materials language processing enabled by GPT**|Jaewoong Choi et.al.|[2308.09354v1](http://arxiv.org/abs/2308.09354v1)|null|
+|**2023-08-18**|**Differentiable Retrieval Augmentation via Generative Language Modeling for E-commerce Query Intent Classification**|Chenyu Zhao et.al.|[2308.09308v1](http://arxiv.org/abs/2308.09308v1)|null|
+|**2023-08-17**|**Semantic Consistency for Assuring Reliability of Large Language Models**|Harsh Raj et.al.|[2308.09138v1](http://arxiv.org/abs/2308.09138v1)|null|
+|**2023-08-17**|**EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding**|Karttikeya Mangalam et.al.|[2308.09126v1](http://arxiv.org/abs/2308.09126v1)|**[link](https://github.com/egoschema/egoschema)**|
+|**2023-08-17**|**MaScQA: A Question Answering Dataset for Investigating Materials Science Knowledge of Large Language Models**|Mohd Zaki et.al.|[2308.09115v1](http://arxiv.org/abs/2308.09115v1)|null|
+|**2023-08-17**|**Uni-NLX: Unifying Textual Explanations for Vision and Vision-Language Tasks**|Fawaz Sammani et.al.|[2308.09033v1](http://arxiv.org/abs/2308.09033v1)|**[link](https://github.com/fawazsammani/uni-nlx)**|
+|**2023-08-17**|**Beam Retrieval: General End-to-End Retrieval for Multi-Hop Question Answering**|Jiahao Zhang et.al.|[2308.08973v1](http://arxiv.org/abs/2308.08973v1)|**[link](https://github.com/canghongjian/beam_retriever)**|
+|**2023-08-17**|**Linguistically-Informed Neural Architectures for Lexical, Syntactic and Semantic Tasks in Sanskrit**|Jivnesh Sandhan et.al.|[2308.08807v1](http://arxiv.org/abs/2308.08807v1)|null|
 |**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545v1](http://arxiv.org/abs/2308.08545v1)|null|
 |**2023-08-16**|**Tem-adapter: Adapting Image-Text Pretraining for Video Question Answer**|Guangyi Chen et.al.|[2308.08414v1](http://arxiv.org/abs/2308.08414v1)|null|
 |**2023-08-16**|**AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework**|Qingyun Wu et.al.|[2308.08155v1](http://arxiv.org/abs/2308.08155v1)|null|
@@ -3181,6 +3207,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Accelerated materials language processing enabled by GPT**|Jaewoong Choi et.al.|[2308.09354v1](http://arxiv.org/abs/2308.09354v1)|null|
+|**2023-08-17**|**MaScQA: A Question Answering Dataset for Investigating Materials Science Knowledge of Large Language Models**|Mohd Zaki et.al.|[2308.09115v1](http://arxiv.org/abs/2308.09115v1)|null|
 |**2023-08-16**|**Knowledge-Enhanced Multi-Label Few-Shot Product Attribute-Value Extraction**|Jiaying Gong et.al.|[2308.08413v1](http://arxiv.org/abs/2308.08413v1)|null|
 |**2023-08-16**|**Deep Generative Imputation Model for Missing Not At Random Data**|Jialei Chen et.al.|[2308.08158v1](http://arxiv.org/abs/2308.08158v1)|null|
 |**2023-08-14**|**Automated Testing and Improvement of Named Entity Recognition Systems**|Boxi Yu et.al.|[2308.07937v1](http://arxiv.org/abs/2308.07937v1)|null|
@@ -3554,6 +3582,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement**|Yunhak Oh et.al.|[2308.09649v1](http://arxiv.org/abs/2308.09649v1)|**[link](https://github.com/yunhak0/muse)**|
+|**2023-08-18**|**ReCon: Reducing Congestion in Job Recommendation using Optimal Transport**|Yoosof Mashayekhi et.al.|[2308.09516v1](http://arxiv.org/abs/2308.09516v1)|**[link](https://github.com/aida-ugent/recon)**|
+|**2023-08-18**|**SHARK: A Lightweight Model Compression Approach for Large-scale Recommender Systems**|Beichuan Zhang et.al.|[2308.09395v1](http://arxiv.org/abs/2308.09395v1)|null|
+|**2023-08-18**|**Graph-based Alignment and Uniformity for Recommendation**|Liangwei Yang et.al.|[2308.09292v1](http://arxiv.org/abs/2308.09292v1)|**[link](https://github.com/yangliangwei/graphau)**|
+|**2023-08-17**|**A Model-Agnostic Framework for Recommendation via Interest-aware Item Embeddings**|Amit Kumar Jaiswal et.al.|[2308.09202v1](http://arxiv.org/abs/2308.09202v1)|null|
+|**2023-08-17**|**Learning the hub graphical Lasso model with the structured sparsity via an efficient algorithm**|Chengjing Wang et.al.|[2308.08852v1](http://arxiv.org/abs/2308.08852v1)|null|
+|**2023-08-17**|**Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation**|Jiazheng Jing et.al.|[2308.08799v1](http://arxiv.org/abs/2308.08799v1)|**[link](https://github.com/jingxiaoyi/pare)**|
+|**2023-08-16**|**Non-monotone Sequential Submodular Maximization**|Shaojie Tang et.al.|[2308.08641v1](http://arxiv.org/abs/2308.08641v1)|null|
+|**2023-08-16**|**Group Identification via Transitional Hypergraph Convolution with Cross-view Self-supervised Learning**|Mingdai Yang et.al.|[2308.08620v1](http://arxiv.org/abs/2308.08620v1)|null|
 |**2023-08-14**|**Context-Aware Service Recommendation System for the Social Internet of Things**|Amar Khelloufi et.al.|[2308.08499v1](http://arxiv.org/abs/2308.08499v1)|null|
 |**2023-08-16**|**A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems**|Keqin Bao et.al.|[2308.08434v1](http://arxiv.org/abs/2308.08434v1)|**[link](https://github.com/sai990323/grounding4rec)**|
 |**2023-08-16**|**Is Meta-Learning the Right Approach for the Cold-Start Problem in Recommender Systems?**|Davide Buffelli et.al.|[2308.08354v1](http://arxiv.org/abs/2308.08354v1)|null|
@@ -4249,6 +4286,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Semantic relatedness in DBpedia: A comparative and experimental assessment**|Anna Formica et.al.|[2308.09502v1](http://arxiv.org/abs/2308.09502v1)|null|
+|**2023-08-17**|**Semantic Information for Object Detection**|Jean-Francois Nies et.al.|[2308.08990v1](http://arxiv.org/abs/2308.08990v1)|null|
+|**2023-08-17**|**Development of a Knowledge Graph Embeddings Model for Pain**|Jaya Chaturvedi et.al.|[2308.08904v1](http://arxiv.org/abs/2308.08904v1)|null|
+|**2023-08-15**|**KMF: Knowledge-Aware Multi-Faceted Representation Learning for Zero-Shot Node Classification**|Likang Wu et.al.|[2308.08563v1](http://arxiv.org/abs/2308.08563v1)|null|
 |**2023-08-14**|**Knowledge Prompt-tuning for Sequential Recommendation**|Jianyang Zhai et.al.|[2308.08459v1](http://arxiv.org/abs/2308.08459v1)|**[link](https://github.com/zhaijianyang/kp4sr)**|
 |**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371v1](http://arxiv.org/abs/2308.08371v1)|**[link](https://github.com/0x14d/embedding-operator-knowledge)**|
 |**2023-08-16**|**MoCoSA: Momentum Contrast for Knowledge Graph Completion with Structure-Augmented Pre-trained Language Models**|Jiabang He et.al.|[2308.08204v1](http://arxiv.org/abs/2308.08204v1)|null|
@@ -4797,6 +4838,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**A Potts model approach to unsupervised graph clustering with Graph Neural Networks**|Co Tran et.al.|[2308.09644v1](http://arxiv.org/abs/2308.09644v1)|null|
+|**2023-08-18**|**Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks for Node Classification**|Arpit Merchant et.al.|[2308.09596v1](http://arxiv.org/abs/2308.09596v1)|null|
+|**2023-08-18**|**Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity**|Van Thuy Hoang et.al.|[2308.09517v1](http://arxiv.org/abs/2308.09517v1)|**[link](https://github.com/nslab-cuk/unified-graph-transformer)**|
+|**2023-08-18**|**Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer**|Wendong Bi et.al.|[2308.09499v1](http://arxiv.org/abs/2308.09499v1)|null|
+|**2023-08-18**|**Boosting Few-shot Action Recognition with Graph-guided Hybrid Matching**|Jiazheng Xing et.al.|[2308.09346v1](http://arxiv.org/abs/2308.09346v1)|**[link](https://github.com/jiazheng-xing/gghm)**|
+|**2023-08-18**|**Distribution shift mitigation at test time with performance guarantees**|Rui Ding et.al.|[2308.09259v1](http://arxiv.org/abs/2308.09259v1)|null|
+|**2023-08-17**|**Interpretable Graph Neural Networks for Tabular Data**|Amr Alkhatib et.al.|[2308.08945v1](http://arxiv.org/abs/2308.08945v1)|null|
+|**2023-08-17**|**Mitigating Semantic Confusion from Hostile Neighborhood for Graph Active Learning**|Tianmeng Yang et.al.|[2308.08823v1](http://arxiv.org/abs/2308.08823v1)|null|
+|**2023-08-17**|**Graph Neural Network Backend for Speaker Recognition**|Liang He et.al.|[2308.08767v1](http://arxiv.org/abs/2308.08767v1)|null|
+|**2023-08-16**|**Group Identification via Transitional Hypergraph Convolution with Cross-view Self-supervised Learning**|Mingdai Yang et.al.|[2308.08620v1](http://arxiv.org/abs/2308.08620v1)|null|
 |**2023-08-16**|**Graph Out-of-Distribution Generalization with Controllable Data Augmentation**|Bin Lu et.al.|[2308.08344v1](http://arxiv.org/abs/2308.08344v1)|null|
 |**2023-08-16**|**The Expressive Power of Graph Neural Networks: A Survey**|Bingxu Zhang et.al.|[2308.08235v1](http://arxiv.org/abs/2308.08235v1)|null|
 |**2023-08-16**|**DeSCo: Towards Generalizable and Scalable Deep Subgraph Counting**|Tianyu Fu et.al.|[2308.08198v1](http://arxiv.org/abs/2308.08198v1)|null|
