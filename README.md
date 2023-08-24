@@ -21,6 +21,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**Simple is Better and Large is Not Enough: Towards Ensembling of Foundational Language Models**|Nancy Tyagi et.al.|[2308.12272v1](http://arxiv.org/abs/2308.12272v1)|null|
+|**2023-08-23**|**Curriculum Learning with Adam: The Devil Is in the Wrong Details**|Lucas Weber et.al.|[2308.12202v1](http://arxiv.org/abs/2308.12202v1)|null|
+|**2023-08-23**|**Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments**|Maria Rigaki et.al.|[2308.12086v1](http://arxiv.org/abs/2308.12086v1)|null|
+|**2023-08-23**|**Bridging the Gap: Deciphering Tabular Data Using Large Language Model**|Hengyuan Zhang et.al.|[2308.11891v1](http://arxiv.org/abs/2308.11891v1)|null|
+|**2023-08-22**|**Identifying depression-related topics in smartphone-collected free-response speech recordings using an automatic speech recognition system and a deep learning topic model**|Yuezhou Zhang et.al.|[2308.11773v1](http://arxiv.org/abs/2308.11773v1)|null|
+|**2023-08-22**|**Halo: Estimation and Reduction of Hallucinations in Open-Source Weak Large Language Models**|Mohamed Elaraby et.al.|[2308.11764v1](http://arxiv.org/abs/2308.11764v1)|**[link](https://github.com/engsalem/halo)**|
 |**2023-08-22**|**Uncertainty Estimation of Transformers' Predictions via Topological Analysis of the Attention Matrices**|Elizaveta Kostenok et.al.|[2308.11295v1](http://arxiv.org/abs/2308.11295v1)|null|
 |**2023-08-22**|**The Software Heritage License Dataset (2022 Edition)**|Jesús M. González-Barahona et.al.|[2308.11258v1](http://arxiv.org/abs/2308.11258v1)|null|
 |**2023-08-22**|**ConcatPlexer: Additional Dim1 Batching for Faster ViTs**|Donghoon Han et.al.|[2308.11199v1](http://arxiv.org/abs/2308.11199v1)|null|
@@ -1634,6 +1640,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Advancing Relation Extraction through Language Probing with Exemplars from Set Co-Expansion**|Yerong Li et.al.|[2308.11720v1](http://arxiv.org/abs/2308.11720v1)|null|
 |**2023-08-19**|**Optimizing Multi-Class Text Classification: A Diverse Stacking Ensemble Framework Utilizing Transformers**|Anusuya Krishnan et.al.|[2308.11519v1](http://arxiv.org/abs/2308.11519v1)|null|
 |**2023-08-22**|**Uncertainty Estimation of Transformers' Predictions via Topological Analysis of the Attention Matrices**|Elizaveta Kostenok et.al.|[2308.11295v1](http://arxiv.org/abs/2308.11295v1)|null|
 |**2023-08-21**|**Personalized Event Prediction for Electronic Health Records**|Jeong Min Lee et.al.|[2308.11013v1](http://arxiv.org/abs/2308.11013v1)|null|
@@ -2469,6 +2476,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**Evaluation of Faithfulness Using the Longest Supported Subsequence**|Anirudh Mittal et.al.|[2308.12157v1](http://arxiv.org/abs/2308.12157v1)|null|
+|**2023-08-23**|**InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4**|Lai Wei et.al.|[2308.12067v1](http://arxiv.org/abs/2308.12067v1)|null|
+|**2023-08-23**|**FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering**|Zhenyu Li et.al.|[2308.12060v1](http://arxiv.org/abs/2308.12060v1)|**[link](https://github.com/leezythu/flexkbqa)**|
+|**2023-08-23**|**EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE**|Junyi Chen et.al.|[2308.11971v1](http://arxiv.org/abs/2308.11971v1)|null|
+|**2023-08-23**|**Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs**|Ziyi Tang et.al.|[2308.11914v1](http://arxiv.org/abs/2308.11914v1)|null|
+|**2023-08-23**|**Bridging the Gap: Deciphering Tabular Data Using Large Language Model**|Hengyuan Zhang et.al.|[2308.11891v1](http://arxiv.org/abs/2308.11891v1)|null|
+|**2023-08-22**|**Exploring the Effectiveness of GPT Models in Test-Taking: A Case Study of the Driver's License Knowledge Test**|Saba Rahimi et.al.|[2308.11827v1](http://arxiv.org/abs/2308.11827v1)|null|
+|**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730v1](http://arxiv.org/abs/2308.11730v1)|null|
 |**2023-08-22**|**Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning**|Shansong Liu et.al.|[2308.11276v1](http://arxiv.org/abs/2308.11276v1)|null|
 |**2023-08-22**|**HopPG: Self-Iterative Program Generation for Multi-Hop Question Answering over Heterogeneous Knowledge**|Yingyao Wang et.al.|[2308.11257v1](http://arxiv.org/abs/2308.11257v1)|null|
 |**2023-08-21**|**DocPrompt: Large-scale continue pretrain for zero-shot and few-shot document question answering**|Sijin Wu et.al.|[2308.10959v1](http://arxiv.org/abs/2308.10959v1)|null|
@@ -3625,6 +3640,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders**|Yueqi Wang et.al.|[2308.12256v1](http://arxiv.org/abs/2308.12256v1)|null|
+|**2023-08-23**|**LLMRec: Benchmarking Large Language Models on Recommendation Task**|Junling Liu et.al.|[2308.12241v1](http://arxiv.org/abs/2308.12241v1)|**[link](https://github.com/williamliujl/llmrec)**|
+|**2023-08-23**|**On Using Information Retrieval to Recommend Machine Learning Good Practices for Software Engineers**|Laura Cabra-Acela et.al.|[2308.12095v1](http://arxiv.org/abs/2308.12095v1)|null|
+|**2023-08-23**|**Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems**|Ludovico Boratto et.al.|[2308.12083v1](http://arxiv.org/abs/2308.12083v1)|null|
+|**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028v1](http://arxiv.org/abs/2308.12028v1)|**[link](https://github.com/xuan-zw/lkpnr)**|
+|**2023-08-23**|**Economic Recommender Systems -- A Systematic Review**|Alvise De Biasio et.al.|[2308.11998v1](http://arxiv.org/abs/2308.11998v1)|null|
 |**2023-08-22**|**On the Opportunities and Challenges of Offline Reinforcement Learning for Recommender Systems**|Xiaocong Chen et.al.|[2308.11336v1](http://arxiv.org/abs/2308.11336v1)|null|
 |**2023-08-22**|**Test Time Embedding Normalization for Popularity Bias Mitigation**|Dain Kim et.al.|[2308.11288v1](http://arxiv.org/abs/2308.11288v1)|**[link](https://github.com/ml-postech/tten)**|
 |**2023-08-22**|**Towards Validating Long-Term User Feedbacks in Interactive Recommendation Systems**|Hojoon Lee et.al.|[2308.11137v1](http://arxiv.org/abs/2308.11137v1)|null|
@@ -4343,6 +4364,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028v1](http://arxiv.org/abs/2308.12028v1)|**[link](https://github.com/xuan-zw/lkpnr)**|
+|**2023-08-23**|**Relational Concept Based Models**|Pietro Barbiero et.al.|[2308.11991v1](http://arxiv.org/abs/2308.11991v1)|null|
+|**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730v1](http://arxiv.org/abs/2308.11730v1)|null|
 |**2023-08-22**|**Recommending Analogical APIs via Knowledge Graph Embedding**|Mingwei Liu et.al.|[2308.11422v1](http://arxiv.org/abs/2308.11422v1)|null|
 |**2023-08-21**|**Incorprating Prompt tuning for Commit classification with prior Knowledge**|Jiajun Tong et.al.|[2308.10576v1](http://arxiv.org/abs/2308.10576v1)|null|
 |**2023-08-21**|**KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks**|Nicolas Heist et.al.|[2308.10537v1](http://arxiv.org/abs/2308.10537v1)|null|
@@ -4901,8 +4925,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**MolGrapher: Graph-based Visual Recognition of Chemical Structures**|Lucas Morin et.al.|[2308.12234v1](http://arxiv.org/abs/2308.12234v1)|**[link](https://github.com/ds4sd/molgrapher)**|
+|**2023-08-23**|**Cached Operator Reordering: A Unified View for Fast GNN Training**|Julia Bazinska et.al.|[2308.12093v1](http://arxiv.org/abs/2308.12093v1)|null|
+|**2023-08-23**|**Will More Expressive Graph Neural Networks do Better on Generative Tasks?**|Xiandong Zou et.al.|[2308.11978v1](http://arxiv.org/abs/2308.11978v1)|null|
+|**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v1](http://arxiv.org/abs/2308.11951v1)|null|
+|**2023-08-23**|**Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification**|Chengguo Yuan et.al.|[2308.11937v1](http://arxiv.org/abs/2308.11937v1)|null|
+|**2023-08-22**|**Multi-Instance Adversarial Attack on GNN-Based Malicious Domain Detection**|Mahmoud Nazzal et.al.|[2308.11754v1](http://arxiv.org/abs/2308.11754v1)|null|
 |**2023-08-22**|**Graph Neural Network-Enhanced Expectation Propagation Algorithm for MIMO Turbo Receivers**|Xingyu Zhou et.al.|[2308.11335v1](http://arxiv.org/abs/2308.11335v1)|null|
-|**2023-08-22**|**Predicting Transition Temperature of Superconductors with Graph Neural Networks**|Liang Gu et.al.|[2308.11160v1](http://arxiv.org/abs/2308.11160v1)|null|
+|**2023-08-23**|**Predicting Transition Temperature of Superconductors with Graph Neural Networks**|Liang Gu et.al.|[2308.11160v2](http://arxiv.org/abs/2308.11160v2)|null|
 |**2023-08-22**|**Graph Encoding and Neural Network Approaches for Volleyball Analytics: From Game Outcome to Individual Play Predictions**|Rhys Tracy et.al.|[2308.11142v1](http://arxiv.org/abs/2308.11142v1)|null|
 |**2023-08-22**|**How Expressive are Graph Neural Networks in Recommendation?**|Xuheng Cai et.al.|[2308.11127v1](http://arxiv.org/abs/2308.11127v1)|**[link](https://github.com/hkuds/gte)**|
 |**2023-08-21**|**Topological Graph Signal Compression**|Guillermo Bernárdez et.al.|[2308.11068v1](http://arxiv.org/abs/2308.11068v1)|null|
