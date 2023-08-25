@@ -21,12 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**Text Similarity from Image Contents using Statistical and Semantic Analysis Techniques**|Sagar Kulkarni et.al.|[2308.12842v1](http://arxiv.org/abs/2308.12842v1)|null|
+|**2023-08-24**|**Sparks of Large Audio Models: A Survey and Outlook**|Siddique Latif et.al.|[2308.12792v1](http://arxiv.org/abs/2308.12792v1)|null|
+|**2023-08-24**|**Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization**|Yali Du et.al.|[2308.12773v1](http://arxiv.org/abs/2308.12773v1)|null|
 |**2023-08-23**|**Simple is Better and Large is Not Enough: Towards Ensembling of Foundational Language Models**|Nancy Tyagi et.al.|[2308.12272v1](http://arxiv.org/abs/2308.12272v1)|null|
 |**2023-08-23**|**Curriculum Learning with Adam: The Devil Is in the Wrong Details**|Lucas Weber et.al.|[2308.12202v1](http://arxiv.org/abs/2308.12202v1)|null|
 |**2023-08-23**|**Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments**|Maria Rigaki et.al.|[2308.12086v1](http://arxiv.org/abs/2308.12086v1)|null|
 |**2023-08-23**|**Bridging the Gap: Deciphering Tabular Data Using Large Language Model**|Hengyuan Zhang et.al.|[2308.11891v1](http://arxiv.org/abs/2308.11891v1)|null|
 |**2023-08-22**|**Identifying depression-related topics in smartphone-collected free-response speech recordings using an automatic speech recognition system and a deep learning topic model**|Yuezhou Zhang et.al.|[2308.11773v1](http://arxiv.org/abs/2308.11773v1)|null|
-|**2023-08-22**|**Halo: Estimation and Reduction of Hallucinations in Open-Source Weak Large Language Models**|Mohamed Elaraby et.al.|[2308.11764v1](http://arxiv.org/abs/2308.11764v1)|**[link](https://github.com/engsalem/halo)**|
+|**2023-08-24**|**Halo: Estimation and Reduction of Hallucinations in Open-Source Weak Large Language Models**|Mohamed Elaraby et.al.|[2308.11764v2](http://arxiv.org/abs/2308.11764v2)|**[link](https://github.com/engsalem/halo)**|
 |**2023-08-22**|**Uncertainty Estimation of Transformers' Predictions via Topological Analysis of the Attention Matrices**|Elizaveta Kostenok et.al.|[2308.11295v1](http://arxiv.org/abs/2308.11295v1)|null|
 |**2023-08-22**|**The Software Heritage License Dataset (2022 Edition)**|Jesús M. González-Barahona et.al.|[2308.11258v1](http://arxiv.org/abs/2308.11258v1)|null|
 |**2023-08-22**|**ConcatPlexer: Additional Dim1 Batching for Faster ViTs**|Donghoon Han et.al.|[2308.11199v1](http://arxiv.org/abs/2308.11199v1)|null|
@@ -1338,6 +1341,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**Advancing Hungarian Text Processing with HuSpaCy: Efficient and Accurate NLP Pipelines**|György Orosz et.al.|[2308.12635v1](http://arxiv.org/abs/2308.12635v1)|**[link](https://github.com/huspacy/huspacy)**|
+|**2023-08-24**|**CARE: Co-Attention Network for Joint Entity and Relation Extraction**|Wenjun Kong et.al.|[2308.12531v1](http://arxiv.org/abs/2308.12531v1)|null|
+|**2023-08-23**|**Evolution of ESG-focused DLT Research: An NLP Analysis of the Literature**|Walter Hernandez et.al.|[2308.12420v1](http://arxiv.org/abs/2308.12420v1)|null|
 |**2023-08-22**|**Extracting Relational Triples Based on Graph Recursive Neural Network via Dynamic Feedback Forest Algorithm**|Hongyin Zhu et.al.|[2308.11411v1](http://arxiv.org/abs/2308.11411v1)|null|
 |**2023-08-19**|**Open, Closed, or Small Language Models for Text Classification?**|Hao Yu et.al.|[2308.10092v1](http://arxiv.org/abs/2308.10092v1)|null|
 |**2023-08-18**|**Accelerated materials language processing enabled by GPT**|Jaewoong Choi et.al.|[2308.09354v1](http://arxiv.org/abs/2308.09354v1)|null|
@@ -2476,6 +2482,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|**[link](https://github.com/qwenlm/qwen-vl)**|
+|**2023-08-24**|**DLIP: Distilling Language-Image Pre-training**|Huafeng Kuang et.al.|[2308.12956v1](http://arxiv.org/abs/2308.12956v1)|null|
+|**2023-08-24**|**Exploring the Integration Strategies of Retriever and Large Language Models**|Ye Liu et.al.|[2308.12574v1](http://arxiv.org/abs/2308.12574v1)|null|
 |**2023-08-23**|**Evaluation of Faithfulness Using the Longest Supported Subsequence**|Anirudh Mittal et.al.|[2308.12157v1](http://arxiv.org/abs/2308.12157v1)|null|
 |**2023-08-23**|**InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4**|Lai Wei et.al.|[2308.12067v1](http://arxiv.org/abs/2308.12067v1)|null|
 |**2023-08-23**|**FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering**|Zhenyu Li et.al.|[2308.12060v1](http://arxiv.org/abs/2308.12060v1)|**[link](https://github.com/leezythu/flexkbqa)**|
@@ -3263,6 +3272,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**CARE: Co-Attention Network for Joint Entity and Relation Extraction**|Wenjun Kong et.al.|[2308.12531v1](http://arxiv.org/abs/2308.12531v1)|null|
 |**2023-08-22**|**BELB: a Biomedical Entity Linking Benchmark**|Samuele Garda et.al.|[2308.11537v1](http://arxiv.org/abs/2308.11537v1)|**[link](https://github.com/sg-wbi/belb-exp)**|
 |**2023-08-21**|**SeqGPT: An Out-of-the-box Large Language Model for Open Domain Sequence Understanding**|Tianyu Yu et.al.|[2308.10529v1](http://arxiv.org/abs/2308.10529v1)|**[link](https://github.com/alibaba-nlp/seqgpt)**|
 |**2023-08-18**|**Accelerated materials language processing enabled by GPT**|Jaewoong Choi et.al.|[2308.09354v1](http://arxiv.org/abs/2308.09354v1)|null|
@@ -3640,6 +3650,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**On Popularity Bias of Multimodal-aware Recommender Systems: a Modalities-driven Analysis**|Daniele Malitesta et.al.|[2308.12911v1](http://arxiv.org/abs/2308.12911v1)|**[link](https://github.com/sisinflab/multimod-popularity-bias)**|
+|**2023-08-24**|**Towards Communication-Efficient Model Updating for On-Device Session-Based Recommendation**|Xin Xia et.al.|[2308.12777v1](http://arxiv.org/abs/2308.12777v1)|null|
+|**2023-08-24**|**On the Consistency of Average Embeddings for Item Recommendation**|Walid Bendada et.al.|[2308.12767v1](http://arxiv.org/abs/2308.12767v1)|null|
+|**2023-08-24**|**Video Recommendation Using Social Network Analysis and User Viewing Patterns**|Mehrdad Maghsoudi et.al.|[2308.12743v1](http://arxiv.org/abs/2308.12743v1)|null|
+|**2023-08-24**|**Privacy engineering through obfuscation**|Ero Balsa et.al.|[2308.12514v1](http://arxiv.org/abs/2308.12514v1)|null|
 |**2023-08-23**|**Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders**|Yueqi Wang et.al.|[2308.12256v1](http://arxiv.org/abs/2308.12256v1)|null|
 |**2023-08-23**|**LLMRec: Benchmarking Large Language Models on Recommendation Task**|Junling Liu et.al.|[2308.12241v1](http://arxiv.org/abs/2308.12241v1)|**[link](https://github.com/williamliujl/llmrec)**|
 |**2023-08-23**|**On Using Information Retrieval to Recommend Machine Learning Good Practices for Software Engineers**|Laura Cabra-Acela et.al.|[2308.12095v1](http://arxiv.org/abs/2308.12095v1)|null|
@@ -4925,6 +4940,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621v1](http://arxiv.org/abs/2308.12621v1)|null|
 |**2023-08-23**|**MolGrapher: Graph-based Visual Recognition of Chemical Structures**|Lucas Morin et.al.|[2308.12234v1](http://arxiv.org/abs/2308.12234v1)|**[link](https://github.com/ds4sd/molgrapher)**|
 |**2023-08-23**|**Cached Operator Reordering: A Unified View for Fast GNN Training**|Julia Bazinska et.al.|[2308.12093v1](http://arxiv.org/abs/2308.12093v1)|null|
 |**2023-08-23**|**Will More Expressive Graph Neural Networks do Better on Generative Tasks?**|Xiandong Zou et.al.|[2308.11978v1](http://arxiv.org/abs/2308.11978v1)|null|
