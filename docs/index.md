@@ -25,6 +25,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Vulgar Remarks Detection in Chittagonian Dialect of Bangla**|Tanjim Mahmud et.al.|[2308.15448v1](http://arxiv.org/abs/2308.15448v1)|null|
+|**2023-08-29**|**Historical patterns of rice farming explain modern-day language use in China and Japan more than modernization and urbanization**|Sharath Chandra Guntuku et.al.|[2308.15352v1](http://arxiv.org/abs/2308.15352v1)|null|
+|**2023-08-29**|**A Framework for Responsible Development of Automated Student Feedback with Generative AI**|Euan D Lindsay et.al.|[2308.15334v1](http://arxiv.org/abs/2308.15334v1)|null|
+|**2023-08-29**|**CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs**|Hiroyuki Ootomo et.al.|[2308.15136v1](http://arxiv.org/abs/2308.15136v1)|null|
+|**2023-08-29**|**Large Language Models on the Chessboard: A Study on ChatGPT's Formal Language Comprehension and Complex Reasoning Skills**|Mu-Tien Kuo et.al.|[2308.15118v1](http://arxiv.org/abs/2308.15118v1)|null|
+|**2023-08-29**|**Serving MoE Models on Resource-constrained Edge Devices via Dynamic Expert Swapping**|Rui Kong et.al.|[2308.15030v1](http://arxiv.org/abs/2308.15030v1)|null|
+|**2023-08-29**|**TransPrompt v2: A Transferable Prompting Framework for Cross-task Text Classification**|Jianing Wang et.al.|[2308.15010v1](http://arxiv.org/abs/2308.15010v1)|null|
+|**2023-08-29**|**CEFHRI: A Communication Efficient Federated Learning Framework for Recognizing Industrial Human-Robot Interaction**|Umar Khalid et.al.|[2308.14965v1](http://arxiv.org/abs/2308.14965v1)|**[link](https://github.com/umarkhalidai/cefhri-efficient-federated-learning)**|
 |**2023-08-28**|**Diversified Ensemble of Independent Sub-Networks for Robust Self-Supervised Representation Learning**|Amirhossein Vahidi et.al.|[2308.14705v1](http://arxiv.org/abs/2308.14705v1)|null|
 |**2023-08-28**|**ANER: Arabic and Arabizi Named Entity Recognition using Transformer-Based Approach**|Abdelrahman "Boda" Sadallah et.al.|[2308.14669v1](http://arxiv.org/abs/2308.14669v1)|null|
 |**2023-08-28**|**Large Graph Models: A Perspective**|Ziwei Zhang et.al.|[2308.14522v1](http://arxiv.org/abs/2308.14522v1)|null|
@@ -1674,12 +1682,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**SpikeBERT: A Language Spikformer Trained with Two-Stage Knowledge Distillation from BERT**|Changze Lv et.al.|[2308.15122v1](http://arxiv.org/abs/2308.15122v1)|null|
+|**2023-08-29**|**Advancing Adversarial Robustness Through Adversarial Logit Update**|Hao Xuan et.al.|[2308.15072v1](http://arxiv.org/abs/2308.15072v1)|null|
+|**2023-08-29**|**TransPrompt v2: A Transferable Prompting Framework for Cross-task Text Classification**|Jianing Wang et.al.|[2308.15010v1](http://arxiv.org/abs/2308.15010v1)|null|
 |**2023-08-28**|**Fine-Tuning Llama 2 Large Language Models for Detecting Online Sexual Predatory Chats and Abusive Texts**|Thanh Thi Nguyen et.al.|[2308.14683v1](http://arxiv.org/abs/2308.14683v1)|null|
 |**2023-08-28**|**Breaking the Bank with ChatGPT: Few-Shot Text Classification for Finance**|Lefteris Loukas et.al.|[2308.14634v1](http://arxiv.org/abs/2308.14634v1)|null|
 |**2023-08-25**|**GRASP: A Rehearsal Policy for Efficient Online Continual Learning**|Md Yousuf Harun et.al.|[2308.13646v1](http://arxiv.org/abs/2308.13646v1)|null|
 |**2023-08-25**|**AI in Thyroid Cancer Diagnosis: Techniques, Trends, and Future Directions**|Yassine Habchi et.al.|[2308.13592v1](http://arxiv.org/abs/2308.13592v1)|null|
 |**2023-08-21**|**Feature Extraction Using Deep Generative Models for Bangla Text Classification on a New Comprehensive Dataset**|Md. Rafi-Ur-Rashid et.al.|[2308.13545v1](http://arxiv.org/abs/2308.13545v1)|null|
-|**2023-08-25**|**Reweighting Monte Carlo Predictions and Automated Fragmentation Variations in Pythia 8**|Christan Bierlich et.al.|[2308.13459v1](http://arxiv.org/abs/2308.13459v1)|null|
+|**2023-08-25**|**Reweighting Monte Carlo Predictions and Automated Fragmentation Variations in Pythia 8**|Christan Bierlich et.al.|[2308.13459v1](http://arxiv.org/abs/2308.13459v1)|**[link](https://gitlab.com/uchep/mlhad-weights-validation)**|
 |**2023-08-25**|**Compressor-Based Classification for Atrial Fibrillation Detection**|Nikita Markov et.al.|[2308.13328v1](http://arxiv.org/abs/2308.13328v1)|null|
 |**2023-08-25**|**MatchXML: An Efficient Text-label Matching Framework for Extreme Multi-label Text Classification**|Hui Ye et.al.|[2308.13139v1](http://arxiv.org/abs/2308.13139v1)|**[link](https://github.com/huiyegit/matchxml)**|
 |**2023-08-24**|**Contrastive Learning of Temporal Distinctiveness for Survival Analysis in Electronic Health Records**|Mohsen Nayebi Kerdabadi et.al.|[2308.13104v1](http://arxiv.org/abs/2308.13104v1)|null|
@@ -2524,7 +2535,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-28**|**Challenges of GPT-3-based Conversational Agents for Healthca**|Fabian Lechner et.al.|[2308.14641v1](http://arxiv.org/abs/2308.14641v1)|null|
+|**2023-08-29**|**KGConv, a Conversational Corpus grounded in Wikidata**|Quentin Brabant et.al.|[2308.15298v1](http://arxiv.org/abs/2308.15298v1)|null|
+|**2023-08-29**|**Hyperbolic Code Retrieval: A Novel Approach for Efficient Code Search Using Hyperbolic Space Embeddings**|Xunzhu Tang et.al.|[2308.15234v1](http://arxiv.org/abs/2308.15234v1)|null|
+|**2023-08-29**|**Challenges of GPT-3-based Conversational Agents for Healthcare**|Fabian Lechner et.al.|[2308.14641v2](http://arxiv.org/abs/2308.14641v2)|null|
 |**2023-08-28**|**Spoken Language Intelligence of Large Language Models for Language Learning**|Linkai Peng et.al.|[2308.14536v1](http://arxiv.org/abs/2308.14536v1)|**[link](https://github.com/vocaliodmiku/sli-ll)**|
 |**2023-08-28**|**Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA**|Guanting Dong et.al.|[2308.14436v1](http://arxiv.org/abs/2308.14436v1)|**[link](https://github.com/dongguanting/skp-for-kbqa)**|
 |**2023-08-28**|**Biomedical Entity Linking with Triple-aware Pre-Training**|Xi Yan et.al.|[2308.14429v1](http://arxiv.org/abs/2308.14429v1)|null|
@@ -3707,6 +3720,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Providing Previously Unseen Users Fair Recommendations Using Variational Autoencoders**|Bjørnar Vassøy et.al.|[2308.15230v1](http://arxiv.org/abs/2308.15230v1)|**[link](https://github.com/bjornarvass/fair-vae-rec)**|
+|**2023-08-29**|**CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs**|Hiroyuki Ootomo et.al.|[2308.15136v1](http://arxiv.org/abs/2308.15136v1)|null|
+|**2023-08-29**|**STEC: See-Through Transformer-based Encoder for CTR Prediction**|Serdarcan Dilbaz et.al.|[2308.15033v1](http://arxiv.org/abs/2308.15033v1)|null|
+|**2023-08-28**|**RecRec: Algorithmic Recourse for Recommender Systems**|Sahil Verma et.al.|[2308.14916v1](http://arxiv.org/abs/2308.14916v1)|null|
 |**2023-08-28**|**Fairness Through Domain Awareness: Mitigating Popularity Bias For Music Discovery**|Rebecca Salganik et.al.|[2308.14601v1](http://arxiv.org/abs/2308.14601v1)|null|
 |**2023-08-28**|**Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions**|Lei Zhu et.al.|[2308.14263v1](http://arxiv.org/abs/2308.14263v1)|**[link](https://github.com/bmc-sdnu/cross-modal-retrieval)**|
 |**2023-08-27**|**Only Encode Once: Making Content-based News Recommender Greener**|Qijiong Liu et.al.|[2308.14155v1](http://arxiv.org/abs/2308.14155v1)|null|
@@ -4448,10 +4465,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**KGConv, a Conversational Corpus grounded in Wikidata**|Quentin Brabant et.al.|[2308.15298v1](http://arxiv.org/abs/2308.15298v1)|null|
+|**2023-08-29**|**Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation**|Meng Yuan et.al.|[2308.15244v1](http://arxiv.org/abs/2308.15244v1)|null|
+|**2023-08-29**|**Ontologies in Digital Twins: A Systematic Literature Review**|Erkan Karabulut et.al.|[2308.15168v1](http://arxiv.org/abs/2308.15168v1)|null|
+|**2023-08-29**|**Large language models converge toward human-like concept organization**|Mathias Lykke Gammelgaard et.al.|[2308.15047v1](http://arxiv.org/abs/2308.15047v1)|null|
+|**2023-08-29**|**Exploring the Limits of Historical Information for Temporal Knowledge Graph Extrapolation**|Yi Xu et.al.|[2308.15002v1](http://arxiv.org/abs/2308.15002v1)|null|
 |**2023-08-28**|**RESTORE: Graph Embedding Assessment Through Reconstruction**|Hong Yung Yip et.al.|[2308.14659v1](http://arxiv.org/abs/2308.14659v1)|null|
 |**2023-08-28**|**Context-Aware Composition of Agent Policies by Markov Decision Process Entity Embeddings and Agent Ensembles**|Nicole Merkle et.al.|[2308.14521v1](http://arxiv.org/abs/2308.14521v1)|**[link](https://github.com/nmerkle/sw_journal)**|
 |**2023-08-28**|**Biomedical Entity Linking with Triple-aware Pre-Training**|Xi Yan et.al.|[2308.14429v1](http://arxiv.org/abs/2308.14429v1)|null|
-|**2023-08-28**|**DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation**|Zhijie Bao et.al.|[2308.14346v1](http://arxiv.org/abs/2308.14346v1)|null|
+|**2023-08-28**|**DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation**|Zhijie Bao et.al.|[2308.14346v1](http://arxiv.org/abs/2308.14346v1)|**[link](https://github.com/fudandisc/disc-medllm)**|
 |**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321v1](http://arxiv.org/abs/2308.14321v1)|null|
 |**2023-08-27**|**Generations of Knowledge Graphs: The Crazy Ideas and the Business Impact**|Xin Luna Dong et.al.|[2308.14217v1](http://arxiv.org/abs/2308.14217v1)|null|
 |**2023-08-26**|**Exploring Large Language Models for Knowledge Graph Completion**|Liang Yao et.al.|[2308.13916v1](http://arxiv.org/abs/2308.13916v1)|**[link](https://github.com/yao8839836/kg-llm)**|
@@ -5022,6 +5044,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**A Comparative Study of Loss Functions: Traffic Predictions in Regular and Congestion Scenarios**|Yangxinyu Xie et.al.|[2308.15464v1](http://arxiv.org/abs/2308.15464v1)|**[link](https://github.com/xieyangxinyu/a-comparative-study-of-loss-functions-traffic-predictions-in-regular-and-congestion-scenarios)**|
+|**2023-08-29**|**How Faithful are Self-Explainable GNNs?**|Marc Christiansen et.al.|[2308.15096v1](http://arxiv.org/abs/2308.15096v1)|null|
+|**2023-08-29**|**Low-bit Quantization for Deep Graph Neural Networks with Smoothness-aware Message Propagation**|Shuang Wang et.al.|[2308.14949v1](http://arxiv.org/abs/2308.14949v1)|null|
+|**2023-08-28**|**Matbench Discovery -- An evaluation framework for machine learning crystal stability prediction**|Janosh Riebesell et.al.|[2308.14920v1](http://arxiv.org/abs/2308.14920v1)|**[link](https://github.com/janosh/matbench-discovery)**|
 |**2023-08-28**|**Fairness Through Domain Awareness: Mitigating Popularity Bias For Music Discovery**|Rebecca Salganik et.al.|[2308.14601v1](http://arxiv.org/abs/2308.14601v1)|null|
 |**2023-08-28**|**Multimodal Detection of Social Spambots in Twitter using Transformers**|Loukas Ilias et.al.|[2308.14484v1](http://arxiv.org/abs/2308.14484v1)|null|
 |**2023-08-28**|**Can Transformer and GNN Help Each Other?**|Peiyan Zhang et.al.|[2308.14355v1](http://arxiv.org/abs/2308.14355v1)|null|
