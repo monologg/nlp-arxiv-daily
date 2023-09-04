@@ -21,6 +21,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**When Do Discourse Markers Affect Computational Sentence Understanding?**|Ruiqi Li et.al.|[2309.00368v1](http://arxiv.org/abs/2309.00368v1)|null|
+|**2023-09-01**|**Comparative Topic Modeling for Determinants of Divergent Report Results Applied to Macular Degeneration Studies**|Lucas Cassiel Jacaruso et.al.|[2309.00312v1](http://arxiv.org/abs/2309.00312v1)|null|
+|**2023-09-01**|**FactLLaMA: Optimizing Instruction-Following Language Models with External Knowledge for Automated Fact-Checking**|Tsun-Hin Cheung et.al.|[2309.00240v1](http://arxiv.org/abs/2309.00240v1)|null|
+|**2023-09-01**|**ALJP: An Arabic Legal Judgment Prediction in Personal Status Cases Using Machine Learning Models**|Salwa Abbara et.al.|[2309.00238v1](http://arxiv.org/abs/2309.00238v1)|null|
+|**2023-08-31**|**Predicting Financial Market Trends using Time Series Analysis and Natural Language Processing**|Ali Asgarov et.al.|[2309.00136v1](http://arxiv.org/abs/2309.00136v1)|null|
 |**2023-08-31**|**PointLLM: Empowering Large Language Models to Understand Point Clouds**|Runsen Xu et.al.|[2308.16911v1](http://arxiv.org/abs/2308.16911v1)|**[link](https://github.com/openrobotlab/pointllm)**|
 |**2023-08-31**|**Using Large Language Models to Automate Category and Trend Analysis of Scientific Articles: An Application in Ophthalmology**|Hina Raja et.al.|[2308.16688v1](http://arxiv.org/abs/2308.16688v1)|null|
 |**2023-08-31**|**High Accuracy Location Information Extraction from Social Network Texts Using Natural Language Processing**|Lossan Bonde et.al.|[2308.16615v1](http://arxiv.org/abs/2308.16615v1)|null|
@@ -2203,6 +2208,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Will Sentiment Analysis Need Subculture? A New Data Augmentation Approach**|Zhenhua Wang et.al.|[2309.00178v1](http://arxiv.org/abs/2309.00178v1)|null|
 |**2023-08-31**|**Linking microblogging sentiments to stock price movement: An application of GPT-4**|Rick Steinert et.al.|[2308.16771v1](http://arxiv.org/abs/2308.16771v1)|null|
 |**2023-08-31**|**Interpreting Sentiment Composition with Latent Semantic Tree**|Zhongtao Jiang et.al.|[2308.16588v1](http://arxiv.org/abs/2308.16588v1)|**[link](https://github.com/changmenseng/semantic_tree)**|
 |**2023-08-30**|**HAlf-MAsked Model for Named Entity Sentiment analysis**|Anton Kabaev et.al.|[2308.15793v1](http://arxiv.org/abs/2308.15793v1)|null|
@@ -2553,6 +2559,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**|Ziyu Guo et.al.|[2309.00615v1](http://arxiv.org/abs/2309.00615v1)|**[link](https://github.com/ziyuguo99/point-bind_point-llm)**|
+|**2023-09-01**|**Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding**|Joshua Feinglass et.al.|[2309.00215v1](http://arxiv.org/abs/2309.00215v1)|null|
+|**2023-08-31**|**Distraction-free Embeddings for Robust VQA**|Atharvan Dogra et.al.|[2309.00133v1](http://arxiv.org/abs/2309.00133v1)|null|
 |**2023-08-31**|**Expanding Frozen Vision-Language Models without Retraining: Towards Improved Robot Perception**|Riley Tavassoli et.al.|[2308.16493v1](http://arxiv.org/abs/2308.16493v1)|null|
 |**2023-08-31**|**Separate and Locate: Rethink the Text in Text-based Visual Question Answering**|Chengyang Fang et.al.|[2308.16383v1](http://arxiv.org/abs/2308.16383v1)|null|
 |**2023-08-30**|**Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations**|Kilichbek Haydarov et.al.|[2308.16349v1](http://arxiv.org/abs/2308.16349v1)|null|
@@ -3363,6 +3372,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Exploring the law of text geographic information**|Zhenhua Wang et.al.|[2309.00180v1](http://arxiv.org/abs/2309.00180v1)|null|
 |**2023-08-31**|**High Accuracy Location Information Extraction from Social Network Texts Using Natural Language Processing**|Lossan Bonde et.al.|[2308.16615v1](http://arxiv.org/abs/2308.16615v1)|null|
 |**2023-08-31**|**Document Layout Analysis on BaDLAD Dataset: A Comprehensive MViTv2 Based Approach**|Ashrafur Rahman Khan et.al.|[2308.16571v1](http://arxiv.org/abs/2308.16571v1)|null|
 |**2023-08-27**|**Can GitHub Issues Help in the App Review Classifications?**|Yasaman Abedini et.al.|[2308.14211v1](http://arxiv.org/abs/2308.14211v1)|**[link](https://github.com/yabedini/app-review-augmentation)**|
@@ -3745,10 +3755,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Interactive and Concentrated Differential Privacy for Bandits**|Achraf Azize et.al.|[2309.00557v1](http://arxiv.org/abs/2309.00557v1)|null|
+|**2023-09-01**|**Explainable Active Learning for Preference Elicitation**|Furkan Cantürk et.al.|[2309.00356v1](http://arxiv.org/abs/2309.00356v1)|**[link](https://github.com/furkancanturk/explainable_active_learning)**|
 |**2023-08-31**|**Toward Automatically Completing GitHub Workflows**|Antonio Mastropaolo et.al.|[2308.16774v1](http://arxiv.org/abs/2308.16774v1)|null|
 |**2023-08-31**|**Concentrating on the Impact: Consequence-based Explanations in Recommender Systems**|Sebastian Lubos et.al.|[2308.16708v1](http://arxiv.org/abs/2308.16708v1)|null|
 |**2023-08-31**|**Context based learning: a survey of contextual indicators for personalized and adaptive learning recommendations. A pedagogical and technical perspective**|Hasan Abu-Rasheed et.al.|[2308.16661v1](http://arxiv.org/abs/2308.16661v1)|null|
-|**2023-08-31**|**Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations**|Xu Huang et.al.|[2308.16505v1](http://arxiv.org/abs/2308.16505v1)|null|
+|**2023-09-01**|**Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations**|Xu Huang et.al.|[2308.16505v2](http://arxiv.org/abs/2308.16505v2)|null|
 |**2023-08-31**|**AntM $^{2}$ C: A Large Scale Dataset For Multi-Scenario Multi-Modal CTR Prediction**|Zhaoxin Huan et.al.|[2308.16437v1](http://arxiv.org/abs/2308.16437v1)|null|
 |**2023-08-30**|**Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems**|Hengchang Hu et.al.|[2308.15980v1](http://arxiv.org/abs/2308.15980v1)|**[link](https://github.com/holdenhu/mmsr)**|
 |**2023-08-30**|**IDVT: Interest-aware Denoising and View-guided Tuning for Social Recommendation**|Dezhao Yang et.al.|[2308.15926v1](http://arxiv.org/abs/2308.15926v1)|null|
@@ -4503,6 +4515,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**NeMig -- A Bilingual News Collection and Knowledge Graph about Migration**|Andreea Iana et.al.|[2309.00550v1](http://arxiv.org/abs/2309.00550v1)|**[link](https://github.com/andreeaiana/nemig)**|
+|**2023-09-01**|**On the Aggregation of Rules for Knowledge Graph Completion**|Patrick Betz et.al.|[2309.00306v1](http://arxiv.org/abs/2309.00306v1)|null|
 |**2023-08-31**|**Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering**|Lars-Peter Meyer et.al.|[2308.16622v1](http://arxiv.org/abs/2308.16622v1)|null|
 |**2023-08-30**|**AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations**|Yun-Cheng Wang et.al.|[2308.16055v1](http://arxiv.org/abs/2308.16055v1)|null|
 |**2023-08-30**|**An Approach to Evaluate User Interfaces in a Scholarly Knowledge Communication Domain**|Denis Obrezkov et.al.|[2308.15909v1](http://arxiv.org/abs/2308.15909v1)|null|
@@ -5089,6 +5103,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models**|Janghoon Ock et.al.|[2309.00563v1](http://arxiv.org/abs/2309.00563v1)|null|
+|**2023-09-01**|**Application of Deep Learning Methods in Monitoring and Optimization of Electric Power Systems**|Ognjen Kundacina et.al.|[2309.00498v1](http://arxiv.org/abs/2309.00498v1)|null|
+|**2023-09-01**|**A Locality-based Neural Solver for Optical Motion Capture**|Xiaoyu Pan et.al.|[2309.00428v1](http://arxiv.org/abs/2309.00428v1)|**[link](https://github.com/non-void/localmocap)**|
+|**2023-08-31**|**Pose-Graph Attentional Graph Neural Network for Lidar Place Recognition**|Milad Ramezani et.al.|[2309.00168v1](http://arxiv.org/abs/2309.00168v1)|null|
 |**2023-08-31**|**Self-pruning Graph Neural Network for Predicting Inflammatory Disease Activity in Multiple Sclerosis from Brain MR Images**|Chinmay Prabhakar et.al.|[2308.16863v1](http://arxiv.org/abs/2308.16863v1)|**[link](https://github.com/chinmay5/ms_ida)**|
 |**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800v1](http://arxiv.org/abs/2308.16800v1)|**[link](https://github.com/roth-andreas/rank_collapse)**|
 |**2023-08-31**|**Curvature-based Pooling within Graph Neural Networks**|Cedric Sanders et.al.|[2308.16516v1](http://arxiv.org/abs/2308.16516v1)|**[link](https://gitlab.com/cedric_sanders/masterarbeit)**|
