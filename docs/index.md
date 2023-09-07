@@ -25,6 +25,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**J-Guard: Journalism Guided Adversarially Robust Detection of AI-generated News**|Tharindu Kumarage et.al.|[2309.03164v1](http://arxiv.org/abs/2309.03164v1)|null|
+|**2023-09-06**|**Leave no Place Behind: Improved Geolocation in Humanitarian Documents**|Enrico M. Belliardo et.al.|[2309.02914v1](http://arxiv.org/abs/2309.02914v1)|null|
+|**2023-09-06**|**ViCGCN: Graph Convolutional Network with Contextualized Language Models for Social Media Mining in Vietnamese**|Chau-Thang Phan et.al.|[2309.02902v1](http://arxiv.org/abs/2309.02902v1)|null|
+|**2023-09-06**|**Aligning Large Language Models for Clinical Tasks**|Supun Manathunga et.al.|[2309.02884v1](http://arxiv.org/abs/2309.02884v1)|**[link](https://github.com/ssm123ssm/medGPT)**|
+|**2023-09-05**|**A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges**|Maryam Zare et.al.|[2309.02473v1](http://arxiv.org/abs/2309.02473v1)|null|
 |**2023-09-05**|**Sample Size in Natural Language Processing within Healthcare Research**|Jaya Chaturvedi et.al.|[2309.02237v1](http://arxiv.org/abs/2309.02237v1)|null|
 |**2023-09-05**|**Incorporating Dictionaries into a Neural Network Architecture to Extract COVID-19 Medical Concepts From Social Media**|Abul Hasan et.al.|[2309.02188v1](http://arxiv.org/abs/2309.02188v1)|null|
 |**2023-09-05**|**Bridging Emotion Role Labeling and Appraisal-based Emotion Analysis**|Roman Klinger et.al.|[2309.02092v1](http://arxiv.org/abs/2309.02092v1)|null|
@@ -1231,6 +1236,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Prompt-based Effective Input Reformulation for Legal Case Retrieval**|Yanran Tang et.al.|[2309.02962v1](http://arxiv.org/abs/2309.02962v1)|null|
 |**2023-08-22**|**The Software Heritage License Dataset (2022 Edition)**|Jesús M. González-Barahona et.al.|[2308.11258v1](http://arxiv.org/abs/2308.11258v1)|null|
 |**2023-08-02**|**UPB at IberLEF-2023 AuTexTification: Detection of Machine-Generated Text using Transformer Ensembles**|Andrei-Alexandru Preda et.al.|[2308.01408v1](http://arxiv.org/abs/2308.01408v1)|null|
 |**2023-07-26**|**Towards Establishing Systematic Classification Requirements for Automated Driving**|Ken T. Mori et.al.|[2307.14058v1](http://arxiv.org/abs/2307.14058v1)|null|
@@ -1403,6 +1409,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Leave no Place Behind: Improved Geolocation in Humanitarian Documents**|Enrico M. Belliardo et.al.|[2309.02914v1](http://arxiv.org/abs/2309.02914v1)|null|
 |**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190v1](http://arxiv.org/abs/2309.02190v1)|null|
 |**2023-09-04**|**Into the Single Cell Multiverse: an End-to-End Dataset for Procedural Knowledge Extraction in Biomedical Texts**|Ruth Dannenfelser et.al.|[2309.01812v1](http://arxiv.org/abs/2309.01812v1)|null|
 |**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808v1](http://arxiv.org/abs/2309.01808v1)|null|
@@ -1716,6 +1723,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**ViCGCN: Graph Convolutional Network with Contextualized Language Models for Social Media Mining in Vietnamese**|Chau-Thang Phan et.al.|[2309.02902v1](http://arxiv.org/abs/2309.02902v1)|null|
+|**2023-09-06**|**A deep Natural Language Inference predictor without language-specific training data**|Lorenzo Corradi et.al.|[2309.02887v1](http://arxiv.org/abs/2309.02887v1)|null|
 |**2023-09-05**|**Sample Size in Natural Language Processing within Healthcare Research**|Jaya Chaturvedi et.al.|[2309.02237v1](http://arxiv.org/abs/2309.02237v1)|null|
 |**2023-09-04**|**Interdisciplinary Fairness in Imbalanced Research Proposal Topic Inference: A Hierarchical Transformer-based Method with Selective Interpolation**|Meng Xiao et.al.|[2309.01717v1](http://arxiv.org/abs/2309.01717v1)|null|
 |**2023-09-04**|**CRUISE-Screening: Living Literature Reviews Toolbox**|Wojciech Kusa et.al.|[2309.01684v1](http://arxiv.org/abs/2309.01684v1)|null|
@@ -2229,6 +2238,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**A deep Natural Language Inference predictor without language-specific training data**|Lorenzo Corradi et.al.|[2309.02887v1](http://arxiv.org/abs/2309.02887v1)|null|
 |**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190v1](http://arxiv.org/abs/2309.02190v1)|null|
 |**2023-09-05**|**Enhance Multi-domain Sentiment Analysis of Review Texts through Prompting Strategies**|Yajing Wang et.al.|[2309.02045v1](http://arxiv.org/abs/2309.02045v1)|null|
 |**2023-09-04**|**Fine-grained Affective Processing Capabilities Emerging from Large Language Models**|Joost Broekens et.al.|[2309.01664v1](http://arxiv.org/abs/2309.01664v1)|null|
@@ -2584,6 +2594,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Aligning Large Language Models for Clinical Tasks**|Supun Manathunga et.al.|[2309.02884v1](http://arxiv.org/abs/2309.02884v1)|**[link](https://github.com/ssm123ssm/medGPT)**|
+|**2023-09-06**|**HC3 Plus: A Semantic-Invariant Human ChatGPT Comparison Corpus**|Zhenpeng Su et.al.|[2309.02731v1](http://arxiv.org/abs/2309.02731v1)|null|
+|**2023-09-05**|**Physically Grounded Vision-Language Models for Robotic Manipulation**|Jensen Gao et.al.|[2309.02561v1](http://arxiv.org/abs/2309.02561v1)|null|
 |**2023-09-05**|**CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning**|Hongyu Hu et.al.|[2309.02301v1](http://arxiv.org/abs/2309.02301v1)|null|
 |**2023-09-05**|**ATM: Action Temporality Modeling for Video Question Answering**|Junwen Chen et.al.|[2309.02290v1](http://arxiv.org/abs/2309.02290v1)|null|
 |**2023-09-05**|**Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering**|Yubo Wang et.al.|[2309.02233v1](http://arxiv.org/abs/2309.02233v1)|null|
@@ -3407,6 +3420,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Leave no Place Behind: Improved Geolocation in Humanitarian Documents**|Enrico M. Belliardo et.al.|[2309.02914v1](http://arxiv.org/abs/2309.02914v1)|null|
+|**2023-09-06**|**CVE-driven Attack Technique Prediction with Semantic Information Extraction and a Domain-specific Language Model**|Ehsan Aghaei et.al.|[2309.02785v1](http://arxiv.org/abs/2309.02785v1)|null|
+|**2023-09-06**|**Stylebook: Content-Dependent Speaking Style Modeling for Any-to-Any Voice Conversion using Only Speech Data**|Hyungseob Lim et.al.|[2309.02730v1](http://arxiv.org/abs/2309.02730v1)|null|
+|**2023-09-05**|**Recurrence-Free Survival Prediction for Anal Squamous Cell Carcinoma Chemoradiotherapy using Planning CT-based Radiomics Model**|Shanshan Tang et.al.|[2309.02562v1](http://arxiv.org/abs/2309.02562v1)|null|
 |**2023-09-04**|**Into the Single Cell Multiverse: an End-to-End Dataset for Procedural Knowledge Extraction in Biomedical Texts**|Ruth Dannenfelser et.al.|[2309.01812v1](http://arxiv.org/abs/2309.01812v1)|null|
 |**2023-09-04**|**Zero-shot information extraction from radiological reports using ChatGPT**|Danqing Hu et.al.|[2309.01398v1](http://arxiv.org/abs/2309.01398v1)|null|
 |**2023-09-01**|**Exploring the law of text geographic information**|Zhenhua Wang et.al.|[2309.00180v1](http://arxiv.org/abs/2309.00180v1)|null|
@@ -3792,8 +3809,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169v1](http://arxiv.org/abs/2309.03169v1)|null|
+|**2023-09-06**|**Helper Recommendation with seniority control in Online Health Community**|Junruo Gao et.al.|[2309.02978v1](http://arxiv.org/abs/2309.02978v1)|null|
+|**2023-09-05**|**Tidying Up the Conversational Recommender Systems' Biases**|Armin Moradi et.al.|[2309.02550v1](http://arxiv.org/abs/2309.02550v1)|null|
 |**2023-09-05**|**Fairness of Exposure in Dynamic Recommendation**|Masoud Mansoury et.al.|[2309.02322v1](http://arxiv.org/abs/2309.02322v1)|null|
-|**2023-09-05**|**MvFS: Multi-view Feature Selection for Recommender System**|Youngjune Lee et.al.|[2309.02064v1](http://arxiv.org/abs/2309.02064v1)|null|
+|**2023-09-06**|**MvFS: Multi-view Feature Selection for Recommender System**|Youngjune Lee et.al.|[2309.02064v2](http://arxiv.org/abs/2309.02064v2)|null|
 |**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057v1](http://arxiv.org/abs/2309.02057v1)|null|
 |**2023-09-05**|**Towards Individual and Multistakeholder Fairness in Tourism Recommender Systems**|Ashmi Banerjee et.al.|[2309.02052v1](http://arxiv.org/abs/2309.02052v1)|null|
 |**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808v1](http://arxiv.org/abs/2309.01808v1)|null|
@@ -4562,6 +4582,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
+|**2023-09-06**|**Universal Preprocessing Operators for Embedding Knowledge Graphs with Literals**|Patryk Preisner et.al.|[2309.03023v1](http://arxiv.org/abs/2309.03023v1)|null|
 |**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808v1](http://arxiv.org/abs/2309.01808v1)|null|
 |**2023-09-04**|**ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning**|Linhao Luo et.al.|[2309.01538v1](http://arxiv.org/abs/2309.01538v1)|null|
 |**2023-09-04**|**ReOnto: A Neuro-Symbolic Approach for Biomedical Relation Extraction**|Monika Jain et.al.|[2309.01370v1](http://arxiv.org/abs/2309.01370v1)|null|
@@ -5156,6 +5178,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190v1](http://arxiv.org/abs/2309.03190v1)|null|
+|**2023-09-06**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169v1](http://arxiv.org/abs/2309.03169v1)|null|
+|**2023-09-06**|**Using Multiple Vector Channels Improves E(n)-Equivariant Graph Neural Networks**|Daniel Levy et.al.|[2309.03139v1](http://arxiv.org/abs/2309.03139v1)|null|
+|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
+|**2023-09-06**|**Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**|Xuanwen Huang et.al.|[2309.02848v1](http://arxiv.org/abs/2309.02848v1)|null|
+|**2023-09-06**|**Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond**|Zhiqi Shao et.al.|[2309.02769v1](http://arxiv.org/abs/2309.02769v1)|null|
+|**2023-09-06**|**Towards Unsupervised Graph Completion Learning on Graphs with Features and Structure Missing**|Sichao Fu et.al.|[2309.02762v1](http://arxiv.org/abs/2309.02762v1)|null|
+|**2023-09-06**|**Reinforcement Learning of Action and Query Policies with LTL Instructions under Uncertain Event Detector**|Wataru Hatanaka et.al.|[2309.02722v1](http://arxiv.org/abs/2309.02722v1)|null|
 |**2023-09-05**|**Black-Box Attacks against Signed Graph Analysis via Balance Poisoning**|Jialong Zhou et.al.|[2309.02396v1](http://arxiv.org/abs/2309.02396v1)|null|
 |**2023-09-05**|**STGIN: Spatial-Temporal Graph Interaction Network for Large-scale POI Recommendation**|Shaohua Liu et.al.|[2309.02251v1](http://arxiv.org/abs/2309.02251v1)|null|
 |**2023-09-05**|**Diffusion Generative Inverse Design**|Marin Vlastelica et.al.|[2309.02040v1](http://arxiv.org/abs/2309.02040v1)|null|
