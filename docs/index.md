@@ -62,7 +62,7 @@ layout: default
 |**2023-08-30**|**Benchmarking Multilabel Topic Classification in the Kyrgyz Language**|Anton Alekseev et.al.|[2308.15952v1](http://arxiv.org/abs/2308.15952v1)|**[link](https://github.com/alexeyev/kyrgyz-multi-label-topic-classification)**|
 |**2023-08-30**|**The Janus System: Multi-paradigm Programming in Prolog and Python**|Theresa Swift et.al.|[2308.15893v1](http://arxiv.org/abs/2308.15893v1)|null|
 |**2023-08-30**|**HAlf-MAsked Model for Named Entity Sentiment analysis**|Anton Kabaev et.al.|[2308.15793v1](http://arxiv.org/abs/2308.15793v1)|null|
-|**2023-08-29**|**Document AI: A Comparative Study of Transformer-Based, Graph-Based Models, and Convolutional Neural Networks For Document Layout Analysis**|Sotirios Kastanas et.al.|[2308.15517v1](http://arxiv.org/abs/2308.15517v1)|null|
+|**2023-08-29**|**Document AI: A Comparative Study of Transformer-Based, Graph-Based Models, and Convolutional Neural Networks For Document Layout Analysis**|Sotirios Kastanas et.al.|[2308.15517v1](http://arxiv.org/abs/2308.15517v1)|**[link](https://github.com/samakos/document-ai-)**|
 |**2023-08-29**|**Vulgar Remarks Detection in Chittagonian Dialect of Bangla**|Tanjim Mahmud et.al.|[2308.15448v1](http://arxiv.org/abs/2308.15448v1)|null|
 |**2023-08-29**|**Historical patterns of rice farming explain modern-day language use in China and Japan more than modernization and urbanization**|Sharath Chandra Guntuku et.al.|[2308.15352v1](http://arxiv.org/abs/2308.15352v1)|null|
 |**2023-08-29**|**A Framework for Responsible Development of Automated Student Feedback with Generative AI**|Euan D Lindsay et.al.|[2308.15334v1](http://arxiv.org/abs/2308.15334v1)|null|
@@ -3008,7 +3008,7 @@ layout: default
 |**2023-05-15**|**Exploring In-Context Learning Capabilities of Foundation Models for Generating Knowledge Graphs from Text**|Hanieh Khorashadizadeh et.al.|[2305.08804v1](http://arxiv.org/abs/2305.08804v1)|null|
 |**2023-05-15**|**Question-Answering System Extracts Information on Injection Drug Use from Clinical Progress Notes**|Maria Mahbub et.al.|[2305.08777v1](http://arxiv.org/abs/2305.08777v1)|null|
 |**2023-05-15**|**MeeQA: Natural Questions in Meeting Transcripts**|Reut Apel et.al.|[2305.08502v1](http://arxiv.org/abs/2305.08502v1)|**[link](https://github.com/reutapel/meeqa)**|
-|**2023-05-15**|**Document Understanding Dataset and Evaluation (DUDE)**|Jordy Landeghem et.al.|[2305.08455v1](http://arxiv.org/abs/2305.08455v1)|null|
+|**2023-05-15**|**Document Understanding Dataset and Evaluation (DUDE)**|Jordy Landeghem et.al.|[2305.08455v1](http://arxiv.org/abs/2305.08455v1)|**[link](https://github.com/rubenpt91/MP-DocVQA-Framework)**|
 |**2023-05-15**|**KEPR: Knowledge Enhancement and Plausibility Ranking for Generative Commonsense Question Answering**|Zhifeng Li et.al.|[2305.08347v1](http://arxiv.org/abs/2305.08347v1)|**[link](https://github.com/zaaachary/csqa-kepr)**|
 |**2023-05-14**|**MatSci-NLP: Evaluating Scientific Language Models on Materials Science Language Tasks Using Text-to-Schema Modeling**|Yu Song et.al.|[2305.08264v1](http://arxiv.org/abs/2305.08264v1)|**[link](https://github.com/banglab-udem-mila/nlp4matsci-acl23)**|
 |**2023-05-14**|**Learning to Generalize for Cross-domain QA**|Yingjie Niu et.al.|[2305.08208v1](http://arxiv.org/abs/2305.08208v1)|**[link](https://github.com/freddieniu/prompt-qa)**|
@@ -3870,14 +3870,14 @@ layout: default
 |**2023-08-24**|**A Heuristic Approach for Dual Expert/End-User Evaluation of Guidance in Visual Analytics**|Davide Ceneda et.al.|[2308.13052v1](http://arxiv.org/abs/2308.13052v1)|null|
 |**2023-08-24**|**Multi-BERT for Embeddings for Recommendation System**|Shashidhar Reddy Javaji et.al.|[2308.13050v1](http://arxiv.org/abs/2308.13050v1)|null|
 |**2023-08-24**|**On Popularity Bias of Multimodal-aware Recommender Systems: a Modalities-driven Analysis**|Daniele Malitesta et.al.|[2308.12911v1](http://arxiv.org/abs/2308.12911v1)|**[link](https://github.com/sisinflab/multimod-popularity-bias)**|
-|**2023-08-24**|**Towards Communication-Efficient Model Updating for On-Device Session-Based Recommendation**|Xin Xia et.al.|[2308.12777v1](http://arxiv.org/abs/2308.12777v1)|null|
+|**2023-08-24**|**Towards Communication-Efficient Model Updating for On-Device Session-Based Recommendation**|Xin Xia et.al.|[2308.12777v1](http://arxiv.org/abs/2308.12777v1)|**[link](https://github.com/xiaxin1998/odupdate)**|
 |**2023-08-24**|**On the Consistency of Average Embeddings for Item Recommendation**|Walid Bendada et.al.|[2308.12767v1](http://arxiv.org/abs/2308.12767v1)|**[link](https://github.com/deezer/consistency)**|
 |**2023-08-24**|**Video Recommendation Using Social Network Analysis and User Viewing Patterns**|Mehrdad Maghsoudi et.al.|[2308.12743v1](http://arxiv.org/abs/2308.12743v1)|null|
 |**2023-08-24**|**Privacy engineering through obfuscation**|Ero Balsa et.al.|[2308.12514v1](http://arxiv.org/abs/2308.12514v1)|null|
 |**2023-08-23**|**Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders**|Yueqi Wang et.al.|[2308.12256v1](http://arxiv.org/abs/2308.12256v1)|null|
 |**2023-08-23**|**LLMRec: Benchmarking Large Language Models on Recommendation Task**|Junling Liu et.al.|[2308.12241v1](http://arxiv.org/abs/2308.12241v1)|**[link](https://github.com/williamliujl/llmrec)**|
 |**2023-08-23**|**On Using Information Retrieval to Recommend Machine Learning Good Practices for Software Engineers**|Laura Cabra-Acela et.al.|[2308.12095v1](http://arxiv.org/abs/2308.12095v1)|null|
-|**2023-08-23**|**Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems**|Ludovico Boratto et.al.|[2308.12083v1](http://arxiv.org/abs/2308.12083v1)|null|
+|**2023-08-23**|**Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems**|Ludovico Boratto et.al.|[2308.12083v1](http://arxiv.org/abs/2308.12083v1)|**[link](https://github.com/jackmedda/rs-bgexplainer)**|
 |**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028v1](http://arxiv.org/abs/2308.12028v1)|**[link](https://github.com/xuan-zw/lkpnr)**|
 |**2023-08-23**|**Economic Recommender Systems -- A Systematic Review**|Alvise De Biasio et.al.|[2308.11998v1](http://arxiv.org/abs/2308.11998v1)|null|
 |**2023-08-22**|**On the Opportunities and Challenges of Offline Reinforcement Learning for Recommender Systems**|Xiaocong Chen et.al.|[2308.11336v1](http://arxiv.org/abs/2308.11336v1)|null|
@@ -4297,7 +4297,7 @@ layout: default
 |**2023-04-14**|**FairRec: Fairness Testing for Deep Recommender Systems**|Huizhong Guo et.al.|[2304.07030v1](http://arxiv.org/abs/2304.07030v1)|**[link](https://github.com/grey-z/fairrec)**|
 |**2023-04-14**|**SpChar: Characterizing the Sparse Puzzle via Decision Trees**|Francesco Sgherzi et.al.|[2304.06944v1](http://arxiv.org/abs/2304.06944v1)|null|
 |**2023-04-13**|**PIE: Personalized Interest Exploration for Large-Scale Recommender Systems**|Khushhall Chandra Mahajan et.al.|[2304.06844v1](http://arxiv.org/abs/2304.06844v1)|null|
-|**2023-04-14**|**GNNUERS: Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning**|Giacomo Medda et.al.|[2304.06182v2](http://arxiv.org/abs/2304.06182v2)|null|
+|**2023-04-14**|**GNNUERS: Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning**|Giacomo Medda et.al.|[2304.06182v2](http://arxiv.org/abs/2304.06182v2)|**[link](https://github.com/jackmedda/rs-bgexplainer)**|
 |**2023-04-12**|**Edge-cloud Collaborative Learning with Federated and Centralized Features**|Zexi Li et.al.|[2304.05871v1](http://arxiv.org/abs/2304.05871v1)|null|
 |**2023-04-12**|**Dynamic Graph Representation Learning with Neural Networks: A Survey**|Leshanshui Yang et.al.|[2304.05729v1](http://arxiv.org/abs/2304.05729v1)|null|
 |**2023-04-14**|**Unbiased Pairwise Learning from Implicit Feedback for Recommender Systems without Biased Variance Control**|Yi Ren et.al.|[2304.05066v2](http://arxiv.org/abs/2304.05066v2)|null|
@@ -4907,7 +4907,7 @@ layout: default
 |**2023-04-26**|**Structure Diagram Recognition in Financial Announcements**|Meixuan Qiao et.al.|[2304.13240v1](http://arxiv.org/abs/2304.13240v1)|null|
 |**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195v1](http://arxiv.org/abs/2304.13195v1)|**[link](https://github.com/nslab-cuk/connector)**|
 |**2023-04-25**|**Modeling Spoken Information Queries for Virtual Assistants: Open Problems, Challenges and Opportunities**|Christophe Van Gysel et.al.|[2304.13149v1](http://arxiv.org/abs/2304.13149v1)|null|
-|**2023-04-25**|**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2304.12604v1](http://arxiv.org/abs/2304.12604v1)|null|
+|**2023-04-25**|**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2304.12604v1](http://arxiv.org/abs/2304.12604v1)|**[link](https://github.com/hhdo/daemon)**|
 |**2023-04-26**|**Extreme Classification for Answer Type Prediction in Question Answering**|Vinay Setty et.al.|[2304.12395v2](http://arxiv.org/abs/2304.12395v2)|null|
 |**2023-04-24**|**Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling**|Xuhui Ren et.al.|[2304.12083v1](http://arxiv.org/abs/2304.12083v1)|null|
 |**2023-04-24**|**Geometric Relational Embeddings: A Survey**|Bo Xiong et.al.|[2304.11949v1](http://arxiv.org/abs/2304.11949v1)|null|
@@ -5211,7 +5211,7 @@ layout: default
 |**2023-09-06**|**Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond**|Zhiqi Shao et.al.|[2309.02769v1](http://arxiv.org/abs/2309.02769v1)|null|
 |**2023-09-06**|**Towards Unsupervised Graph Completion Learning on Graphs with Features and Structure Missing**|Sichao Fu et.al.|[2309.02762v1](http://arxiv.org/abs/2309.02762v1)|null|
 |**2023-09-06**|**Reinforcement Learning of Action and Query Policies with LTL Instructions under Uncertain Event Detector**|Wataru Hatanaka et.al.|[2309.02722v1](http://arxiv.org/abs/2309.02722v1)|null|
-|**2023-09-05**|**Black-Box Attacks against Signed Graph Analysis via Balance Poisoning**|Jialong Zhou et.al.|[2309.02396v1](http://arxiv.org/abs/2309.02396v1)|null|
+|**2023-09-05**|**Black-Box Attacks against Signed Graph Analysis via Balance Poisoning**|Jialong Zhou et.al.|[2309.02396v1](http://arxiv.org/abs/2309.02396v1)|**[link](https://github.com/jialongzhou666/balance-attack)**|
 |**2023-09-05**|**STGIN: Spatial-Temporal Graph Interaction Network for Large-scale POI Recommendation**|Shaohua Liu et.al.|[2309.02251v1](http://arxiv.org/abs/2309.02251v1)|null|
 |**2023-09-05**|**Diffusion Generative Inverse Design**|Marin Vlastelica et.al.|[2309.02040v1](http://arxiv.org/abs/2309.02040v1)|null|
 |**2023-09-05**|**VFFINDER: A Graph-based Approach for Automated Silent Vulnerability-Fix Identification**|Son Nguyen et.al.|[2309.01971v1](http://arxiv.org/abs/2309.01971v1)|null|
@@ -6124,7 +6124,7 @@ layout: default
 |**2023-02-07**|**Optimal Control of Granular Material**|Yuichiro Aoyama et.al.|[2302.03231v1](http://arxiv.org/abs/2302.03231v1)|null|
 |**2023-02-07**|**Heterophily-Aware Graph Attention Network**|Junfu Wang et.al.|[2302.03228v1](http://arxiv.org/abs/2302.03228v1)|null|
 |**2023-02-07**|**An entity-guided text summarization framework with relational heterogeneous graph neural network**|Jingqiang Chen et.al.|[2302.03205v1](http://arxiv.org/abs/2302.03205v1)|**[link](https://github.com/jingqiangchen/kbsumm)**|
-|**2023-02-06**|**On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology**|Francesco Di Giovanni et.al.|[2302.02941v1](http://arxiv.org/abs/2302.02941v1)|null|
+|**2023-02-06**|**On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology**|Francesco Di Giovanni et.al.|[2302.02941v1](http://arxiv.org/abs/2302.02941v1)|**[link](https://github.com/lrnzgiusti/on-oversquashing)**|
 |**2023-02-06**|**Joint Edge-Model Sparse Learning is Provably Efficient for Graph Neural Networks**|Shuai Zhang et.al.|[2302.02922v1](http://arxiv.org/abs/2302.02922v1)|null|
 |**2023-02-06**|**Energy-based Out-of-Distribution Detection for Graph Neural Networks**|Qitian Wu et.al.|[2302.02914v1](http://arxiv.org/abs/2302.02914v1)|**[link](https://github.com/qitianwu/graphood-gnnsafe)**|
 |**2023-02-06**|**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**|Xuefei Li et.al.|[2302.02878v1](http://arxiv.org/abs/2302.02878v1)|null|
@@ -6139,7 +6139,7 @@ layout: default
 |**2023-02-02**|**GraphAGILE: An FPGA-based Overlay Accelerator for Low-latency GNN Inference**|Bingyi Zhang et.al.|[2302.01769v1](http://arxiv.org/abs/2302.01769v1)|null|
 |**2023-02-03**|**Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction**|Davide Costa et.al.|[2302.01676v1](http://arxiv.org/abs/2302.01676v1)|null|
 |**2023-02-03**|**Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing**|Yunchong Song et.al.|[2302.01524v1](http://arxiv.org/abs/2302.01524v1)|**[link](https://github.com/lumia-group/orderedgnn)**|
-|**2023-02-03**|**LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation**|Rui Xue et.al.|[2302.01503v1](http://arxiv.org/abs/2302.01503v1)|null|
+|**2023-02-03**|**LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation**|Rui Xue et.al.|[2302.01503v1](http://arxiv.org/abs/2302.01503v1)|**[link](https://github.com/rxphd/lazy_gnn)**|
 |**2023-02-02**|**Geometric Deep Learning for Autonomous Driving: Unlocking the Power of Graph Neural Networks With CommonRoad-Geometric**|Eivind Meyer et.al.|[2302.01259v1](http://arxiv.org/abs/2302.01259v1)|null|
 |**2023-02-03**|**Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities**|Antonio Longa et.al.|[2302.01018v2](http://arxiv.org/abs/2302.01018v2)|null|
 |**2023-02-03**|**Predicting Molecule-Target Interaction by Learning Biomedical Network and Molecule Representations**|Jinjiang Guo et.al.|[2302.00981v2](http://arxiv.org/abs/2302.00981v2)|null|
