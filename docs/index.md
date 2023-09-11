@@ -25,6 +25,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Subwords as Skills: Tokenization for Sparse-Reward Reinforcement Learning**|David Yunis et.al.|[2309.04459v1](http://arxiv.org/abs/2309.04459v1)|null|
+|**2023-09-08**|**Active Learning for Classifying 2D Grid-Based Level Completability**|Mahsa Bazzaz et.al.|[2309.04367v1](http://arxiv.org/abs/2309.04367v1)|null|
+|**2023-09-08**|**Mobile V-MoEs: Scaling Down Vision Transformers via Sparse Mixture-of-Experts**|Erik Daxberger et.al.|[2309.04354v1](http://arxiv.org/abs/2309.04354v1)|null|
+|**2023-09-08**|**Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations**|Patrícia Pereira et.al.|[2309.04292v1](http://arxiv.org/abs/2309.04292v1)|null|
+|**2023-09-08**|**LLMCad: Fast and Scalable On-device Large Language Model Inference**|Daliang Xu et.al.|[2309.04255v1](http://arxiv.org/abs/2309.04255v1)|null|
+|**2023-09-08**|**Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Reliable Response Generation in Chinese**|Haochun Wang et.al.|[2309.04175v1](http://arxiv.org/abs/2309.04175v1)|null|
 |**2023-09-07**|**Conformal Autoregressive Generation: Beam Search with Coverage Guarantees**|Nicolas Deutschmann et.al.|[2309.03797v1](http://arxiv.org/abs/2309.03797v1)|null|
 |**2023-09-07**|**USA: Universal Sentiment Analysis Model & Construction of Japanese Sentiment Text Classification and Part of Speech Dataset**|Chengguang Gan et.al.|[2309.03787v1](http://arxiv.org/abs/2309.03787v1)|null|
 |**2023-09-07**|**Machine Learning for Tangible Effects: Natural Language Processing for Uncovering the Illicit Massage Industry & Computer Vision for Tactile Sensing**|Rui Ouyang et.al.|[2309.03470v1](http://arxiv.org/abs/2309.03470v1)|null|
@@ -1239,6 +1245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**NESTLE: a No-Code Tool for Statistical Analysis of Legal Corpus**|Kyoungyeon Cho et.al.|[2309.04146v1](http://arxiv.org/abs/2309.04146v1)|null|
 |**2023-09-06**|**Prompt-based Effective Input Reformulation for Legal Case Retrieval**|Yanran Tang et.al.|[2309.02962v1](http://arxiv.org/abs/2309.02962v1)|null|
 |**2023-08-22**|**The Software Heritage License Dataset (2022 Edition)**|Jesús M. González-Barahona et.al.|[2308.11258v1](http://arxiv.org/abs/2308.11258v1)|null|
 |**2023-08-02**|**UPB at IberLEF-2023 AuTexTification: Detection of Machine-Generated Text using Transformer Ensembles**|Andrei-Alexandru Preda et.al.|[2308.01408v1](http://arxiv.org/abs/2308.01408v1)|null|
@@ -1727,6 +1734,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations**|Patrícia Pereira et.al.|[2309.04292v1](http://arxiv.org/abs/2309.04292v1)|null|
+|**2023-09-08**|**NESTLE: a No-Code Tool for Statistical Analysis of Legal Corpus**|Kyoungyeon Cho et.al.|[2309.04146v1](http://arxiv.org/abs/2309.04146v1)|null|
 |**2023-09-07**|**USA: Universal Sentiment Analysis Model & Construction of Japanese Sentiment Text Classification and Part of Speech Dataset**|Chengguang Gan et.al.|[2309.03787v1](http://arxiv.org/abs/2309.03787v1)|null|
 |**2023-09-06**|**ViCGCN: Graph Convolutional Network with Contextualized Language Models for Social Media Mining in Vietnamese**|Chau-Thang Phan et.al.|[2309.02902v1](http://arxiv.org/abs/2309.02902v1)|null|
 |**2023-09-06**|**A deep Natural Language Inference predictor without language-specific training data**|Lorenzo Corradi et.al.|[2309.02887v1](http://arxiv.org/abs/2309.02887v1)|null|
@@ -2600,6 +2609,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**LLMCad: Fast and Scalable On-device Large Language Model Inference**|Daliang Xu et.al.|[2309.04255v1](http://arxiv.org/abs/2309.04255v1)|null|
+|**2023-09-08**|**Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Reliable Response Generation in Chinese**|Haochun Wang et.al.|[2309.04175v1](http://arxiv.org/abs/2309.04175v1)|null|
+|**2023-09-07**|**Evaluation and Mitigation of Agnosia in Multimodal Large Language Models**|Jiaying Lu et.al.|[2309.04041v1](http://arxiv.org/abs/2309.04041v1)|null|
 |**2023-09-07**|**Introducing "Forecast Utterance" for Conversational Data Science**|Md Mahadi Hassan et.al.|[2309.03877v1](http://arxiv.org/abs/2309.03877v1)|null|
 |**2023-09-07**|**Enhancing Pipeline-Based Conversational Agents with Large Language Models**|Mina Foosherian et.al.|[2309.03748v1](http://arxiv.org/abs/2309.03748v1)|null|
 |**2023-09-07**|**Interpretable Visual Question Answering via Reasoning Supervision**|Maria Parelli et.al.|[2309.03726v1](http://arxiv.org/abs/2309.03726v1)|null|
@@ -3429,6 +3441,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**NESTLE: a No-Code Tool for Statistical Analysis of Legal Corpus**|Kyoungyeon Cho et.al.|[2309.04146v1](http://arxiv.org/abs/2309.04146v1)|null|
 |**2023-09-07**|**Cross-Image Context Matters for Bongard Problems**|Nikhil Raghuraman et.al.|[2309.03468v1](http://arxiv.org/abs/2309.03468v1)|null|
 |**2023-09-07**|**Improving Open Information Extraction with Large Language Models: A Study on Demonstration Uncertainty**|Chen Ling et.al.|[2309.03433v1](http://arxiv.org/abs/2309.03433v1)|null|
 |**2023-09-06**|**Leave no Place Behind: Improved Geolocation in Humanitarian Documents**|Enrico M. Belliardo et.al.|[2309.02914v1](http://arxiv.org/abs/2309.02914v1)|null|
@@ -3820,10 +3833,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity**|Casper van Engelenburg et.al.|[2309.04357v1](http://arxiv.org/abs/2309.04357v1)|null|
+|**2023-09-08**|**Exploring Cohesive Subgraphs in Hypergraphs: The (k,g)-core Approach**|Dahee Kim et.al.|[2309.04350v1](http://arxiv.org/abs/2309.04350v1)|null|
+|**2023-09-08**|**Provider Fairness and Beyond-Accuracy Trade-offs in Recommender Systems**|Saeedeh Karimi et.al.|[2309.04250v1](http://arxiv.org/abs/2309.04250v1)|null|
+|**2023-09-08**|**Offline Recommender System Evaluation under Unobserved Confounding**|Olivier Jeunen et.al.|[2309.04222v1](http://arxiv.org/abs/2309.04222v1)|null|
 |**2023-09-07**|**Improved theoretical guarantee for rank aggregation via spectral method**|Ziliang Samuel Zhong et.al.|[2309.03808v1](http://arxiv.org/abs/2309.03808v1)|null|
 |**2023-09-07**|**VideolandGPT: A User Study on a Conversational Recommender System**|Mateo Gutierrez Granada et.al.|[2309.03645v1](http://arxiv.org/abs/2309.03645v1)|null|
 |**2023-09-07**|**Evaluating ChatGPT as a Recommender System: A Rigorous Approach**|Dario Di Palma et.al.|[2309.03613v1](http://arxiv.org/abs/2309.03613v1)|**[link](https://github.com/sisinflab/Recommender-ChatGPT)**|
-|**2023-09-07**|**Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation**|Xurong Liang et.al.|[2309.03518v1](http://arxiv.org/abs/2309.03518v1)|null|
+|**2023-09-08**|**Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation**|Xurong Liang et.al.|[2309.03518v2](http://arxiv.org/abs/2309.03518v2)|null|
 |**2023-09-07**|**Behind Recommender Systems: the Geography of the ACM RecSys Community**|Lorenzo Porcaro et.al.|[2309.03512v1](http://arxiv.org/abs/2309.03512v1)|null|
 |**2023-09-07**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169v2](http://arxiv.org/abs/2309.03169v2)|null|
 |**2023-09-06**|**Helper Recommendation with seniority control in Online Health Community**|Junruo Gao et.al.|[2309.02978v1](http://arxiv.org/abs/2309.02978v1)|null|
@@ -4598,6 +4615,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**The CALLA Dataset: Probing LLMs' Interactive Knowledge Acquisition from Chinese Medical Literature**|Yanrui Du et.al.|[2309.04198v1](http://arxiv.org/abs/2309.04198v1)|null|
 |**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773v1](http://arxiv.org/abs/2309.03773v1)|null|
 |**2023-09-07**|**PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips**|Nicolas Hubert et.al.|[2309.03685v1](http://arxiv.org/abs/2309.03685v1)|**[link](https://github.com/nicolas-hbt/pygraft)**|
 |**2023-09-06**|**Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2309.03251v1](http://arxiv.org/abs/2309.03251v1)|null|
@@ -5198,6 +5216,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Graph Neural Networks Use Graphs When They Shouldn't**|Maya Bechler-Speicher et.al.|[2309.04332v1](http://arxiv.org/abs/2309.04332v1)|null|
+|**2023-09-08**|**A Long-Tail Friendly Representation Framework for Artist and Music Similarity**|Haoran Xiang et.al.|[2309.04182v1](http://arxiv.org/abs/2309.04182v1)|null|
+|**2023-09-08**|**Curve Your Attention: Mixed-Curvature Transformers for Graph Representation Learning**|Sungjun Cho et.al.|[2309.04082v1](http://arxiv.org/abs/2309.04082v1)|null|
 |**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773v1](http://arxiv.org/abs/2309.03773v1)|null|
 |**2023-09-07**|**Characterizing Lipschitz Stability of GNN for Fairness**|Yaning Jia et.al.|[2309.03648v1](http://arxiv.org/abs/2309.03648v1)|null|
 |**2023-09-07**|**Filtration Surfaces for Dynamic Graph Classification**|Franz Srambical et.al.|[2309.03616v1](http://arxiv.org/abs/2309.03616v1)|null|
