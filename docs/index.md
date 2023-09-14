@@ -25,9 +25,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Beyond original Research Articles Categorization via NLP**|Rosanna Turrisi et.al.|[2309.07020v1](http://arxiv.org/abs/2309.07020v1)|**[link](https://github.com/rturrisige/textclassification)**|
+|**2023-09-13**|**Comparative Analysis of Contextual Relation Extraction based on Deep Learning Models**|R. Priyadharshini et.al.|[2309.06814v1](http://arxiv.org/abs/2309.06814v1)|null|
+|**2023-09-13**|**Electricity Demand Forecasting through Natural Language Processing with Long Short-Term Memory Networks**|Yun Bai et.al.|[2309.06793v1](http://arxiv.org/abs/2309.06793v1)|null|
+|**2023-09-13**|**Bias Amplification Enhances Minority Group Performance**|Gaotang Li et.al.|[2309.06717v1](http://arxiv.org/abs/2309.06717v1)|null|
+|**2023-09-13**|**Simultaneous Machine Translation with Large Language Models**|Minghan Wang et.al.|[2309.06706v1](http://arxiv.org/abs/2309.06706v1)|null|
+|**2023-09-12**|**Narrowing the Gap between Supervised and Unsupervised Sentence Representation Learning with Large Language Model**|Mingxin Li et.al.|[2309.06453v1](http://arxiv.org/abs/2309.06453v1)|null|
 |**2023-09-12**|**Grounded Language Acquisition From Object and Action Imagery**|James Robert Kubricht et.al.|[2309.06335v1](http://arxiv.org/abs/2309.06335v1)|null|
 |**2023-09-12**|**Improving and Evaluating the Detection of Fragmentation in News Recommendations with the Clustering of News Story Chains**|Alessandra Polimeno et.al.|[2309.06192v1](http://arxiv.org/abs/2309.06192v1)|null|
-|**2023-09-12**|**Backdoor Attacks and Countermeasures in Natural Language Processing Models: A Comprehensive Security Review**|Pengzhou Cheng et.al.|[2309.06055v1](http://arxiv.org/abs/2309.06055v1)|null|
+|**2023-09-13**|**Backdoor Attacks and Countermeasures in Natural Language Processing Models: A Comprehensive Security Review**|Pengzhou Cheng et.al.|[2309.06055v2](http://arxiv.org/abs/2309.06055v2)|null|
 |**2023-09-11**|**Black-Box Analysis: GPTs Across Time in Legal Textual Entailment Task**|Ha-Thanh Nguyen et.al.|[2309.05501v1](http://arxiv.org/abs/2309.05501v1)|null|
 |**2023-09-11**|**NeCo@ALQAC 2023: Legal Domain Knowledge Acquisition for Low-Resource Languages through Data Enrichment**|Hai-Long Nguyen et.al.|[2309.05500v1](http://arxiv.org/abs/2309.05500v1)|null|
 |**2023-09-11**|**LeBenchmark 2.0: a Standardized, Replicable and Enhanced Framework for Self-supervised Representations of French Speech**|Titouan Parcollet et.al.|[2309.05472v1](http://arxiv.org/abs/2309.05472v1)|null|
@@ -1750,12 +1756,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**OYXOY: A Modern NLP Test Suite for Modern Greek**|Konstantinos Kogkalidis et.al.|[2309.07009v1](http://arxiv.org/abs/2309.07009v1)|null|
 |**2023-09-11**|**CrisisTransformers: Pre-trained language models and sentence encoders for crisis-related social media texts**|Rabindra Lamsal et.al.|[2309.05494v1](http://arxiv.org/abs/2309.05494v1)|null|
 |**2023-09-10**|**Retrieval-Augmented Meta Learning for Low-Resource Text Classification**|Rongsheng Li et.al.|[2309.04979v1](http://arxiv.org/abs/2309.04979v1)|null|
 |**2023-09-09**|**EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets**|Hongyuan Lu et.al.|[2309.04725v1](http://arxiv.org/abs/2309.04725v1)|null|
 |**2023-09-08**|**Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations**|Patrícia Pereira et.al.|[2309.04292v1](http://arxiv.org/abs/2309.04292v1)|null|
 |**2023-09-08**|**NESTLE: a No-Code Tool for Statistical Analysis of Legal Corpus**|Kyoungyeon Cho et.al.|[2309.04146v1](http://arxiv.org/abs/2309.04146v1)|null|
-|**2023-09-07**|**USA: Universal Sentiment Analysis Model & Construction of Japanese Sentiment Text Classification and Part of Speech Dataset**|Chengguang Gan et.al.|[2309.03787v1](http://arxiv.org/abs/2309.03787v1)|null|
+|**2023-09-07**|**USA: Universal Sentiment Analysis Model & Construction of Japanese Sentiment Text Classification and Part of Speech Dataset**|Chengguang Gan et.al.|[2309.03787v1](http://arxiv.org/abs/2309.03787v1)|**[link](https://huggingface.co/ganchengguang/USA-7B-instruction-incontext-learning)**|
 |**2023-09-06**|**ViCGCN: Graph Convolutional Network with Contextualized Language Models for Social Media Mining in Vietnamese**|Chau-Thang Phan et.al.|[2309.02902v1](http://arxiv.org/abs/2309.02902v1)|**[link](https://github.com/phanchauthang/ViCGCN)**|
 |**2023-09-06**|**A deep Natural Language Inference predictor without language-specific training data**|Lorenzo Corradi et.al.|[2309.02887v1](http://arxiv.org/abs/2309.02887v1)|null|
 |**2023-09-05**|**Sample Size in Natural Language Processing within Healthcare Research**|Jaya Chaturvedi et.al.|[2309.02237v1](http://arxiv.org/abs/2309.02237v1)|null|
@@ -2274,7 +2281,7 @@ layout: default
 |**2023-09-02**|**Studying the impacts of pre-training using ChatGPT-generated text on downstream tasks**|Sarthak Anand et.al.|[2309.05668v1](http://arxiv.org/abs/2309.05668v1)|null|
 |**2023-09-11**|**Experimenting with UD Adaptation of an Unsupervised Rule-based Approach for Sentiment Analysis of Mexican Tourist Texts**|Olga Kellert et.al.|[2309.05312v1](http://arxiv.org/abs/2309.05312v1)|null|
 |**2023-09-11**|**CONFLATOR: Incorporating Switching Point based Rotatory Positional Encodings for Code-Mixed Language Modeling**|Mohsin Ali et.al.|[2309.05270v1](http://arxiv.org/abs/2309.05270v1)|null|
-|**2023-09-07**|**USA: Universal Sentiment Analysis Model & Construction of Japanese Sentiment Text Classification and Part of Speech Dataset**|Chengguang Gan et.al.|[2309.03787v1](http://arxiv.org/abs/2309.03787v1)|null|
+|**2023-09-07**|**USA: Universal Sentiment Analysis Model & Construction of Japanese Sentiment Text Classification and Part of Speech Dataset**|Chengguang Gan et.al.|[2309.03787v1](http://arxiv.org/abs/2309.03787v1)|**[link](https://huggingface.co/ganchengguang/USA-7B-instruction-incontext-learning)**|
 |**2023-09-06**|**A deep Natural Language Inference predictor without language-specific training data**|Lorenzo Corradi et.al.|[2309.02887v1](http://arxiv.org/abs/2309.02887v1)|null|
 |**2023-09-11**|**GRASS: Unified Generation Model for Speech-to-Semantic Tasks**|Aobo Xia et.al.|[2309.02780v2](http://arxiv.org/abs/2309.02780v2)|null|
 |**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190v1](http://arxiv.org/abs/2309.02190v1)|**[link](https://github.com/recklessronan/muse)**|
@@ -2632,6 +2639,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning**|Enna Sachdeva et.al.|[2309.06597v1](http://arxiv.org/abs/2309.06597v1)|null|
 |**2023-09-12**|**Evaluating the Ebb and Flow: An In-depth Analysis of Question-Answering Trends across Diverse Platforms**|Rima Hazra et.al.|[2309.05961v1](http://arxiv.org/abs/2309.05961v1)|null|
 |**2023-09-11**|**NeCo@ALQAC 2023: Legal Domain Knowledge Acquisition for Low-Resource Languages through Data Enrichment**|Hai-Long Nguyen et.al.|[2309.05500v1](http://arxiv.org/abs/2309.05500v1)|null|
 |**2023-09-11**|**Two is Better Than One: Answering Complex Questions by Multiple Knowledge Sources with Generalized Links**|Minhao Zhang et.al.|[2309.05201v1](http://arxiv.org/abs/2309.05201v1)|null|
@@ -3472,7 +3480,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-12**|**C-RITNet: Set Infrared and Visible Image Fusion Free from Complementary Information Mining**|Yafei Zhang et.al.|[2309.06118v1](http://arxiv.org/abs/2309.06118v1)|null|
+|**2023-09-13**|**Résumé Parsing as Hierarchical Sequence Labeling: An Empirical Study**|Federico Retyk et.al.|[2309.07015v1](http://arxiv.org/abs/2309.07015v1)|**[link](https://github.com/federetyk/resume-parsing)**|
+|**2023-09-12**|**Pump, Dump, and then What? The Long-Term Impact of Cryptocurrency Pump-and-Dump Schemes**|Joshua Clough et.al.|[2309.06608v1](http://arxiv.org/abs/2309.06608v1)|null|
+|**2023-09-13**|**C-RITNet: Set Infrared and Visible Image Fusion Free from Complementary Information Mining**|Yafei Zhang et.al.|[2309.06118v2](http://arxiv.org/abs/2309.06118v2)|null|
 |**2023-09-11**|**Manybody Interferometry of Quantum Fluids**|Gabrielle Roberts et.al.|[2309.05727v1](http://arxiv.org/abs/2309.05727v1)|null|
 |**2023-09-11**|**Black-Box Analysis: GPTs Across Time in Legal Textual Entailment Task**|Ha-Thanh Nguyen et.al.|[2309.05501v1](http://arxiv.org/abs/2309.05501v1)|null|
 |**2023-09-11**|**Improving Information Extraction on Business Documents with Specific Pre-Training Tasks**|Thibault Douzon et.al.|[2309.05429v1](http://arxiv.org/abs/2309.05429v1)|**[link](https://github.com/thibaultdouzon/business-document-pre-training)**|
@@ -3868,6 +3878,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Beyond original Research Articles Categorization via NLP**|Rosanna Turrisi et.al.|[2309.07020v1](http://arxiv.org/abs/2309.07020v1)|**[link](https://github.com/rturrisige/textclassification)**|
+|**2023-09-13**|**Résumé Parsing as Hierarchical Sequence Labeling: An Empirical Study**|Federico Retyk et.al.|[2309.07015v1](http://arxiv.org/abs/2309.07015v1)|**[link](https://github.com/federetyk/resume-parsing)**|
+|**2023-09-13**|**Multi-behavior Recommendation with SVD Graph Neural Networks**|Shengxi Fu et.al.|[2309.06912v1](http://arxiv.org/abs/2309.06912v1)|null|
+|**2023-09-13**|**An Image Dataset for Benchmarking Recommender Systems with Raw Pixels**|Yu Cheng et.al.|[2309.06789v1](http://arxiv.org/abs/2309.06789v1)|**[link](https://github.com/website-pixelrec/pixelrec)**|
+|**2023-09-12**|**Hierarchical Multi-Task Learning Framework for Session-based Recommendations**|Sejoon Oh et.al.|[2309.06533v1](http://arxiv.org/abs/2309.06533v1)|null|
 |**2023-09-12**|**C4CAM: A Compiler for CAM-based In-memory Accelerators**|Hamid Farzaneh et.al.|[2309.06418v1](http://arxiv.org/abs/2309.06418v1)|null|
 |**2023-09-12**|**Rethinking Evaluation Metric for Probability Estimation Models Using Esports Data**|Euihyeon Choi et.al.|[2309.06248v1](http://arxiv.org/abs/2309.06248v1)|null|
 |**2023-09-12**|**Improving and Evaluating the Detection of Fragmentation in News Recommendations with the Clustering of News Story Chains**|Alessandra Polimeno et.al.|[2309.06192v1](http://arxiv.org/abs/2309.06192v1)|null|
@@ -4662,6 +4677,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Modeling Dislocation Dynamics Data Using Semantic Web Technologies**|Ahmad Zainul Ihsan et.al.|[2309.06930v1](http://arxiv.org/abs/2309.06930v1)|null|
+|**2023-09-13**|**Comparative Analysis of Contextual Relation Extraction based on Deep Learning Models**|R. Priyadharshini et.al.|[2309.06814v1](http://arxiv.org/abs/2309.06814v1)|null|
 |**2023-09-12**|**Information Flow in Graph Neural Networks: A Clinical Triage Use Case**|Víctor Valls et.al.|[2309.06081v1](http://arxiv.org/abs/2309.06081v1)|null|
 |**2023-09-12**|**Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos**|Sarthak Bhagat et.al.|[2309.05943v1](http://arxiv.org/abs/2309.05943v1)|null|
 |**2023-09-10**|**Knowledge-based Refinement of Scientific Publication Knowledge Graphs**|Siwen Yan et.al.|[2309.05681v1](http://arxiv.org/abs/2309.05681v1)|null|
@@ -5268,6 +5285,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Predicting Expressibility of Parameterized Quantum Circuits using Graph Neural Network**|Shamminuj Aktar et.al.|[2309.06975v1](http://arxiv.org/abs/2309.06975v1)|null|
+|**2023-09-13**|**Multi-behavior Recommendation with SVD Graph Neural Networks**|Shengxi Fu et.al.|[2309.06912v1](http://arxiv.org/abs/2309.06912v1)|null|
+|**2023-09-13**|**Uncertainty-aware Traffic Prediction under Missing Data**|Hao Mei et.al.|[2309.06800v1](http://arxiv.org/abs/2309.06800v1)|null|
+|**2023-09-13**|**Scalable neural network models and terascale datasets for particle-flow reconstruction**|Joosep Pata et.al.|[2309.06782v1](http://arxiv.org/abs/2309.06782v1)|null|
+|**2023-09-12**|**Bregman Graph Neural Network**|Jiayu Zhai et.al.|[2309.06645v1](http://arxiv.org/abs/2309.06645v1)|null|
+|**2023-09-12**|**Explainable Graph Neural Network for Alzheimer's Disease And Related Dementias Risk Prediction**|Xinyue Hu et.al.|[2309.06584v1](http://arxiv.org/abs/2309.06584v1)|null|
+|**2023-09-12**|**Bayesian topology inference on partially known networks from input-output pairs**|Martín Sevilla et.al.|[2309.06532v1](http://arxiv.org/abs/2309.06532v1)|null|
 |**2023-09-12**|**Accelerating Defect Predictions in Semiconductors Using Graph Neural Networks**|Md Habibur Rahman et.al.|[2309.06423v1](http://arxiv.org/abs/2309.06423v1)|null|
 |**2023-09-12**|**Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model**|Yin Wang et.al.|[2309.06284v1](http://arxiv.org/abs/2309.06284v1)|null|
 |**2023-09-12**|**Information Flow in Graph Neural Networks: A Clinical Triage Use Case**|Víctor Valls et.al.|[2309.06081v1](http://arxiv.org/abs/2309.06081v1)|null|
