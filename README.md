@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**A Multi-In and Multi-Out Dendritic Neuron Model and its Optimization**|Yu Ding et.al.|[2309.07791v1](http://arxiv.org/abs/2309.07791v1)|null|
+|**2023-09-14**|**Complexity Scaling for Speech Denoising**|Hangting Chen et.al.|[2309.07757v1](http://arxiv.org/abs/2309.07757v1)|null|
+|**2023-09-14**|**Generative AI Text Classification using Ensemble LLM Approaches**|Harika Abburi et.al.|[2309.07755v1](http://arxiv.org/abs/2309.07755v1)|null|
+|**2023-09-14**|**NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation**|Jiaqi Zhang et.al.|[2309.07705v1](http://arxiv.org/abs/2309.07705v1)|null|
+|**2023-09-14**|**Are Large Language Model-based Evaluators the Solution to Scaling Up Multilingual Evaluation?**|Rishav Hada et.al.|[2309.07462v1](http://arxiv.org/abs/2309.07462v1)|null|
+|**2023-09-14**|**SIB-200: A Simple, Inclusive, and Big Evaluation Dataset for Topic Classification in 200+ Languages and Dialects**|David Ifeoluwa Adelani et.al.|[2309.07445v1](http://arxiv.org/abs/2309.07445v1)|**[link](https://github.com/dadelani/sib-200)**|
+|**2023-09-14**|**Clinical Text Summarization: Adapting Large Language Models Can Outperform Human Experts**|Dave Van Veen et.al.|[2309.07430v1](http://arxiv.org/abs/2309.07430v1)|**[link](https://github.com/stanfordmimi/clin-summ)**|
+|**2023-09-14**|**Multi-Grade Deep Learning for Partial Differential Equations with Applications to the Burgers Equation**|Yuesheng Xu et.al.|[2309.07401v1](http://arxiv.org/abs/2309.07401v1)|null|
+|**2023-09-14**|**Towards Universal Speech Discrete Tokens: A Case Study for ASR and TTS**|Yifan Yang et.al.|[2309.07377v1](http://arxiv.org/abs/2309.07377v1)|null|
+|**2023-09-13**|**Traveling Words: A Geometric Interpretation of Transformers**|Raul Molina et.al.|[2309.07315v1](http://arxiv.org/abs/2309.07315v1)|**[link](https://github.com/santiag0m/traveling-words)**|
 |**2023-09-13**|**Beyond original Research Articles Categorization via NLP**|Rosanna Turrisi et.al.|[2309.07020v1](http://arxiv.org/abs/2309.07020v1)|**[link](https://github.com/rturrisige/textclassification)**|
 |**2023-09-13**|**Comparative Analysis of Contextual Relation Extraction based on Deep Learning Models**|R. Priyadharshini et.al.|[2309.06814v1](http://arxiv.org/abs/2309.06814v1)|null|
 |**2023-09-13**|**Electricity Demand Forecasting through Natural Language Processing with Long Short-Term Memory Networks**|Yun Bai et.al.|[2309.06793v1](http://arxiv.org/abs/2309.06793v1)|null|
@@ -1435,6 +1445,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Incorporating Class-based Language Model for Named Entity Recognition in Factorized Neural Transducer**|Peng Wang et.al.|[2309.07648v1](http://arxiv.org/abs/2309.07648v1)|null|
 |**2023-09-11**|**Analysing Cross-Lingual Transfer in Low-Resourced African Named Entity Recognition**|Michael Beukman et.al.|[2309.05311v1](http://arxiv.org/abs/2309.05311v1)|**[link](https://github.com/michael-beukman/nertransfer)**|
 |**2023-09-10**|**Learning Personalized User Preference from Cold Start in Multi-turn Conversations**|Deguang Kong et.al.|[2309.05127v1](http://arxiv.org/abs/2309.05127v1)|null|
 |**2023-09-06**|**Leave no Place Behind: Improved Geolocation in Humanitarian Documents**|Enrico M. Belliardo et.al.|[2309.02914v1](http://arxiv.org/abs/2309.02914v1)|null|
@@ -1752,13 +1763,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Ambiguity-Aware In-Context Learning with Large Language Models**|Lingyu Gao et.al.|[2309.07900v1](http://arxiv.org/abs/2309.07900v1)|null|
+|**2023-09-14**|**Text Classification of Cancer Clinical Trial Eligibility Criteria**|Yumeng Yang et.al.|[2309.07812v1](http://arxiv.org/abs/2309.07812v1)|null|
+|**2023-09-14**|**Generative AI Text Classification using Ensemble LLM Approaches**|Harika Abburi et.al.|[2309.07755v1](http://arxiv.org/abs/2309.07755v1)|null|
 |**2023-09-13**|**OYXOY: A Modern NLP Test Suite for Modern Greek**|Konstantinos Kogkalidis et.al.|[2309.07009v1](http://arxiv.org/abs/2309.07009v1)|null|
 |**2023-09-11**|**CrisisTransformers: Pre-trained language models and sentence encoders for crisis-related social media texts**|Rabindra Lamsal et.al.|[2309.05494v1](http://arxiv.org/abs/2309.05494v1)|null|
 |**2023-09-10**|**Retrieval-Augmented Meta Learning for Low-Resource Text Classification**|Rongsheng Li et.al.|[2309.04979v1](http://arxiv.org/abs/2309.04979v1)|null|
 |**2023-09-09**|**EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets**|Hongyuan Lu et.al.|[2309.04725v1](http://arxiv.org/abs/2309.04725v1)|null|
 |**2023-09-08**|**Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations**|Patrícia Pereira et.al.|[2309.04292v1](http://arxiv.org/abs/2309.04292v1)|null|
 |**2023-09-08**|**NESTLE: a No-Code Tool for Statistical Analysis of Legal Corpus**|Kyoungyeon Cho et.al.|[2309.04146v1](http://arxiv.org/abs/2309.04146v1)|null|
-|**2023-09-07**|**USA: Universal Sentiment Analysis Model & Construction of Japanese Sentiment Text Classification and Part of Speech Dataset**|Chengguang Gan et.al.|[2309.03787v1](http://arxiv.org/abs/2309.03787v1)|**[link](https://huggingface.co/ganchengguang/USA-7B-instruction-incontext-learning)**|
+|**2023-09-14**|**USA: Universal Sentiment Analysis Model & Construction of Japanese Sentiment Text Classification and Part of Speech Dataset**|Chengguang Gan et.al.|[2309.03787v2](http://arxiv.org/abs/2309.03787v2)|**[link](https://huggingface.co/ganchengguang/USA-7B-instruction-incontext-learning)**|
 |**2023-09-06**|**ViCGCN: Graph Convolutional Network with Contextualized Language Models for Social Media Mining in Vietnamese**|Chau-Thang Phan et.al.|[2309.02902v1](http://arxiv.org/abs/2309.02902v1)|**[link](https://github.com/phanchauthang/ViCGCN)**|
 |**2023-09-06**|**A deep Natural Language Inference predictor without language-specific training data**|Lorenzo Corradi et.al.|[2309.02887v1](http://arxiv.org/abs/2309.02887v1)|null|
 |**2023-09-05**|**Sample Size in Natural Language Processing within Healthcare Research**|Jaya Chaturvedi et.al.|[2309.02237v1](http://arxiv.org/abs/2309.02237v1)|null|
@@ -2274,10 +2288,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks**|Danae Sánchez Villegas et.al.|[2309.07794v1](http://arxiv.org/abs/2309.07794v1)|null|
 |**2023-09-02**|**Studying the impacts of pre-training using ChatGPT-generated text on downstream tasks**|Sarthak Anand et.al.|[2309.05668v1](http://arxiv.org/abs/2309.05668v1)|null|
 |**2023-09-11**|**Experimenting with UD Adaptation of an Unsupervised Rule-based Approach for Sentiment Analysis of Mexican Tourist Texts**|Olga Kellert et.al.|[2309.05312v1](http://arxiv.org/abs/2309.05312v1)|null|
 |**2023-09-11**|**CONFLATOR: Incorporating Switching Point based Rotatory Positional Encodings for Code-Mixed Language Modeling**|Mohsin Ali et.al.|[2309.05270v1](http://arxiv.org/abs/2309.05270v1)|null|
-|**2023-09-07**|**USA: Universal Sentiment Analysis Model & Construction of Japanese Sentiment Text Classification and Part of Speech Dataset**|Chengguang Gan et.al.|[2309.03787v1](http://arxiv.org/abs/2309.03787v1)|**[link](https://huggingface.co/ganchengguang/USA-7B-instruction-incontext-learning)**|
+|**2023-09-14**|**USA: Universal Sentiment Analysis Model & Construction of Japanese Sentiment Text Classification and Part of Speech Dataset**|Chengguang Gan et.al.|[2309.03787v2](http://arxiv.org/abs/2309.03787v2)|**[link](https://huggingface.co/ganchengguang/USA-7B-instruction-incontext-learning)**|
 |**2023-09-06**|**A deep Natural Language Inference predictor without language-specific training data**|Lorenzo Corradi et.al.|[2309.02887v1](http://arxiv.org/abs/2309.02887v1)|null|
 |**2023-09-11**|**GRASS: Unified Generation Model for Speech-to-Semantic Tasks**|Aobo Xia et.al.|[2309.02780v2](http://arxiv.org/abs/2309.02780v2)|null|
 |**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190v1](http://arxiv.org/abs/2309.02190v1)|**[link](https://github.com/recklessronan/muse)**|
@@ -2635,6 +2650,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration**|Rachneet Sachdeva et.al.|[2309.07822v1](http://arxiv.org/abs/2309.07822v1)|null|
+|**2023-09-14**|**Feature Engineering in Learning-to-Rank for Community Question Answering Task**|Nafis Sajid et.al.|[2309.07610v1](http://arxiv.org/abs/2309.07610v1)|null|
+|**2023-09-14**|**Are Large Language Model-based Evaluators the Solution to Scaling Up Multilingual Evaluation?**|Rishav Hada et.al.|[2309.07462v1](http://arxiv.org/abs/2309.07462v1)|null|
 |**2023-09-12**|**Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning**|Enna Sachdeva et.al.|[2309.06597v1](http://arxiv.org/abs/2309.06597v1)|null|
 |**2023-09-12**|**Evaluating the Ebb and Flow: An In-depth Analysis of Question-Answering Trends across Diverse Platforms**|Rima Hazra et.al.|[2309.05961v1](http://arxiv.org/abs/2309.05961v1)|null|
 |**2023-09-11**|**NeCo@ALQAC 2023: Legal Domain Knowledge Acquisition for Low-Resource Languages through Data Enrichment**|Hai-Long Nguyen et.al.|[2309.05500v1](http://arxiv.org/abs/2309.05500v1)|null|
@@ -3874,6 +3892,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Choosing a Proxy Metric from Past Experiments**|Nilesh Tripuraneni et.al.|[2309.07893v1](http://arxiv.org/abs/2309.07893v1)|null|
+|**2023-09-14**|**NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation**|Jiaqi Zhang et.al.|[2309.07705v1](http://arxiv.org/abs/2309.07705v1)|null|
+|**2023-09-14**|**A Conversation is Worth A Thousand Recommendations: A Survey of Holistic Conversational Recommender Systems**|Chuang Li et.al.|[2309.07682v1](http://arxiv.org/abs/2309.07682v1)|**[link](https://github.com/lichuangnus/crs-paper-list)**|
+|**2023-09-14**|**Turning Dross Into Gold Loss: is BERT4Rec really better than SASRec?**|Anton Klenitskiy et.al.|[2309.07602v1](http://arxiv.org/abs/2309.07602v1)|**[link](https://github.com/antklen/sasrec-bert4rec-recsys23)**|
+|**2023-09-14**|**Neuro-Symbolic Recommendation Model based on Logic Query**|Maonian Wu et.al.|[2309.07594v1](http://arxiv.org/abs/2309.07594v1)|null|
+|**2023-09-13**|**Reusability Challenges of Scientific Workflows: A Case Study for Galaxy**|Khairul Alam et.al.|[2309.07291v1](http://arxiv.org/abs/2309.07291v1)|null|
 |**2023-09-13**|**Beyond original Research Articles Categorization via NLP**|Rosanna Turrisi et.al.|[2309.07020v1](http://arxiv.org/abs/2309.07020v1)|**[link](https://github.com/rturrisige/textclassification)**|
 |**2023-09-13**|**Résumé Parsing as Hierarchical Sequence Labeling: An Empirical Study**|Federico Retyk et.al.|[2309.07015v1](http://arxiv.org/abs/2309.07015v1)|**[link](https://github.com/federetyk/resume-parsing)**|
 |**2023-09-13**|**Multi-behavior Recommendation with SVD Graph Neural Networks**|Shengxi Fu et.al.|[2309.06912v1](http://arxiv.org/abs/2309.06912v1)|null|
@@ -4673,6 +4697,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Directed Scattering for Knowledge Graph-based Cellular Signaling Analysis**|Aarthi Venkat et.al.|[2309.07813v1](http://arxiv.org/abs/2309.07813v1)|null|
+|**2023-09-14**|**DBLPLink: An Entity Linker for the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2309.07545v1](http://arxiv.org/abs/2309.07545v1)|null|
+|**2023-09-13**|**ESRO: Experience Assisted Service Reliability against Outages**|Sarthak Chakraborty et.al.|[2309.07230v1](http://arxiv.org/abs/2309.07230v1)|null|
 |**2023-09-13**|**Modeling Dislocation Dynamics Data Using Semantic Web Technologies**|Ahmad Zainul Ihsan et.al.|[2309.06930v1](http://arxiv.org/abs/2309.06930v1)|null|
 |**2023-09-13**|**Comparative Analysis of Contextual Relation Extraction based on Deep Learning Models**|R. Priyadharshini et.al.|[2309.06814v1](http://arxiv.org/abs/2309.06814v1)|null|
 |**2023-09-12**|**Information Flow in Graph Neural Networks: A Clinical Triage Use Case**|Víctor Valls et.al.|[2309.06081v1](http://arxiv.org/abs/2309.06081v1)|null|
@@ -5281,9 +5308,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Naturalistic Robot Arm Trajectory Generation via Representation Learning**|Jayjun Lee et.al.|[2309.07550v1](http://arxiv.org/abs/2309.07550v1)|null|
+|**2023-09-14**|**SC-MAD: Mixtures of Higher-order Networks for Data Augmentation**|Madeline Navarro et.al.|[2309.07453v1](http://arxiv.org/abs/2309.07453v1)|null|
+|**2023-09-14**|**Is Solving Graph Neural Tangent Kernel Equivalent to Training Graph Neural Network?**|Lianke Qin et.al.|[2309.07452v1](http://arxiv.org/abs/2309.07452v1)|null|
+|**2023-09-14**|**HIGT: Hierarchical Interaction Graph-Transformer for Whole Slide Image Analysis**|Ziyu Guo et.al.|[2309.07400v1](http://arxiv.org/abs/2309.07400v1)|**[link](https://github.com/hku-medai/higt)**|
+|**2023-09-14**|**Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification**|Xiao Shen et.al.|[2309.07380v1](http://arxiv.org/abs/2309.07380v1)|null|
 |**2023-09-13**|**Predicting Expressibility of Parameterized Quantum Circuits using Graph Neural Network**|Shamminuj Aktar et.al.|[2309.06975v1](http://arxiv.org/abs/2309.06975v1)|null|
 |**2023-09-13**|**Multi-behavior Recommendation with SVD Graph Neural Networks**|Shengxi Fu et.al.|[2309.06912v1](http://arxiv.org/abs/2309.06912v1)|null|
-|**2023-09-13**|**Uncertainty-aware Traffic Prediction under Missing Data**|Hao Mei et.al.|[2309.06800v1](http://arxiv.org/abs/2309.06800v1)|null|
+|**2023-09-14**|**Uncertainty-aware Traffic Prediction under Missing Data**|Hao Mei et.al.|[2309.06800v2](http://arxiv.org/abs/2309.06800v2)|null|
 |**2023-09-13**|**Scalable neural network models and terascale datasets for particle-flow reconstruction**|Joosep Pata et.al.|[2309.06782v1](http://arxiv.org/abs/2309.06782v1)|null|
 |**2023-09-12**|**Bregman Graph Neural Network**|Jiayu Zhai et.al.|[2309.06645v1](http://arxiv.org/abs/2309.06645v1)|**[link](https://github.com/jiayuzhai1207/bregmangnn)**|
 |**2023-09-12**|**Explainable Graph Neural Network for Alzheimer's Disease And Related Dementias Risk Prediction**|Xinyue Hu et.al.|[2309.06584v1](http://arxiv.org/abs/2309.06584v1)|null|
