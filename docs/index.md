@@ -25,6 +25,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474v1](http://arxiv.org/abs/2309.08474v1)|null|
+|**2023-09-15**|**Understanding the limitations of self-supervised learning for tabular anomaly detection**|Kimberly T. Mai et.al.|[2309.08374v1](http://arxiv.org/abs/2309.08374v1)|null|
+|**2023-09-15**|**Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study**|Qi Guo et.al.|[2309.08221v1](http://arxiv.org/abs/2309.08221v1)|null|
+|**2023-09-14**|**An Empirical Evaluation of Prompting Strategies for Large Language Models in Zero-Shot Clinical Natural Language Processing**|Sonish Sivarajkumar et.al.|[2309.08008v1](http://arxiv.org/abs/2309.08008v1)|null|
 |**2023-09-14**|**A Multi-In and Multi-Out Dendritic Neuron Model and its Optimization**|Yu Ding et.al.|[2309.07791v1](http://arxiv.org/abs/2309.07791v1)|null|
 |**2023-09-14**|**Complexity Scaling for Speech Denoising**|Hangting Chen et.al.|[2309.07757v1](http://arxiv.org/abs/2309.07757v1)|null|
 |**2023-09-14**|**Generative AI Text Classification using Ensemble LLM Approaches**|Harika Abburi et.al.|[2309.07755v1](http://arxiv.org/abs/2309.07755v1)|null|
@@ -1767,6 +1771,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-15**|**Self-Consistent Narrative Prompts on Abductive Natural Language Inference**|Chunkit Chan et.al.|[2309.08303v1](http://arxiv.org/abs/2309.08303v1)|null|
+|**2023-09-15**|**Large Language Models for Failure Mode Classification: An Investigation**|Michael Stewart et.al.|[2309.08181v1](http://arxiv.org/abs/2309.08181v1)|**[link](https://github.com/nlp-tlp/chatgpt-fmc)**|
 |**2023-09-14**|**Ambiguity-Aware In-Context Learning with Large Language Models**|Lingyu Gao et.al.|[2309.07900v1](http://arxiv.org/abs/2309.07900v1)|null|
 |**2023-09-14**|**Text Classification of Cancer Clinical Trial Eligibility Criteria**|Yumeng Yang et.al.|[2309.07812v1](http://arxiv.org/abs/2309.07812v1)|null|
 |**2023-09-14**|**Generative AI Text Classification using Ensemble LLM Approaches**|Harika Abburi et.al.|[2309.07755v1](http://arxiv.org/abs/2309.07755v1)|null|
@@ -2654,7 +2660,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-14**|**CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration**|Rachneet Sachdeva et.al.|[2309.07822v1](http://arxiv.org/abs/2309.07822v1)|**[link](https://github.com/ukplab/catfood)**|
+|**2023-09-15**|**Are Multilingual LLMs Culturally-Diverse Reasoners? An Investigation into Multicultural Proverbs and Sayings**|Chen Cecilia Liu et.al.|[2309.08591v1](http://arxiv.org/abs/2309.08591v1)|null|
+|**2023-09-15**|**SilverRetriever: Advancing Neural Passage Retrieval for Polish Question Answering**|Piotr Rybak et.al.|[2309.08469v1](http://arxiv.org/abs/2309.08469v1)|null|
+|**2023-09-15**|**Advancing the Evaluation of Traditional Chinese Language Models: Towards a Comprehensive Benchmark Suite**|Chan-Jan Hsu et.al.|[2309.08448v1](http://arxiv.org/abs/2309.08448v1)|null|
+|**2023-09-15**|**Data Distribution Bottlenecks in Grounding Language Models to Knowledge Bases**|Yiheng Shu et.al.|[2309.08345v1](http://arxiv.org/abs/2309.08345v1)|null|
+|**2023-09-15**|**Investigating Answerability of LLMs for Long-Form Question Answering**|Meghana Moorthy Bhat et.al.|[2309.08210v1](http://arxiv.org/abs/2309.08210v1)|null|
+|**2023-09-15**|**CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration**|Rachneet Sachdeva et.al.|[2309.07822v2](http://arxiv.org/abs/2309.07822v2)|**[link](https://github.com/ukplab/catfood)**|
 |**2023-09-14**|**Feature Engineering in Learning-to-Rank for Community Question Answering Task**|Nafis Sajid et.al.|[2309.07610v1](http://arxiv.org/abs/2309.07610v1)|null|
 |**2023-09-14**|**Are Large Language Model-based Evaluators the Solution to Scaling Up Multilingual Evaluation?**|Rishav Hada et.al.|[2309.07462v1](http://arxiv.org/abs/2309.07462v1)|null|
 |**2023-09-12**|**Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning**|Enna Sachdeva et.al.|[2309.06597v1](http://arxiv.org/abs/2309.06597v1)|null|
@@ -3896,6 +3907,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Measuring the Quality of Text-to-Video Model Outputs: Metrics and Dataset**|Iya Chivileva et.al.|[2309.08009v1](http://arxiv.org/abs/2309.08009v1)|null|
+|**2023-09-14**|**iHAS: Instance-wise Hierarchical Architecture Search for Deep Learning Recommendation Models**|Yakun Yu et.al.|[2309.07967v1](http://arxiv.org/abs/2309.07967v1)|null|
 |**2023-09-14**|**Choosing a Proxy Metric from Past Experiments**|Nilesh Tripuraneni et.al.|[2309.07893v1](http://arxiv.org/abs/2309.07893v1)|null|
 |**2023-09-14**|**NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation**|Jiaqi Zhang et.al.|[2309.07705v1](http://arxiv.org/abs/2309.07705v1)|**[link](https://github.com/anonymous-ninerec/ninerec)**|
 |**2023-09-14**|**A Conversation is Worth A Thousand Recommendations: A Survey of Holistic Conversational Recommender Systems**|Chuang Li et.al.|[2309.07682v1](http://arxiv.org/abs/2309.07682v1)|**[link](https://github.com/lichuangnus/crs-paper-list)**|
@@ -4701,6 +4714,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-15**|**"Merge Conflicts!" Exploring the Impacts of External Distractors to Parametric Knowledge Graphs**|Cheng Qian et.al.|[2309.08594v1](http://arxiv.org/abs/2309.08594v1)|**[link](https://github.com/qiancheng0/ekd_impacts_pkg)**|
+|**2023-09-15**|**Research on Joint Representation Learning Methods for Entity Neighborhood Information and Description Information**|Le Xiao et.al.|[2309.08100v1](http://arxiv.org/abs/2309.08100v1)|null|
+|**2023-09-14**|**A Data Source for Reasoning Embodied Agents**|Jack Lanchantin et.al.|[2309.07974v1](http://arxiv.org/abs/2309.07974v1)|**[link](https://github.com/facebookresearch/neuralmemory)**|
 |**2023-09-14**|**Directed Scattering for Knowledge Graph-based Cellular Signaling Analysis**|Aarthi Venkat et.al.|[2309.07813v1](http://arxiv.org/abs/2309.07813v1)|null|
 |**2023-09-14**|**DBLPLink: An Entity Linker for the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2309.07545v1](http://arxiv.org/abs/2309.07545v1)|null|
 |**2023-09-13**|**ESRO: Experience Assisted Service Reliability against Outages**|Sarthak Chakraborty et.al.|[2309.07230v1](http://arxiv.org/abs/2309.07230v1)|**[link](https://github.com/sarthak-chakraborty/esro)**|
@@ -5312,6 +5328,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-15**|**Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach**|Karuna Bhaila et.al.|[2309.08569v1](http://arxiv.org/abs/2309.08569v1)|**[link](https://github.com/karuna-bhaila/rgnn)**|
+|**2023-09-15**|**XFedHunter: An Explainable Federated Learning Framework for Advanced Persistent Threat Detection in SDN**|Huynh Thai Thi et.al.|[2309.08485v1](http://arxiv.org/abs/2309.08485v1)|null|
+|**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474v1](http://arxiv.org/abs/2309.08474v1)|null|
+|**2023-09-15**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural Networks**|Hieu Dinh Vo et.al.|[2309.08225v1](http://arxiv.org/abs/2309.08225v1)|null|
 |**2023-09-14**|**Naturalistic Robot Arm Trajectory Generation via Representation Learning**|Jayjun Lee et.al.|[2309.07550v1](http://arxiv.org/abs/2309.07550v1)|null|
 |**2023-09-14**|**SC-MAD: Mixtures of Higher-order Networks for Data Augmentation**|Madeline Navarro et.al.|[2309.07453v1](http://arxiv.org/abs/2309.07453v1)|null|
 |**2023-09-14**|**Is Solving Graph Neural Tangent Kernel Equivalent to Training Graph Neural Network?**|Lianke Qin et.al.|[2309.07452v1](http://arxiv.org/abs/2309.07452v1)|null|
