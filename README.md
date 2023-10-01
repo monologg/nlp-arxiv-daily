@@ -2390,7 +2390,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-28**|**Analyzing Political Figures in Real-Time: Leveraging YouTube Metadata for Sentiment Analysis**|Danendra Athallariq Harya Putra et.al.|[2309.16234v1](http://arxiv.org/abs/2309.16234v1)|null|
-|**2023-09-27**|**MONOVAB : An Annotated Corpus for Bangla Multi-label Emotion Detection**|Sumit Kumar Banshal et.al.|[2309.15670v1](http://arxiv.org/abs/2309.15670v1)|null|
+|**2023-09-27**|**MONOVAB : An Annotated Corpus for Bangla Multi-label Emotion Detection**|Sumit Kumar Banshal et.al.|[2309.15670v1](http://arxiv.org/abs/2309.15670v1)|**[link](https://github.com/sajaldoes/facebookscraper)**|
 |**2023-09-27**|**VideoAdviser: Video Knowledge Distillation for Multimodal Transfer Learning**|Yanan Wang et.al.|[2309.15494v1](http://arxiv.org/abs/2309.15494v1)|null|
 |**2023-09-26**|**How crowd accidents are reported in the media: Lexical and sentiment analyses**|Claudio Feliciani et.al.|[2309.14633v1](http://arxiv.org/abs/2309.14633v1)|null|
 |**2023-09-25**|**Introducing DictaLM -- A Large Generative Language Model for Modern Hebrew**|Shaltiel Shmidman et.al.|[2309.14568v1](http://arxiv.org/abs/2309.14568v1)|null|
