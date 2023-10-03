@@ -2792,7 +2792,7 @@ layout: default
 |**2023-09-28**|**Semantic Scene Difference Detection in Daily Life Patroling by Mobile Robots using Pre-Trained Large-Scale Vision-Language Model**|Yoshiki Obinata et.al.|[2309.16552v1](http://arxiv.org/abs/2309.16552v1)|null|
 |**2023-09-28**|**Toloka Visual Question Answering Benchmark**|Dmitry Ustalov et.al.|[2309.16511v1](http://arxiv.org/abs/2309.16511v1)|null|
 |**2023-09-28**|**Neuro Symbolic Reasoning for Planning: Counterexample Guided Inductive Synthesis using Large Language Models and Satisfiability Solving**|Sumit Kumar Jha et.al.|[2309.16436v1](http://arxiv.org/abs/2309.16436v1)|null|
-|**2023-09-28**|**At Which Training Stage Does Cocde Data Help LLMs Reasoning?**|Yingwei Ma et.al.|[2309.16298v1](http://arxiv.org/abs/2309.16298v1)|**[link](https://github.com/yingweima2022/codellm)**|
+|**2023-09-30**|**At Which Training Stage Does Code Data Help LLMs Reasoning?**|Yingwei Ma et.al.|[2309.16298v2](http://arxiv.org/abs/2309.16298v2)|**[link](https://github.com/yingweima2022/codellm)**|
 |**2023-09-28**|**Spider4SPARQL: A Complex Benchmark for Evaluating Knowledge Graph Question Answering Systems**|Catherine Kosten et.al.|[2309.16248v1](http://arxiv.org/abs/2309.16248v1)|null|
 |**2023-09-28**|**VDC: Versatile Data Cleanser for Detecting Dirty Samples via Visual-Linguistic Inconsistency**|Zihao Zhu et.al.|[2309.16211v1](http://arxiv.org/abs/2309.16211v1)|null|
 |**2023-09-28**|**Using Weak Supervision and Data Augmentation in Question Answering**|Chumki Basu et.al.|[2309.16175v1](http://arxiv.org/abs/2309.16175v1)|null|
@@ -5617,13 +5617,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-29**|**Learning Decentralized Flocking Controllers with Spatio-Temporal Graph Neural Network**|Siji Chen et.al.|[2309.17437v1](http://arxiv.org/abs/2309.17437v1)|null|
+|**2023-10-02**|**Learning Decentralized Flocking Controllers with Spatio-Temporal Graph Neural Network**|Siji Chen et.al.|[2309.17437v2](http://arxiv.org/abs/2309.17437v2)|null|
 |**2023-09-29**|**DREAM: Decentralized Reinforcement Learning for Exploration and Efficient Energy Management in Multi-Robot Systems**|Dipam Patel et.al.|[2309.17433v1](http://arxiv.org/abs/2309.17433v1)|null|
 |**2023-09-29**|**Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction**|Arjun Subramonian et.al.|[2309.17417v1](http://arxiv.org/abs/2309.17417v1)|**[link](https://github.com/arjunsubramonian/link_bias_amplification)**|
 |**2023-09-29**|**Machine Learning for Practical Quantum Error Mitigation**|Haoran Liao et.al.|[2309.17368v1](http://arxiv.org/abs/2309.17368v1)|null|
 |**2023-09-29**|**Asynchronous Graph Generators**|Christopher P. Ley et.al.|[2309.17335v1](http://arxiv.org/abs/2309.17335v1)|null|
 |**2023-09-29**|**Meta-Path Learning for Multi-relational Graph Neural Networks**|Francesco Ferrini et.al.|[2309.17113v1](http://arxiv.org/abs/2309.17113v1)|**[link](https://github.com/francescoferrini/multirelationalgnn)**|
-|**2023-09-29**|**On the Power of the Weisfeiler-Leman Test for Graph Motif Parameters**|Pablo Barceló et.al.|[2309.17053v1](http://arxiv.org/abs/2309.17053v1)|null|
+|**2023-10-02**|**On the Power of the Weisfeiler-Leman Test for Graph Motif Parameters**|Matthias Lanzinger et.al.|[2309.17053v2](http://arxiv.org/abs/2309.17053v2)|null|
 |**2023-09-29**|**Controlling Continuous Relaxation for Combinatorial Optimization**|Yuma Ichikawa et.al.|[2309.16965v1](http://arxiv.org/abs/2309.16965v1)|null|
 |**2023-09-29**|**G4SATBench: Benchmarking and Advancing SAT Solving with Graph Neural Networks**|Zhaoyu Li et.al.|[2309.16941v1](http://arxiv.org/abs/2309.16941v1)|**[link](https://github.com/zhaoyu-li/g4satbench)**|
 |**2023-09-29**|**ACGAN-GNNExplainer: Auxiliary Conditional Generative Explainer for Graph Neural Networks**|Yiqiao Li et.al.|[2309.16918v1](http://arxiv.org/abs/2309.16918v1)|null|
