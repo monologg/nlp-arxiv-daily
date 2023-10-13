@@ -28,7 +28,7 @@
 |**2023-10-11**|**Energy Estimates Across Layers of Computing: From Devices to Large-Scale Applications in Machine Learning for Natural Language Processing, Scientific Computing, and Cryptocurrency Mining**|Sadasivan Shankar et.al.|[2310.07516v1](http://arxiv.org/abs/2310.07516v1)|null|
 |**2023-10-11**|**KwaiYiiMath: Technical Report**|Jiayi Fu et.al.|[2310.07488v1](http://arxiv.org/abs/2310.07488v1)|null|
 |**2023-10-11**|**uxSense: Supporting User Experience Analysis with Visualization and Computer Vision**|Andrea Batch et.al.|[2310.07300v1](http://arxiv.org/abs/2310.07300v1)|null|
-|**2023-10-11**|**An Analysis on Large Language Models in Healthcare: A Case Study of BioBERT**|Shyni Sharaf et.al.|[2310.07282v1](http://arxiv.org/abs/2310.07282v1)|null|
+|**2023-10-12**|**An Analysis on Large Language Models in Healthcare: A Case Study of BioBERT**|Shyni Sharaf et.al.|[2310.07282v2](http://arxiv.org/abs/2310.07282v2)|null|
 |**2023-10-11**|**BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations**|Qizhi Pei et.al.|[2310.07276v1](http://arxiv.org/abs/2310.07276v1)|**[link](https://github.com/QizhiPei/BioT5)**|
 |**2023-10-11**|**A Comparative Study of Pre-trained CNNs and GRU-Based Attention for Image Caption Generation**|Rashid Khan et.al.|[2310.07252v1](http://arxiv.org/abs/2310.07252v1)|null|
 |**2023-10-10**|**Topic-DPR: Topic-based Prompts for Dense Passage Retrieval**|Qingfa Xiao et.al.|[2310.06626v1](http://arxiv.org/abs/2310.06626v1)|null|
@@ -2896,10 +2896,10 @@
 |---|---|---|---|---|
 |**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|null|
 |**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653v1](http://arxiv.org/abs/2310.07653v1)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
-|**2023-10-11**|**OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models**|Yuhe Liu et.al.|[2310.07637v1](http://arxiv.org/abs/2310.07637v1)|null|
+|**2023-10-12**|**OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models**|Yuhe Liu et.al.|[2310.07637v2](http://arxiv.org/abs/2310.07637v2)|null|
 |**2023-10-11**|**QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking**|Liangming Pan et.al.|[2310.07609v1](http://arxiv.org/abs/2310.07609v1)|**[link](https://github.com/xinyuanlu00/qacheck)**|
 |**2023-10-11**|**Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**|Liang Chen et.al.|[2310.07289v1](http://arxiv.org/abs/2310.07289v1)|null|
-|**2023-10-11**|**An Analysis on Large Language Models in Healthcare: A Case Study of BioBERT**|Shyni Sharaf et.al.|[2310.07282v1](http://arxiv.org/abs/2310.07282v1)|null|
+|**2023-10-12**|**An Analysis on Large Language Models in Healthcare: A Case Study of BioBERT**|Shyni Sharaf et.al.|[2310.07282v2](http://arxiv.org/abs/2310.07282v2)|null|
 |**2023-10-11**|**Uncovering Hidden Connections: Iterative Tracking and Reasoning for Video-grounded Dialog**|Haoyu Zhang et.al.|[2310.07259v1](http://arxiv.org/abs/2310.07259v1)|**[link](https://github.com/hyu-zhang/itr)**|
 |**2023-10-11**|**Exploring the Landscape of Large Language Models In Medical Question Answering: Observations and Open Questions**|Karolina Korgul et.al.|[2310.07225v1](http://arxiv.org/abs/2310.07225v1)|null|
 |**2023-10-11**|**MatChat: A Large Language Model and Application Service Platform for Materials Science**|Ziyi Chen et.al.|[2310.07197v1](http://arxiv.org/abs/2310.07197v1)|null|
@@ -5884,7 +5884,7 @@
 |**2023-10-11**|**GraphCloak: Safeguarding Task-specific Knowledge within Graph-structured Data from Unauthorized Exploitation**|Yixin Liu et.al.|[2310.07100v1](http://arxiv.org/abs/2310.07100v1)|null|
 |**2023-10-10**|**Neural Relational Inference with Fast Modular Meta-learning**|Ferran Alet et.al.|[2310.07015v1](http://arxiv.org/abs/2310.07015v1)|**[link](https://github.com/FerranAlet/modular-metalearning)**|
 |**2023-10-10**|**Accelerated Modelling of Interfaces for Electronic Devices using Graph Neural Networks**|Pratik Brahma et.al.|[2310.06995v1](http://arxiv.org/abs/2310.06995v1)|null|
-|**2023-10-10**|**Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing**|Joël Mathys et.al.|[2310.06970v1](http://arxiv.org/abs/2310.06970v1)|null|
+|**2023-10-12**|**Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing**|Joël Mathys et.al.|[2310.06970v2](http://arxiv.org/abs/2310.06970v2)|null|
 |**2023-10-10**|**Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder**|Bowen Jin et.al.|[2310.06684v1](http://arxiv.org/abs/2310.06684v1)|null|
 |**2023-10-10**|**On the importance of catalyst-adsorbate 3D interactions for relaxed energy predictions**|Alvaro Carbonero et.al.|[2310.06682v1](http://arxiv.org/abs/2310.06682v1)|null|
 |**2023-10-10**|**TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems**|Zijie Huang et.al.|[2310.06427v1](http://arxiv.org/abs/2310.06427v1)|null|
