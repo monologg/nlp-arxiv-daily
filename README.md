@@ -1982,7 +1982,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-19**|**Label-Aware Automatic Verbalizer for Few-Shot Text Classification**|Thanakorn Thaminkaew et.al.|[2310.12778v1](http://arxiv.org/abs/2310.12778v1)|null|
-|**2023-10-19**|**Transformer-based Entity Legal Form Classification**|Alexander Arimond et.al.|[2310.12766v1](http://arxiv.org/abs/2310.12766v1)|null|
+|**2023-10-19**|**Transformer-based Entity Legal Form Classification**|Alexander Arimond et.al.|[2310.12766v1](http://arxiv.org/abs/2310.12766v1)|**[link](https://github.com/sociovestix/lenu)**|
 |**2023-10-19**|**MedAI Dialog Corpus (MEDIC): Zero-Shot Classification of Doctor and AI Responses in Health Consultations**|Olumide E. Ojo et.al.|[2310.12489v1](http://arxiv.org/abs/2310.12489v1)|null|
 |**2023-10-18**|**Eliminating Reasoning via Inferring with Planning: A New Framework to Guide LLMs' Non-linear Thinking**|Yongqi Tong et.al.|[2310.12342v1](http://arxiv.org/abs/2310.12342v1)|null|
 |**2023-10-18**|**PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model**|Meng Tong et.al.|[2310.12214v1](http://arxiv.org/abs/2310.12214v1)|null|
@@ -6087,7 +6087,7 @@
 |**2023-10-19**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri et.al.|[2310.12800v1](http://arxiv.org/abs/2310.12800v1)|null|
 |**2023-10-19**|**Pretraining Language Models with Text-Attributed Heterogeneous Graphs**|Tao Zou et.al.|[2310.12580v1](http://arxiv.org/abs/2310.12580v1)|**[link](https://github.com/hope-rita/thlm)**|
 |**2023-10-19**|**Open-World Lifelong Graph Learning**|Marcel Hoffmann et.al.|[2310.12565v1](http://arxiv.org/abs/2310.12565v1)|**[link](https://github.com/bobowner/open-world-lgl)**|
-|**2023-10-19**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557v1](http://arxiv.org/abs/2310.12557v1)|null|
+|**2023-10-19**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557v1](http://arxiv.org/abs/2310.12557v1)|**[link](https://github.com/syon-li/depwignn)**|
 |**2023-10-19**|**WeaveNet for Approximating Two-sided Matching Problems**|Shusaku Sone et.al.|[2310.12515v1](http://arxiv.org/abs/2310.12515v1)|null|
 |**2023-10-19**|**MuseGNN: Interpretable and Convergent Graph Neural Network Layers at Scale**|Haitian Jiang et.al.|[2310.12457v1](http://arxiv.org/abs/2310.12457v1)|null|
 |**2023-10-19**|**Cooperative Minibatching in Graph Neural Networks**|Muhammed Fatih Balin et.al.|[2310.12403v1](http://arxiv.org/abs/2310.12403v1)|null|
