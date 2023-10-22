@@ -21,7 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-19**|**TabuLa: Harnessing Language Models for Tabular Data Synthesis**|Zilong Zhao et.al.|[2310.12746v1](http://arxiv.org/abs/2310.12746v1)|null|
+|**2023-10-19**|**TabuLa: Harnessing Language Models for Tabular Data Synthesis**|Zilong Zhao et.al.|[2310.12746v1](http://arxiv.org/abs/2310.12746v1)|**[link](https://github.com/zhao-zilong/tabula)**|
 |**2023-10-19**|**Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing**|Yue Guo et.al.|[2310.12664v1](http://arxiv.org/abs/2310.12664v1)|null|
 |**2023-10-19**|**Towards Real-World Streaming Speech Translation for Code-Switched Speech**|Belen Alastruey et.al.|[2310.12648v1](http://arxiv.org/abs/2310.12648v1)|**[link](https://github.com/apple/ml-codeswitching-translations)**|
 |**2023-10-19**|**An Exploration of In-Context Learning for Speech Language Model**|Ming-Hao Hsu et.al.|[2310.12477v1](http://arxiv.org/abs/2310.12477v1)|null|
