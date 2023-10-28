@@ -30,7 +30,7 @@ layout: default
 |**2023-10-26**|**De-novo Chemical Reaction Generation by Means of Temporarily Convolutional Neural Networks**|Andrei Buin et.al.|[2310.17341v1](http://arxiv.org/abs/2310.17341v1)|null|
 |**2023-10-26**|**Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance?**|Ahmed Alajrami et.al.|[2310.17271v1](http://arxiv.org/abs/2310.17271v1)|null|
 |**2023-10-26**|**miditok: A Python package for MIDI file tokenization**|Nathan Fradet et.al.|[2310.17202v1](http://arxiv.org/abs/2310.17202v1)|**[link](https://github.com/Natooz/MidiTok)**|
-|**2023-10-26**|**M2C: Towards Automatic Multimodal Manga Complement**|Hongcheng Guo et.al.|[2310.17130v1](http://arxiv.org/abs/2310.17130v1)|null|
+|**2023-10-26**|**M2C: Towards Automatic Multimodal Manga Complement**|Hongcheng Guo et.al.|[2310.17130v1](http://arxiv.org/abs/2310.17130v1)|**[link](https://github.com/hc-guo/m2c)**|
 |**2023-10-26**|**A Method for Network Intrusion Detection Using Flow Sequence and BERT Framework**|Loc Gia Nguyen et.al.|[2310.17127v1](http://arxiv.org/abs/2310.17127v1)|null|
 |**2023-10-25**|**This Reads Like That: Deep Learning for Interpretable Natural Language Processing**|Claudio Fanconi et.al.|[2310.17010v1](http://arxiv.org/abs/2310.17010v1)|**[link](https://github.com/fanconic/this_reads_like_that)**|
 |**2023-10-25**|**Understanding Social Structures from Contemporary Literary Fiction using Character Interaction Graph -- Half Century Chronology of Influential Bengali Writers**|Nafis Irtiza Tripto et.al.|[2310.16968v1](http://arxiv.org/abs/2310.16968v1)|null|
