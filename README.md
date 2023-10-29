@@ -4144,7 +4144,7 @@
 |**2023-10-25**|**Rebuild City Buildings from Off-Nadir Aerial Images with Offset-Building Model (OBM)**|Kai Li et.al.|[2310.16717v1](http://arxiv.org/abs/2310.16717v1)|null|
 |**2023-10-25**|**Enhancing Document Information Analysis with Multi-Task Pre-training: A Robust Approach for Information Extraction in Visually-Rich Documents**|Tofik Ali et.al.|[2310.16527v1](http://arxiv.org/abs/2310.16527v1)|null|
 |**2023-10-24**|**GenKIE: Robust Generative Multimodal Document Key Information Extraction**|Panfeng Cao et.al.|[2310.16131v1](http://arxiv.org/abs/2310.16131v1)|**[link](https://github.com/glasgow-ai4biomed/genkie)**|
-|**2023-10-24**|**Instruct and Extract: Instruction Tuning for On-Demand Information Extraction**|Yizhu Jiao et.al.|[2310.16040v1](http://arxiv.org/abs/2310.16040v1)|null|
+|**2023-10-24**|**Instruct and Extract: Instruction Tuning for On-Demand Information Extraction**|Yizhu Jiao et.al.|[2310.16040v1](http://arxiv.org/abs/2310.16040v1)|**[link](https://github.com/yzjiao/on-demand-ie)**|
 |**2023-10-24**|**MuLMS: A Multi-Layer Annotated Text Corpus for Information Extraction in the Materials Science Domain**|Timo Pierre Schrader et.al.|[2310.15569v1](http://arxiv.org/abs/2310.15569v1)|null|
 |**2023-10-24**|**Generative and Contrastive Paradigms Are Complementary for Graph Self-Supervised Learning**|Yuxiang Wang et.al.|[2310.15523v1](http://arxiv.org/abs/2310.15523v1)|null|
 |**2023-10-24**|**Continual Event Extraction with Semantic Confusion Rectification**|Zitao Wang et.al.|[2310.15470v1](http://arxiv.org/abs/2310.15470v1)|**[link](https://github.com/nju-websoft/SCR)**|
@@ -6300,7 +6300,7 @@
 |**2023-10-26**|**Graphical Object-Centric Actor-Critic**|Leonid Ugadiarov et.al.|[2310.17178v1](http://arxiv.org/abs/2310.17178v1)|null|
 |**2023-10-26**|**Explainable Spatio-Temporal Graph Neural Networks**|Jiabin Tang et.al.|[2310.17149v1](http://arxiv.org/abs/2310.17149v1)|**[link](https://github.com/hkuds/stexplainer)**|
 |**2023-10-26**|**Network Design through Graph Neural Networks: Identifying Challenges and Improving Performance**|Donald Loveland et.al.|[2310.17100v1](http://arxiv.org/abs/2310.17100v1)|null|
-|**2023-10-25**|**RDBench: ML Benchmark for Relational Databases**|Zizhao Zhang et.al.|[2310.16837v1](http://arxiv.org/abs/2310.16837v1)|**[link](https://github.com/jiaxuanyou/dbgym)**|
+|**2023-10-25**|**RDBench: ML Benchmark for Relational Databases**|Zizhao Zhang et.al.|[2310.16837v1](http://arxiv.org/abs/2310.16837v1)|null|
 |**2023-10-25**|**AI Agent as Urban Planner: Steering Stakeholder Dynamics in Urban Planning via Consensus-based Multi-Agent Reinforcement Learning**|Kejiang Qian et.al.|[2310.16772v1](http://arxiv.org/abs/2310.16772v1)|null|
 |**2023-10-25**|**$\mathbb{VD}$-$\mathbb{GR}$: Boosting $\mathbb{V}$isual $\mathbb{D}$ialog with Cascaded Spatial-Temporal Multi-Modal $\mathbb{GR}$ aphs**|Adnen Abdessaied et.al.|[2310.16590v1](http://arxiv.org/abs/2310.16590v1)|null|
 |**2023-10-25**|**Graph Agent: Explicit Reasoning Agent for Graphs**|Qinyong Wang et.al.|[2310.16421v1](http://arxiv.org/abs/2310.16421v1)|null|
