@@ -21,6 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-30**|**Adapter Pruning using Tropical Characterization**|Rishabh Bhardwaj et.al.|[2310.19232v1](http://arxiv.org/abs/2310.19232v1)|null|
+|**2023-10-29**|**A Survey on Recent Named Entity Recognition and Relation Classification Methods with Focus on Few-Shot Learning Approaches**|Sakher Alqaaidi et.al.|[2310.19055v1](http://arxiv.org/abs/2310.19055v1)|null|
+|**2023-10-29**|**Bipartite Graph Pre-training for Unsupervised Extractive Summarization with Graph Convolutional Auto-Encoders**|Qianren Mao et.al.|[2310.18992v1](http://arxiv.org/abs/2310.18992v1)|null|
+|**2023-10-29**|**A Multimodal Ecological Civilization Pattern Recommendation Method Based on Large Language Models and Knowledge Graph**|Zhihang Yu et.al.|[2310.18951v1](http://arxiv.org/abs/2310.18951v1)|null|
+|**2023-10-29**|**A foundational neural operator that continuously learns without forgetting**|Tapas Tripura et.al.|[2310.18885v1](http://arxiv.org/abs/2310.18885v1)|null|
+|**2023-10-29**|**Pre-trained Speech Processing Models Contain Human-Like Biases that Propagate to Speech Emotion Recognition**|Isaac Slaughter et.al.|[2310.18877v1](http://arxiv.org/abs/2310.18877v1)|**[link](https://github.com/isaaconline/speat)**|
+|**2023-10-28**|**Translating away Translationese without Parallel Data**|Rricha Jalota et.al.|[2310.18830v1](http://arxiv.org/abs/2310.18830v1)|null|
+|**2023-10-28**|**Setting the Trap: Capturing and Defeating Backdoors in Pretrained Language Models through Honeypots**|Ruixiang Tang et.al.|[2310.18633v1](http://arxiv.org/abs/2310.18633v1)|null|
+|**2023-10-27**|**Maximizing Equitable Reach and Accessibility of ETDs**|William A. Ingram et.al.|[2310.18427v1](http://arxiv.org/abs/2310.18427v1)|null|
 |**2023-10-27**|**On General Language Understanding**|David Schlangen et.al.|[2310.18038v1](http://arxiv.org/abs/2310.18038v1)|null|
 |**2023-10-27**|**NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark**|Oscar Sainz et.al.|[2310.18018v1](http://arxiv.org/abs/2310.18018v1)|null|
 |**2023-10-27**|**SOUL: Towards Sentiment and Opinion Understanding of Language**|Yue Deng et.al.|[2310.17924v1](http://arxiv.org/abs/2310.17924v1)|**[link](https://github.com/damo-nlp-sg/soul)**|
@@ -1683,9 +1692,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**A Survey on Recent Named Entity Recognition and Relation Classification Methods with Focus on Few-Shot Learning Approaches**|Sakher Alqaaidi et.al.|[2310.19055v1](http://arxiv.org/abs/2310.19055v1)|null|
+|**2023-10-29**|**S2F-NER: Exploring Sequence-to-Forest Generation for Complex Entity Recognition**|Yongxiu Xu et.al.|[2310.18944v1](http://arxiv.org/abs/2310.18944v1)|null|
+|**2023-10-23**|**A Boundary Offset Prediction Network for Named Entity Recognition**|Minghao Tang et.al.|[2310.18349v1](http://arxiv.org/abs/2310.18349v1)|null|
 |**2023-10-27**|**Prompt-NER: Zero-shot Named Entity Recognition in Astronomy Literature via Large Language Models**|Wujun Shao et.al.|[2310.17892v1](http://arxiv.org/abs/2310.17892v1)|null|
 |**2023-10-25**|**CUNI Submission to MRL 2023 Shared Task on Multi-lingual Multi-task Information Retrieval**|Jindřich Helcl et.al.|[2310.16528v1](http://arxiv.org/abs/2310.16528v1)|null|
-|**2023-10-24**|**CleanCoNLL: A Nearly Noise-Free Named Entity Recognition Dataset**|Susanna Rücker et.al.|[2310.16225v1](http://arxiv.org/abs/2310.16225v1)|null|
+|**2023-10-24**|**CleanCoNLL: A Nearly Noise-Free Named Entity Recognition Dataset**|Susanna Rücker et.al.|[2310.16225v1](http://arxiv.org/abs/2310.16225v1)|**[link](https://github.com/flairnlp/cleanconll)**|
 |**2023-10-24**|**WojoodNER 2023: The First Arabic Named Entity Recognition Shared Task**|Mustafa Jarrar et.al.|[2310.16153v1](http://arxiv.org/abs/2310.16153v1)|null|
 |**2023-10-24**|**Towards Automated Recipe Genre Classification using Semi-Supervised Learning**|Nazmus Sakib et.al.|[2310.15693v1](http://arxiv.org/abs/2310.15693v1)|null|
 |**2023-10-24**|**Natural Language Processing for Drug Discovery Knowledge Graphs: promises and pitfalls**|J. Charles G. Jeynes et.al.|[2310.15572v1](http://arxiv.org/abs/2310.15572v1)|null|
@@ -2053,6 +2065,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**Pushdown Layers: Encoding Recursive Structure in Transformer Language Models**|Shikhar Murty et.al.|[2310.19089v1](http://arxiv.org/abs/2310.19089v1)|null|
+|**2023-10-29**|**A Survey on Recent Named Entity Recognition and Relation Classification Methods with Focus on Few-Shot Learning Approaches**|Sakher Alqaaidi et.al.|[2310.19055v1](http://arxiv.org/abs/2310.19055v1)|null|
+|**2023-10-27**|**Sample based Explanations via Generalized Representers**|Che-Ping Tsai et.al.|[2310.18526v1](http://arxiv.org/abs/2310.18526v1)|null|
+|**2023-10-27**|**Do Not Harm Protected Groups in Debiasing Language Representation Models**|Chloe Qinyu Zhu et.al.|[2310.18458v1](http://arxiv.org/abs/2310.18458v1)|null|
+|**2023-10-27**|**SDOH-NLI: a Dataset for Inferring Social Determinants of Health from Clinical Notes**|Adam D. Lelkes et.al.|[2310.18431v1](http://arxiv.org/abs/2310.18431v1)|null|
 |**2023-10-26**|**Sliceformer: Make Multi-head Attention as Simple as Sorting in Discriminative Tasks**|Shen Yuan et.al.|[2310.17683v1](http://arxiv.org/abs/2310.17683v1)|**[link](https://github.com/sds-lab/sliceformer)**|
 |**2023-10-25**|**On the Interplay between Fairness and Explainability**|Stephanie Brandl et.al.|[2310.16607v1](http://arxiv.org/abs/2310.16607v1)|null|
 |**2023-10-25**|**Score Matching-based Pseudolikelihood Estimation of Neural Marked Spatio-Temporal Point Process with Uncertainty Quantification**|Zichong Li et.al.|[2310.16310v1](http://arxiv.org/abs/2310.16310v1)|null|
@@ -2681,6 +2698,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**Atom: Low-bit Quantization for Efficient and Accurate LLM Serving**|Yilong Zhao et.al.|[2310.19102v1](http://arxiv.org/abs/2310.19102v1)|null|
+|**2023-10-29**|**Retrofitting Light-weight Language Models for Emotions using Supervised Contrastive Learning**|Sapan Shah et.al.|[2310.18930v1](http://arxiv.org/abs/2310.18930v1)|null|
+|**2023-10-28**|**ALERTA-Net: A Temporal Distance-Aware Recurrent Networks for Stock Movement and Volatility Prediction**|Shengkun Wang et.al.|[2310.18706v1](http://arxiv.org/abs/2310.18706v1)|**[link](https://github.com/hao1zhao/alerta-net)**|
 |**2023-10-27**|**Large language models for aspect-based sentiment analysis**|Paul F. Simmering et.al.|[2310.18025v1](http://arxiv.org/abs/2310.18025v1)|**[link](https://github.com/qagentur/absa_llm)**|
 |**2023-10-27**|**SentMix-3L: A Bangla-English-Hindi Code-Mixed Dataset for Sentiment Analysis**|Md Nishat Raihan et.al.|[2310.18023v1](http://arxiv.org/abs/2310.18023v1)|null|
 |**2023-10-27**|**SOUL: Towards Sentiment and Opinion Understanding of Language**|Yue Deng et.al.|[2310.17924v1](http://arxiv.org/abs/2310.17924v1)|**[link](https://github.com/damo-nlp-sg/soul)**|
@@ -3108,7 +3128,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-27**|**Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-Image Generation**|Jaemin Cho et.al.|[2310.18235v1](http://arxiv.org/abs/2310.18235v1)|null|
+|**2023-10-30**|**EHRTutor: Enhancing Patient Understanding of Discharge Instructions**|Zihao Zhang et.al.|[2310.19212v1](http://arxiv.org/abs/2310.19212v1)|null|
+|**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145v1](http://arxiv.org/abs/2310.19145v1)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
+|**2023-10-29**|**Dynamic Task and Weight Prioritization Curriculum Learning for Multimodal Imagery**|Huseyin Fuat Alsan et.al.|[2310.19109v1](http://arxiv.org/abs/2310.19109v1)|**[link](https://github.com/fualsan/datwep)**|
+|**2023-10-29**|**Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V**|Zhiling Yan et.al.|[2310.19061v1](http://arxiv.org/abs/2310.19061v1)|**[link](https://github.com/zhilingyan/gpt4v-medical-report)**|
+|**2023-10-29**|**A Survey on Recent Named Entity Recognition and Relation Classification Methods with Focus on Few-Shot Learning Approaches**|Sakher Alqaaidi et.al.|[2310.19055v1](http://arxiv.org/abs/2310.19055v1)|null|
+|**2023-10-29**|**DCQA: Document-Level Chart Question Answering towards Complex Reasoning and Common-Sense Understanding**|Anran Wu et.al.|[2310.18983v1](http://arxiv.org/abs/2310.18983v1)|null|
+|**2023-10-29**|**Prompt-Engineering and Transformer-based Question Generation and Evaluation**|Rubaba Amyeen et.al.|[2310.18867v1](http://arxiv.org/abs/2310.18867v1)|null|
+|**2023-10-28**|**EHRXQA: A Multi-Modal Question Answering Dataset for Electronic Health Records with Chest X-ray Images**|Seongsu Bae et.al.|[2310.18652v1](http://arxiv.org/abs/2310.18652v1)|**[link](https://github.com/baeseongsu/ehrxqa)**|
+|**2023-10-30**|**Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-to-Image Generation**|Jaemin Cho et.al.|[2310.18235v2](http://arxiv.org/abs/2310.18235v2)|null|
 |**2023-10-27**|**Detrimental Contexts in Open-Domain Question Answering**|Philhoon Oh et.al.|[2310.18077v1](http://arxiv.org/abs/2310.18077v1)|**[link](https://github.com/xfactlab/emnlp2023-damaging-retrieval)**|
 |**2023-10-27**|**Knowledge Corpus Error in Question Answering**|Yejoon Lee et.al.|[2310.18076v1](http://arxiv.org/abs/2310.18076v1)|**[link](https://github.com/xfactlab/emnlp2023-knowledge-corpus-error)**|
 |**2023-10-27**|**ViCLEVR: A Visual Reasoning Dataset and Hybrid Multimodal Fusion Model for Visual Question Answering in Vietnamese**|Khiem Vinh Tran et.al.|[2310.18046v1](http://arxiv.org/abs/2310.18046v1)|**[link](https://github.com/kvt0012/viclevr)**|
@@ -4160,7 +4188,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-26**|**Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks**|Zhaohui Yan et.al.|[2310.17238v1](http://arxiv.org/abs/2310.17238v1)|**[link](https://github.com/yanzhh/hgere)**|
-|**2023-10-25**|**Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation**|Yongxin Shi et.al.|[2310.16809v1](http://arxiv.org/abs/2310.16809v1)|**[link](https://github.com/scut-dlvclab/gpt-4v_ocr)**|
+|**2023-10-29**|**Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation**|Yongxin Shi et.al.|[2310.16809v2](http://arxiv.org/abs/2310.16809v2)|**[link](https://github.com/scut-dlvclab/gpt-4v_ocr)**|
 |**2023-10-25**|**Disentangling Extraction and Reasoning in Multi-hop Spatial Reasoning**|Roshanak Mirzaee et.al.|[2310.16731v1](http://arxiv.org/abs/2310.16731v1)|null|
 |**2023-10-25**|**Rebuild City Buildings from Off-Nadir Aerial Images with Offset-Building Model (OBM)**|Kai Li et.al.|[2310.16717v1](http://arxiv.org/abs/2310.16717v1)|null|
 |**2023-10-25**|**Enhancing Document Information Analysis with Multi-Task Pre-training: A Robust Approach for Information Extraction in Visually-Rich Documents**|Tofik Ali et.al.|[2310.16527v1](http://arxiv.org/abs/2310.16527v1)|null|
@@ -4633,6 +4661,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**RAIFLE: Reconstruction Attacks on Interaction-based Federated Learning with Active Data Manipulation**|Dzung Pham et.al.|[2310.19163v1](http://arxiv.org/abs/2310.19163v1)|**[link](https://github.com/dzungvpham/raifle)**|
+|**2023-10-29**|**A Multimodal Ecological Civilization Pattern Recommendation Method Based on Large Language Models and Knowledge Graph**|Zhihang Yu et.al.|[2310.18951v1](http://arxiv.org/abs/2310.18951v1)|null|
+|**2023-10-28**|**Empowering Collaborative Filtering with Principled Adversarial Contrastive Loss**|An Zhang et.al.|[2310.18700v1](http://arxiv.org/abs/2310.18700v1)|**[link](https://github.com/lehengthu/advinfonce)**|
+|**2023-10-28**|**Embedding in Recommender Systems: A Survey**|Xiangyu Zhao et.al.|[2310.18608v1](http://arxiv.org/abs/2310.18608v1)|null|
+|**2023-10-28**|**Improved Regret Bounds of (Multinomial) Logistic Bandits via Regret-to-Confidence-Set Conversion**|Junghyun Lee et.al.|[2310.18554v1](http://arxiv.org/abs/2310.18554v1)|null|
 |**2023-10-27**|**Towards a Unified Conversational Recommendation System: Multi-task Learning via Contextualized Knowledge Distillation**|Yeongseo Jung et.al.|[2310.18119v1](http://arxiv.org/abs/2310.18119v1)|null|
 |**2023-10-27**|**BitUP: Efficient Bitmap Data Storage Solution For User Profile**|Derong Tang et.al.|[2310.17990v1](http://arxiv.org/abs/2310.17990v1)|null|
 |**2023-10-27**|**Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**|Wei Fan et.al.|[2310.17922v1](http://arxiv.org/abs/2310.17922v1)|**[link](https://github.com/alexfanw/cochpl)**|
@@ -5569,6 +5602,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**A Survey on Recent Named Entity Recognition and Relation Classification Methods with Focus on Few-Shot Learning Approaches**|Sakher Alqaaidi et.al.|[2310.19055v1](http://arxiv.org/abs/2310.19055v1)|null|
+|**2023-10-29**|**A Multimodal Ecological Civilization Pattern Recommendation Method Based on Large Language Models and Knowledge Graph**|Zhihang Yu et.al.|[2310.18951v1](http://arxiv.org/abs/2310.18951v1)|null|
 |**2023-10-27**|**Translating Universal Scene Descriptions into Knowledge Graphs for Robotic Environment**|Giang Hoang Nguyen et.al.|[2310.16737v2](http://arxiv.org/abs/2310.16737v2)|null|
 |**2023-10-25**|**Streamlining Knowledge Graph Construction with a façade: The SPARQL Anything project**|Luigi Asprino et.al.|[2310.16700v1](http://arxiv.org/abs/2310.16700v1)|null|
 |**2023-10-25**|**Faithful Path Language Modelling for Explainable Recommendation over Knowledge Graph**|Giacomo Balloccu et.al.|[2310.16452v1](http://arxiv.org/abs/2310.16452v1)|null|
@@ -6317,9 +6352,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**MAG-GNN: Reinforcement Learning Boosted Graph Neural Network**|Lecheng Kong et.al.|[2310.19142v1](http://arxiv.org/abs/2310.19142v1)|null|
+|**2023-10-29**|**The Weisfeiler-Leman Dimension of Existential Conjunctive Queries**|Andreas Göbel et.al.|[2310.19006v1](http://arxiv.org/abs/2310.19006v1)|null|
+|**2023-10-29**|**Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**|Nurendra Choudhary et.al.|[2310.18918v1](http://arxiv.org/abs/2310.18918v1)|null|
+|**2023-10-29**|**Topological, or Non-topological? A Deep Learning Based Prediction**|Ashiqur Rasul et.al.|[2310.18907v1](http://arxiv.org/abs/2310.18907v1)|null|
+|**2023-10-28**|**Rethinking Semi-Supervised Imbalanced Node Classification from Bias-Variance Decomposition**|Divin Yan et.al.|[2310.18765v1](http://arxiv.org/abs/2310.18765v1)|**[link](https://github.com/yanliang3612/revar)**|
+|**2023-10-28**|**Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First**|Zheng Zhang et.al.|[2310.18735v1](http://arxiv.org/abs/2310.18735v1)|**[link](https://github.com/rollingstonezz/curriculum_learning_for_gnns)**|
+|**2023-10-28**|**Maximum Independent Set: Self-Training through Dynamic Programming**|Lorenzo Brusca et.al.|[2310.18672v1](http://arxiv.org/abs/2310.18672v1)|null|
 |**2023-10-27**|**One Model Fits All: Cross-Region Taxi-Demand Forecasting**|Ren Ozeki et.al.|[2310.18215v1](http://arxiv.org/abs/2310.18215v1)|null|
 |**2023-10-27**|**Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs**|Yijian Qin et.al.|[2310.18152v1](http://arxiv.org/abs/2310.18152v1)|null|
-|**2023-10-26**|**Graph Neural Networkrs for Enhanced Decoding of Quantum LDPC Codes**|Anqi Gong et.al.|[2310.17758v1](http://arxiv.org/abs/2310.17758v1)|null|
+|**2023-10-26**|**Graph Neural Networkrs for Enhanced Decoding of Quantum LDPC Codes**|Anqi Gong et.al.|[2310.17758v1](http://arxiv.org/abs/2310.17758v1)|**[link](https://github.com/gongaa/feedback-gnn)**|
 |**2023-10-26**|**GNN-GMVO: Graph Neural Networks for Optimizing Gross Merchandise Value in Similar Item Recommendation**|Ramin Giahi et.al.|[2310.17732v1](http://arxiv.org/abs/2310.17732v1)|null|
 |**2023-10-26**|**Improving Traffic Density Forecasting in Intelligent Transportation Systems Using Gated Graph Neural Networks**|Razib Hayat Khan et.al.|[2310.17729v1](http://arxiv.org/abs/2310.17729v1)|null|
 |**2023-10-26**|**Do Graph Neural Networks Dream of Landau Damping? Insights from Kinetic Simulations of a Plasma Sheet Model**|Diogo D Carvalho et.al.|[2310.17646v1](http://arxiv.org/abs/2310.17646v1)|null|
