@@ -25,6 +25,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Crosslingual Retrieval Augmented In-context Learning for Bangla**|Xiaoqian Li et.al.|[2311.00587v1](http://arxiv.org/abs/2311.00587v1)|null|
+|**2023-11-01**|**On the Opportunities of Green Computing: A Survey**|You Zhou et.al.|[2311.00447v1](http://arxiv.org/abs/2311.00447v1)|null|
+|**2023-11-01**|**From Image to Language: A Critical Analysis of Visual Question Answering (VQA) Approaches, Challenges, and Opportunities**|Md Farhan Ishmam et.al.|[2311.00308v1](http://arxiv.org/abs/2311.00308v1)|null|
+|**2023-11-01**|**Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models**|Ran Xu et.al.|[2311.00287v1](http://arxiv.org/abs/2311.00287v1)|null|
+|**2023-11-01**|**Transformers as Recognizers of Formal Languages: A Survey on Expressivity**|Lena Strobl et.al.|[2311.00208v1](http://arxiv.org/abs/2311.00208v1)|null|
 |**2023-10-31**|**Defining a New NLP Playground**|Sha Li et.al.|[2310.20633v1](http://arxiv.org/abs/2310.20633v1)|null|
 |**2023-10-31**|**ACL Anthology Helper: A Tool to Retrieve and Manage Literature from ACL Anthology**|Chen Tang et.al.|[2310.20467v1](http://arxiv.org/abs/2310.20467v1)|null|
 |**2023-10-31**|**The SourceData-NLP dataset: integrating curation into scientific publishing for training large language models**|Jorge Abreu-Vicente et.al.|[2310.20440v1](http://arxiv.org/abs/2310.20440v1)|null|
@@ -2083,6 +2088,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**A Bi-level Framework for Traffic Accident Duration Prediction: Leveraging Weather and Road Condition Data within a Practical Optimum Pipeline**|Rafat Tabassum Sukonna et.al.|[2311.00634v1](http://arxiv.org/abs/2311.00634v1)|null|
+|**2023-11-01**|**Discourse Relations Classification and Cross-Framework Discourse Relation Classification Through the Lens of Cognitive Dimensions: An Empirical Investigation**|Yingxue Fu et.al.|[2311.00451v1](http://arxiv.org/abs/2311.00451v1)|null|
+|**2023-10-31**|**XAI-CLASS: Explanation-Enhanced Text Classification with Extremely Weak Supervision**|Daniel Hajialigol et.al.|[2311.00189v1](http://arxiv.org/abs/2311.00189v1)|null|
 |**2023-10-31**|**Breaking the Token Barrier: Chunking and Convolution for Efficient Long Text Classification with BERT**|Aman Jaiswal et.al.|[2310.20558v1](http://arxiv.org/abs/2310.20558v1)|null|
 |**2023-10-31**|**Dynamically Updating Event Representations for Temporal Relation Classification with Multi-category Learning**|Fei Cheng et.al.|[2310.20236v1](http://arxiv.org/abs/2310.20236v1)|null|
 |**2023-10-31**|**Keyword-optimized Template Insertion for Clinical Information Extraction via Prompt-based Learning**|Eugenia Alleva et.al.|[2310.20089v1](http://arxiv.org/abs/2310.20089v1)|null|
@@ -2722,6 +2730,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Is GPT Powerful Enough to Analyze the Emotions of Memes?**|Jingjing Wang et.al.|[2311.00223v1](http://arxiv.org/abs/2311.00223v1)|null|
+|**2023-10-31**|**Longer Fixations, More Computation: Gaze-Guided Recurrent Neural Networks**|Xinting Huang et.al.|[2311.00159v1](http://arxiv.org/abs/2311.00159v1)|null|
 |**2023-10-31**|**Non-Compositionality in Sentiment: New Data and Analyses**|Verna Dankers et.al.|[2310.20656v1](http://arxiv.org/abs/2310.20656v1)|**[link](https://github.com/vernadankers/noncompsst)**|
 |**2023-10-31**|**Learning to Play Chess from Textbooks (LEAP): a Corpus for Evaluating Chess Moves based on Sentiment Analysis**|Haifa Alrdahi et.al.|[2310.20260v1](http://arxiv.org/abs/2310.20260v1)|**[link](https://github.com/resrepos/leap)**|
 |**2023-10-30**|**Sentiment Analysis in Digital Spaces: An Overview of Reviews**|Laura E. M. Ayravainen et.al.|[2310.19687v1](http://arxiv.org/abs/2310.19687v1)|null|
@@ -3155,6 +3165,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Attention Alignment and Flexible Positional Embeddings Improve Transformer Length Extrapolation**|Ta-Chung Chi et.al.|[2311.00684v1](http://arxiv.org/abs/2311.00684v1)|null|
+|**2023-11-01**|**Are Large Language Models Reliable Judges? A Study on the Factuality Evaluation Capabilities of LLMs**|Xue-Yong Fu et.al.|[2311.00681v1](http://arxiv.org/abs/2311.00681v1)|null|
+|**2023-11-01**|**Understanding the Issues and Causes in WebAssembly Application Development: A Mining-based Study**|Muhammad Waseem et.al.|[2311.00646v1](http://arxiv.org/abs/2311.00646v1)|null|
+|**2023-11-01**|**From Image to Language: A Critical Analysis of Visual Question Answering (VQA) Approaches, Challenges, and Opportunities**|Md Farhan Ishmam et.al.|[2311.00308v1](http://arxiv.org/abs/2311.00308v1)|null|
+|**2023-11-01**|**Continuous Training and Fine-tuning for Domain-Specific Language Models in Medical Question Answering**|Zhen Guo et.al.|[2311.00204v1](http://arxiv.org/abs/2311.00204v1)|null|
+|**2023-10-31**|**XAI-CLASS: Explanation-Enhanced Text Classification with Extremely Weak Supervision**|Daniel Hajialigol et.al.|[2311.00189v1](http://arxiv.org/abs/2311.00189v1)|null|
 |**2023-10-31**|**A Comprehensive Study of GPT-4V's Multimodal Capabilities in Medical Imaging**|Yingshu Li et.al.|[2310.20381v1](http://arxiv.org/abs/2310.20381v1)|null|
 |**2023-10-31**|**DIVKNOWQA: Assessing the Reasoning Ability of LLMs via Open-Domain Question Answering over Knowledge Base and Text**|Wenting Zhao et.al.|[2310.20170v1](http://arxiv.org/abs/2310.20170v1)|null|
 |**2023-10-31**|**Language Guided Visual Question Answering: Elevate Your Multimodal Language Model Using Knowledge-Enriched Prompts**|Deepanway Ghosal et.al.|[2310.20159v1](http://arxiv.org/abs/2310.20159v1)|**[link](https://github.com/declare-lab/lg-vqa)**|
@@ -4224,6 +4240,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Life and Death of a Thin Liquid Film**|Muhammad Rizwanur Rahman et.al.|[2311.00419v1](http://arxiv.org/abs/2311.00419v1)|null|
+|**2023-10-31**|**Image Restoration with Point Spread Function Regularization and Active Learning**|Peng Jia et.al.|[2311.00186v1](http://arxiv.org/abs/2311.00186v1)|null|
 |**2023-10-31**|**Extracting Entities of Interest from Comparative Product Reviews**|Jatin Arora et.al.|[2310.20274v1](http://arxiv.org/abs/2310.20274v1)|**[link](https://github.com/jatinarora2702/Review-Information-Extraction)**|
 |**2023-10-31**|**Keyword-optimized Template Insertion for Clinical Information Extraction via Prompt-based Learning**|Eugenia Alleva et.al.|[2310.20089v1](http://arxiv.org/abs/2310.20089v1)|null|
 |**2023-10-30**|**BioInstruct: Instruction Tuning of Large Language Models for Biomedical Natural Language Processing**|Hieu Tran et.al.|[2310.19975v1](http://arxiv.org/abs/2310.19975v1)|null|
@@ -4704,7 +4722,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-31**|**Estimating Propensity for Causality-based Recommendation without Exposure Data**|Zhongzhou Liu et.al.|[2310.20388v1](http://arxiv.org/abs/2310.20388v1)|null|
+|**2023-11-01**|**GATSY: Graph Attention Network for Music Artist Similarity**|Andrea Giuseppe Di Francesco et.al.|[2311.00635v1](http://arxiv.org/abs/2311.00635v1)|null|
+|**2023-11-01**|**A Collaborative Filtering-Based Two Stage Model with Item Dependency for Course Recommendation**|Eric L. Lee et.al.|[2311.00612v1](http://arxiv.org/abs/2311.00612v1)|null|
+|**2023-11-01**|**LLMRec: Large Language Models with Graph Augmentation for Recommendation**|Wei Wei et.al.|[2311.00423v1](http://arxiv.org/abs/2311.00423v1)|**[link](https://github.com/hkuds/llmrec)**|
+|**2023-11-01**|**Towards Automatic Sampling of User Behaviors for Sequential Recommender Systems**|Hao Zhang et.al.|[2311.00388v1](http://arxiv.org/abs/2311.00388v1)|null|
+|**2023-11-01**|**DistDNAS: Search Efficient Feature Interactions within 2 Hours**|Tunhou Zhang et.al.|[2311.00231v1](http://arxiv.org/abs/2311.00231v1)|null|
+|**2023-11-01**|**Estimating Propensity for Causality-based Recommendation without Exposure Data**|Zhongzhou Liu et.al.|[2310.20388v2](http://arxiv.org/abs/2310.20388v2)|null|
 |**2023-10-31**|**Large Multi-modal Encoders for Recommendation**|Zixuan Yi et.al.|[2310.20343v1](http://arxiv.org/abs/2310.20343v1)|null|
 |**2023-10-31**|**FedRec+: Enhancing Privacy and Addressing Heterogeneity in Federated Recommendation Systems**|Lin Wang et.al.|[2310.20193v1](http://arxiv.org/abs/2310.20193v1)|null|
 |**2023-10-31**|**LFG: A Generative Network for Real-Time Recommendation**|Junyi Liu et.al.|[2310.20189v1](http://arxiv.org/abs/2310.20189v1)|null|
@@ -5655,6 +5678,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements**|Peter A. Zachares et.al.|[2311.00444v1](http://arxiv.org/abs/2311.00444v1)|null|
+|**2023-11-01**|**Entity Alignment Method of Science and Technology Patent based on Graph Convolution Network and Information Fusion**|Runze Fang et.al.|[2311.00300v1](http://arxiv.org/abs/2311.00300v1)|null|
+|**2023-11-01**|**Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models**|Ran Xu et.al.|[2311.00287v1](http://arxiv.org/abs/2311.00287v1)|null|
+|**2023-10-31**|**EXTRACT: Explainable Transparent Control of Bias in Embeddings**|Zhijin Guo et.al.|[2311.00115v1](http://arxiv.org/abs/2311.00115v1)|null|
 |**2023-10-31**|**Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding**|Yuqi Wang et.al.|[2310.20588v1](http://arxiv.org/abs/2310.20588v1)|null|
 |**2023-10-31**|**Linked Papers With Code: The Latest in Machine Learning as an RDF Knowledge Graph**|Michael Färber et.al.|[2310.20475v1](http://arxiv.org/abs/2310.20475v1)|**[link](https://github.com/davidlamprecht/linkedpaperswithcode)**|
 |**2023-10-31**|**Ontologies for Models and Algorithms in Applied Mathematics and Related Disciplines**|Björn Schembera et.al.|[2310.20443v1](http://arxiv.org/abs/2310.20443v1)|null|
@@ -6412,6 +6439,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Kronecker-Factored Approximate Curvature for Modern Neural Network Architectures**|Runa Eschenhagen et.al.|[2311.00636v1](http://arxiv.org/abs/2311.00636v1)|null|
+|**2023-11-01**|**Robust Graph Clustering via Meta Weighting for Noisy Graphs**|Hyeonsoo Jo et.al.|[2311.00322v1](http://arxiv.org/abs/2311.00322v1)|**[link](https://github.com/hyeonsoojo/metagc)**|
+|**2023-11-01**|**Entity Alignment Method of Science and Technology Patent based on Graph Convolution Network and Information Fusion**|Runze Fang et.al.|[2311.00300v1](http://arxiv.org/abs/2311.00300v1)|null|
+|**2023-11-01**|**Semantic Representation Learning of Scientific Literature based on Adaptive Feature and Graph Neural Network**|Hongrui Gao et.al.|[2311.00296v1](http://arxiv.org/abs/2311.00296v1)|null|
+|**2023-11-01**|**Active Neural Topological Mapping for Multi-Agent Exploration**|Xinyi Yang et.al.|[2311.00252v1](http://arxiv.org/abs/2311.00252v1)|null|
+|**2023-10-31**|**Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis**|Abhinav Nippani et.al.|[2311.00164v1](http://arxiv.org/abs/2311.00164v1)|**[link](https://github.com/virtuosoresearch/ml4roadsafety)**|
 |**2023-10-31**|**Stochastic Gradient Descent for Gaussian Processes Done Right**|Jihao Andreas Lin et.al.|[2310.20581v1](http://arxiv.org/abs/2310.20581v1)|null|
 |**2023-10-31**|**Privacy-preserving design of graph neural networks with applications to vertical federated learning**|Ruofan Wu et.al.|[2310.20552v1](http://arxiv.org/abs/2310.20552v1)|null|
 |**2023-10-31**|**Enhancing Graph Neural Networks with Quantum Computed Encodings**|Slimane Thabet et.al.|[2310.20519v1](http://arxiv.org/abs/2310.20519v1)|null|
