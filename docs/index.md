@@ -25,6 +25,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**A Comprehensive Study of Governance Issues in Decentralized Finance Applications**|Wei Ma et.al.|[2311.01433v1](http://arxiv.org/abs/2311.01433v1)|null|
+|**2023-11-02**|**Efficient Vision Transformer for Accurate Traffic Sign Detection**|Javad Mirzapour Kaleybar et.al.|[2311.01429v1](http://arxiv.org/abs/2311.01429v1)|null|
+|**2023-11-02**|**Finding Common Ground: Annotating and Predicting Common Ground in Spoken Conversations**|Magdalena Markowska et.al.|[2311.01273v1](http://arxiv.org/abs/2311.01273v1)|**[link](https://github.com/cogstates/2023-emnlp-common-ground)**|
+|**2023-11-02**|**Generating QM1B with PySCF $_{\text{IPU}}$**|Alexander Mathiasen et.al.|[2311.01135v1](http://arxiv.org/abs/2311.01135v1)|**[link](https://github.com/graphcore-research/pyscf-ipu)**|
+|**2023-11-02**|**Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance**|Song Wang et.al.|[2311.01108v1](http://arxiv.org/abs/2311.01108v1)|null|
+|**2023-11-02**|**On the Concerns of Developers When Using GitHub Copilot**|Xiyu Zhou et.al.|[2311.01020v1](http://arxiv.org/abs/2311.01020v1)|null|
 |**2023-11-01**|**Crosslingual Retrieval Augmented In-context Learning for Bangla**|Xiaoqian Li et.al.|[2311.00587v1](http://arxiv.org/abs/2311.00587v1)|null|
 |**2023-11-01**|**On the Opportunities of Green Computing: A Survey**|You Zhou et.al.|[2311.00447v1](http://arxiv.org/abs/2311.00447v1)|null|
 |**2023-11-01**|**From Image to Language: A Critical Analysis of Visual Question Answering (VQA) Approaches, Challenges, and Opportunities**|Md Farhan Ishmam et.al.|[2311.00308v1](http://arxiv.org/abs/2311.00308v1)|null|
@@ -1711,6 +1717,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Re-weighting Tokens: A Simple and Effective Active Learning Strategy for Named Entity Recognition**|Haocheng Luo et.al.|[2311.00906v1](http://arxiv.org/abs/2311.00906v1)|null|
 |**2023-10-31**|**The SourceData-NLP dataset: integrating curation into scientific publishing for training large language models**|Jorge Abreu-Vicente et.al.|[2310.20440v1](http://arxiv.org/abs/2310.20440v1)|null|
 |**2023-10-30**|**Split-NER: Named Entity Recognition via Two Question-Answering-based Classifications**|Jatin Arora et.al.|[2310.19942v1](http://arxiv.org/abs/2310.19942v1)|null|
 |**2023-10-30**|**Generating Medical Instructions with Conditional Transformer**|Samuel Belkadi et.al.|[2310.19727v1](http://arxiv.org/abs/2310.19727v1)|null|
@@ -2088,6 +2095,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**An energy-based comparative analysis of common approaches to text classification in the Legal domain**|Sinan Gultekin et.al.|[2311.01256v1](http://arxiv.org/abs/2311.01256v1)|null|
+|**2023-11-02**|**Non-Autoregressive Diffusion-based Temporal Point Processes for Continuous-Time Long-Term Event Prediction**|Wang-Tao Zhou et.al.|[2311.01033v1](http://arxiv.org/abs/2311.01033v1)|null|
 |**2023-11-01**|**A Bi-level Framework for Traffic Accident Duration Prediction: Leveraging Weather and Road Condition Data within a Practical Optimum Pipeline**|Rafat Tabassum Sukonna et.al.|[2311.00634v1](http://arxiv.org/abs/2311.00634v1)|null|
 |**2023-11-01**|**Discourse Relations Classification and Cross-Framework Discourse Relation Classification Through the Lens of Cognitive Dimensions: An Empirical Investigation**|Yingxue Fu et.al.|[2311.00451v1](http://arxiv.org/abs/2311.00451v1)|null|
 |**2023-10-31**|**XAI-CLASS: Explanation-Enhanced Text Classification with Extremely Weak Supervision**|Daniel Hajialigol et.al.|[2311.00189v1](http://arxiv.org/abs/2311.00189v1)|null|
@@ -3165,6 +3174,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Long Story Short: a Summarize-then-Search Method for Long Video Question Answering**|Jiwan Chung et.al.|[2311.01233v1](http://arxiv.org/abs/2311.01233v1)|null|
+|**2023-11-02**|**Predicting Question-Answering Performance of Large Language Models through Semantic Consistency**|Ella Rabinovich et.al.|[2311.01152v1](http://arxiv.org/abs/2311.01152v1)|null|
+|**2023-11-02**|**Learn to Refuse: Making Large Language Models More Controllable and Reliable through Knowledge Scope Limitation and Refusal Mechanism**|Lang Cao et.al.|[2311.01041v1](http://arxiv.org/abs/2311.01041v1)|null|
+|**2023-11-02**|**Effective Human-AI Teams via Learned Natural Language Rules and Onboarding**|Hussein Mozannar et.al.|[2311.01007v1](http://arxiv.org/abs/2311.01007v1)|**[link](https://github.com/clinicalml/onboarding_human_ai)**|
+|**2023-11-01**|**RoboVQA: Multimodal Long-Horizon Reasoning for Robotics**|Pierre Sermanet et.al.|[2311.00899v1](http://arxiv.org/abs/2311.00899v1)|null|
+|**2023-11-01**|**VQA-GEN: A Visual Question Answering Benchmark for Domain Generalization**|Suraj Jyothi Unni et.al.|[2311.00807v1](http://arxiv.org/abs/2311.00807v1)|null|
 |**2023-11-01**|**Attention Alignment and Flexible Positional Embeddings Improve Transformer Length Extrapolation**|Ta-Chung Chi et.al.|[2311.00684v1](http://arxiv.org/abs/2311.00684v1)|null|
 |**2023-11-01**|**Are Large Language Models Reliable Judges? A Study on the Factuality Evaluation Capabilities of LLMs**|Xue-Yong Fu et.al.|[2311.00681v1](http://arxiv.org/abs/2311.00681v1)|null|
 |**2023-11-01**|**Understanding the Issues and Causes in WebAssembly Application Development: A Mining-based Study**|Muhammad Waseem et.al.|[2311.00646v1](http://arxiv.org/abs/2311.00646v1)|null|
@@ -4240,6 +4255,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Recognize Any Regions**|Haosen Yang et.al.|[2311.01373v1](http://arxiv.org/abs/2311.01373v1)|null|
+|**2023-11-01**|**Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing**|Yanlin Feng et.al.|[2311.00835v1](http://arxiv.org/abs/2311.00835v1)|**[link](https://github.com/yanlinf/casent)**|
 |**2023-11-01**|**Life and Death of a Thin Liquid Film**|Muhammad Rizwanur Rahman et.al.|[2311.00419v1](http://arxiv.org/abs/2311.00419v1)|null|
 |**2023-10-31**|**Image Restoration with Point Spread Function Regularization and Active Learning**|Peng Jia et.al.|[2311.00186v1](http://arxiv.org/abs/2311.00186v1)|null|
 |**2023-10-31**|**Extracting Entities of Interest from Comparative Product Reviews**|Jatin Arora et.al.|[2310.20274v1](http://arxiv.org/abs/2310.20274v1)|**[link](https://github.com/jatinarora2702/Review-Information-Extraction)**|
@@ -4722,6 +4739,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Collaborative Large Language Model for Recommender Systems**|Yaochen Zhu et.al.|[2311.01343v1](http://arxiv.org/abs/2311.01343v1)|**[link](https://github.com/yaochenzhu/llm4rec)**|
+|**2023-11-02**|**Recommendations by Concise User Profiles from Review Text**|Ghazaleh Haratinezhad Torbati et.al.|[2311.01314v1](http://arxiv.org/abs/2311.01314v1)|null|
+|**2023-11-02**|**VM-Rec: A Variational Mapping Approach for Cold-start User Recommendation**|Linan Zheng et.al.|[2311.01304v1](http://arxiv.org/abs/2311.01304v1)|null|
+|**2023-11-02**|**Efficient Neural Ranking using Forward Indexes and Lightweight Encoders**|Jurek Leonhardt et.al.|[2311.01263v1](http://arxiv.org/abs/2311.01263v1)|null|
+|**2023-11-02**|**Collaboration and Transition: Distilling Item Transitions into Multi-Query Self-Attention for Sequential Recommendation**|Tianyu Zhu et.al.|[2311.01056v1](http://arxiv.org/abs/2311.01056v1)|**[link](https://github.com/zhuty16/mqsa-ted)**|
+|**2023-11-02**|**Evaluation Measures of Individual Item Fairness for Recommender Systems: A Critical Study**|Theresia Veronika Rampisela et.al.|[2311.01013v1](http://arxiv.org/abs/2311.01013v1)|**[link](https://github.com/theresiavr/individual-item-fairness-measures-recsys)**|
 |**2023-11-01**|**GATSY: Graph Attention Network for Music Artist Similarity**|Andrea Giuseppe Di Francesco et.al.|[2311.00635v1](http://arxiv.org/abs/2311.00635v1)|null|
 |**2023-11-01**|**A Collaborative Filtering-Based Two Stage Model with Item Dependency for Course Recommendation**|Eric L. Lee et.al.|[2311.00612v1](http://arxiv.org/abs/2311.00612v1)|null|
 |**2023-11-01**|**LLMRec: Large Language Models with Graph Augmentation for Recommendation**|Wei Wei et.al.|[2311.00423v1](http://arxiv.org/abs/2311.00423v1)|**[link](https://github.com/hkuds/llmrec)**|
@@ -5678,6 +5701,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Better Together: Enhancing Generative Knowledge Graph Completion with Language Models and Neighborhood Information**|Alla Chepurova et.al.|[2311.01326v1](http://arxiv.org/abs/2311.01326v1)|null|
+|**2023-11-02**|**Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference**|Qing Huang et.al.|[2311.01266v1](http://arxiv.org/abs/2311.01266v1)|null|
+|**2023-11-02**|**Distance-Based Propagation for Efficient Knowledge Graph Reasoning**|Harry Shomer et.al.|[2311.01024v1](http://arxiv.org/abs/2311.01024v1)|**[link](https://github.com/harryshomer/tagnet)**|
 |**2023-11-01**|**Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements**|Peter A. Zachares et.al.|[2311.00444v1](http://arxiv.org/abs/2311.00444v1)|null|
 |**2023-11-01**|**Entity Alignment Method of Science and Technology Patent based on Graph Convolution Network and Information Fusion**|Runze Fang et.al.|[2311.00300v1](http://arxiv.org/abs/2311.00300v1)|null|
 |**2023-11-01**|**Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models**|Ran Xu et.al.|[2311.00287v1](http://arxiv.org/abs/2311.00287v1)|null|
@@ -6439,6 +6465,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Long-Range Neural Atom Learning for Molecular Graphs**|Xuan Li et.al.|[2311.01276v1](http://arxiv.org/abs/2311.01276v1)|null|
+|**2023-11-02**|**Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Lehman Go Indifferent**|Lorenz Kummer et.al.|[2311.01205v1](http://arxiv.org/abs/2311.01205v1)|null|
+|**2023-11-02**|**Combating Bilateral Edge Noise for Robust Link Prediction**|Zhanke Zhou et.al.|[2311.01196v1](http://arxiv.org/abs/2311.01196v1)|**[link](https://github.com/tmlr-group/rgib)**|
+|**2023-11-02**|**Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks**|Jiarong Xu et.al.|[2311.01038v1](http://arxiv.org/abs/2311.01038v1)|**[link](https://github.com/galina0217/apt)**|
+|**2023-11-02**|**Accelerated Data-Driven Discovery and Screening of Two-Dimensional Magnets Using Graph Neural Networks**|Ahmed Elrashidy et.al.|[2311.00939v1](http://arxiv.org/abs/2311.00939v1)|null|
+|**2023-11-01**|**Rational design of oxide catalysts for OER with OC22**|Richard Tran et.al.|[2311.00784v1](http://arxiv.org/abs/2311.00784v1)|null|
 |**2023-11-01**|**Kronecker-Factored Approximate Curvature for Modern Neural Network Architectures**|Runa Eschenhagen et.al.|[2311.00636v1](http://arxiv.org/abs/2311.00636v1)|null|
 |**2023-11-01**|**Robust Graph Clustering via Meta Weighting for Noisy Graphs**|Hyeonsoo Jo et.al.|[2311.00322v1](http://arxiv.org/abs/2311.00322v1)|**[link](https://github.com/hyeonsoojo/metagc)**|
 |**2023-11-01**|**Entity Alignment Method of Science and Technology Patent based on Graph Convolution Network and Information Fusion**|Runze Fang et.al.|[2311.00300v1](http://arxiv.org/abs/2311.00300v1)|null|
