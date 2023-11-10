@@ -1,4 +1,4 @@
-## Updated on 2023.11.09
+## Updated on 2023.11.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -29,7 +29,7 @@
 |**2023-11-07**|**SpaDeLeF: A Dataset for Hierarchical Classification of Lexical Functions for Collocations in Spanish**|Yevhen Kostiuk et.al.|[2311.04189v1](http://arxiv.org/abs/2311.04189v1)|null|
 |**2023-11-07**|**Perturbed examples reveal invariances shared by language models**|Ruchit Rawal et.al.|[2311.04166v1](http://arxiv.org/abs/2311.04166v1)|null|
 |**2023-11-07**|**Unveiling Safety Vulnerabilities of Large Language Models**|George Kour et.al.|[2311.04124v1](http://arxiv.org/abs/2311.04124v1)|null|
-|**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098v1](http://arxiv.org/abs/2311.04098v1)|null|
+|**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098v1](http://arxiv.org/abs/2311.04098v1)|**[link](https://github.com/gofigure-lanl/figure-segmentation)**|
 |**2023-11-07**|**Personality Style Recognition via Machine Learning: Identifying Anaclitic and Introjective Personality Styles from Patients' Speech**|Semere Kiros Bitew et.al.|[2311.04088v1](http://arxiv.org/abs/2311.04088v1)|null|
 |**2023-11-07**|**Cup Curriculum: Curriculum Learning on Model Capacity**|Luca Scharr et.al.|[2311.03956v1](http://arxiv.org/abs/2311.03956v1)|**[link](https://github.com/luca-scharr/cupcurriculum)**|
 |**2023-11-07**|**Conversations in Galician: a Large Language Model for an Underrepresented Language**|Eliseo Bao et.al.|[2311.03812v1](http://arxiv.org/abs/2311.03812v1)|**[link](https://gitlab.irlab.org/irlab/cabuxa)**|
@@ -1554,7 +1554,7 @@
 |**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|**[link](https://github.com/shuhengl/acl2023_conllpp)**|
 |**2022-12-19**|**MANER: Mask Augmented Named Entity Recognition for Extreme Low-Resource Languages**|Shashank Sonkar et.al.|[2212.09723v1](http://arxiv.org/abs/2212.09723v1)|null|
 
-<p align=right>(<a href='#updated-on-20231109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20231110'>back to top</a>)</p>
 
 ## Legal NLP
 
@@ -1701,7 +1701,7 @@
 |**2014-11-03**|**Unsupervised Keyword Extraction from Polish Legal Texts**|Michał Jungiewicz et.al.|[1408.3731v2](http://arxiv.org/abs/1408.3731v2)|null|
 |**2011-03-16**|**Information and Entanglement Measures in Quantum Systems With Applications to Atomic Physics**|Daniel Manzano et.al.|[1103.3186v1](http://arxiv.org/abs/1103.3186v1)|null|
 
-<p align=right>(<a href='#updated-on-20231109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20231110'>back to top</a>)</p>
 
 ## Sequence Annotation
 
@@ -1741,7 +1741,7 @@
 |**2008-02-16**|**Radio-loudness of Active Galaxies and the Black Hole Evolution**|M. Sikora et.al.|[0802.2302v1](http://arxiv.org/abs/0802.2302v1)|null|
 |**2007-07-16**|**Radio Loudness of AGNs: Host Galaxy Morphology and the Spin Paradigm**|L. Stawarz et.al.|[0707.2369v1](http://arxiv.org/abs/0707.2369v1)|null|
 
-<p align=right>(<a href='#updated-on-20231109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20231110'>back to top</a>)</p>
 
 ## Named Entity Recognition
 
@@ -2123,7 +2123,7 @@
 |**2022-10-12**|**MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score**|Sunjae Kwon et.al.|[2210.05875v1](http://arxiv.org/abs/2210.05875v1)|**[link](https://github.com/mozzitastebitter/medjex)**|
 |**2022-10-11**|**SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition**|Zeng Yang et.al.|[2210.05632v1](http://arxiv.org/abs/2210.05632v1)|**[link](https://github.com/unveiled-the-red-hat/SEE-Few)**|
 
-<p align=right>(<a href='#updated-on-20231109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20231110'>back to top</a>)</p>
 
 ## Text Classification
 
@@ -2775,7 +2775,7 @@
 |**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/microsoft/scglab)**|
 |**2022-11-18**|**3d human motion generation from the text via gesture action classification and the autoregressive model**|Gwantae Kim et.al.|[2211.10003v1](http://arxiv.org/abs/2211.10003v1)|null|
 
-<p align=right>(<a href='#updated-on-20231109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20231110'>back to top</a>)</p>
 
 ## Sentiment Analysis
 
@@ -3220,7 +3220,7 @@
 |**2022-10-18**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-10-14**|**Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**|Sishuo Chen et.al.|[2210.07907v1](http://arxiv.org/abs/2210.07907v1)|**[link](https://github.com/lancopku/dan)**|
 
-<p align=right>(<a href='#updated-on-20231109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20231110'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -3230,7 +3230,7 @@
 |**2023-11-08**|**SEMQA: Semi-Extractive Multi-Source Question Answering**|Tal Schuster et.al.|[2311.04886v1](http://arxiv.org/abs/2311.04886v1)|**[link](https://github.com/google-research-datasets/quotesum)**|
 |**2023-11-08**|**Massive Editing for Large Language Models via Meta Learning**|Chenmien Tan et.al.|[2311.04661v1](http://arxiv.org/abs/2311.04661v1)|**[link](https://github.com/chenmientan/malmen)**|
 |**2023-11-07**|**JPAVE: A Generation and Classification-based Model for Joint Product Attribute Prediction and Value Extraction**|Zhongfen Deng et.al.|[2311.04196v1](http://arxiv.org/abs/2311.04196v1)|**[link](https://github.com/zhongfendeng/jpave)**|
-|**2023-11-07**|**Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning**|Ruosen Li et.al.|[2311.03734v1](http://arxiv.org/abs/2311.03734v1)|null|
+|**2023-11-07**|**Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning**|Ruosen Li et.al.|[2311.03734v1](http://arxiv.org/abs/2311.03734v1)|**[link](https://github.com/bcdnlp/structure-qa)**|
 |**2023-11-06**|**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**|Junyan Li et.al.|[2311.03354v1](http://arxiv.org/abs/2311.03354v1)|null|
 |**2023-11-06**|**Adapting Pre-trained Generative Models for Extractive Question Answering**|Prabir Mallick et.al.|[2311.02961v1](http://arxiv.org/abs/2311.02961v1)|null|
 |**2023-11-06**|**In-Context Learning for Knowledge Base Question Answering for Unmanned Systems based on Large Language Models**|Yunlong Chen et.al.|[2311.02956v1](http://arxiv.org/abs/2311.02956v1)|null|
@@ -4320,7 +4320,7 @@
 |**2022-12-02**|**Compound Tokens: Channel Fusion for Vision-Language Representation Learning**|Maxwell Mbabilla Aladago et.al.|[2212.01447v1](http://arxiv.org/abs/2212.01447v1)|null|
 |**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|**[link](https://github.com/mlvlab/qat)**|
 
-<p align=right>(<a href='#updated-on-20231109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20231110'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -4329,7 +4329,7 @@
 |**2023-11-08**|**Optimized measurements of chaotic dynamical systems via the information bottleneck**|Kieran A. Murphy et.al.|[2311.04896v1](http://arxiv.org/abs/2311.04896v1)|null|
 |**2023-11-07**|**Enhanced Information Extraction from Cylindrical Visual-Tactile Sensors via Image Fusion**|Zilan Li et.al.|[2311.04002v1](http://arxiv.org/abs/2311.04002v1)|null|
 |**2023-11-07**|**CeCNN: Copula-enhanced convolutional neural networks in joint prediction of refraction error and axial length based on ultra-widefield fundus images**|Chong Zhong et.al.|[2311.03967v1](http://arxiv.org/abs/2311.03967v1)|null|
-|**2023-11-07**|**Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning**|Ruosen Li et.al.|[2311.03734v1](http://arxiv.org/abs/2311.03734v1)|null|
+|**2023-11-07**|**Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning**|Ruosen Li et.al.|[2311.03734v1](http://arxiv.org/abs/2311.03734v1)|**[link](https://github.com/bcdnlp/structure-qa)**|
 |**2023-11-06**|**Retrieval-Augmented Code Generation for Universal Information Extraction**|Yucan Guo et.al.|[2311.02962v1](http://arxiv.org/abs/2311.02962v1)|null|
 |**2023-11-05**|**Relation Extraction Model Based on Semantic Enhancement Mechanism**|Peiyu Liu et.al.|[2311.02564v1](http://arxiv.org/abs/2311.02564v1)|null|
 |**2023-11-04**|**Contrastive Deep Nonnegative Matrix Factorization for Community Detection**|Yuecheng Li et.al.|[2311.02357v1](http://arxiv.org/abs/2311.02357v1)|**[link](https://github.com/6lyc/cdnmf)**|
@@ -4814,7 +4814,7 @@
 |**2022-10-17**|**Zero-Shot Ranking Socio-Political Texts with Transformer Language Models to Reduce Close Reading Time**|Kiymet Akdemir et.al.|[2210.09179v1](http://arxiv.org/abs/2210.09179v1)|null|
 |**2022-10-17**|**Modeling the Lighting in Scenes as Style for Auto White-Balance Correction**|Furkan Kınlı et.al.|[2210.09090v1](http://arxiv.org/abs/2210.09090v1)|**[link](https://github.com/birdortyedi/lighting-as-style-awb-correction)**|
 
-<p align=right>(<a href='#updated-on-20231109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20231110'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -4822,13 +4822,13 @@
 |---|---|---|---|---|
 |**2023-11-08**|**Towards Open-world Cross-Domain Sequential Recommendation: A Model-Agnostic Contrastive Denoising Approach**|Wujiang Xu et.al.|[2311.04760v1](http://arxiv.org/abs/2311.04760v1)|null|
 |**2023-11-08**|**Towards Deeper, Lighter and Interpretable Cross Network for CTR Prediction**|Fangye Wang et.al.|[2311.04635v1](http://arxiv.org/abs/2311.04635v1)|**[link](https://github.com/anonctr/GDCN)**|
-|**2023-11-08**|**FEIR: Quantifying and Reducing Envy and Inferiority for Fair Recommendation of Limited Resources**|Nan Li et.al.|[2311.04542v1](http://arxiv.org/abs/2311.04542v1)|null|
+|**2023-11-08**|**FEIR: Quantifying and Reducing Envy and Inferiority for Fair Recommendation of Limited Resources**|Nan Li et.al.|[2311.04542v1](http://arxiv.org/abs/2311.04542v1)|**[link](https://github.com/aida-ugent/feir)**|
 |**2023-11-08**|**Bandit Learning to Rank with Position-Based Click Models: Personalized and Equal Treatments**|Tianchen Zhou et.al.|[2311.04528v1](http://arxiv.org/abs/2311.04528v1)|null|
 |**2023-11-07**|**Efficient Semantic Matching with Hypercolumn Correlation**|Seungwook Kim et.al.|[2311.04336v1](http://arxiv.org/abs/2311.04336v1)|null|
 |**2023-11-07**|**IC-SECURE: Intelligent System for Assisting Security Experts in Generating Playbooks for Automated Incident Response**|Ryuta Kremer et.al.|[2311.03825v1](http://arxiv.org/abs/2311.03825v1)|null|
 |**2023-11-07**|**Large Language Model based Long-tail Query Rewriting in Taobao Search**|Wenjun Peng et.al.|[2311.03758v1](http://arxiv.org/abs/2311.03758v1)|null|
 |**2023-11-07**|**Dynamic Non-monotone Submodular Maximization**|Kiarash Banihashem et.al.|[2311.03685v1](http://arxiv.org/abs/2311.03685v1)|null|
-|**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488v1](http://arxiv.org/abs/2311.03488v1)|null|
+|**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488v1](http://arxiv.org/abs/2311.03488v1)|**[link](https://github.com/multi-resolution-diffusion-recommender/sdrm)**|
 |**2023-11-06**|**Improving Collaborative Filtering Recommendation via Graph Learning**|Yongyu Wang et.al.|[2311.03316v1](http://arxiv.org/abs/2311.03316v1)|null|
 |**2023-11-06**|**Architectural Sweet Spots for Modeling Human Label Variation by the Example of Argument Quality: It's Best to Relate Perspectives!**|Philipp Heinisch et.al.|[2311.03153v1](http://arxiv.org/abs/2311.03153v1)|**[link](https://github.com/phhei/relateperspectives-sweetspots)**|
 |**2023-11-06**|**APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation**|Mingjia Yin et.al.|[2311.02816v1](http://arxiv.org/abs/2311.02816v1)|**[link](https://github.com/graph-team/apgl4sr)**|
@@ -5795,7 +5795,7 @@
 |**2022-11-27**|**Dense Text Retrieval based on Pretrained Language Models: A Survey**|Wayne Xin Zhao et.al.|[2211.14876v1](http://arxiv.org/abs/2211.14876v1)|**[link](https://github.com/paddlepaddle/rocketqa)**|
 |**2022-11-27**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|**[link](https://github.com/chengang95/unkd)**|
 
-<p align=right>(<a href='#updated-on-20231109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20231110'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -6569,7 +6569,7 @@
 |**2022-11-18**|**Novelpy: A Python package to measure novelty and disruptiveness of bibliometric and patent data**|Pierre Pelletier et.al.|[2211.10346v1](http://arxiv.org/abs/2211.10346v1)|**[link](https://github.com/kwirtz/novelpy)**|
 |**2022-11-18**|**Contrastive Knowledge Graph Error Detection**|Qinggang Zhang et.al.|[2211.10030v1](http://arxiv.org/abs/2211.10030v1)|**[link](https://github.com/qing145/caged)**|
 
-<p align=right>(<a href='#updated-on-20231109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20231110'>back to top</a>)</p>
 
 ## GNN
 
@@ -7979,5 +7979,5 @@
 |**2022-12-14**|**On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
 |**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 
-<p align=right>(<a href='#updated-on-20231109'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20231110'>back to top</a>)</p>
 
