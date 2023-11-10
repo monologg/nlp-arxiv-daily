@@ -21,8 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions**|Lei Huang et.al.|[2311.05232v1](http://arxiv.org/abs/2311.05232v1)|null|
+|**2023-11-09**|**Enhancing Computation Efficiency in Large Language Models through Weight and Activation Quantization**|Jangwhan Lee et.al.|[2311.05161v1](http://arxiv.org/abs/2311.05161v1)|null|
+|**2023-11-09**|**Mental Health Diagnosis in the Digital Age: Harnessing Sentiment Analysis on Social Media Platforms upon Ultra-Sparse Feature Content**|Haijian Shao et.al.|[2311.05075v1](http://arxiv.org/abs/2311.05075v1)|null|
+|**2023-11-08**|**Towards Effective Paraphrasing for Information Disguise**|Anmol Agarwal et.al.|[2311.05018v1](http://arxiv.org/abs/2311.05018v1)|**[link](https://github.com/idecir/idecir-towards-effective-paraphrasing-for-information-disguise)**|
+|**2023-11-08**|**Interpreting Pretrained Language Models via Concept Bottlenecks**|Zhen Tan et.al.|[2311.05014v1](http://arxiv.org/abs/2311.05014v1)|null|
 |**2023-11-08**|**Evaluating Generative Ad Hoc Information Retrieval**|Lukas Gienapp et.al.|[2311.04694v1](http://arxiv.org/abs/2311.04694v1)|null|
-|**2023-11-08**|**Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction**|Sungmin Kang et.al.|[2311.04532v1](http://arxiv.org/abs/2311.04532v1)|null|
+|**2023-11-09**|**Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction**|Sungmin Kang et.al.|[2311.04532v2](http://arxiv.org/abs/2311.04532v2)|null|
 |**2023-11-08**|**Multi-label and Multi-target Sampling of Machine Annotation for Computational Stance Detection**|Zhengyuan Liu et.al.|[2311.04495v1](http://arxiv.org/abs/2311.04495v1)|null|
 |**2023-11-08**|**Twitter Sentiment Analysis of Covid Vacciness**|Wenbo Zhu et.al.|[2311.04479v1](http://arxiv.org/abs/2311.04479v1)|null|
 |**2023-11-07**|**Formal Aspects of Language Modeling**|Ryan Cotterell et.al.|[2311.04329v1](http://arxiv.org/abs/2311.04329v1)|null|
@@ -1747,6 +1752,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Weakly-supervised Deep Cognate Detection Framework for Low-Resourced Languages Using Morphological Knowledge of Closely-Related Languages**|Koustava Goswami et.al.|[2311.05155v1](http://arxiv.org/abs/2311.05155v1)|**[link](https://github.com/koustavagoswami/weakly_supervised-cognate_detection)**|
+|**2023-11-02**|**Low-Resource Named Entity Recognition: Can One-vs-All AUC Maximization Help?**|Ngoc Dang Nguyen et.al.|[2311.04918v1](http://arxiv.org/abs/2311.04918v1)|null|
 |**2023-11-08**|**1-step Speech Processing and Understanding Using CTC Loss**|Karan Singla et.al.|[2311.04753v1](http://arxiv.org/abs/2311.04753v1)|null|
 |**2023-11-07**|**Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning**|Sarkar Snigdha Sarathi Das et.al.|[2311.03748v1](http://arxiv.org/abs/2311.03748v1)|**[link](https://github.com/psunlpgroup/fish-dip)**|
 |**2023-11-06**|**Injecting Categorical Labels and Syntactic Information into Biomedical NER**|Sumam Francis et.al.|[2311.03113v1](http://arxiv.org/abs/2311.03113v1)|null|
@@ -2129,6 +2136,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Improving Vision-and-Language Reasoning via Spatial Relations Modeling**|Cheng Yang et.al.|[2311.05298v1](http://arxiv.org/abs/2311.05298v1)|null|
 |**2023-11-08**|**Pragmatic Reasoning Unlocks Quantifier Semantics for Foundation Models**|Yiyuan Li et.al.|[2311.04659v1](http://arxiv.org/abs/2311.04659v1)|null|
 |**2023-11-08**|**RankAug: Augmented data ranking for text classification**|Tiasa Singha Roy et.al.|[2311.04535v1](http://arxiv.org/abs/2311.04535v1)|null|
 |**2023-11-07**|**Implementation and Comparison of Methods to Extract Reliability KPIs out of Textual Wind Turbine Maintenance Work Orders**|Marc-Alexander Lutz et.al.|[2311.04064v1](http://arxiv.org/abs/2311.04064v1)|null|
@@ -2781,6 +2789,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Applying a new category association estimator to sentiment analysis on the Web**|Henrique S. Xavier et.al.|[2311.05330v1](http://arxiv.org/abs/2311.05330v1)|null|
+|**2023-11-09**|**Mental Health Diagnosis in the Digital Age: Harnessing Sentiment Analysis on Social Media Platforms upon Ultra-Sparse Feature Content**|Haijian Shao et.al.|[2311.05075v1](http://arxiv.org/abs/2311.05075v1)|null|
+|**2023-11-08**|**Deep Learning Brasil at ABSAPT 2022: Portuguese Transformer Ensemble Approaches**|Juliana Resplande Santanna Gomes et.al.|[2311.05051v1](http://arxiv.org/abs/2311.05051v1)|**[link](https://github.com/ju-resplande/dlb_absapt2022)**|
 |**2023-11-08**|**Twitter Sentiment Analysis of Covid Vacciness**|Wenbo Zhu et.al.|[2311.04479v1](http://arxiv.org/abs/2311.04479v1)|null|
 |**2023-11-08**|**RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-based Sentiment Analysis**|Xusheng Zhao et.al.|[2311.04467v1](http://arxiv.org/abs/2311.04467v1)|**[link](https://github.com/rdgcn/rdgcn)**|
 |**2023-11-07**|**Modelling Sentiment Analysis: LLMs and data augmentation techniques**|Guillem Senabre Prades et.al.|[2311.04139v1](http://arxiv.org/abs/2311.04139v1)|null|
@@ -3226,9 +3237,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**TencentLLMEval: A Hierarchical Evaluation of Real-World Capabilities for Human-Aligned LLMs**|Shuyi Xie et.al.|[2311.05374v1](http://arxiv.org/abs/2311.05374v1)|null|
+|**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043v1](http://arxiv.org/abs/2311.05043v1)|**[link](https://github.com/explainableml/zs-a2t)**|
+|**2023-11-08**|**Prompt Sketching for Large Language Models**|Luca Beurer-Kellner et.al.|[2311.04954v1](http://arxiv.org/abs/2311.04954v1)|null|
+|**2023-11-08**|**LooGLE: Can Long-Context Language Models Understand Long Contexts?**|Jiaqi Li et.al.|[2311.04939v1](http://arxiv.org/abs/2311.04939v1)|**[link](https://github.com/bigai-nlco/loogle)**|
+|**2023-11-07**|**Prompt Cache: Modular Attention Reuse for Low-Latency Inference**|In Gim et.al.|[2311.04934v1](http://arxiv.org/abs/2311.04934v1)|null|
 |**2023-11-08**|**GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs**|Zhenfang Chen et.al.|[2311.04901v1](http://arxiv.org/abs/2311.04901v1)|null|
 |**2023-11-08**|**SEMQA: Semi-Extractive Multi-Source Question Answering**|Tal Schuster et.al.|[2311.04886v1](http://arxiv.org/abs/2311.04886v1)|**[link](https://github.com/google-research-datasets/quotesum)**|
-|**2023-11-08**|**Massive Editing for Large Language Models via Meta Learning**|Chenmien Tan et.al.|[2311.04661v1](http://arxiv.org/abs/2311.04661v1)|**[link](https://github.com/chenmientan/malmen)**|
+|**2023-11-09**|**Massive Editing for Large Language Models via Meta Learning**|Chenmien Tan et.al.|[2311.04661v2](http://arxiv.org/abs/2311.04661v2)|**[link](https://github.com/chenmientan/malmen)**|
 |**2023-11-07**|**JPAVE: A Generation and Classification-based Model for Joint Product Attribute Prediction and Value Extraction**|Zhongfen Deng et.al.|[2311.04196v1](http://arxiv.org/abs/2311.04196v1)|**[link](https://github.com/zhongfendeng/jpave)**|
 |**2023-11-07**|**Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning**|Ruosen Li et.al.|[2311.03734v1](http://arxiv.org/abs/2311.03734v1)|**[link](https://github.com/bcdnlp/structure-qa)**|
 |**2023-11-06**|**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**|Junyan Li et.al.|[2311.03354v1](http://arxiv.org/abs/2311.03354v1)|null|
@@ -4326,6 +4342,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Mirror: A Universal Framework for Various Information Extraction Tasks**|Tong Zhu et.al.|[2311.05419v1](http://arxiv.org/abs/2311.05419v1)|**[link](https://github.com/Spico197/Mirror)**|
+|**2023-11-03**|**Investigating Deep-Learning NLP for Automating the Extraction of Oncology Efficacy Endpoints from Scientific Literature**|Aline Gendrin-Brokmann et.al.|[2311.04925v1](http://arxiv.org/abs/2311.04925v1)|null|
 |**2023-11-08**|**Optimized measurements of chaotic dynamical systems via the information bottleneck**|Kieran A. Murphy et.al.|[2311.04896v1](http://arxiv.org/abs/2311.04896v1)|null|
 |**2023-11-07**|**Enhanced Information Extraction from Cylindrical Visual-Tactile Sensors via Image Fusion**|Zilan Li et.al.|[2311.04002v1](http://arxiv.org/abs/2311.04002v1)|null|
 |**2023-11-07**|**CeCNN: Copula-enhanced convolutional neural networks in joint prediction of refraction error and axial length based on ultra-widefield fundus images**|Chong Zhong et.al.|[2311.03967v1](http://arxiv.org/abs/2311.03967v1)|null|
@@ -6575,6 +6593,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**SIRE: scale-invariant, rotation-equivariant estimation of artery orientations using graph neural networks**|Dieuwertje Alblas et.al.|[2311.05400v1](http://arxiv.org/abs/2311.05400v1)|null|
+|**2023-11-09**|**Atom: Neural Traffic Compression with Spatio-Temporal Graph Neural Networks**|Paul Almasan et.al.|[2311.05337v1](http://arxiv.org/abs/2311.05337v1)|null|
+|**2023-11-09**|**Mixture of Weak & Strong Experts on Graphs**|Hanqing Zeng et.al.|[2311.05185v1](http://arxiv.org/abs/2311.05185v1)|null|
+|**2023-11-09**|**Materials Properties Prediction (MAPP): Empowering the prediction of material properties solely based on chemical formulas**|Si-Da Xue et.al.|[2311.05133v1](http://arxiv.org/abs/2311.05133v1)|null|
 |**2023-11-08**|**Identifying Semantic Component for Robust Molecular Property Prediction**|Zijian Li et.al.|[2311.04837v1](http://arxiv.org/abs/2311.04837v1)|**[link](https://github.com/dmirlab-group/sci)**|
 |**2023-11-08**|**Learning Robust Multi-Scale Representation for Neural Radiance Fields from Unposed Images**|Nishant Jain et.al.|[2311.04521v1](http://arxiv.org/abs/2311.04521v1)|null|
 |**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507v1](http://arxiv.org/abs/2311.04507v1)|null|
