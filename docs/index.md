@@ -25,6 +25,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**A Material Lens on Coloniality in NLP**|William Held et.al.|[2311.08391v1](http://arxiv.org/abs/2311.08391v1)|null|
+|**2023-11-14**|**Towards Reasoning in Large Language Models via Multi-Agent Peer Review Collaboration**|Zhenran Xu et.al.|[2311.08152v1](http://arxiv.org/abs/2311.08152v1)|**[link](https://github.com/hitsz-tmg/multi-agent-peer-review)**|
+|**2023-11-14**|**How to get better embeddings with code pre-trained models? An empirical study**|Yu Zhao et.al.|[2311.08066v1](http://arxiv.org/abs/2311.08066v1)|null|
+|**2023-11-14**|**How Well Do Text Embedding Models Understand Syntax?**|Yan Zhang et.al.|[2311.07996v1](http://arxiv.org/abs/2311.07996v1)|**[link](https://github.com/fzp0424/sr)**|
+|**2023-11-14**|**How good are Large Language Models on African Languages?**|Jessica Ojo et.al.|[2311.07978v1](http://arxiv.org/abs/2311.07978v1)|null|
+|**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928v1](http://arxiv.org/abs/2311.07928v1)|null|
+|**2023-11-13**|**GreekT5: A Series of Greek Sequence-to-Sequence Models for News Summarization**|Nikolaos Giarelis et.al.|[2311.07767v1](http://arxiv.org/abs/2311.07767v1)|**[link](https://github.com/nc0der/greekt5)**|
 |**2023-11-13**|**MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks**|Sanchit Ahuja et.al.|[2311.07463v1](http://arxiv.org/abs/2311.07463v1)|null|
 |**2023-11-13**|**The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4**|Microsoft Research AI4Science et.al.|[2311.07361v1](http://arxiv.org/abs/2311.07361v1)|null|
 |**2023-11-13**|**calamanCy: A Tagalog Natural Language Processing Toolkit**|Lester James V. Miranda et.al.|[2311.07171v1](http://arxiv.org/abs/2311.07171v1)|**[link](https://github.com/ljvmiranda921/calamancy)**|
@@ -1772,6 +1779,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Distantly-Supervised Named Entity Recognition with Uncertainty-aware Teacher Learning and Student-student Collaborative Learning**|Helan Hu et.al.|[2311.08010v1](http://arxiv.org/abs/2311.08010v1)|null|
+|**2023-11-14**|**How good are Large Language Models on African Languages?**|Jessica Ojo et.al.|[2311.07978v1](http://arxiv.org/abs/2311.07978v1)|null|
+|**2023-11-14**|**Learning Mutually Informed Representations for Characters and Subwords**|Yilin Wang et.al.|[2311.07853v1](http://arxiv.org/abs/2311.07853v1)|null|
 |**2023-11-13**|**calamanCy: A Tagalog Natural Language Processing Toolkit**|Lester James V. Miranda et.al.|[2311.07171v1](http://arxiv.org/abs/2311.07171v1)|**[link](https://github.com/ljvmiranda921/calamancy)**|
 |**2023-11-13**|**Developing a Named Entity Recognition Dataset for Tagalog**|Lester James V. Miranda et.al.|[2311.07161v1](http://arxiv.org/abs/2311.07161v1)|null|
 |**2023-11-12**|**GIELLM: Japanese General Information Extraction Large Language Model Utilizing Mutual Reinforcement Effect**|Chengguang Gan et.al.|[2311.06838v1](http://arxiv.org/abs/2311.06838v1)|null|
@@ -2159,6 +2169,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing**|Yating Xu et.al.|[2311.08151v1](http://arxiv.org/abs/2311.08151v1)|null|
+|**2023-11-14**|**Learning Mutually Informed Representations for Characters and Subwords**|Yilin Wang et.al.|[2311.07853v1](http://arxiv.org/abs/2311.07853v1)|null|
+|**2023-11-13**|**Explainable History Distillation by Marked Temporal Point Process**|Sishun Liu et.al.|[2311.07797v1](http://arxiv.org/abs/2311.07797v1)|null|
+|**2023-11-13**|**Fuse to Forget: Bias Reduction and Selective Memorization through Model Fusion**|Kerem Zaman et.al.|[2311.07682v1](http://arxiv.org/abs/2311.07682v1)|**[link](https://github.com/keremzaman/fusetoforget)**|
 |**2023-11-13**|**Using Natural Language Explanations to Improve Robustness of In-context Learning for Natural Language Inference**|Xuanli He et.al.|[2311.07556v1](http://arxiv.org/abs/2311.07556v1)|null|
 |**2023-11-13**|**Semi-automatic Data Enhancement for Document-Level Relation Extraction with Distant Supervision from Large Language Models**|Junpeng Li et.al.|[2311.07314v1](http://arxiv.org/abs/2311.07314v1)|null|
 |**2023-11-13**|**Gen-Z: Generative Zero-Shot Text Classification with Contextualized Label Descriptions**|Sachin Kumar et.al.|[2311.07115v1](http://arxiv.org/abs/2311.07115v1)|null|
@@ -2821,6 +2835,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**A Comparative Analysis of the COVID-19 Infodemic in English and Chinese: Insights from Social Media Textual Data**|Jia Luo et.al.|[2311.08001v1](http://arxiv.org/abs/2311.08001v1)|null|
 |**2023-11-13**|**GPT-4V(ision) as A Social Media Analysis Engine**|Hanjia Lyu et.al.|[2311.07547v1](http://arxiv.org/abs/2311.07547v1)|**[link](https://github.com/vista-h/gpt-4v_social_media)**|
 |**2023-11-13**|**BIDRN: A Method of Bidirectional Recurrent Neural Network for Sentiment Analysis**|Dr. D Muthusankar et.al.|[2311.07296v1](http://arxiv.org/abs/2311.07296v1)|null|
 |**2023-11-12**|**GIELLM: Japanese General Information Extraction Large Language Model Utilizing Mutual Reinforcement Effect**|Chengguang Gan et.al.|[2311.06838v1](http://arxiv.org/abs/2311.06838v1)|null|
@@ -3275,6 +3290,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Learning to Filter Context for Retrieval-Augmented Generation**|Zhiruo Wang et.al.|[2311.08377v1](http://arxiv.org/abs/2311.08377v1)|**[link](https://github.com/zorazrw/filco)**|
+|**2023-11-14**|**How Well Do Large Language Models Understand Syntax? An Evaluation by Asking Natural Language Questions**|Houquan Zhou et.al.|[2311.08287v1](http://arxiv.org/abs/2311.08287v1)|**[link](https://github.com/Jacob-Zhou/SynEval)**|
+|**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147v1](http://arxiv.org/abs/2311.08147v1)|null|
+|**2023-11-14**|**Insights into Classifying and Mitigating LLMs' Hallucinations**|Alessandro Bruno et.al.|[2311.08117v1](http://arxiv.org/abs/2311.08117v1)|null|
+|**2023-11-14**|**Carpe Diem: On the Evaluation of World Knowledge in Lifelong Language Models**|Yujin Kim et.al.|[2311.08106v1](http://arxiv.org/abs/2311.08106v1)|null|
+|**2023-11-14**|**TempTabQA: Temporal Question Answering for Semi-Structured Tables**|Vivek Gupta et.al.|[2311.08002v1](http://arxiv.org/abs/2311.08002v1)|null|
+|**2023-11-14**|**How good are Large Language Models on African Languages?**|Jessica Ojo et.al.|[2311.07978v1](http://arxiv.org/abs/2311.07978v1)|null|
+|**2023-11-14**|**The ART of LLM Refinement: Ask, Refine, and Trust**|Kumar Shridhar et.al.|[2311.07961v1](http://arxiv.org/abs/2311.07961v1)|null|
+|**2023-11-14**|**CPopQA: Ranking Cultural Concept Popularity by LLMs**|Ming Jiang et.al.|[2311.07897v1](http://arxiv.org/abs/2311.07897v1)|null|
+|**2023-11-14**|**Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale datase**|Zafaryab Rasool et.al.|[2311.07878v1](http://arxiv.org/abs/2311.07878v1)|null|
 |**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575v1](http://arxiv.org/abs/2311.07575v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
 |**2023-11-13**|**A Comprehensive Evaluation of GPT-4V on Knowledge-Intensive Visual Question Answering**|Yunxin Li et.al.|[2311.07536v1](http://arxiv.org/abs/2311.07536v1)|null|
 |**2023-11-13**|**A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases**|Juan Sequeda et.al.|[2311.07509v1](http://arxiv.org/abs/2311.07509v1)|null|
@@ -4392,6 +4417,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Unlocking Science: Novel Dataset and Benchmark for Cross-Modality Scientific Information Extraction**|Yuhan Li et.al.|[2311.08189v1](http://arxiv.org/abs/2311.08189v1)|null|
+|**2023-11-14**|**GMTR: Graph Matching Transformers**|Jinpei Guo et.al.|[2311.08141v1](http://arxiv.org/abs/2311.08141v1)|null|
+|**2023-11-14**|**Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale datase**|Zafaryab Rasool et.al.|[2311.07878v1](http://arxiv.org/abs/2311.07878v1)|null|
+|**2023-11-13**|**PolyIE: A Dataset of Information Extraction from Polymer Material Scientific Literature**|Jerry Junyang Cheung et.al.|[2311.07715v1](http://arxiv.org/abs/2311.07715v1)|**[link](https://github.com/jerry3027/polyie)**|
 |**2023-11-12**|**GIELLM: Japanese General Information Extraction Large Language Model Utilizing Mutual Reinforcement Effect**|Chengguang Gan et.al.|[2311.06838v1](http://arxiv.org/abs/2311.06838v1)|null|
 |**2023-11-11**|**Experimental Demonstration of Inequivalent Mutually Unbiased Bases**|Wen-Zhe Yan et.al.|[2311.06539v1](http://arxiv.org/abs/2311.06539v1)|null|
 |**2023-11-10**|**ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences**|Yuanhe Tian et.al.|[2311.06025v1](http://arxiv.org/abs/2311.06025v1)|**[link](https://github.com/synlp/chimed-gpt)**|
@@ -4894,6 +4923,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357v1](http://arxiv.org/abs/2311.08357v1)|null|
+|**2023-11-14**|**Mixed Attention Network for Cross-domain Sequential Recommendation**|Guanyu Lin et.al.|[2311.08272v1](http://arxiv.org/abs/2311.08272v1)|**[link](https://github.com/guanyu-lin/man)**|
+|**2023-11-14**|**Towards a Technical Debt for Recommender System**|Sergio Moreschini et.al.|[2311.07947v1](http://arxiv.org/abs/2311.07947v1)|null|
+|**2023-11-14**|**VizPut: Insight-Aware Imputation of Incomplete Data for Visualization Recommendation**|Rischan Mafrur et.al.|[2311.07926v1](http://arxiv.org/abs/2311.07926v1)|null|
+|**2023-11-12**|**Modeling User Viewing Flow using Large Language Models for Article Recommendation**|Zhenghao Liu et.al.|[2311.07619v1](http://arxiv.org/abs/2311.07619v1)|null|
 |**2023-11-13**|**Untargeted Black-box Attacks for Social Recommendations**|Wenqi Fan et.al.|[2311.07127v1](http://arxiv.org/abs/2311.07127v1)|null|
 |**2023-11-13**|**Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An Empirical Study**|Chen Xu et.al.|[2311.07054v1](http://arxiv.org/abs/2311.07054v1)|null|
 |**2023-11-11**|**Metric Optimization and Mainstream Bias Mitigation in Recommender Systems**|Roger Zhe Li et.al.|[2311.06689v1](http://arxiv.org/abs/2311.06689v1)|null|
@@ -5885,6 +5919,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147v1](http://arxiv.org/abs/2311.08147v1)|null|
+|**2023-11-14**|**Insights into Classifying and Mitigating LLMs' Hallucinations**|Alessandro Bruno et.al.|[2311.08117v1](http://arxiv.org/abs/2311.08117v1)|null|
+|**2023-11-14**|**Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey**|Garima Agrawal et.al.|[2311.07914v1](http://arxiv.org/abs/2311.07914v1)|null|
+|**2023-11-14**|**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA**|Dhruv Agarwal et.al.|[2311.07850v1](http://arxiv.org/abs/2311.07850v1)|null|
 |**2023-11-13**|**A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases**|Juan Sequeda et.al.|[2311.07509v1](http://arxiv.org/abs/2311.07509v1)|null|
 |**2023-11-13**|**Knowledge Graph Representations to enhance Intensive Care Time-Series Predictions**|Samyak Jain et.al.|[2311.07180v1](http://arxiv.org/abs/2311.07180v1)|null|
 |**2023-11-12**|**Learning Knowledge-Enhanced Contextual Language Representations for Domain Natural Language Understanding**|Ruyao Xu et.al.|[2311.06761v1](http://arxiv.org/abs/2311.06761v1)|null|
@@ -6667,6 +6705,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271v1](http://arxiv.org/abs/2311.08271v1)|null|
+|**2023-11-14**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118v1](http://arxiv.org/abs/2311.08118v1)|null|
+|**2023-11-14**|**Higher-Order Expander Graph Propagation**|Thomas Christie et.al.|[2311.07966v1](http://arxiv.org/abs/2311.07966v1)|null|
+|**2023-11-14**|**Self-supervised Heterogeneous Graph Variational Autoencoders**|Yige Zhao et.al.|[2311.07929v1](http://arxiv.org/abs/2311.07929v1)|null|
+|**2023-11-13**|**ResMGCN: Residual Message Graph Convolution Network for Fast Biomedical Interactions Discovering**|Zecheng Yin et.al.|[2311.07632v1](http://arxiv.org/abs/2311.07632v1)|null|
 |**2023-11-13**|**Interpretable Fine-Tuning for Graph Neural Network Surrogate Models**|Shivam Barwey et.al.|[2311.07548v1](http://arxiv.org/abs/2311.07548v1)|null|
 |**2023-11-13**|**Three-dimensional granular flow simulation using graph neural network-based learned simulator**|Yongjin Choi et.al.|[2311.07416v1](http://arxiv.org/abs/2311.07416v1)|null|
 |**2023-11-13**|**ADAMM: Anomaly Detection of Attributed Multi-graphs with Metadata: A Unified Neural Network Approach**|Konstantinos Sotiropoulos et.al.|[2311.07355v1](http://arxiv.org/abs/2311.07355v1)|**[link](https://github.com/konsotirop/adamm)**|
