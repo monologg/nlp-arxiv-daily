@@ -39,7 +39,7 @@ layout: default
 |**2023-11-15**|**Large Language Models are legal but they are not: Making the case for a powerful LegalLLM**|Thanmay Jayakumar et.al.|[2311.08890v1](http://arxiv.org/abs/2311.08890v1)|null|
 |**2023-11-15**|**Thread of Thought Unraveling Chaotic Contexts**|Yucheng Zhou et.al.|[2311.08734v1](http://arxiv.org/abs/2311.08734v1)|null|
 |**2023-11-15**|**Enabling CMF Estimation in Data-Constrained Scenarios: A Semantic-Encoding Knowledge Mining Model**|Yanlin Qi et.al.|[2311.08690v1](http://arxiv.org/abs/2311.08690v1)|null|
-|**2023-11-14**|**MAgIC: Benchmarking Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration**|Lin Xu et.al.|[2311.08562v1](http://arxiv.org/abs/2311.08562v1)|null|
+|**2023-11-16**|**MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration**|Lin Xu et.al.|[2311.08562v2](http://arxiv.org/abs/2311.08562v2)|**[link](https://github.com/cathyxl/magic)**|
 |**2023-11-14**|**Natural Language Processing for Financial Regulation**|Ixandra Achitouv et.al.|[2311.08533v1](http://arxiv.org/abs/2311.08533v1)|null|
 |**2023-11-14**|**GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer**|Urchade Zaratiana et.al.|[2311.08526v1](http://arxiv.org/abs/2311.08526v1)|null|
 |**2023-11-14**|**Functionality learning through specification instructions**|Pedro Henrique Luz de Araujo et.al.|[2311.08481v1](http://arxiv.org/abs/2311.08481v1)|null|
@@ -6010,7 +6010,7 @@ layout: default
 |**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147v1](http://arxiv.org/abs/2311.08147v1)|null|
 |**2023-11-14**|**Insights into Classifying and Mitigating LLMs' Hallucinations**|Alessandro Bruno et.al.|[2311.08117v1](http://arxiv.org/abs/2311.08117v1)|null|
 |**2023-11-14**|**Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey**|Garima Agrawal et.al.|[2311.07914v1](http://arxiv.org/abs/2311.07914v1)|null|
-|**2023-11-14**|**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA**|Dhruv Agarwal et.al.|[2311.07850v1](http://arxiv.org/abs/2311.07850v1)|null|
+|**2023-11-14**|**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA**|Dhruv Agarwal et.al.|[2311.07850v1](http://arxiv.org/abs/2311.07850v1)|**[link](https://github.com/dhdhagar/byokg)**|
 |**2023-11-13**|**A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases**|Juan Sequeda et.al.|[2311.07509v1](http://arxiv.org/abs/2311.07509v1)|null|
 |**2023-11-13**|**Knowledge Graph Representations to enhance Intensive Care Time-Series Predictions**|Samyak Jain et.al.|[2311.07180v1](http://arxiv.org/abs/2311.07180v1)|null|
 |**2023-11-12**|**Learning Knowledge-Enhanced Contextual Language Representations for Domain Natural Language Understanding**|Ruyao Xu et.al.|[2311.06761v1](http://arxiv.org/abs/2311.06761v1)|null|
