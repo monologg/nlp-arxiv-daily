@@ -25,10 +25,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Detection of Offensive and Threatening Online Content in a Low Resource Language**|Fatima Muhammad Adam et.al.|[2311.10541v1](http://arxiv.org/abs/2311.10541v1)|null|
+|**2023-11-17**|**ReuseSense: With Great Reuse Comes Greater Efficiency; Effectively Employing Computation Reuse on General-Purpose CPUs**|Nitesh Narayana GS et.al.|[2311.10487v1](http://arxiv.org/abs/2311.10487v1)|null|
+|**2023-11-17**|**Sinhala-English Word Embedding Alignment: Introducing Datasets and Benchmark for a Low Resource Language**|Kasun Wickramasinghe et.al.|[2311.10436v1](http://arxiv.org/abs/2311.10436v1)|null|
+|**2023-11-17**|**Causal Graph in Language Model Rediscovers Cortical Hierarchy in Human Narrative Processing**|Zhengqi He et.al.|[2311.10431v1](http://arxiv.org/abs/2311.10431v1)|null|
+|**2023-11-16**|**The Analysis and Extraction of Structure from Organizational Charts**|Nikhil Manali et.al.|[2311.10234v1](http://arxiv.org/abs/2311.10234v1)|null|
 |**2023-11-16**|**Revolutionizing Customer Interactions: Insights and Challenges in Deploying ChatGPT and Generative Chatbots for FAQs**|Feriel Khennouche et.al.|[2311.09976v1](http://arxiv.org/abs/2311.09976v1)|null|
 |**2023-11-16**|**OrchestraLLM: Efficient Orchestration of Language Models for Dialogue State Tracking**|Chia-Hsuan Lee et.al.|[2311.09758v1](http://arxiv.org/abs/2311.09758v1)|null|
 |**2023-11-16**|**Trustworthy Large Models in Vision: A Survey**|Ziyan Guo et.al.|[2311.09680v1](http://arxiv.org/abs/2311.09680v1)|null|
-|**2023-11-16**|**FunctionMarker: Watermarking Language Datasets via Knowledge Injection**|Shuai Li et.al.|[2311.09535v1](http://arxiv.org/abs/2311.09535v1)|null|
+|**2023-11-17**|**FunctionMarker: Watermarking Language Datasets via Knowledge Injection**|Shuai Li et.al.|[2311.09535v2](http://arxiv.org/abs/2311.09535v2)|null|
 |**2023-11-16**|**AMRFact: Enhancing Summarization Factuality Evaluation with AMR-driven Training Data Generation**|Haoyi Qiu et.al.|[2311.09521v1](http://arxiv.org/abs/2311.09521v1)|null|
 |**2023-11-16**|**Atoms as Words: A Novel Approach to Deciphering Material Properties using NLP-inspired Machine Learning on Crystallographic Information Files (CIFs)**|Lalit Yadav et.al.|[2311.09508v1](http://arxiv.org/abs/2311.09508v1)|null|
 |**2023-11-16**|**SegMix: A Simple Structure-Aware Data Augmentation Method**|Yuxin Pei et.al.|[2311.09505v1](http://arxiv.org/abs/2311.09505v1)|null|
@@ -2877,6 +2882,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Improving Unimodal Inference with Multimodal Transformers**|Kateryna Chumachenko et.al.|[2311.10170v1](http://arxiv.org/abs/2311.10170v1)|null|
 |**2023-11-16**|**Revolutionizing Customer Interactions: Insights and Challenges in Deploying ChatGPT and Generative Chatbots for FAQs**|Feriel Khennouche et.al.|[2311.09976v1](http://arxiv.org/abs/2311.09976v1)|null|
 |**2023-11-15**|**What Predicts Interpersonal Affect? Preliminary Analyses from Retrospective Evaluations**|Maria Teresa Parreira et.al.|[2311.09378v1](http://arxiv.org/abs/2311.09378v1)|null|
 |**2023-11-14**|**A Comparative Analysis of the COVID-19 Infodemic in English and Chinese: Insights from Social Media Textual Data**|Jia Luo et.al.|[2311.08001v1](http://arxiv.org/abs/2311.08001v1)|null|
@@ -3334,6 +3340,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697v1](http://arxiv.org/abs/2311.10697v1)|null|
+|**2023-11-17**|**A Self-enhancement Approach for Domain-specific Chatbot Training via Knowledge Mining and Digest**|Ruohong Zhang et.al.|[2311.10614v1](http://arxiv.org/abs/2311.10614v1)|null|
+|**2023-11-17**|**DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines**|Chenyu Jiang et.al.|[2311.10418v1](http://arxiv.org/abs/2311.10418v1)|**[link](https://github.com/chenyu-jiang/megatron-lm)**|
+|**2023-11-16**|**Video-LLaVA: Learning United Visual Representation by Alignment Before Projection**|Bin Lin et.al.|[2311.10122v1](http://arxiv.org/abs/2311.10122v1)|**[link](https://github.com/PKU-YuanGroup/Video-LLaVA)**|
 |**2023-11-16**|**Leveraging LLMs in Scholarly Knowledge Graph Question Answering**|Tilahun Abedissa Taffa et.al.|[2311.09841v1](http://arxiv.org/abs/2311.09841v1)|**[link](https://github.com/huntila/scholarly-kgqa)**|
 |**2023-11-16**|**Towards Robust Temporal Reasoning of Large Language Models via a Multi-Hop QA Dataset and Pseudo-Instruction Tuning**|Qingyu Tan et.al.|[2311.09821v1](http://arxiv.org/abs/2311.09821v1)|null|
 |**2023-11-16**|**Performance Trade-offs of Watermarking Large Language Models**|Anirudh Ajith et.al.|[2311.09816v1](http://arxiv.org/abs/2311.09816v1)|null|
@@ -4995,6 +5005,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Ex2Vec: Characterizing Users and Items from the Mere Exposure Effect**|Bruno Sguerra et.al.|[2311.10635v1](http://arxiv.org/abs/2311.10635v1)|**[link](https://github.com/deezer/ex2vec)**|
+|**2023-11-17**|**Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation**|Shenghao Yang et.al.|[2311.10501v1](http://arxiv.org/abs/2311.10501v1)|**[link](https://github.com/ysh-1998/cowpirec)**|
 |**2023-11-16**|**AI Recommendation System for Enhanced Customer Experience: A Novel Image-to-Text Method**|Mohamaed Foued Ayedi et.al.|[2311.09624v1](http://arxiv.org/abs/2311.09624v1)|null|
 |**2023-11-16**|**Group-Aware Interest Disentangled Dual-Training for Personalized Recommendation**|Xiaolong Liu et.al.|[2311.09577v1](http://arxiv.org/abs/2311.09577v1)|**[link](https://github.com/xiaolong-liu-bdsc/igrec)**|
 |**2023-11-15**|**Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation**|Bowen Zheng et.al.|[2311.09049v1](http://arxiv.org/abs/2311.09049v1)|null|
@@ -5998,6 +6010,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization**|Maolin Wang et.al.|[2311.10341v1](http://arxiv.org/abs/2311.10341v1)|null|
+|**2023-11-15**|**Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models**|Zifeng Ding et.al.|[2311.10112v1](http://arxiv.org/abs/2311.10112v1)|null|
 |**2023-11-16**|**Leveraging LLMs in Scholarly Knowledge Graph Question Answering**|Tilahun Abedissa Taffa et.al.|[2311.09841v1](http://arxiv.org/abs/2311.09841v1)|**[link](https://github.com/huntila/scholarly-kgqa)**|
 |**2023-11-16**|**FairytaleCQA: Integrating a Commonsense Knowledge Graph into Children's Storybook Narratives**|Jiaju Chen et.al.|[2311.09756v1](http://arxiv.org/abs/2311.09756v1)|null|
 |**2023-11-16**|**Generating Drug Repurposing Hypotheses through the Combination of Disease-Specific Hypergraphs**|Ayush Jain et.al.|[2311.09596v1](http://arxiv.org/abs/2311.09596v1)|null|
@@ -6793,6 +6807,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**TacFR-Gripper: A Reconfigurable Fin Ray-Based Compliant Robotic Gripper with Tactile Skin for In-Hand Manipulation**|Qingzheng Cong et.al.|[2311.10611v1](http://arxiv.org/abs/2311.10611v1)|null|
+|**2023-11-17**|**Graph Neural Networks for Pressure Estimation in Water Distribution Systems**|Huy Truong et.al.|[2311.10579v1](http://arxiv.org/abs/2311.10579v1)|**[link](https://github.com/ditec-project/gnn-pressure-estimation)**|
+|**2023-11-17**|**Graph Sparsifications using Neural Network Assisted Monte Carlo Tree Search**|Alvin Chiu et.al.|[2311.10316v1](http://arxiv.org/abs/2311.10316v1)|**[link](https://github.com/abureyanahmed/gnn-msts-sparsification)**|
+|**2023-11-17**|**Multiscale Hodge Scattering Networks for Data Analysis**|Naoki Saito et.al.|[2311.10270v1](http://arxiv.org/abs/2311.10270v1)|null|
+|**2023-11-16**|**Algebraic Topological Networks via the Persistent Local Homology Sheaf**|Gabriele Cesa et.al.|[2311.10156v1](http://arxiv.org/abs/2311.10156v1)|null|
 |**2023-11-16**|**MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization**|Zeyu Zhu et.al.|[2311.09775v1](http://arxiv.org/abs/2311.09775v1)|null|
 |**2023-11-15**|**HypOp: Distributed Constrained Combinatorial Optimization leveraging Hypergraph Neural Networks**|Nasimeh Heydaribeni et.al.|[2311.09375v1](http://arxiv.org/abs/2311.09375v1)|null|
 |**2023-11-15**|**Disentangling the Potential Impacts of Papers into Diffusion, Conformity, and Contribution Values**|Zhikai Xue et.al.|[2311.09262v1](http://arxiv.org/abs/2311.09262v1)|null|
