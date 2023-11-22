@@ -25,6 +25,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Alpha Zero for Physics: Application of Symbolic Regression with Alpha Zero to find the analytical methods in physics**|Yoshihiro Michishita et.al.|[2311.12713v1](http://arxiv.org/abs/2311.12713v1)|null|
+|**2023-11-21**|**MathGloss: Building mathematical glossaries from text**|Lucy Horowitz et.al.|[2311.12649v1](http://arxiv.org/abs/2311.12649v1)|null|
+|**2023-11-21**|**Classification of Tabular Data by Text Processing**|Keshav Ramani et.al.|[2311.12521v1](http://arxiv.org/abs/2311.12521v1)|null|
+|**2023-11-21**|**Extracting Definienda in Mathematical Scholarly Articles with Transformers**|Shufan Jiang et.al.|[2311.12448v1](http://arxiv.org/abs/2311.12448v1)|**[link](https://github.com/sufianj/def_extraction)**|
+|**2023-11-21**|**A Survey on Large Language Models for Personalized and Explainable Recommendations**|Junyi Chen et.al.|[2311.12338v1](http://arxiv.org/abs/2311.12338v1)|null|
+|**2023-11-21**|**AcademicGPT: Empowering Academic Research**|Shufa Wei et.al.|[2311.12315v1](http://arxiv.org/abs/2311.12315v1)|null|
+|**2023-11-21**|**ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for Interdisciplinary Science**|Sai Munikoti et.al.|[2311.12289v1](http://arxiv.org/abs/2311.12289v1)|null|
+|**2023-11-21**|**Equipping Pretrained Unconditional Music Transformers with Instrument and Genre Controls**|Weihan Xu et.al.|[2311.12257v1](http://arxiv.org/abs/2311.12257v1)|null|
+|**2023-11-20**|**Applications of Large Scale Foundation Models for Autonomous Driving**|Yu Huang et.al.|[2311.12144v1](http://arxiv.org/abs/2311.12144v1)|null|
 |**2023-11-20**|**Generating Valid and Natural Adversarial Examples with Large Language Models**|Zimu Wang et.al.|[2311.11861v1](http://arxiv.org/abs/2311.11861v1)|null|
 |**2023-11-20**|**Web News Timeline Generation with Extended Task Prompting**|Sha Wang et.al.|[2311.11652v1](http://arxiv.org/abs/2311.11652v1)|null|
 |**2023-11-20**|**Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks**|Ling Luo et.al.|[2311.11608v1](http://arxiv.org/abs/2311.11608v1)|**[link](https://github.com/dutir-bionlp/taiyi-llm)**|
@@ -1816,6 +1825,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**nach0: Multimodal Natural and Chemical Languages Foundation Model**|Micha Livne et.al.|[2311.12410v1](http://arxiv.org/abs/2311.12410v1)|null|
 |**2023-11-20**|**H-COAL: Human Correction of AI-Generated Labels for Biomedical Named Entity Recognition**|Xiaojing Duan et.al.|[2311.11981v1](http://arxiv.org/abs/2311.11981v1)|null|
 |**2023-11-20**|**Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks**|Ling Luo et.al.|[2311.11608v1](http://arxiv.org/abs/2311.11608v1)|**[link](https://github.com/dutir-bionlp/taiyi-llm)**|
 |**2023-11-20**|**How well ChatGPT understand Malaysian English? An Evaluation on Named Entity Recognition and Relation Extraction**|Mohan Raj Chanthran et.al.|[2311.11583v1](http://arxiv.org/abs/2311.11583v1)|**[link](https://github.com/mohanraj-nlp/chatgpt-malaysian-english)**|
@@ -2220,6 +2230,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Fair Text Classification with Wasserstein Independence**|Thibaud Leteno et.al.|[2311.12689v1](http://arxiv.org/abs/2311.12689v1)|**[link](https://github.com/letenothibaud/wasserstein_fair_classification)**|
+|**2023-11-21**|**Noise in Relation Classification Dataset TACRED: Characterization and Reduction**|Akshay Parekh et.al.|[2311.12298v1](http://arxiv.org/abs/2311.12298v1)|null|
 |**2023-11-20**|**Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks**|Ling Luo et.al.|[2311.11608v1](http://arxiv.org/abs/2311.11608v1)|**[link](https://github.com/dutir-bionlp/taiyi-llm)**|
 |**2023-11-19**|**TextGuard: Provable Defense against Backdoor Attacks on Text Classification**|Hengzhi Pei et.al.|[2311.11225v1](http://arxiv.org/abs/2311.11225v1)|**[link](https://github.com/ai-secure/textguard)**|
 |**2023-11-18**|**Images Connect Us Together: Navigating a COVID-19 Local Outbreak in China Through Social Media Images**|Changyang He et.al.|[2311.10977v1](http://arxiv.org/abs/2311.10977v1)|null|
@@ -2904,12 +2916,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**LowResource at BLP-2023 Task 2: Leveraging BanglaBert for Low Resource Sentiment Analysis of Bangla Language**|Aunabil Chakma et.al.|[2311.12735v1](http://arxiv.org/abs/2311.12735v1)|**[link](https://github.com/aunabil4602/bnlp-workshop-task2-2023)**|
 |**2023-11-20**|**Adapt in Contexts: Retrieval-Augmented Domain Adaptation via In-Context Learning**|Quanyu Long et.al.|[2311.11551v1](http://arxiv.org/abs/2311.11551v1)|null|
 |**2023-11-19**|**Unveiling Public Perceptions: Machine Learning-Based Sentiment Analysis of COVID-19 Vaccines in India**|Milind Gupta et.al.|[2311.11435v1](http://arxiv.org/abs/2311.11435v1)|null|
 |**2023-11-19**|**A Comprehensive Review on Sentiment Analysis: Tasks, Approaches and Applications**|Sudhanshu Kumar et.al.|[2311.11250v1](http://arxiv.org/abs/2311.11250v1)|null|
 |**2023-11-19**|**Implementation of AI Deep Learning Algorithm For Multi-Modal Sentiment Analysis**|Jiazhen Wang et.al.|[2311.11237v1](http://arxiv.org/abs/2311.11237v1)|null|
 |**2023-11-18**|**SBTRec- A Transformer Framework for Personalized Tour Recommendation Problem with Sentiment Analysis**|Ngai Lam Ho et.al.|[2311.11071v1](http://arxiv.org/abs/2311.11071v1)|null|
-|**2023-11-16**|**A Systematic Review of Aspect-based Sentiment Analysis (ABSA): Domains, Methods, and Trends**|Yan Cathy Hua et.al.|[2311.10777v1](http://arxiv.org/abs/2311.10777v1)|null|
+|**2023-11-21**|**A Systematic Review of Aspect-based Sentiment Analysis (ABSA): Domains, Methods, and Trends**|Yan Cathy Hua et.al.|[2311.10777v2](http://arxiv.org/abs/2311.10777v2)|null|
 |**2023-11-16**|**Improving Unimodal Inference with Multimodal Transformers**|Kateryna Chumachenko et.al.|[2311.10170v1](http://arxiv.org/abs/2311.10170v1)|null|
 |**2023-11-16**|**Revolutionizing Customer Interactions: Insights and Challenges in Deploying ChatGPT and Generative Chatbots for FAQs**|Feriel Khennouche et.al.|[2311.09976v1](http://arxiv.org/abs/2311.09976v1)|null|
 |**2023-11-15**|**What Predicts Interpersonal Affect? Preliminary Analyses from Retrospective Evaluations**|Maria Teresa Parreira et.al.|[2311.09378v1](http://arxiv.org/abs/2311.09378v1)|null|
@@ -3368,6 +3381,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**CSMeD: Bridging the Dataset Gap in Automated Citation Screening for Systematic Literature Reviews**|Wojciech Kusa et.al.|[2311.12474v1](http://arxiv.org/abs/2311.12474v1)|**[link](https://github.com/wojciechkusa/systematic-review-datasets)**|
+|**2023-11-21**|**Extracting Definienda in Mathematical Scholarly Articles with Transformers**|Shufan Jiang et.al.|[2311.12448v1](http://arxiv.org/abs/2311.12448v1)|**[link](https://github.com/sufianj/def_extraction)**|
+|**2023-11-21**|**nach0: Multimodal Natural and Chemical Languages Foundation Model**|Micha Livne et.al.|[2311.12410v1](http://arxiv.org/abs/2311.12410v1)|null|
+|**2023-11-21**|**Do Smaller Language Models Answer Contextualised Questions Through Memorisation Or Generalisation?**|Tim Hartill et.al.|[2311.12337v1](http://arxiv.org/abs/2311.12337v1)|null|
+|**2023-11-21**|**AcademicGPT: Empowering Academic Research**|Shufa Wei et.al.|[2311.12315v1](http://arxiv.org/abs/2311.12315v1)|null|
+|**2023-11-21**|**Causality is all you need**|Ning Xu et.al.|[2311.12307v1](http://arxiv.org/abs/2311.12307v1)|null|
+|**2023-11-21**|**ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for Interdisciplinary Science**|Sai Munikoti et.al.|[2311.12289v1](http://arxiv.org/abs/2311.12289v1)|null|
+|**2023-11-20**|**Unifying Corroborative and Contributive Attributions in Large Language Models**|Theodora Worledge et.al.|[2311.12233v1](http://arxiv.org/abs/2311.12233v1)|null|
 |**2023-11-20**|**FinanceBench: A New Benchmark for Financial Question Answering**|Pranab Islam et.al.|[2311.11944v1](http://arxiv.org/abs/2311.11944v1)|null|
 |**2023-11-20**|**Towards Robust Text Retrieval with Progressive Learning**|Tong Wu et.al.|[2311.11691v1](http://arxiv.org/abs/2311.11691v1)|null|
 |**2023-11-20**|**Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks**|Ling Luo et.al.|[2311.11608v1](http://arxiv.org/abs/2311.11608v1)|**[link](https://github.com/dutir-bionlp/taiyi-llm)**|
@@ -4525,6 +4546,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Similar Document Template Matching Algorithm**|Harshitha Yenigalla et.al.|[2311.12663v1](http://arxiv.org/abs/2311.12663v1)|null|
+|**2023-11-21**|**Extracting Definienda in Mathematical Scholarly Articles with Transformers**|Shufan Jiang et.al.|[2311.12448v1](http://arxiv.org/abs/2311.12448v1)|**[link](https://github.com/sufianj/def_extraction)**|
 |**2023-11-18**|**Joint multifractal analysis of air temperature, relative humidity and reference evapotranspiration in the middle zone of the Guadalquivir river valley**|A. B. Ariza-Villaverde et.al.|[2311.10967v1](http://arxiv.org/abs/2311.10967v1)|null|
 |**2023-11-16**|**An Attention-Based Denoising Framework for Personality Detection in Social Media Texts**|Qirui Tang et.al.|[2311.09945v1](http://arxiv.org/abs/2311.09945v1)|**[link](https://github.com/once2gain/personalitydetection)**|
 |**2023-11-16**|**GSAP-NER: A Novel Task, Corpus, and Baseline for Scholarly Entity Extraction Focused on Machine Learning Models and Datasets**|Wolfgang Otto et.al.|[2311.09860v1](http://arxiv.org/abs/2311.09860v1)|null|
@@ -5040,6 +5063,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Utilizing Language Models for Tour Itinerary Recommendation**|Ngai Lam Ho et.al.|[2311.12355v1](http://arxiv.org/abs/2311.12355v1)|null|
+|**2023-11-21**|**A Survey on Large Language Models for Personalized and Explainable Recommendations**|Junyi Chen et.al.|[2311.12338v1](http://arxiv.org/abs/2311.12338v1)|null|
+|**2023-11-20**|**Early Requirements Traceability with Domain-Specific Taxonomies -- A Pilot Experiment**|Michael Unterkalmsteiner et.al.|[2311.12146v1](http://arxiv.org/abs/2311.12146v1)|null|
 |**2023-11-20**|**Graph Variational Embedding Collaborative Filtering**|Narges Sadat Fazeli Dehkordi et.al.|[2311.11824v1](http://arxiv.org/abs/2311.11824v1)|null|
 |**2023-11-19**|**Scaling Law of Large Sequential Recommendation Models**|Gaowei Zhang et.al.|[2311.11351v1](http://arxiv.org/abs/2311.11351v1)|null|
 |**2023-11-18**|**Utilizing Speech Emotion Recognition and Recommender Systems for Negative Emotion Handling in Therapy Chatbots**|Farideh Majidi et.al.|[2311.11116v1](http://arxiv.org/abs/2311.11116v1)|null|
@@ -6052,6 +6078,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**MathGloss: Building mathematical glossaries from text**|Lucy Horowitz et.al.|[2311.12649v1](http://arxiv.org/abs/2311.12649v1)|null|
+|**2023-11-21**|**Towards a Gateway for Knowledge Graph Schemas Collection, Analysis, and Embedding**|Mattia Fumagalli et.al.|[2311.12465v1](http://arxiv.org/abs/2311.12465v1)|null|
 |**2023-11-19**|**Using Causal Threads to Explain Changes in a Dynamic System**|Robert B. Allen et.al.|[2311.11334v1](http://arxiv.org/abs/2311.11334v1)|null|
 |**2023-11-18**|**Hate speech and hate crimes: a data-driven study of evolving discourse around marginalized groups**|Malvina Bozhidarova et.al.|[2311.11163v1](http://arxiv.org/abs/2311.11163v1)|null|
 |**2023-11-18**|**Contextualizing Internet Memes Across Social Media Platforms**|Saurav Joshi et.al.|[2311.11157v1](http://arxiv.org/abs/2311.11157v1)|null|
@@ -6853,6 +6881,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Content Augmented Graph Neural Networks**|Fatemeh Gholamzadeh Nasrabadi et.al.|[2311.12741v1](http://arxiv.org/abs/2311.12741v1)|**[link](https://github.com/fatemehgholamzadeh/augss-gnn)**|
+|**2023-11-21**|**Carbohydrate NMR chemical shift predictions using E(3) equivariant graph neural networks**|Maria Bånkestad et.al.|[2311.12657v1](http://arxiv.org/abs/2311.12657v1)|**[link](https://github.com/mariabankestad/geqshift)**|
+|**2023-11-21**|**Careful Selection and Thoughtful Discarding: Graph Explicit Pooling Utilizing Discarded Nodes**|Chuang Liu et.al.|[2311.12644v1](http://arxiv.org/abs/2311.12644v1)|null|
+|**2023-11-21**|**Hierarchical Joint Graph Learning and Multivariate Time Series Forecasting**|Juhyeon Kim et.al.|[2311.12630v1](http://arxiv.org/abs/2311.12630v1)|null|
+|**2023-11-21**|**DeepTreeGAN: Fast Generation of High Dimensional Point Clouds**|Moritz Alfons Wilhelm Scham et.al.|[2311.12616v1](http://arxiv.org/abs/2311.12616v1)|null|
+|**2023-11-21**|**Distilling particle knowledge for fast reconstruction at high-energy physics experiments**|Aritra Bal et.al.|[2311.12551v1](http://arxiv.org/abs/2311.12551v1)|null|
+|**2023-11-21**|**A Survey of Graph Meets Large Language Model: Progress and Future Directions**|Yuhan Li et.al.|[2311.12399v1](http://arxiv.org/abs/2311.12399v1)|null|
+|**2023-11-21**|**Demystifying Graph Sparsification Algorithms in Graph Properties Preservation**|Yuhan Chen et.al.|[2311.12314v1](http://arxiv.org/abs/2311.12314v1)|null|
+|**2023-11-21**|**Power grid operational risk assessment using graph neural network surrogates**|Yadong Zhang et.al.|[2311.12309v1](http://arxiv.org/abs/2311.12309v1)|null|
+|**2023-11-21**|**ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for Interdisciplinary Science**|Sai Munikoti et.al.|[2311.12289v1](http://arxiv.org/abs/2311.12289v1)|null|
 |**2023-11-20**|**AMES: A Differentiable Embedding Space Selection Framework for Latent Graph Inference**|Yuan Lu et.al.|[2311.11891v1](http://arxiv.org/abs/2311.11891v1)|null|
 |**2023-11-20**|**Robust Tumor Segmentation with Hyperspectral Imaging and Graph Neural Networks**|Mayar Lotfy et.al.|[2311.11782v1](http://arxiv.org/abs/2311.11782v1)|null|
 |**2023-11-20**|**Unveiling the Unseen Potential of Graph Learning through MLPs: Effective Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.11759v1](http://arxiv.org/abs/2311.11759v1)|null|
