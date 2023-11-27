@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**GPT Struct Me: Probing GPT Models on Narrative Entity Extraction**|Hugo Sousa et.al.|[2311.14583v1](http://arxiv.org/abs/2311.14583v1)|**[link](https://github.com/hmosousa/gpt_struct_me)**|
+|**2023-11-24**|**CMed-GPT: Prompt Tuning for Entity-Aware Chinese Medical Dialogue Generation**|Zhijie Qu et.al.|[2311.14539v1](http://arxiv.org/abs/2311.14539v1)|null|
+|**2023-11-24**|**Narratives from GPT-derived Networks of News, and a link to Financial Markets Dislocations**|Deborah Miori et.al.|[2311.14419v1](http://arxiv.org/abs/2311.14419v1)|null|
+|**2023-11-24**|**LLamol: A Dynamic Multi-Conditional Generative Transformer for De Novo Molecular Design**|Niklas Dobberstein et.al.|[2311.14407v1](http://arxiv.org/abs/2311.14407v1)|**[link](https://github.com/fraunhofer-scai/llamol)**|
+|**2023-11-24**|**Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs**|Shengyin Sun et.al.|[2311.14324v1](http://arxiv.org/abs/2311.14324v1)|null|
+|**2023-11-24**|**Cosine Similarity Knowledge Distillation for Individual Class Information Transfer**|Gyeongdo Ham et.al.|[2311.14307v1](http://arxiv.org/abs/2311.14307v1)|null|
+|**2023-11-23**|**Uncovering Gender Stereotypes in Video Game Character Designs: A Multi-Modal Analysis of Honor of Kings**|Bingqing Liu et.al.|[2311.14226v1](http://arxiv.org/abs/2311.14226v1)|null|
+|**2023-11-23**|**Towards Explainable Strategy Templates using NLP Transformers**|Pallavi Bagga et.al.|[2311.14061v1](http://arxiv.org/abs/2311.14061v1)|null|
+|**2023-11-23**|**Efficient Trigger Word Insertion**|Yueqi Zeng et.al.|[2311.13957v1](http://arxiv.org/abs/2311.13957v1)|null|
+|**2023-11-22**|**Comparison of pipeline, sequence-to-sequence, and GPT models for end-to-end relation extraction: experiments with the rare disease use-case**|Shashank Gupta et.al.|[2311.13729v1](http://arxiv.org/abs/2311.13729v1)|**[link](https://github.com/shashank140195/raredis)**|
 |**2023-11-22**|**A Survey of Serverless Machine Learning Model Inference**|Kamil Kojs et.al.|[2311.13587v1](http://arxiv.org/abs/2311.13587v1)|null|
 |**2023-11-22**|**Machine Translation to Control Formality Features in the Target Language**|Harshita Tyagi et.al.|[2311.13475v1](http://arxiv.org/abs/2311.13475v1)|null|
 |**2023-11-22**|**Confidant: Customizing Transformer-based LLMs via Collaborative Edge Training**|Yuhao Chen et.al.|[2311.13381v1](http://arxiv.org/abs/2311.13381v1)|null|
@@ -1830,6 +1840,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-23**|**Transformer-based Named Entity Recognition in Construction Supply Chain Risk Management in Australia**|Milad Baghalzadeh Shishehgarkhaneh et.al.|[2311.13755v1](http://arxiv.org/abs/2311.13755v1)|null|
+|**2023-11-22**|**Efficient Transformer Knowledge Distillation: A Performance Review**|Nathan Brown et.al.|[2311.13657v1](http://arxiv.org/abs/2311.13657v1)|null|
 |**2023-11-21**|**nach0: Multimodal Natural and Chemical Languages Foundation Model**|Micha Livne et.al.|[2311.12410v1](http://arxiv.org/abs/2311.12410v1)|null|
 |**2023-11-20**|**H-COAL: Human Correction of AI-Generated Labels for Biomedical Named Entity Recognition**|Xiaojing Duan et.al.|[2311.11981v1](http://arxiv.org/abs/2311.11981v1)|null|
 |**2023-11-20**|**Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks**|Ling Luo et.al.|[2311.11608v1](http://arxiv.org/abs/2311.11608v1)|**[link](https://github.com/dutir-bionlp/taiyi-llm)**|
@@ -2235,6 +2247,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-23**|**Efficient Trigger Word Insertion**|Yueqi Zeng et.al.|[2311.13957v1](http://arxiv.org/abs/2311.13957v1)|null|
+|**2023-11-23**|**Dialogue Quality and Emotion Annotations for Customer Support Conversations**|John Mendonça et.al.|[2311.13910v1](http://arxiv.org/abs/2311.13910v1)|**[link](https://github.com/johndmendonca/maia-dqe)**|
+|**2023-11-22**|**Riemannian $λ_1$ -extremal Metrics on Generalized Flag Manifolds**|Kennerson N. S. Lima et.al.|[2311.13669v1](http://arxiv.org/abs/2311.13669v1)|null|
 |**2023-11-22**|**Analyzing the Evolution and Maintenance of ML Models on Hugging Face**|Joel Castaño et.al.|[2311.13380v1](http://arxiv.org/abs/2311.13380v1)|null|
 |**2023-11-21**|**Fair Text Classification with Wasserstein Independence**|Thibaud Leteno et.al.|[2311.12689v1](http://arxiv.org/abs/2311.12689v1)|**[link](https://github.com/letenothibaud/wasserstein_fair_classification)**|
 |**2023-11-21**|**Noise in Relation Classification Dataset TACRED: Characterization and Reduction**|Akshay Parekh et.al.|[2311.12298v1](http://arxiv.org/abs/2311.12298v1)|null|
@@ -3389,6 +3404,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Large Language Models as Automated Aligners for benchmarking Vision-Language Models**|Yuanfeng Ji et.al.|[2311.14580v1](http://arxiv.org/abs/2311.14580v1)|null|
+|**2023-11-23**|**Question Answering in Natural Language: the Special Case of Temporal Expressions**|Armand Stricker et.al.|[2311.14087v1](http://arxiv.org/abs/2311.14087v1)|null|
+|**2023-11-23**|**Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models**|Saman Motamed et.al.|[2311.13833v1](http://arxiv.org/abs/2311.13833v1)|null|
+|**2023-11-23**|**FinMe: A Performance-Enhanced Large Language Model Trading Agent with Layered Memory and Character Design**|Yangyang Yu et.al.|[2311.13743v1](http://arxiv.org/abs/2311.13743v1)|null|
 |**2023-11-22**|**Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering**|Inderjeet Nair et.al.|[2311.13565v1](http://arxiv.org/abs/2311.13565v1)|null|
 |**2023-11-22**|**PG-Video-LLaVA: Pixel Grounding Large Video-Language Models**|Shehan Munasinghe et.al.|[2311.13435v1](http://arxiv.org/abs/2311.13435v1)|**[link](https://github.com/mbzuai-oryx/video-llava)**|
 |**2023-11-21**|**CSMeD: Bridging the Dataset Gap in Automated Citation Screening for Systematic Literature Reviews**|Wojciech Kusa et.al.|[2311.12474v1](http://arxiv.org/abs/2311.12474v1)|**[link](https://github.com/wojciechkusa/systematic-review-datasets)**|
@@ -4556,6 +4575,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**GPT Struct Me: Probing GPT Models on Narrative Entity Extraction**|Hugo Sousa et.al.|[2311.14583v1](http://arxiv.org/abs/2311.14583v1)|**[link](https://github.com/hmosousa/gpt_struct_me)**|
+|**2023-11-23**|**EIGEN: Expert-Informed Joint Learning Aggregation for High-Fidelity Information Extraction from Document Images**|Abhishek Singh et.al.|[2311.13993v1](http://arxiv.org/abs/2311.13993v1)|**[link](https://github.com/ayushayush591/eigen-high-fidelity-extraction-document-images)**|
+|**2023-11-22**|**Comparison of pipeline, sequence-to-sequence, and GPT models for end-to-end relation extraction: experiments with the rare disease use-case**|Shashank Gupta et.al.|[2311.13729v1](http://arxiv.org/abs/2311.13729v1)|**[link](https://github.com/shashank140195/raredis)**|
 |**2023-11-22**|**CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning**|Yaqi Liu et.al.|[2311.13263v1](http://arxiv.org/abs/2311.13263v1)|null|
 |**2023-11-21**|**Similar Document Template Matching Algorithm**|Harshitha Yenigalla et.al.|[2311.12663v1](http://arxiv.org/abs/2311.12663v1)|null|
 |**2023-11-21**|**Extracting Definienda in Mathematical Scholarly Articles with Transformers**|Shufan Jiang et.al.|[2311.12448v1](http://arxiv.org/abs/2311.12448v1)|**[link](https://github.com/sufianj/def_extraction)**|
@@ -6091,6 +6113,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Dynamic Analysis Method for Hidden Dangers in Substation Based on Knowledge Graph**|Weiwei Li et.al.|[2311.13708v1](http://arxiv.org/abs/2311.13708v1)|null|
 |**2023-11-22**|**Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting**|Xinyan Guan et.al.|[2311.13314v1](http://arxiv.org/abs/2311.13314v1)|null|
 |**2023-11-21**|**MathGloss: Building mathematical glossaries from text**|Lucy Horowitz et.al.|[2311.12649v1](http://arxiv.org/abs/2311.12649v1)|null|
 |**2023-11-21**|**Towards a Gateway for Knowledge Graph Schemas Collection, Analysis, and Embedding**|Mattia Fumagalli et.al.|[2311.12465v1](http://arxiv.org/abs/2311.12465v1)|null|
@@ -6895,6 +6918,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Fault Detection in Telecom Networks using Bi-level Federated Graph Neural Networks**|R. Bourgerie et.al.|[2311.14469v1](http://arxiv.org/abs/2311.14469v1)|null|
+|**2023-11-24**|**Finite Volume Features, Global Geometry Representations, and Residual Training for Deep Learning-based CFD Simulation**|Loh Sher En Jessica et.al.|[2311.14464v1](http://arxiv.org/abs/2311.14464v1)|null|
+|**2023-11-24**|**BHGNN-RT: Network embedding for directed heterogeneous graphs**|Xiyang Sun et.al.|[2311.14404v1](http://arxiv.org/abs/2311.14404v1)|**[link](https://github.com/albertlordsun/bhgnn-rt)**|
+|**2023-11-24**|**Cycle Invariant Positional Encoding for Graph Representation Learning**|Zuoyu Yan et.al.|[2311.14333v1](http://arxiv.org/abs/2311.14333v1)|null|
+|**2023-11-24**|**Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs**|Shengyin Sun et.al.|[2311.14324v1](http://arxiv.org/abs/2311.14324v1)|null|
+|**2023-11-24**|**AdaMedGraph: Adaboosting Graph Neural Networks for Personalized Medicine**|Jie Lian et.al.|[2311.14304v1](http://arxiv.org/abs/2311.14304v1)|null|
+|**2023-11-24**|**Out-of-Distribution Generalized Dynamic Graph Neural Network with Disentangled Intervention and Invariance Promotion**|Zeyang Zhang et.al.|[2311.14255v1](http://arxiv.org/abs/2311.14255v1)|null|
+|**2023-11-23**|**Exact Combinatorial Optimization with Temporo-Attentional Graph Neural Networks**|Mehdi Seyfi et.al.|[2311.13843v1](http://arxiv.org/abs/2311.13843v1)|null|
 |**2023-11-22**|**Benchmarking Toxic Molecule Classification using Graph Neural Networks and Few Shot Learning**|Bhavya Mehta et.al.|[2311.13490v1](http://arxiv.org/abs/2311.13490v1)|null|
 |**2023-11-22**|**Complexity-Guided Curriculum Learning for Text Graphs**|Nidhi Vakil et.al.|[2311.13472v1](http://arxiv.org/abs/2311.13472v1)|null|
 |**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466v1](http://arxiv.org/abs/2311.13466v1)|**[link](https://github.com/dunni3/keypoint-diffusion)**|
