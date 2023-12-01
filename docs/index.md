@@ -25,11 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**CritiqueLLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation**|Pei Ke et.al.|[2311.18702v1](http://arxiv.org/abs/2311.18702v1)|**[link](https://github.com/thu-coai/critiquellm)**|
+|**2023-11-30**|**ESG Accountability Made Easy: DocQA at Your Service**|Lokesh Mishra et.al.|[2311.18481v1](http://arxiv.org/abs/2311.18481v1)|null|
+|**2023-11-30**|**Lessons from Building CodeBuddy: A Contextualized AI Coding Assistant**|gustavo Pinto et.al.|[2311.18450v1](http://arxiv.org/abs/2311.18450v1)|null|
+|**2023-11-30**|**Automatic Construction of a Korean Toxic Instruction Dataset for Ethical Tuning of Large Language Models**|Sungjoo Byun et.al.|[2311.18215v1](http://arxiv.org/abs/2311.18215v1)|null|
+|**2023-11-29**|**Uncertainty Guided Global Memory Improves Multi-Hop Question Answering**|Alsu Sagirova et.al.|[2311.18151v1](http://arxiv.org/abs/2311.18151v1)|**[link](https://github.com/aloriosa/gemformer)**|
 |**2023-11-29**|**Mukhyansh: A Headline Generation Dataset for Indic Languages**|Lokesh Madasu et.al.|[2311.17743v1](http://arxiv.org/abs/2311.17743v1)|null|
 |**2023-11-29**|**AviationGPT: A Large Language Model for the Aviation Domain**|Liya Wang et.al.|[2311.17686v1](http://arxiv.org/abs/2311.17686v1)|null|
 |**2023-11-29**|**Introduction to Transformers: an NLP Perspective**|Tong Xiao et.al.|[2311.17633v1](http://arxiv.org/abs/2311.17633v1)|null|
 |**2023-11-29**|**Model Performance Prediction for Hyperparameter Optimization of Deep Learning Models Using High Performance Computing and Quantum Annealing**|Juan Pablo García Amboage et.al.|[2311.17508v1](http://arxiv.org/abs/2311.17508v1)|null|
-|**2023-11-29**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431v1](http://arxiv.org/abs/2311.17431v1)|null|
+|**2023-11-30**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431v2](http://arxiv.org/abs/2311.17431v2)|null|
 |**2023-11-29**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400v1](http://arxiv.org/abs/2311.17400v1)|null|
 |**2023-11-29**|**Are Large Language Models Good Fact Checkers: A Preliminary Study**|Han Cao et.al.|[2311.17355v1](http://arxiv.org/abs/2311.17355v1)|null|
 |**2023-11-29**|**A natural language processing-based approach: mapping human perception by understanding deep semantic features in street view images**|Haoran Ma et.al.|[2311.17354v1](http://arxiv.org/abs/2311.17354v1)|null|
@@ -1869,6 +1874,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Filtered Semi-Markov CRF**|Urchade Zaratiana et.al.|[2311.18028v1](http://arxiv.org/abs/2311.18028v1)|**[link](https://github.com/urchade/filtered-semi-markov-crf)**|
 |**2023-11-27**|**A Corpus for Named Entity Recognition in Chinese Novels with Multi-genres**|Hanjie Zhao et.al.|[2311.15509v1](http://arxiv.org/abs/2311.15509v1)|null|
 |**2023-11-20**|**Optimal Strategies to Perform Multilingual Analysis of Social Content for a Novel Dataset in the Tourism Domain**|Maxime Masson et.al.|[2311.14727v1](http://arxiv.org/abs/2311.14727v1)|null|
 |**2023-11-23**|**Transformer-based Named Entity Recognition in Construction Supply Chain Risk Management in Australia**|Milad Baghalzadeh Shishehgarkhaneh et.al.|[2311.13755v1](http://arxiv.org/abs/2311.13755v1)|null|
@@ -2278,6 +2284,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis**|Ali Najafi et.al.|[2311.18063v1](http://arxiv.org/abs/2311.18063v1)|null|
 |**2023-11-28**|**A personalized Uncertainty Quantification framework for patient survival models: estimating individual uncertainty of patients with metastatic brain tumors in the absence of ground truth**|Yuqi Wang et.al.|[2311.17173v1](http://arxiv.org/abs/2311.17173v1)|null|
 |**2023-11-28**|**Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification**|Jiahuan Yan et.al.|[2311.16650v1](http://arxiv.org/abs/2311.16650v1)|**[link](https://github.com/jyansir/text2tree)**|
 |**2023-11-27**|**BERT Goes Off-Topic: Investigating the Domain Transfer Challenge using Genre Classification**|Dmitri Roussinov et.al.|[2311.16083v1](http://arxiv.org/abs/2311.16083v1)|**[link](https://github.com/dminus1/genre)**|
@@ -3449,7 +3456,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-29**|**How to Build an AI Tutor that Can Adapt to Any Course and Provide Accurate Answers Using Large Language Model and Retrieval-Augmented Generation**|Chenxi Dong et.al.|[2311.17696v1](http://arxiv.org/abs/2311.17696v1)|null|
+|**2023-11-30**|**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**|Sijin Chen et.al.|[2311.18651v1](http://arxiv.org/abs/2311.18651v1)|**[link](https://github.com/open3da/ll3da)**|
+|**2023-11-30**|**ESG Accountability Made Easy: DocQA at Your Service**|Lokesh Mishra et.al.|[2311.18481v1](http://arxiv.org/abs/2311.18481v1)|null|
+|**2023-11-29**|**Uncertainty Guided Global Memory Improves Multi-Hop Question Answering**|Alsu Sagirova et.al.|[2311.18151v1](http://arxiv.org/abs/2311.18151v1)|**[link](https://github.com/aloriosa/gemformer)**|
+|**2023-11-29**|**DreamSync: Aligning Text-to-Image Generation with Image Understanding Feedback**|Jiao Sun et.al.|[2311.17946v1](http://arxiv.org/abs/2311.17946v1)|null|
+|**2023-11-30**|**How to Build an AI Tutor that Can Adapt to Any Course and Provide Accurate Answers Using Large Language Model and Retrieval-Augmented Generation**|Chenxi Dong et.al.|[2311.17696v2](http://arxiv.org/abs/2311.17696v2)|null|
 |**2023-11-29**|**AviationGPT: A Large Language Model for the Aviation Domain**|Liya Wang et.al.|[2311.17686v1](http://arxiv.org/abs/2311.17686v1)|null|
 |**2023-11-29**|**Reinforcement Replaces Supervision: Query focused Summarization using Deep Reinforcement Learning**|Swaroop Nath et.al.|[2311.17514v1](http://arxiv.org/abs/2311.17514v1)|null|
 |**2023-11-29**|**Enhancing Answer Selection in Community Question Answering with Pre-trained and Large Language Models**|Xinghang Hu et.al.|[2311.17502v1](http://arxiv.org/abs/2311.17502v1)|null|
@@ -4643,6 +4654,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**Accurate Segmentation of Optic Disc And Cup from Multiple Pseudo-labels by Noise-Aware Learning**|Tengjin Weng et.al.|[2311.18496v1](http://arxiv.org/abs/2311.18496v1)|**[link](https://github.com/wwwtttjjj/mpnn)**|
+|**2023-11-30**|**ESG Accountability Made Easy: DocQA at Your Service**|Lokesh Mishra et.al.|[2311.18481v1](http://arxiv.org/abs/2311.18481v1)|null|
 |**2023-11-29**|**AviationGPT: A Large Language Model for the Aviation Domain**|Liya Wang et.al.|[2311.17686v1](http://arxiv.org/abs/2311.17686v1)|null|
 |**2023-11-29**|**Improving embedding of graphs with missing data by soft manifolds**|Andrea Marinoni et.al.|[2311.17598v1](http://arxiv.org/abs/2311.17598v1)|null|
 |**2023-11-27**|**A Quantitative Approach to Understand Self-Supervised Models as Cross-lingual Feature Extractors**|Shuyue Stella Li et.al.|[2311.15954v1](http://arxiv.org/abs/2311.15954v1)|**[link](https://github.com/stellali7/ssl_psr)**|
@@ -5167,6 +5180,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**|Zhuohao Yin et.al.|[2311.18273v1](http://arxiv.org/abs/2311.18273v1)|**[link](https://github.com/thomas-yin/semeval-2023-task1)**|
+|**2023-11-30**|**Poisoning Attacks Against Contrastive Recommender Systems**|Zongwei Wang et.al.|[2311.18244v1](http://arxiv.org/abs/2311.18244v1)|null|
 |**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683v1](http://arxiv.org/abs/2311.16683v1)|null|
 |**2023-11-28**|**SARDINE: A Simulator for Automated Recommendation in Dynamic and Interactive Environments**|Romain Deffayet et.al.|[2311.16586v1](http://arxiv.org/abs/2311.16586v1)|**[link](https://github.com/naver/sardine)**|
 |**2023-11-27**|**Fine-grained Appearance Transfer with Diffusion Models**|Yuteng Ye et.al.|[2311.16513v1](http://arxiv.org/abs/2311.16513v1)|**[link](https://github.com/babahui/fine-grained-appearance-transfer)**|
@@ -6191,6 +6206,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Generation of a Compendium of Transcription Factor Cascades and Identification of Potential Therapeutic Targets using Graph Machine Learning**|Sonish Sivarajkumar et.al.|[2311.17969v1](http://arxiv.org/abs/2311.17969v1)|null|
 |**2023-11-29**|**Biomedical knowledge graph-enhanced prompt generation for large language models**|Karthik Soman et.al.|[2311.17330v1](http://arxiv.org/abs/2311.17330v1)|**[link](https://github.com/BaranziniLab/KG_RAG)**|
 |**2023-11-28**|**Radiology-Aware Model-Based Evaluation Metric for Report Generation**|Amos Calamida et.al.|[2311.16764v1](http://arxiv.org/abs/2311.16764v1)|null|
 |**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683v1](http://arxiv.org/abs/2311.16683v1)|null|
@@ -7006,6 +7022,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672v1](http://arxiv.org/abs/2311.18672v1)|null|
+|**2023-11-30**|**Optimizing ZX-Diagrams with Deep Reinforcement Learning**|Maximilian Nägele et.al.|[2311.18588v1](http://arxiv.org/abs/2311.18588v1)|**[link](https://github.com/maxnaeg/zxreinforce)**|
+|**2023-11-30**|**Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking**|Jiaxian Yan et.al.|[2311.18574v1](http://arxiv.org/abs/2311.18574v1)|null|
+|**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281v1](http://arxiv.org/abs/2311.18281v1)|null|
+|**2023-11-30**|**An Effective Universal Polynomial Basis for Spectral Graph Neural Networks**|Keke Huang et.al.|[2311.18177v1](http://arxiv.org/abs/2311.18177v1)|null|
+|**2023-11-29**|**Enhancing Data-Assimilation in CFD using Graph Neural Networks**|Michele Quattromini et.al.|[2311.18027v1](http://arxiv.org/abs/2311.18027v1)|null|
 |**2023-11-29**|**Reconstruction of electromagnetic showers in calorimeters using Deep Learning**|Polina Simkina et.al.|[2311.17914v1](http://arxiv.org/abs/2311.17914v1)|null|
 |**2023-11-29**|**FastSample: Accelerating Distributed Graph Neural Network Training for Billion-Scale Graphs**|Hesham Mostafa et.al.|[2311.17847v1](http://arxiv.org/abs/2311.17847v1)|null|
 |**2023-11-29**|**Propagate & Distill: Towards Effective Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.17781v1](http://arxiv.org/abs/2311.17781v1)|null|
