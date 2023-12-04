@@ -21,6 +21,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Mitigating Over-smoothing in Transformers via Regularized Nonlocal Functionals**|Tam Nguyen et.al.|[2312.00751v1](http://arxiv.org/abs/2312.00751v1)|null|
+|**2023-12-01**|**Infrared Image Super-Resolution via GAN**|Yongsong Huang et.al.|[2312.00689v1](http://arxiv.org/abs/2312.00689v1)|null|
+|**2023-12-01**|**Towards Transparency in Coreference Resolution: A Quantum-Inspired Approach**|Hadi Wazni et.al.|[2312.00688v1](http://arxiv.org/abs/2312.00688v1)|**[link](https://github.com/hwazni/qcoref)**|
+|**2023-12-01**|**Contextualized word senses: from attention to compositionality**|Pablo Gamallo et.al.|[2312.00680v1](http://arxiv.org/abs/2312.00680v1)|null|
+|**2023-12-01**|**Nonparametric Variational Regularisation of Pretrained Transformers**|Fabio Fehr et.al.|[2312.00662v1](http://arxiv.org/abs/2312.00662v1)|null|
+|**2023-12-01**|**CoLLiE: Collaborative Training of Large Language Models in an Efficient Way**|Kai Lv et.al.|[2312.00407v1](http://arxiv.org/abs/2312.00407v1)|**[link](https://github.com/openlmlab/collie)**|
+|**2023-11-30**|**Towards Unsupervised Representation Learning: Learning, Evaluating and Transferring Visual Representations**|Bonifaz Stuhr et.al.|[2312.00101v1](http://arxiv.org/abs/2312.00101v1)|null|
+|**2023-11-30**|**Introducing Rhetorical Parallelism Detection: A New Task with Datasets, Metrics, and Baselines**|Stephen Bothwell et.al.|[2312.00100v1](http://arxiv.org/abs/2312.00100v1)|**[link](https://github.com/mythologos/augustinian-sermon-parallelisms)**|
 |**2023-11-30**|**CritiqueLLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation**|Pei Ke et.al.|[2311.18702v1](http://arxiv.org/abs/2311.18702v1)|**[link](https://github.com/thu-coai/critiquellm)**|
 |**2023-11-30**|**ESG Accountability Made Easy: DocQA at Your Service**|Lokesh Mishra et.al.|[2311.18481v1](http://arxiv.org/abs/2311.18481v1)|null|
 |**2023-11-30**|**Lessons from Building CodeBuddy: A Contextualized AI Coding Assistant**|gustavo Pinto et.al.|[2311.18450v1](http://arxiv.org/abs/2311.18450v1)|null|
@@ -1677,6 +1685,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**The Ethics of Automating Legal Actors**|Josef Valvoda et.al.|[2312.00584v1](http://arxiv.org/abs/2312.00584v1)|null|
 |**2023-11-24**|**Tracing Influence at Scale: A Contrastive Learning Approach to Linking Public Comments and Regulator Responses**|Linzi Xing et.al.|[2311.14871v1](http://arxiv.org/abs/2311.14871v1)|null|
 |**2023-11-20**|**On the Potential and Limitations of Few-Shot In-Context Learning to Generate Metamorphic Specifications for Tax Preparation Software**|Dananjay Srinivas et.al.|[2311.11979v1](http://arxiv.org/abs/2311.11979v1)|null|
 |**2023-11-16**|**BLT: Can Large Language Models Handle Basic Legal Text?**|Andrew Blair-Stanek et.al.|[2311.09693v1](http://arxiv.org/abs/2311.09693v1)|**[link](https://github.com/blairstanek/blt)**|
@@ -2280,6 +2289,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Improving Plasticity in Online Continual Learning via Collaborative Learning**|Maorong Wang et.al.|[2312.00600v1](http://arxiv.org/abs/2312.00600v1)|null|
+|**2023-12-01**|**REDUCR: Robust Data Downsampling Using Class Priority Reweighting**|William Bankes et.al.|[2312.00486v1](http://arxiv.org/abs/2312.00486v1)|null|
 |**2023-11-29**|**TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis**|Ali Najafi et.al.|[2311.18063v1](http://arxiv.org/abs/2311.18063v1)|**[link](https://github.com/virallab/turkishbertweet)**|
 |**2023-11-28**|**A personalized Uncertainty Quantification framework for patient survival models: estimating individual uncertainty of patients with metastatic brain tumors in the absence of ground truth**|Yuqi Wang et.al.|[2311.17173v1](http://arxiv.org/abs/2311.17173v1)|null|
 |**2023-11-28**|**Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification**|Jiahuan Yan et.al.|[2311.16650v1](http://arxiv.org/abs/2311.16650v1)|**[link](https://github.com/jyansir/text2tree)**|
@@ -3452,6 +3463,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**The Case for Scalable, Data-Driven Theory: A Paradigm for Scientific Progress in NLP**|Julian Michael et.al.|[2312.00349v1](http://arxiv.org/abs/2312.00349v1)|null|
 |**2023-11-30**|**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**|Sijin Chen et.al.|[2311.18651v1](http://arxiv.org/abs/2311.18651v1)|**[link](https://github.com/open3da/ll3da)**|
 |**2023-11-30**|**ESG Accountability Made Easy: DocQA at Your Service**|Lokesh Mishra et.al.|[2311.18481v1](http://arxiv.org/abs/2311.18481v1)|null|
 |**2023-11-29**|**Uncertainty Guided Global Memory Improves Multi-Hop Question Answering**|Alsu Sagirova et.al.|[2311.18151v1](http://arxiv.org/abs/2311.18151v1)|**[link](https://github.com/aloriosa/gemformer)**|
@@ -4650,6 +4662,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Explanatory Argument Extraction of Correct Answers in Resident Medical Exams**|Iakes Goenaga et.al.|[2312.00567v1](http://arxiv.org/abs/2312.00567v1)|null|
+|**2023-11-30**|**A Metadata Generation System with Semantic Understanding for Video Retrieval in Film Production**|Feilin Han et.al.|[2312.00104v1](http://arxiv.org/abs/2312.00104v1)|null|
+|**2023-11-30**|**SparseDC: Depth Completion from sparse and non-uniform inputs**|Chen Long et.al.|[2312.00097v1](http://arxiv.org/abs/2312.00097v1)|**[link](https://github.com/whu-usi3dv/sparsedc)**|
 |**2023-11-30**|**Accurate Segmentation of Optic Disc And Cup from Multiple Pseudo-labels by Noise-Aware Learning**|Tengjin Weng et.al.|[2311.18496v1](http://arxiv.org/abs/2311.18496v1)|**[link](https://github.com/wwwtttjjj/mpnn)**|
 |**2023-11-30**|**ESG Accountability Made Easy: DocQA at Your Service**|Lokesh Mishra et.al.|[2311.18481v1](http://arxiv.org/abs/2311.18481v1)|null|
 |**2023-11-29**|**AviationGPT: A Large Language Model for the Aviation Domain**|Liya Wang et.al.|[2311.17686v1](http://arxiv.org/abs/2311.17686v1)|null|
@@ -5176,13 +5191,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Automated Material Properties Extraction For Enhanced Beauty Product Discovery and Makeup Virtual Try-on**|Fatemeh Taheri Dezaki et.al.|[2312.00766v1](http://arxiv.org/abs/2312.00766v1)|null|
+|**2023-12-01**|**Attack Detection Using Item Vector Shift in Matrix Factorisation Recommenders**|Sulthana Shams et.al.|[2312.00512v1](http://arxiv.org/abs/2312.00512v1)|null|
+|**2023-12-01**|**Multiple Testing of Linear Forms for Noisy Matrix Completion**|Wanteng Ma et.al.|[2312.00305v1](http://arxiv.org/abs/2312.00305v1)|null|
 |**2023-11-30**|**HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**|Zhuohao Yin et.al.|[2311.18273v1](http://arxiv.org/abs/2311.18273v1)|**[link](https://github.com/thomas-yin/semeval-2023-task1)**|
 |**2023-11-30**|**Poisoning Attacks Against Contrastive Recommender Systems**|Zongwei Wang et.al.|[2311.18244v1](http://arxiv.org/abs/2311.18244v1)|null|
 |**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683v1](http://arxiv.org/abs/2311.16683v1)|null|
 |**2023-11-28**|**SARDINE: A Simulator for Automated Recommendation in Dynamic and Interactive Environments**|Romain Deffayet et.al.|[2311.16586v1](http://arxiv.org/abs/2311.16586v1)|**[link](https://github.com/naver/sardine)**|
 |**2023-11-27**|**Fine-grained Appearance Transfer with Diffusion Models**|Yuteng Ye et.al.|[2311.16513v1](http://arxiv.org/abs/2311.16513v1)|**[link](https://github.com/babahui/fine-grained-appearance-transfer)**|
 |**2023-11-28**|**ControlRec: Bridging the Semantic Gap between Language Model and Personalized Recommendation**|Junyan Qiu et.al.|[2311.16441v1](http://arxiv.org/abs/2311.16441v1)|null|
-|**2023-11-27**|**Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning**|Xinrui He et.al.|[2311.16334v1](http://arxiv.org/abs/2311.16334v1)|null|
+|**2023-12-01**|**Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning**|Xinrui He et.al.|[2311.16334v2](http://arxiv.org/abs/2311.16334v2)|null|
 |**2023-11-27**|**A Social-aware Gaussian Pre-trained Model for Effective Cold-start Recommendation**|Siwei Liu et.al.|[2311.15790v1](http://arxiv.org/abs/2311.15790v1)|null|
 |**2023-11-28**|**Hide Your Model: A Parameter Transmission-free Federated Recommender System**|Wei Yuan et.al.|[2311.14968v2](http://arxiv.org/abs/2311.14968v2)|null|
 |**2023-11-22**|**A Comparative Analysis of Supportive Navigation on Movie Recommenders**|Mohammad Sualeh Ali et.al.|[2311.13494v1](http://arxiv.org/abs/2311.13494v1)|null|
@@ -6202,6 +6220,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs**|Pei-Chi Lo et.al.|[2312.00353v1](http://arxiv.org/abs/2312.00353v1)|null|
+|**2023-11-30**|**RNA-KG: An ontology-based knowledge graph for representing interactions involving RNA molecules**|Emanuele Cavalleri et.al.|[2312.00183v1](http://arxiv.org/abs/2312.00183v1)|null|
 |**2023-11-29**|**Generation of a Compendium of Transcription Factor Cascades and Identification of Potential Therapeutic Targets using Graph Machine Learning**|Sonish Sivarajkumar et.al.|[2311.17969v1](http://arxiv.org/abs/2311.17969v1)|null|
 |**2023-11-29**|**Biomedical knowledge graph-enhanced prompt generation for large language models**|Karthik Soman et.al.|[2311.17330v1](http://arxiv.org/abs/2311.17330v1)|**[link](https://github.com/BaranziniLab/KG_RAG)**|
 |**2023-11-28**|**Radiology-Aware Model-Based Evaluation Metric for Report Generation**|Amos Calamida et.al.|[2311.16764v1](http://arxiv.org/abs/2311.16764v1)|null|
@@ -7018,6 +7038,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Hypergraph Node Representation Learning with One-Stage Message Passing**|Shilin Qu et.al.|[2312.00336v1](http://arxiv.org/abs/2312.00336v1)|null|
 |**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672v1](http://arxiv.org/abs/2311.18672v1)|**[link](https://github.com/royforestano/2023_gsoc_ml4sci_qmlhep_gnn)**|
 |**2023-11-30**|**Optimizing ZX-Diagrams with Deep Reinforcement Learning**|Maximilian Nägele et.al.|[2311.18588v1](http://arxiv.org/abs/2311.18588v1)|**[link](https://github.com/maxnaeg/zxreinforce)**|
 |**2023-11-30**|**Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking**|Jiaxian Yan et.al.|[2311.18574v1](http://arxiv.org/abs/2311.18574v1)|null|
