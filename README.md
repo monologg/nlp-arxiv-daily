@@ -21,6 +21,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**HALO: An Ontology for Representing Hallucinations in Generative Models**|Navapat Nananukul et.al.|[2312.05209v1](http://arxiv.org/abs/2312.05209v1)|null|
+|**2023-12-08**|**Converting Epics/Stories into Pseudocode using Transformers**|Gaurav Kolhatkar et.al.|[2312.05047v1](http://arxiv.org/abs/2312.05047v1)|null|
+|**2023-12-08**|**Illicit Darkweb Classification via Natural-language Processing: Classifying Illicit Content of Webpages based on Textual Information**|Giuseppe Cascavilla et.al.|[2312.04944v1](http://arxiv.org/abs/2312.04944v1)|null|
+|**2023-12-08**|**Ophtha-LLaMA2: A Large Language Model for Ophthalmology**|Huan Zhao et.al.|[2312.04906v1](http://arxiv.org/abs/2312.04906v1)|null|
+|**2023-12-08**|**How to Determine the Most Powerful Pre-trained Language Model without Brute Force Fine-tuning? An Empirical Survey**|Jun Bai et.al.|[2312.04775v1](http://arxiv.org/abs/2312.04775v1)|null|
+|**2023-12-07**|**The Impact of AI Innovations on U.S. Occupations**|Ali Akbar Septiandri et.al.|[2312.04714v1](http://arxiv.org/abs/2312.04714v1)|null|
+|**2023-12-07**|**Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models**|Victor Agostinelli et.al.|[2312.04691v1](http://arxiv.org/abs/2312.04691v1)|null|
+|**2023-12-07**|**PyThaiNLP: Thai Natural Language Processing in Python**|Wannaphong Phatthiyaphaibun et.al.|[2312.04649v1](http://arxiv.org/abs/2312.04649v1)|**[link](https://github.com/PyThaiNLP/pythainlp)**|
 |**2023-12-07**|**Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment**|Amrit Poudel et.al.|[2312.04463v1](http://arxiv.org/abs/2312.04463v1)|null|
 |**2023-12-07**|**CLadder: A Benchmark to Assess Causal Reasoning Capabilities of Language Models**|Zhijing Jin et.al.|[2312.04350v1](http://arxiv.org/abs/2312.04350v1)|**[link](https://github.com/causalnlp/cladder)**|
 |**2023-12-07**|**Beyond Surface: Probing LLaMA Across Scales and Layers**|Nuo Chen et.al.|[2312.04333v1](http://arxiv.org/abs/2312.04333v1)|**[link](https://github.com/nuochenpku/llama_analysis)**|
@@ -1718,6 +1726,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**LaCour!: Enabling Research on Argumentation in Hearings of the European Court of Human Rights**|Lena Held et.al.|[2312.05061v1](http://arxiv.org/abs/2312.05061v1)|null|
 |**2023-12-03**|**Towards Mitigating Perceived Unfairness in Contracts from a Non-Legal Stakeholder's Perspective**|Anmol Singhal et.al.|[2312.01398v1](http://arxiv.org/abs/2312.01398v1)|null|
 |**2023-12-01**|**The Ethics of Automating Legal Actors**|Josef Valvoda et.al.|[2312.00584v1](http://arxiv.org/abs/2312.00584v1)|null|
 |**2023-11-24**|**Tracing Influence at Scale: A Contrastive Learning Approach to Linking Public Comments and Regulator Responses**|Linzi Xing et.al.|[2311.14871v1](http://arxiv.org/abs/2311.14871v1)|null|
@@ -2325,6 +2334,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Soft Frequency Capping for Improved Ad Click Prediction in Yahoo Gemini Native**|Michal Aharon et.al.|[2312.05052v1](http://arxiv.org/abs/2312.05052v1)|null|
+|**2023-12-08**|**Unbiased Filtering Of Accidental Clicks in Verizon Media Native Advertising**|Yohay Kaplan et.al.|[2312.05017v1](http://arxiv.org/abs/2312.05017v1)|null|
+|**2023-12-08**|**Boosting Prompt-Based Self-Training With Mapping-Free Automatic Verbalizer for Multi-Class Classification**|Yookyung Kho et.al.|[2312.04982v1](http://arxiv.org/abs/2312.04982v1)|**[link](https://github.com/yookyungkho/mav)**|
+|**2023-12-08**|**The ICL Consistency Test**|Lucas Weber et.al.|[2312.04945v1](http://arxiv.org/abs/2312.04945v1)|null|
+|**2023-12-08**|**Illicit Darkweb Classification via Natural-language Processing: Classifying Illicit Content of Webpages based on Textual Information**|Giuseppe Cascavilla et.al.|[2312.04944v1](http://arxiv.org/abs/2312.04944v1)|null|
+|**2023-12-07**|**TOD-Flow: Modeling the Structure of Task-Oriented Dialogues**|Sungryull Sohn et.al.|[2312.04668v1](http://arxiv.org/abs/2312.04668v1)|**[link](https://github.com/srsohn/tod-flow)**|
 |**2023-12-06**|**Comparative Analysis of Multilingual Text Classification & Identification through Deep Learning and Embedding Visualization**|Arinjay Wyawhare et.al.|[2312.03789v1](http://arxiv.org/abs/2312.03789v1)|null|
 |**2023-12-06**|**Think from Words(TFW): Initiating Human-Like Cognition in Large Language Models Through Think from Words for Japanese Text-level Classification**|Chengguang Gan et.al.|[2312.03458v1](http://arxiv.org/abs/2312.03458v1)|null|
 |**2023-12-04**|**An Evaluation Framework for Mapping News Headlines to Event Classes in a Knowledge Graph**|Steve Fonin Mbouadeu et.al.|[2312.02334v1](http://arxiv.org/abs/2312.02334v1)|**[link](https://github.com/mbouadeus/news-headline-event-linking)**|
@@ -3030,6 +3045,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**From Big to Small Without Losing It All: Text Augmentation with ChatGPT for Efficient Sentiment Analysis**|Stanisław Woźniak et.al.|[2312.04720v1](http://arxiv.org/abs/2312.04720v1)|**[link](https://github.com/clarin-pl/text-augumentation-with-chatgpt)**|
+|**2023-12-07**|**Deep Emotions Across Languages: A Novel Approach for Sentiment Propagation in Multilingual WordNets**|Jan Kocoń et.al.|[2312.04715v1](http://arxiv.org/abs/2312.04715v1)|**[link](https://github.com/koconjan/deeprop)**|
 |**2023-12-07**|**GPT-4V with Emotion: A Zero-shot Benchmark for Multimodal Emotion Understanding**|Zheng Lian et.al.|[2312.04293v1](http://arxiv.org/abs/2312.04293v1)|**[link](https://github.com/zeroqiaoba/gpt4v-emotion)**|
 |**2023-11-29**|**Easy Data Augmentation in Sentiment Analysis of Cyberbullying**|Alwan Wirawan et.al.|[2312.03743v1](http://arxiv.org/abs/2312.03743v1)|null|
 |**2023-12-06**|**Corporate Bankruptcy Prediction with Domain-Adapted BERT**|Alex Kim et.al.|[2312.03194v1](http://arxiv.org/abs/2312.03194v1)|null|
@@ -3514,6 +3531,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**DelucionQA: Detecting Hallucinations in Domain-specific Question Answering**|Mobashir Sadat et.al.|[2312.05200v1](http://arxiv.org/abs/2312.05200v1)|**[link](https://github.com/boschresearch/delucionqa)**|
+|**2023-12-08**|**Retrieval-based Video Language Model for Efficient Long Video Question Answering**|Jiaqi Xu et.al.|[2312.04931v1](http://arxiv.org/abs/2312.04931v1)|null|
+|**2023-12-08**|**MoVQA: A Benchmark of Versatile Question-Answering for Long-Form Movie Understanding**|Hongjie Zhang et.al.|[2312.04817v1](http://arxiv.org/abs/2312.04817v1)|null|
+|**2023-12-07**|**Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos**|Mehmet Saygin Seyfioglu et.al.|[2312.04746v1](http://arxiv.org/abs/2312.04746v1)|null|
 |**2023-12-07**|**PCoQA: Persian Conversational Question Answering Dataset**|Hamed Hematian Hemati et.al.|[2312.04362v1](http://arxiv.org/abs/2312.04362v1)|**[link](https://github.com/hamedhematian/pcoqa)**|
 |**2023-12-07**|**Language Model Knowledge Distillation for Efficient Question Answering in Spanish**|Adrián Bazaga et.al.|[2312.04193v1](http://arxiv.org/abs/2312.04193v1)|**[link](https://github.com/adrianbzg/tinyroberta-distillation-qa-es)**|
 |**2023-12-06**|**On the Robustness of Large Multimodal Models Against Image Adversarial Attacks**|Xuanimng Cui et.al.|[2312.03777v1](http://arxiv.org/abs/2312.03777v1)|null|
@@ -4735,6 +4756,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Using Program Knowledge Graph to Uncover Software Vulnerabilities**|M. Xie et.al.|[2312.04818v1](http://arxiv.org/abs/2312.04818v1)|null|
 |**2023-12-07**|**Scalable Knowledge Graph Construction and Inference on Human Genome Variants**|Shivika Prasanna et.al.|[2312.04423v1](http://arxiv.org/abs/2312.04423v1)|null|
 |**2023-12-06**|**Seeing the random forest through the decision trees. Supporting learning health systems from histopathology with machine learning models: Challenges and opportunities**|Ricardo Gonzalez et.al.|[2312.03812v1](http://arxiv.org/abs/2312.03812v1)|null|
 |**2023-12-06**|**Lazy-k: Decoding for Constrained Token Classification**|Arthur Hemmer et.al.|[2312.03367v1](http://arxiv.org/abs/2312.03367v1)|**[link](https://github.com/arthurdevnl/lazyk)**|
@@ -6319,6 +6341,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Beyond Transduction: A Survey on Inductive, Few Shot, and Zero Shot Link Prediction in Knowledge Graphs**|Nicolas Hubert et.al.|[2312.04997v1](http://arxiv.org/abs/2312.04997v1)|null|
+|**2023-12-08**|**Generating Explanations to Understand and Repair Embedding-based Entity Alignment**|Xiaobin Tian et.al.|[2312.04877v1](http://arxiv.org/abs/2312.04877v1)|**[link](https://github.com/txb-nju/exea)**|
+|**2023-12-08**|**Using Program Knowledge Graph to Uncover Software Vulnerabilities**|M. Xie et.al.|[2312.04818v1](http://arxiv.org/abs/2312.04818v1)|null|
 |**2023-12-07**|**Scalable Knowledge Graph Construction and Inference on Human Genome Variants**|Shivika Prasanna et.al.|[2312.04423v1](http://arxiv.org/abs/2312.04423v1)|null|
 |**2023-12-07**|**Synergistic Signals: Exploiting Co-Engagement and Semantic Links via Graph Neural Networks**|Zijie Huang et.al.|[2312.04071v1](http://arxiv.org/abs/2312.04071v1)|null|
 |**2023-12-06**|**Not All Large Language Models (LLMs) Succumb to the "Reversal Curse": A Comparative Study of Deductive Logical Reasoning in BERT and GPT Models**|Jingye Yang et.al.|[2312.03633v1](http://arxiv.org/abs/2312.03633v1)|null|
@@ -7152,6 +7177,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031v1](http://arxiv.org/abs/2312.05031v1)|null|
+|**2023-12-08**|**Not All Negatives AreWorth Attending to: Meta-Bootstrapping Negative Sampling Framework for Link Prediction**|Yakun Wang et.al.|[2312.04815v1](http://arxiv.org/abs/2312.04815v1)|null|
+|**2023-12-07**|**Efficient Large Language Models Fine-Tuning On Graphs**|Rui Xue et.al.|[2312.04737v1](http://arxiv.org/abs/2312.04737v1)|null|
+|**2023-12-07**|**GraphMETRO: Mitigating Complex Distribution Shifts in GNNs via Mixture of Aligned Experts**|Shirley Wu et.al.|[2312.04693v1](http://arxiv.org/abs/2312.04693v1)|null|
+|**2023-12-07**|**Constraints on the trilinear and quartic Higgs couplings from triple Higgs production at the LHC and beyond**|Panagiotis Stylianou et.al.|[2312.04646v1](http://arxiv.org/abs/2312.04646v1)|null|
+|**2023-12-07**|**Relational Deep Learning: Graph Representation Learning on Relational Databases**|Matthias Fey et.al.|[2312.04615v1](http://arxiv.org/abs/2312.04615v1)|null|
 |**2023-12-07**|**Graph Metanetworks for Processing Diverse Neural Architectures**|Derek Lim et.al.|[2312.04501v1](http://arxiv.org/abs/2312.04501v1)|null|
 |**2023-12-07**|**GSGFormer: Generative Social Graph Transformer for Multimodal Pedestrian Trajectory Prediction**|Zhongchang Luo et.al.|[2312.04479v1](http://arxiv.org/abs/2312.04479v1)|null|
 |**2023-12-07**|**Scalable Knowledge Graph Construction and Inference on Human Genome Variants**|Shivika Prasanna et.al.|[2312.04423v1](http://arxiv.org/abs/2312.04423v1)|null|
