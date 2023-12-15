@@ -3584,7 +3584,7 @@ layout: default
 |**2023-12-13**|**Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers**|Haifeng Huang et.al.|[2312.08168v1](http://arxiv.org/abs/2312.08168v1)|**[link](https://github.com/chat-3d/chat-3d-v2)**|
 |**2023-12-13**|**BESTMVQA: A Benchmark Evaluation System for Medical Visual Question Answering**|Xiaojie Hong et.al.|[2312.07867v1](http://arxiv.org/abs/2312.07867v1)|null|
 |**2023-12-12**|**Sentiment analysis in Tourism: Fine-tuning BERT or sentence embeddings concatenation?**|Ibrahim Bouabdallaoui et.al.|[2312.07797v1](http://arxiv.org/abs/2312.07797v1)|null|
-|**2023-12-12**|**SocialStigmaQA: A Benchmark to Uncover Stigma Amplification in Generative Language Models**|Manish Nagireddy et.al.|[2312.07492v1](http://arxiv.org/abs/2312.07492v1)|null|
+|**2023-12-13**|**SocialStigmaQA: A Benchmark to Uncover Stigma Amplification in Generative Language Models**|Manish Nagireddy et.al.|[2312.07492v2](http://arxiv.org/abs/2312.07492v2)|null|
 |**2023-12-12**|**Image Content Generation with Causal Reasoning**|Xiaochuan Li et.al.|[2312.07132v1](http://arxiv.org/abs/2312.07132v1)|**[link](https://github.com/ieit-agi/mix-shannon)**|
 |**2023-12-12**|**Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment**|Utkarsh Mall et.al.|[2312.06960v1](http://arxiv.org/abs/2312.06960v1)|null|
 |**2023-12-12**|**Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack**|Yu Fu et.al.|[2312.06924v1](http://arxiv.org/abs/2312.06924v1)|null|
@@ -7271,7 +7271,7 @@ layout: default
 |**2023-12-13**|**CUTTANA: Scalable Graph Partitioning for Faster Distributed Graph Databases and Analytics**|Milad Rezaei Hajidehi et.al.|[2312.08356v1](http://arxiv.org/abs/2312.08356v1)|null|
 |**2023-12-13**|**On the verification of Embeddings using Hybrid Markov Logic**|Anup Shakya et.al.|[2312.08287v1](http://arxiv.org/abs/2312.08287v1)|null|
 |**2023-12-13**|**Patch-wise Graph Contrastive Learning for Image Translation**|Chanyong Jung et.al.|[2312.08223v1](http://arxiv.org/abs/2312.08223v1)|null|
-|**2023-12-13**|**Curriculum-Enhanced Residual Soft An-Isotropic Normalization for Over-smoothness in Deep GNNs**|Jin Li et.al.|[2312.08221v1](http://arxiv.org/abs/2312.08221v1)|null|
+|**2023-12-14**|**Curriculum-Enhanced Residual Soft An-Isotropic Normalization for Over-smoothness in Deep GNNs**|Jin Li et.al.|[2312.08221v2](http://arxiv.org/abs/2312.08221v2)|**[link](https://github.com/jslijin/research-paper-codes)**|
 |**2023-12-13**|**Adversarial Attacks on Graph Neural Networks based Spatial Resource Management in P2P Wireless Communications**|Ahmad Ghasemi et.al.|[2312.08181v1](http://arxiv.org/abs/2312.08181v1)|null|
 |**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901v1](http://arxiv.org/abs/2312.07901v1)|null|
 |**2023-12-13**|**Securing Graph Neural Networks in MLaaS: A Comprehensive Realization of Query-based Integrity Verification**|Bang Wu et.al.|[2312.07870v1](http://arxiv.org/abs/2312.07870v1)|null|
