@@ -25,9 +25,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Faithful Persona-based Conversational Dataset Generation with Large Language Models**|Pegah Jandaghi et.al.|[2312.10007v1](http://arxiv.org/abs/2312.10007v1)|null|
+|**2023-12-15**|**LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language**|Pierpaolo Basile et.al.|[2312.09993v1](http://arxiv.org/abs/2312.09993v1)|null|
+|**2023-12-15**|**A Novel Dataset for Financial Education Text Simplification in Spanish**|Nelson Perez-Rojas et.al.|[2312.09897v1](http://arxiv.org/abs/2312.09897v1)|null|
+|**2023-12-15**|**Deep Unsupervised Domain Adaptation for Time Series Classification: a Benchmark**|Hassan Ismail Fawaz et.al.|[2312.09857v1](http://arxiv.org/abs/2312.09857v1)|**[link](https://github.com/ericssonresearch/uda-4-tsc)**|
+|**2023-12-15**|**Algorithms for automatic intents extraction and utterances classification for goal-oriented dialogue systems**|Leonid Legashev et.al.|[2312.09658v1](http://arxiv.org/abs/2312.09658v1)|null|
+|**2023-12-15**|**Picking the Underused Heads: A Network Pruning Perspective of Attention Head Selection for Fusing Dialogue Coreference Information**|Zhengyuan Liu et.al.|[2312.09541v1](http://arxiv.org/abs/2312.09541v1)|null|
+|**2023-12-15**|**Riveter: Measuring Power and Social Dynamics Between Entities**|Maria Antoniak et.al.|[2312.09536v1](http://arxiv.org/abs/2312.09536v1)|**[link](https://github.com/maartensap/riveter-nlp)**|
+|**2023-12-14**|**Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision**|Collin Burns et.al.|[2312.09390v1](http://arxiv.org/abs/2312.09390v1)|null|
 |**2023-12-13**|**N-Gram Unsupervised Compoundation and Feature Injection for Better Symbolic Music Understanding**|Jinhao Tian et.al.|[2312.08931v1](http://arxiv.org/abs/2312.08931v1)|**[link](https://github.com/wouuyoauin/ng-midiformer)**|
-|**2023-12-14**|**Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis**|Yafei Hu et.al.|[2312.08782v1](http://arxiv.org/abs/2312.08782v1)|null|
-|**2023-12-14**|**VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense**|Yi Xin et.al.|[2312.08733v1](http://arxiv.org/abs/2312.08733v1)|null|
+|**2023-12-15**|**Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis**|Yafei Hu et.al.|[2312.08782v2](http://arxiv.org/abs/2312.08782v2)|null|
+|**2023-12-15**|**VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding**|Yi Xin et.al.|[2312.08733v2](http://arxiv.org/abs/2312.08733v2)|null|
 |**2023-12-14**|**A Comparative Analysis of Fine-Tuned LLMs and Few-Shot Learning of LLMs for Financial Sentiment Analysis**|Sorouralsadat Fatemi et.al.|[2312.08725v1](http://arxiv.org/abs/2312.08725v1)|null|
 |**2023-12-14**|**ChatSOS: LLM-based knowledge Q&A system for safety engineering**|Haiyang Tang et.al.|[2312.08629v1](http://arxiv.org/abs/2312.08629v1)|null|
 |**2023-12-13**|**A Survey of Generative AI for Intelligent Transportation Systems**|Huan Yan et.al.|[2312.08248v1](http://arxiv.org/abs/2312.08248v1)|null|
@@ -1758,6 +1766,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Data and Approaches for German Text simplification -- towards an Accessibility-enhanced Communication**|Thorben Schomacker et.al.|[2312.09966v1](http://arxiv.org/abs/2312.09966v1)|null|
 |**2023-12-13**|**A Deep Learning-Based System for Automatic Case Summarization**|Minh Duong et.al.|[2312.07824v1](http://arxiv.org/abs/2312.07824v1)|null|
 |**2023-12-08**|**LaCour!: Enabling Research on Argumentation in Hearings of the European Court of Human Rights**|Lena Held et.al.|[2312.05061v1](http://arxiv.org/abs/2312.05061v1)|null|
 |**2023-12-03**|**Towards Mitigating Perceived Unfairness in Contracts from a Non-Legal Stakeholder's Perspective**|Anmol Singhal et.al.|[2312.01398v1](http://arxiv.org/abs/2312.01398v1)|null|
@@ -1955,6 +1964,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Generative Context-aware Fine-tuning of Self-supervised Speech Models**|Suwon Shon et.al.|[2312.09895v1](http://arxiv.org/abs/2312.09895v1)|null|
 |**2023-12-14**|**Identifying Planetary Names in Astronomy Papers: A Multi-Step Approach**|Golnaz Shapurian et.al.|[2312.08579v1](http://arxiv.org/abs/2312.08579v1)|null|
 |**2023-12-13**|**Robust Few-Shot Named Entity Recognition with Boundary Discrimination and Correlation Purification**|Xiaojun Xue et.al.|[2312.07961v1](http://arxiv.org/abs/2312.07961v1)|**[link](https://github.com/ckgconstruction/bdcp)**|
 |**2023-12-13**|**Learn or Recall? Revisiting Incremental Learning with Pre-trained Language Models**|Junhao Zheng et.al.|[2312.07887v1](http://arxiv.org/abs/2312.07887v1)|**[link](https://github.com/zzz47zzz/pretrained-lm-for-incremental-learning)**|
@@ -2375,6 +2385,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Discovering Highly Influential Shortcut Reasoning: An Automated Template-Free Approach**|Daichi Haraguchi et.al.|[2312.09718v1](http://arxiv.org/abs/2312.09718v1)|**[link](https://github.com/homoscribens/shortcut_reasoning)**|
+|**2023-12-14**|**Well-calibrated Confidence Measures for Multi-label Text Classification with a Large Number of Labels**|Lysimachos Maltoudoglou et.al.|[2312.09304v1](http://arxiv.org/abs/2312.09304v1)|null|
 |**2023-12-14**|**Object Recognition from Scientific Document based on Compartment Refinement Framework**|Jinghong Li et.al.|[2312.09038v1](http://arxiv.org/abs/2312.09038v1)|null|
 |**2023-12-14**|**Dissecting vocabulary biases datasets through statistical testing and automated data augmentation for artifact mitigation in Natural Language Inference**|Dat Thanh Nguyen et.al.|[2312.08747v1](http://arxiv.org/abs/2312.08747v1)|**[link](https://github.com/datngu/nli-artifacts)**|
 |**2023-12-13**|**Learn or Recall? Revisiting Incremental Learning with Pre-trained Language Models**|Junhao Zheng et.al.|[2312.07887v1](http://arxiv.org/abs/2312.07887v1)|**[link](https://github.com/zzz47zzz/pretrained-lm-for-incremental-learning)**|
@@ -3095,8 +3107,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Generative Context-aware Fine-tuning of Self-supervised Speech Models**|Suwon Shon et.al.|[2312.09895v1](http://arxiv.org/abs/2312.09895v1)|null|
+|**2023-12-15**|**Discovering Highly Influential Shortcut Reasoning: An Automated Template-Free Approach**|Daichi Haraguchi et.al.|[2312.09718v1](http://arxiv.org/abs/2312.09718v1)|**[link](https://github.com/homoscribens/shortcut_reasoning)**|
 |**2023-12-14**|**A Comparative Analysis of Fine-Tuned LLMs and Few-Shot Learning of LLMs for Financial Sentiment Analysis**|Sorouralsadat Fatemi et.al.|[2312.08725v1](http://arxiv.org/abs/2312.08725v1)|null|
-|**2023-12-13**|**A Novel Energy based Model Mechanism for Multi-modal Aspect-Based Sentiment Analysis**|Tianshuo Peng et.al.|[2312.08084v1](http://arxiv.org/abs/2312.08084v1)|null|
+|**2023-12-15**|**A Novel Energy based Model Mechanism for Multi-modal Aspect-Based Sentiment Analysis**|Tianshuo Peng et.al.|[2312.08084v2](http://arxiv.org/abs/2312.08084v2)|null|
 |**2023-12-12**|**Sentiment analysis in Tourism: Fine-tuning BERT or sentence embeddings concatenation?**|Ibrahim Bouabdallaoui et.al.|[2312.07797v1](http://arxiv.org/abs/2312.07797v1)|null|
 |**2023-12-12**|**Multimodal Sentiment Analysis: Perceived vs Induced Sentiments**|Aditi Aggarwal et.al.|[2312.07627v1](http://arxiv.org/abs/2312.07627v1)|null|
 |**2023-12-10**|**Perceiving University Student's Opinions from Google App Reviews**|Sakshi Ranjan et.al.|[2312.06705v1](http://arxiv.org/abs/2312.06705v1)|null|
@@ -3589,6 +3603,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**|Renat Aksitov et.al.|[2312.10003v1](http://arxiv.org/abs/2312.10003v1)|null|
+|**2023-12-15**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785v1](http://arxiv.org/abs/2312.09785v1)|null|
+|**2023-12-15**|**GSQA: An End-to-End Model for Generative Spoken Question Answering**|Min-Han Shih et.al.|[2312.09781v1](http://arxiv.org/abs/2312.09781v1)|null|
+|**2023-12-15**|**Extending Context Window of Large Language Models via Semantic Compression**|Weizhi Fei et.al.|[2312.09571v1](http://arxiv.org/abs/2312.09571v1)|null|
+|**2023-12-14**|**LLM-MARS: Large Language Model for Behavior Tree Generation and NLP-enhanced Dialogue in Multi-Agent Robot Systems**|Artem Lykov et.al.|[2312.09348v1](http://arxiv.org/abs/2312.09348v1)|null|
 |**2023-12-14**|**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**|Jinguo Zhu et.al.|[2312.09251v1](http://arxiv.org/abs/2312.09251v1)|**[link](https://github.com/ailab-cvc/vl-gpt)**|
 |**2023-12-14**|**Entity-Augmented Code Generation**|Anton Shapkin et.al.|[2312.08976v1](http://arxiv.org/abs/2312.08976v1)|null|
 |**2023-12-12**|**Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens**|Fan Ma et.al.|[2312.08870v1](http://arxiv.org/abs/2312.08870v1)|null|
@@ -4831,6 +4850,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**GEAR-Up: Generative AI and External Knowledge-based Retrieval Upgrading Scholarly Article Searches for Systematic Reviews**|Kaushik Roy et.al.|[2312.09948v1](http://arxiv.org/abs/2312.09948v1)|null|
+|**2023-12-15**|**Information Extraction from Unstructured data using Augmented-AI and Computer Vision**|Aditya Parikh et.al.|[2312.09880v1](http://arxiv.org/abs/2312.09880v1)|null|
 |**2023-12-14**|**Training-free Zero-shot Composed Image Retrieval with Local Concept Reranking**|Shitong Sun et.al.|[2312.08924v1](http://arxiv.org/abs/2312.08924v1)|null|
 |**2023-12-13**|**Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**|Yuanbo Wen et.al.|[2312.07849v1](http://arxiv.org/abs/2312.07849v1)|**[link](https://github.com/chdwyb/rshazenet)**|
 |**2023-12-08**|**AI-driven Structure Detection and Information Extraction from Historical Cadastral Maps (Early 19th Century Franciscean Cadastre in the Province of Styria) and Current High-resolution Satellite and Aerial Imagery for Remote Sensing**|Wolfgang Göderle et.al.|[2312.07560v1](http://arxiv.org/abs/2312.07560v1)|null|
@@ -5379,6 +5400,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**CETN: Contrast-enhanced Through Network for CTR Prediction**|Honghao Li et.al.|[2312.09715v1](http://arxiv.org/abs/2312.09715v1)|null|
+|**2023-12-15**|**Multi-Modality is All You Need for Transferable Recommender Systems**|Youhua Li et.al.|[2312.09602v1](http://arxiv.org/abs/2312.09602v1)|**[link](https://github.com/icde24/pmmrec)**|
+|**2023-12-15**|**MONET: Modality-Embracing Graph Convolutional Network and Target-Aware Attention for Multimedia Recommendation**|Yungi Kim et.al.|[2312.09511v1](http://arxiv.org/abs/2312.09511v1)|**[link](https://github.com/kimyungi/monet)**|
 |**2023-12-14**|**Recommender systems may enhance the discovery of novelties**|Giordano De Marzo et.al.|[2312.08824v1](http://arxiv.org/abs/2312.08824v1)|null|
 |**2023-12-14**|**Hybrid Content Dynamic Recommendation System Based in Adapted Tags and Applied to Digital Library**|Thiago Bellotti Furtado et.al.|[2312.08584v1](http://arxiv.org/abs/2312.08584v1)|null|
 |**2023-12-12**|**Multi-criteria recommendation systems to foster online grocery**|Manar Mohamed Hafez et.al.|[2312.08393v1](http://arxiv.org/abs/2312.08393v1)|null|
@@ -6436,6 +6460,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**GEAR-Up: Generative AI and External Knowledge-based Retrieval Upgrading Scholarly Article Searches for Systematic Reviews**|Kaushik Roy et.al.|[2312.09948v1](http://arxiv.org/abs/2312.09948v1)|null|
+|**2023-12-15**|**MORE: A Multimodal Object-Entity Relation Extraction Dataset with a Benchmark Evaluation**|Liang He et.al.|[2312.09753v1](http://arxiv.org/abs/2312.09753v1)|null|
+|**2023-12-15**|**Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction**|Guangxuan Song et.al.|[2312.09744v1](http://arxiv.org/abs/2312.09744v1)|null|
+|**2023-12-15**|**nuScenes Knowledge Graph -- A comprehensive semantic representation of traffic scenes for trajectory prediction**|Leon Mlodzian et.al.|[2312.09676v1](http://arxiv.org/abs/2312.09676v1)|**[link](https://github.com/boschresearch/nuscenes_knowledge_graph)**|
 |**2023-12-14**|**NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning**|Bo Xiong et.al.|[2312.09219v1](http://arxiv.org/abs/2312.09219v1)|**[link](https://github.com/xiongbo010/neste)**|
 |**2023-12-14**|**Towards Trustworthy AI Software Development Assistance**|Daniel Maninger et.al.|[2312.09126v1](http://arxiv.org/abs/2312.09126v1)|null|
 |**2023-12-14**|**Identifying Planetary Names in Astronomy Papers: A Multi-Step Approach**|Golnaz Shapurian et.al.|[2312.08579v1](http://arxiv.org/abs/2312.08579v1)|null|
@@ -7286,6 +7314,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Concept Prerequisite Relation Prediction by Using Permutation-Equivariant Directed Graph Neural Networks**|Xiran Qu et.al.|[2312.09802v1](http://arxiv.org/abs/2312.09802v1)|null|
+|**2023-12-15**|**Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction**|Guangxuan Song et.al.|[2312.09744v1](http://arxiv.org/abs/2312.09744v1)|null|
+|**2023-12-15**|**GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy**|Tianhao Peng et.al.|[2312.09708v1](http://arxiv.org/abs/2312.09708v1)|null|
+|**2023-12-15**|**nuScenes Knowledge Graph -- A comprehensive semantic representation of traffic scenes for trajectory prediction**|Leon Mlodzian et.al.|[2312.09676v1](http://arxiv.org/abs/2312.09676v1)|**[link](https://github.com/boschresearch/nuscenes_knowledge_graph)**|
+|**2023-12-15**|**Rethinking Causal Relationships Learning in Graph Neural Networks**|Hang Gao et.al.|[2312.09613v1](http://arxiv.org/abs/2312.09613v1)|**[link](https://github.com/yaoyao-yaoyao-cell/crcg)**|
+|**2023-12-15**|**Hierarchical Graph Pattern Understanding for Zero-Shot VOS**|Gensheng Pei et.al.|[2312.09525v1](http://arxiv.org/abs/2312.09525v1)|**[link](https://github.com/nust-machine-intelligence-laboratory/hgpu)**|
 |**2023-12-14**|**COMBHelper: A Neural Approach to Reduce Search Space for Graph Combinatorial Problems**|Hao Tian et.al.|[2312.09086v1](http://arxiv.org/abs/2312.09086v1)|**[link](https://github.com/1041877801/COMBHelper)**|
 |**2023-12-14**|**Graph Neural Networks with Diverse Spectral Filtering**|Jingwei Guo et.al.|[2312.09041v1](http://arxiv.org/abs/2312.09041v1)|**[link](https://github.com/jingweio/dsf)**|
 |**2023-12-14**|**Uncertainty in GNN Learning Evaluations: A Comparison Between Measures for Quantifying Randomness in GNN Community Detection**|William Leeney et.al.|[2312.09015v1](http://arxiv.org/abs/2312.09015v1)|null|
