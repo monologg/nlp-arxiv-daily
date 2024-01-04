@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Mining Temporal Attack Patterns from Cyberthreat Intelligence Reports**|Md Rayhanur Rahman et.al.|[2401.01883v1](http://arxiv.org/abs/2401.01883v1)|null|
+|**2024-01-03**|**Iterative Mask Filling: An Effective Text Augmentation Method Using Masked Language Modeling**|Himmet Toprak Kesgin et.al.|[2401.01830v1](http://arxiv.org/abs/2401.01830v1)|null|
+|**2024-01-03**|**Text mining arXiv: a look through quantitative finance papers**|Michele Leonardo Bianchi et.al.|[2401.01751v1](http://arxiv.org/abs/2401.01751v1)|null|
+|**2024-01-03**|**Predicting challenge moments from students' discourse: A comparison of GPT-4 to two traditional natural language processing approaches**|Wannapon Suraworachet et.al.|[2401.01692v1](http://arxiv.org/abs/2401.01692v1)|null|
+|**2024-01-03**|**Towards a Foundation Purchasing Model: Pretrained Generative Autoregression on Transaction Sequences**|Piotr Skalski et.al.|[2401.01641v1](http://arxiv.org/abs/2401.01641v1)|**[link](https://github.com/featurespace/foundation-model-paper)**|
+|**2024-01-03**|**Test-Time Personalization with Meta Prompt for Gaze Estimation**|Huan Liu et.al.|[2401.01577v1](http://arxiv.org/abs/2401.01577v1)|null|
+|**2024-01-03**|**Hallucinations in Neural Automatic Speech Recognition: Identifying Errors and Hallucinatory Models**|Rita Frieske et.al.|[2401.01572v1](http://arxiv.org/abs/2401.01572v1)|null|
+|**2024-01-03**|**LORE++: Logical Location Regression Network for Table Structure Recognition with Pre-training**|Rujiao Long et.al.|[2401.01522v1](http://arxiv.org/abs/2401.01522v1)|null|
+|**2024-01-03**|**Practical Guidelines for the Selection and Evaluation of NLP Techniques in RE**|Mehrdad Sabetzadeh et.al.|[2401.01508v1](http://arxiv.org/abs/2401.01508v1)|null|
+|**2024-01-03**|**Natural Language Processing and Multimodal Stock Price Prediction**|Kevin Taylor et.al.|[2401.01487v1](http://arxiv.org/abs/2401.01487v1)|null|
 |**2024-01-02**|**LLM Harmony: Multi-Agent Communication for Problem Solving**|Sumedh Rasal et.al.|[2401.01312v1](http://arxiv.org/abs/2401.01312v1)|null|
 |**2024-01-02**|**Fairness Certification for Natural Language Processing and Large Language Models**|Vincent Freiberger et.al.|[2401.01262v1](http://arxiv.org/abs/2401.01262v1)|null|
 |**2024-01-02**|**Imperio: Language-Guided Backdoor Attacks for Arbitrary Model Control**|Ka-Ho Chow et.al.|[2401.01085v1](http://arxiv.org/abs/2401.01085v1)|null|
@@ -2019,6 +2029,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**A First Look at Information Highlighting in Stack Overflow Answers**|Shahla Shaan Ahmed et.al.|[2401.01472v1](http://arxiv.org/abs/2401.01472v1)|**[link](https://github.com/shaoweiwang2010/rep_2022_information_highlight_so)**|
 |**2024-01-01**|**Large Language Models aren't all that you need**|Kiran Voderhobli Holla et.al.|[2401.00698v1](http://arxiv.org/abs/2401.00698v1)|null|
 |**2023-12-31**|**Exploring the Effectiveness of Instruction Tuning in Biomedical Language Processing**|Omid Rohanian et.al.|[2401.00579v1](http://arxiv.org/abs/2401.00579v1)|null|
 |**2023-12-30**|**L3Cube-MahaSocialNER: A Social Media based Marathi NER Dataset and BERT models**|Harsh Chaudhari et.al.|[2401.00170v1](http://arxiv.org/abs/2401.00170v1)|**[link](https://github.com/l3cube-pune/MarathiNLP)**|
@@ -3189,7 +3200,7 @@
 |---|---|---|---|---|
 |**2024-01-02**|**Unveiling Comparative Sentiments in Vietnamese Product Reviews: A Sequential Classification Framework**|Ha Le et.al.|[2401.01108v1](http://arxiv.org/abs/2401.01108v1)|null|
 |**2024-01-01**|**Large language model for Bible sentiment analysis: Sermon on the Mount**|Mahek Vora et.al.|[2401.00689v1](http://arxiv.org/abs/2401.00689v1)|null|
-|**2023-12-31**|**Kernel Density Estimation for Multiclass Quantification**|Alejandro Moreo et.al.|[2401.00490v1](http://arxiv.org/abs/2401.00490v1)|null|
+|**2024-01-02**|**Kernel Density Estimation for Multiclass Quantification**|Alejandro Moreo et.al.|[2401.00490v2](http://arxiv.org/abs/2401.00490v2)|null|
 |**2023-12-30**|**Evaluation is all you need. Prompting Generative Large Language Models for Annotation Tasks in the Social Sciences. A Primer using Open Models**|Maximilian Weber et.al.|[2401.00284v1](http://arxiv.org/abs/2401.00284v1)|null|
 |**2023-12-28**|**Perspectives of Global and Hong Kong's Media on China's Belt and Road Initiative**|Le Cong Khoo et.al.|[2312.17013v1](http://arxiv.org/abs/2312.17013v1)|null|
 |**2023-12-28**|**Hiding in Plain Sight: Towards the Science of Linguistic Steganography**|Leela Raj-Sankar et.al.|[2312.16840v1](http://arxiv.org/abs/2312.16840v1)|null|
@@ -3702,6 +3713,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Detours for Navigating Instructional Videos**|Kumar Ashutosh et.al.|[2401.01823v1](http://arxiv.org/abs/2401.01823v1)|null|
+|**2024-01-03**|**Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering**|Pierre Erbacher et.al.|[2401.01780v1](http://arxiv.org/abs/2401.01780v1)|null|
+|**2024-01-03**|**Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs**|Phillip Schneider et.al.|[2401.01711v1](http://arxiv.org/abs/2401.01711v1)|**[link](https://github.com/sebischair/llm-sp-cqa)**|
+|**2024-01-03**|**GPT-4V(ision) is a Generalist Web Agent, if Grounded**|Boyuan Zheng et.al.|[2401.01614v1](http://arxiv.org/abs/2401.01614v1)|**[link](https://github.com/osu-nlp-group/seeact)**|
+|**2024-01-03**|**Glance and Focus: Memory Prompting for Multi-Event Video Question Answering**|Ziyi Bai et.al.|[2401.01529v1](http://arxiv.org/abs/2401.01529v1)|**[link](https://github.com/byz0e/glance-focus)**|
+|**2024-01-03**|**Answering from Sure to Uncertain: Uncertainty-Aware Curriculum Learning for Video Question Answering**|Haopeng Li et.al.|[2401.01510v1](http://arxiv.org/abs/2401.01510v1)|null|
+|**2024-01-03**|**Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports**|Haopeng Li et.al.|[2401.01505v1](http://arxiv.org/abs/2401.01505v1)|null|
+|**2024-01-03**|**Question-Answering Based Summarization of Electronic Health Records using Retrieval Augmented Generation**|Walid Saba et.al.|[2401.01469v1](http://arxiv.org/abs/2401.01469v1)|null|
 |**2023-12-31**|**LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models**|Qianxi Li et.al.|[2401.00907v1](http://arxiv.org/abs/2401.00907v1)|null|
 |**2023-12-31**|**GeoGalactica: A Scientific Large Language Model in Geoscience**|Zhouhan Lin et.al.|[2401.00434v1](http://arxiv.org/abs/2401.00434v1)|**[link](https://github.com/geobrain-ai/geogalactica)**|
 |**2023-12-31**|**keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM**|Chaojie Wang et.al.|[2401.00426v1](http://arxiv.org/abs/2401.00426v1)|null|
@@ -5012,6 +5031,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Concurrent Brainstorming & Hypothesis Satisfying: An Iterative Framework for Enhanced Retrieval-Augmented Generation (R2CBR3H-SR)**|Arash Shahmansoori et.al.|[2401.01835v1](http://arxiv.org/abs/2401.01835v1)|**[link](https://github.com/arash-shahmansoori/r2cbr3h-sr)**|
 |**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|null|
 |**2023-12-30**|**L3Cube-MahaSocialNER: A Social Media based Marathi NER Dataset and BERT models**|Harsh Chaudhari et.al.|[2401.00170v1](http://arxiv.org/abs/2401.00170v1)|**[link](https://github.com/l3cube-pune/MarathiNLP)**|
 |**2023-12-29**|**Large Language Models for Generative Information Extraction: A Survey**|Derong Xu et.al.|[2312.17617v1](http://arxiv.org/abs/2312.17617v1)|null|
@@ -5580,6 +5600,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Poisoning Attacks against Recommender Systems: A Survey**|Zongwei Wang et.al.|[2401.01527v1](http://arxiv.org/abs/2401.01527v1)|**[link](https://github.com/coderwzw/arlib)**|
 |**2024-01-02**|**Contrastive Sequential Interaction Network Learning on Co-Evolving Riemannian Spaces**|Li Sun et.al.|[2401.01243v1](http://arxiv.org/abs/2401.01243v1)|null|
 |**2023-12-29**|**Xorbits: Automating Operator Tiling for Distributed Data Science**|Weizheng Lu et.al.|[2401.00865v1](http://arxiv.org/abs/2401.00865v1)|null|
 |**2024-01-01**|**Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models**|Wenqi Sun et.al.|[2401.00797v1](http://arxiv.org/abs/2401.00797v1)|null|
@@ -6684,6 +6705,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs**|Phillip Schneider et.al.|[2401.01711v1](http://arxiv.org/abs/2401.01711v1)|**[link](https://github.com/sebischair/llm-sp-cqa)**|
 |**2024-01-02**|**Unifying Structured Data as Graph for Data-to-Text Pre-Training**|Shujie Li et.al.|[2401.01183v1](http://arxiv.org/abs/2401.01183v1)|**[link](https://github.com/alibabaresearch/damo-convai)**|
 |**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065v1](http://arxiv.org/abs/2401.01065v1)|null|
 |**2024-01-01**|**The Earth is Flat? Unveiling Factual Errors in Large Language Models**|Wenxuan Wang et.al.|[2401.00761v1](http://arxiv.org/abs/2401.00761v1)|null|
@@ -7574,6 +7596,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874v1](http://arxiv.org/abs/2401.01874v1)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
+|**2024-01-03**|**On the hardness of learning under symmetries**|Bobak T. Kiani et.al.|[2401.01869v1](http://arxiv.org/abs/2401.01869v1)|null|
+|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846v1](http://arxiv.org/abs/2401.01846v1)|null|
+|**2024-01-03**|**A quatum inspired neural network for geometric modeling**|Weitao Du et.al.|[2401.01801v1](http://arxiv.org/abs/2401.01801v1)|null|
+|**2024-01-03**|**MLPs Compass: What is learned when MLPs are combined with PLMs?**|Li Zhou et.al.|[2401.01667v1](http://arxiv.org/abs/2401.01667v1)|null|
+|**2024-01-03**|**On the Expressive Power of Graph Neural Networks**|Ashwin Nalwade et.al.|[2401.01626v1](http://arxiv.org/abs/2401.01626v1)|null|
+|**2024-01-01**|**Strong Transitivity Relations and Graph Neural Networks**|Yassin Mohamadi et.al.|[2401.01384v1](http://arxiv.org/abs/2401.01384v1)|null|
 |**2024-01-02**|**Graph Elimination Networks**|Shuo Wang et.al.|[2401.01233v1](http://arxiv.org/abs/2401.01233v1)|null|
 |**2024-01-02**|**Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning**|Li Sun et.al.|[2401.01232v1](http://arxiv.org/abs/2401.01232v1)|**[link](https://github.com/riemanngraph/motifrgc)**|
 |**2024-01-01**|**Saliency-Aware Regularized Graph Neural Network**|Wenjie Pei et.al.|[2401.00755v1](http://arxiv.org/abs/2401.00755v1)|null|
