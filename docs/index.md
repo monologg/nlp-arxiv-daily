@@ -25,7 +25,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-09**|**Low-Resource Vision Challenges for Foundation Models**|Yunhua Zhang et.al.|[2401.04716v1](http://arxiv.org/abs/2401.04716v1)|null|
+|**2024-01-10**|**MuTox: Universal MUltilingual Audio-based TOXicity Dataset and Zero-shot Detector**|Marta R. Costa-jussà et.al.|[2401.05060v1](http://arxiv.org/abs/2401.05060v1)|null|
+|**2024-01-09**|**Entity Recognition from Colloquial Text**|Tamara Babaian et.al.|[2401.04853v1](http://arxiv.org/abs/2401.04853v1)|null|
+|**2024-01-09**|**MoSECroT: Model Stitching with Static Word Embeddings for Crosslingual Zero-shot Transfer**|Haotian Ye et.al.|[2401.04821v1](http://arxiv.org/abs/2401.04821v1)|null|
+|**2024-01-09**|**Phishing Website Detection through Multi-Model Analysis of HTML Content**|Furkan Çolhak et.al.|[2401.04820v1](http://arxiv.org/abs/2401.04820v1)|null|
+|**2024-01-10**|**Low-Resource Vision Challenges for Foundation Models**|Yunhua Zhang et.al.|[2401.04716v2](http://arxiv.org/abs/2401.04716v2)|null|
 |**2024-01-09**|**TechGPT-2.0: A large language model project to solve the task of knowledge graph construction**|Jiaqi Wang et.al.|[2401.04507v1](http://arxiv.org/abs/2401.04507v1)|**[link](https://github.com/neukg/techgpt-2.0)**|
 |**2024-01-09**|**LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training**|Khoi M. Le et.al.|[2401.04348v1](http://arxiv.org/abs/2401.04348v1)|**[link](https://github.com/phkhanhtrinh23/LAMPAT)**|
 |**2024-01-09**|**Know Your Needs Better: Towards Structured Understanding of Marketer Demands with Analogical Reasoning Augmented LLMs**|Junjie Wang et.al.|[2401.04319v1](http://arxiv.org/abs/2401.04319v1)|null|
@@ -2489,10 +2493,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**A Novel Prompt-tuning Method: Incorporating Scenario-specific Concepts into a Verbalizer**|Yong Ma et.al.|[2401.05204v1](http://arxiv.org/abs/2401.05204v1)|null|
 |**2024-01-09**|**DepressionEmo: A novel dataset for multilabel classification of depression emotions**|Abu Bakar Siddiqur Rahman et.al.|[2401.04655v1](http://arxiv.org/abs/2401.04655v1)|**[link](https://github.com/abubakarsiddiqurrahman/depressionemo)**|
 |**2024-01-09**|**StarCraftImage: A Dataset For Prototyping Spatial Reasoning Methods For Multi-Agent Environments**|Sean Kulinski et.al.|[2401.04290v1](http://arxiv.org/abs/2401.04290v1)|null|
 |**2024-01-08**|**IDoFew: Intermediate Training Using Dual-Clustering in Language Models for Few Labels Text Classification**|Abdullah Alsuhaibani et.al.|[2401.04025v1](http://arxiv.org/abs/2401.04025v1)|null|
-|**2024-01-09**|**The Butterfly Effect of Altering Prompts: How Small Changes and Jailbreaks Affect Large Language Model Performance**|Abel Salinas et.al.|[2401.03729v2](http://arxiv.org/abs/2401.03729v2)|null|
+|**2024-01-09**|**The Butterfly Effect of Altering Prompts: How Small Changes and Jailbreaks Affect Large Language Model Performance**|Abel Salinas et.al.|[2401.03729v2](http://arxiv.org/abs/2401.03729v2)|**[link](https://github.com/abel2code/the_butterfly_effect_of_prompts)**|
 |**2024-01-07**|**Text Classification Based on Knowledge Graphs and Improved Attention Mechanism**|Siyu Li et.al.|[2401.03591v1](http://arxiv.org/abs/2401.03591v1)|null|
 |**2024-01-06**|**Quartet Logic: A Four-Step Reasoning (QLFR) framework for advancing Short Text Classification**|Hui Wu et.al.|[2401.03158v1](http://arxiv.org/abs/2401.03158v1)|null|
 |**2024-01-06**|**TimeGraphs: Graph-based Temporal Reasoning**|Paridhi Maheshwari et.al.|[2401.03134v1](http://arxiv.org/abs/2401.03134v1)|null|
@@ -3239,6 +3244,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**Pre-trained Large Language Models for Financial Sentiment Analysis**|Wei Luo et.al.|[2401.05215v1](http://arxiv.org/abs/2401.05215v1)|null|
 |**2024-01-08**|**We Need to Talk About Classification Evaluation Metrics in NLP**|Peter Vickers et.al.|[2401.03831v1](http://arxiv.org/abs/2401.03831v1)|null|
 |**2024-01-01**|**Fine-tuning and Utilization Methods of Domain-specific LLMs**|Cheonsu Jeong et.al.|[2401.02981v1](http://arxiv.org/abs/2401.02981v1)|null|
 |**2024-01-02**|**Unveiling Comparative Sentiments in Vietnamese Product Reviews: A Sequential Classification Framework**|Ha Le et.al.|[2401.01108v1](http://arxiv.org/abs/2401.01108v1)|**[link](https://github.com/hallie304/vlsp23-comparative-opinion-mining)**|
@@ -3756,8 +3762,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**|Jiawei Chen et.al.|[2401.05163v1](http://arxiv.org/abs/2401.05163v1)|null|
+|**2024-01-09**|**Answer Retrieval in Legal Community Question Answering**|Arian Askari et.al.|[2401.04852v1](http://arxiv.org/abs/2401.04852v1)|**[link](https://github.com/arian-askari/answerretrieval-legal)**|
 |**2024-01-09**|**Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers**|Gal Yona et.al.|[2401.04695v1](http://arxiv.org/abs/2401.04695v1)|null|
-|**2024-01-09**|**The Critique of Critique**|Shichao Sun et.al.|[2401.04518v1](http://arxiv.org/abs/2401.04518v1)|null|
+|**2024-01-09**|**The Critique of Critique**|Shichao Sun et.al.|[2401.04518v1](http://arxiv.org/abs/2401.04518v1)|**[link](https://github.com/gair-nlp/metacritique)**|
 |**2024-01-09**|**Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding**|Zilong Wang et.al.|[2401.04398v1](http://arxiv.org/abs/2401.04398v1)|null|
 |**2024-01-08**|**RePLan: Robotic Replanning with Perception and Language Models**|Marta Skreta et.al.|[2401.04157v1](http://arxiv.org/abs/2401.04157v1)|null|
 |**2024-01-08**|**STAIR: Spatial-Temporal Reasoning with Auditable Intermediate Results for Video Question Answering**|Yueqian Wang et.al.|[2401.03901v1](http://arxiv.org/abs/2401.03901v1)|null|
@@ -5093,6 +5101,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**INACIA: Integrating Large Language Models in Brazilian Audit Courts: Opportunities and Challenges**|Jayr Pereira et.al.|[2401.05273v1](http://arxiv.org/abs/2401.05273v1)|null|
+|**2024-01-10**|**From low resource information extraction to identifying influential nodes in knowledge graphs**|Erica Cai et.al.|[2401.04915v1](http://arxiv.org/abs/2401.04915v1)|null|
 |**2024-01-09**|**Non-Deterministic Extension of Plasma Wind Tunnel Data Calibrated Model Predictions to Flight Conditions**|Przemyslaw Rostkowski et.al.|[2401.04352v1](http://arxiv.org/abs/2401.04352v1)|null|
 |**2024-01-07**|**CAPTAIN at COLIEE 2023: Efficient Methods for Legal Information Retrieval and Entailment Tasks**|Chau Nguyen et.al.|[2401.03551v1](http://arxiv.org/abs/2401.03551v1)|**[link](https://github.com/nguyen2015/captain-coliee2023)**|
 |**2024-01-05**|**UMIE: Unified Multimodal Information Extraction with Instruction Tuning**|Lin Sun et.al.|[2401.03082v1](http://arxiv.org/abs/2401.03082v1)|**[link](https://github.com/ZUCC-AI/UMIE)**|
@@ -5667,6 +5677,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**Can Probabilistic Feedback Drive User Impacts in Online Platforms?**|Jessica Dai et.al.|[2401.05304v1](http://arxiv.org/abs/2401.05304v1)|null|
+|**2024-01-10**|**Accelerating Maximal Biclique Enumeration on GPUs**|Chou-Ying Hsieh et.al.|[2401.05039v1](http://arxiv.org/abs/2401.05039v1)|null|
+|**2024-01-10**|**Prompting Large Language Models for Recommender Systems: A Comprehensive Framework and Empirical Analysis**|Lanling Xu et.al.|[2401.04997v1](http://arxiv.org/abs/2401.04997v1)|null|
+|**2024-01-10**|**User Embedding Model for Personalized Language Prompting**|Sumanth Doddapaneni et.al.|[2401.04858v1](http://arxiv.org/abs/2401.04858v1)|null|
 |**2024-01-09**|**Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems**|Ngoc Luyen Le et.al.|[2401.04474v1](http://arxiv.org/abs/2401.04474v1)|null|
 |**2024-01-09**|**Fine-Grained Embedding Dimension Optimization During Training for Recommender Systems**|Qinyi Luo et.al.|[2401.04408v1](http://arxiv.org/abs/2401.04408v1)|null|
 |**2024-01-09**|**Probabilistic emotion and sentiment modelling of patient-reported experiences**|Curtis Murray et.al.|[2401.04367v1](http://arxiv.org/abs/2401.04367v1)|**[link](https://github.com/curtis-murray/perssupplementarymaterials)**|
@@ -6785,6 +6799,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**From low resource information extraction to identifying influential nodes in knowledge graphs**|Erica Cai et.al.|[2401.04915v1](http://arxiv.org/abs/2401.04915v1)|null|
 |**2024-01-09**|**TechGPT-2.0: A large language model project to solve the task of knowledge graph construction**|Jiaqi Wang et.al.|[2401.04507v1](http://arxiv.org/abs/2401.04507v1)|**[link](https://github.com/neukg/techgpt-2.0)**|
 |**2024-01-09**|**Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems**|Ngoc Luyen Le et.al.|[2401.04474v1](http://arxiv.org/abs/2401.04474v1)|null|
 |**2024-01-09**|**Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning**|Jiaan Wang et.al.|[2401.04361v1](http://arxiv.org/abs/2401.04361v1)|**[link](https://github.com/kxinwang2023/enco)**|
@@ -7683,6 +7698,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
+|**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223v1](http://arxiv.org/abs/2401.05223v1)|null|
+|**2024-01-10**|**MGNet: Learning Correspondences via Multiple Graphs**|Luanyuan Dai et.al.|[2401.04984v1](http://arxiv.org/abs/2401.04984v1)|null|
+|**2024-01-10**|**LPAC: Learnable Perception-Action-Communication Loops with Applications to Coverage Control**|Saurav Agarwal et.al.|[2401.04855v1](http://arxiv.org/abs/2401.04855v1)|null|
+|**2024-01-09**|**GNNShap: Fast and Accurate GNN Explanations using Shapley Values**|Selahattin Akkas et.al.|[2401.04829v1](http://arxiv.org/abs/2401.04829v1)|null|
 |**2024-01-09**|**Coupling Graph Neural Networks with Fractional Order Continuous Dynamics: A Robustness Study**|Qiyu Kang et.al.|[2401.04331v1](http://arxiv.org/abs/2401.04331v1)|null|
 |**2024-01-08**|**Explaining the Power of Topological Data Analysis in Graph Machine Learning**|Funmilola Mary Taiwo et.al.|[2401.04250v1](http://arxiv.org/abs/2401.04250v1)|**[link](https://github.com/phunmey/xtda-paper)**|
 |**2024-01-07**|**Global-Aware Enhanced Spatial-Temporal Graph Recurrent Networks: A New Framework For Traffic Flow Prediction**|Haiyang Liu et.al.|[2401.04135v1](http://arxiv.org/abs/2401.04135v1)|null|
