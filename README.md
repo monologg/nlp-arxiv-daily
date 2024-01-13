@@ -3772,7 +3772,7 @@
 |**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081v1](http://arxiv.org/abs/2401.06081v1)|null|
 |**2024-01-11**|**Hallucination Benchmark in Medical Visual Question Answering**|Jinge Wu et.al.|[2401.05827v1](http://arxiv.org/abs/2401.05827v1)|null|
 |**2024-01-11**|**Probing Structured Semantics Understanding and Generation of Language Models via Question Answering**|Jinxin Liu et.al.|[2401.05777v1](http://arxiv.org/abs/2401.05777v1)|null|
-|**2024-01-11**|**Cross-modal Retrieval for Knowledge-based Visual Question Answering**|Paul Lerner et.al.|[2401.05736v1](http://arxiv.org/abs/2401.05736v1)|null|
+|**2024-01-11**|**Cross-modal Retrieval for Knowledge-based Visual Question Answering**|Paul Lerner et.al.|[2401.05736v1](http://arxiv.org/abs/2401.05736v1)|**[link](https://github.com/paullerner/viquae)**|
 |**2024-01-10**|**MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**|Jiawei Chen et.al.|[2401.05163v1](http://arxiv.org/abs/2401.05163v1)|null|
 |**2024-01-09**|**Answer Retrieval in Legal Community Question Answering**|Arian Askari et.al.|[2401.04852v1](http://arxiv.org/abs/2401.04852v1)|**[link](https://github.com/arian-askari/answerretrieval-legal)**|
 |**2024-01-09**|**Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers**|Gal Yona et.al.|[2401.04695v1](http://arxiv.org/abs/2401.04695v1)|null|
