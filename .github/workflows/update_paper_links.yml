@@ -14,8 +14,8 @@ on:
 #     - main
 
 env:
-  GITHUB_USER_NAME: monologg
-  GITHUB_USER_EMAIL: adieujw@gmail.com
+  GITHUB_USER_NAME: nlp-arxiv-daily-bot
+  GITHUB_USER_EMAIL: nlp-arxiv-daily-bot@gmail.com
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
