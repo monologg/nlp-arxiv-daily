@@ -21,6 +21,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Supervised Fine-tuning in turn Improves Visual Foundation Models**|Xiaohu Jiang et.al.|[2401.10222v1](http://arxiv.org/abs/2401.10222v1)|null|
+|**2024-01-18**|**Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap**|Xingyu Wu et.al.|[2401.10034v1](http://arxiv.org/abs/2401.10034v1)|null|
+|**2024-01-18**|**Framing Analysis of Health-Related Narratives: Conspiracy versus Mainstream Media**|Markus Reiter-Haas et.al.|[2401.10030v1](http://arxiv.org/abs/2401.10030v1)|null|
+|**2024-01-18**|**Better Explain Transformers by Illuminating Important Information**|Linxin Song et.al.|[2401.09972v1](http://arxiv.org/abs/2401.09972v1)|**[link](https://github.com/linxins97/mask-lrp)**|
+|**2024-01-18**|**A Survey on Hardware Accelerators for Large Language Models**|Christoforos Kachris et.al.|[2401.09890v1](http://arxiv.org/abs/2401.09890v1)|null|
+|**2024-01-18**|**Decades of Transformation: Evolution of the NASA Astrophysics Data System's Infrastructure**|Alberto Accomazzi et.al.|[2401.09685v1](http://arxiv.org/abs/2401.09685v1)|null|
+|**2024-01-17**|**Learning Shortcuts: On the Misleading Promise of NLU in Language Models**|Geetanjali Bihani et.al.|[2401.09615v1](http://arxiv.org/abs/2401.09615v1)|null|
+|**2024-01-17**|**BERTologyNavigator: Advanced Question Answering with BERT-based Semantics**|Shreya Rajpal et.al.|[2401.09553v1](http://arxiv.org/abs/2401.09553v1)|null|
 |**2024-01-17**|**Learning from Emotions, Demographic Information and Implicit User Feedback in Task-Oriented Document-Grounded Dialogues**|Dominic Petrak et.al.|[2401.09248v1](http://arxiv.org/abs/2401.09248v1)|**[link](https://github.com/ukplab/fedi)**|
 |**2024-01-17**|**Dynamic Relation Transformer for Contextual Text Block Detection**|Jiawei Wang et.al.|[2401.09232v1](http://arxiv.org/abs/2401.09232v1)|null|
 |**2024-01-17**|**Narratives of Collective Action in YouTube's Discourse on Veganism**|Arianna Pera et.al.|[2401.09210v1](http://arxiv.org/abs/2401.09210v1)|null|
@@ -2524,6 +2532,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Marrying Adapters and Mixup to Efficiently Enhance the Adversarial Robustness of Pre-Trained Language Models for Text Classification**|Tuc Nguyen et.al.|[2401.10111v1](http://arxiv.org/abs/2401.10111v1)|null|
+|**2024-01-18**|**New classification method for Equivalence Classes on $S^1/Z_2$ and $T^2/Z_3$ Orbifolds**|Kota Takeuchi et.al.|[2401.09809v1](http://arxiv.org/abs/2401.09809v1)|null|
+|**2024-01-18**|**Leveraging Biases in Large Language Models: "bias-kNN'' for Effective Few-Shot Learning**|Yong Zhang et.al.|[2401.09783v1](http://arxiv.org/abs/2401.09783v1)|null|
+|**2024-01-17**|**Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis**|Jie Hao et.al.|[2401.09587v1](http://arxiv.org/abs/2401.09587v1)|**[link](https://github.com/mingruiliu-ml-lab/bilevel-optimization-under-unbounded-smoothness)**|
+|**2024-01-17**|**Improving Classification Performance With Human Feedback: Label a few, we label the rest**|Natan Vidra et.al.|[2401.09555v1](http://arxiv.org/abs/2401.09555v1)|null|
 |**2024-01-17**|**Machines Do See Color: A Guideline to Classify Different Forms of Racist Discourse in Large Corpora**|Diana Davila Gordillo et.al.|[2401.09333v1](http://arxiv.org/abs/2401.09333v1)|null|
 |**2024-01-16**|**A Reproducibility Study of Goldilocks: Just-Right Tuning of BERT for TAR**|Xinyu Mao et.al.|[2401.08104v1](http://arxiv.org/abs/2401.08104v1)|**[link](https://github.com/ielab/goldilocks-reproduce)**|
 |**2024-01-17**|**Phenotyping calcification in vascular tissues using artificial intelligence**|Mehdi Ramezanpour et.al.|[2401.07825v2](http://arxiv.org/abs/2401.07825v2)|null|
@@ -3285,6 +3298,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Evolutionary Multi-Objective Optimization of Large Language Model Prompts for Balancing Sentiments**|Jill Baumann et.al.|[2401.09862v1](http://arxiv.org/abs/2401.09862v1)|null|
 |**2024-01-17**|**Explain Thyself Bully: Sentiment Aided Cyberbullying Detection with Explanation**|Krishanu Maity et.al.|[2401.09023v1](http://arxiv.org/abs/2401.09023v1)|**[link](https://github.com/jhaprince/bullyexplain)**|
 |**2024-01-17**|**Landscape of Generative AI in Global News: Topics, Sentiments, and Spatiotemporal Analysis**|Lu Xian et.al.|[2401.08899v1](http://arxiv.org/abs/2401.08899v1)|null|
 |**2024-01-16**|**EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis**|Zhiwei Liu et.al.|[2401.08508v1](http://arxiv.org/abs/2401.08508v1)|null|
@@ -3817,6 +3831,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**ChatQA: Building GPT-4 Level Conversational QA Models**|Zihan Liu et.al.|[2401.10225v1](http://arxiv.org/abs/2401.10225v1)|null|
+|**2024-01-18**|**Power in Numbers: Robust reading comprehension by finetuning with four adversarial sentences per example**|Ariel Marcus et.al.|[2401.10091v1](http://arxiv.org/abs/2401.10091v1)|null|
+|**2024-01-18**|**Better Explain Transformers by Illuminating Important Information**|Linxin Song et.al.|[2401.09972v1](http://arxiv.org/abs/2401.09972v1)|**[link](https://github.com/linxins97/mask-lrp)**|
+|**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883v1](http://arxiv.org/abs/2401.09883v1)|**[link](https://github.com/cvi-szu/qa-clims)**|
+|**2024-01-18**|**Instant Answering in E-Commerce Buyer-Seller Messaging**|Besnik Fetahu et.al.|[2401.09785v1](http://arxiv.org/abs/2401.09785v1)|null|
+|**2024-01-17**|**BERTologyNavigator: Advanced Question Answering with BERT-based Semantics**|Shreya Rajpal et.al.|[2401.09553v1](http://arxiv.org/abs/2401.09553v1)|null|
 |**2024-01-17**|**QAnswer: Towards Question Answering Search over Websites**|Kunpeng Guo et.al.|[2401.09175v1](http://arxiv.org/abs/2401.09175v1)|null|
 |**2024-01-17**|**Fine-tuning Strategies for Domain Specific Question Answering under Low Annotation Budget Constraints**|Kunpeng Guo et.al.|[2401.09168v1](http://arxiv.org/abs/2401.09168v1)|null|
 |**2024-01-17**|**Knowledge Pyramid: A Novel Hierarchical Reasoning Structure for Generalized Knowledge Augmentation and Inference**|Qinghua Huang et.al.|[2401.09070v1](http://arxiv.org/abs/2401.09070v1)|null|
@@ -5179,6 +5199,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Large Language Models for Scientific Information Extraction: An Empirical Study for Virology**|Mahsa Shamsabadi et.al.|[2401.10040v1](http://arxiv.org/abs/2401.10040v1)|null|
+|**2024-01-18**|**Distantly Supervised Morpho-Syntactic Model for Relation Extraction**|Nicolas Gutehrlé et.al.|[2401.10002v1](http://arxiv.org/abs/2401.10002v1)|null|
+|**2024-01-18**|**Sketch-Guided Constrained Decoding for Boosting Blackbox Large Language Models without Logit Access**|Saibo Geng et.al.|[2401.09967v1](http://arxiv.org/abs/2401.09967v1)|null|
+|**2024-01-18**|**Decades of Transformation: Evolution of the NASA Astrophysics Data System's Infrastructure**|Alberto Accomazzi et.al.|[2401.09685v1](http://arxiv.org/abs/2401.09685v1)|null|
 |**2024-01-17**|**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion**|Yu-Ying Yeh et.al.|[2401.09416v1](http://arxiv.org/abs/2401.09416v1)|null|
 |**2024-01-17**|**UniVIE: A Unified Label Space Approach to Visual Information Extraction from Form-like Documents**|Kai Hu et.al.|[2401.09220v1](http://arxiv.org/abs/2401.09220v1)|null|
 |**2024-01-16**|**S3M: Semantic Segmentation Sparse Mapping for UAVs with RGB-D Camera**|Thanh Nguyen Canh et.al.|[2401.08134v1](http://arxiv.org/abs/2401.08134v1)|null|
@@ -5762,6 +5786,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Wallets' explorations across non-fungible token collections**|Seonbin Jo et.al.|[2401.10138v1](http://arxiv.org/abs/2401.10138v1)|null|
+|**2024-01-18**|**EfficientRec an unlimited user-item scale recommendation system based on clustering and users interaction embedding profile**|Vu Hong Quan et.al.|[2401.09693v1](http://arxiv.org/abs/2401.09693v1)|**[link](https://github.com/quanvu0996/efficientrec)**|
+|**2024-01-17**|**Handling Large-scale Cardinality in building recommendation systems**|Dhruva Dixith Kurra et.al.|[2401.09572v1](http://arxiv.org/abs/2401.09572v1)|null|
 |**2024-01-17**|**UOEP: User-Oriented Exploration Policy for Enhancing Long-Term User Experiences in Recommender Systems**|Changshuo Zhang et.al.|[2401.09034v1](http://arxiv.org/abs/2401.09034v1)|null|
 |**2024-01-17**|**Cascading Reinforcement Learning**|Yihan Du et.al.|[2401.08961v1](http://arxiv.org/abs/2401.08961v1)|null|
 |**2024-01-16**|**Revealing the Hidden Impact of Top-N Metrics on Optimization in Recommender Systems**|Lukas Wegmeth et.al.|[2401.08444v1](http://arxiv.org/abs/2401.08444v1)|null|
@@ -6901,6 +6928,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**BERTologyNavigator: Advanced Question Answering with BERT-based Semantics**|Shreya Rajpal et.al.|[2401.09553v1](http://arxiv.org/abs/2401.09553v1)|null|
 |**2024-01-17**|**QAnswer: Towards Question Answering Search over Websites**|Kunpeng Guo et.al.|[2401.09175v1](http://arxiv.org/abs/2401.09175v1)|null|
 |**2024-01-17**|**Knowledge Pyramid: A Novel Hierarchical Reasoning Structure for Generalized Knowledge Augmentation and Inference**|Qinghua Huang et.al.|[2401.09070v1](http://arxiv.org/abs/2401.09070v1)|null|
 |**2024-01-16**|**Supporting Student Decisions on Learning Recommendations: An LLM-Based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring**|Hasan Abu-Rasheed et.al.|[2401.08517v1](http://arxiv.org/abs/2401.08517v1)|null|
@@ -7816,8 +7844,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Through the Dual-Prism: A Spectral Perspective on Graph Data Augmentation for Graph Classification**|Yutong Xia et.al.|[2401.09953v1](http://arxiv.org/abs/2401.09953v1)|null|
+|**2024-01-18**|**HGAttack: Transferable Heterogeneous Graph Adversarial Attack**|He Zhao et.al.|[2401.09945v1](http://arxiv.org/abs/2401.09945v1)|null|
+|**2024-01-18**|**Infinite-Horizon Graph Filters: Leveraging Power Series to Enhance Sparse Information Aggregation**|Ruizhe Zhang et.al.|[2401.09943v1](http://arxiv.org/abs/2401.09943v1)|**[link](https://github.com/GPFN-Anonymous/GPFN)**|
+|**2024-01-18**|**Crystal Transformer Based Universal Atomic Embedding for Accurate and Transferable Prediction of Materials Properties**|Luozhijie Jin et.al.|[2401.09755v1](http://arxiv.org/abs/2401.09755v1)|null|
+|**2024-01-18**|**Universally Robust Graph Neural Networks by Preserving Neighbor Similarity**|Yulin Zhu et.al.|[2401.09754v1](http://arxiv.org/abs/2401.09754v1)|null|
+|**2024-01-18**|**Predicting Viral Rumors and Vulnerable Users for Infodemic Surveillance**|Xuan Zhang et.al.|[2401.09724v1](http://arxiv.org/abs/2401.09724v1)|**[link](https://github.com/jadecurl/predicting-viral-rumors-and-vulnerable-users)**|
+|**2024-01-18**|**EfficientRec an unlimited user-item scale recommendation system based on clustering and users interaction embedding profile**|Vu Hong Quan et.al.|[2401.09693v1](http://arxiv.org/abs/2401.09693v1)|**[link](https://github.com/quanvu0996/efficientrec)**|
 |**2024-01-17**|**BENO: Boundary-embedded Neural Operators for Elliptic PDEs**|Haixin Wang et.al.|[2401.09323v1](http://arxiv.org/abs/2401.09323v1)|**[link](https://github.com/ai4science-westlakeu/beno)**|
-|**2024-01-17**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193v1](http://arxiv.org/abs/2401.09193v1)|null|
+|**2024-01-17**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193v1](http://arxiv.org/abs/2401.09193v1)|**[link](https://github.com/gdl-unive/histogram-intersection-kernel)**|
 |**2024-01-17**|**Understanding Heterophily for Graph Neural Networks**|Junfu Wang et.al.|[2401.09125v1](http://arxiv.org/abs/2401.09125v1)|null|
 |**2024-01-17**|**Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering**|Jingwei Guo et.al.|[2401.09071v1](http://arxiv.org/abs/2401.09071v1)|null|
 |**2024-01-16**|**Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness**|Bohang Zhang et.al.|[2401.08514v1](http://arxiv.org/abs/2401.08514v1)|**[link](https://github.com/subgraph23/homomorphism-expressivity)**|
