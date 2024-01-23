@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Temporal Blind Spots in Large Language Models**|Jonas Wallat et.al.|[2401.12078v1](http://arxiv.org/abs/2401.12078v1)|**[link](https://github.com/jwallat/temporalblindspots)**|
+|**2024-01-22**|**NLP-based Relation Extraction Methods in RE**|Quim Motger et.al.|[2401.12075v1](http://arxiv.org/abs/2401.12075v1)|null|
+|**2024-01-22**|**Cross-lingual Transfer Learning for Javanese Dependency Parsing**|Fadli Aulawi Al Ghiffari et.al.|[2401.12072v1](http://arxiv.org/abs/2401.12072v1)|null|
+|**2024-01-22**|**Synergizing Machine Learning & Symbolic Methods: A Survey on Hybrid Approaches to Natural Language Processing**|Rrubaa Panchendrarajan et.al.|[2401.11972v1](http://arxiv.org/abs/2401.11972v1)|null|
+|**2024-01-22**|**Knowledge Navigation: Inferring the Interlocking Map of Knowledge from Research Trajectories**|Shibing Xiang et.al.|[2401.11742v1](http://arxiv.org/abs/2401.11742v1)|**[link](https://github.com/xiangshb/Knowledge-Navigation)**|
+|**2024-01-22**|**Revolutionizing Finance with LLMs: An Overview of Applications and Insights**|Huaqin Zhao et.al.|[2401.11641v1](http://arxiv.org/abs/2401.11641v1)|null|
+|**2024-01-21**|**Simple Domain Adaptation for Sparse Retrievers**|Mathias Vast et.al.|[2401.11509v1](http://arxiv.org/abs/2401.11509v1)|null|
+|**2024-01-21**|**Integration of Large Language Models in Control of EHD Pumps for Precise Color Synthesis**|Yanhong Peng et.al.|[2401.11500v1](http://arxiv.org/abs/2401.11500v1)|null|
+|**2024-01-21**|**Towards Better Inclusivity: A Diverse Tweet Corpus of English Varieties**|Nhi Pham et.al.|[2401.11487v1](http://arxiv.org/abs/2401.11487v1)|null|
+|**2024-01-21**|**AttentionLego: An Open-Source Building Block For Spatially-Scalable Large Language Model Accelerator With Processing-In-Memory Technology**|Rongqing Cong et.al.|[2401.11459v1](http://arxiv.org/abs/2401.11459v1)|null|
 |**2024-01-19**|**Advancements in eHealth Data Analytics through Natural Language Processing and Deep Learning**|Elena-Simona Apostol et.al.|[2401.10850v1](http://arxiv.org/abs/2401.10850v1)|null|
 |**2024-01-19**|**Data Augmentation for Traffic Classification**|Chao Wang et.al.|[2401.10754v1](http://arxiv.org/abs/2401.10754v1)|null|
 |**2024-01-19**|**Structured Code Representations Enable Data-Efficient Adaptation of Code Language Models**|Mayank Agarwal et.al.|[2401.10716v1](http://arxiv.org/abs/2401.10716v1)|null|
@@ -2107,6 +2117,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-21**|**Majority or Minority: Data Imbalance Learning Method for Named Entity Recognition**|Sota Nemoto et.al.|[2401.11431v1](http://arxiv.org/abs/2401.11431v1)|null|
+|**2024-01-21**|**Using Large Language Model for End-to-End Chinese ASR and NER**|Yuang Li et.al.|[2401.11382v1](http://arxiv.org/abs/2401.11382v1)|null|
+|**2024-01-19**|**Mining experimental data from Materials Science literature with Large Language Models**|Luca Foppiano et.al.|[2401.11052v1](http://arxiv.org/abs/2401.11052v1)|**[link](https://github.com/lfoppiano/matsci-lumen)**|
+|**2024-01-19**|**The Radiation Oncology NLP Database**|Zhengliang Liu et.al.|[2401.10995v1](http://arxiv.org/abs/2401.10995v1)|**[link](https://github.com/zl-liu/radiation-oncology-nlp-database)**|
 |**2024-01-19**|**A survey on recent advances in named entity recognition**|Imed Keraghel et.al.|[2401.10825v1](http://arxiv.org/abs/2401.10825v1)|null|
 |**2024-01-15**|**EMBRE: Entity-aware Masking for Biomedical Relation Extraction**|Mingjie Li et.al.|[2401.07877v1](http://arxiv.org/abs/2401.07877v1)|null|
 |**2024-01-15**|**Taec: a Manually annotated text dataset for trait and phenotype extraction and entity linking in wheat breeding literature**|Claire Nédellec et.al.|[2401.07447v1](http://arxiv.org/abs/2401.07447v1)|null|
@@ -2543,12 +2557,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-20**|**Projected Belief Networks With Discriminative Alignment for Acoustic Event Classification: Rivaling State of the Art CNNs**|Paul M. Baggenstoss et.al.|[2401.11199v1](http://arxiv.org/abs/2401.11199v1)|null|
+|**2024-01-20**|**Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities**|Georgios Ioannides et.al.|[2401.11143v1](http://arxiv.org/abs/2401.11143v1)|null|
+|**2024-01-19**|**The Radiation Oncology NLP Database**|Zhengliang Liu et.al.|[2401.10995v1](http://arxiv.org/abs/2401.10995v1)|**[link](https://github.com/zl-liu/radiation-oncology-nlp-database)**|
 |**2024-01-18**|**Marrying Adapters and Mixup to Efficiently Enhance the Adversarial Robustness of Pre-Trained Language Models for Text Classification**|Tuc Nguyen et.al.|[2401.10111v1](http://arxiv.org/abs/2401.10111v1)|null|
 |**2024-01-18**|**New classification method for Equivalence Classes on $S^1/Z_2$ and $T^2/Z_3$ Orbifolds**|Kota Takeuchi et.al.|[2401.09809v1](http://arxiv.org/abs/2401.09809v1)|null|
 |**2024-01-18**|**Leveraging Biases in Large Language Models: "bias-kNN'' for Effective Few-Shot Learning**|Yong Zhang et.al.|[2401.09783v1](http://arxiv.org/abs/2401.09783v1)|null|
 |**2024-01-17**|**Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis**|Jie Hao et.al.|[2401.09587v1](http://arxiv.org/abs/2401.09587v1)|**[link](https://github.com/mingruiliu-ml-lab/bilevel-optimization-under-unbounded-smoothness)**|
 |**2024-01-17**|**Improving Classification Performance With Human Feedback: Label a few, we label the rest**|Natan Vidra et.al.|[2401.09555v1](http://arxiv.org/abs/2401.09555v1)|null|
-|**2024-01-17**|**Machines Do See Color: A Guideline to Classify Different Forms of Racist Discourse in Large Corpora**|Diana Davila Gordillo et.al.|[2401.09333v1](http://arxiv.org/abs/2401.09333v1)|null|
+|**2024-01-20**|**Machines Do See Color: A Guideline to Classify Different Forms of Racist Discourse in Large Corpora**|Diana Davila Gordillo et.al.|[2401.09333v2](http://arxiv.org/abs/2401.09333v2)|null|
 |**2024-01-16**|**A Reproducibility Study of Goldilocks: Just-Right Tuning of BERT for TAR**|Xinyu Mao et.al.|[2401.08104v1](http://arxiv.org/abs/2401.08104v1)|**[link](https://github.com/ielab/goldilocks-reproduce)**|
 |**2024-01-17**|**Phenotyping calcification in vascular tissues using artificial intelligence**|Mehdi Ramezanpour et.al.|[2401.07825v2](http://arxiv.org/abs/2401.07825v2)|null|
 |**2024-01-15**|**Harnessing the Power of Beta Scoring in Deep Active Learning for Multi-Label Text Classification**|Wei Tan et.al.|[2401.07395v1](http://arxiv.org/abs/2401.07395v1)|null|
@@ -3309,6 +3326,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**MInD: Improving Multimodal Sentiment Analysis via Multimodal Information Disentanglement**|Weichen Dai et.al.|[2401.11818v1](http://arxiv.org/abs/2401.11818v1)|null|
+|**2024-01-22**|**Speak It Out: Solving Symbol-Related Problems with Symbol-to-Language Conversion for Language Models**|Yile Wang et.al.|[2401.11725v1](http://arxiv.org/abs/2401.11725v1)|null|
+|**2024-01-21**|**Confidence Preservation Property in Knowledge Distillation Abstractions**|Dmitry Vengertsev et.al.|[2401.11365v1](http://arxiv.org/abs/2401.11365v1)|null|
+|**2024-01-19**|**BioFinBERT: Finetuning Large Language Models (LLMs) to Analyze Sentiment of Press Releases and Financial Text Around Inflection Points of Biotech Stocks**|Valentina Aparicio et.al.|[2401.11011v1](http://arxiv.org/abs/2401.11011v1)|null|
 |**2024-01-19**|**The "Colonial Impulse" of Natural Language Processing: An Audit of Bengali Sentiment Analysis Tools and Their Identity-based Biases**|Dipto Das et.al.|[2401.10535v1](http://arxiv.org/abs/2401.10535v1)|null|
 |**2024-01-18**|**Evolutionary Multi-Objective Optimization of Large Language Model Prompts for Balancing Sentiments**|Jill Baumann et.al.|[2401.09862v1](http://arxiv.org/abs/2401.09862v1)|null|
 |**2024-01-17**|**Explain Thyself Bully: Sentiment Aided Cyberbullying Detection with Explanation**|Krishanu Maity et.al.|[2401.09023v1](http://arxiv.org/abs/2401.09023v1)|**[link](https://github.com/jhaprince/bullyexplain)**|
@@ -3843,6 +3864,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**|Boyuan Chen et.al.|[2401.12168v1](http://arxiv.org/abs/2401.12168v1)|null|
+|**2024-01-22**|**Speak It Out: Solving Symbol-Related Problems with Symbol-to-Language Conversion for Language Models**|Yile Wang et.al.|[2401.11725v1](http://arxiv.org/abs/2401.11725v1)|null|
+|**2024-01-21**|**MedLM: Exploring Language Models for Medical Question Answering Systems**|Niraj Yagnik et.al.|[2401.11389v1](http://arxiv.org/abs/2401.11389v1)|null|
+|**2024-01-20**|**Prompt-RAG: Pioneering Vector Embedding-Free Retrieval-Augmented Generation in Niche Domains, Exemplified by Korean Medicine**|Bongsu Kang et.al.|[2401.11246v1](http://arxiv.org/abs/2401.11246v1)|null|
+|**2024-01-19**|**The Radiation Oncology NLP Database**|Zhengliang Liu et.al.|[2401.10995v1](http://arxiv.org/abs/2401.10995v1)|**[link](https://github.com/zl-liu/radiation-oncology-nlp-database)**|
 |**2024-01-19**|**Reinforcement learning for question answering in programming domain using public community scoring as a human feedback**|Alexey Gorbatovski et.al.|[2401.10882v1](http://arxiv.org/abs/2401.10882v1)|null|
 |**2024-01-19**|**FinLLMs: A Framework for Financial Reasoning Dataset Generation with Large Language Models**|Ziqiang Yuan et.al.|[2401.10744v1](http://arxiv.org/abs/2401.10744v1)|null|
 |**2024-01-19**|**Dynamic Q&A of Clinical Documents with Large Language Models**|Ran Elgedawy et.al.|[2401.10733v1](http://arxiv.org/abs/2401.10733v1)|null|
@@ -5217,6 +5243,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**MInD: Improving Multimodal Sentiment Analysis via Multimodal Information Disentanglement**|Weichen Dai et.al.|[2401.11818v1](http://arxiv.org/abs/2401.11818v1)|null|
+|**2024-01-21**|**SEBERTNets: Sequence Enhanced BERT Networks for Event Entity Extraction Tasks Oriented to the Finance Field**|Congqing He et.al.|[2401.11408v1](http://arxiv.org/abs/2401.11408v1)|**[link](https://github.com/hecongqing/CCKS2019_EventEntityExtraction_Rank5)**|
+|**2024-01-20**|**Exploiting Duality in Open Information Extraction with Predicate Prompt**|Zhen Chen et.al.|[2401.11107v1](http://arxiv.org/abs/2401.11107v1)|**[link](https://github.com/ccczhen/dualoie)**|
+|**2024-01-19**|**Mining experimental data from Materials Science literature with Large Language Models**|Luca Foppiano et.al.|[2401.11052v1](http://arxiv.org/abs/2401.11052v1)|**[link](https://github.com/lfoppiano/matsci-lumen)**|
 |**2024-01-19**|**Name Tagging Under Domain Shift via Metric Learning for Life Sciences**|Hongyi Liu et.al.|[2401.10472v1](http://arxiv.org/abs/2401.10472v1)|null|
 |**2024-01-18**|**Large Language Models for Scientific Information Extraction: An Empirical Study for Virology**|Mahsa Shamsabadi et.al.|[2401.10040v1](http://arxiv.org/abs/2401.10040v1)|null|
 |**2024-01-18**|**Distantly Supervised Morpho-Syntactic Model for Relation Extraction**|Nicolas Gutehrlé et.al.|[2401.10002v1](http://arxiv.org/abs/2401.10002v1)|null|
@@ -5805,6 +5835,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**NLP-based Relation Extraction Methods in RE**|Quim Motger et.al.|[2401.12075v1](http://arxiv.org/abs/2401.12075v1)|null|
+|**2024-01-22**|**SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation**|Ci-Siang Lin et.al.|[2401.11791v1](http://arxiv.org/abs/2401.11791v1)|null|
+|**2024-01-22**|**Domain-Aware Cross-Attention for Cross-domain Recommendation**|Yuhao Luo et.al.|[2401.11705v1](http://arxiv.org/abs/2401.11705v1)|null|
+|**2024-01-21**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632v1](http://arxiv.org/abs/2401.11632v1)|null|
+|**2024-01-21**|**Enhancing Recommendation Diversity by Re-ranking with Large Language Models**|Diego Carraro et.al.|[2401.11506v1](http://arxiv.org/abs/2401.11506v1)|null|
+|**2024-01-21**|**D2K: Turning Historical Data into Retrievable Knowledge for Recommender Systems**|Jiarui Qin et.al.|[2401.11478v1](http://arxiv.org/abs/2401.11478v1)|null|
+|**2024-01-21**|**On-Device Recommender Systems: A Comprehensive Survey**|Hongzhi Yin et.al.|[2401.11441v1](http://arxiv.org/abs/2401.11441v1)|null|
+|**2024-01-21**|**Agricultural Recommendation System based on Deep Learning: A Multivariate Weather Forecasting Approach**|Md Zubair et.al.|[2401.11410v1](http://arxiv.org/abs/2401.11410v1)|null|
+|**2024-01-21**|**SEBERTNets: Sequence Enhanced BERT Networks for Event Entity Extraction Tasks Oriented to the Finance Field**|Congqing He et.al.|[2401.11408v1](http://arxiv.org/abs/2401.11408v1)|**[link](https://github.com/hecongqing/CCKS2019_EventEntityExtraction_Rank5)**|
+|**2024-01-20**|**Progress in Privacy Protection: A Review of Privacy Preserving Techniques in Recommender Systems, Edge Computing, and Cloud Computing**|Syed Raza Bashir et.al.|[2401.11305v1](http://arxiv.org/abs/2401.11305v1)|null|
 |**2024-01-19**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve Health Outcomes**|Jodi Chiam et.al.|[2401.10816v1](http://arxiv.org/abs/2401.10816v1)|null|
 |**2024-01-19**|**Beyond RMSE and MAE: Introducing EAUC to unmask hidden bias and unfairness in dyadic regression models**|Jorge Paz-Ruza et.al.|[2401.10690v1](http://arxiv.org/abs/2401.10690v1)|null|
 |**2024-01-19**|**Use of topical and temporal profiles and their hybridisation for content-based recommendation**|Luis M. de Campos et.al.|[2401.10607v1](http://arxiv.org/abs/2401.10607v1)|null|
@@ -6953,6 +6993,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**NLP-based Relation Extraction Methods in RE**|Quim Motger et.al.|[2401.12075v1](http://arxiv.org/abs/2401.12075v1)|null|
+|**2024-01-22**|**Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction**|Monika Jain et.al.|[2401.11800v1](http://arxiv.org/abs/2401.11800v1)|null|
+|**2024-01-21**|**Graph Edits for Counterfactual Explanations: A Unified GNN Approach**|Nikolaos Chaidos et.al.|[2401.11609v1](http://arxiv.org/abs/2401.11609v1)|null|
+|**2024-01-21**|**SEBERTNets: Sequence Enhanced BERT Networks for Event Entity Extraction Tasks Oriented to the Finance Field**|Congqing He et.al.|[2401.11408v1](http://arxiv.org/abs/2401.11408v1)|**[link](https://github.com/hecongqing/CCKS2019_EventEntityExtraction_Rank5)**|
+|**2024-01-20**|**FedRKG: A Privacy-preserving Federated Recommendation Framework via Knowledge Graph Enhancement**|Dezhong Yao et.al.|[2401.11089v1](http://arxiv.org/abs/2401.11089v1)|**[link](https://github.com/ttliu98/fedrkg)**|
 |**2024-01-19**|**EFO: the Emotion Frame Ontology**|Stefano De Giorgis et.al.|[2401.10751v1](http://arxiv.org/abs/2401.10751v1)|null|
 |**2024-01-17**|**BERTologyNavigator: Advanced Question Answering with BERT-based Semantics**|Shreya Rajpal et.al.|[2401.09553v1](http://arxiv.org/abs/2401.09553v1)|null|
 |**2024-01-17**|**QAnswer: Towards Question Answering Search over Websites**|Kunpeng Guo et.al.|[2401.09175v1](http://arxiv.org/abs/2401.09175v1)|null|
@@ -7870,6 +7915,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210v1](http://arxiv.org/abs/2401.12210v1)|null|
+|**2024-01-22**|**Tensor-view Topological Graph Neural Network**|Tao Wen et.al.|[2401.12007v1](http://arxiv.org/abs/2401.12007v1)|null|
+|**2024-01-22**|**Learning to Approximate Adaptive Kernel Convolution on Graphs**|Jaeyoon Sim et.al.|[2401.11840v1](http://arxiv.org/abs/2401.11840v1)|null|
+|**2024-01-22**|**Knowledge Distillation on Spatial-Temporal Graph Convolutional Network for Traffic Prediction**|Mohammad Izadi et.al.|[2401.11798v1](http://arxiv.org/abs/2401.11798v1)|null|
+|**2024-01-22**|**Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective**|Feiyu Yao et.al.|[2401.11783v1](http://arxiv.org/abs/2401.11783v1)|null|
+|**2024-01-22**|**LightDiC: A Simple yet Effective Approach for Large-scale Digraph Representation Learning**|Xunkai Li et.al.|[2401.11772v1](http://arxiv.org/abs/2401.11772v1)|**[link](https://github.com/xkli-allen/lightdic)**|
+|**2024-01-22**|**ADA-GNN: Atom-Distance-Angle Graph Neural Network for Crystal Material Property Prediction**|Jiao Huang et.al.|[2401.11768v1](http://arxiv.org/abs/2401.11768v1)|null|
+|**2024-01-22**|**Integrated Sensing, Communication, and Computing: An Information-oriented Resource Transaction Mechanism**|Ning Chen et.al.|[2401.11759v1](http://arxiv.org/abs/2401.11759v1)|null|
+|**2024-01-22**|**AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity**|Xunkai Li et.al.|[2401.11750v1](http://arxiv.org/abs/2401.11750v1)|null|
+|**2024-01-22**|**Graph Condensation: A Survey**|Xinyi Gao et.al.|[2401.11720v1](http://arxiv.org/abs/2401.11720v1)|null|
 |**2024-01-19**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve Health Outcomes**|Jodi Chiam et.al.|[2401.10816v1](http://arxiv.org/abs/2401.10816v1)|null|
 |**2024-01-19**|**Novel Representation Learning Technique using Graphs for Performance Analytics**|Tarek Ramadan et.al.|[2401.10799v1](http://arxiv.org/abs/2401.10799v1)|null|
 |**2024-01-19**|**BoolGebra: Attributed Graph-learning for Boolean Algebraic Manipulation**|Yingjie Li et.al.|[2401.10753v1](http://arxiv.org/abs/2401.10753v1)|null|
