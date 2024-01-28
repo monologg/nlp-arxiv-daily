@@ -30,7 +30,7 @@
 |**2024-01-25**|**(Chat)GPT v BERT: Dawn of Justice for Semantic Change Detection**|Francesco Periti et.al.|[2401.14040v1](http://arxiv.org/abs/2401.14040v1)|null|
 |**2024-01-25**|**Accelerating Retrieval-Augmented Language Model Serving with Speculation**|Zhihao Zhang et.al.|[2401.14021v1](http://arxiv.org/abs/2401.14021v1)|null|
 |**2024-01-25**|**ChatGPT and Human Synergy in Black-Box Testing: A Comparative Analysis**|Hiroyuki Kirinuki et.al.|[2401.13924v1](http://arxiv.org/abs/2401.13924v1)|null|
-|**2024-01-24**|**Investigating the Efficacy of Large Language Models for Code Clone Detection**|Mohamad Khajezade et.al.|[2401.13802v1](http://arxiv.org/abs/2401.13802v1)|null|
+|**2024-01-24**|**Investigating the Efficacy of Large Language Models for Code Clone Detection**|Mohamad Khajezade et.al.|[2401.13802v1](http://arxiv.org/abs/2401.13802v1)|**[link](https://github.com/mkhfring/largelanguagemodels)**|
 |**2024-01-24**|**CNN architecture extraction on edge GPU**|Peter Horvath et.al.|[2401.13575v1](http://arxiv.org/abs/2401.13575v1)|null|
 |**2024-01-24**|**SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation**|Zhaohu Xing et.al.|[2401.13560v1](http://arxiv.org/abs/2401.13560v1)|**[link](https://github.com/ge-xing/segmamba)**|
 |**2024-01-24**|**Research about the Ability of LLM in the Tamper-Detection Area**|Xinyu Yang et.al.|[2401.13504v1](http://arxiv.org/abs/2401.13504v1)|null|
@@ -7993,7 +7993,7 @@
 |---|---|---|---|---|
 |**2024-01-25**|**Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs**|Martin Hanik et.al.|[2401.14381v1](http://arxiv.org/abs/2401.14381v1)|null|
 |**2024-01-25**|**Estimation of partially known Gaussian graphical models with score-based structural priors**|Martín Sevilla et.al.|[2401.14340v1](http://arxiv.org/abs/2401.14340v1)|**[link](https://github.com/tenceto/langevin_ggm)**|
-|**2024-01-25**|**Energy-Efficient Power Allocation in Cell-Free Massive MIMO via Graph Neural Networks**|Ramprasad Raghunath et.al.|[2401.14281v1](http://arxiv.org/abs/2401.14281v1)|null|
+|**2024-01-25**|**Energy-Efficient Power Allocation in Cell-Free Massive MIMO via Graph Neural Networks**|Ramprasad Raghunath et.al.|[2401.14281v1](http://arxiv.org/abs/2401.14281v1)|**[link](https://gitlab.com/ichbinram/ee_cell_free)**|
 |**2024-01-25**|**MTRGL:Effective Temporal Correlation Discerning through Multi-modal Temporal Relational Graph Learning**|Junwei Su et.al.|[2401.14199v1](http://arxiv.org/abs/2401.14199v1)|null|
 |**2024-01-25**|**Alleviating Structural Distribution Shift in Graph Anomaly Detection**|Yuan Gao et.al.|[2401.14155v1](http://arxiv.org/abs/2401.14155v1)|**[link](https://github.com/blacksingular/wsdm_gdn)**|
 |**2024-01-25**|**A Survey of Deep Learning and Foundation Models for Time Series Forecasting**|John A. Miller et.al.|[2401.13912v1](http://arxiv.org/abs/2401.13912v1)|null|
