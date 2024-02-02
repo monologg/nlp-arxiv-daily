@@ -21,8 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Can Large Language Models Understand Context?**|Yilun Zhu et.al.|[2402.00858v1](http://arxiv.org/abs/2402.00858v1)|null|
+|**2024-02-01**|**ReAGent: Towards A Model-agnostic Feature Attribution Method for Generative Language Models**|Zhixue Zhao et.al.|[2402.00794v1](http://arxiv.org/abs/2402.00794v1)|null|
+|**2024-02-01**|**Neural Policy Style Transfer**|Raul Fernandez-Fernandez et.al.|[2402.00677v1](http://arxiv.org/abs/2402.00677v1)|null|
+|**2024-02-01**|**SA-MDKIF: A Scalable and Adaptable Medical Domain Knowledge Injection Framework for Large Language Models**|Tianhan Xu et.al.|[2402.00474v1](http://arxiv.org/abs/2402.00474v1)|null|
+|**2024-01-31**|**Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research**|Luca Soldaini et.al.|[2402.00159v1](http://arxiv.org/abs/2402.00159v1)|**[link](https://github.com/allenai/dolma)**|
 |**2024-01-31**|**Entity Linking in the Job Market Domain**|Mike Zhang et.al.|[2401.17979v1](http://arxiv.org/abs/2401.17979v1)|**[link](https://github.com/mainlp/el_esco)**|
-|**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911v1](http://arxiv.org/abs/2401.17911v1)|null|
+|**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911v1](http://arxiv.org/abs/2401.17911v1)|**[link](https://github.com/alexknipper/snnlp)**|
 |**2024-01-31**|**Employing Label Models on ChatGPT Answers Improves Legal Text Entailment Performance**|Chau Nguyen et.al.|[2401.17897v1](http://arxiv.org/abs/2401.17897v1)|null|
 |**2024-01-31**|**Document Structure in Long Document Transformers**|Jan Buchmann et.al.|[2401.17658v1](http://arxiv.org/abs/2401.17658v1)|null|
 |**2024-01-31**|**Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning**|Yuelyu Ji et.al.|[2401.17602v1](http://arxiv.org/abs/2401.17602v1)|null|
@@ -2625,6 +2630,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Enhancing Ethical Explanations of Large Language Models through Iterative Symbolic Refinement**|Xin Quan et.al.|[2402.00745v1](http://arxiv.org/abs/2402.00745v1)|**[link](https://github.com/neuro-symbolic-ai/explanation_based_ethical_reasoning)**|
+|**2024-02-01**|**Cumulative Distribution Function based General Temporal Point Processes**|Maolin Wang et.al.|[2402.00388v1](http://arxiv.org/abs/2402.00388v1)|null|
+|**2024-01-31**|**Learning Label Hierarchy with Supervised Contrastive Learning**|Ruixue Lian et.al.|[2402.00232v1](http://arxiv.org/abs/2402.00232v1)|**[link](https://github.com/rxlian/la-scl)**|
 |**2024-01-30**|**Fine-tuning Transformer-based Encoder for Turkish Language Understanding Tasks**|Savas Yildirim et.al.|[2401.17396v1](http://arxiv.org/abs/2401.17396v1)|null|
 |**2024-01-30**|**Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers**|Lei Xu et.al.|[2401.17196v1](http://arxiv.org/abs/2401.17196v1)|null|
 |**2024-01-30**|**MT-Ranker: Reference-free machine translation evaluation by inter-system ranking**|Ibraheem Muhammad Moosa et.al.|[2401.17099v1](http://arxiv.org/abs/2401.17099v1)|**[link](https://github.com/ibraheem-moosa/mt-ranker)**|
@@ -3405,7 +3413,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911v1](http://arxiv.org/abs/2401.17911v1)|null|
+|**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911v1](http://arxiv.org/abs/2401.17911v1)|**[link](https://github.com/alexknipper/snnlp)**|
 |**2024-01-30**|**Fine-tuning Transformer-based Encoder for Turkish Language Understanding Tasks**|Savas Yildirim et.al.|[2401.17396v1](http://arxiv.org/abs/2401.17396v1)|null|
 |**2024-01-30**|**Arabic Tweet Act: A Weighted Ensemble Pre-Trained Transformer Model for Classifying Arabic Speech Acts on Twitter**|Khadejaa Alshehri et.al.|[2401.17373v1](http://arxiv.org/abs/2401.17373v1)|null|
 |**2024-01-29**|**Keep Your Friends Close, and Your Enemies Closer: Structural Properties of Negative Relationships on Twitter**|Jack Tacchi et.al.|[2401.16562v1](http://arxiv.org/abs/2401.16562v1)|null|
@@ -3954,6 +3962,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains**|Alon Jacovi et.al.|[2402.00559v1](http://arxiv.org/abs/2402.00559v1)|null|
+|**2024-02-01**|**Instruction Makes a Difference**|Tosin Adewumi et.al.|[2402.00453v1](http://arxiv.org/abs/2402.00453v1)|**[link](https://github.com/ltu-machine-learning/idocvqa)**|
+|**2024-02-01**|**An Exam-based Evaluation Approach Beyond Traditional Relevance Judgments**|Naghmeh Farzi et.al.|[2402.00309v1](http://arxiv.org/abs/2402.00309v1)|null|
+|**2024-01-31**|**Are Generative AI systems Capable of Supporting Information Needs of Patients?**|Shreya Rajagopal et.al.|[2402.00234v1](http://arxiv.org/abs/2402.00234v1)|null|
 |**2024-01-31**|**Binding Touch to Everything: Learning Unified Multimodal Tactile Representations**|Fengyu Yang et.al.|[2401.18084v1](http://arxiv.org/abs/2401.18084v1)|null|
 |**2024-01-31**|**RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**|Parth Sarthi et.al.|[2401.18059v1](http://arxiv.org/abs/2401.18059v1)|null|
 |**2024-01-31**|**Desiderata for the Context Use of Question Answering Systems**|Sagi Shaier et.al.|[2401.18001v1](http://arxiv.org/abs/2401.18001v1)|null|
@@ -5371,7 +5383,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-30**|**LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras**|Fei Teng et.al.|[2401.16712v1](http://arxiv.org/abs/2401.16712v1)|null|
+|**2024-01-30**|**LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras**|Fei Teng et.al.|[2401.16712v1](http://arxiv.org/abs/2401.16712v1)|**[link](https://github.com/feibryantkit/lf-tracy)**|
 |**2024-01-30**|**AutoIE: An Automated Framework for Information Extraction from Scientific Literature**|Yangyang Liu et.al.|[2401.16672v1](http://arxiv.org/abs/2401.16672v1)|null|
 |**2024-01-28**|**Fine-Tuned Large Language Models for Symptom Recognition from Spanish Clinical Text**|Mai A. Shaaban et.al.|[2401.15780v1](http://arxiv.org/abs/2401.15780v1)|null|
 |**2024-01-27**|**Towards Event Extraction from Speech with Contextual Clues**|Jingqi Kang et.al.|[2401.15385v1](http://arxiv.org/abs/2401.15385v1)|null|
@@ -5975,6 +5987,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**A Personalized Framework for Consumer and Producer Group Fairness Optimization in Recommender Systems**|Hossein A. Rahmani et.al.|[2402.00485v1](http://arxiv.org/abs/2402.00485v1)|null|
+|**2024-02-01**|**From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models**|Jung-Mei Chu et.al.|[2402.00421v1](http://arxiv.org/abs/2402.00421v1)|null|
+|**2024-02-01**|**EASRec: Elastic Architecture Search for Efficient Long-term Sequential Recommender Systems**|Sheng Zhang et.al.|[2402.00390v1](http://arxiv.org/abs/2402.00390v1)|null|
+|**2024-02-01**|**Cumulative Distribution Function based General Temporal Point Processes**|Maolin Wang et.al.|[2402.00388v1](http://arxiv.org/abs/2402.00388v1)|null|
+|**2024-02-01**|**Effective Bug Detection in Graph Database Engines: An LLM-based Approach**|Jiayi Wu et.al.|[2402.00292v1](http://arxiv.org/abs/2402.00292v1)|null|
+|**2024-01-31**|**Decomposable Submodular Maximization in Federated Setting**|Akbar Rafiey et.al.|[2402.00138v1](http://arxiv.org/abs/2402.00138v1)|null|
 |**2024-01-31**|**Joining Entities Across Relation and Graph with a Unified Model**|Wenzhi Fu et.al.|[2401.18019v1](http://arxiv.org/abs/2401.18019v1)|null|
 |**2024-01-31**|**A Survey on Data-Centric Recommender Systems**|Riwei Lai et.al.|[2401.17878v1](http://arxiv.org/abs/2401.17878v1)|null|
 |**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723v1](http://arxiv.org/abs/2401.17723v1)|null|
@@ -7155,6 +7173,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**A Hoare Logic for Domain Specification (Full Version)**|Eduard Kamburjan et.al.|[2402.00452v1](http://arxiv.org/abs/2402.00452v1)|null|
+|**2024-02-01**|**Prompt-Time Symbolic Knowledge Capture with Large Language Models**|Tolga Çöplü et.al.|[2402.00414v1](http://arxiv.org/abs/2402.00414v1)|**[link](https://github.com/haltiaai/paper-ptskc)**|
+|**2024-02-01**|**Effective Bug Detection in Graph Database Engines: An LLM-based Approach**|Jiayi Wu et.al.|[2402.00292v1](http://arxiv.org/abs/2402.00292v1)|null|
 |**2024-01-31**|**Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment**|Yuanyi Wang et.al.|[2401.17859v1](http://arxiv.org/abs/2401.17859v1)|**[link](https://github.com/wyy-code/desalign)**|
 |**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664v1](http://arxiv.org/abs/2401.17664v1)|null|
 |**2024-01-31**|**PipeNet: Question Answering with Semantic Pruning over Knowledge Graphs**|Ying Su et.al.|[2401.17536v1](http://arxiv.org/abs/2401.17536v1)|null|
@@ -8098,12 +8119,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**X-CBA: Explainability Aided CatBoosted Anomal-E for Intrusion Detection System**|Kiymet Kaya et.al.|[2402.00839v1](http://arxiv.org/abs/2402.00839v1)|null|
+|**2024-02-01**|**CPT: Competence-progressive Training Strategy for Few-shot Node Classification**|Qilong Yan et.al.|[2402.00450v1](http://arxiv.org/abs/2402.00450v1)|null|
+|**2024-02-01**|**A Survey of Data-Efficient Graph Learning**|Wei Ju et.al.|[2402.00447v1](http://arxiv.org/abs/2402.00447v1)|null|
+|**2024-02-01**|**Attention-based Dynamic Multilayer Graph Neural Networks for Loan Default Prediction**|Sahab Zandi et.al.|[2402.00299v1](http://arxiv.org/abs/2402.00299v1)|null|
 |**2024-01-31**|**Benchmarking Sensitivity of Continual Graph Learning for Skeleton-Based Action Recognition**|Wei Wei et.al.|[2401.18054v1](http://arxiv.org/abs/2401.18054v1)|null|
 |**2024-01-31**|**Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning**|Erwan Escudie et.al.|[2401.17914v1](http://arxiv.org/abs/2401.17914v1)|null|
 |**2024-01-31**|**Graph Transformers without Positional Encodings**|Ayush Garg et.al.|[2401.17791v1](http://arxiv.org/abs/2401.17791v1)|null|
 |**2024-01-31**|**PF-GNN: Differentiable particle filtering based approximation of universal graph representations**|Mohammed Haroon Dupty et.al.|[2401.17752v1](http://arxiv.org/abs/2401.17752v1)|**[link](https://github.com/pfgnn/pf-gnn)**|
 |**2024-01-31**|**Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation**|Liang Qu et.al.|[2401.17630v1](http://arxiv.org/abs/2401.17630v1)|null|
-|**2024-01-31**|**IGCN: Integrative Graph Convolutional Networks for Multi-modal Data**|Cagri Ozdemir et.al.|[2401.17612v1](http://arxiv.org/abs/2401.17612v1)|null|
+|**2024-01-31**|**IGCN: Integrative Graph Convolutional Networks for Multi-modal Data**|Cagri Ozdemir et.al.|[2401.17612v1](http://arxiv.org/abs/2401.17612v1)|**[link](https://github.com/bozdaglab/igcn)**|
 |**2024-01-30**|**Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**|Jiayuan Luo et.al.|[2401.17350v1](http://arxiv.org/abs/2401.17350v1)|null|
 |**2024-01-30**|**Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials**|Ivan Grega et.al.|[2401.16914v1](http://arxiv.org/abs/2401.16914v1)|null|
 |**2024-01-30**|**Online Algorithm for Node Feature Forecasting in Temporal Graphs**|Aniq Ur Rahman et.al.|[2401.16800v1](http://arxiv.org/abs/2401.16800v1)|null|
