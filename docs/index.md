@@ -25,6 +25,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039v1](http://arxiv.org/abs/2402.05039v1)|null|
+|**2024-02-07**|**An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration**|Yihao Li et.al.|[2402.04978v1](http://arxiv.org/abs/2402.04978v1)|null|
+|**2024-02-07**|**Chatbots in Knowledge-Intensive Contexts: Comparing Intent and LLM-Based Systems**|Samuel Kernan Freire et.al.|[2402.04955v1](http://arxiv.org/abs/2402.04955v1)|null|
+|**2024-02-07**|**SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph**|Julio C. Rangel et.al.|[2402.04627v1](http://arxiv.org/abs/2402.04627v1)|**[link](https://github.com/riken-dko/generation_sparql)**|
+|**2024-02-07**|**Faithfulness vs. Plausibility: On the (Un)Reliability of Explanations from Large Language Models**|Chirag Agarwal et.al.|[2402.04614v1](http://arxiv.org/abs/2402.04614v1)|null|
+|**2024-02-07**|**RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation**|Xiaohan Yu et.al.|[2402.04527v1](http://arxiv.org/abs/2402.04527v1)|null|
+|**2024-02-07**|**Developments in Sheaf-Theoretic Models of Natural Language Ambiguities**|Kin Ian Lo et.al.|[2402.04505v1](http://arxiv.org/abs/2402.04505v1)|null|
+|**2024-02-06**|**Adaptive Inference: Theoretical Limits and Unexplored Opportunities**|Soheil Hor et.al.|[2402.04359v1](http://arxiv.org/abs/2402.04359v1)|null|
+|**2024-02-06**|**LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text**|Dor Bernsohn et.al.|[2402.04335v1](http://arxiv.org/abs/2402.04335v1)|**[link](https://github.com/darrow-labs/legallens)**|
 |**2024-02-06**|**Explaining Autonomy: Enhancing Human-Robot Interaction through Explanation Generation with Large Language Models**|David Sobrín-Hidalgo et.al.|[2402.04206v1](http://arxiv.org/abs/2402.04206v1)|null|
 |**2024-02-06**|**Scientific Language Modeling: A Quantitative Review of Large Language Models in Molecular Science**|Pengfei Liu et.al.|[2402.04119v1](http://arxiv.org/abs/2402.04119v1)|**[link](https://github.com/ai-hpc-research-team/slm4mol)**|
 |**2024-02-06**|**The Use of a Large Language Model for Cyberbullying Detection**|Bayode Ogunleye et.al.|[2402.04088v1](http://arxiv.org/abs/2402.04088v1)|null|
@@ -2215,6 +2224,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition**|Jinghui Lu et.al.|[2402.04838v1](http://arxiv.org/abs/2402.04838v1)|null|
 |**2024-01-30**|**NanoNER: Named Entity Recognition for nanobiology using experts' knowledge and distant supervision**|Martin Lentschat et.al.|[2402.03362v1](http://arxiv.org/abs/2402.03362v1)|null|
 |**2024-02-05**|**Constrained Decoding for Cross-lingual Label Projection**|Duong Minh Le et.al.|[2402.03131v1](http://arxiv.org/abs/2402.03131v1)|**[link](https://github.com/duonglm38/codec)**|
 |**2024-01-28**|**Evaluating LLM -- Generated Multimodal Diagnosis from Medical Images and Symptom Analysis**|Dimitrios P. Panagoulias et.al.|[2402.01730v1](http://arxiv.org/abs/2402.01730v1)|null|
@@ -2667,6 +2677,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Prompting Implicit Discourse Relation Annotation**|Frances Yung et.al.|[2402.04918v1](http://arxiv.org/abs/2402.04918v1)|null|
+|**2024-02-07**|**A Hypothesis-Driven Framework for the Analysis of Self-Rationalising Models**|Marc Braun et.al.|[2402.04787v1](http://arxiv.org/abs/2402.04787v1)|**[link](https://github.com/marbr987/hypothesis_driven_analysis_of_self_rationalising_models)**|
 |**2024-02-06**|**AlbNews: A Corpus of Headlines for Topic Modeling in Albanian**|Erion Çano et.al.|[2402.04028v1](http://arxiv.org/abs/2402.04028v1)|**[link](https://github.com/erionc/albnews)**|
 |**2024-02-05**|**Arabic Synonym BERT-based Adversarial Examples for Text Classification**|Norah Alshahrani et.al.|[2402.03477v1](http://arxiv.org/abs/2402.03477v1)|**[link](https://github.com/norahalshahrani/bert_synonym_attack)**|
 |**2024-02-05**|**English Prompts are Better for NLI-based Zero-Shot Emotion Classification than Target-Language Prompts**|Patrick Barreiß et.al.|[2402.03223v1](http://arxiv.org/abs/2402.03223v1)|null|
@@ -3462,6 +3474,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Aspect-Based Sentiment Analysis for Open-Ended HR Survey Responses**|Lois Rink et.al.|[2402.04812v1](http://arxiv.org/abs/2402.04812v1)|null|
 |**2024-02-06**|**Sentiment-enhanced Graph-based Sarcasm Explanation in Dialogue**|Kun Ouyang et.al.|[2402.03658v1](http://arxiv.org/abs/2402.03658v1)|null|
 |**2024-02-05**|**Comparison of Topic Modelling Approaches in the Banking Context**|Bayode Ogunleye et.al.|[2402.03176v1](http://arxiv.org/abs/2402.03176v1)|null|
 |**2024-02-05**|**Homograph Attacks on Maghreb Sentiment Analyzers**|Fatima Zahra Qachfar et.al.|[2402.03171v1](http://arxiv.org/abs/2402.03171v1)|null|
@@ -4020,6 +4033,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph**|Julio C. Rangel et.al.|[2402.04627v1](http://arxiv.org/abs/2402.04627v1)|**[link](https://github.com/riken-dko/generation_sparql)**|
+|**2024-02-07**|**ScreenAI: A Vision-Language Model for UI and Infographics Understanding**|Gilles Baechler et.al.|[2402.04615v1](http://arxiv.org/abs/2402.04615v1)|null|
+|**2024-02-07**|**Can We Identify Stack Overflow Questions Requiring Code Snippets? Investigating the Cause & Effect of Missing Code Snippets**|Saikat Mondal et.al.|[2402.04575v1](http://arxiv.org/abs/2402.04575v1)|null|
+|**2024-02-07**|**NORMY: Non-Uniform History Modeling for Open Retrieval Conversational Question Answering**|Muhammad Shihab Rashid et.al.|[2402.04548v1](http://arxiv.org/abs/2402.04548v1)|**[link](https://github.com/shihabrashid-ucr/normy)**|
+|**2024-02-06**|**Training Language Models to Generate Text with Citations via Fine-grained Rewards**|Chengyu Huang et.al.|[2402.04315v1](http://arxiv.org/abs/2402.04315v1)|null|
 |**2024-02-06**|**Convincing Rationales for Visual Question Answering Reasoning**|Kun Li et.al.|[2402.03896v1](http://arxiv.org/abs/2402.03896v1)|**[link](https://github.com/lik1996/crvqa2024)**|
 |**2024-02-06**|**INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection**|Chao Chen et.al.|[2402.03744v1](http://arxiv.org/abs/2402.03744v1)|null|
 |**2024-02-06**|**Empowering Language Models with Active Inquiry for Deeper Understanding**|Jing-Cheng Pang et.al.|[2402.03719v1](http://arxiv.org/abs/2402.03719v1)|null|
@@ -5460,6 +5478,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Back action suppression for levitated dipolar scatterers**|Yannick Weiser et.al.|[2402.04802v1](http://arxiv.org/abs/2402.04802v1)|null|
+|**2024-02-07**|**Reliable ligand discrimination in stochastic multistep kinetic proofreading: First passage time vs. product counting strategies**|Xiangting Li et.al.|[2402.04547v1](http://arxiv.org/abs/2402.04547v1)|null|
+|**2024-02-06**|**Structured Entity Extraction Using Large Language Models**|Haolun Wu et.al.|[2402.04437v1](http://arxiv.org/abs/2402.04437v1)|null|
 |**2024-02-06**|**ANLS* -- A Universal Document Processing Metric for Generative Large Language Models**|David Peer et.al.|[2402.03848v1](http://arxiv.org/abs/2402.03848v1)|**[link](https://github.com/deepopinion/anls_star_metric)**|
 |**2024-02-06**|**Retrieval Augmented Cross-Modal Tag Recommendation in Software Q&A Sites**|Sijin Lu et.al.|[2402.03635v1](http://arxiv.org/abs/2402.03635v1)|null|
 |**2024-02-02**|**Detection of tortured phrases in scientific literature**|Eléna Martel et.al.|[2402.03370v1](http://arxiv.org/abs/2402.03370v1)|null|
@@ -6071,6 +6092,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Hierarchical Tree-structured Knowledge Graph For Academic Insight Survey**|Jinghong Li et.al.|[2402.04854v1](http://arxiv.org/abs/2402.04854v1)|null|
+|**2024-02-07**|**RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation**|Xiaohan Yu et.al.|[2402.04527v1](http://arxiv.org/abs/2402.04527v1)|null|
+|**2024-02-06**|**Reliability quality measures for recommender systems**|Jesús Bobadilla et.al.|[2402.04457v1](http://arxiv.org/abs/2402.04457v1)|null|
+|**2024-02-06**|**The Potential of AutoML for Recommender Systems**|Tobias Vente et.al.|[2402.04453v1](http://arxiv.org/abs/2402.04453v1)|null|
 |**2024-02-06**|**HEAM : Hashed Embedding Acceleration using Processing-In-Memory**|Youngsuk Kim et.al.|[2402.04032v1](http://arxiv.org/abs/2402.04032v1)|null|
 |**2024-02-06**|**On Practical Diversified Recommendation with Controllable Category Diversity Framework**|Tao Zhang et.al.|[2402.03801v1](http://arxiv.org/abs/2402.03801v1)|**[link](https://github.com/selous123/ccdf)**|
 |**2024-02-06**|**Agent-Based Triangle Counting and its Applications in Anonymous Graphs**|Prabhat Kumar Chand et.al.|[2402.03653v1](http://arxiv.org/abs/2402.03653v1)|null|
@@ -7276,11 +7301,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration**|Yihao Li et.al.|[2402.04978v1](http://arxiv.org/abs/2402.04978v1)|null|
+|**2024-02-06**|**Embedding Knowledge Graphs in Degenerate Clifford Algebras**|Louis Mozart Kamdem et.al.|[2402.04870v1](http://arxiv.org/abs/2402.04870v1)|null|
+|**2024-02-07**|**Hierarchical Tree-structured Knowledge Graph For Academic Insight Survey**|Jinghong Li et.al.|[2402.04854v1](http://arxiv.org/abs/2402.04854v1)|null|
+|**2024-02-07**|**SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph**|Julio C. Rangel et.al.|[2402.04627v1](http://arxiv.org/abs/2402.04627v1)|**[link](https://github.com/riken-dko/generation_sparql)**|
 |**2024-02-06**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062v1](http://arxiv.org/abs/2402.04062v1)|null|
 |**2024-02-06**|**Pro-HAN: A Heterogeneous Graph Attention Network for Profile-Based Spoken Language Understanding**|Dechuan Teng et.al.|[2402.03900v1](http://arxiv.org/abs/2402.03900v1)|null|
 |**2024-02-06**|**Deep Outdated Fact Detection in Knowledge Graphs**|Huiling Tu et.al.|[2402.03732v1](http://arxiv.org/abs/2402.03732v1)|null|
 |**2024-02-06**|**Improving Contextual Congruence Across Modalities for Effective Multimodal Marketing using Knowledge-infused Learning**|Trilok Padhi et.al.|[2402.03607v1](http://arxiv.org/abs/2402.03607v1)|null|
-|**2024-02-05**|**MQuinE: a cure for "Z-paradox'' in knowledge graph embedding models**|Yang Liu et.al.|[2402.03583v1](http://arxiv.org/abs/2402.03583v1)|null|
+|**2024-02-07**|**MQuinE: a cure for "Z-paradox" in knowledge graph embedding models**|Yang Liu et.al.|[2402.03583v2](http://arxiv.org/abs/2402.03583v2)|null|
 |**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299v1](http://arxiv.org/abs/2402.03299v1)|null|
 |**2024-02-05**|**Knowledge Acquisition and Integration with Expert-in-the-loop**|Sajjadur Rahman et.al.|[2402.03291v1](http://arxiv.org/abs/2402.03291v1)|null|
 |**2024-02-05**|**Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**|Xinyi Wang et.al.|[2402.03268v1](http://arxiv.org/abs/2402.03268v1)|null|
@@ -8238,6 +8267,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039v1](http://arxiv.org/abs/2402.05039v1)|null|
+|**2024-02-07**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching**|Yuchen Zhang et.al.|[2402.05011v1](http://arxiv.org/abs/2402.05011v1)|null|
+|**2024-02-07**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915v1](http://arxiv.org/abs/2402.04915v1)|**[link](https://github.com/timd3/moco)**|
+|**2024-02-07**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821v1](http://arxiv.org/abs/2402.04821v1)|**[link](https://github.com/hysonlab/equimesh)**|
+|**2024-02-07**|**Incorporating Retrieval-based Causal Learning with Information Bottlenecks for Interpretable Graph Neural Networks**|Jiahua Rao et.al.|[2402.04710v1](http://arxiv.org/abs/2402.04710v1)|null|
+|**2024-02-07**|**Feature Distribution on Graph Topology Mediates the Effect of Graph Convolution: Homophily Perspective**|Soo Yong Lee et.al.|[2402.04621v1](http://arxiv.org/abs/2402.04621v1)|null|
+|**2024-02-06**|**PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection**|Enyan Dai et.al.|[2402.04435v1](http://arxiv.org/abs/2402.04435v1)|null|
 |**2024-02-06**|**LIPSTICK: Corruptibility-Aware and Explainable Graph Neural Network-based Oracle-Less Attack on Logic Locking**|Yeganeh Aghamohammadi et.al.|[2402.04235v1](http://arxiv.org/abs/2402.04235v1)|null|
 |**2024-02-06**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062v1](http://arxiv.org/abs/2402.04062v1)|null|
 |**2024-02-06**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural Network**|Tan Sun et.al.|[2402.04038v1](http://arxiv.org/abs/2402.04038v1)|null|
