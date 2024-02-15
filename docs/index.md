@@ -25,6 +25,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset**|Botao Yu et.al.|[2402.09391v1](http://arxiv.org/abs/2402.09391v1)|**[link](https://github.com/osu-nlp-group/llm4chem)**|
+|**2024-02-14**|**Leveraging Large Language Models for Enhanced NLP Task Performance through Knowledge Distillation and Optimized Training Strategies**|Yining Huang et.al.|[2402.09282v1](http://arxiv.org/abs/2402.09282v1)|null|
+|**2024-02-14**|**Personalized Large Language Models**|Stanisław Woźniak et.al.|[2402.09269v1](http://arxiv.org/abs/2402.09269v1)|null|
+|**2024-02-14**|**Advancing NLP Models with Strategic Text Augmentation: A Comprehensive Study of Augmentation Methods and Curriculum Strategies**|Himmet Toprak Kesgin et.al.|[2402.09141v1](http://arxiv.org/abs/2402.09141v1)|null|
+|**2024-02-14**|**SLEB: Streamlining LLMs through Redundancy Verification and Elimination of Transformer Blocks**|Jiwon Song et.al.|[2402.09025v1](http://arxiv.org/abs/2402.09025v1)|**[link](https://github.com/leapingjagg-dev/sleb)**|
+|**2024-02-14**|**Research and application of Transformer based anomaly detection model: A literature review**|Mingrui Ma et.al.|[2402.08975v1](http://arxiv.org/abs/2402.08975v1)|null|
+|**2024-02-13**|**BEFUnet: A Hybrid CNN-Transformer Architecture for Precise Medical Image Segmentation**|Omid Nejati Manzari et.al.|[2402.08793v1](http://arxiv.org/abs/2402.08793v1)|**[link](https://github.com/omid-nejati/befunet)**|
 |**2024-02-13**|**COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability**|Xingang Guo et.al.|[2402.08679v1](http://arxiv.org/abs/2402.08679v1)|**[link](https://github.com/yu-fangxu/cold-attack)**|
 |**2024-02-13**|**Online Foundation Model Selection in Robotics**|Po-han Li et.al.|[2402.08570v1](http://arxiv.org/abs/2402.08570v1)|null|
 |**2024-02-13**|**Intriguing Differences Between Zero-Shot and Systematic Evaluations of Vision-Language Transformer Models**|Shaeke Salman et.al.|[2402.08473v1](http://arxiv.org/abs/2402.08473v1)|null|
@@ -2255,12 +2262,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Leveraging Large Language Models for Enhanced NLP Task Performance through Knowledge Distillation and Optimized Training Strategies**|Yining Huang et.al.|[2402.09282v1](http://arxiv.org/abs/2402.09282v1)|null|
 |**2024-02-13**|**Punctuation Restoration Improves Structure Understanding without Supervision**|Junghyun Min et.al.|[2402.08382v1](http://arxiv.org/abs/2402.08382v1)|null|
 |**2024-02-09**|**FaBERT: Pre-training BERT on Persian Blogs**|Mostafa Masumi et.al.|[2402.06617v1](http://arxiv.org/abs/2402.06617v1)|null|
 |**2024-02-08**|**Efficient Models for the Detection of Hate, Abuse and Profanity**|Christoph Tillmann et.al.|[2402.05624v1](http://arxiv.org/abs/2402.05624v1)|null|
 |**2024-02-08**|**Named Entity Recognition for Address Extraction in Speech-to-Text Transcriptions Using Synthetic Data**|Bibiána Lajčinová et.al.|[2402.05545v1](http://arxiv.org/abs/2402.05545v1)|null|
 |**2024-02-05**|**Graph Neural Network and NER-Based Text Summarization**|Imaad Zaffar Khan et.al.|[2402.05126v1](http://arxiv.org/abs/2402.05126v1)|null|
-|**2024-02-09**|**PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition**|Jinghui Lu et.al.|[2402.04838v2](http://arxiv.org/abs/2402.04838v2)|null|
+|**2024-02-14**|**PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition**|Jinghui Lu et.al.|[2402.04838v3](http://arxiv.org/abs/2402.04838v3)|null|
 |**2024-01-30**|**NanoNER: Named Entity Recognition for nanobiology using experts' knowledge and distant supervision**|Martin Lentschat et.al.|[2402.03362v1](http://arxiv.org/abs/2402.03362v1)|null|
 |**2024-02-05**|**Constrained Decoding for Cross-lingual Label Projection**|Duong Minh Le et.al.|[2402.03131v1](http://arxiv.org/abs/2402.03131v1)|**[link](https://github.com/duonglm38/codec)**|
 |**2024-01-28**|**Evaluating LLM -- Generated Multimodal Diagnosis from Medical Images and Symptom Analysis**|Dimitrios P. Panagoulias et.al.|[2402.01730v1](http://arxiv.org/abs/2402.01730v1)|null|
@@ -2713,7 +2721,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-13**|**Plausible Extractive Rationalization through Semi-Supervised Entailment Signal**|Yeo Wei Jie et.al.|[2402.08479v1](http://arxiv.org/abs/2402.08479v1)|null|
+|**2024-02-14**|**Rapid Adoption, Hidden Risks: The Dual Impact of Large Language Model Customization**|Rui Zhang et.al.|[2402.09179v1](http://arxiv.org/abs/2402.09179v1)|null|
+|**2024-02-14**|**Plausible Extractive Rationalization through Semi-Supervised Entailment Signal**|Yeo Wei Jie et.al.|[2402.08479v2](http://arxiv.org/abs/2402.08479v2)|null|
 |**2024-02-13**|**Interleaved snowballing: Reducing the workload of literature curators**|Ralf Stephan et.al.|[2402.08339v1](http://arxiv.org/abs/2402.08339v1)|null|
 |**2024-02-13**|**Improving Black-box Robustness with In-Context Rewriting**|Kyle O'Brien et.al.|[2402.08225v1](http://arxiv.org/abs/2402.08225v1)|null|
 |**2024-02-13**|**Pixel Sentence Representation Learning**|Chenghao Xiao et.al.|[2402.08183v1](http://arxiv.org/abs/2402.08183v1)|null|
@@ -3519,6 +3528,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Advancing NLP Models with Strategic Text Augmentation: A Comprehensive Study of Augmentation Methods and Curriculum Strategies**|Himmet Toprak Kesgin et.al.|[2402.09141v1](http://arxiv.org/abs/2402.09141v1)|null|
 |**2024-02-13**|**Extensible Multi-Granularity Fusion Network for Aspect-based Sentiment Analysis**|Xiaowei Zhao et.al.|[2402.07787v2](http://arxiv.org/abs/2402.07787v2)|**[link](https://github.com/TYZY89/EMGF)**|
 |**2024-02-09**|**FaBERT: Pre-training BERT on Persian Blogs**|Mostafa Masumi et.al.|[2402.06617v1](http://arxiv.org/abs/2402.06617v1)|null|
 |**2024-02-12**|**EmojiCrypt: Prompt Encryption for Secure Communication with Large Language Models**|Guo Lin et.al.|[2402.05868v2](http://arxiv.org/abs/2402.05868v2)|**[link](https://github.com/agiresearch/emojicrypt)**|
@@ -4082,7 +4092,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-13**|**Plausible Extractive Rationalization through Semi-Supervised Entailment Signal**|Yeo Wei Jie et.al.|[2402.08479v1](http://arxiv.org/abs/2402.08479v1)|null|
+|**2024-02-14**|**OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM**|Yutao Hu et.al.|[2402.09181v1](http://arxiv.org/abs/2402.09181v1)|null|
+|**2024-02-14**|**Leveraging the Context through Multi-Round Interactions for Jailbreaking Attacks**|Yixin Cheng et.al.|[2402.09177v1](http://arxiv.org/abs/2402.09177v1)|null|
+|**2024-02-14**|**Multi-Query Focused Disaster Summarization via Instruction-Based Prompting**|Philipp Seeberger et.al.|[2402.09008v1](http://arxiv.org/abs/2402.09008v1)|null|
+|**2024-02-14**|**Pretraining Vision-Language Model for Difference Visual Question Answering in Longitudinal Chest X-rays**|Yeongjae Cho et.al.|[2402.08966v1](http://arxiv.org/abs/2402.08966v1)|null|
+|**2024-02-13**|**Learning How To Ask: Cycle-Consistency Refines Prompts in Multimodal Foundation Models**|Maurice Diesendruck et.al.|[2402.08756v1](http://arxiv.org/abs/2402.08756v1)|null|
+|**2024-02-14**|**Plausible Extractive Rationalization through Semi-Supervised Entailment Signal**|Yeo Wei Jie et.al.|[2402.08479v2](http://arxiv.org/abs/2402.08479v2)|null|
 |**2024-02-13**|**Visual Question Answering Instruction: Unlocking Multimodal Large Language Model To Domain-Specific Visual Multitasks**|Jusung Lee et.al.|[2402.08360v1](http://arxiv.org/abs/2402.08360v1)|null|
 |**2024-02-13**|**Visually Dehallucinative Instruction Generation**|Sungguk Cha et.al.|[2402.08348v1](http://arxiv.org/abs/2402.08348v1)|**[link](https://github.com/ncsoft/cap2qa)**|
 |**2024-02-13**|**PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers**|Weizhe Lin et.al.|[2402.08327v1](http://arxiv.org/abs/2402.08327v1)|null|
@@ -5554,6 +5569,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Massively Multi-Cultural Knowledge Acquisition & LM Benchmarking**|Yi Fung et.al.|[2402.09369v1](http://arxiv.org/abs/2402.09369v1)|null|
+|**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368v1](http://arxiv.org/abs/2402.09368v1)|null|
+|**2024-02-13**|**BEFUnet: A Hybrid CNN-Transformer Architecture for Precise Medical Image Segmentation**|Omid Nejati Manzari et.al.|[2402.08793v1](http://arxiv.org/abs/2402.08793v1)|**[link](https://github.com/omid-nejati/befunet)**|
 |**2024-02-13**|**Punctuation Restoration Improves Structure Understanding without Supervision**|Junghyun Min et.al.|[2402.08382v1](http://arxiv.org/abs/2402.08382v1)|null|
 |**2024-02-13**|**Structural Descriptors and Information Extraction from X-ray Spectra of Liquids**|E. A. Eronen et.al.|[2402.08355v1](http://arxiv.org/abs/2402.08355v1)|null|
 |**2024-02-11**|**CPSDBench: A Large Language Model Evaluation Benchmark and Baseline for Chinese Public Security Domain**|Xin Tong et.al.|[2402.07234v1](http://arxiv.org/abs/2402.07234v1)|null|
@@ -6176,6 +6194,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Personalized Large Language Models**|Stanisław Woźniak et.al.|[2402.09269v1](http://arxiv.org/abs/2402.09269v1)|null|
+|**2024-02-14**|**Large Language Model Interaction Simulator for Cold-Start Item Recommendation**|Feiran Huang et.al.|[2402.09176v1](http://arxiv.org/abs/2402.09176v1)|null|
+|**2024-02-14**|**Recommendation Algorithm Based on Recommendation Sessions**|Michał Malinowski et.al.|[2402.09130v1](http://arxiv.org/abs/2402.09130v1)|null|
+|**2024-02-14**|**Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems**|Shiyi Yang et.al.|[2402.09023v1](http://arxiv.org/abs/2402.09023v1)|null|
+|**2024-02-14**|**Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction**|Chen Wang et.al.|[2402.08976v1](http://arxiv.org/abs/2402.08976v1)|null|
+|**2024-02-14**|**Quantifying and Characterizing Clones of Self-Admitted Technical Debt in Build Systems**|Tao Xiao et.al.|[2402.08920v1](http://arxiv.org/abs/2402.08920v1)|null|
 |**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|null|
 |**2024-02-13**|**Helping university students to choose elective courses by using a hybrid multi-criteria recommendation system with genetic optimization**|A. Esteban et.al.|[2402.08371v1](http://arxiv.org/abs/2402.08371v1)|null|
 |**2024-02-13**|**Implementation of Recommendation Algorithm based on Recommendation Sessions in E-commerce IT System**|Michał Malinowski et.al.|[2402.08275v1](http://arxiv.org/abs/2402.08275v1)|null|
@@ -7398,6 +7422,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection**|Pengfei Zhou et.al.|[2402.09242v1](http://arxiv.org/abs/2402.09242v1)|**[link](https://github.com/lancezpf/kefs)**|
+|**2024-02-13**|**Improving Molecule Generation and Drug Discovery with a Knowledge-enhanced Generative Model**|Aditya Malusare et.al.|[2402.08790v1](http://arxiv.org/abs/2402.08790v1)|null|
 |**2024-02-13**|**Forecasting high-impact research topics via machine learning on evolving knowledge graphs**|Xuemei Gu et.al.|[2402.08640v1](http://arxiv.org/abs/2402.08640v1)|null|
 |**2024-02-13**|**A Logical Approach to Criminal Case Investigation**|Takanori Ugai et.al.|[2402.08284v1](http://arxiv.org/abs/2402.08284v1)|**[link](https://github.com/KGChallenge/Challenge)**|
 |**2024-02-13**|**Extensible Multi-Granularity Fusion Network for Aspect-based Sentiment Analysis**|Xiaowei Zhao et.al.|[2402.07787v2](http://arxiv.org/abs/2402.07787v2)|**[link](https://github.com/TYZY89/EMGF)**|
@@ -8382,6 +8408,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Safe Distributed Control of Multi-Robot Systems with Communication Delays**|Luca Ballotta et.al.|[2402.09382v1](http://arxiv.org/abs/2402.09382v1)|null|
+|**2024-02-14**|**GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in Metagenomic Assembly**|Ali Azizpour et.al.|[2402.09381v1](http://arxiv.org/abs/2402.09381v1)|**[link](https://github.com/aliaaz99/grassrep)**|
+|**2024-02-14**|**Uncertainty-Aware Transient Stability-Constrained Preventive Redispatch: A Distributional Reinforcement Learning Approach**|Zhengcheng Wang et.al.|[2402.09263v1](http://arxiv.org/abs/2402.09263v1)|null|
+|**2024-02-14**|**Robust Training of Temporal GNNs using Nearest Neighbours based Hard Negatives**|Shubham Gupta et.al.|[2402.09239v1](http://arxiv.org/abs/2402.09239v1)|null|
+|**2024-02-14**|**DisGNet: A Distance Graph Neural Network for Forward Kinematics Learning of Gough-Stewart Platform**|Huizhi Zhu et.al.|[2402.09077v1](http://arxiv.org/abs/2402.09077v1)|null|
+|**2024-02-14**|**Graph Inference Acceleration by Learning MLPs on Graphs without Supervision**|Zehong Wang et.al.|[2402.08918v1](http://arxiv.org/abs/2402.08918v1)|**[link](https://github.com/zehong-wang/simmlp)**|
+|**2024-02-14**|**Multiscale graph neural networks with adaptive mesh refinement for accelerating mesh-based simulations**|Roberto Perera et.al.|[2402.08863v1](http://arxiv.org/abs/2402.08863v1)|null|
+|**2024-02-13**|**Disambiguated Node Classification with Graph Neural Networks**|Tianxiang Zhao et.al.|[2402.08824v1](http://arxiv.org/abs/2402.08824v1)|**[link](https://github.com/tianxiangzhao/disambiguatedgnn)**|
 |**2024-02-13**|**Graph Mamba: Towards Learning on Graphs with State Space Models**|Ali Behrouz et.al.|[2402.08678v1](http://arxiv.org/abs/2402.08678v1)|**[link](https://github.com/graphmamba/gmn)**|
 |**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|null|
 |**2024-02-13**|**Homomorphism Counts for Graph Neural Networks: All About That Basis**|Emily Jin et.al.|[2402.08595v1](http://arxiv.org/abs/2402.08595v1)|null|
