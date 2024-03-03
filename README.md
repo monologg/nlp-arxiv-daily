@@ -8798,7 +8798,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-29**|**Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication**|Lukas Gianinazzi et.al.|[2402.19364v1](http://arxiv.org/abs/2402.19364v1)|null|
+|**2024-02-29**|**Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication**|Lukas Gianinazzi et.al.|[2402.19364v1](http://arxiv.org/abs/2402.19364v1)|**[link](https://github.com/spcl/arrow-matrix)**|
 |**2024-02-29**|**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**|Gianluca Scarpellini et.al.|[2402.19302v1](http://arxiv.org/abs/2402.19302v1)|**[link](https://github.com/iit-pavis/diffassemble)**|
 |**2024-02-29**|**Machine learning-enabled exploration of mesoscale architectures in amphiphilic-molecule self-assembly**|Takeo Sudo et.al.|[2402.19019v1](http://arxiv.org/abs/2402.19019v1)|null|
 |**2024-02-29**|**Always be Pre-Training: Representation Learning for Network Intrusion Detection with GNNs**|Zhengyao Gu et.al.|[2402.18986v1](http://arxiv.org/abs/2402.18986v1)|null|
