@@ -4259,9 +4259,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-29**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467v1](http://arxiv.org/abs/2402.19467v1)|null|
+|**2024-03-01**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467v2](http://arxiv.org/abs/2402.19467v2)|null|
 |**2024-02-29**|**OpenMedLM: Prompt engineering can out-perform fine-tuning in medical question-answering with open-source large language models**|Jenish Maharjan et.al.|[2402.19371v1](http://arxiv.org/abs/2402.19371v1)|null|
-|**2024-02-29**|**Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process**|Guangming Huang et.al.|[2402.19350v1](http://arxiv.org/abs/2402.19350v1)|null|
+|**2024-03-01**|**Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process**|Guangming Huang et.al.|[2402.19350v2](http://arxiv.org/abs/2402.19350v2)|null|
 |**2024-02-29**|**Let LLMs Take on the Latest Challenges! A Chinese Dynamic Question Answering Benchmark**|Zhikun Xu et.al.|[2402.19248v1](http://arxiv.org/abs/2402.19248v1)|**[link](https://github.com/alibaba-nlp/cdqa)**|
 |**2024-02-29**|**Survey in Characterization of Semantic Change**|Jader Martins Camboim de Sá et.al.|[2402.19088v1](http://arxiv.org/abs/2402.19088v1)|null|
 |**2024-02-28**|**A Categorization of Complexity Classes for Information Retrieval and Synthesis Using Natural Logic**|Gregory Coppola et.al.|[2402.18566v1](http://arxiv.org/abs/2402.18566v1)|null|
@@ -7775,7 +7775,7 @@
 |---|---|---|---|---|
 |**2024-02-29**|**Stitching Gaps: Fusing Situated Perceptual Knowledge with Vision Transformers for High-Level Image Classification**|Delfina Sol Martinez Pandiani et.al.|[2402.19339v1](http://arxiv.org/abs/2402.19339v1)|null|
 |**2024-02-29**|**Negative Sampling in Knowledge Graph Representation Learning: A Review**|Tiroshan Madushanka et.al.|[2402.19195v1](http://arxiv.org/abs/2402.19195v1)|null|
-|**2024-02-29**|**KGAMC: A Novel Knowledge Graph Driven Automatic Modulation Classification Scheme**|ike Li et.al.|[2402.19188v1](http://arxiv.org/abs/2402.19188v1)|null|
+|**2024-03-01**|**KGAMC: A Novel Knowledge Graph Driven Automatic Modulation Classification Scheme**|Yike Li et.al.|[2402.19188v2](http://arxiv.org/abs/2402.19188v2)|null|
 |**2024-02-29**|**Aligning Knowledge Graph with Visual Perception for Object-goal Navigation**|Nuo Xu et.al.|[2402.18892v1](http://arxiv.org/abs/2402.18892v1)|**[link](https://github.com/nuoxu/akgvp)**|
 |**2024-02-26**|**Label Informed Contrastive Pretraining for Node Importance Estimation on Knowledge Graphs**|Tianyu Zhang et.al.|[2402.17791v1](http://arxiv.org/abs/2402.17791v1)|**[link](https://github.com/zhangtia16/licap)**|
 |**2024-02-24**|**Stepwise Self-Consistent Mathematical Reasoning with Large Language Models**|Zilong Zhao et.al.|[2402.17786v1](http://arxiv.org/abs/2402.17786v1)|**[link](https://github.com/zhao-zilong/ssc-cot)**|
