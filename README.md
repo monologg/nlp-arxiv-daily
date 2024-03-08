@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Analysis of Systems' Performance in Natural Language Processing Competitions**|Sergio Nava-Muñoz et.al.|[2403.04693v1](http://arxiv.org/abs/2403.04693v1)|null|
+|**2024-03-07**|**Classist Tools: Social Class Correlates with Performance in NLP**|Amanda Cercas Curry et.al.|[2403.04445v1](http://arxiv.org/abs/2403.04445v1)|null|
+|**2024-03-07**|**Advancing Biomedical Text Mining with Community Challenges**|Hui Zong et.al.|[2403.04261v1](http://arxiv.org/abs/2403.04261v1)|null|
 |**2024-03-06**|**Enhancing Instructional Quality: Leveraging Computer-Assisted Textual Analysis to Generate In-Depth Insights from Educational Artifacts**|Zewei Tian et.al.|[2403.03920v1](http://arxiv.org/abs/2403.03920v1)|null|
 |**2024-03-06**|**Impoverished Language Technology: The Lack of (Social) Class in NLP**|Amanda Cercas Curry et.al.|[2403.03874v1](http://arxiv.org/abs/2403.03874v1)|null|
 |**2024-03-06**|**German also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset**|Laura Mascarell et.al.|[2403.03750v1](http://arxiv.org/abs/2403.03750v1)|**[link](https://github.com/mediatechnologycenter/absinth)**|
@@ -2178,7 +2181,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-06**|**SaulLM-7B: A pioneering Large Language Model for Law**|Pierre Colombo et.al.|[2403.03883v1](http://arxiv.org/abs/2403.03883v1)|null|
+|**2024-03-07**|**SaulLM-7B: A pioneering Large Language Model for Law**|Pierre Colombo et.al.|[2403.03883v2](http://arxiv.org/abs/2403.03883v2)|null|
 |**2024-03-04**|**Improving Legal Judgement Prediction in Romanian with Long Text Encoders**|Mihai Masala et.al.|[2402.19170v2](http://arxiv.org/abs/2402.19170v2)|null|
 |**2024-02-16**|**Through the Lens of Split Vote: Exploring Disagreement, Difficulty and Calibration in Legal Case Outcome Classification**|Shanshan Xu et.al.|[2402.07214v2](http://arxiv.org/abs/2402.07214v2)|null|
 |**2024-01-31**|**Employing Label Models on ChatGPT Answers Improves Legal Text Entailment Performance**|Chau Nguyen et.al.|[2401.17897v1](http://arxiv.org/abs/2401.17897v1)|null|
@@ -2384,6 +2387,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Wiki-TabNER:Advancing Table Interpretation Through Named Entity Recognition**|Aneta Koleva et.al.|[2403.04577v1](http://arxiv.org/abs/2403.04577v1)|null|
+|**2024-03-07**|**Advancing Biomedical Text Mining with Community Challenges**|Hui Zong et.al.|[2403.04261v1](http://arxiv.org/abs/2403.04261v1)|null|
 |**2024-03-02**|**VNLP: Turkish NLP Package**|Meliksah Turker et.al.|[2403.01309v1](http://arxiv.org/abs/2403.01309v1)|null|
 |**2024-02-28**|**VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models**|Seoyeon Kim et.al.|[2402.18374v1](http://arxiv.org/abs/2402.18374v1)|null|
 |**2024-02-28**|**DANSK and DaCy 2.6.0: Domain Generalization of Danish Named Entity Recognition**|Kenneth Enevoldsen et.al.|[2402.18209v1](http://arxiv.org/abs/2402.18209v1)|null|
@@ -2864,6 +2869,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Exploring Continual Learning of Compositional Generalization in NLI**|Xiyan Fu et.al.|[2403.04400v1](http://arxiv.org/abs/2403.04400v1)|null|
+|**2024-03-07**|**Advancing Biomedical Text Mining with Community Challenges**|Hui Zong et.al.|[2403.04261v1](http://arxiv.org/abs/2403.04261v1)|null|
+|**2024-03-07**|**Privacy-preserving Fine-tuning of Large Language Models through Flatness**|Tiejin Chen et.al.|[2403.04124v1](http://arxiv.org/abs/2403.04124v1)|null|
 |**2024-03-06**|**RADIA -- Radio Advertisement Detection with Intelligent Analytics**|Jorge Álvarez et.al.|[2403.03538v1](http://arxiv.org/abs/2403.03538v1)|null|
 |**2024-03-05**|**Best of Both Worlds: A Pliable and Generalizable Neuro-Symbolic Approach for Relation Classification**|Robert Vacareanu et.al.|[2403.03305v1](http://arxiv.org/abs/2403.03305v1)|null|
 |**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932v1](http://arxiv.org/abs/2403.02932v1)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|
@@ -3723,6 +3731,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**MaCmS: Magahi Code-mixed Dataset for Sentiment Analysis**|Priya Rani et.al.|[2403.04639v1](http://arxiv.org/abs/2403.04639v1)|null|
 |**2024-03-04**|**Subjective $\textit{Isms}$ ? On the Danger of Conflating Hate and Offence in Abusive Language Detection**|Amanda Cercas Curry et.al.|[2403.02268v1](http://arxiv.org/abs/2403.02268v1)|null|
 |**2024-03-04**|**Arabic Text Sentiment Analysis: Reinforcing Human-Performed Surveys with Wider Topic Analysis**|Latifah Almurqren et.al.|[2403.01921v1](http://arxiv.org/abs/2403.01921v1)|null|
 |**2024-03-04**|**KeNet:Knowledge-enhanced Doc-Label Attention Network for Multi-label text classification**|Bo Li et.al.|[2403.01767v1](http://arxiv.org/abs/2403.01767v1)|null|
@@ -4314,6 +4323,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**SnapNTell: Enhancing Entity-Centric Visual Question Answering with Retrieval Augmented Multimodal LLM**|Jielin Qiu et.al.|[2403.04735v1](http://arxiv.org/abs/2403.04735v1)|null|
+|**2024-03-07**|**QAQ: Quality Adaptive Quantization for LLM KV Cache**|Shichen Dong et.al.|[2403.04643v1](http://arxiv.org/abs/2403.04643v1)|**[link](https://github.com/clubiedong/kvcachequantization)**|
+|**2024-03-07**|**CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios**|Qilang Ye et.al.|[2403.04640v1](http://arxiv.org/abs/2403.04640v1)|**[link](https://github.com/rikeilong/bay-cat)**|
+|**2024-03-07**|**TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document**|Yuliang Liu et.al.|[2403.04473v1](http://arxiv.org/abs/2403.04473v1)|**[link](https://github.com/yuliang-liu/monkey)**|
+|**2024-03-07**|**HaluEval-Wild: Evaluating Hallucinations of Language Models in the Wild**|Zhiying Zhu et.al.|[2403.04307v1](http://arxiv.org/abs/2403.04307v1)|null|
+|**2024-03-07**|**Effectiveness Assessment of Recent Large Vision-Language Models**|Yao Jiang et.al.|[2403.04306v1](http://arxiv.org/abs/2403.04306v1)|null|
+|**2024-03-07**|**Advancing Biomedical Text Mining with Community Challenges**|Hui Zong et.al.|[2403.04261v1](http://arxiv.org/abs/2403.04261v1)|null|
 |**2024-03-06**|**Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning**|Deepanway Ghosal et.al.|[2403.03864v1](http://arxiv.org/abs/2403.03864v1)|**[link](https://github.com/declare-lab/puzzle-reasoning)**|
 |**2024-03-06**|**Evaluating the Elementary Multilingual Capabilities of Large Language Models with MultiQ**|Carolin Holtermann et.al.|[2403.03814v1](http://arxiv.org/abs/2403.03814v1)|null|
 |**2024-03-06**|**Benchmarking Hallucination in Large Language Models based on Unanswerable Math Word Problem**|Yuhong Sun et.al.|[2403.03558v1](http://arxiv.org/abs/2403.03558v1)|**[link](https://github.com/yuki-asuuna/umwp)**|
@@ -5903,6 +5919,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Quantum-enhanced joint estimation of phase and phase diffusion**|Jayanth Jayakumar et.al.|[2403.04722v1](http://arxiv.org/abs/2403.04722v1)|null|
+|**2024-03-07**|**Sentiment-driven prediction of financial returns: a Bayesian-enhanced FinBERT approach**|Raffaele Giuseppe Cestari et.al.|[2403.04427v1](http://arxiv.org/abs/2403.04427v1)|null|
+|**2024-03-07**|**Advancing Biomedical Text Mining with Community Challenges**|Hui Zong et.al.|[2403.04261v1](http://arxiv.org/abs/2403.04261v1)|null|
 |**2024-03-06**|**Automatic Bi-modal Question Title Generation for Stack Overflow with Prompt Learning**|Shaoyu Yang et.al.|[2403.03677v1](http://arxiv.org/abs/2403.03677v1)|null|
 |**2024-03-06**|**Kernel Correlation-Dissimilarity for Multiple Kernel k-Means Clustering**|Rina Su et.al.|[2403.03448v1](http://arxiv.org/abs/2403.03448v1)|null|
 |**2024-03-05**|**Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data**|Joseph Gatto et.al.|[2403.03304v1](http://arxiv.org/abs/2403.03304v1)|null|
@@ -6562,6 +6581,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Benchmarking News Recommendation in the Era of Green AI**|Qijiong Liu et.al.|[2403.04736v1](http://arxiv.org/abs/2403.04736v1)|null|
+|**2024-03-07**|**Uncovering the Deep Filter Bubble: Narrow Exposure in Short-Video Recommendation**|Nicholas Sukiennik et.al.|[2403.04511v1](http://arxiv.org/abs/2403.04511v1)|null|
+|**2024-03-07**|**Improving Matrix Completion by Exploiting Rating Ordinality in Graph Neural Networks**|Jaehyun Lee et.al.|[2403.04504v1](http://arxiv.org/abs/2403.04504v1)|null|
+|**2024-03-07**|**Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset**|Minjin Kim et.al.|[2403.04460v1](http://arxiv.org/abs/2403.04460v1)|null|
+|**2024-03-07**|**The 2nd Workshop on Recommendation with Generative Models**|Wenjie Wang et.al.|[2403.04399v1](http://arxiv.org/abs/2403.04399v1)|null|
+|**2024-03-07**|**DGR: A General Graph Desmoothing Framework for Recommendation via Global and Local Perspectives**|Leilei Ding et.al.|[2403.04287v1](http://arxiv.org/abs/2403.04287v1)|null|
+|**2024-03-07**|**Can Small Language Models be Good Reasoners for Sequential Recommendation?**|Yuling Wang et.al.|[2403.04260v1](http://arxiv.org/abs/2403.04260v1)|null|
+|**2024-03-06**|**Personalized Negative Reservoir for Incremental Learning in Recommender Systems**|Antonios Valkanas et.al.|[2403.03993v1](http://arxiv.org/abs/2403.03993v1)|null|
 |**2024-03-06**|**Intent-aware Recommendation via Disentangled Graph Contrastive Learning**|Yuling Wang et.al.|[2403.03714v1](http://arxiv.org/abs/2403.03714v1)|null|
 |**2024-03-06**|**Learning Adversarial MDPs with Stochastic Hard Constraints**|Francesco Emanuele Stradi et.al.|[2403.03672v1](http://arxiv.org/abs/2403.03672v1)|null|
 |**2024-03-06**|**Causal Disentanglement for Regulating Social Influence Bias in Social Recommendation**|Li Wang et.al.|[2403.03578v1](http://arxiv.org/abs/2403.03578v1)|null|
@@ -7878,6 +7905,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763v1](http://arxiv.org/abs/2403.04763v1)|null|
+|**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521v1](http://arxiv.org/abs/2403.04521v1)|null|
+|**2024-03-07**|**From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction**|Ang Li et.al.|[2403.04369v1](http://arxiv.org/abs/2403.04369v1)|**[link](https://github.com/liang-star177/fwgb)**|
+|**2024-03-07**|**BrainKnow -- Extracting, Linking, and Associating Neuroscience Knowledge**|Cunqing Huangfu et.al.|[2403.04346v1](http://arxiv.org/abs/2403.04346v1)|null|
+|**2024-03-07**|**Advancing Biomedical Text Mining with Community Challenges**|Hui Zong et.al.|[2403.04261v1](http://arxiv.org/abs/2403.04261v1)|null|
 |**2024-03-06**|**KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs**|Ruoqi Liu et.al.|[2403.03791v1](http://arxiv.org/abs/2403.03791v1)|**[link](https://github.com/ruoqi-liu/kg-treat)**|
 |**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008v1](http://arxiv.org/abs/2403.03008v1)|null|
 |**2024-03-05**|**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**|Sungho Ko et.al.|[2403.02966v1](http://arxiv.org/abs/2403.02966v1)|null|
@@ -8917,6 +8949,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763v1](http://arxiv.org/abs/2403.04763v1)|null|
+|**2024-03-07**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks**|Lisa Schneckenreiter et.al.|[2403.04747v1](http://arxiv.org/abs/2403.04747v1)|null|
+|**2024-03-07**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636v1](http://arxiv.org/abs/2403.04636v1)|**[link](https://github.com/oliver-lemke/entropy_aware_message_passing)**|
+|**2024-03-07**|**In-n-Out: Calibrating Graph Neural Networks for Link Prediction**|Erik Nascimento et.al.|[2403.04605v1](http://arxiv.org/abs/2403.04605v1)|null|
+|**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521v1](http://arxiv.org/abs/2403.04521v1)|null|
+|**2024-03-07**|**Improving Matrix Completion by Exploiting Rating Ordinality in Graph Neural Networks**|Jaehyun Lee et.al.|[2403.04504v1](http://arxiv.org/abs/2403.04504v1)|null|
+|**2024-03-07**|**On the Topology Awareness and Generalization Performance of Graph Neural Networks**|Junwei Su et.al.|[2403.04482v1](http://arxiv.org/abs/2403.04482v1)|null|
+|**2024-03-07**|**A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges**|Wei Ju et.al.|[2403.04468v1](http://arxiv.org/abs/2403.04468v1)|null|
+|**2024-03-07**|**Performance Assessment of Universal Machine Learning Interatomic Potentials: Challenges and Directions for Materials' Surfaces**|Bruno Focassio et.al.|[2403.04217v1](http://arxiv.org/abs/2403.04217v1)|null|
 |**2024-03-06**|**Graph neural network outputs are almost surely asymptotically constant**|Sam Adam-Day et.al.|[2403.03880v1](http://arxiv.org/abs/2403.03880v1)|**[link](https://github.com/benfinkelshtein/gnn-asymptotically-constant)**|
 |**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767v1](http://arxiv.org/abs/2403.03767v1)|null|
 |**2024-03-06**|**Intent-aware Recommendation via Disentangled Graph Contrastive Learning**|Yuling Wang et.al.|[2403.03714v1](http://arxiv.org/abs/2403.03714v1)|null|
