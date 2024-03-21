@@ -25,6 +25,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**EthioLLM: Multilingual Large Language Models for Ethiopian Languages with Task Evaluation**|Atnafu Lambebo Tonja et.al.|[2403.13737v1](http://arxiv.org/abs/2403.13737v1)|null|
+|**2024-03-20**|**Genetic Auto-prompt Learning for Pre-trained Code Intelligence Language Models**|Chengzhe Feng et.al.|[2403.13588v1](http://arxiv.org/abs/2403.13588v1)|null|
+|**2024-03-20**|**How Gender Interacts with Political Values: A Case Study on Czech BERT Models**|Adnan Al Ali et.al.|[2403.13514v1](http://arxiv.org/abs/2403.13514v1)|null|
+|**2024-03-20**|**Community Needs and Assets: A Computational Analysis of Community Conversations**|Md Towhidul Absar Chowdhury et.al.|[2403.13272v1](http://arxiv.org/abs/2403.13272v1)|null|
+|**2024-03-19**|**AdaFish: Fast low-rank parameter-efficient fine-tuning by using second-order information**|Jiang Hu et.al.|[2403.13128v1](http://arxiv.org/abs/2403.13128v1)|null|
 |**2024-03-19**|**Generalizable and Stable Finetuning of Pretrained Language Models on Low-Resource Texts**|Sai Ashish Somayajula et.al.|[2403.12918v1](http://arxiv.org/abs/2403.12918v1)|**[link](https://github.com/sai-ashish/attention_guided_weight_mixup_blo)**|
 |**2024-03-19**|**Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models**|Zhixue Zhao et.al.|[2403.12809v1](http://arxiv.org/abs/2403.12809v1)|**[link](https://github.com/casszhao/multilingual-faith)**|
 |**2024-03-19**|**Quantixar: High-performance Vector Data Management System**|Gulshan Yadav et.al.|[2403.12583v1](http://arxiv.org/abs/2403.12583v1)|null|
@@ -2243,6 +2248,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
+|**2024-03-19**|**Towards Unsupervised Question Answering System with Multi-level Summarization for Legal Text**|M Manvith Prabhu et.al.|[2403.13107v1](http://arxiv.org/abs/2403.13107v1)|null|
 |**2024-03-16**|**Human Centered AI for Indian Legal Text Analytics**|Sudipto Ghosh et.al.|[2403.10944v1](http://arxiv.org/abs/2403.10944v1)|null|
 |**2024-03-12**|**Generating Clarification Questions for Disambiguating Contracts**|Anmol Singhal et.al.|[2403.08053v1](http://arxiv.org/abs/2403.08053v1)|null|
 |**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad et.al.|[2403.06872v1](http://arxiv.org/abs/2403.06872v1)|**[link](https://github.com/nishchalprasad/mesc)**|
@@ -2453,10 +2460,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-19**|**Sebastian, Basti, Wastl?! Recognizing Named Entities in Bavarian Dialectal Data**|Siyao Peng et.al.|[2403.12749v1](http://arxiv.org/abs/2403.12749v1)|null|
+|**2024-03-19**|**Sebastian, Basti, Wastl?! Recognizing Named Entities in Bavarian Dialectal Data**|Siyao Peng et.al.|[2403.12749v1](http://arxiv.org/abs/2403.12749v1)|**[link](https://github.com/mainlp/barner)**|
 |**2024-03-18**|**Evaluating Named Entity Recognition: Comparative Analysis of Mono- and Multilingual Transformer Models on Brazilian Corporate Earnings Call Transcriptions**|Ramon Abilio et.al.|[2403.12212v1](http://arxiv.org/abs/2403.12212v1)|**[link](https://github.com/rsabilio/nereval-braziliancorporatetranscriptions)**|
 |**2024-03-18**|**Embedded Named Entity Recognition using Probing Classifiers**|Nicholas Popovič et.al.|[2403.11747v1](http://arxiv.org/abs/2403.11747v1)|null|
-|**2024-03-17**|**ProgGen: Generating Named Entity Recognition Datasets Step-by-step with Self-Reflexive Large Language Models**|Yuzhao Heng et.al.|[2403.11103v1](http://arxiv.org/abs/2403.11103v1)|null|
+|**2024-03-17**|**ProgGen: Generating Named Entity Recognition Datasets Step-by-step with Self-Reflexive Large Language Models**|Yuzhao Heng et.al.|[2403.11103v1](http://arxiv.org/abs/2403.11103v1)|**[link](https://github.com/stefanheng/proggen)**|
 |**2024-03-14**|**TBI Image/Text (TBI-IT): Comprehensive Text and Image Datasets for Traumatic Brain Injury Research**|Jie Li et.al.|[2403.09062v1](http://arxiv.org/abs/2403.09062v1)|null|
 |**2024-03-11**|**Evolving Knowledge Distillation with Large Language Models and Active Learning**|Chengyuan Liu et.al.|[2403.06414v1](http://arxiv.org/abs/2403.06414v1)|null|
 |**2024-03-09**|**Few-Shot Cross-Lingual Transfer for Prompting Large Language Models in Low-Resource Languages**|Christopher Toukmaji et.al.|[2403.06018v1](http://arxiv.org/abs/2403.06018v1)|null|
@@ -4434,6 +4441,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
+|**2024-03-20**|**Improved Baselines for Data-efficient Perceptual Augmentation of LLMs**|Théophane Vallaeys et.al.|[2403.13499v1](http://arxiv.org/abs/2403.13499v1)|null|
+|**2024-03-20**|**DESIRE-ME: Domain-Enhanced Supervised Information REtrieval using Mixture-of-Experts**|Pranav Kasela et.al.|[2403.13468v1](http://arxiv.org/abs/2403.13468v1)|**[link](https://github.com/pkasela/desire-me)**|
+|**2024-03-20**|**Polaris: A Safety-focused LLM Constellation Architecture for Healthcare**|Subhabrata Mukherjee et.al.|[2403.13313v1](http://arxiv.org/abs/2403.13313v1)|null|
+|**2024-03-19**|**VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal In-Context Learning**|Yongshuo Zong et.al.|[2403.13164v1](http://arxiv.org/abs/2403.13164v1)|null|
+|**2024-03-19**|**Encode Once and Decode in Parallel: Efficient Transformer Decoding**|Bo-Ru Lu et.al.|[2403.13112v1](http://arxiv.org/abs/2403.13112v1)|null|
+|**2024-03-19**|**Towards Unsupervised Question Answering System with Multi-level Summarization for Legal Text**|M Manvith Prabhu et.al.|[2403.13107v1](http://arxiv.org/abs/2403.13107v1)|null|
 |**2024-03-18**|**NovelQA: A Benchmark for Long-Range Novel Question Answering**|Cunxiang Wang et.al.|[2403.12766v1](http://arxiv.org/abs/2403.12766v1)|null|
 |**2024-03-19**|**As Firm As Their Foundations: Can open-sourced foundation models be used to create adversarial examples for downstream tasks?**|Anjun Hu et.al.|[2403.12693v1](http://arxiv.org/abs/2403.12693v1)|null|
 |**2024-03-19**|**SEVEN: Pruning Transformer Model by Reserving Sentinels**|Jinying Xiao et.al.|[2403.12688v1](http://arxiv.org/abs/2403.12688v1)|**[link](https://github.com/xiaojinying/SEVEN)**|
@@ -6086,6 +6100,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Clinical information extraction for Low-resource languages with Few-shot learning using Pre-trained language models and Prompting**|Phillip Richter-Pechanski et.al.|[2403.13369v1](http://arxiv.org/abs/2403.13369v1)|null|
+|**2024-03-20**|**Document Author Classification Using Parsed Language Structure**|Todd K Moon et.al.|[2403.13253v1](http://arxiv.org/abs/2403.13253v1)|null|
 |**2024-03-19**|**Automatic Information Extraction From Employment Tribunal Judgements Using Large Language Models**|Joana Ribeiro de Faria et.al.|[2403.12936v1](http://arxiv.org/abs/2403.12936v1)|null|
 |**2024-03-19**|**Prompt-based Graph Model for Joint Liberal Event Extraction and Event Schema Induction**|Haochen Li et.al.|[2403.12526v1](http://arxiv.org/abs/2403.12526v1)|null|
 |**2024-03-19**|**Pipelined Biomedical Event Extraction Rivaling Joint Learning**|Pengchao Wu et.al.|[2403.12386v1](http://arxiv.org/abs/2403.12386v1)|null|
@@ -6769,13 +6785,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-19**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660v1](http://arxiv.org/abs/2403.12660v1)|**[link](https://github.com/jia-py/erase)**|
+|**2024-03-20**|**A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation**|Bowen Zheng et.al.|[2403.13574v1](http://arxiv.org/abs/2403.13574v1)|null|
+|**2024-03-20**|**An AI-Assisted Skincare Routine Recommendation System in XR**|Gowravi Malalur Rajegowda et.al.|[2403.13466v1](http://arxiv.org/abs/2403.13466v1)|null|
+|**2024-03-20**|**Harnessing Large Language Models for Text-Rich Sequential Recommendation**|Zhi Zheng et.al.|[2403.13325v1](http://arxiv.org/abs/2403.13325v1)|null|
+|**2024-03-20**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660v2](http://arxiv.org/abs/2403.12660v2)|**[link](https://github.com/jia-py/erase)**|
 |**2024-03-19**|**InBox: Recommendation with Knowledge Graph using Interest Box Embedding**|Zezhong Xu et.al.|[2403.12649v1](http://arxiv.org/abs/2403.12649v1)|null|
 |**2024-03-19**|**Context-based Fast Recommendation Strategy for Long User Behavior Sequence in Meituan Waimai**|Zhichao Feng et.al.|[2403.12566v1](http://arxiv.org/abs/2403.12566v1)|null|
 |**2024-03-15**|**Enriching User Shopping History: Empowering E-commerce with a Hierarchical Recommendation System**|Irem Islek et.al.|[2403.12096v1](http://arxiv.org/abs/2403.12096v1)|null|
 |**2024-03-18**|**Dual-Channel Multiplex Graph Neural Networks for Recommendation**|Xiang Li et.al.|[2403.11624v1](http://arxiv.org/abs/2403.11624v1)|null|
 |**2024-03-17**|**Causality from Bottom to Top: A Survey**|Abraham Itzhak Weinberg et.al.|[2403.11219v1](http://arxiv.org/abs/2403.11219v1)|null|
-|**2024-03-17**|**Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation**|Peilin Zhou et.al.|[2403.11136v1](http://arxiv.org/abs/2403.11136v1)|null|
+|**2024-03-17**|**Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation**|Peilin Zhou et.al.|[2403.11136v1](http://arxiv.org/abs/2403.11136v1)|**[link](https://github.com/aim-se/da4rec)**|
 |**2024-03-17**|**Unifying Feature and Cost Aggregation with Transformers for Semantic and Visual Correspondence**|Sunghwan Hong et.al.|[2403.11120v1](http://arxiv.org/abs/2403.11120v1)|null|
 |**2024-03-15**|**PPM : A Pre-trained Plug-in Model for Click-through Rate Prediction**|Yuanbo Gao et.al.|[2403.10049v1](http://arxiv.org/abs/2403.10049v1)|null|
 |**2024-03-19**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738v2](http://arxiv.org/abs/2403.09738v2)|null|
@@ -9199,6 +9218,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Sparse Implementation of Versatile Graph-Informed Layers**|Francesco Della Santa et.al.|[2403.13781v1](http://arxiv.org/abs/2403.13781v1)|null|
+|**2024-03-20**|**Unifews: Unified Entry-Wise Sparsification for Efficient Graph Neural Network**|Ningyi Liao et.al.|[2403.13268v1](http://arxiv.org/abs/2403.13268v1)|null|
+|**2024-03-20**|**A Comparative Study of Machine Learning Models Predicting Energetics of Interacting Defects**|Hao Yu et.al.|[2403.13243v1](http://arxiv.org/abs/2403.13243v1)|null|
+|**2024-03-19**|**Improving tracking algorithms with machine learning: a case for line-segment tracking at the High Luminosity LHC**|Jonathan Guiang et.al.|[2403.13166v1](http://arxiv.org/abs/2403.13166v1)|null|
+|**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093v1](http://arxiv.org/abs/2403.13093v1)|null|
 |**2024-03-19**|**FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer**|Dongyeong Hwang et.al.|[2403.12821v1](http://arxiv.org/abs/2403.12821v1)|**[link](https://github.com/y0ngjaenius/cvpr2024_flowerformer)**|
 |**2024-03-19**|**Contextualized Messages Boost Graph Representations**|Brian Godwin Lim et.al.|[2403.12529v1](http://arxiv.org/abs/2403.12529v1)|null|
 |**2024-03-19**|**FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization**|Cheng Yang et.al.|[2403.12474v1](http://arxiv.org/abs/2403.12474v1)|null|
