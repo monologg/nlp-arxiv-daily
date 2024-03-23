@@ -6811,7 +6811,7 @@
 |**2024-03-20**|**A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation**|Bowen Zheng et.al.|[2403.13574v1](http://arxiv.org/abs/2403.13574v1)|null|
 |**2024-03-20**|**An AI-Assisted Skincare Routine Recommendation System in XR**|Gowravi Malalur Rajegowda et.al.|[2403.13466v1](http://arxiv.org/abs/2403.13466v1)|null|
 |**2024-03-20**|**Harnessing Large Language Models for Text-Rich Sequential Recommendation**|Zhi Zheng et.al.|[2403.13325v1](http://arxiv.org/abs/2403.13325v1)|null|
-|**2024-03-20**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660v2](http://arxiv.org/abs/2403.12660v2)|**[link](https://github.com/jia-py/erase)**|
+|**2024-03-20**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660v2](http://arxiv.org/abs/2403.12660v2)|**[link](https://github.com/applied-machine-learning-lab/erase)**|
 |**2024-03-19**|**InBox: Recommendation with Knowledge Graph using Interest Box Embedding**|Zezhong Xu et.al.|[2403.12649v1](http://arxiv.org/abs/2403.12649v1)|null|
 |**2024-03-19**|**Context-based Fast Recommendation Strategy for Long User Behavior Sequence in Meituan Waimai**|Zhichao Feng et.al.|[2403.12566v1](http://arxiv.org/abs/2403.12566v1)|null|
 |**2024-03-15**|**Enriching User Shopping History: Empowering E-commerce with a Hierarchical Recommendation System**|Irem Islek et.al.|[2403.12096v1](http://arxiv.org/abs/2403.12096v1)|null|
@@ -9251,7 +9251,7 @@
 |**2024-03-20**|**Unifews: Unified Entry-Wise Sparsification for Efficient Graph Neural Network**|Ningyi Liao et.al.|[2403.13268v1](http://arxiv.org/abs/2403.13268v1)|null|
 |**2024-03-20**|**A Comparative Study of Machine Learning Models Predicting Energetics of Interacting Defects**|Hao Yu et.al.|[2403.13243v1](http://arxiv.org/abs/2403.13243v1)|null|
 |**2024-03-19**|**Improving tracking algorithms with machine learning: a case for line-segment tracking at the High Luminosity LHC**|Jonathan Guiang et.al.|[2403.13166v1](http://arxiv.org/abs/2403.13166v1)|null|
-|**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093v1](http://arxiv.org/abs/2403.13093v1)|null|
+|**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093v1](http://arxiv.org/abs/2403.13093v1)|**[link](https://github.com/nu-ideas-lab/patrolling_zoo)**|
 |**2024-03-21**|**FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer**|Dongyeong Hwang et.al.|[2403.12821v2](http://arxiv.org/abs/2403.12821v2)|**[link](https://github.com/y0ngjaenius/cvpr2024_flowerformer)**|
 |**2024-03-19**|**Contextualized Messages Boost Graph Representations**|Brian Godwin Lim et.al.|[2403.12529v1](http://arxiv.org/abs/2403.12529v1)|null|
 |**2024-03-19**|**FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization**|Cheng Yang et.al.|[2403.12474v1](http://arxiv.org/abs/2403.12474v1)|null|
