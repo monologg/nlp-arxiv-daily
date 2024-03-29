@@ -21,6 +21,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Improving Clinical NLP Performance through Language Model-Generated Synthetic Clinical Data**|Shan Chen et.al.|[2403.19511v1](http://arxiv.org/abs/2403.19511v1)|**[link](https://github.com/aim-harvard/fake2real)**|
+|**2024-03-28**|**Uncovering Misattributed Suicide Causes through Annotation Inconsistency Detection in Death Investigation Notes**|Song Wang et.al.|[2403.19432v1](http://arxiv.org/abs/2403.19432v1)|**[link](https://github.com/bionlplab/2024_npjdm_inconsistency_detection)**|
+|**2024-03-28**|**EthioMT: Parallel Corpus for Low-resource Ethiopian Languages**|Atnafu Lambebo Tonja et.al.|[2403.19365v1](http://arxiv.org/abs/2403.19365v1)|null|
+|**2024-03-28**|**A diverse Multilingual News Headlines Dataset from around the World**|Felix Leeb et.al.|[2403.19352v1](http://arxiv.org/abs/2403.19352v1)|**[link](https://github.com/felixludos/babel-briefings)**|
+|**2024-03-27**|**Evaluating Large Language Models for Health-Related Text Classification Tasks with Public Social Media Data**|Yuting Guo et.al.|[2403.19031v1](http://arxiv.org/abs/2403.19031v1)|null|
+|**2024-03-27**|**Resource Allocation in Large Language Model Integrated 6G Vehicular Networks**|Chang Liu et.al.|[2403.19016v1](http://arxiv.org/abs/2403.19016v1)|null|
+|**2024-03-27**|**A Survey on Large Language Models from Concept to Implementation**|Chen Wang et.al.|[2403.18969v1](http://arxiv.org/abs/2403.18969v1)|null|
+|**2024-03-27**|**Reshaping Free-Text Radiology Notes Into Structured Reports With Generative Transformers**|Laura Bergomi et.al.|[2403.18938v1](http://arxiv.org/abs/2403.18938v1)|**[link](https://github.com/bmi-labmedinfo/nlp-radiology-paper)**|
 |**2024-03-27**|**Is Modularity Transferable? A Case Study through the Lens of Knowledge Distillation**|Mateusz Klimaszewski et.al.|[2403.18804v1](http://arxiv.org/abs/2403.18804v1)|null|
 |**2024-03-27**|**3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation**|Ehsan Latif et.al.|[2403.18778v1](http://arxiv.org/abs/2403.18778v1)|null|
 |**2024-03-27**|**Transformers-based architectures for stroke segmentation: A review**|Yalda Zafari-Ghadim et.al.|[2403.18637v1](http://arxiv.org/abs/2403.18637v1)|null|
@@ -3000,6 +3008,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**EthioMT: Parallel Corpus for Low-resource Ethiopian Languages**|Atnafu Lambebo Tonja et.al.|[2403.19365v1](http://arxiv.org/abs/2403.19365v1)|null|
+|**2024-03-27**|**Evaluating Large Language Models for Health-Related Text Classification Tasks with Public Social Media Data**|Yuting Guo et.al.|[2403.19031v1](http://arxiv.org/abs/2403.19031v1)|null|
 |**2024-03-27**|**Is Modularity Transferable? A Case Study through the Lens of Knowledge Distillation**|Mateusz Klimaszewski et.al.|[2403.18804v1](http://arxiv.org/abs/2403.18804v1)|null|
 |**2024-03-26**|**Verbing Weirds Language (Models): Evaluation of English Zero-Derivation in Five LLMs**|David R. Mortensen et.al.|[2403.17856v1](http://arxiv.org/abs/2403.17856v1)|null|
 |**2024-03-26**|**Language Models for Text Classification: Is In-Context Learning Enough?**|Aleksandra Edwards et.al.|[2403.17661v1](http://arxiv.org/abs/2403.17661v1)|null|
@@ -3901,6 +3911,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**KazSAnDRA: Kazakh Sentiment Analysis Dataset of Reviews and Attitudes**|Rustem Yeshpanov et.al.|[2403.19335v1](http://arxiv.org/abs/2403.19335v1)|**[link](https://github.com/is2ai/kazsandra)**|
 |**2024-03-25**|**A Hybrid Approach To Aspect Based Sentiment Analysis Using Transfer Learning**|Gaurav Negi et.al.|[2403.17254v1](http://arxiv.org/abs/2403.17254v1)|null|
 |**2024-03-22**|**Large language models for crowd decision making based on prompt design strategies using ChatGPT: models, analysis and challenges**|Cristina Zuheros et.al.|[2403.15587v1](http://arxiv.org/abs/2403.15587v1)|null|
 |**2024-03-23**|**Extracting Emotion Phrases from Tweets using BART**|Mahdi Rezapour et.al.|[2403.14050v2](http://arxiv.org/abs/2403.14050v2)|null|
@@ -4515,6 +4526,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631v1](http://arxiv.org/abs/2403.19631v1)|null|
+|**2024-03-28**|**JDocQA: Japanese Document Question Answering Dataset for Generative Language Models**|Eri Onami et.al.|[2403.19454v1](http://arxiv.org/abs/2403.19454v1)|null|
+|**2024-03-28**|**Transparent and Clinically Interpretable AI for Lung Cancer Detection in Chest X-Rays**|Amy Rafferty et.al.|[2403.19444v1](http://arxiv.org/abs/2403.19444v1)|null|
+|**2024-03-28**|**EthioMT: Parallel Corpus for Low-resource Ethiopian Languages**|Atnafu Lambebo Tonja et.al.|[2403.19365v1](http://arxiv.org/abs/2403.19365v1)|null|
+|**2024-03-28**|**Are Large Language Models Good at Utility Judgments?**|Hengran Zhang et.al.|[2403.19216v1](http://arxiv.org/abs/2403.19216v1)|**[link](https://github.com/ict-bigdatalab/utility_judgments)**|
+|**2024-03-28**|**MFORT-QA: Multi-hop Few-shot Open Rich Table Question Answering**|Che Guan et.al.|[2403.19116v1](http://arxiv.org/abs/2403.19116v1)|null|
+|**2024-03-27**|**Reshaping Free-Text Radiology Notes Into Structured Reports With Generative Transformers**|Laura Bergomi et.al.|[2403.18938v1](http://arxiv.org/abs/2403.18938v1)|**[link](https://github.com/bmi-labmedinfo/nlp-radiology-paper)**|
 |**2024-03-27**|**Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction**|Inhwan Bae et.al.|[2403.18447v1](http://arxiv.org/abs/2403.18447v1)|**[link](https://github.com/inhwanbae/lmtrajectory)**|
 |**2024-03-27**|**BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text**|Elliot Bolton et.al.|[2403.18421v1](http://arxiv.org/abs/2403.18421v1)|null|
 |**2024-03-27**|**An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM**|Wonkyun Kim et.al.|[2403.18406v1](http://arxiv.org/abs/2403.18406v1)|null|
@@ -6214,6 +6232,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**RootInteractive tool for multidimensional statistical analysis, machine learning and analytical model validation**|Marian Invanov et.al.|[2403.19330v1](http://arxiv.org/abs/2403.19330v1)|null|
+|**2024-03-28**|**OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition**|Jianqiang Wan et.al.|[2403.19128v1](http://arxiv.org/abs/2403.19128v1)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
+|**2024-03-27**|**A Novel Corpus of Annotated Medical Imaging Reports and Information Extraction Results Using BERT-based Language Models**|Namu Park et.al.|[2403.18975v1](http://arxiv.org/abs/2403.18975v1)|null|
 |**2024-03-27**|**Uncertainty quantification in $(p,n)$ reactions**|A. J. Smith et.al.|[2403.18629v1](http://arxiv.org/abs/2403.18629v1)|null|
 |**2024-03-27**|**LLMs in HCI Data Work: Bridging the Gap Between Information Retrieval and Responsible Research Practices**|Neda Taghizadeh Serajeh et.al.|[2403.18173v1](http://arxiv.org/abs/2403.18173v1)|null|
 |**2024-03-26**|**Hierarchical Multi-label Classification for Fine-level Event Extraction from Aviation Accident Reports**|Xinyu Zhao et.al.|[2403.17914v1](http://arxiv.org/abs/2403.17914v1)|null|
@@ -6917,6 +6938,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Fairness in Ranking: Robustness through Randomization without the Protected Attribute**|Andrii Kliachkin et.al.|[2403.19419v1](http://arxiv.org/abs/2403.19419v1)|null|
+|**2024-03-28**|**Intelligent Classification and Personalized Recommendation of E-commerce Products Based on Machine Learning**|Kangming Xu et.al.|[2403.19345v1](http://arxiv.org/abs/2403.19345v1)|null|
+|**2024-03-28**|**Enhanced Bayesian Personalized Ranking for Robust Hard Negative Sampling in Recommender Systems**|Kexin Shi et.al.|[2403.19276v1](http://arxiv.org/abs/2403.19276v1)|null|
+|**2024-03-28**|**Make Large Language Model a Better Ranker**|Wenshuo Chao et.al.|[2403.19181v1](http://arxiv.org/abs/2403.19181v1)|null|
 |**2024-03-27**|**Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users**|Yejin Kim et.al.|[2403.18667v1](http://arxiv.org/abs/2403.18667v1)|null|
 |**2024-03-27**|**To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models**|Zhefan Wang et.al.|[2403.18628v1](http://arxiv.org/abs/2403.18628v1)|null|
 |**2024-03-27**|**Modeling Sustainable City Trips: Integrating CO2 Emissions, Popularity, and Seasonality into Tourism Recommender Systems**|Ashmi Banerjee et.al.|[2403.18604v1](http://arxiv.org/abs/2403.18604v1)|null|
@@ -9397,9 +9422,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-27**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666v1](http://arxiv.org/abs/2403.18666v1)|null|
+|**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474v1](http://arxiv.org/abs/2403.19474v1)|**[link](https://github.com/dfki-av/sg-pgm)**|
+|**2024-03-28**|**Exploiting Individual Graph Structures to Enhance Ecological Momentary Assessment (EMA) Forecasting**|Mandani Ntekouli et.al.|[2403.19442v1](http://arxiv.org/abs/2403.19442v1)|null|
+|**2024-03-28**|**Graph Neural Networks for Treatment Effect Prediction**|George Panagopoulos et.al.|[2403.19289v1](http://arxiv.org/abs/2403.19289v1)|null|
+|**2024-03-28**|**Tiny Graph Neural Networks for Radio Resource Management**|Ahmad Ghasemi et.al.|[2403.19143v1](http://arxiv.org/abs/2403.19143v1)|null|
+|**2024-03-28**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666v2](http://arxiv.org/abs/2403.18666v2)|null|
 |**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570v1](http://arxiv.org/abs/2403.18570v1)|**[link](https://github.com/HammerLabML/physics_informed_gnns_for_wds)**|
-|**2024-03-27**|**Lightweight Embeddings for Graph Collaborative Filtering**|Xurong Liang et.al.|[2403.18479v1](http://arxiv.org/abs/2403.18479v1)|**[link](https://github.com/xurong-liang/LEGCF)**|
+|**2024-03-28**|**Lightweight Embeddings for Graph Collaborative Filtering**|Xurong Liang et.al.|[2403.18479v2](http://arxiv.org/abs/2403.18479v2)|**[link](https://github.com/xurong-liang/LEGCF)**|
 |**2024-03-27**|**Deciphering Chemical Ordering in High Entropy Materials: A Machine Learning-Accelerated High-throughput Cluster Expansion Approach**|Guillermo Vazquez et.al.|[2403.18298v1](http://arxiv.org/abs/2403.18298v1)|null|
 |**2024-03-27**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296v1](http://arxiv.org/abs/2403.18296v1)|null|
 |**2024-03-26**|**HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks**|Yongyi Yang et.al.|[2403.18142v1](http://arxiv.org/abs/2403.18142v1)|null|
