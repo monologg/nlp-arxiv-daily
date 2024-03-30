@@ -9426,11 +9426,11 @@
 |**2024-03-28**|**Exploiting Individual Graph Structures to Enhance Ecological Momentary Assessment (EMA) Forecasting**|Mandani Ntekouli et.al.|[2403.19442v1](http://arxiv.org/abs/2403.19442v1)|null|
 |**2024-03-28**|**Graph Neural Networks for Treatment Effect Prediction**|George Panagopoulos et.al.|[2403.19289v1](http://arxiv.org/abs/2403.19289v1)|null|
 |**2024-03-28**|**Tiny Graph Neural Networks for Radio Resource Management**|Ahmad Ghasemi et.al.|[2403.19143v1](http://arxiv.org/abs/2403.19143v1)|null|
-|**2024-03-28**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666v2](http://arxiv.org/abs/2403.18666v2)|null|
+|**2024-03-28**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666v2](http://arxiv.org/abs/2403.18666v2)|**[link](https://github.com/kierensharma/fluxgat)**|
 |**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570v1](http://arxiv.org/abs/2403.18570v1)|**[link](https://github.com/HammerLabML/physics_informed_gnns_for_wds)**|
 |**2024-03-28**|**Lightweight Embeddings for Graph Collaborative Filtering**|Xurong Liang et.al.|[2403.18479v2](http://arxiv.org/abs/2403.18479v2)|**[link](https://github.com/xurong-liang/LEGCF)**|
 |**2024-03-27**|**Deciphering Chemical Ordering in High Entropy Materials: A Machine Learning-Accelerated High-throughput Cluster Expansion Approach**|Guillermo Vazquez et.al.|[2403.18298v1](http://arxiv.org/abs/2403.18298v1)|null|
-|**2024-03-27**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296v1](http://arxiv.org/abs/2403.18296v1)|null|
+|**2024-03-27**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296v1](http://arxiv.org/abs/2403.18296v1)|**[link](https://github.com/chunbaobao/genet)**|
 |**2024-03-26**|**HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks**|Yongyi Yang et.al.|[2403.18142v1](http://arxiv.org/abs/2403.18142v1)|null|
 |**2024-03-26**|**Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs**|Jane Downer et.al.|[2403.18136v1](http://arxiv.org/abs/2403.18136v1)|null|
 |**2024-03-26**|**CANOS: A Fast and Scalable Neural AC-OPF Solver Robust To N-1 Perturbations**|Luis Piloto et.al.|[2403.17660v1](http://arxiv.org/abs/2403.17660v1)|null|
