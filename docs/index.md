@@ -25,6 +25,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Automatic Prompt Selection for Large Language Models**|Viet-Tung Do et.al.|[2404.02717v1](http://arxiv.org/abs/2404.02717v1)|null|
+|**2024-04-03**|**Adversarial Attacks and Dimensionality in Text Classifiers**|Nandish Chattopadhyay et.al.|[2404.02660v1](http://arxiv.org/abs/2404.02660v1)|null|
+|**2024-04-03**|**Learn to Disguise: Avoid Refusal Responses in LLM's Defense via a Multi-agent Attacker-Disguiser Game**|Qianqiao Xu et.al.|[2404.02532v1](http://arxiv.org/abs/2404.02532v1)|null|
+|**2024-04-03**|**On the Efficiency and Robustness of Vibration-based Foundation Models for IoT Sensing: A Case Study**|Tomoyoshi Kimura et.al.|[2404.02461v1](http://arxiv.org/abs/2404.02461v1)|null|
+|**2024-04-03**|**Task Agnostic Architecture for Algorithm Induction via Implicit Composition**|Sahil J. Sindhi et.al.|[2404.02450v1](http://arxiv.org/abs/2404.02450v1)|null|
+|**2024-04-03**|**The Promises and Pitfalls of Using Language Models to Measure Instruction Quality in Education**|Paiheng Xu et.al.|[2404.02444v1](http://arxiv.org/abs/2404.02444v1)|null|
+|**2024-04-03**|**CMULAB: An Open-Source Framework for Training and Deployment of Natural Language Processing Models**|Zaid Sheikh et.al.|[2404.02408v1](http://arxiv.org/abs/2404.02408v1)|**[link](https://github.com/neulab/cmulab)**|
+|**2024-04-02**|**Corpus Considerations for Annotator Modeling and Scaling**|Olufunke O. Sarumi et.al.|[2404.02340v1](http://arxiv.org/abs/2404.02340v1)|**[link](https://github.com/caisa-lab/naacl2024-considerations-annotator-modeling)**|
+|**2024-04-02**|**Comparative Study of Domain Driven Terms Extraction Using Large Language Models**|Sandeep Chataut et.al.|[2404.02330v1](http://arxiv.org/abs/2404.02330v1)|null|
 |**2024-04-02**|**Using Interpretation Methods for Model Enhancement**|Zhuo Chen et.al.|[2404.02068v1](http://arxiv.org/abs/2404.02068v1)|**[link](https://github.com/chord-chen-30/uimer)**|
 |**2024-04-02**|**BERTopic-Driven Stock Market Predictions: Unraveling Sentiment Insights**|Enmin Zhu et.al.|[2404.02053v1](http://arxiv.org/abs/2404.02053v1)|null|
 |**2024-04-02**|**Kallaama: A Transcribed Speech Dataset about Agriculture in the Three Most Widely Spoken Languages in Senegal**|Elodie Gauthier et.al.|[2404.01991v1](http://arxiv.org/abs/2404.01991v1)|**[link](https://github.com/gauthelo/kallaama-speech-dataset)**|
@@ -2533,6 +2542,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Multi-BERT: Leveraging Adapters and Prompt Tuning for Low-Resource Multi-Domain Adaptation**|Parham Abed Azad et.al.|[2404.02335v1](http://arxiv.org/abs/2404.02335v1)|null|
 |**2024-04-02**|**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**|Hyunjong Ok et.al.|[2404.01914v1](http://arxiv.org/abs/2404.01914v1)|null|
 |**2024-04-01**|**Utilizing AI and Social Media Analytics to Discover Adverse Side Effects of GLP-1 Receptor Agonists**|Alon Bartal et.al.|[2404.01358v1](http://arxiv.org/abs/2404.01358v1)|null|
 |**2024-03-30**|**Augmenting NER Datasets with LLMs: Towards Automated and Refined Annotation**|Yuji Naraki et.al.|[2404.01334v1](http://arxiv.org/abs/2404.01334v1)|null|
@@ -3038,6 +3048,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**FPT: Feature Prompt Tuning for Few-shot Readability Assessment**|Ziyang Wang et.al.|[2404.02772v1](http://arxiv.org/abs/2404.02772v1)|**[link](https://github.com/wzy232303/fpt)**|
+|**2024-04-03**|**Adversarial Attacks and Dimensionality in Text Classifiers**|Nandish Chattopadhyay et.al.|[2404.02660v1](http://arxiv.org/abs/2404.02660v1)|null|
+|**2024-04-03**|**A Differentiable Integer Linear Programming Solver for Explanation-Based Natural Language Inference**|Mokanarangan Thayaparan et.al.|[2404.02625v1](http://arxiv.org/abs/2404.02625v1)|null|
+|**2024-04-03**|**Affective-NLI: Towards Accurate and Interpretable Personality Recognition in Conversation**|Zhiyuan Wen et.al.|[2404.02589v1](http://arxiv.org/abs/2404.02589v1)|null|
+|**2024-04-03**|**Adaptive Cross-lingual Text Classification through In-Context One-Shot Demonstrations**|Emilio Villa-Cueva et.al.|[2404.02452v1](http://arxiv.org/abs/2404.02452v1)|**[link](https://github.com/villacu/ic_xlt)**|
+|**2024-04-03**|**Enhancing Low-Resource LLMs Classification with PEFT and Synthetic Data**|Parth Patwa et.al.|[2404.02422v1](http://arxiv.org/abs/2404.02422v1)|null|
 |**2024-04-02**|**Explainability in JupyterLab and Beyond: Interactive XAI Systems for Integrated and Collaborative Workflows**|Grace Guo et.al.|[2404.02081v1](http://arxiv.org/abs/2404.02081v1)|null|
 |**2024-04-02**|**Ukrainian Texts Classification: Exploration of Cross-lingual Knowledge Transfer Approaches**|Daryna Dementieva et.al.|[2404.02043v1](http://arxiv.org/abs/2404.02043v1)|null|
 |**2024-04-02**|**On the Role of Summary Content Units in Text Summarization Evaluation**|Marcel Nawrath et.al.|[2404.01701v1](http://arxiv.org/abs/2404.01701v1)|**[link](https://github.com/tristanratz/scu-text-evaluation)**|
@@ -3952,6 +3968,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Two Heads are Better than One: Nested PoE for Robust Defense Against Multi-Backdoors**|Victoria Graf et.al.|[2404.02356v1](http://arxiv.org/abs/2404.02356v1)|null|
 |**2024-04-02**|**BERTopic-Driven Stock Market Predictions: Unraveling Sentiment Insights**|Enmin Zhu et.al.|[2404.02053v1](http://arxiv.org/abs/2404.02053v1)|null|
 |**2024-04-02**|**Sentiment Analysis of Citations in Scientific Articles Using ChatGPT: Identifying Potential Biases and Conflicts of Interest**|Walid Hariri et.al.|[2404.01800v1](http://arxiv.org/abs/2404.01800v1)|null|
 |**2024-04-02**|**M2SA: Multimodal and Multilingual Model for Sentiment Analysis of Tweets**|Gaurish Thakkar et.al.|[2404.01753v1](http://arxiv.org/abs/2404.01753v1)|null|
@@ -4576,6 +4593,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**On Few-Shot Prompting for Controllable Question-Answer Generation in Narrative Comprehension**|Bernardo Leite et.al.|[2404.02800v1](http://arxiv.org/abs/2404.02800v1)|null|
+|**2024-04-03**|**Automatic Prompt Selection for Large Language Models**|Viet-Tung Do et.al.|[2404.02717v1](http://arxiv.org/abs/2404.02717v1)|null|
+|**2024-04-03**|**Multi-Granularity Guided Fusion-in-Decoder**|Eunseong Choi et.al.|[2404.02581v1](http://arxiv.org/abs/2404.02581v1)|**[link](https://github.com/eunseongc/mgfid)**|
+|**2024-04-03**|**VIAssist: Adapting Multi-modal Large Language Models for Users with Visual Impairments**|Bufang Yang et.al.|[2404.02508v1](http://arxiv.org/abs/2404.02508v1)|null|
+|**2024-04-03**|**Enhancing Human-Computer Interaction in Chest X-ray Analysis using Vision and Language Model with Eye Gaze Patterns**|Yunsoo Kim et.al.|[2404.02370v1](http://arxiv.org/abs/2404.02370v1)|null|
 |**2024-04-02**|**Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity**|Zoher Kachwala et.al.|[2404.02126v1](http://arxiv.org/abs/2404.02126v1)|**[link](https://github.com/osome-iu/Rematch-RARE)**|
 |**2024-04-02**|**CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions for RAG systems**|Sara Rosenthal et.al.|[2404.02103v1](http://arxiv.org/abs/2404.02103v1)|**[link](https://github.com/primeqa/clapnq)**|
 |**2024-04-02**|**Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts**|Zhuo Chen et.al.|[2404.02022v1](http://arxiv.org/abs/2404.02022v1)|null|
@@ -7011,6 +7033,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**A Computational Analysis of Lyric Similarity Perception**|Haven Kim et.al.|[2404.02342v1](http://arxiv.org/abs/2404.02342v1)|null|
 |**2024-04-02**|**IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT**|Junchen Fu et.al.|[2404.02059v1](http://arxiv.org/abs/2404.02059v1)|**[link](https://github.com/jjgenailab/iisan)**|
 |**2024-04-01**|**Poisoning Decentralized Collaborative Recommender System and Its Countermeasures**|Ruiqi Zheng et.al.|[2404.01177v1](http://arxiv.org/abs/2404.01177v1)|null|
 |**2024-04-01**|**EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation**|Shaorun Zhang et.al.|[2404.01008v1](http://arxiv.org/abs/2404.01008v1)|null|
@@ -8413,6 +8436,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL**|Yutong Shao et.al.|[2404.02389v1](http://arxiv.org/abs/2404.02389v1)|null|
 |**2024-04-02**|**Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity**|Zoher Kachwala et.al.|[2404.02126v1](http://arxiv.org/abs/2404.02126v1)|**[link](https://github.com/osome-iu/Rematch-RARE)**|
 |**2024-04-02**|**Class-Incremental Few-Shot Event Detection**|Kailin Zhao et.al.|[2404.01767v1](http://arxiv.org/abs/2404.01767v1)|null|
 |**2024-04-02**|**Self-Improvement Programming for Temporal Knowledge Graph Question Answering**|Zhuo Chen et.al.|[2404.01720v1](http://arxiv.org/abs/2404.01720v1)|null|
@@ -9523,6 +9547,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Generative-Contrastive Heterogeneous Graph Neural Network**|Yu Wang et.al.|[2404.02810v1](http://arxiv.org/abs/2404.02810v1)|null|
+|**2024-04-03**|**Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic Assisted Pseudo-labeling**|Xu Wang et.al.|[2404.02527v1](http://arxiv.org/abs/2404.02527v1)|null|
+|**2024-04-02**|**Unmasking Correlations in Nuclear Cross Sections with Graph Neural Networks**|Sinjini Mitra et.al.|[2404.02332v1](http://arxiv.org/abs/2404.02332v1)|null|
+|**2024-04-02**|**Virtual Sensor for Real-Time Bearing Load Prediction Using Heterogeneous Temporal Graph Neural Networks**|Mengjie Zhao et.al.|[2404.02304v1](http://arxiv.org/abs/2404.02304v1)|null|
+|**2024-04-02**|**CATGNN: Cost-Efficient and Scalable Distributed Training for Graph Neural Networks**|Xin Huang et.al.|[2404.02300v1](http://arxiv.org/abs/2404.02300v1)|null|
 |**2024-04-02**|**Multi-Level Label Correction by Distilling Proximate Patterns for Semi-supervised Semantic Segmentation**|Hui Xiao et.al.|[2404.02065v1](http://arxiv.org/abs/2404.02065v1)|null|
 |**2024-04-02**|**DSGNN: A Dual-View Supergrid-Aware Graph Neural Network for Regional Air Quality Estimation**|Xin Zhang et.al.|[2404.01975v1](http://arxiv.org/abs/2404.01975v1)|null|
 |**2024-04-02**|**Continuous Spiking Graph Neural Networks**|Nan Yin et.al.|[2404.01897v1](http://arxiv.org/abs/2404.01897v1)|null|
