@@ -3061,7 +3061,7 @@
 |**2024-04-03**|**Affective-NLI: Towards Accurate and Interpretable Personality Recognition in Conversation**|Zhiyuan Wen et.al.|[2404.02589v1](http://arxiv.org/abs/2404.02589v1)|null|
 |**2024-04-03**|**Adaptive Cross-lingual Text Classification through In-Context One-Shot Demonstrations**|Emilio Villa-Cueva et.al.|[2404.02452v1](http://arxiv.org/abs/2404.02452v1)|**[link](https://github.com/villacu/ic_xlt)**|
 |**2024-04-03**|**Enhancing Low-Resource LLMs Classification with PEFT and Synthetic Data**|Parth Patwa et.al.|[2404.02422v1](http://arxiv.org/abs/2404.02422v1)|null|
-|**2024-04-02**|**Explainability in JupyterLab and Beyond: Interactive XAI Systems for Integrated and Collaborative Workflows**|Grace Guo et.al.|[2404.02081v1](http://arxiv.org/abs/2404.02081v1)|null|
+|**2024-04-02**|**Explainability in JupyterLab and Beyond: Interactive XAI Systems for Integrated and Collaborative Workflows**|Grace Guo et.al.|[2404.02081v1](http://arxiv.org/abs/2404.02081v1)|**[link](https://github.com/gracegsy/bonxai)**|
 |**2024-04-02**|**Ukrainian Texts Classification: Exploration of Cross-lingual Knowledge Transfer Approaches**|Daryna Dementieva et.al.|[2404.02043v1](http://arxiv.org/abs/2404.02043v1)|null|
 |**2024-04-02**|**On the Role of Summary Content Units in Text Summarization Evaluation**|Marcel Nawrath et.al.|[2404.01701v1](http://arxiv.org/abs/2404.01701v1)|**[link](https://github.com/tristanratz/scu-text-evaluation)**|
 |**2024-04-02**|**A Universal Knowledge Embedded Contrastive Learning Framework for Hyperspectral Image Classification**|Quanwei Liu et.al.|[2404.01673v1](http://arxiv.org/abs/2404.01673v1)|null|
@@ -4606,7 +4606,7 @@
 |**2024-04-04**|**Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**|Yantao Liu et.al.|[2404.03577v1](http://arxiv.org/abs/2404.03577v1)|**[link](https://github.com/thu-keg/knot)**|
 |**2024-04-04**|**TinyVQA: Compact Multimodal Deep Neural Network for Visual Question Answering on Resource-Constrained Devices**|Hasib-Al Rashid et.al.|[2404.03574v1](http://arxiv.org/abs/2404.03574v1)|null|
 |**2024-04-04**|**Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought**|Jooyoung Lee et.al.|[2404.03414v1](http://arxiv.org/abs/2404.03414v1)|null|
-|**2024-04-04**|**LongVLM: Efficient Long Video Understanding via Large Language Models**|Yuetian Weng et.al.|[2404.03384v1](http://arxiv.org/abs/2404.03384v1)|null|
+|**2024-04-04**|**LongVLM: Efficient Long Video Understanding via Large Language Models**|Yuetian Weng et.al.|[2404.03384v1](http://arxiv.org/abs/2404.03384v1)|**[link](https://github.com/ziplab/longvlm)**|
 |**2024-04-04**|**Learning to Plan and Generate Text with Citations**|Constanza Fierro et.al.|[2404.03381v1](http://arxiv.org/abs/2404.03381v1)|null|
 |**2024-04-04**|**The Death of Feature Engineering? BERT with Linguistic Features on SQuAD 2.0**|Jiawei Li et.al.|[2404.03184v1](http://arxiv.org/abs/2404.03184v1)|null|
 |**2024-04-03**|**On Few-Shot Prompting for Controllable Question-Answer Generation in Narrative Comprehension**|Bernardo Leite et.al.|[2404.02800v1](http://arxiv.org/abs/2404.02800v1)|null|
@@ -6337,7 +6337,7 @@
 |**2024-04-04**|**Evaluating Generative Language Models in Information Extraction as Subjective Question Correction**|Yuchen Fan et.al.|[2404.03532v1](http://arxiv.org/abs/2404.03532v1)|**[link](https://github.com/thu-keg/sqc-score)**|
 |**2024-04-04**|**NLP4Gov: A Comprehensive Library for Computational Policy Analysis**|Mahasweta Chakraborti et.al.|[2404.03206v1](http://arxiv.org/abs/2404.03206v1)|null|
 |**2024-04-02**|**Class-Incremental Few-Shot Event Detection**|Kailin Zhao et.al.|[2404.01767v1](http://arxiv.org/abs/2404.01767v1)|null|
-|**2024-04-02**|**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**|Qinfeng Zhu et.al.|[2404.01705v1](http://arxiv.org/abs/2404.01705v1)|null|
+|**2024-04-02**|**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**|Qinfeng Zhu et.al.|[2404.01705v1](http://arxiv.org/abs/2404.01705v1)|**[link](https://github.com/zhuqinfeng1999/samba)**|
 |**2024-04-02**|**LR-FPN: Enhancing Remote Sensing Object Detection with Location Refined Feature Pyramid Network**|Hanqian Li et.al.|[2404.01614v1](http://arxiv.org/abs/2404.01614v1)|null|
 |**2024-04-01**|**OpenChemIE: An Information Extraction Toolkit For Chemistry Literature**|Vincent Fan et.al.|[2404.01462v1](http://arxiv.org/abs/2404.01462v1)|null|
 |**2024-04-01**|**Prior Frequency Guided Diffusion Model for Limited Angle (LA)-CBCT Reconstruction**|Jiacheng Xie et.al.|[2404.01448v1](http://arxiv.org/abs/2404.01448v1)|null|
