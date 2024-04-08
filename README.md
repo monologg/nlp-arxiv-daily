@@ -21,6 +21,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234v1](http://arxiv.org/abs/2404.04234v1)|null|
+|**2024-04-05**|**Data Augmentation with In-Context Learning and Comparative Evaluation in Math Word Problem Solving**|Gulsum Yigit et.al.|[2404.03938v1](http://arxiv.org/abs/2404.03938v1)|null|
+|**2024-04-05**|**Simple Techniques for Enhancing Sentence Embeddings in Generative Language Models**|Bowen Zhang et.al.|[2404.03921v1](http://arxiv.org/abs/2404.03921v1)|null|
+|**2024-04-05**|**A Bi-consolidating Model for Joint Relational Triple Extraction**|Xiaocheng Luo et.al.|[2404.03881v1](http://arxiv.org/abs/2404.03881v1)|null|
+|**2024-04-04**|**Understanding Language Modeling Paradigm Adaptations in Recommender Systems: Lessons Learned and Open Challenges**|Lemei Zhang et.al.|[2404.03788v1](http://arxiv.org/abs/2404.03788v1)|**[link](https://github.com/smartmediaai/llm_recsys)**|
+|**2024-04-04**|**Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning**|Spyridon Chavlis et.al.|[2404.03708v1](http://arxiv.org/abs/2404.03708v1)|null|
 |**2024-04-04**|**Knowledge Graph Representation for Political Information Sources**|Tinatin Osmonova et.al.|[2404.03437v1](http://arxiv.org/abs/2404.03437v1)|null|
 |**2024-04-04**|**ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**|Hongruixuan Chen et.al.|[2404.03425v1](http://arxiv.org/abs/2404.03425v1)|**[link](https://github.com/chenhongruixuan/mambacd)**|
 |**2024-04-04**|**Towards Pareto Optimal Throughput in Small Language Model Serving**|Pol G. Recasens et.al.|[2404.03353v1](http://arxiv.org/abs/2404.03353v1)|null|
@@ -2546,7 +2552,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598v1](http://arxiv.org/abs/2404.03598v1)|**[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)**|
-|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528v1](http://arxiv.org/abs/2404.03528v1)|**[link](https://github.com/azminewasi/banglaautokg)**|
+|**2024-04-05**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528v2](http://arxiv.org/abs/2404.03528v2)|**[link](https://github.com/azminewasi/banglaautokg)**|
 |**2024-04-02**|**Multi-BERT: Leveraging Adapters and Prompt Tuning for Low-Resource Multi-Domain Adaptation**|Parham Abed Azad et.al.|[2404.02335v1](http://arxiv.org/abs/2404.02335v1)|null|
 |**2024-04-02**|**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**|Hyunjong Ok et.al.|[2404.01914v1](http://arxiv.org/abs/2404.01914v1)|null|
 |**2024-04-01**|**Utilizing AI and Social Media Analytics to Discover Adverse Side Effects of GLP-1 Receptor Agonists**|Alon Bartal et.al.|[2404.01358v1](http://arxiv.org/abs/2404.01358v1)|null|
@@ -3053,6 +3059,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Investigating the Robustness of Modelling Decisions for Few-Shot Cross-Topic Stance Detection: A Preregistered Study**|Myrthe Reuver et.al.|[2404.03987v1](http://arxiv.org/abs/2404.03987v1)|**[link](https://github.com/myrthereuver/modeldecisionsstance)**|
+|**2024-04-05**|**SEME at SemEval-2024 Task 2: Comparing Masked and Generative Language Models on Natural Language Inference for Clinical Trials**|Mathilde Aguiar et.al.|[2404.03977v1](http://arxiv.org/abs/2404.03977v1)|null|
+|**2024-04-05**|**Forget NLI, Use a Dictionary: Zero-Shot Topic Classification for Low-Resource Languages with Application to Luxembourgish**|Fred Philippy et.al.|[2404.03912v1](http://arxiv.org/abs/2404.03912v1)|**[link](https://github.com/fredxlpy/letz)**|
 |**2024-04-04**|**Evaluating Generative Language Models in Information Extraction as Subjective Question Correction**|Yuchen Fan et.al.|[2404.03532v1](http://arxiv.org/abs/2404.03532v1)|**[link](https://github.com/thu-keg/sqc-score)**|
 |**2024-04-03**|**Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales**|Lucas E. Resck et.al.|[2404.03098v1](http://arxiv.org/abs/2404.03098v1)|**[link](https://github.com/visual-ds/plausible-nlp-explanations)**|
 |**2024-04-03**|**FPT: Feature Prompt Tuning for Few-shot Readability Assessment**|Ziyang Wang et.al.|[2404.02772v1](http://arxiv.org/abs/2404.02772v1)|**[link](https://github.com/wzy232303/fpt)**|
@@ -4602,6 +4611,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text?**|Ilya Ilyankou et.al.|[2404.04169v1](http://arxiv.org/abs/2404.04169v1)|null|
+|**2024-04-05**|**Which Experimental Design is Better Suited for VQA Tasks? Eye Tracking Study on Cognitive Load, Performance, and Gaze Allocations**|Sita A. Vriend et.al.|[2404.04036v1](http://arxiv.org/abs/2404.04036v1)|null|
+|**2024-04-05**|**Neural-Symbolic VideoQA: Learning Compositional Spatio-Temporal Reasoning for Real-world Video Question Answering**|Lili Liang et.al.|[2404.04007v1](http://arxiv.org/abs/2404.04007v1)|null|
+|**2024-04-05**|**BuDDIE: A Business Document Dataset for Multi-task Information Extraction**|Ran Zmigrod et.al.|[2404.04003v1](http://arxiv.org/abs/2404.04003v1)|null|
+|**2024-04-04**|**PRobELM: Plausibility Ranking Evaluation for Language Models**|Zhangdie Yuan et.al.|[2404.03818v1](http://arxiv.org/abs/2404.03818v1)|null|
 |**2024-04-04**|**Sailor: Open Language Models for South-East Asia**|Longxu Dou et.al.|[2404.03608v1](http://arxiv.org/abs/2404.03608v1)|**[link](https://github.com/sail-sg/sailor-llm)**|
 |**2024-04-04**|**Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**|Yantao Liu et.al.|[2404.03577v1](http://arxiv.org/abs/2404.03577v1)|**[link](https://github.com/thu-keg/knot)**|
 |**2024-04-04**|**TinyVQA: Compact Multimodal Deep Neural Network for Visual Question Answering on Resource-Constrained Devices**|Hasib-Al Rashid et.al.|[2404.03574v1](http://arxiv.org/abs/2404.03574v1)|null|
@@ -6334,6 +6348,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text?**|Ilya Ilyankou et.al.|[2404.04169v1](http://arxiv.org/abs/2404.04169v1)|null|
+|**2024-04-05**|**Assessing the quality of information extraction**|Filip Seitl et.al.|[2404.04068v1](http://arxiv.org/abs/2404.04068v1)|null|
+|**2024-04-05**|**BuDDIE: A Business Document Dataset for Multi-task Information Extraction**|Ran Zmigrod et.al.|[2404.04003v1](http://arxiv.org/abs/2404.04003v1)|null|
+|**2024-04-05**|**Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**|Bowen Zhang et.al.|[2404.03868v1](http://arxiv.org/abs/2404.03868v1)|null|
 |**2024-04-04**|**Evaluating Generative Language Models in Information Extraction as Subjective Question Correction**|Yuchen Fan et.al.|[2404.03532v1](http://arxiv.org/abs/2404.03532v1)|**[link](https://github.com/thu-keg/sqc-score)**|
 |**2024-04-04**|**NLP4Gov: A Comprehensive Library for Computational Policy Analysis**|Mahasweta Chakraborti et.al.|[2404.03206v1](http://arxiv.org/abs/2404.03206v1)|null|
 |**2024-04-02**|**Class-Incremental Few-Shot Event Detection**|Kailin Zhao et.al.|[2404.01767v1](http://arxiv.org/abs/2404.01767v1)|null|
@@ -7051,6 +7069,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text?**|Ilya Ilyankou et.al.|[2404.04169v1](http://arxiv.org/abs/2404.04169v1)|null|
+|**2024-04-04**|**Learning Social Fairness Preferences from Non-Expert Stakeholder Opinions in Kidney Placement**|Mukund Telukunta et.al.|[2404.03800v1](http://arxiv.org/abs/2404.03800v1)|null|
+|**2024-04-04**|**Understanding Language Modeling Paradigm Adaptations in Recommender Systems: Lessons Learned and Open Challenges**|Lemei Zhang et.al.|[2404.03788v1](http://arxiv.org/abs/2404.03788v1)|**[link](https://github.com/smartmediaai/llm_recsys)**|
 |**2024-04-04**|**Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention**|Ziru Liu et.al.|[2404.03637v1](http://arxiv.org/abs/2404.03637v1)|null|
 |**2024-04-04**|**A Comprehensive Survey on Self-Supervised Learning for Recommendation**|Xubin Ren et.al.|[2404.03354v1](http://arxiv.org/abs/2404.03354v1)|**[link](https://github.com/hkuds/awesome-sslrec-papers)**|
 |**2024-04-04**|**A Directional Diffusion Graph Transformer for Recommendation**|Zixuan Yi et.al.|[2404.03326v1](http://arxiv.org/abs/2404.03326v1)|null|
@@ -8459,8 +8480,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion**|Tengfei Ma et.al.|[2404.03893v1](http://arxiv.org/abs/2404.03893v1)|null|
+|**2024-04-05**|**Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**|Bowen Zhang et.al.|[2404.03868v1](http://arxiv.org/abs/2404.03868v1)|null|
 |**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623v1](http://arxiv.org/abs/2404.03623v1)|null|
-|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528v1](http://arxiv.org/abs/2404.03528v1)|**[link](https://github.com/azminewasi/banglaautokg)**|
+|**2024-04-05**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528v2](http://arxiv.org/abs/2404.03528v2)|**[link](https://github.com/azminewasi/banglaautokg)**|
 |**2024-04-04**|**Comprehensible Artificial Intelligence on Knowledge Graphs: A survey**|Simon Schramm et.al.|[2404.03499v1](http://arxiv.org/abs/2404.03499v1)|null|
 |**2024-04-04**|**Knowledge Graph Representation for Political Information Sources**|Tinatin Osmonova et.al.|[2404.03437v1](http://arxiv.org/abs/2404.03437v1)|null|
 |**2024-04-04**|**Does Knowledge Graph Really Matter for Recommender Systems?**|Haonan Zhang et.al.|[2404.03164v1](http://arxiv.org/abs/2404.03164v1)|**[link](https://github.com/hotbento/kg4receval)**|
@@ -9576,6 +9599,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Free Energy Calculations using Smooth Basin Classification**|Sander Vandenhaute et.al.|[2404.03777v1](http://arxiv.org/abs/2404.03777v1)|null|
 |**2024-04-04**|**Generalization Bounds for Message Passing Networks on Mixture of Graphons**|Sohir Maskey et.al.|[2404.03473v1](http://arxiv.org/abs/2404.03473v1)|null|
 |**2024-04-04**|**On the Theoretical Expressive Power and the Design Space of Higher-Order Graph Transformers**|Cai Zhou et.al.|[2404.03380v1](http://arxiv.org/abs/2404.03380v1)|null|
 |**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368v1](http://arxiv.org/abs/2404.03368v1)|null|
