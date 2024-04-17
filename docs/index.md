@@ -25,6 +25,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**A Sentiment Analysis of Medical Text Based on Deep Learning**|Yinan Chen et.al.|[2404.10503v1](http://arxiv.org/abs/2404.10503v1)|null|
+|**2024-04-16**|**Towards Complex Ontology Alignment using Large Language Models**|Reihaneh Amini et.al.|[2404.10329v1](http://arxiv.org/abs/2404.10329v1)|null|
+|**2024-04-16**|**Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs**|Woomin Song et.al.|[2404.10308v1](http://arxiv.org/abs/2404.10308v1)|**[link](https://github.com/alinlab/homer)**|
+|**2024-04-16**|**Future Language Modeling from Temporal Document History**|Changmao Li et.al.|[2404.10297v1](http://arxiv.org/abs/2404.10297v1)|**[link](https://github.com/jlab-nlp/future-language-modeling)**|
+|**2024-04-15**|**LegalPro-BERT: Classification of Legal Provisions by fine-tuning BERT Large Language Model**|Amit Tewari et.al.|[2404.10097v1](http://arxiv.org/abs/2404.10097v1)|**[link](https://github.com/amit5-ai/LegalPro-BERT)**|
+|**2024-04-15**|**Detecting AI Generated Text Based on NLP and Machine Learning Approaches**|Nuzhat Prova et.al.|[2404.10032v1](http://arxiv.org/abs/2404.10032v1)|null|
+|**2024-04-15**|**How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model**|Hanxue Gu et.al.|[2404.09957v1](http://arxiv.org/abs/2404.09957v1)|null|
+|**2024-04-15**|**AI-Driven Statutory Reasoning via Software Engineering Methods**|Rohan Padhye et.al.|[2404.09868v1](http://arxiv.org/abs/2404.09868v1)|null|
+|**2024-04-15**|**Reimagining Self-Adaptation in the Age of Large Language Models**|Raghav Donakanti et.al.|[2404.09866v1](http://arxiv.org/abs/2404.09866v1)|null|
 |**2024-04-15**|**KG-CTG: Citation Generation through Knowledge Graph-guided Large Language Models**|Avinash Anand et.al.|[2404.09763v1](http://arxiv.org/abs/2404.09763v1)|null|
 |**2024-04-15**|**Resilience of Large Language Models for Noisy Instructions**|Bin Wang et.al.|[2404.09754v1](http://arxiv.org/abs/2404.09754v1)|null|
 |**2024-04-15**|**State Space Model for New-Generation Network Alternative to Transformers: A Survey**|Xiao Wang et.al.|[2404.09516v1](http://arxiv.org/abs/2404.09516v1)|**[link](https://github.com/event-ahu/mamba_state_space_model_paper_list)**|
@@ -2381,12 +2390,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**LegalPro-BERT: Classification of Legal Provisions by fine-tuning BERT Large Language Model**|Amit Tewari et.al.|[2404.10097v1](http://arxiv.org/abs/2404.10097v1)|**[link](https://github.com/amit5-ai/LegalPro-BERT)**|
 |**2024-04-08**|**Text clustering applied to data augmentation in legal contexts**|Lucas José Gonçalves Freitas et.al.|[2404.08683v1](http://arxiv.org/abs/2404.08683v1)|null|
 |**2024-04-10**|**Leveraging open-source models for legal language modeling and analysis: a case study on the Indian constitution**|Vikhyath Gupta et.al.|[2404.06751v1](http://arxiv.org/abs/2404.06751v1)|null|
 |**2024-04-01**|**Exploring the Nexus of Large Language Models and Legal Systems: A Short Survey**|Weicong Qin et.al.|[2404.00990v1](http://arxiv.org/abs/2404.00990v1)|null|
 |**2024-04-01**|**Towards an In-Depth Comprehension of Case Relevance for Better Legal Retrieval**|Haitao Li et.al.|[2404.00947v1](http://arxiv.org/abs/2404.00947v1)|null|
 |**2024-03-30**|**Automatic explanation of the classification of Spanish legal judgments in jurisdiction-dependent law categories with tree estimators**|Jaime González-González et.al.|[2404.00437v1](http://arxiv.org/abs/2404.00437v1)|null|
-|**2024-03-25**|**Towards Explainability in Legal Outcome Prediction Models**|Josef Valvoda et.al.|[2403.16852v1](http://arxiv.org/abs/2403.16852v1)|null|
+|**2024-04-16**|**Towards Explainability in Legal Outcome Prediction Models**|Josef Valvoda et.al.|[2403.16852v2](http://arxiv.org/abs/2403.16852v2)|**[link](https://github.com/valvoda/under_the_influence)**|
 |**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
 |**2024-03-19**|**Towards Unsupervised Question Answering System with Multi-level Summarization for Legal Text**|M Manvith Prabhu et.al.|[2403.13107v1](http://arxiv.org/abs/2403.13107v1)|null|
 |**2024-03-16**|**Human Centered AI for Indian Legal Text Analytics**|Sudipto Ghosh et.al.|[2403.10944v1](http://arxiv.org/abs/2403.10944v1)|null|
@@ -3118,6 +3128,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Stampede Alert Clustering Algorithmic System Based on Tiny-Scale Strengthened DETR**|Mingze Sun et.al.|[2404.10359v1](http://arxiv.org/abs/2404.10359v1)|null|
+|**2024-04-16**|**Anomaly Correction of Business Processes Using Transformer Autoencoder**|Ziyou Gong et.al.|[2404.10211v1](http://arxiv.org/abs/2404.10211v1)|null|
 |**2024-04-15**|**Quantization of Large Language Models with an Overdetermined Basis**|Daniil Merkulov et.al.|[2404.09737v1](http://arxiv.org/abs/2404.09737v1)|null|
 |**2024-04-14**|**DKE-Research at SemEval-2024 Task 2: Incorporating Data Augmentation with Generative Models and Biomedical Knowledge to Enhance Inference Robustness**|Yuqi Wang et.al.|[2404.09206v1](http://arxiv.org/abs/2404.09206v1)|null|
 |**2024-04-14**|**TLDR at SemEval-2024 Task 2: T5-generated clinical-Language summaries for DeBERTa Report Analysis**|Spandan Das et.al.|[2404.09136v1](http://arxiv.org/abs/2404.09136v1)|**[link](https://github.com/shahriarnz14/tldr-t5-generated-clinical-language-for-deberta-report-analysis)**|
@@ -4060,6 +4072,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**A Sentiment Analysis of Medical Text Based on Deep Learning**|Yinan Chen et.al.|[2404.10503v1](http://arxiv.org/abs/2404.10503v1)|null|
 |**2024-04-13**|**Trustworthy Multimodal Fusion for Sentiment Analysis in Ordinal Sentiment Space**|Zhuyang Xie et.al.|[2404.08923v1](http://arxiv.org/abs/2404.08923v1)|null|
 |**2024-04-08**|**EFSA: Towards Event-Level Financial Sentiment Analysis**|Tianyu Chen et.al.|[2404.08681v1](http://arxiv.org/abs/2404.08681v1)|null|
 |**2024-04-10**|**Accuracy of a Large Language Model in Distinguishing Anti- And Pro-vaccination Messages on Social Media: The Case of Human Papillomavirus Vaccination**|Soojong Kim et.al.|[2404.06731v1](http://arxiv.org/abs/2404.06731v1)|null|
@@ -4697,6 +4710,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**ViTextVQA: A Large-Scale Visual Question Answering Dataset for Evaluating Vietnamese Text Comprehension in Images**|Quan Van Nguyen et.al.|[2404.10652v1](http://arxiv.org/abs/2404.10652v1)|**[link](https://github.com/minhquan6203/vitextvqa-dataset)**|
+|**2024-04-16**|**CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity**|Moshe Berchansky et.al.|[2404.10513v1](http://arxiv.org/abs/2404.10513v1)|null|
+|**2024-04-16**|**Spiral of Silences: How is Large Language Model Killing Information Retrieval? -- A Case Study on Open Domain Question Answering**|Xiaoyang Chen et.al.|[2404.10496v1](http://arxiv.org/abs/2404.10496v1)|null|
+|**2024-04-16**|**Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering**|Yuqi Wang et.al.|[2404.10384v1](http://arxiv.org/abs/2404.10384v1)|null|
+|**2024-04-16**|**Find The Gap: Knowledge Base Reasoning For Visual Question Answering**|Elham J. Barezi et.al.|[2404.10226v1](http://arxiv.org/abs/2404.10226v1)|null|
+|**2024-04-16**|**How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs' internal prior**|Kevin Wu et.al.|[2404.10198v1](http://arxiv.org/abs/2404.10198v1)|null|
+|**2024-04-16**|**Consistency and Uncertainty: Identifying Unreliable Responses From Black-Box Vision-Language Models for Selective Visual Question Answering**|Zaid Khan et.al.|[2404.10193v1](http://arxiv.org/abs/2404.10193v1)|null|
+|**2024-04-15**|**Constructing Benchmarks and Interventions for Combating Hallucinations in LLMs**|Adi Simhi et.al.|[2404.09971v1](http://arxiv.org/abs/2404.09971v1)|null|
+|**2024-04-15**|**HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision**|Siddhant Bansal et.al.|[2404.09933v1](http://arxiv.org/abs/2404.09933v1)|null|
+|**2024-04-15**|**Is Table Retrieval a Solved Problem? Join-Aware Multi-Table Retrieval**|Peter Baile Chen et.al.|[2404.09889v1](http://arxiv.org/abs/2404.09889v1)|null|
 |**2024-04-15**|**Bridging Vision and Language Spaces with Assignment Prediction**|Jungin Park et.al.|[2404.09632v1](http://arxiv.org/abs/2404.09632v1)|**[link](https://github.com/park-jungin/vlap)**|
 |**2024-04-14**|**Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A~Case~Study~at~HCMUT**|Tuan Bui et.al.|[2404.09296v1](http://arxiv.org/abs/2404.09296v1)|null|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163v1](http://arxiv.org/abs/2404.09163v1)|null|
@@ -6476,7 +6499,7 @@ layout: default
 |**2024-04-08**|**EFSA: Towards Event-Level Financial Sentiment Analysis**|Tianyu Chen et.al.|[2404.08681v1](http://arxiv.org/abs/2404.08681v1)|null|
 |**2024-04-12**|**Toward FAIR Semantic Publishing of Research Dataset Metadata in the Open Research Knowledge Graph**|Raia Abu Ahmad et.al.|[2404.08443v1](http://arxiv.org/abs/2404.08443v1)|null|
 |**2024-04-11**|**Leveraging Data Augmentation for Process Information Extraction**|Julian Neuberger et.al.|[2404.07501v1](http://arxiv.org/abs/2404.07501v1)|**[link](https://github.com/julianneuberger/pet-data-augmentation)**|
-|**2024-04-13**|**Event Grounded Criminal Court View Generation with Cooperative (Large) Language Models**|Linan Yue et.al.|[2404.07001v2](http://arxiv.org/abs/2404.07001v2)|**[link](https://github.com/yuelinan/codes-of-egg)**|
+|**2024-04-16**|**Event Grounded Criminal Court View Generation with Cooperative (Large) Language Models**|Linan Yue et.al.|[2404.07001v3](http://arxiv.org/abs/2404.07001v3)|**[link](https://github.com/yuelinan/codes-of-egg)**|
 |**2024-04-09**|**Event Extraction in Basque: Typologically motivated Cross-Lingual Transfer-Learning Analysis**|Mikel Zubillaga et.al.|[2404.06392v1](http://arxiv.org/abs/2404.06392v1)|null|
 |**2024-04-08**|**Enhancing Software Related Information Extraction with Generative Language Models through Single-Choice Question Answering**|Wolfgang Otto et.al.|[2404.05587v1](http://arxiv.org/abs/2404.05587v1)|null|
 |**2024-04-08**|**Multi-Task Learning for Features Extraction in Financial Annual Reports**|Syrielle Montariol et.al.|[2404.05281v1](http://arxiv.org/abs/2404.05281v1)|**[link](https://gitlab.com/smontariol/multi-task-esg)**|
@@ -7203,6 +7226,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Cluster-based Graph Collaborative Filtering**|Fan Liu et.al.|[2404.10321v1](http://arxiv.org/abs/2404.10321v1)|**[link](https://github.com/zhao254014/clustergcf)**|
+|**2024-04-16**|**HELLINGER-UCB: A novel algorithm for stochastic multi-armed bandit problem and cold start problem in recommender system**|Ruibo Yang et.al.|[2404.10207v1](http://arxiv.org/abs/2404.10207v1)|null|
+|**2024-04-15**|**How fair are we? From conceptualization to automated assessment of fairness definitions**|Giordano d'Aloisio et.al.|[2404.09919v1](http://arxiv.org/abs/2404.09919v1)|null|
 |**2024-04-13**|**Bullion: A Column Store for Machine Learning**|Gang Liao et.al.|[2404.08901v1](http://arxiv.org/abs/2404.08901v1)|null|
 |**2024-04-12**|**LazyDP: Co-Designing Algorithm-Software for Scalable Training of Differentially Private Recommendation Models**|Juntaek Lim et.al.|[2404.08847v1](http://arxiv.org/abs/2404.08847v1)|null|
 |**2024-04-12**|**Measuring the Predictability of Recommender Systems using Structural Complexity Metrics**|Alfonso Valderrama et.al.|[2404.08829v1](http://arxiv.org/abs/2404.08829v1)|null|
@@ -8630,6 +8656,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**PAKT: Perspectivized Argumentation Knowledge Graph and Tool for Deliberation Analysis (with Supplementary Materials)**|Moritz Plenz et.al.|[2404.10570v1](http://arxiv.org/abs/2404.10570v1)|null|
+|**2024-04-16**|**Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering**|Yuqi Wang et.al.|[2404.10384v1](http://arxiv.org/abs/2404.10384v1)|null|
+|**2024-04-16**|**Learning Wireless Data Knowledge Graph for Green Intelligent Communications: Methodology and Experiments**|Yongming Huang et.al.|[2404.10365v1](http://arxiv.org/abs/2404.10365v1)|null|
+|**2024-04-16**|**TC-OCR: TableCraft OCR for Efficient Detection & Recognition of Table Structure & Content**|Avinash Anand et.al.|[2404.10305v1](http://arxiv.org/abs/2404.10305v1)|null|
+|**2024-04-15**|**Progressive Knowledge Graph Completion**|Jiayi Li et.al.|[2404.09897v1](http://arxiv.org/abs/2404.09897v1)|null|
+|**2024-04-15**|**HyperMono: A Monotonicity-aware Approach to Hyper-Relational Knowledge Representation**|Zhiwei Hu et.al.|[2404.09848v1](http://arxiv.org/abs/2404.09848v1)|null|
 |**2024-04-15**|**KG-CTG: Citation Generation through Knowledge Graph-guided Large Language Models**|Avinash Anand et.al.|[2404.09763v1](http://arxiv.org/abs/2404.09763v1)|null|
 |**2024-04-15**|**German Tourism Knowledge Graph**|Umutcan Serles et.al.|[2404.09587v1](http://arxiv.org/abs/2404.09587v1)|null|
 |**2024-04-15**|**MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2404.09468v1](http://arxiv.org/abs/2404.09468v1)|**[link](https://github.com/zjukg/mygo)**|
@@ -9772,6 +9804,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials**|Juno Nam et.al.|[2404.10746v1](http://arxiv.org/abs/2404.10746v1)|null|
+|**2024-04-16**|**Graph Neural Networks for Protein-Protein Interactions - A Short Survey**|Mingda Xu et.al.|[2404.10450v1](http://arxiv.org/abs/2404.10450v1)|null|
+|**2024-04-16**|**AGHINT: Attribute-Guided Representation Learning on Heterogeneous Information Networks with Transformer**|Jinhui Yuan et.al.|[2404.10443v1](http://arxiv.org/abs/2404.10443v1)|null|
+|**2024-04-16**|**Physical formula enhanced multi-task learning for pharmacokinetics prediction**|Ruifeng Li et.al.|[2404.10354v1](http://arxiv.org/abs/2404.10354v1)|null|
+|**2024-04-16**|**Rethinking the Graph Polynomial Filter via Positive and Negative Coupling Analysis**|Haodong Wen et.al.|[2404.10353v1](http://arxiv.org/abs/2404.10353v1)|null|
+|**2024-04-16**|**Graph neural network-based surrogate modelling for real-time hydraulic prediction of urban drainage networks**|Zhiyu Zhang et.al.|[2404.10324v1](http://arxiv.org/abs/2404.10324v1)|**[link](https://github.com/Zhiyu014/GNN-UDS)**|
+|**2024-04-16**|**Two-Stage Stance Labeling: User-Hashtag Heuristics with Graph Neural Networks**|Joshua Melton et.al.|[2404.10228v1](http://arxiv.org/abs/2404.10228v1)|null|
+|**2024-04-15**|**Solving the Tree Containment Problem Using Graph Neural Networks**|Arkadiy Dushatskiy et.al.|[2404.09812v1](http://arxiv.org/abs/2404.09812v1)|null|
 |**2024-04-15**|**Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation**|Shangqing Liu et.al.|[2404.09599v1](http://arxiv.org/abs/2404.09599v1)|null|
 |**2024-04-15**|**GNNavigator: Towards Adaptive Training of Graph Neural Networks via Automatic Guideline Exploration**|Tong Qiao et.al.|[2404.09544v1](http://arxiv.org/abs/2404.09544v1)|null|
 |**2024-04-14**|**Hierarchical Attention Models for Multi-Relational Graphs**|Roshni G. Iyer et.al.|[2404.09365v1](http://arxiv.org/abs/2404.09365v1)|null|
