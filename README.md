@@ -27,7 +27,7 @@
 |**2024-04-25**|**U2++ MoE: Scaling 4.7x parameters with minimal impact on RTF**|Xingchen Song et.al.|[2404.16407v1](http://arxiv.org/abs/2404.16407v1)|null|
 |**2024-04-25**|**LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications**|Saranya Krishnamoorthy et.al.|[2404.16294v1](http://arxiv.org/abs/2404.16294v1)|**[link](https://github.com/inqbator-evicore/llm_section_identifiers)**|
 |**2024-04-24**|**Towards Efficient Patient Recruitment for Clinical Trials: Application of a Prompt-Based Learning Model**|Mojdeh Rahmanian et.al.|[2404.16198v1](http://arxiv.org/abs/2404.16198v1)|null|
-|**2024-04-24**|**Chat2Scenario: Scenario Extraction From Dataset Through Utilization of Large Language Model**|Yongqi Zhao et.al.|[2404.16147v1](http://arxiv.org/abs/2404.16147v1)|null|
+|**2024-04-24**|**Chat2Scenario: Scenario Extraction From Dataset Through Utilization of Large Language Model**|Yongqi Zhao et.al.|[2404.16147v1](http://arxiv.org/abs/2404.16147v1)|**[link](https://github.com/ftgtugraz/chat2scenario)**|
 |**2024-04-24**|**Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges**|Badri Narayana Patro et.al.|[2404.16112v1](http://arxiv.org/abs/2404.16112v1)|**[link](https://github.com/badripatro/mamba360)**|
 |**2024-04-24**|**Semantic Routing for Enhanced Performance of LLM-Assisted Intent-Based 5G Core Network Management and Orchestration**|Dimitrios Michael Manias et.al.|[2404.15869v1](http://arxiv.org/abs/2404.15869v1)|null|
 |**2024-04-24**|**Porting Large Language Models to Mobile Devices for Question Answering**|Hannes Fassold et.al.|[2404.15851v1](http://arxiv.org/abs/2404.15851v1)|null|
@@ -2659,7 +2659,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627v1](http://arxiv.org/abs/2404.16627v1)|null|
+|**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627v1](http://arxiv.org/abs/2404.16627v1)|**[link](https://github.com/tian14267/ls_mbert)**|
 |**2024-04-24**|**Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges**|Badri Narayana Patro et.al.|[2404.16112v1](http://arxiv.org/abs/2404.16112v1)|**[link](https://github.com/badripatro/mamba360)**|
 |**2024-04-22**|**EnzChemRED, a rich enzyme chemistry relation extraction dataset**|Po-Ting Lai et.al.|[2404.14209v1](http://arxiv.org/abs/2404.14209v1)|null|
 |**2024-04-20**|**Do "English" Named Entity Recognizers Work Well on Global Englishes?**|Alexander Shan et.al.|[2404.13465v1](http://arxiv.org/abs/2404.13465v1)|null|
@@ -3184,7 +3184,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627v1](http://arxiv.org/abs/2404.16627v1)|null|
+|**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627v1](http://arxiv.org/abs/2404.16627v1)|**[link](https://github.com/tian14267/ls_mbert)**|
 |**2024-04-25**|**Don't Say No: Jailbreaking LLM by Suppressing Refusal**|Yukai Zhou et.al.|[2404.16369v1](http://arxiv.org/abs/2404.16369v1)|null|
 |**2024-04-24**|**DyGCL: Dynamic Graph Contrastive Learning For Event Prediction**|Muhammed Ifte Khairul Islam et.al.|[2404.15612v1](http://arxiv.org/abs/2404.15612v1)|null|
 |**2024-04-23**|**CASPR: Automated Evaluation Metric for Contrastive Summarization**|Nirupan Ananthamurugan et.al.|[2404.15565v1](http://arxiv.org/abs/2404.15565v1)|**[link](https://github.com/niru-umass-dev/caspr)**|
@@ -7386,7 +7386,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-25**|**RE-RecSys: An End-to-End system for recommending properties in Real-Estate domain**|Venkatesh C et.al.|[2404.16553v1](http://arxiv.org/abs/2404.16553v1)|null|
-|**2024-04-24**|**URL: Universal Referential Knowledge Linking via Task-instructed Representation Compression**|Zhuoqun Li et.al.|[2404.16248v1](http://arxiv.org/abs/2404.16248v1)|null|
+|**2024-04-24**|**URL: Universal Referential Knowledge Linking via Task-instructed Representation Compression**|Zhuoqun Li et.al.|[2404.16248v1](http://arxiv.org/abs/2404.16248v1)|**[link](https://github.com/li-z-q/url)**|
 |**2024-04-24**|**AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models**|Zhiqiang Tang et.al.|[2404.16233v1](http://arxiv.org/abs/2404.16233v1)|null|
 |**2024-04-24**|**Knowledge Graph Completion using Structural and Textual Embeddings**|Sakher Khalil Alqaaidi et.al.|[2404.16206v1](http://arxiv.org/abs/2404.16206v1)|**[link](https://github.com/sa5r/kgrp)**|
 |**2024-04-24**|**Advancing Recommender Systems by mitigating Shilling attacks**|Aditya Chichani et.al.|[2404.16177v1](http://arxiv.org/abs/2404.16177v1)|null|
@@ -10019,7 +10019,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532v1](http://arxiv.org/abs/2404.16532v1)|null|
+|**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532v1](http://arxiv.org/abs/2404.16532v1)|**[link](https://github.com/aimat-lab/megan_global_explanations)**|
 |**2024-04-25**|**Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**|Yuanchen Bei et.al.|[2404.16366v1](http://arxiv.org/abs/2404.16366v1)|null|
 |**2024-04-24**|**Power Failure Cascade Prediction using Graph Neural Networks**|Sathwik Chadaga et.al.|[2404.16134v1](http://arxiv.org/abs/2404.16134v1)|**[link](https://github.com/sathwikchadaga/failure-cascade)**|
 |**2024-04-24**|**A General Black-box Adversarial Attack on Graph-based Fake News Detectors**|Peican Zhu et.al.|[2404.15744v1](http://arxiv.org/abs/2404.15744v1)|null|
