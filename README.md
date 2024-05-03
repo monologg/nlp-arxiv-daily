@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Analyzing the Role of Semantic Representations in the Era of Large Language Models**|Zhijing Jin et.al.|[2405.01502v1](http://arxiv.org/abs/2405.01502v1)|**[link](https://github.com/causalnlp/amr_llm)**|
+|**2024-05-02**|**"In-Context Learning" or: How I learned to stop worrying and love "Applied Information Retrieval"**|Andrew Parry et.al.|[2405.01116v1](http://arxiv.org/abs/2405.01116v1)|null|
 |**2024-05-01**|**A Legal Framework for Natural Language Processing Model Training in Portugal**|Rúben Almeida et.al.|[2405.00536v1](http://arxiv.org/abs/2405.00536v1)|null|
 |**2024-05-01**|**DAM: A Universal Dual Attention Mechanism for Multimodal Timeseries Cryptocurrency Trend Forecasting**|Yihang Fu et.al.|[2405.00522v1](http://arxiv.org/abs/2405.00522v1)|**[link](https://github.com/KerwinFuyihang/Multimodal_crypto_prediction)**|
 |**2024-05-01**|**Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning**|Lucas-Andreï Thil et.al.|[2405.00516v1](http://arxiv.org/abs/2405.00516v1)|null|
@@ -2695,6 +2697,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Callico: a Versatile Open-Source Document Image Annotation Platform**|Christopher Kermorvant et.al.|[2405.01071v1](http://arxiv.org/abs/2405.01071v1)|null|
+|**2024-05-01**|**A Named Entity Recognition and Topic Modeling-based Solution for Locating and Better Assessment of Natural Disasters in Social Media**|Ayaz Mehmood et.al.|[2405.00903v1](http://arxiv.org/abs/2405.00903v1)|null|
 |**2024-04-30**|**HistNERo: Historical Named Entity Recognition for the Romanian Language**|Andrei-Marius Avram et.al.|[2405.00155v1](http://arxiv.org/abs/2405.00155v1)|null|
 |**2024-04-30**|**Aspect and Opinion Term Extraction Using Graph Attention Network**|Abir Chakraborty et.al.|[2404.19260v1](http://arxiv.org/abs/2404.19260v1)|null|
 |**2024-04-30**|**Mix of Experts Language Model for Named Entity Recognition**|Xinwei Chen et.al.|[2404.19192v1](http://arxiv.org/abs/2404.19192v1)|null|
@@ -3228,7 +3232,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-01**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465v1](http://arxiv.org/abs/2405.00465v1)|null|
+|**2024-05-02**|**Verification and Refinement of Natural Language Explanations through LLM-Symbolic Theorem Proving**|Xin Quan et.al.|[2405.01379v1](http://arxiv.org/abs/2405.01379v1)|null|
+|**2024-05-02**|**Identification of Entailment and Contradiction Relations between Natural Language Sentences: A Neurosymbolic Approach**|Xuyao Feng et.al.|[2405.01259v1](http://arxiv.org/abs/2405.01259v1)|null|
+|**2024-05-02**|**Bayesian Optimization with LLM-Based Acquisition Functions for Natural Language Preference Elicitation**|David Eric Austin et.al.|[2405.00981v1](http://arxiv.org/abs/2405.00981v1)|null|
+|**2024-05-02**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465v2](http://arxiv.org/abs/2405.00465v2)|null|
 |**2024-05-01**|**DFKI-NLP at SemEval-2024 Task 2: Towards Robust LLMs Using Data Perturbations and MinMax Training**|Bhuvanesh Verma et.al.|[2405.00321v1](http://arxiv.org/abs/2405.00321v1)|null|
 |**2024-04-30**|**FactCheck Editor: Multilingual Text Editor with End-to-End fact-checking**|Vinay Setty et.al.|[2404.19482v1](http://arxiv.org/abs/2404.19482v1)|null|
 |**2024-04-25**|**GuideWalk -- Heterogeneous Data Fusion for Enhanced Learning -- A Multiclass Document Classification Case**|Sarmad N. Mohammed et.al.|[2404.18942v1](http://arxiv.org/abs/2404.18942v1)|null|
@@ -4203,6 +4210,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**LLMs for Generating and Evaluating Counterfactuals: A Comprehensive Study**|Van Bach Nguyen et.al.|[2405.00722v1](http://arxiv.org/abs/2405.00722v1)|null|
 |**2024-05-01**|**New Benchmark Dataset and Fine-Grained Cross-Modal Fusion Framework for Vietnamese Multimodal Aspect-Category Sentiment Analysis**|Quy Hoang Nguyen et.al.|[2405.00543v1](http://arxiv.org/abs/2405.00543v1)|null|
 |**2024-05-01**|**Thread review sentimental analysis with tkinter GUI & tableau dashboard**|Robin Donal et.al.|[2405.00377v1](http://arxiv.org/abs/2405.00377v1)|null|
 |**2024-04-25**|**Investigating the dissemination of STEM content on social media with computational tools**|Oluwamayokun Oshinowo et.al.|[2404.18944v1](http://arxiv.org/abs/2404.18944v1)|null|
@@ -4859,9 +4867,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning**|Shihao Wang et.al.|[2405.01533v1](http://arxiv.org/abs/2405.01533v1)|null|
+|**2024-05-02**|**V-FLUTE: Visual Figurative Language Understanding with Textual Explanations**|Arkadiy Saakyan et.al.|[2405.01474v1](http://arxiv.org/abs/2405.01474v1)|null|
+|**2024-05-02**|**UQA: Corpus for Urdu Question Answering**|Samee Arif et.al.|[2405.01458v1](http://arxiv.org/abs/2405.01458v1)|**[link](https://github.com/sameearif/uqa)**|
+|**2024-05-01**|**Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis**|Prateek Verma et.al.|[2405.00876v1](http://arxiv.org/abs/2405.00876v1)|null|
 |**2024-05-01**|**NumLLM: Numeric-Sensitive Large Language Model for Chinese Finance**|Huan-Yi Su et.al.|[2405.00566v1](http://arxiv.org/abs/2405.00566v1)|null|
 |**2024-05-01**|**Enhanced Visual Question Answering: A Comparative Analysis and Textual Feature Extraction Via Convolutions**|Zhilin Zhang et.al.|[2405.00479v1](http://arxiv.org/abs/2405.00479v1)|null|
-|**2024-05-01**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465v1](http://arxiv.org/abs/2405.00465v1)|null|
+|**2024-05-02**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465v2](http://arxiv.org/abs/2405.00465v2)|null|
 |**2024-05-01**|**LITO: Learnable Intervention for Truthfulness Optimization**|Farima Fatahi Bayat et.al.|[2405.00301v1](http://arxiv.org/abs/2405.00301v1)|null|
 |**2024-05-01**|**CREPE: Coordinate-Aware End-to-End Document Parser**|Yamato Okamoto et.al.|[2405.00260v1](http://arxiv.org/abs/2405.00260v1)|null|
 |**2024-04-30**|**Towards a Search Engine for Machines: Unified Ranking for Multiple Retrieval-Augmented Large Language Models**|Alireza Salemi et.al.|[2405.00175v1](http://arxiv.org/abs/2405.00175v1)|**[link](https://github.com/alirezasalemi7/urag)**|
@@ -6724,8 +6736,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085v1](http://arxiv.org/abs/2405.01085v1)|null|
+|**2024-05-02**|**Few Shot Class Incremental Learning using Vision-Language models**|Anurag Kumar et.al.|[2405.01040v1](http://arxiv.org/abs/2405.01040v1)|null|
 |**2024-05-01**|**KVP10k : A Comprehensive Dataset for Key-Value Pair Extraction in Business Documents**|Oshri Naparstek et.al.|[2405.00505v1](http://arxiv.org/abs/2405.00505v1)|null|
-|**2024-05-01**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465v1](http://arxiv.org/abs/2405.00465v1)|null|
+|**2024-05-02**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465v2](http://arxiv.org/abs/2405.00465v2)|null|
 |**2024-04-30**|**End-to-end information extraction in handwritten documents: Understanding Paris marriage records from 1880 to 1940**|Thomas Constum et.al.|[2404.19329v1](http://arxiv.org/abs/2404.19329v1)|null|
 |**2024-04-29**|**Leak Proof CMap; a framework for training and evaluation of cell line agnostic L1000 similarity methods**|Steven Shave et.al.|[2404.18960v1](http://arxiv.org/abs/2404.18960v1)|**[link](https://github.com/gsk-ai/leak-proof-cmap)**|
 |**2024-04-29**|**Reading Order Independent Metrics for Information Extraction in Handwritten Documents**|David Villanova-Aparisi et.al.|[2404.18664v1](http://arxiv.org/abs/2404.18664v1)|null|
@@ -7478,6 +7492,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**GTX: A Transactional Graph Data System For HTAP Workloads**|Libin Zhou et.al.|[2405.01448v1](http://arxiv.org/abs/2405.01448v1)|null|
+|**2024-05-02**|**Modeling Activity-Driven Music Listening with PACE**|Lilian Marey et.al.|[2405.01417v1](http://arxiv.org/abs/2405.01417v1)|null|
+|**2024-05-02**|**Fair Recommendations with Limited Sensitive Attributes: A Distributionally Robust Optimization Approach**|Tianhao Shi et.al.|[2405.01063v1](http://arxiv.org/abs/2405.01063v1)|null|
+|**2024-05-01**|**Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations**|Kirandeep Kaur et.al.|[2405.00824v1](http://arxiv.org/abs/2405.00824v1)|null|
 |**2024-05-01**|**Conformalized Tensor Completion with Riemannian Optimization**|Hu Sun et.al.|[2405.00581v1](http://arxiv.org/abs/2405.00581v1)|null|
 |**2024-05-01**|**A First Look at Selection Bias in Preference Elicitation for Recommendation**|Shashank Gupta et.al.|[2405.00554v1](http://arxiv.org/abs/2405.00554v1)|**[link](https://github.com/shashankg7/bias-preference-elicitation)**|
 |**2024-05-01**|**Enhancing Mutual Trustworthiness in Federated Learning for Data-Rich Smart Cities**|Osama Wehbi et.al.|[2405.00394v1](http://arxiv.org/abs/2405.00394v1)|null|
@@ -8963,6 +8981,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**A Survey on Semantic Communication Networks: Architecture, Security, and Privacy**|Shaolong Guo et.al.|[2405.01221v1](http://arxiv.org/abs/2405.01221v1)|null|
 |**2024-05-01**|**RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models**|Mohamed Manzour Hussien et.al.|[2405.00449v1](http://arxiv.org/abs/2405.00449v1)|null|
 |**2024-05-01**|**Arbitrary Time Information Modeling via Polynomial Approximation for Temporal Knowledge Graph Embedding**|Zhiyu Fang et.al.|[2405.00358v1](http://arxiv.org/abs/2405.00358v1)|**[link](https://github.com/seeyourmind/ptbox)**|
 |**2024-05-01**|**Transformer-based Reasoning for Learning Evolutionary Chain of Events on Temporal Knowledge Graph**|Zhiyu Fang et.al.|[2405.00352v1](http://arxiv.org/abs/2405.00352v1)|**[link](https://github.com/seeyourmind/tkgelib)**|
@@ -10147,6 +10166,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**GTX: A Transactional Graph Data System For HTAP Workloads**|Libin Zhou et.al.|[2405.01448v1](http://arxiv.org/abs/2405.01448v1)|null|
+|**2024-05-02**|**The Importance of Model Inspection for Better Understanding Performance Characteristics of Graph Neural Networks**|Nairouz Shehata et.al.|[2405.01270v1](http://arxiv.org/abs/2405.01270v1)|null|
+|**2024-05-02**|**IntraMix: Intra-Class Mixup Generation for Accurate Labels and Neighbors**|Shenghe Zheng et.al.|[2405.00957v1](http://arxiv.org/abs/2405.00957v1)|null|
+|**2024-05-01**|**Solving Maxwell's equations with Non-Trainable Graph Neural Network Message Passing**|Stefanos Bakirtzis et.al.|[2405.00814v1](http://arxiv.org/abs/2405.00814v1)|null|
 |**2024-05-01**|**Discovering robust biomarkers of neurological disorders from functional MRI using graph neural networks: A Review**|Yi Hao Chan et.al.|[2405.00577v1](http://arxiv.org/abs/2405.00577v1)|null|
 |**2024-05-01**|**WEST GCN-LSTM: Weighted Stacked Spatio-Temporal Graph Neural Networks for Regional Traffic Forecasting**|Theodoros Theodoropoulos et.al.|[2405.00570v1](http://arxiv.org/abs/2405.00570v1)|null|
 |**2024-05-01**|**A Comprehensive Survey of Dynamic Graph Neural Networks: Models, Frameworks, Benchmarks, Experiments and Challenges**|ZhengZhao Feng et.al.|[2405.00476v1](http://arxiv.org/abs/2405.00476v1)|null|
