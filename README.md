@@ -1,4 +1,4 @@
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,7 +26,7 @@
 |**2024-05-09**|**Enhancing Suicide Risk Detection on Social Media through Semi-Supervised Deep Label Smoothing**|Matthew Squires et.al.|[2405.05795v1](http://arxiv.org/abs/2405.05795v1)|null|
 |**2024-05-09**|**Towards a More Inclusive AI: Progress and Perspectives in Large Language Model Training for the Sámi Language**|Ronny Paul et.al.|[2405.05777v1](http://arxiv.org/abs/2405.05777v1)|null|
 |**2024-05-09**|**Computational lexical analysis of Flamenco genres**|Pablo Rosillo-Rodes et.al.|[2405.05723v1](http://arxiv.org/abs/2405.05723v1)|null|
-|**2024-05-09**|**Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM**|Xikang Yang et.al.|[2405.05610v1](http://arxiv.org/abs/2405.05610v1)|null|
+|**2024-05-09**|**Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM**|Xikang Yang et.al.|[2405.05610v1](http://arxiv.org/abs/2405.05610v1)|**[link](https://github.com/yancykahn/coa)**|
 |**2024-05-09**|**A Survey on Backbones for Deep Video Action Recognition**|Zixuan Tang et.al.|[2405.05584v1](http://arxiv.org/abs/2405.05584v1)|null|
 |**2024-05-08**|**Enhancing Holonic Architecture with Natural Language Processing for System of Systems**|Muhammad Ashfaq et.al.|[2405.05365v1](http://arxiv.org/abs/2405.05365v1)|null|
 |**2024-05-08**|**CARE-SD: Classifier-based analysis for recognizing and eliminating stigmatizing and doubt marker labels in electronic health records: model development and validation**|Drew Walker et.al.|[2405.05204v1](http://arxiv.org/abs/2405.05204v1)|null|
@@ -2517,7 +2517,7 @@
 |**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|**[link](https://github.com/shuhengl/acl2023_conllpp)**|
 |**2022-12-19**|**MANER: Mask Augmented Named Entity Recognition for Extreme Low-Resource Languages**|Shashank Sonkar et.al.|[2212.09723v1](http://arxiv.org/abs/2212.09723v1)|null|
 
-<p align=right>(<a href='#updated-on-20240512'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240513'>back to top</a>)</p>
 
 ## Legal NLP
 
@@ -2694,7 +2694,7 @@
 |**2014-11-03**|**Unsupervised Keyword Extraction from Polish Legal Texts**|Michał Jungiewicz et.al.|[1408.3731v2](http://arxiv.org/abs/1408.3731v2)|null|
 |**2011-03-16**|**Information and Entanglement Measures in Quantum Systems With Applications to Atomic Physics**|Daniel Manzano et.al.|[1103.3186v1](http://arxiv.org/abs/1103.3186v1)|null|
 
-<p align=right>(<a href='#updated-on-20240512'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240513'>back to top</a>)</p>
 
 ## Sequence Annotation
 
@@ -2736,7 +2736,7 @@
 |**2008-02-16**|**Radio-loudness of Active Galaxies and the Black Hole Evolution**|M. Sikora et.al.|[0802.2302v1](http://arxiv.org/abs/0802.2302v1)|null|
 |**2007-07-16**|**Radio Loudness of AGNs: Host Galaxy Morphology and the Spin Paradigm**|L. Stawarz et.al.|[0707.2369v1](http://arxiv.org/abs/0707.2369v1)|null|
 
-<p align=right>(<a href='#updated-on-20240512'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240513'>back to top</a>)</p>
 
 ## Named Entity Recognition
 
@@ -3277,7 +3277,7 @@
 |**2022-10-12**|**MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score**|Sunjae Kwon et.al.|[2210.05875v1](http://arxiv.org/abs/2210.05875v1)|**[link](https://github.com/mozzitastebitter/medjex)**|
 |**2022-10-11**|**SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition**|Zeng Yang et.al.|[2210.05632v1](http://arxiv.org/abs/2210.05632v1)|**[link](https://github.com/unveiled-the-red-hat/SEE-Few)**|
 
-<p align=right>(<a href='#updated-on-20240512'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240513'>back to top</a>)</p>
 
 ## Text Classification
 
@@ -3287,7 +3287,7 @@
 |**2024-05-09**|**Detecting Statements in Text: A Domain-Agnostic Few-Shot Solution**|Sandrine Chausson et.al.|[2405.05705v1](http://arxiv.org/abs/2405.05705v1)|**[link](https://github.com/s-l-chausson/easyclaimsdetection)**|
 |**2024-05-09**|**Using Machine Translation to Augment Multilingual Classification**|Adam King et.al.|[2405.05478v1](http://arxiv.org/abs/2405.05478v1)|null|
 |**2024-05-08**|**The Effect of Model Size on LLM Post-hoc Explainability via LIME**|Henning Heyen et.al.|[2405.05348v1](http://arxiv.org/abs/2405.05348v1)|**[link](https://github.com/henningheyen/scalability-of-llm-posthoc-explanations)**|
-|**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116v1](http://arxiv.org/abs/2405.05116v1)|null|
+|**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116v1](http://arxiv.org/abs/2405.05116v1)|**[link](https://github.com/cisnlp/xampler)**|
 |**2024-05-03**|**Learning label-label correlations in Extreme Multi-label Classification via Label Features**|Siddhant Kharbanda et.al.|[2405.04545v1](http://arxiv.org/abs/2405.04545v1)|null|
 |**2024-05-07**|**Semi-Supervised Disease Classification based on Limited Medical Image Data**|Yan Zhang et.al.|[2405.04295v1](http://arxiv.org/abs/2405.04295v1)|null|
 |**2024-05-07**|**D-NLP at SemEval-2024 Task 2: Evaluating Clinical Inference Capabilities of Large Language Models**|Duygu Altinok et.al.|[2405.04170v1](http://arxiv.org/abs/2405.04170v1)|**[link](https://github.com/duygua/semeval2024_nli4ct)**|
@@ -4272,7 +4272,7 @@
 |**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/microsoft/scglab)**|
 |**2022-11-18**|**3d human motion generation from the text via gesture action classification and the autoregressive model**|Gwantae Kim et.al.|[2211.10003v1](http://arxiv.org/abs/2211.10003v1)|null|
 
-<p align=right>(<a href='#updated-on-20240512'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240513'>back to top</a>)</p>
 
 ## Sentiment Analysis
 
@@ -4282,7 +4282,7 @@
 |**2024-05-09**|**Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis**|Xuanwen Ding et.al.|[2405.05496v1](http://arxiv.org/abs/2405.05496v1)|null|
 |**2024-05-07**|**Enhancing Organizational Performance: Harnessing AI and NLP for User Feedback Analysis in Product Development**|Tian Tian et.al.|[2405.04692v1](http://arxiv.org/abs/2405.04692v1)|null|
 |**2024-05-07**|**Fine-grained Speech Sentiment Analysis in Chinese Psychological Support Hotlines Based on Large-scale Pre-trained Model**|Zhonglong Chen et.al.|[2405.04128v1](http://arxiv.org/abs/2405.04128v1)|**[link](https://github.com/czl0914/psy_hotline_analysis)**|
-|**2024-05-07**|**Can citations tell us about a paper's reproducibility? A case study of machine learning papers**|Rochana R. Obadage et.al.|[2405.03977v1](http://arxiv.org/abs/2405.03977v1)|null|
+|**2024-05-07**|**Can citations tell us about a paper's reproducibility? A case study of machine learning papers**|Rochana R. Obadage et.al.|[2405.03977v1](http://arxiv.org/abs/2405.03977v1)|**[link](https://github.com/lamps-lab/ccair-ai-reproducibility)**|
 |**2024-05-05**|**Sentiment Analysis Across Languages: Evaluation Before and After Machine Translation to English**|Aekansh Kathunia et.al.|[2405.02887v1](http://arxiv.org/abs/2405.02887v1)|null|
 |**2024-05-03**|**What is Sentiment Meant to Mean to Language Models?**|Michael Burnham et.al.|[2405.02454v1](http://arxiv.org/abs/2405.02454v1)|null|
 |**2024-05-03**|**The Call for Socially Aware Language Technologies**|Diyi Yang et.al.|[2405.02411v1](http://arxiv.org/abs/2405.02411v1)|null|
@@ -4939,7 +4939,7 @@
 |**2022-10-18**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-10-14**|**Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**|Sishuo Chen et.al.|[2210.07907v1](http://arxiv.org/abs/2210.07907v1)|**[link](https://github.com/lancopku/dan)**|
 
-<p align=right>(<a href='#updated-on-20240512'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240513'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -6835,7 +6835,7 @@
 |**2022-12-02**|**Compound Tokens: Channel Fusion for Vision-Language Representation Learning**|Maxwell Mbabilla Aladago et.al.|[2212.01447v1](http://arxiv.org/abs/2212.01447v1)|null|
 |**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|**[link](https://github.com/mlvlab/qat)**|
 
-<p align=right>(<a href='#updated-on-20240512'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240513'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -7602,7 +7602,7 @@
 |**2022-10-17**|**Zero-Shot Ranking Socio-Political Texts with Transformer Language Models to Reduce Close Reading Time**|Kiymet Akdemir et.al.|[2210.09179v1](http://arxiv.org/abs/2210.09179v1)|null|
 |**2022-10-17**|**Modeling the Lighting in Scenes as Style for Auto White-Balance Correction**|Furkan Kınlı et.al.|[2210.09090v1](http://arxiv.org/abs/2210.09090v1)|**[link](https://github.com/birdortyedi/lighting-as-style-awb-correction)**|
 
-<p align=right>(<a href='#updated-on-20240512'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240513'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -9117,7 +9117,7 @@
 |**2022-11-27**|**Dense Text Retrieval based on Pretrained Language Models: A Survey**|Wayne Xin Zhao et.al.|[2211.14876v1](http://arxiv.org/abs/2211.14876v1)|**[link](https://github.com/paddlepaddle/rocketqa)**|
 |**2022-11-27**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|**[link](https://github.com/chengang95/unkd)**|
 
-<p align=right>(<a href='#updated-on-20240512'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240513'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -10321,7 +10321,7 @@
 |**2022-11-18**|**Novelpy: A Python package to measure novelty and disruptiveness of bibliometric and patent data**|Pierre Pelletier et.al.|[2211.10346v1](http://arxiv.org/abs/2211.10346v1)|**[link](https://github.com/kwirtz/novelpy)**|
 |**2022-11-18**|**Contrastive Knowledge Graph Error Detection**|Qinggang Zhang et.al.|[2211.10030v1](http://arxiv.org/abs/2211.10030v1)|**[link](https://github.com/qing145/caged)**|
 
-<p align=right>(<a href='#updated-on-20240512'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240513'>back to top</a>)</p>
 
 ## GNN
 
@@ -12598,5 +12598,5 @@
 |**2022-12-14**|**On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
 |**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 
-<p align=right>(<a href='#updated-on-20240512'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240513'>back to top</a>)</p>
 
