@@ -21,7 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-13**|**PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**|Ziyang Zhang et.al.|[2405.07932v1](http://arxiv.org/abs/2405.07932v1)|**[link](https://github.com/ed-zh/parden)**|
+|**2024-05-14**|**Challenges and Opportunities in Text Generation Explainability**|Kenza Amara et.al.|[2405.08468v1](http://arxiv.org/abs/2405.08468v1)|null|
+|**2024-05-13**|**A Semantic and Motion-Aware Spatiotemporal Transformer Network for Action Detection**|Matthew Korban et.al.|[2405.08204v1](http://arxiv.org/abs/2405.08204v1)|null|
+|**2024-05-13**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151v1](http://arxiv.org/abs/2405.08151v1)|null|
+|**2024-05-14**|**PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**|Ziyang Zhang et.al.|[2405.07932v2](http://arxiv.org/abs/2405.07932v2)|**[link](https://github.com/ed-zh/parden)**|
 |**2024-05-13**|**A Comprehensive Analysis of Static Word Embeddings for Turkish**|Karahan Sarıtaş et.al.|[2405.07778v1](http://arxiv.org/abs/2405.07778v1)|**[link](https://github.com/turkish-word-embeddings/word-embeddings-repository-for-turkish)**|
 |**2024-05-13**|**Challenges and Opportunities of NLP for HR Applications: A Discussion Paper**|Jochen L. Leidner et.al.|[2405.07766v1](http://arxiv.org/abs/2405.07766v1)|null|
 |**2024-05-13**|**Constructing a BPE Tokenization DFA**|Martin Berglund et.al.|[2405.07671v1](http://arxiv.org/abs/2405.07671v1)|null|
@@ -2760,6 +2763,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**A Decoupling and Aggregating Framework for Joint Extraction of Entities and Relations**|Yao Wang et.al.|[2405.08311v1](http://arxiv.org/abs/2405.08311v1)|null|
 |**2024-05-13**|**NoiseBench: Benchmarking the Impact of Real Label Noise on Named Entity Recognition**|Elena Merdjanovska et.al.|[2405.07609v1](http://arxiv.org/abs/2405.07609v1)|null|
 |**2024-05-02**|**Enhancing Language Models for Financial Relation Extraction with Named Entities and Part-of-Speech**|Menglin Li et.al.|[2405.06665v1](http://arxiv.org/abs/2405.06665v1)|**[link](https://github.com/kwanhui/finrelextract)**|
 |**2024-05-09**|**Reddit-Impacts: A Named Entity Recognition Dataset for Analyzing Clinical and Social Effects of Substance Use Derived from Social Media**|Yao Ge et.al.|[2405.06145v1](http://arxiv.org/abs/2405.06145v1)|null|
@@ -3304,6 +3308,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**From Text to Context: An Entailment Approach for News Stakeholder Classification**|Alapan Kuila et.al.|[2405.08751v1](http://arxiv.org/abs/2405.08751v1)|null|
+|**2024-05-13**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151v1](http://arxiv.org/abs/2405.08151v1)|null|
 |**2024-05-13**|**Quantifying and Optimizing Global Faithfulness in Persona-driven Role-playing**|Letian Peng et.al.|[2405.07726v1](http://arxiv.org/abs/2405.07726v1)|null|
 |**2024-05-13**|**Fine-tuning the SwissBERT Encoder Model for Embedding Sentences and Documents**|Juri Grosjean et.al.|[2405.07513v1](http://arxiv.org/abs/2405.07513v1)|null|
 |**2024-05-13**|**Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference**|Linyi Han et.al.|[2405.07430v1](http://arxiv.org/abs/2405.07430v1)|null|
@@ -4305,6 +4311,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Impact of Stickers on Multimodal Chat Sentiment Analysis and Intent Recognition: A New Task, Dataset and Baseline**|Yuanchen Shi et.al.|[2405.08427v1](http://arxiv.org/abs/2405.08427v1)|null|
 |**2024-05-13**|**Can LLMs Help Predict Elections? (Counter)Evidence from the World's Largest Democracy**|Pratik Gujral et.al.|[2405.07828v1](http://arxiv.org/abs/2405.07828v1)|null|
 |**2024-05-11**|**Deciphering public attention to geoengineering and climate issues using machine learning and dynamic analysis**|Ramit Debnath et.al.|[2405.07010v1](http://arxiv.org/abs/2405.07010v1)|null|
 |**2024-05-07**|**Analyzing Language Bias Between French and English in Conventional Multilingual Sentiment Analysis Models**|Ethan Parker Wong et.al.|[2405.06692v1](http://arxiv.org/abs/2405.06692v1)|null|
@@ -4978,6 +4985,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813v1](http://arxiv.org/abs/2405.08813v1)|null|
+|**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317v1](http://arxiv.org/abs/2405.08317v1)|null|
+|**2024-05-13**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151v1](http://arxiv.org/abs/2405.08151v1)|null|
+|**2024-05-13**|**From Questions to Insightful Answers: Building an Informed Chatbot for University Resources**|Subash Neupane et.al.|[2405.08120v1](http://arxiv.org/abs/2405.08120v1)|null|
+|**2024-05-13**|**KET-QA: A Dataset for Knowledge Enhanced Table Question Answering**|Mengkang Hu et.al.|[2405.08099v1](http://arxiv.org/abs/2405.08099v1)|null|
 |**2024-05-13**|**AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments**|Samuel Schmidgall et.al.|[2405.07960v1](http://arxiv.org/abs/2405.07960v1)|null|
 |**2024-05-13**|**EconLogicQA: A Question-Answering Benchmark for Evaluating Large Language Models in Economic Sequential Reasoning**|Yinzhu Quan et.al.|[2405.07938v1](http://arxiv.org/abs/2405.07938v1)|null|
 |**2024-05-13**|**FreeVA: Offline MLLM as Training-Free Video Assistant**|Wenhao Wu et.al.|[2405.07798v1](http://arxiv.org/abs/2405.07798v1)|**[link](https://github.com/whwu95/freeva)**|
@@ -6888,6 +6900,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Targeted Augmentation for Low-Resource Event Extraction**|Sijia Wang et.al.|[2405.08729v1](http://arxiv.org/abs/2405.08729v1)|null|
+|**2024-05-14**|**From Internet of Things Data to Business Processes: Challenges and a Framework**|Juergen Mangler et.al.|[2405.08528v1](http://arxiv.org/abs/2405.08528v1)|null|
+|**2024-05-14**|**A Decoupling and Aggregating Framework for Joint Extraction of Entities and Relations**|Yao Wang et.al.|[2405.08311v1](http://arxiv.org/abs/2405.08311v1)|null|
+|**2024-05-13**|**An information-theoretic model of shallow and deep language comprehension**|Jiaxuan Li et.al.|[2405.08223v1](http://arxiv.org/abs/2405.08223v1)|null|
 |**2024-05-13**|**PyZoBot: A Platform for Conversational Information Extraction and Synthesis from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation**|Suad Alshammari et.al.|[2405.07963v1](http://arxiv.org/abs/2405.07963v1)|null|
 |**2024-05-12**|**In The Wild Ellipse Parameter Estimation for Circular Dining Plates and Bowls**|Akil Pathiranage et.al.|[2405.07121v1](http://arxiv.org/abs/2405.07121v1)|null|
 |**2024-05-08**|**Lightweight Spatial Modeling for Combinatorial Information Extraction From Documents**|Yanfei Dong et.al.|[2405.06701v1](http://arxiv.org/abs/2405.06701v1)|null|
@@ -7661,6 +7677,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Treatment Effect Estimation for User Interest Exploration on Recommender Systems**|Jiaju Chen et.al.|[2405.08582v1](http://arxiv.org/abs/2405.08582v1)|null|
+|**2024-05-14**|**How to Surprisingly Consider Recommendations? A Knowledge-Graph-based Approach Relying on Complex Network Metrics**|Oliver Baumann et.al.|[2405.08465v1](http://arxiv.org/abs/2405.08465v1)|null|
+|**2024-05-13**|**A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems**|Lixi Zhu et.al.|[2405.08035v1](http://arxiv.org/abs/2405.08035v1)|null|
 |**2024-05-13**|**Is Interpretable Machine Learning Effective at Feature Selection for Neural Learning-to-Rank?**|Lijun Lyu et.al.|[2405.07782v1](http://arxiv.org/abs/2405.07782v1)|null|
 |**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580v1](http://arxiv.org/abs/2405.07580v1)|null|
 |**2024-05-11**|**Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought**|Xiaoxiao Chi et.al.|[2405.07018v1](http://arxiv.org/abs/2405.07018v1)|null|
@@ -9181,6 +9200,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization**|Rui Li et.al.|[2405.08540v1](http://arxiv.org/abs/2405.08540v1)|**[link](https://github.com/xxrep/golde)**|
+|**2024-05-14**|**Falcon 7b for Software Mention Detection in Scholarly Documents**|AmeerAli Khan et.al.|[2405.08514v1](http://arxiv.org/abs/2405.08514v1)|null|
+|**2024-05-14**|**How to Surprisingly Consider Recommendations? A Knowledge-Graph-based Approach Relying on Complex Network Metrics**|Oliver Baumann et.al.|[2405.08465v1](http://arxiv.org/abs/2405.08465v1)|null|
+|**2024-05-14**|**KG-EmpiRE: A Community-Maintainable Knowledge Graph for a Sustainable Literature Review on the State and Evolution of Empirical Research in Requirements Engineering**|Oliver Karras et.al.|[2405.08351v1](http://arxiv.org/abs/2405.08351v1)|null|
+|**2024-05-14**|**Cross-Category Functional Grasp Tansfer**|Rina Wu et.al.|[2405.08310v1](http://arxiv.org/abs/2405.08310v1)|null|
+|**2024-05-12**|**HGTDR: Advancing Drug Repurposing with Heterogeneous Graph Transformers**|Ali Gharizadeh et.al.|[2405.08031v1](http://arxiv.org/abs/2405.08031v1)|null|
 |**2024-05-13**|**Knowledge Graph Embedding in Intent-Based Networking**|Kashif Mehmood et.al.|[2405.07850v1](http://arxiv.org/abs/2405.07850v1)|null|
 |**2024-05-13**|**Geospatial Knowledge Graphs**|Rui Zhu et.al.|[2405.07664v1](http://arxiv.org/abs/2405.07664v1)|null|
 |**2024-05-12**|**Observability and Incident Response in Managed Serverless Environments Using Ontology-Based Log Monitoring**|Lavi Ben-Shimol et.al.|[2405.07172v1](http://arxiv.org/abs/2405.07172v1)|null|
@@ -10392,6 +10417,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks**|Killian Sheriff et.al.|[2405.08628v1](http://arxiv.org/abs/2405.08628v1)|null|
+|**2024-05-14**|**Improving the Real-Data Driven Network Evaluation Model for Digital Twin Networks**|Hyeju Shin et.al.|[2405.08473v1](http://arxiv.org/abs/2405.08473v1)|null|
+|**2024-05-13**|**Graph Neural Networks for Parameterized Quantum Circuits Expressibility Estimation**|Shamminuj Aktar et.al.|[2405.08100v1](http://arxiv.org/abs/2405.08100v1)|null|
 |**2024-05-13**|**KG-Planner: Knowledge-Informed Graph Neural Planning for Collaborative Manipulators**|Wansong Liu et.al.|[2405.07962v1](http://arxiv.org/abs/2405.07962v1)|null|
 |**2024-05-13**|**Discovery of highly anisotropic dielectric crystals with equivariant graph neural networks**|Yuchen Lou et.al.|[2405.07915v1](http://arxiv.org/abs/2405.07915v1)|null|
 |**2024-05-13**|**All Nodes are created Not Equal: Node-Specific Layer Aggregation and Filtration for GNN**|Shilong Wang et.al.|[2405.07892v1](http://arxiv.org/abs/2405.07892v1)|null|
