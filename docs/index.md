@@ -25,6 +25,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Mitigating Text Toxicity with Counterfactual Generation**|Milan Bhan et.al.|[2405.09948v1](http://arxiv.org/abs/2405.09948v1)|null|
+|**2024-05-16**|**On the relevance of pre-neural approaches in natural language processing pedagogy**|Aditya Joshi et.al.|[2405.09854v1](http://arxiv.org/abs/2405.09854v1)|null|
+|**2024-05-16**|**Optimization Techniques for Sentiment Analysis Based on LLM (GPT-3)**|Tong Zhan et.al.|[2405.09770v1](http://arxiv.org/abs/2405.09770v1)|null|
+|**2024-05-15**|**SCI 3.0: A Web-based Schema Curation Interface for Graphical Event Representations**|Reece Suchocki et.al.|[2405.09733v1](http://arxiv.org/abs/2405.09733v1)|null|
+|**2024-05-15**|**Enhancing Maritime Trajectory Forecasting via H3 Index and Causal Language Modelling (CLM)**|Nicolas Drapier et.al.|[2405.09596v1](http://arxiv.org/abs/2405.09596v1)|null|
 |**2024-05-15**|**Facilitating Opinion Diversity through Hybrid NLP Approaches**|Michiel van der Meer et.al.|[2405.09439v1](http://arxiv.org/abs/2405.09439v1)|null|
 |**2024-05-15**|**Comparing the Efficacy of GPT-4 and Chat-GPT in Mental Health Care: A Blind Assessment of Large Language Models for Psychological Support**|Birger Moell et.al.|[2405.09300v1](http://arxiv.org/abs/2405.09300v1)|null|
 |**2024-05-15**|**Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning**|Junfeng Chen et.al.|[2405.09285v1](http://arxiv.org/abs/2405.09285v1)|null|
@@ -3317,8 +3322,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Comparative Analysis of Predicting Subsequent Steps in Hénon Map**|Vismaya V S et.al.|[2405.10190v1](http://arxiv.org/abs/2405.10190v1)|null|
+|**2024-05-16**|**An Analysis of Sentential Neighbors in Implicit Discourse Relation Prediction**|Evi Judge et.al.|[2405.09735v1](http://arxiv.org/abs/2405.09735v1)|null|
 |**2024-05-14**|**From Text to Context: An Entailment Approach for News Stakeholder Classification**|Alapan Kuila et.al.|[2405.08751v1](http://arxiv.org/abs/2405.08751v1)|null|
-|**2024-05-13**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151v1](http://arxiv.org/abs/2405.08151v1)|null|
+|**2024-05-16**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151v2](http://arxiv.org/abs/2405.08151v2)|null|
 |**2024-05-13**|**Quantifying and Optimizing Global Faithfulness in Persona-driven Role-playing**|Letian Peng et.al.|[2405.07726v1](http://arxiv.org/abs/2405.07726v1)|**[link](https://github.com/KomeijiForce/Active_Passive_Constraint_Koishiday_2024)**|
 |**2024-05-13**|**Fine-tuning the SwissBERT Encoder Model for Embedding Sentences and Documents**|Juri Grosjean et.al.|[2405.07513v1](http://arxiv.org/abs/2405.07513v1)|null|
 |**2024-05-13**|**Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference**|Linyi Han et.al.|[2405.07430v1](http://arxiv.org/abs/2405.07430v1)|null|
@@ -4320,13 +4327,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**SynthesizRR: Generating Diverse Datasets with Retrieval Augmentation**|Abhishek Divekar et.al.|[2405.10040v1](http://arxiv.org/abs/2405.10040v1)|null|
+|**2024-05-16**|**Optimization Techniques for Sentiment Analysis Based on LLM (GPT-3)**|Tong Zhan et.al.|[2405.09770v1](http://arxiv.org/abs/2405.09770v1)|null|
 |**2024-05-15**|**Bridging the gap in online hate speech detection: a comparative analysis of BERT and traditional models for homophobic content identification on X/Twitter**|Josh McGiff et.al.|[2405.09221v1](http://arxiv.org/abs/2405.09221v1)|null|
 |**2024-05-14**|**Impact of Stickers on Multimodal Chat Sentiment Analysis and Intent Recognition: A New Task, Dataset and Baseline**|Yuanchen Shi et.al.|[2405.08427v1](http://arxiv.org/abs/2405.08427v1)|null|
 |**2024-05-13**|**Can LLMs Help Predict Elections? (Counter)Evidence from the World's Largest Democracy**|Pratik Gujral et.al.|[2405.07828v1](http://arxiv.org/abs/2405.07828v1)|null|
 |**2024-05-11**|**Deciphering public attention to geoengineering and climate issues using machine learning and dynamic analysis**|Ramit Debnath et.al.|[2405.07010v1](http://arxiv.org/abs/2405.07010v1)|null|
 |**2024-05-07**|**Analyzing Language Bias Between French and English in Conventional Multilingual Sentiment Analysis Models**|Ethan Parker Wong et.al.|[2405.06692v1](http://arxiv.org/abs/2405.06692v1)|**[link](https://github.com/ethanwongca/COMP396)**|
 |**2024-05-10**|**Aspect-based Sentiment Evaluation of Chess Moves (ASSESS): an NLP-based Method for Evaluating Chess Strategies from Textbooks**|Haifa Alrdahi et.al.|[2405.06499v1](http://arxiv.org/abs/2405.06499v1)|null|
-|**2024-05-10**|**E2TP: Element to Tuple Prompting Improves Aspect Sentiment Tuple Prediction**|Mohammad Ghiasvand Mohammadkhani et.al.|[2405.06454v1](http://arxiv.org/abs/2405.06454v1)|**[link](https://github.com/mghiasvandm/E2TP)**|
+|**2024-05-16**|**E2TP: Element to Tuple Prompting Improves Aspect Sentiment Tuple Prediction**|Mohammad Ghiasvand Mohammadkhani et.al.|[2405.06454v2](http://arxiv.org/abs/2405.06454v2)|**[link](https://github.com/mghiasvandm/E2TP)**|
 |**2024-05-10**|**SaudiBERT: A Large Language Model Pretrained on Saudi Dialect Corpora**|Faisal Qarah et.al.|[2405.06239v1](http://arxiv.org/abs/2405.06239v1)|**[link](https://github.com/faisalqarah/saudibert)**|
 |**2024-05-09**|**Revitalising Stagecraft: NLP-Driven Sentiment Analysis for Traditional Theater Revival**|Saikat Samanta et.al.|[2405.05813v1](http://arxiv.org/abs/2405.05813v1)|null|
 |**2024-05-09**|**Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis**|Xuanwen Ding et.al.|[2405.05496v1](http://arxiv.org/abs/2405.05496v1)|null|
@@ -4995,6 +5004,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311v1](http://arxiv.org/abs/2405.10311v1)|null|
+|**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301v1](http://arxiv.org/abs/2405.10301v1)|null|
+|**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255v1](http://arxiv.org/abs/2405.10255v1)|null|
+|**2024-05-16**|**"The Death of Wikipedia?" -- Exploring the Impact of ChatGPT on Wikipedia Engagement**|Neal Reeves et.al.|[2405.10205v1](http://arxiv.org/abs/2405.10205v1)|null|
+|**2024-05-16**|**FinTextQA: A Dataset for Long-form Financial Question Answering**|Jian Chen et.al.|[2405.09980v1](http://arxiv.org/abs/2405.09980v1)|null|
+|**2024-05-16**|**SciQAG: A Framework for Auto-Generated Scientific Question Answering Dataset with Fine-grained Evaluation**|Yuwei Wan et.al.|[2405.09939v1](http://arxiv.org/abs/2405.09939v1)|null|
+|**2024-05-16**|**Chameleon: Mixed-Modal Early-Fusion Foundation Models**|Chameleon Team et.al.|[2405.09818v1](http://arxiv.org/abs/2405.09818v1)|null|
+|**2024-05-15**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713v1](http://arxiv.org/abs/2405.09713v1)|null|
+|**2024-05-15**|**STAR: A Benchmark for Situated Reasoning in Real-World Videos**|Bo Wu et.al.|[2405.09711v1](http://arxiv.org/abs/2405.09711v1)|null|
 |**2024-05-15**|**Prompting-based Synthetic Data Generation for Few-Shot Question Answering**|Maximilian Schmidt et.al.|[2405.09335v1](http://arxiv.org/abs/2405.09335v1)|null|
 |**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813v1](http://arxiv.org/abs/2405.08813v1)|null|
 |**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317v1](http://arxiv.org/abs/2405.08317v1)|null|
@@ -7688,6 +7706,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Beyond Static Calibration: The Impact of User Preference Dynamics on Calibrated Recommendation**|Kun Lin et.al.|[2405.10232v1](http://arxiv.org/abs/2405.10232v1)|**[link](https://github.com/nicolelin13/dynamiccalibrationumap)**|
 |**2024-05-15**|**Exploring the Individuality and Collectivity of Intents behind Interactions for Graph Collaborative Filtering**|Yi Zhang et.al.|[2405.09042v1](http://arxiv.org/abs/2405.09042v1)|null|
 |**2024-05-14**|**Language-Guided Self-Supervised Video Summarization Using Text Semantic Matching Considering the Diversity of the Video**|Tomoya Sugihara et.al.|[2405.08890v1](http://arxiv.org/abs/2405.08890v1)|null|
 |**2024-05-14**|**Treatment Effect Estimation for User Interest Exploration on Recommender Systems**|Jiaju Chen et.al.|[2405.08582v1](http://arxiv.org/abs/2405.08582v1)|**[link](https://github.com/Jiaju-Chen/UpliftRec)**|
@@ -9213,6 +9232,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288v1](http://arxiv.org/abs/2405.10288v1)|null|
+|**2024-05-15**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713v1](http://arxiv.org/abs/2405.09713v1)|null|
+|**2024-05-15**|**Learning Generalized Medical Image Representations through Image-Graph Contrastive Pretraining**|Sameer Khanna et.al.|[2405.09594v1](http://arxiv.org/abs/2405.09594v1)|null|
 |**2024-05-15**|**Harmonizing Human Insights and AI Precision: Hand in Hand for Advancing Knowledge Graph Task**|Shurong Wang et.al.|[2405.09477v1](http://arxiv.org/abs/2405.09477v1)|null|
 |**2024-05-14**|**Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization**|Rui Li et.al.|[2405.08540v1](http://arxiv.org/abs/2405.08540v1)|**[link](https://github.com/xxrep/golde)**|
 |**2024-05-14**|**Falcon 7b for Software Mention Detection in Scholarly Documents**|AmeerAli Khan et.al.|[2405.08514v1](http://arxiv.org/abs/2405.08514v1)|null|
@@ -10431,6 +10453,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks**|Zhehan Zhao et.al.|[2405.10218v1](http://arxiv.org/abs/2405.10218v1)|null|
+|**2024-05-16**|**Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level**|Chenlong Zhao et.al.|[2405.10202v1](http://arxiv.org/abs/2405.10202v1)|**[link](https://github.com/molichenxi/haesum)**|
+|**2024-05-16**|**Integrating Uncertainty-Aware Human Motion Prediction into Graph-Based Manipulator Motion Planning**|Wansong Liu et.al.|[2405.09779v1](http://arxiv.org/abs/2405.09779v1)|null|
 |**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522v1](http://arxiv.org/abs/2405.09522v1)|null|
 |**2024-05-15**|**Desk-AId: Humanitarian Aid Desk Assessment with Geospatial AI for Predicting Landmine Areas**|Flavio Cirillo et.al.|[2405.09444v1](http://arxiv.org/abs/2405.09444v1)|null|
 |**2024-05-15**|**Learning Coarse-Grained Dynamics on Graph**|Yin Yu et.al.|[2405.09324v1](http://arxiv.org/abs/2405.09324v1)|null|
