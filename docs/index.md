@@ -25,8 +25,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962v1](http://arxiv.org/abs/2405.20962v1)|**[link](https://github.com/ssai-trento/llm-zero-shot-nl)**|
+|**2024-05-31**|**Large Language Models: A New Approach for Privacy Policy Analysis at Scale**|David Rodriguez et.al.|[2405.20900v1](http://arxiv.org/abs/2405.20900v1)|null|
+|**2024-05-31**|**Reward-based Input Construction for Cross-document Relation Extraction**|Byeonghu Na et.al.|[2405.20649v1](http://arxiv.org/abs/2405.20649v1)|**[link](https://github.com/aailabkaist/reic)**|
+|**2024-05-31**|**Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities in Lifted Compiled Code**|Gary A. McCully et.al.|[2405.20611v1](http://arxiv.org/abs/2405.20611v1)|null|
+|**2024-05-30**|**Mitigating the Impact of Labeling Errors on Training via Rockafellian Relaxation**|Louis L. Chen et.al.|[2405.20531v1](http://arxiv.org/abs/2405.20531v1)|null|
+|**2024-05-30**|**Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation**|Maya Anderson et.al.|[2405.20446v1](http://arxiv.org/abs/2405.20446v1)|null|
 |**2024-05-30**|**Who Writes the Review, Human or AI?**|Panagiotis C. Theocharopoulos et.al.|[2405.20285v1](http://arxiv.org/abs/2405.20285v1)|null|
-|**2024-05-30**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247v1](http://arxiv.org/abs/2405.20247v1)|null|
+|**2024-05-31**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247v2](http://arxiv.org/abs/2405.20247v2)|null|
 |**2024-05-30**|**ESG-FTSE: A corpus of news articles with ESG relevance labels and use cases**|Mariya Pavlova et.al.|[2405.20218v1](http://arxiv.org/abs/2405.20218v1)|null|
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139v1](http://arxiv.org/abs/2405.20139v1)|null|
 |**2024-05-30**|**Just Rewrite It Again: A Post-Processing Method for Enhanced Semantic Similarity and Privacy Preservation of Differentially Private Rewritten Text**|Stephen Meisenbacher et.al.|[2405.19831v1](http://arxiv.org/abs/2405.19831v1)|null|
@@ -2863,6 +2869,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**GAMedX: Generative AI-based Medical Entity Data Extractor Using Large Language Models**|Mohammed-Khalil Ghali et.al.|[2405.20585v1](http://arxiv.org/abs/2405.20585v1)|null|
 |**2024-05-30**|**C $^{3}$ Bench: A Comprehensive Classical Chinese Understanding Benchmark for Large Language Models**|Jiahuan Cao et.al.|[2405.17732v2](http://arxiv.org/abs/2405.17732v2)|null|
 |**2024-05-23**|**Exploring Alignment in Shared Cross-lingual Spaces**|Basel Mousi et.al.|[2405.14535v1](http://arxiv.org/abs/2405.14535v1)|**[link](https://github.com/qcri/multilingual-latent-concepts)**|
 |**2024-05-22**|**CPE-Identifier: Automated CPE identification and CVE summaries annotation with Deep Learning and NLP**|Wanyu Hu et.al.|[2405.13568v1](http://arxiv.org/abs/2405.13568v1)|null|
@@ -4442,6 +4449,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**It is Simple Sometimes: A Study On Improving Aspect-Based Sentiment Analysis Performance**|Laura Cabello et.al.|[2405.20703v1](http://arxiv.org/abs/2405.20703v1)|null|
+|**2024-05-30**|**Mitigating the Impact of Labeling Errors on Training via Rockafellian Relaxation**|Louis L. Chen et.al.|[2405.20531v1](http://arxiv.org/abs/2405.20531v1)|null|
 |**2024-05-30**|**ROAST: Review-level Opinion Aspect Sentiment Target Joint Detection**|Siva Uday Sampreeth Chebolu et.al.|[2405.20274v1](http://arxiv.org/abs/2405.20274v1)|null|
 |**2024-05-29**|**A Deep Convolutional Neural Network-based Model for Aspect and Polarity Classification in Hausa Movie Reviews**|Umar Ibrahim et.al.|[2405.19575v1](http://arxiv.org/abs/2405.19575v1)|null|
 |**2024-05-29**|**Genshin: General Shield for Natural Language Processing with Large Language Models**|Xiao Peng et.al.|[2405.18741v1](http://arxiv.org/abs/2405.18741v1)|null|
@@ -5139,6 +5148,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075v1](http://arxiv.org/abs/2405.21075v1)|null|
+|**2024-05-31**|**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**|Cheng Tan et.al.|[2405.20834v1](http://arxiv.org/abs/2405.20834v1)|null|
+|**2024-05-31**|**Unraveling and Mitigating Retriever Inconsistencies in Retrieval-Augmented Large Language Models**|Mingda Li et.al.|[2405.20680v1](http://arxiv.org/abs/2405.20680v1)|null|
+|**2024-05-31**|**Passage-specific Prompt Tuning for Passage Reranking in Question Answering with Large Language Models**|Xuyang Wu et.al.|[2405.20654v1](http://arxiv.org/abs/2405.20654v1)|null|
+|**2024-05-30**|**Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA**|Qianqi Yan et.al.|[2405.20421v1](http://arxiv.org/abs/2405.20421v1)|**[link](https://github.com/eric-ai-lab/probmed)**|
 |**2024-05-30**|**ANAH: Analytical Annotation of Hallucinations in Large Language Models**|Ziwei Ji et.al.|[2405.20315v1](http://arxiv.org/abs/2405.20315v1)|**[link](https://github.com/open-compass/anah)**|
 |**2024-05-30**|**TAIA: Large Language Models are Out-of-Distribution Data Learners**|Shuyang Jiang et.al.|[2405.20192v1](http://arxiv.org/abs/2405.20192v1)|**[link](https://github.com/pixas/TAIA_LLM)**|
 |**2024-05-30**|**Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals**|Phillip Howard et.al.|[2405.20152v1](http://arxiv.org/abs/2405.20152v1)|null|
@@ -7125,6 +7139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**GAMedX: Generative AI-based Medical Entity Data Extractor Using Large Language Models**|Mohammed-Khalil Ghali et.al.|[2405.20585v1](http://arxiv.org/abs/2405.20585v1)|null|
 |**2024-05-30**|**Retrieval Augmented Structured Generation: Business Document Information Extraction As Tool Use**|Franz Louis Cesista et.al.|[2405.20245v1](http://arxiv.org/abs/2405.20245v1)|null|
 |**2024-05-30**|**Enhancing Consistency and Role-Specific Knowledge Capturing by Rebuilding Fictional Character's Persona**|Jeiyoon Park et.al.|[2405.19778v1](http://arxiv.org/abs/2405.19778v1)|**[link](https://github.com/jeiyoon/charactergpt)**|
 |**2024-05-29**|**Toxicity Detection for Free**|Zhanhao Hu et.al.|[2405.18822v1](http://arxiv.org/abs/2405.18822v1)|null|
@@ -7920,6 +7935,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962v1](http://arxiv.org/abs/2405.20962v1)|**[link](https://github.com/ssai-trento/llm-zero-shot-nl)**|
+|**2024-05-31**|**SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**|Yuxi Liu et.al.|[2405.20878v1](http://arxiv.org/abs/2405.20878v1)|**[link](https://github.com/hkuds/selfgnn)**|
+|**2024-05-31**|**Popularity-Aware Alignment and Contrast for Mitigating Popularity Bias**|Miaomiao Cai et.al.|[2405.20718v1](http://arxiv.org/abs/2405.20718v1)|**[link](https://github.com/miaomiao-cai2/kdd2024-paac)**|
+|**2024-05-31**|**Provably Efficient Interactive-Grounded Learning with Personalized Reward**|Mengxiao Zhang et.al.|[2405.20677v1](http://arxiv.org/abs/2405.20677v1)|null|
+|**2024-05-31**|**Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item**|Qidong Liu et.al.|[2405.20646v1](http://arxiv.org/abs/2405.20646v1)|null|
+|**2024-05-31**|**Causal Distillation for Alleviating Performance Heterogeneity in Recommender Systems**|Shengyu Zhang et.al.|[2405.20626v1](http://arxiv.org/abs/2405.20626v1)|null|
+|**2024-05-30**|**Hiding Your Awful Online Choices Made More Efficient and Secure: A New Privacy-Aware Recommender System**|Shibam Mukherjee et.al.|[2405.20483v1](http://arxiv.org/abs/2405.20483v1)|null|
+|**2024-05-30**|**Medication Recommendation via Dual Molecular Modalities and Multi-Substructure Distillation**|Shi Mu et.al.|[2405.20358v1](http://arxiv.org/abs/2405.20358v1)|null|
 |**2024-05-30**|**Efficient LLM-Jailbreaking by Introducing Visual Modality**|Zhenxing Niu et.al.|[2405.20015v1](http://arxiv.org/abs/2405.20015v1)|**[link](https://github.com/abc321123444/llm-jb)**|
 |**2024-05-30**|**Generating Query Recommendations via LLMs**|Andrea Bacciu et.al.|[2405.19749v1](http://arxiv.org/abs/2405.19749v1)|null|
 |**2024-05-30**|**Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**|Hai-Dang Kieu et.al.|[2405.19612v1](http://arxiv.org/abs/2405.19612v1)|null|
@@ -9506,6 +9529,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Knowledge Enhanced Multi-intent Transformer Network for Recommendation**|Ding Zou et.al.|[2405.20565v1](http://arxiv.org/abs/2405.20565v1)|null|
+|**2024-05-30**|**DepesRAG: Towards Managing Software Dependencies using Large Language Models**|Mohannad Alhanahnah et.al.|[2405.20455v1](http://arxiv.org/abs/2405.20455v1)|null|
 |**2024-05-30**|**Reasoning about concepts with LLMs: Inconsistencies abound**|Rosario Uceda-Sosa et.al.|[2405.20163v1](http://arxiv.org/abs/2405.20163v1)|null|
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139v1](http://arxiv.org/abs/2405.20139v1)|null|
 |**2024-05-30**|**KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models**|Arto Bendiken et.al.|[2405.19877v1](http://arxiv.org/abs/2405.19877v1)|null|
@@ -10773,6 +10798,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Graph External Attention Enhanced Transformer**|Jianqing Liang et.al.|[2405.21061v1](http://arxiv.org/abs/2405.21061v1)|**[link](https://github.com/icm1018/geaet)**|
+|**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882v1](http://arxiv.org/abs/2405.20882v1)|null|
+|**2024-05-31**|**SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**|Yuxi Liu et.al.|[2405.20878v1](http://arxiv.org/abs/2405.20878v1)|**[link](https://github.com/hkuds/selfgnn)**|
+|**2024-05-31**|**Sign is Not a Remedy: Multiset-to-Multiset Message Passing for Learning on Heterophilic Graphs**|Langzhang Liang et.al.|[2405.20652v1](http://arxiv.org/abs/2405.20652v1)|null|
+|**2024-05-31**|**Heterophilous Distribution Propagation for Graph Neural Networks**|Zhuonan Zheng et.al.|[2405.20640v1](http://arxiv.org/abs/2405.20640v1)|null|
+|**2024-05-31**|**Towards a General GNN Framework for Combinatorial Optimization**|Frederik Wenkel et.al.|[2405.20543v1](http://arxiv.org/abs/2405.20543v1)|null|
+|**2024-05-30**|**GraphAny: A Foundation Model for Node Classification on Any Graph**|Jianan Zhao et.al.|[2405.20445v1](http://arxiv.org/abs/2405.20445v1)|null|
 |**2024-05-30**|**Flexible SE(2) graph neural networks with applications to PDE surrogates**|Maria Bånkestad et.al.|[2405.20287v1](http://arxiv.org/abs/2405.20287v1)|**[link](https://github.com/mariabankestad/se2-gnn)**|
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139v1](http://arxiv.org/abs/2405.20139v1)|null|
 |**2024-05-30**|**Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules**|Susmita Tripathy et.al.|[2405.20033v1](http://arxiv.org/abs/2405.20033v1)|null|
