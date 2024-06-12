@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -2691,7 +2691,7 @@ layout: default
 |**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|**[link](https://github.com/shuhengl/acl2023_conllpp)**|
 |**2022-12-19**|**MANER: Mask Augmented Named Entity Recognition for Extreme Low-Resource Languages**|Shashank Sonkar et.al.|[2212.09723v1](http://arxiv.org/abs/2212.09723v1)|null|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Legal NLP
 
@@ -2869,7 +2869,7 @@ layout: default
 |**2014-11-03**|**Unsupervised Keyword Extraction from Polish Legal Texts**|Michał Jungiewicz et.al.|[1408.3731v2](http://arxiv.org/abs/1408.3731v2)|null|
 |**2011-03-16**|**Information and Entanglement Measures in Quantum Systems With Applications to Atomic Physics**|Daniel Manzano et.al.|[1103.3186v1](http://arxiv.org/abs/1103.3186v1)|null|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Sequence Annotation
 
@@ -2911,14 +2911,14 @@ layout: default
 |**2008-02-16**|**Radio-loudness of Active Galaxies and the Black Hole Evolution**|M. Sikora et.al.|[0802.2302v1](http://arxiv.org/abs/0802.2302v1)|null|
 |**2007-07-16**|**Radio Loudness of AGNs: Host Galaxy Morphology and the Spin Paradigm**|L. Stawarz et.al.|[0707.2369v1](http://arxiv.org/abs/0707.2369v1)|null|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Named Entity Recognition
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-08**|**Fighting Against the Repetitive Training and Sample Dependency Problem in Few-shot Named Entity Recognition**|Chang Tian et.al.|[2406.05460v1](http://arxiv.org/abs/2406.05460v1)|null|
-|**2024-06-08**|**DeviceBERT: Applied Transfer Learning With Targeted Annotations and Vocabulary Enrichment to Identify Medical Device and Component Terminology in FDA Recall Summaries**|Miriam Farrington et.al.|[2406.05307v1](http://arxiv.org/abs/2406.05307v1)|**[link](https://github.com/mmfarrington/devicebert-ner-project)**|
+|**2024-06-08**|**DeviceBERT: Applied Transfer Learning With Targeted Annotations and Vocabulary Enrichment to Identify Medical Device and Component Terminology in FDA Recall Summaries**|Miriam Farrington et.al.|[2406.05307v1](http://arxiv.org/abs/2406.05307v1)|null|
 |**2024-06-06**|**llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power of Large Language Models**|Fabián Villena et.al.|[2406.04528v1](http://arxiv.org/abs/2406.04528v1)|null|
 |**2024-06-04**|**Assessing the Performance of Chinese Open Source Large Language Models in Information Extraction Tasks**|Yida Cai et.al.|[2406.02079v1](http://arxiv.org/abs/2406.02079v1)|null|
 |**2024-06-03**|**Improving Pseudo Labels with Global-Local Denoising Framework for Cross-lingual Named Entity Recognition**|Zhuojun Ding et.al.|[2406.01213v1](http://arxiv.org/abs/2406.01213v1)|**[link](https://github.com/ding-zj/glode)**|
@@ -3473,7 +3473,7 @@ layout: default
 |**2022-10-12**|**MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score**|Sunjae Kwon et.al.|[2210.05875v1](http://arxiv.org/abs/2210.05875v1)|**[link](https://github.com/mozzitastebitter/medjex)**|
 |**2022-10-11**|**SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition**|Zeng Yang et.al.|[2210.05632v1](http://arxiv.org/abs/2210.05632v1)|**[link](https://github.com/unveiled-the-red-hat/SEE-Few)**|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Text Classification
 
@@ -3485,7 +3485,7 @@ layout: default
 |**2024-06-07**|**AICoderEval: Improving AI Domain Code Generation of Large Language Models**|Yinghui Xia et.al.|[2406.04712v1](http://arxiv.org/abs/2406.04712v1)|null|
 |**2024-06-07**|**BEADs: Bias Evaluation Across Domains**|Shaina Raza et.al.|[2406.04220v2](http://arxiv.org/abs/2406.04220v2)|null|
 |**2024-06-08**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216v2](http://arxiv.org/abs/2406.04216v2)|**[link](https://github.com/eth-lre/llm_icl)**|
-|**2024-06-06**|**Sound Event Bounding Boxes**|Janek Ebbers et.al.|[2406.04212v1](http://arxiv.org/abs/2406.04212v1)|null|
+|**2024-06-06**|**Sound Event Bounding Boxes**|Janek Ebbers et.al.|[2406.04212v1](http://arxiv.org/abs/2406.04212v1)|**[link](https://github.com/merlresearch/sebbs)**|
 |**2024-06-06**|**Pointer-Guided Pre-Training: Infusing Large Language Models with Paragraph-Level Contextual Awareness**|Lars Hillebrand et.al.|[2406.04156v1](http://arxiv.org/abs/2406.04156v1)|**[link](https://github.com/LarsHill/pointer-guided-pre-training)**|
 |**2024-06-06**|**Do Language Models Understand Morality? Towards a Robust Detection of Moral Content**|Luana Bulla et.al.|[2406.04143v1](http://arxiv.org/abs/2406.04143v1)|**[link](https://github.com/LuanaBulla/Detection-of-Morality-in-Text)**|
 |**2024-06-06**|**Morpho-Photometric Classification of KiDS DR5 Sources Based on Neural Networks: A Comprehensive Star-Quasar-Galaxy Catalog**|Hai-Cheng Feng et.al.|[2406.03797v1](http://arxiv.org/abs/2406.03797v1)|null|
@@ -4522,7 +4522,7 @@ layout: default
 |**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/microsoft/scglab)**|
 |**2022-11-18**|**3d human motion generation from the text via gesture action classification and the autoregressive model**|Gwantae Kim et.al.|[2211.10003v1](http://arxiv.org/abs/2211.10003v1)|null|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Sentiment Analysis
 
@@ -5230,7 +5230,7 @@ layout: default
 |**2022-10-18**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-10-14**|**Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**|Sishuo Chen et.al.|[2210.07907v1](http://arxiv.org/abs/2210.07907v1)|**[link](https://github.com/lancopku/dan)**|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -5238,7 +5238,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-10**|**Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning**|Joongwon Kim et.al.|[2406.06469v1](http://arxiv.org/abs/2406.06469v1)|**[link](https://github.com/agent-husky/husky-v1)**|
 |**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464v1](http://arxiv.org/abs/2406.06464v1)|null|
-|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462v1](http://arxiv.org/abs/2406.06462v1)|null|
+|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462v1](http://arxiv.org/abs/2406.06462v1)|**[link](https://github.com/tianyu-z/vcr)**|
 |**2024-06-10**|**Evaluating the Retrieval Component in LLM-Based Question Answering Systems**|Ashkan Alinejad et.al.|[2406.06458v1](http://arxiv.org/abs/2406.06458v1)|null|
 |**2024-06-10**|**Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue**|Simone Alghisi et.al.|[2406.06399v1](http://arxiv.org/abs/2406.06399v1)|null|
 |**2024-06-10**|**MedExQA: Medical Question Answering Benchmark with Multiple Explanations**|Yunsoo Kim et.al.|[2406.06331v1](http://arxiv.org/abs/2406.06331v1)|null|
@@ -7264,7 +7264,7 @@ layout: default
 |**2022-12-02**|**Compound Tokens: Channel Fusion for Vision-Language Representation Learning**|Maxwell Mbabilla Aladago et.al.|[2212.01447v1](http://arxiv.org/abs/2212.01447v1)|null|
 |**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|**[link](https://github.com/mlvlab/qat)**|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -8072,7 +8072,7 @@ layout: default
 |**2022-10-17**|**Zero-Shot Ranking Socio-Political Texts with Transformer Language Models to Reduce Close Reading Time**|Kiymet Akdemir et.al.|[2210.09179v1](http://arxiv.org/abs/2210.09179v1)|null|
 |**2022-10-17**|**Modeling the Lighting in Scenes as Style for Auto White-Balance Correction**|Furkan Kınlı et.al.|[2210.09090v1](http://arxiv.org/abs/2210.09090v1)|**[link](https://github.com/birdortyedi/lighting-as-style-awb-correction)**|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -8080,7 +8080,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-10**|**Survey for Landing Generative AI in Social and E-commerce Recsys -- the Industry Perspectives**|Da Xu et.al.|[2406.06475v1](http://arxiv.org/abs/2406.06475v1)|null|
 |**2024-06-10**|**Greedy SLIM: A SLIM-Based Approach For Preference Elicitation**|Claudius Proissl et.al.|[2406.06061v1](http://arxiv.org/abs/2406.06061v1)|null|
-|**2024-06-10**|**Modeling User Retention through Generative Flow Networks**|Ziru Liu et.al.|[2406.06043v1](http://arxiv.org/abs/2406.06043v1)|null|
+|**2024-06-10**|**Modeling User Retention through Generative Flow Networks**|Ziru Liu et.al.|[2406.06043v1](http://arxiv.org/abs/2406.06043v1)|**[link](https://github.com/Applied-Machine-Learning-Lab/GFN4Retention)**|
 |**2024-06-09**|**Async Learned User Embeddings for Ads Delivery Optimization**|Mingwei Tang et.al.|[2406.05898v1](http://arxiv.org/abs/2406.05898v1)|null|
 |**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387v1](http://arxiv.org/abs/2406.05387v1)|null|
 |**2024-06-07**|**Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers**|Lütfi Kerem Senel et.al.|[2406.05255v1](http://arxiv.org/abs/2406.05255v1)|null|
@@ -9691,7 +9691,7 @@ layout: default
 |**2022-11-27**|**Dense Text Retrieval based on Pretrained Language Models: A Survey**|Wayne Xin Zhao et.al.|[2211.14876v1](http://arxiv.org/abs/2211.14876v1)|**[link](https://github.com/paddlepaddle/rocketqa)**|
 |**2022-11-27**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|**[link](https://github.com/chengang95/unkd)**|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -9701,7 +9701,7 @@ layout: default
 |**2024-06-10**|**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**|Pranoy Panda et.al.|[2406.06027v1](http://arxiv.org/abs/2406.06027v1)|null|
 |**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933v1](http://arxiv.org/abs/2406.05933v1)|null|
 |**2024-06-10**|**Data2Neo -- A Tool for Complex Neo4j Data Integration**|Julian Minder et.al.|[2406.04995v2](http://arxiv.org/abs/2406.04995v2)|null|
-|**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989v1](http://arxiv.org/abs/2406.04989v1)|null|
+|**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989v1](http://arxiv.org/abs/2406.04989v1)|**[link](https://github.com/ltgoslo/text-graph-generalization)**|
 |**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744v1](http://arxiv.org/abs/2406.04744v1)|null|
 |**2024-06-06**|**Tox-BART: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech**|Neemesh Yadav et.al.|[2406.03953v1](http://arxiv.org/abs/2406.03953v1)|null|
 |**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855v1](http://arxiv.org/abs/2406.03855v1)|null|
@@ -10981,7 +10981,7 @@ layout: default
 |**2022-11-18**|**Novelpy: A Python package to measure novelty and disruptiveness of bibliometric and patent data**|Pierre Pelletier et.al.|[2211.10346v1](http://arxiv.org/abs/2211.10346v1)|**[link](https://github.com/kwirtz/novelpy)**|
 |**2022-11-18**|**Contrastive Knowledge Graph Error Detection**|Qinggang Zhang et.al.|[2211.10030v1](http://arxiv.org/abs/2211.10030v1)|**[link](https://github.com/qing145/caged)**|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
 ## GNN
 
@@ -10990,7 +10990,7 @@ layout: default
 |**2024-06-10**|**Spatiotemporal Graph Neural Network Modelling Perfusion MRI**|Ruodan Yan et.al.|[2406.06434v1](http://arxiv.org/abs/2406.06434v1)|null|
 |**2024-06-10**|**Explainable Graph Neural Networks Under Fire**|Zhong Li et.al.|[2406.06417v1](http://arxiv.org/abs/2406.06417v1)|null|
 |**2024-06-10**|**Learning Physical Simulation with Message Passing Transformer**|Zeyi Xu et.al.|[2406.06060v1](http://arxiv.org/abs/2406.06060v1)|null|
-|**2024-06-10**|**MAGNOLIA: Matching Algorithms via GNNs for Online Value-to-go Approximation**|Alexandre Hayderi et.al.|[2406.05959v1](http://arxiv.org/abs/2406.05959v1)|null|
+|**2024-06-10**|**MAGNOLIA: Matching Algorithms via GNNs for Online Value-to-go Approximation**|Alexandre Hayderi et.al.|[2406.05959v1](http://arxiv.org/abs/2406.05959v1)|**[link](https://github.com/anders-wikum/GNN-OBM)**|
 |**2024-06-09**|**Expressive Power of Graph Neural Networks for (Mixed-Integer) Quadratic Programs**|Ziang Chen et.al.|[2406.05938v1](http://arxiv.org/abs/2406.05938v1)|null|
 |**2024-06-09**|**Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models**|Aidan Z. H. Yang et.al.|[2406.05892v1](http://arxiv.org/abs/2406.05892v1)|null|
 |**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850v1](http://arxiv.org/abs/2406.05850v1)|**[link](https://github.com/sldgroup/mobilevigv2)**|
@@ -13419,5 +13419,5 @@ layout: default
 |**2022-12-14**|**On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
 |**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 
-<p align=right>(<a href='#updated-on-20240611'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240612'>back to top</a>)</p>
 
