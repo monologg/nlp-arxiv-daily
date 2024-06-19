@@ -1,4 +1,4 @@
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,9 +22,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-17**|**HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing**|Jing Chen et.al.|[2406.11683v1](http://arxiv.org/abs/2406.11683v1)|null|
-|**2024-06-17**|**A Two-dimensional Zero-shot Dialogue State Tracking Evaluation Method using GPT-4**|Ming Gu et.al.|[2406.11651v1](http://arxiv.org/abs/2406.11651v1)|null|
-|**2024-06-17**|**Long Code Arena: a Set of Benchmarks for Long-Context Code Models**|Egor Bogomolov et.al.|[2406.11612v1](http://arxiv.org/abs/2406.11612v1)|null|
-|**2024-06-17**|**Understanding "Democratization" in NLP and ML Research**|Arjun Subramonian et.al.|[2406.11598v1](http://arxiv.org/abs/2406.11598v1)|null|
+|**2024-06-17**|**A Two-dimensional Zero-shot Dialogue State Tracking Evaluation Method using GPT-4**|Ming Gu et.al.|[2406.11651v1](http://arxiv.org/abs/2406.11651v1)|**[link](https://github.com/SLEEPWALKERG/LLM-DST-EVAL)**|
+|**2024-06-17**|**Long Code Arena: a Set of Benchmarks for Long-Context Code Models**|Egor Bogomolov et.al.|[2406.11612v1](http://arxiv.org/abs/2406.11612v1)|**[link](https://github.com/jetbrains-research/lca-baselines)**|
+|**2024-06-17**|**Understanding "Democratization" in NLP and ML Research**|Arjun Subramonian et.al.|[2406.11598v1](http://arxiv.org/abs/2406.11598v1)|**[link](https://github.com/ArjunSubramonian/democratization-nlp)**|
 |**2024-06-17**|**Mathematical Entities: Corpora and Benchmarks**|Jacob Collard et.al.|[2406.11577v1](http://arxiv.org/abs/2406.11577v1)|null|
 |**2024-06-17**|**GECOBench: A Gender-Controlled Text Dataset and Benchmark for Quantifying Biases in Explanations**|Rick Wilming et.al.|[2406.11547v1](http://arxiv.org/abs/2406.11547v1)|**[link](https://github.com/braindatalab/gecobench)**|
 |**2024-06-17**|**Counterfactual Debating with Preset Stances for Hallucination Elimination of LLMs**|Yi Fang et.al.|[2406.11514v1](http://arxiv.org/abs/2406.11514v1)|null|
@@ -2728,7 +2728,7 @@
 |**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|**[link](https://github.com/shuhengl/acl2023_conllpp)**|
 |**2022-12-19**|**MANER: Mask Augmented Named Entity Recognition for Extreme Low-Resource Languages**|Shashank Sonkar et.al.|[2212.09723v1](http://arxiv.org/abs/2212.09723v1)|null|
 
-<p align=right>(<a href='#updated-on-20240618'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240619'>back to top</a>)</p>
 
 ## Legal NLP
 
@@ -2907,7 +2907,7 @@
 |**2014-11-03**|**Unsupervised Keyword Extraction from Polish Legal Texts**|Michał Jungiewicz et.al.|[1408.3731v2](http://arxiv.org/abs/1408.3731v2)|null|
 |**2011-03-16**|**Information and Entanglement Measures in Quantum Systems With Applications to Atomic Physics**|Daniel Manzano et.al.|[1103.3186v1](http://arxiv.org/abs/1103.3186v1)|null|
 
-<p align=right>(<a href='#updated-on-20240618'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240619'>back to top</a>)</p>
 
 ## Sequence Annotation
 
@@ -2949,7 +2949,7 @@
 |**2008-02-16**|**Radio-loudness of Active Galaxies and the Black Hole Evolution**|M. Sikora et.al.|[0802.2302v1](http://arxiv.org/abs/0802.2302v1)|null|
 |**2007-07-16**|**Radio Loudness of AGNs: Host Galaxy Morphology and the Spin Paradigm**|L. Stawarz et.al.|[0707.2369v1](http://arxiv.org/abs/0707.2369v1)|null|
 
-<p align=right>(<a href='#updated-on-20240618'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240619'>back to top</a>)</p>
 
 ## Named Entity Recognition
 
@@ -3518,7 +3518,7 @@
 |**2022-10-12**|**MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score**|Sunjae Kwon et.al.|[2210.05875v1](http://arxiv.org/abs/2210.05875v1)|**[link](https://github.com/mozzitastebitter/medjex)**|
 |**2022-10-11**|**SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition**|Zeng Yang et.al.|[2210.05632v1](http://arxiv.org/abs/2210.05632v1)|**[link](https://github.com/unveiled-the-red-hat/SEE-Few)**|
 
-<p align=right>(<a href='#updated-on-20240618'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240619'>back to top</a>)</p>
 
 ## Text Classification
 
@@ -3532,7 +3532,7 @@
 |**2024-06-15**|**Large Language Model Enhanced Clustering for News Event Detection**|Adane Nega Tarekegn et.al.|[2406.10552v1](http://arxiv.org/abs/2406.10552v1)|null|
 |**2024-06-14**|**FZI-WIM at SemEval-2024 Task 2: Self-Consistent CoT for Complex NLI in Biomedical Domain**|Jin Liu et.al.|[2406.10040v1](http://arxiv.org/abs/2406.10040v1)|**[link](https://github.com/jens5588/fzi-wim-nli4ct)**|
 |**2024-06-13**|**Self-Training for Sample-Efficient Active Learning for Text Classification with Pre-Trained Language Models**|Christopher Schröder et.al.|[2406.09206v1](http://arxiv.org/abs/2406.09206v1)|null|
-|**2024-06-12**|**Fine-Tuned 'Small' LLMs (Still) Significantly Outperform Zero-Shot Generative AI Models in Text Classification**|Martin Juan José Bucher et.al.|[2406.08660v1](http://arxiv.org/abs/2406.08660v1)|null|
+|**2024-06-12**|**Fine-Tuned 'Small' LLMs (Still) Significantly Outperform Zero-Shot Generative AI Models in Text Classification**|Martin Juan José Bucher et.al.|[2406.08660v1](http://arxiv.org/abs/2406.08660v1)|**[link](https://github.com/mnbucher/text-cls-llms)**|
 |**2024-06-12**|**Adversarial Evasion Attack Efficiency against Large Language Models**|João Vitorino et.al.|[2406.08050v1](http://arxiv.org/abs/2406.08050v1)|null|
 |**2024-06-11**|**Paraphrasing in Affirmative Terms Improves Negation Understanding**|MohammadHossein Rezaei et.al.|[2406.07492v1](http://arxiv.org/abs/2406.07492v1)|null|
 |**2024-06-11**|**Mitigating Boundary Ambiguity and Inherent Bias for Text Classification in the Era of Large Language Models**|Zhenyi Lu et.al.|[2406.07001v1](http://arxiv.org/abs/2406.07001v1)|**[link](https://github.com/chuge0335/pc-cot)**|
@@ -4580,7 +4580,7 @@
 |**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/microsoft/scglab)**|
 |**2022-11-18**|**3d human motion generation from the text via gesture action classification and the autoregressive model**|Gwantae Kim et.al.|[2211.10003v1](http://arxiv.org/abs/2211.10003v1)|null|
 
-<p align=right>(<a href='#updated-on-20240618'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240619'>back to top</a>)</p>
 
 ## Sentiment Analysis
 
@@ -5298,7 +5298,7 @@
 |**2022-10-18**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-10-14**|**Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**|Sishuo Chen et.al.|[2210.07907v1](http://arxiv.org/abs/2210.07907v1)|**[link](https://github.com/lancopku/dan)**|
 
-<p align=right>(<a href='#updated-on-20240618'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240619'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -7381,7 +7381,7 @@
 |**2022-12-02**|**Compound Tokens: Channel Fusion for Vision-Language Representation Learning**|Maxwell Mbabilla Aladago et.al.|[2212.01447v1](http://arxiv.org/abs/2212.01447v1)|null|
 |**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|**[link](https://github.com/mlvlab/qat)**|
 
-<p align=right>(<a href='#updated-on-20240618'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240619'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -7393,7 +7393,7 @@
 |**2024-06-17**|**Multimodal Structured Generation: CVPR's 2nd MMFM Challenge Technical Report**|Franz Louis Cesista et.al.|[2406.11403v1](http://arxiv.org/abs/2406.11403v1)|**[link](https://github.com/leloykun/mmfm-challenge)**|
 |**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400v1](http://arxiv.org/abs/2406.11400v1)|null|
 |**2024-06-14**|**Gender Representation in TV and Radio: Automatic Information Extraction methods versus Manual Analyses**|David Doukhan et.al.|[2406.10316v1](http://arxiv.org/abs/2406.10316v1)|null|
-|**2024-06-14**|**First Multi-Dimensional Evaluation of Flowchart Comprehension for Multimodal Large Language Models**|Enming Zhang et.al.|[2406.10057v1](http://arxiv.org/abs/2406.10057v1)|null|
+|**2024-06-14**|**First Multi-Dimensional Evaluation of Flowchart Comprehension for Multimodal Large Language Models**|Enming Zhang et.al.|[2406.10057v1](http://arxiv.org/abs/2406.10057v1)|**[link](https://github.com/360ailab-nlp/flowce)**|
 |**2024-06-14**|**Frequency-mix Knowledge Distillation for Fake Speech Detection**|Cunhang Fan et.al.|[2406.09664v1](http://arxiv.org/abs/2406.09664v1)|null|
 |**2024-06-14**|**A Survey of Video Datasets for Grounded Event Understanding**|Kate Sanders et.al.|[2406.09646v1](http://arxiv.org/abs/2406.09646v1)|**[link](https://github.com/katesanders9/grounded-events)**|
 |**2024-06-13**|**Exploring Syntactic Patterns in Urdu: A Deep Dive into Dependency Analysis**|Nudrat Habib et.al.|[2406.09549v1](http://arxiv.org/abs/2406.09549v1)|null|
@@ -8205,7 +8205,7 @@
 |**2022-10-17**|**Zero-Shot Ranking Socio-Political Texts with Transformer Language Models to Reduce Close Reading Time**|Kiymet Akdemir et.al.|[2210.09179v1](http://arxiv.org/abs/2210.09179v1)|null|
 |**2022-10-17**|**Modeling the Lighting in Scenes as Style for Auto White-Balance Correction**|Furkan Kınlı et.al.|[2210.09090v1](http://arxiv.org/abs/2210.09090v1)|**[link](https://github.com/birdortyedi/lighting-as-style-awb-correction)**|
 
-<p align=right>(<a href='#updated-on-20240618'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240619'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -9848,7 +9848,7 @@
 |**2022-11-27**|**Dense Text Retrieval based on Pretrained Language Models: A Survey**|Wayne Xin Zhao et.al.|[2211.14876v1](http://arxiv.org/abs/2211.14876v1)|**[link](https://github.com/paddlepaddle/rocketqa)**|
 |**2022-11-27**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|**[link](https://github.com/chengang95/unkd)**|
 
-<p align=right>(<a href='#updated-on-20240618'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240619'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -9856,10 +9856,10 @@
 |---|---|---|---|---|
 |**2024-06-17**|**TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation**|Jinyuan Fang et.al.|[2406.11460v1](http://arxiv.org/abs/2406.11460v1)|**[link](https://github.com/jyfang6/trace)**|
 |**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400v1](http://arxiv.org/abs/2406.11400v1)|null|
-|**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162v1](http://arxiv.org/abs/2406.11162v1)|null|
+|**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162v1](http://arxiv.org/abs/2406.11162v1)|**[link](https://github.com/victor812-hub/entity_datasets)**|
 |**2024-06-17**|**Move Beyond Triples: Contextual Knowledge Graph Representation and Reasoning**|Chengjin Xu et.al.|[2406.11160v1](http://arxiv.org/abs/2406.11160v1)|null|
-|**2024-06-17**|**Are Large Language Models a Good Replacement of Taxonomies?**|Yushi Sun et.al.|[2406.11131v1](http://arxiv.org/abs/2406.11131v1)|null|
-|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|null|
+|**2024-06-17**|**Are Large Language Models a Good Replacement of Taxonomies?**|Yushi Sun et.al.|[2406.11131v1](http://arxiv.org/abs/2406.11131v1)|**[link](https://github.com/ysunbp/taxoglimpse)**|
+|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-16**|**KGPA: Robustness Evaluation for Large Language Models via Cross-Domain Knowledge Graphs**|Aihua Pei et.al.|[2406.10802v1](http://arxiv.org/abs/2406.10802v1)|null|
 |**2024-06-15**|**SyntheT2C: Generating Synthetic Data for Fine-Tuning Large Language Models on the Text2Cypher Task**|Ziije Zhong et.al.|[2406.10710v1](http://arxiv.org/abs/2406.10710v1)|null|
 |**2024-06-15**|**Large Language Models as Event Forecasters**|Libo Zhang et.al.|[2406.10492v1](http://arxiv.org/abs/2406.10492v1)|null|
@@ -11168,7 +11168,7 @@
 |**2022-11-18**|**Novelpy: A Python package to measure novelty and disruptiveness of bibliometric and patent data**|Pierre Pelletier et.al.|[2211.10346v1](http://arxiv.org/abs/2211.10346v1)|**[link](https://github.com/kwirtz/novelpy)**|
 |**2022-11-18**|**Contrastive Knowledge Graph Error Detection**|Qinggang Zhang et.al.|[2211.10030v1](http://arxiv.org/abs/2211.10030v1)|**[link](https://github.com/qing145/caged)**|
 
-<p align=right>(<a href='#updated-on-20240618'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240619'>back to top</a>)</p>
 
 ## GNN
 
@@ -13646,5 +13646,5 @@
 |**2022-12-14**|**On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
 |**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 
-<p align=right>(<a href='#updated-on-20240618'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20240619'>back to top</a>)</p>
 
