@@ -25,6 +25,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**BioMNER: A Dataset for Biomedical Method Entity Recognition**|Chen Tang et.al.|[2406.20038v1](http://arxiv.org/abs/2406.20038v1)|null|
+|**2024-06-28**|**InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management**|Wonbeom Lee et.al.|[2406.19707v1](http://arxiv.org/abs/2406.19707v1)|null|
+|**2024-06-28**|**CANDY: A Benchmark for Continuous Approximate Nearest Neighbor Search with Dynamic Data Ingestion**|Xianzhi Zeng et.al.|[2406.19651v1](http://arxiv.org/abs/2406.19651v1)|**[link](https://github.com/intellistream/candy)**|
+|**2024-06-28**|**IDT: Dual-Task Adversarial Attacks for Privacy Protection**|Pedro Faustini et.al.|[2406.19642v1](http://arxiv.org/abs/2406.19642v1)|null|
+|**2024-06-27**|**TocBERT: Medical Document Structure Extraction Using Bidirectional Transformers**|Majd Saleh et.al.|[2406.19526v1](http://arxiv.org/abs/2406.19526v1)|null|
 |**2024-06-27**|**The Model Arena for Cross-lingual Sentiment Analysis: A Comparative Study in the Era of Large Language Models**|Xiliang Zhu et.al.|[2406.19358v1](http://arxiv.org/abs/2406.19358v1)|null|
 |**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301v1](http://arxiv.org/abs/2406.19301v1)|null|
 |**2024-06-27**|**Think Step by Step: Chain-of-Gesture Prompting for Error Detection in Robotic Surgical Videos**|Zhimin Shao et.al.|[2406.19217v1](http://arxiv.org/abs/2406.19217v1)|null|
@@ -3021,6 +3026,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**BioMNER: A Dataset for Biomedical Method Entity Recognition**|Chen Tang et.al.|[2406.20038v1](http://arxiv.org/abs/2406.20038v1)|null|
+|**2024-06-27**|**TocBERT: Medical Document Structure Extraction Using Bidirectional Transformers**|Majd Saleh et.al.|[2406.19526v1](http://arxiv.org/abs/2406.19526v1)|null|
 |**2024-06-27**|**Annotation Errors and NER: A Study with OntoNotes 5.0**|Gabriel Bernier-Colborne et.al.|[2406.19172v1](http://arxiv.org/abs/2406.19172v1)|null|
 |**2024-06-26**|**Improving Entity Recognition Using Ensembles of Deep Learning and Fine-tuned Large Language Models: A Case Study on Adverse Event Extraction from Multiple Sources**|Yiming Li et.al.|[2406.18049v1](http://arxiv.org/abs/2406.18049v1)|null|
 |**2024-06-25**|**Mapping the Past: Geographically Linking an Early 20th Century Swedish Encyclopedia with Wikidata**|Axel Ahlin et.al.|[2406.17903v1](http://arxiv.org/abs/2406.17903v1)|**[link](https://github.com/axelahlin/uggleupplagan)**|
@@ -5416,6 +5423,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**|Jieneng Chen et.al.|[2406.20092v1](http://arxiv.org/abs/2406.20092v1)|**[link](https://github.com/beckschen/llavolta)**|
+|**2024-06-28**|**The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models**|Xinyi Chen et.al.|[2406.19999v1](http://arxiv.org/abs/2406.19999v1)|null|
+|**2024-06-28**|**STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical**|Guohao Sun et.al.|[2406.19973v1](http://arxiv.org/abs/2406.19973v1)|null|
+|**2024-06-28**|**InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding**|Kirolos Ataallah et.al.|[2406.19875v1](http://arxiv.org/abs/2406.19875v1)|null|
+|**2024-06-28**|**BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering**|Zheng Chu et.al.|[2406.19820v1](http://arxiv.org/abs/2406.19820v1)|null|
+|**2024-06-28**|**MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment**|Jihao Liu et.al.|[2406.19736v1](http://arxiv.org/abs/2406.19736v1)|**[link](https://github.com/jihaonew/mm-instruct)**|
+|**2024-06-28**|**SK-VQA: Synthetic Knowledge Generation at Scale for Training Context-Augmented Multimodal LLMs**|Xin Su et.al.|[2406.19593v1](http://arxiv.org/abs/2406.19593v1)|null|
+|**2024-06-27**|**Context Matters: An Empirical Study of the Impact of Contextual Information in Temporal Question Answering Systems**|Dan Schumacher et.al.|[2406.19538v1](http://arxiv.org/abs/2406.19538v1)|null|
+|**2024-06-27**|**Handling Ontology Gaps in Semantic Parsing**|Andrea Bacciu et.al.|[2406.19537v1](http://arxiv.org/abs/2406.19537v1)|**[link](https://github.com/amazon-science/handling-ontology-gaps-in-semantic-parsing)**|
+|**2024-06-27**|**Changing Answer Order Can Decrease MMLU Accuracy**|Vipul Gupta et.al.|[2406.19470v1](http://arxiv.org/abs/2406.19470v1)|null|
 |**2024-06-27**|**ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos**|Jr-Jen Chen et.al.|[2406.19392v1](http://arxiv.org/abs/2406.19392v1)|**[link](https://github.com/rextime/rextime)**|
 |**2024-06-27**|**Enhancing Continual Learning in Visual Question Answering with Modality-Aware Feature Distillation**|Malvina Nikandrou et.al.|[2406.19297v1](http://arxiv.org/abs/2406.19297v1)|null|
 |**2024-06-27**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237v1](http://arxiv.org/abs/2406.19237v1)|null|
@@ -7561,6 +7578,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion**|Quanmin Liang et.al.|[2406.19640v1](http://arxiv.org/abs/2406.19640v1)|**[link](https://github.com/lqm26/rmfnet)**|
 |**2024-06-27**|**Think Step by Step: Chain-of-Gesture Prompting for Error Detection in Robotic Surgical Videos**|Zhimin Shao et.al.|[2406.19217v1](http://arxiv.org/abs/2406.19217v1)|null|
 |**2024-06-27**|**Statements: Universal Information Extraction from Tables with Large Language Models for ESG KPIs**|Lokesh Mishra et.al.|[2406.19102v1](http://arxiv.org/abs/2406.19102v1)|null|
 |**2024-06-26**|**Research on Information Extraction of LCSTS Dataset Based on an Improved BERTSum-LSTM Model**|Yiming Chen et.al.|[2406.18364v1](http://arxiv.org/abs/2406.18364v1)|null|
@@ -10092,6 +10110,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Into the Unknown: Generating Geospatial Descriptions for New Environments**|Tzuf Paz-Argaman et.al.|[2406.19967v1](http://arxiv.org/abs/2406.19967v1)|null|
+|**2024-06-27**|**Knowledge acquisition for dialogue agents using reinforcement learning on graph representations**|Selene Baez Santamaria et.al.|[2406.19500v1](http://arxiv.org/abs/2406.19500v1)|null|
 |**2024-06-27**|**Adaptive Stochastic Weight Averaging**|Caglar Demir et.al.|[2406.19092v1](http://arxiv.org/abs/2406.19092v1)|**[link](https://github.com/dice-group/aswa)**|
 |**2024-06-27**|**TrustUQA: A Trustful Framework for Unified Structured Data Question Answering**|Wen Zhang et.al.|[2406.18916v1](http://arxiv.org/abs/2406.18916v1)|null|
 |**2024-06-27**|**MissionGNN: Hierarchical Multimodal GNN-based Weakly Supervised Video Anomaly Recognition with Mission-Specific Knowledge Graph Generation**|Sanggeon Yun et.al.|[2406.18815v1](http://arxiv.org/abs/2406.18815v1)|null|
@@ -11441,6 +11461,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Modeling the Real World with High-Density Visual Particle Dynamics**|William F. Whitney et.al.|[2406.19800v1](http://arxiv.org/abs/2406.19800v1)|null|
+|**2024-06-28**|**SPIRONet: Spatial-Frequency Learning and Topological Channel Interaction Network for Vessel Segmentation**|De-Xing Huang et.al.|[2406.19749v1](http://arxiv.org/abs/2406.19749v1)|**[link](https://github.com/dxhuang-casia/spironet)**|
 |**2024-06-27**|**Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers**|Jinsong Chen et.al.|[2406.19258v1](http://arxiv.org/abs/2406.19258v1)|null|
 |**2024-06-27**|**NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification**|Jinsong Chen et.al.|[2406.19249v1](http://arxiv.org/abs/2406.19249v1)|null|
 |**2024-06-27**|**Improving the Expressiveness of $K$ -hop Message-Passing GNNs by Injecting Contextualized Substructure Information**|Tianjun Yao et.al.|[2406.19244v1](http://arxiv.org/abs/2406.19244v1)|**[link](https://github.com/tianyao-aka/expresive_k_hop_gnns)**|
