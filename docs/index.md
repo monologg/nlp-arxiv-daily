@@ -25,6 +25,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**A Review of the Applications of Deep Learning-Based Emergent Communication**|Brendon Boldt et.al.|[2407.03302v1](http://arxiv.org/abs/2407.03302v1)|null|
+|**2024-07-03**|**Model-Enhanced LLM-Driven VUI Testing of VPA Apps**|Suwan Li et.al.|[2407.02791v1](http://arxiv.org/abs/2407.02791v1)|null|
+|**2024-07-02**|**AI in Action: Accelerating Progress Towards the Sustainable Development Goals**|Brigitte Hoyer Gosselink et.al.|[2407.02711v1](http://arxiv.org/abs/2407.02711v1)|null|
 |**2024-07-02**|**CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models**|Song Wang et.al.|[2407.02408v1](http://arxiv.org/abs/2407.02408v1)|null|
 |**2024-07-02**|**Soft Language Prompts for Language Transfer**|Ivan Vykopal et.al.|[2407.02317v1](http://arxiv.org/abs/2407.02317v1)|null|
 |**2024-07-02**|**Renard: A Modular Pipeline for Extracting Character Networks from Narrative Texts**|Arthur Amalvy et.al.|[2407.02284v1](http://arxiv.org/abs/2407.02284v1)|null|
@@ -3624,12 +3627,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**FSM: A Finite State Machine Based Zero-Shot Prompting Paradigm for Multi-Hop Question Answering**|Xiaochen Wang et.al.|[2407.02964v1](http://arxiv.org/abs/2407.02964v1)|null|
 |**2024-07-02**|**Exploring the Role of Transliteration in In-Context Learning for Low-resource Languages Written in Non-Latin Scripts**|Chunlan Ma et.al.|[2407.02320v1](http://arxiv.org/abs/2407.02320v1)|null|
 |**2024-07-02**|**Efficient Nearest Neighbor based Uncertainty Estimation for Natural Language Processing Tasks**|Wataru Hashimoto et.al.|[2407.02138v1](http://arxiv.org/abs/2407.02138v1)|null|
 |**2024-07-02**|**Extracting and Encoding: Leveraging Large Language Models and Medical Knowledge to Enhance Radiological Text Representation**|Pablo Messina et.al.|[2407.01948v1](http://arxiv.org/abs/2407.01948v1)|null|
 |**2024-07-01**|**Evaluating the Role of Data Enrichment Approaches Towards Rare Event Analysis in Manufacturing**|Chathurangi Shyalika et.al.|[2407.01644v1](http://arxiv.org/abs/2407.01644v1)|null|
 |**2024-07-01**|**A Global-Local Attention Mechanism for Relation Classification**|Yiping Sun et.al.|[2407.01424v1](http://arxiv.org/abs/2407.01424v1)|null|
-|**2024-07-01**|**Protecting Privacy in Classifiers by Token Manipulation**|Re'em Harel et.al.|[2407.01334v1](http://arxiv.org/abs/2407.01334v1)|null|
+|**2024-07-03**|**Protecting Privacy in Classifiers by Token Manipulation**|Re'em Harel et.al.|[2407.01334v2](http://arxiv.org/abs/2407.01334v2)|null|
 |**2024-07-01**|**EconNLI: Evaluating Large Language Models on Economics Reasoning**|Yue Guo et.al.|[2407.01212v1](http://arxiv.org/abs/2407.01212v1)|**[link](https://github.com/irenehere/econnli)**|
 |**2024-07-01**|**Calibrated Large Language Models for Binary Question Answering**|Patrizio Giovannotti et.al.|[2407.01122v1](http://arxiv.org/abs/2407.01122v1)|null|
 |**2024-07-01**|**ZeroDDI: A Zero-Shot Drug-Drug Interaction Event Prediction Method with Semantic Enhanced Learning and Dual-Modal Uniform Alignment**|Ziyan Wang et.al.|[2407.00891v1](http://arxiv.org/abs/2407.00891v1)|**[link](https://github.com/wzy-sarah/zeroddi)**|
@@ -4722,6 +4726,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Aspect-Based Sentiment Analysis Techniques: A Comparative Study**|Dineth Jayakody et.al.|[2407.02834v1](http://arxiv.org/abs/2407.02834v1)|null|
 |**2024-07-02**|**RVISA: Reasoning and Verification for Implicit Sentiment Analysis**|Wenna Lai et.al.|[2407.02340v1](http://arxiv.org/abs/2407.02340v1)|null|
 |**2024-07-02**|**Efficient Nearest Neighbor based Uncertainty Estimation for Natural Language Processing Tasks**|Wataru Hashimoto et.al.|[2407.02138v1](http://arxiv.org/abs/2407.02138v1)|null|
 |**2024-07-01**|**NLPGuard: A Framework for Mitigating the Use of Protected Attributes by NLP Classifiers**|Salvatore Greco et.al.|[2407.01697v1](http://arxiv.org/abs/2407.01697v1)|null|
@@ -5459,6 +5464,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|
+|**2024-07-03**|**KeyVideoLLM: Towards Large-scale Video Keyframe Selection**|Hao Liang et.al.|[2407.03104v1](http://arxiv.org/abs/2407.03104v1)|null|
+|**2024-07-03**|**Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question-Answering**|Zhaohe Liao et.al.|[2407.03008v1](http://arxiv.org/abs/2407.03008v1)|null|
+|**2024-07-03**|**SemioLLM: Assessing Large Language Models for Semiological Analysis in Epilepsy Research**|Meghal Dani et.al.|[2407.03004v1](http://arxiv.org/abs/2407.03004v1)|null|
+|**2024-07-03**|**FSM: A Finite State Machine Based Zero-Shot Prompting Paradigm for Multi-Hop Question Answering**|Xiaochen Wang et.al.|[2407.02964v1](http://arxiv.org/abs/2407.02964v1)|null|
+|**2024-07-03**|**HybEA: Hybrid Attention Models for Entity Alignment**|Nikolaos Fanourakis et.al.|[2407.02862v1](http://arxiv.org/abs/2407.02862v1)|null|
+|**2024-07-03**|**MindBench: A Comprehensive Benchmark for Mind Map Structure Recognition and Analysis**|Lei Chen et.al.|[2407.02842v1](http://arxiv.org/abs/2407.02842v1)|null|
+|**2024-07-03**|**MLKD-BERT: Multi-level Knowledge Distillation for Pre-trained Language Models**|Ying Zhang et.al.|[2407.02775v1](http://arxiv.org/abs/2407.02775v1)|null|
+|**2024-07-02**|**D-Rax: Domain-specific Radiologic assistant leveraging multi-modal data and eXpert model predictions**|Hareem Nisar et.al.|[2407.02604v1](http://arxiv.org/abs/2407.02604v1)|null|
 |**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486v1](http://arxiv.org/abs/2407.02486v1)|**[link](https://github.com/alisafaya/neurocache)**|
 |**2024-07-02**|**Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**|Pritish Sahu et.al.|[2407.02352v1](http://arxiv.org/abs/2407.02352v1)|null|
 |**2024-07-02**|**Synthetic Multimodal Question Generation**|Ian Wu et.al.|[2407.02233v1](http://arxiv.org/abs/2407.02233v1)|null|
@@ -7624,6 +7638,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|null|
+|**2024-07-03**|**Fair Resource Allocation for Probabilistic Semantic Communication in IIoT**|Siyun Liang et.al.|[2407.02922v1](http://arxiv.org/abs/2407.02922v1)|null|
+|**2024-07-03**|**Efficient Fusion and Task Guided Embedding for End-to-end Autonomous Driving**|Yipin Guo et.al.|[2407.02878v1](http://arxiv.org/abs/2407.02878v1)|null|
+|**2024-07-03**|**SA-WavLM: Speaker-Aware Self-Supervised Pre-training for Mixture Speech**|Jingru Lin et.al.|[2407.02826v1](http://arxiv.org/abs/2407.02826v1)|null|
+|**2024-06-30**|**Actionable Cyber Threat Intelligence using Knowledge Graphs and Large Language Models**|Romy Fieblinger et.al.|[2407.02528v1](http://arxiv.org/abs/2407.02528v1)|null|
 |**2024-07-02**|**A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding**|Jinghui Lu et.al.|[2407.01976v1](http://arxiv.org/abs/2407.01976v1)|null|
 |**2024-06-28**|**Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion**|Quanmin Liang et.al.|[2406.19640v1](http://arxiv.org/abs/2406.19640v1)|**[link](https://github.com/lqm26/rmfnet)**|
 |**2024-06-27**|**Think Step by Step: Chain-of-Gesture Prompting for Error Detection in Robotic Surgical Videos**|Zhimin Shao et.al.|[2406.19217v1](http://arxiv.org/abs/2406.19217v1)|null|
@@ -8473,6 +8492,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**HybEA: Hybrid Attention Models for Entity Alignment**|Nikolaos Fanourakis et.al.|[2407.02862v1](http://arxiv.org/abs/2407.02862v1)|null|
+|**2024-07-03**|**CRUISE on Quantum Computing for Feature Selection in Recommender Systems**|Jiayang Niu et.al.|[2407.02839v1](http://arxiv.org/abs/2407.02839v1)|null|
+|**2024-07-03**|**LANE: Logic Alignment of Non-tuning Large Language Models and Online Recommendation Systems for Explainable Reason Generation**|Hongke Zhao et.al.|[2407.02833v1](http://arxiv.org/abs/2407.02833v1)|null|
+|**2024-07-03**|**Multi-Scenario Combination Based on Multi-Agent Reinforcement Learning to Optimize the Advertising Recommendation System**|Yang Zhao et.al.|[2407.02759v1](http://arxiv.org/abs/2407.02759v1)|null|
+|**2024-07-02**|**Linear Submodular Maximization with Bandit Feedback**|Wenjing Chen et.al.|[2407.02601v1](http://arxiv.org/abs/2407.02601v1)|null|
+|**2024-07-02**|**ECAT: A Entire space Continual and Adaptive Transfer Learning Framework for Cross-Domain Recommendation**|Chaoqun Hou et.al.|[2407.02542v1](http://arxiv.org/abs/2407.02542v1)|null|
 |**2024-07-02**|**Fuzzy synthetic method for evaluating explanations in recommender systems**|Jinfeng Zhong et.al.|[2407.02065v1](http://arxiv.org/abs/2407.02065v1)|null|
 |**2024-07-02**|**Core Knowledge Learning Framework for Graph Adaptation and Scalability Learning**|Bowen Zhang et.al.|[2407.01886v1](http://arxiv.org/abs/2407.01886v1)|null|
 |**2024-07-01**|**Federated Binary Matrix Factorization using Proximal Optimization**|Sebastian Dalleiger et.al.|[2407.01776v1](http://arxiv.org/abs/2407.01776v1)|null|
@@ -10164,6 +10189,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Fair Resource Allocation for Probabilistic Semantic Communication in IIoT**|Siyun Liang et.al.|[2407.02922v1](http://arxiv.org/abs/2407.02922v1)|null|
+|**2024-07-03**|**Contrast then Memorize: Semantic Neighbor Retrieval-Enhanced Inductive Multimodal Knowledge Graph Completion**|Yu Zhao et.al.|[2407.02867v1](http://arxiv.org/abs/2407.02867v1)|null|
+|**2024-07-03**|**HybEA: Hybrid Attention Models for Entity Alignment**|Nikolaos Fanourakis et.al.|[2407.02862v1](http://arxiv.org/abs/2407.02862v1)|null|
+|**2024-07-03**|**Croppable Knowledge Graph Embedding**|Yushan Zhu et.al.|[2407.02779v1](http://arxiv.org/abs/2407.02779v1)|null|
+|**2024-07-03**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph Neural Network**|Yushan Zhu et.al.|[2407.02762v1](http://arxiv.org/abs/2407.02762v1)|null|
+|**2024-07-02**|**Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**|Devam Mondal et.al.|[2407.02659v1](http://arxiv.org/abs/2407.02659v1)|null|
 |**2024-07-02**|**ML-extendable framework for multiphysics-multiscale simulation workflow and data management using Kadi4Mat**|Somnath Bharech et.al.|[2407.02162v1](http://arxiv.org/abs/2407.02162v1)|null|
 |**2024-07-02**|**Automated Knowledge Graph Learning in Industrial Processes**|Lolitta Ammann et.al.|[2407.02106v1](http://arxiv.org/abs/2407.02106v1)|null|
 |**2024-07-02**|**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**|Ananjan Nandi et.al.|[2407.01994v1](http://arxiv.org/abs/2407.01994v1)|null|
@@ -11523,6 +11554,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|null|
+|**2024-07-03**|**Foundations and Frontiers of Graph Learning Theory**|Yu Huang et.al.|[2407.03125v1](http://arxiv.org/abs/2407.03125v1)|null|
+|**2024-07-03**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph Neural Network**|Yushan Zhu et.al.|[2407.02762v1](http://arxiv.org/abs/2407.02762v1)|null|
+|**2024-07-02**|**Holistically-Nested Structure-Aware Graph Neural Network for Road Extraction**|Tinghuai Wang et.al.|[2407.02639v1](http://arxiv.org/abs/2407.02639v1)|null|
 |**2024-07-02**|**On the Robustness of Graph Reduction Against GNN Backdoor**|Yuxuan Zhu et.al.|[2407.02431v1](http://arxiv.org/abs/2407.02431v1)|null|
 |**2024-07-02**|**Structure-Aware Consensus Network on Graphs with Few Labeled Nodes**|Shuaike Xu et.al.|[2407.02188v1](http://arxiv.org/abs/2407.02188v1)|null|
 |**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143v1](http://arxiv.org/abs/2407.02143v1)|null|
