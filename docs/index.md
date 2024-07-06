@@ -29,7 +29,7 @@ layout: default
 |**2024-07-03**|**Model-Enhanced LLM-Driven VUI Testing of VPA Apps**|Suwan Li et.al.|[2407.02791v1](http://arxiv.org/abs/2407.02791v1)|null|
 |**2024-07-02**|**AI in Action: Accelerating Progress Towards the Sustainable Development Goals**|Brigitte Hoyer Gosselink et.al.|[2407.02711v1](http://arxiv.org/abs/2407.02711v1)|null|
 |**2024-07-02**|**CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models**|Song Wang et.al.|[2407.02408v1](http://arxiv.org/abs/2407.02408v1)|null|
-|**2024-07-02**|**Soft Language Prompts for Language Transfer**|Ivan Vykopal et.al.|[2407.02317v1](http://arxiv.org/abs/2407.02317v1)|null|
+|**2024-07-02**|**Soft Language Prompts for Language Transfer**|Ivan Vykopal et.al.|[2407.02317v1](http://arxiv.org/abs/2407.02317v1)|**[link](https://github.com/ivanvykopal/adapter-prompt-evaluation)**|
 |**2024-07-02**|**Renard: A Modular Pipeline for Extracting Character Networks from Narrative Texts**|Arthur Amalvy et.al.|[2407.02284v1](http://arxiv.org/abs/2407.02284v1)|null|
 |**2024-07-02**|**Indian Stock Market Prediction using Augmented Financial Intelligence ML**|Anishka Chauhan et.al.|[2407.02236v1](http://arxiv.org/abs/2407.02236v1)|null|
 |**2024-07-02**|**PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning**|Jiaru Zou et.al.|[2407.02211v1](http://arxiv.org/abs/2407.02211v1)|null|
@@ -3041,7 +3041,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-02**|**Efficient Nearest Neighbor based Uncertainty Estimation for Natural Language Processing Tasks**|Wataru Hashimoto et.al.|[2407.02138v1](http://arxiv.org/abs/2407.02138v1)|null|
 |**2024-07-02**|**Are Data Augmentation Methods in Named Entity Recognition Applicable for Uncertainty Estimation?**|Wataru Hashimoto et.al.|[2407.02062v1](http://arxiv.org/abs/2407.02062v1)|null|
-|**2024-07-01**|**Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters**|Daniil Gurgurov et.al.|[2407.01406v1](http://arxiv.org/abs/2407.01406v1)|null|
+|**2024-07-01**|**Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters**|Daniil Gurgurov et.al.|[2407.01406v1](http://arxiv.org/abs/2407.01406v1)|**[link](https://github.com/d-gurgurov/Injecting-Commonsense-Knowledge-into-LLMs)**|
 |**2024-07-01**|**Bridging the Gap: Transfer Learning from English PLMs to Malaysian English**|Mohan Raj Chanthran et.al.|[2407.01374v1](http://arxiv.org/abs/2407.01374v1)|null|
 |**2024-07-02**|**Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for Zero-Shot NER**|Andrew Zamai et.al.|[2407.01272v2](http://arxiv.org/abs/2407.01272v2)|null|
 |**2024-06-30**|**Large Language Models Struggle in Token-Level Clinical Named Entity Recognition**|Qiuhao Lu et.al.|[2407.00731v1](http://arxiv.org/abs/2407.00731v1)|null|
@@ -4731,9 +4731,9 @@ layout: default
 |**2024-07-02**|**Efficient Nearest Neighbor based Uncertainty Estimation for Natural Language Processing Tasks**|Wataru Hashimoto et.al.|[2407.02138v1](http://arxiv.org/abs/2407.02138v1)|null|
 |**2024-07-01**|**NLPGuard: A Framework for Mitigating the Use of Protected Attributes by NLP Classifiers**|Salvatore Greco et.al.|[2407.01697v1](http://arxiv.org/abs/2407.01697v1)|null|
 |**2024-06-26**|**Clustering in pure-attention hardmax transformers and its role in sentiment analysis**|Albert Alcalde et.al.|[2407.01602v1](http://arxiv.org/abs/2407.01602v1)|**[link](https://github.com/dcn-fau-avh/clustering-hardmax-transformers)**|
-|**2024-07-01**|**Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters**|Daniil Gurgurov et.al.|[2407.01406v1](http://arxiv.org/abs/2407.01406v1)|null|
+|**2024-07-01**|**Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters**|Daniil Gurgurov et.al.|[2407.01406v1](http://arxiv.org/abs/2407.01406v1)|**[link](https://github.com/d-gurgurov/Injecting-Commonsense-Knowledge-into-LLMs)**|
 |**2024-07-01**|**DeepiSign-G: Generic Watermark to Stamp Hidden DNN Parameters for Self-contained Tracking**|Alsharif Abuadbba et.al.|[2407.01260v1](http://arxiv.org/abs/2407.01260v1)|null|
-|**2024-06-29**|**Korean Aspect-Based Sentiment Analysis via Implicit-Feature Alignment with Corpus Filtering**|Kibeom Nam et.al.|[2407.00342v1](http://arxiv.org/abs/2407.00342v1)|null|
+|**2024-06-29**|**Korean Aspect-Based Sentiment Analysis via Implicit-Feature Alignment with Corpus Filtering**|Kibeom Nam et.al.|[2407.00342v1](http://arxiv.org/abs/2407.00342v1)|**[link](https://github.com/namkibeom/KPC-cF)**|
 |**2024-06-29**|**Iterative Data Augmentation with Large Language Models for Aspect-based Sentiment Analysis**|Haiyun Li et.al.|[2407.00341v1](http://arxiv.org/abs/2407.00341v1)|null|
 |**2024-06-27**|**The Model Arena for Cross-lingual Sentiment Analysis: A Comparative Study in the Era of Large Language Models**|Xiliang Zhu et.al.|[2406.19358v1](http://arxiv.org/abs/2406.19358v1)|null|
 |**2024-06-26**|**QBI: Quantile-based Bias Initialization for Efficient Private Data Reconstruction in Federated Learning**|Micha V. Nowak et.al.|[2406.18745v1](http://arxiv.org/abs/2406.18745v1)|**[link](https://github.com/mvnowak/qbi)**|
@@ -7638,7 +7638,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|null|
+|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|**[link](https://github.com/wayfear/brainnetworktransformer)**|
 |**2024-07-03**|**Fair Resource Allocation for Probabilistic Semantic Communication in IIoT**|Siyun Liang et.al.|[2407.02922v1](http://arxiv.org/abs/2407.02922v1)|null|
 |**2024-07-03**|**Efficient Fusion and Task Guided Embedding for End-to-end Autonomous Driving**|Yipin Guo et.al.|[2407.02878v1](http://arxiv.org/abs/2407.02878v1)|null|
 |**2024-07-03**|**SA-WavLM: Speaker-Aware Self-Supervised Pre-training for Mixture Speech**|Jingru Lin et.al.|[2407.02826v1](http://arxiv.org/abs/2407.02826v1)|null|
@@ -7646,7 +7646,7 @@ layout: default
 |**2024-07-02**|**A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding**|Jinghui Lu et.al.|[2407.01976v1](http://arxiv.org/abs/2407.01976v1)|null|
 |**2024-06-28**|**Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion**|Quanmin Liang et.al.|[2406.19640v1](http://arxiv.org/abs/2406.19640v1)|**[link](https://github.com/lqm26/rmfnet)**|
 |**2024-06-27**|**Think Step by Step: Chain-of-Gesture Prompting for Error Detection in Robotic Surgical Videos**|Zhimin Shao et.al.|[2406.19217v1](http://arxiv.org/abs/2406.19217v1)|null|
-|**2024-06-27**|**Statements: Universal Information Extraction from Tables with Large Language Models for ESG KPIs**|Lokesh Mishra et.al.|[2406.19102v1](http://arxiv.org/abs/2406.19102v1)|null|
+|**2024-06-27**|**Statements: Universal Information Extraction from Tables with Large Language Models for ESG KPIs**|Lokesh Mishra et.al.|[2406.19102v1](http://arxiv.org/abs/2406.19102v1)|**[link](https://github.com/ds4sd/semtabnet)**|
 |**2024-06-26**|**Research on Information Extraction of LCSTS Dataset Based on an Improved BERTSum-LSTM Model**|Yiming Chen et.al.|[2406.18364v1](http://arxiv.org/abs/2406.18364v1)|null|
 |**2024-06-26**|**Multi-modal Evidential Fusion Network for Trusted PET/CT Tumor Segmentation**|Yuxuan Qi et.al.|[2406.18327v1](http://arxiv.org/abs/2406.18327v1)|null|
 |**2024-06-27**|**Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems**|Italo Luis da Silva et.al.|[2406.18245v2](http://arxiv.org/abs/2406.18245v2)|**[link](https://github.com/oyarsa/event_extraction)**|
@@ -10197,7 +10197,7 @@ layout: default
 |**2024-07-02**|**Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**|Devam Mondal et.al.|[2407.02659v1](http://arxiv.org/abs/2407.02659v1)|null|
 |**2024-07-02**|**ML-extendable framework for multiphysics-multiscale simulation workflow and data management using Kadi4Mat**|Somnath Bharech et.al.|[2407.02162v1](http://arxiv.org/abs/2407.02162v1)|null|
 |**2024-07-02**|**Automated Knowledge Graph Learning in Industrial Processes**|Lolitta Ammann et.al.|[2407.02106v1](http://arxiv.org/abs/2407.02106v1)|null|
-|**2024-07-02**|**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**|Ananjan Nandi et.al.|[2407.01994v1](http://arxiv.org/abs/2407.01994v1)|null|
+|**2024-07-02**|**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**|Ananjan Nandi et.al.|[2407.01994v1](http://arxiv.org/abs/2407.01994v1)|**[link](https://github.com/dair-iitd/NS-KGC-AUG)**|
 |**2024-07-01**|**Dynamic Few-Shot Learning for Knowledge Graph Question Answering**|Jacopo D'Abramo et.al.|[2407.01409v1](http://arxiv.org/abs/2407.01409v1)|null|
 |**2024-07-01**|**Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters**|Daniil Gurgurov et.al.|[2407.01406v1](http://arxiv.org/abs/2407.01406v1)|null|
 |**2024-06-30**|**Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs**|Yifei Zhang et.al.|[2407.00653v1](http://arxiv.org/abs/2407.00653v1)|null|
@@ -11554,13 +11554,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|null|
+|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|**[link](https://github.com/wayfear/brainnetworktransformer)**|
 |**2024-07-03**|**Foundations and Frontiers of Graph Learning Theory**|Yu Huang et.al.|[2407.03125v1](http://arxiv.org/abs/2407.03125v1)|null|
 |**2024-07-03**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph Neural Network**|Yushan Zhu et.al.|[2407.02762v1](http://arxiv.org/abs/2407.02762v1)|null|
 |**2024-07-02**|**Holistically-Nested Structure-Aware Graph Neural Network for Road Extraction**|Tinghuai Wang et.al.|[2407.02639v1](http://arxiv.org/abs/2407.02639v1)|null|
 |**2024-07-02**|**On the Robustness of Graph Reduction Against GNN Backdoor**|Yuxuan Zhu et.al.|[2407.02431v1](http://arxiv.org/abs/2407.02431v1)|null|
 |**2024-07-02**|**Structure-Aware Consensus Network on Graphs with Few Labeled Nodes**|Shuaike Xu et.al.|[2407.02188v1](http://arxiv.org/abs/2407.02188v1)|null|
-|**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143v1](http://arxiv.org/abs/2407.02143v1)|null|
+|**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143v1](http://arxiv.org/abs/2407.02143v1)|**[link](https://github.com/ChunjingXiao/CAGAD)**|
 |**2024-07-02**|**CGAP: Urban Region Representation Learning with Coarsened Graph Attention Pooling**|Zhuo Xu et.al.|[2407.02074v1](http://arxiv.org/abs/2407.02074v1)|null|
 |**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057v1](http://arxiv.org/abs/2407.02057v1)|**[link](https://github.com/yali-f/hc-glad)**|
 |**2024-07-02**|**DiGRAF: Diffeomorphic Graph-Adaptive Activation Function**|Krishna Sri Ipsit Mantri et.al.|[2407.02013v1](http://arxiv.org/abs/2407.02013v1)|null|
