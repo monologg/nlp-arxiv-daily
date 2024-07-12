@@ -21,6 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Unveiling Disparities in Maternity Care: A Topic Modelling Approach to Analysing Maternity Incident Investigation Reports**|Georgina Cosma et.al.|[2407.08328v1](http://arxiv.org/abs/2407.08328v1)|null|
+|**2024-07-11**|**Intelligent Multi-Document Summarisation for Extracting Insights on Racial Inequalities from Maternity Incident Investigation Reports**|Georgina Cosma et.al.|[2407.08322v1](http://arxiv.org/abs/2407.08322v1)|null|
+|**2024-07-11**|**fairBERTs: Erasing Sensitive Information Through Semantic and Fairness-aware Perturbations**|Jinfeng Li et.al.|[2407.08189v1](http://arxiv.org/abs/2407.08189v1)|null|
+|**2024-07-11**|**CommSense: A Wearable Sensing Computational Framework for Evaluating Patient-Clinician Interactions**|Zhiyuan Wang et.al.|[2407.08143v1](http://arxiv.org/abs/2407.08143v1)|null|
 |**2024-07-10**|**Transformer Alignment in Large Language Models**|Murdock Aubry et.al.|[2407.07810v1](http://arxiv.org/abs/2407.07810v1)|null|
 |**2024-07-10**|**ROSA: Random Subspace Adaptation for Efficient Fine-Tuning**|Marawan Gamal Abdel Hameed et.al.|[2407.07802v1](http://arxiv.org/abs/2407.07802v1)|**[link](https://github.com/rosa-paper/rosa)**|
 |**2024-07-10**|**Bucket Pre-training is All You Need**|Hongtao Liu et.al.|[2407.07495v1](http://arxiv.org/abs/2407.07495v1)|null|
@@ -3066,6 +3070,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**FsPONER: Few-shot Prompt Optimization for Named Entity Recognition in Domain-specific Scenarios**|Yongjian Tang et.al.|[2407.08035v1](http://arxiv.org/abs/2407.08035v1)|null|
 |**2024-07-05**|**Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework**|Reza Averly et.al.|[2407.04629v1](http://arxiv.org/abs/2407.04629v1)|null|
 |**2024-07-05**|**TokenVerse: Unifying Speech and NLP Tasks via Transducer-based ASR**|Shashi Kumar et.al.|[2407.04444v1](http://arxiv.org/abs/2407.04444v1)|null|
 |**2024-07-02**|**Efficient Nearest Neighbor based Uncertainty Estimation for Natural Language Processing Tasks**|Wataru Hashimoto et.al.|[2407.02138v1](http://arxiv.org/abs/2407.02138v1)|null|
@@ -3656,6 +3661,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Beyond Text: Leveraging Multi-Task Learning and Cognitive Appraisal Theory for Post-Purchase Intention Analysis**|Gerard Christopher Yeo et.al.|[2407.08182v1](http://arxiv.org/abs/2407.08182v1)|null|
 |**2024-07-09**|**AI-based Automatic Segmentation of Prostate on Multi-modality Images: A Review**|Rui Jin et.al.|[2407.06612v1](http://arxiv.org/abs/2407.06612v1)|null|
 |**2024-07-09**|**NoisyAG-News: A Benchmark for Addressing Instance-Dependent Noise in Text Classification**|Hongfei Huang et.al.|[2407.06579v1](http://arxiv.org/abs/2407.06579v1)|null|
 |**2024-07-04**|**Bias Correction in Machine Learning-based Classification of Rare Events**|Luuk Gubbels et.al.|[2407.06212v1](http://arxiv.org/abs/2407.06212v1)|null|
@@ -4763,6 +4769,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Tamil Language Computing: the Present and the Future**|Kengatharaiyer Sarveswaran et.al.|[2407.08618v1](http://arxiv.org/abs/2407.08618v1)|null|
+|**2024-07-11**|**A Comprehensive Study of Disaster Support Mobile Apps**|Muhamad Syukron et.al.|[2407.08145v1](http://arxiv.org/abs/2407.08145v1)|null|
 |**2024-07-10**|**Multi-task Prompt Words Learning for Social Media Content Generation**|Haochen Xue et.al.|[2407.07771v1](http://arxiv.org/abs/2407.07771v1)|null|
 |**2024-07-10**|**The Language of Weather: Social Media Reactions to Weather Accounting for Climatic and Linguistic Baselines**|James C. Young et.al.|[2407.07683v1](http://arxiv.org/abs/2407.07683v1)|null|
 |**2024-07-09**|**Identification of emotions on Twitter during the 2022 electoral process in Colombia**|Juan Jose Iguaran Fernandez et.al.|[2407.07258v1](http://arxiv.org/abs/2407.07258v1)|null|
@@ -5517,6 +5525,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**A Taxonomy for Data Contamination in Large Language Models**|Medha Palavalli et.al.|[2407.08716v1](http://arxiv.org/abs/2407.08716v1)|null|
+|**2024-07-11**|**Extracting Training Data from Document-Based VQA Models**|Francesco Pinto et.al.|[2407.08707v1](http://arxiv.org/abs/2407.08707v1)|null|
+|**2024-07-11**|**Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images**|Lucrezia Tosato et.al.|[2407.08669v1](http://arxiv.org/abs/2407.08669v1)|null|
+|**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662v1](http://arxiv.org/abs/2407.08662v1)|null|
+|**2024-07-11**|**AutoBencher: Creating Salient, Novel, Difficult Datasets for Language Models**|Xiang Lisa Li et.al.|[2407.08351v1](http://arxiv.org/abs/2407.08351v1)|null|
 |**2024-07-10**|**IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model**|Yatai Ji et.al.|[2407.07577v1](http://arxiv.org/abs/2407.07577v1)|**[link](https://github.com/jiyt17/ida-vlm)**|
 |**2024-07-10**|**Automatic Extraction of Disease Risk Factors from Medical Publications**|Maxim Rubchinsky et.al.|[2407.07373v1](http://arxiv.org/abs/2407.07373v1)|null|
 |**2024-07-10**|**RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension**|Hung Phan et.al.|[2407.07321v1](http://arxiv.org/abs/2407.07321v1)|null|
@@ -7720,6 +7733,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2407.08130v1](http://arxiv.org/abs/2407.08130v1)|null|
+|**2024-07-10**|**Fusion of Short-term and Long-term Attention for Video Mirror Detection**|Mingchen Xu et.al.|[2407.07999v1](http://arxiv.org/abs/2407.07999v1)|null|
 |**2024-07-09**|**Integrating Ontology Design with the CRISP-DM in the context of Cyber-Physical Systems Maintenance**|Milapji Singh Gill et.al.|[2407.06930v1](http://arxiv.org/abs/2407.06930v1)|null|
 |**2024-07-09**|**VRDSynth: Synthesizing Programs for Multilingual Visually Rich Document Information Extraction**|Thanh-Dat Nguyen et.al.|[2407.06826v1](http://arxiv.org/abs/2407.06826v1)|null|
 |**2024-07-08**|**Personality Analysis for Social Media Users using Arabic language and its Effect on Sentiment Analysis**|Mokhaiber Dandash et.al.|[2407.06314v1](http://arxiv.org/abs/2407.06314v1)|null|
@@ -8579,6 +8594,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**FAR-Trans: An Investment Dataset for Financial Asset Recommendation**|Javier Sanz-Cruzado et.al.|[2407.08692v1](http://arxiv.org/abs/2407.08692v1)|null|
 |**2024-07-10**|**MLRS-PDS: A Meta-learning recommendation of dynamic ensemble selection pipelines**|Hesam Jalalian et.al.|[2407.07528v1](http://arxiv.org/abs/2407.07528v1)|**[link](https://github.com/menelau/mlrs-pds)**|
 |**2024-07-10**|**Review-LLM: Harnessing Large Language Models for Personalized Review Generation**|Qiyao Peng et.al.|[2407.07487v1](http://arxiv.org/abs/2407.07487v1)|null|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910v1](http://arxiv.org/abs/2407.06910v1)|null|
@@ -10290,6 +10306,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v1](http://arxiv.org/abs/2407.08516v1)|null|
 |**2024-07-10**|**Explaining Graph Neural Networks for Node Similarity on Graphs**|Daniel Daza et.al.|[2407.07639v1](http://arxiv.org/abs/2407.07639v1)|null|
 |**2024-07-09**|**Simple and Interpretable Probabilistic Classifiers for Knowledge Graphs**|Christian Riefolo et.al.|[2407.07045v1](http://arxiv.org/abs/2407.07045v1)|null|
 |**2024-07-09**|**Microsoft Cloud-based Digitization Workflow with Rich Metadata Acquisition for Cultural Heritage Objects**|Krzysztof Kutt et.al.|[2407.06972v1](http://arxiv.org/abs/2407.06972v1)|null|
@@ -11672,11 +11689,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Robust Generalization of Graph Neural Networks for Carrier Scheduling**|Daniel F. Perez-Ramirez et.al.|[2407.08479v1](http://arxiv.org/abs/2407.08479v1)|null|
+|**2024-07-11**|**Improving Molecular Modeling with Geometric GNNs: an Empirical Study**|Ali Ramlaoui et.al.|[2407.08313v1](http://arxiv.org/abs/2407.08313v1)|null|
+|**2024-07-11**|**HRRPGraphNet: A Graph Neural Network Based Approach for HRRP Radar Target Recognition**|Lingfeng Chen et.al.|[2407.08236v1](http://arxiv.org/abs/2407.08236v1)|null|
+|**2024-07-10**|**TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks**|Yezi Liu et.al.|[2407.08064v1](http://arxiv.org/abs/2407.08064v1)|null|
 |**2024-07-10**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation**|Kaifeng Zhang et.al.|[2407.07889v1](http://arxiv.org/abs/2407.07889v1)|null|
 |**2024-07-10**|**Prediction of Frequency-Dependent Optical Spectrum for Solid Materials: A Multi-Output & Multi-Fidelity Machine Learning Approach**|Akram Ibrahim et.al.|[2407.07736v1](http://arxiv.org/abs/2407.07736v1)|null|
 |**2024-07-10**|**Deep-Graph-Sprints: Accelerated Representation Learning in Continuous-Time Dynamic Graphs**|Ahmad Naser Eddin et.al.|[2407.07712v1](http://arxiv.org/abs/2407.07712v1)|null|
 |**2024-07-10**|**Explaining Graph Neural Networks for Node Similarity on Graphs**|Daniel Daza et.al.|[2407.07639v1](http://arxiv.org/abs/2407.07639v1)|null|
-|**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v1](http://arxiv.org/abs/2407.07457v1)|**[link](https://github.com/nineabyss/glbench)**|
+|**2024-07-11**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v2](http://arxiv.org/abs/2407.07457v2)|**[link](https://github.com/nineabyss/glbench)**|
 |**2024-07-09**|**Graph Reinforcement Learning for Exploring BSM Model Spaces**|George N. Wojcik et.al.|[2407.07203v1](http://arxiv.org/abs/2407.07203v1)|null|
 |**2024-07-09**|**Modularity aided consistent attributed graph clustering via coarsening**|Samarth Bhatia et.al.|[2407.07128v1](http://arxiv.org/abs/2407.07128v1)|null|
 |**2024-07-09**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038v1](http://arxiv.org/abs/2407.07038v1)|null|
