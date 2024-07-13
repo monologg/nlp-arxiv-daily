@@ -5529,12 +5529,12 @@
 |**2024-07-11**|**Extracting Training Data from Document-Based VQA Models**|Francesco Pinto et.al.|[2407.08707v1](http://arxiv.org/abs/2407.08707v1)|null|
 |**2024-07-11**|**Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images**|Lucrezia Tosato et.al.|[2407.08669v1](http://arxiv.org/abs/2407.08669v1)|null|
 |**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662v1](http://arxiv.org/abs/2407.08662v1)|null|
-|**2024-07-11**|**AutoBencher: Creating Salient, Novel, Difficult Datasets for Language Models**|Xiang Lisa Li et.al.|[2407.08351v1](http://arxiv.org/abs/2407.08351v1)|null|
+|**2024-07-11**|**AutoBencher: Creating Salient, Novel, Difficult Datasets for Language Models**|Xiang Lisa Li et.al.|[2407.08351v1](http://arxiv.org/abs/2407.08351v1)|**[link](https://github.com/XiangLi1999/AutoBencher)**|
 |**2024-07-10**|**IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model**|Yatai Ji et.al.|[2407.07577v1](http://arxiv.org/abs/2407.07577v1)|**[link](https://github.com/jiyt17/ida-vlm)**|
-|**2024-07-10**|**Automatic Extraction of Disease Risk Factors from Medical Publications**|Maxim Rubchinsky et.al.|[2407.07373v1](http://arxiv.org/abs/2407.07373v1)|null|
+|**2024-07-10**|**Automatic Extraction of Disease Risk Factors from Medical Publications**|Maxim Rubchinsky et.al.|[2407.07373v1](http://arxiv.org/abs/2407.07373v1)|**[link](https://github.com/maximrub/diseases-risk-factors)**|
 |**2024-07-10**|**RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension**|Hung Phan et.al.|[2407.07321v1](http://arxiv.org/abs/2407.07321v1)|null|
 |**2024-07-09**|**Adapting LLMs to Hebrew: Unveiling DictaLM 2.0 with Enhanced Vocabulary and Instruction Capabilities**|Shaltiel Shmidman et.al.|[2407.07080v1](http://arxiv.org/abs/2407.07080v1)|null|
-|**2024-07-10**|**PEER: Expertizing Domain-Specific Tasks with a Multi-Agent Framework and Tuning Methods**|Yiying Wang et.al.|[2407.06985v2](http://arxiv.org/abs/2407.06985v2)|null|
+|**2024-07-10**|**PEER: Expertizing Domain-Specific Tasks with a Multi-Agent Framework and Tuning Methods**|Yiying Wang et.al.|[2407.06985v2](http://arxiv.org/abs/2407.06985v2)|**[link](https://github.com/alipay/agentuniverse)**|
 |**2024-07-09**|**Listen and Speak Fairly: A Study on Semantic Gender Bias in Speech Integrated Large Language Models**|Yi-Cheng Lin et.al.|[2407.06957v1](http://arxiv.org/abs/2407.06957v1)|**[link](https://github.com/dlion168/Listen-and-Speak-Fairly)**|
 |**2024-07-09**|**Performance Evaluation of Knowledge Graph Embedding Approaches under Non-adversarial Attacks**|Sourabh Kapoor et.al.|[2407.06855v1](http://arxiv.org/abs/2407.06855v1)|null|
 |**2024-07-09**|**Using Pretrained Large Language Model with Prompt Engineering to Answer Biomedical Questions**|Wenxin Zhou et.al.|[2407.06779v1](http://arxiv.org/abs/2407.06779v1)|null|
@@ -8600,9 +8600,9 @@
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910v1](http://arxiv.org/abs/2407.06910v1)|null|
 |**2024-07-09**|**Positive-Unlabelled Learning for Improving Image-based Recommender System Explainability**|Álvaro Fernández-Campa-González et.al.|[2407.06740v1](http://arxiv.org/abs/2407.06740v1)|null|
 |**2024-07-07**|**Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation**|Xinglong Wu et.al.|[2407.05420v1](http://arxiv.org/abs/2407.05420v1)|**[link](https://github.com/WuXinglong-HIT/CLIPER)**|
-|**2024-07-07**|**Ensemble Boost: Greedy Selection for Superior Recommender Systems**|Zainil Mehta et.al.|[2407.05221v1](http://arxiv.org/abs/2407.05221v1)|**[link](https://github.com/ZainilMehta/Ensembling_of_RecSys)**|
+|**2024-07-07**|**Ensemble Boost: Greedy Selection for Superior Recommender Systems**|Zainil Mehta et.al.|[2407.05221v1](http://arxiv.org/abs/2407.05221v1)|null|
 |**2024-07-06**|**Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations**|Linxin Guo et.al.|[2407.05126v1](http://arxiv.org/abs/2407.05126v1)|**[link](https://github.com/foodfaust/CDR)**|
-|**2024-07-06**|**Preference Distillation for Personalized Generative Recommendation**|Jerome Ramos et.al.|[2407.05033v1](http://arxiv.org/abs/2407.05033v1)|**[link](https://github.com/jeromeramos70/peapod)**|
+|**2024-07-06**|**Preference Distillation for Personalized Generative Recommendation**|Jerome Ramos et.al.|[2407.05033v1](http://arxiv.org/abs/2407.05033v1)|null|
 |**2024-07-06**|**MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems with Large Language Models**|Yunjia Xi et.al.|[2407.04960v1](http://arxiv.org/abs/2407.04960v1)|**[link](https://github.com/mindspore-lab/models)**|
 |**2024-07-06**|**RAMO: Retrieval-Augmented Generation for Enhancing MOOCs Recommendations**|Jiarui Rao et.al.|[2407.04925v1](http://arxiv.org/abs/2407.04925v1)|null|
 |**2024-07-09**|**EventChat: Implementation and user-centric evaluation of a large language model-driven conversational recommender system for exploring leisure events in an SME context**|Hannes Kunstmann et.al.|[2407.04472v3](http://arxiv.org/abs/2407.04472v3)|null|
@@ -10308,7 +10308,7 @@
 |---|---|---|---|---|
 |**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516v1](http://arxiv.org/abs/2407.08516v1)|null|
 |**2024-07-10**|**Explaining Graph Neural Networks for Node Similarity on Graphs**|Daniel Daza et.al.|[2407.07639v1](http://arxiv.org/abs/2407.07639v1)|null|
-|**2024-07-09**|**Simple and Interpretable Probabilistic Classifiers for Knowledge Graphs**|Christian Riefolo et.al.|[2407.07045v1](http://arxiv.org/abs/2407.07045v1)|null|
+|**2024-07-09**|**Simple and Interpretable Probabilistic Classifiers for Knowledge Graphs**|Christian Riefolo et.al.|[2407.07045v1](http://arxiv.org/abs/2407.07045v1)|**[link](https://github.com/thescreamingmonkey/mbm-em)**|
 |**2024-07-09**|**Microsoft Cloud-based Digitization Workflow with Rich Metadata Acquisition for Cultural Heritage Objects**|Krzysztof Kutt et.al.|[2407.06972v1](http://arxiv.org/abs/2407.06972v1)|null|
 |**2024-07-09**|**Performance Evaluation of Knowledge Graph Embedding Approaches under Non-adversarial Attacks**|Sourabh Kapoor et.al.|[2407.06855v1](http://arxiv.org/abs/2407.06855v1)|null|
 |**2024-07-09**|**Combining Knowledge Graphs and Large Language Models**|Amanda Kau et.al.|[2407.06564v1](http://arxiv.org/abs/2407.06564v1)|null|
@@ -11692,7 +11692,7 @@
 |**2024-07-11**|**Robust Generalization of Graph Neural Networks for Carrier Scheduling**|Daniel F. Perez-Ramirez et.al.|[2407.08479v1](http://arxiv.org/abs/2407.08479v1)|null|
 |**2024-07-11**|**Improving Molecular Modeling with Geometric GNNs: an Empirical Study**|Ali Ramlaoui et.al.|[2407.08313v1](http://arxiv.org/abs/2407.08313v1)|null|
 |**2024-07-11**|**HRRPGraphNet: A Graph Neural Network Based Approach for HRRP Radar Target Recognition**|Lingfeng Chen et.al.|[2407.08236v1](http://arxiv.org/abs/2407.08236v1)|null|
-|**2024-07-10**|**TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks**|Yezi Liu et.al.|[2407.08064v1](http://arxiv.org/abs/2407.08064v1)|null|
+|**2024-07-10**|**TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks**|Yezi Liu et.al.|[2407.08064v1](http://arxiv.org/abs/2407.08064v1)|**[link](https://github.com/brandones/graphpca)**|
 |**2024-07-10**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation**|Kaifeng Zhang et.al.|[2407.07889v1](http://arxiv.org/abs/2407.07889v1)|null|
 |**2024-07-10**|**Prediction of Frequency-Dependent Optical Spectrum for Solid Materials: A Multi-Output & Multi-Fidelity Machine Learning Approach**|Akram Ibrahim et.al.|[2407.07736v1](http://arxiv.org/abs/2407.07736v1)|null|
 |**2024-07-10**|**Deep-Graph-Sprints: Accelerated Representation Learning in Continuous-Time Dynamic Graphs**|Ahmad Naser Eddin et.al.|[2407.07712v1](http://arxiv.org/abs/2407.07712v1)|null|
