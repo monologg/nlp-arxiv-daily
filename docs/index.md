@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba**|Ling Yue et.al.|[2408.02600v1](http://arxiv.org/abs/2408.02600v1)|null|
+|**2024-08-05**|**Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization**|Ankan Mullick et.al.|[2408.02584v1](http://arxiv.org/abs/2408.02584v1)|null|
+|**2024-08-05**|**Long Input Benchmark for Russian Analysis**|Igor Churin et.al.|[2408.02439v1](http://arxiv.org/abs/2408.02439v1)|null|
+|**2024-08-05**|**Developing PUGG for Polish: A Modern Approach to KBQA, MRC, and IR Dataset Construction**|Albert Sawczyn et.al.|[2408.02337v1](http://arxiv.org/abs/2408.02337v1)|null|
+|**2024-08-05**|**A Lean Transformer Model for Dynamic Malware Analysis and Detection**|Tony Quertier et.al.|[2408.02313v1](http://arxiv.org/abs/2408.02313v1)|null|
+|**2024-08-05**|**PTM4Tag+: Tag Recommendation of Stack Overflow Posts with Pre-trained Models**|Junda He et.al.|[2408.02311v1](http://arxiv.org/abs/2408.02311v1)|null|
+|**2024-08-05**|**SNFinLLM: Systematic and Nuanced Financial Domain Adaptation of Chinese Large Language Models**|Shujuan Zhao et.al.|[2408.02302v1](http://arxiv.org/abs/2408.02302v1)|null|
+|**2024-08-05**|**AMIDER: A Multidisciplinary Research Database and Its Application to Promote Open Science**|Masayoshi Kozai et.al.|[2408.02246v1](http://arxiv.org/abs/2408.02246v1)|null|
+|**2024-08-05**|**Do Large Language Models Speak All Languages Equally? A Comparative Study in Low-Resource Settings**|Md. Arid Hasan et.al.|[2408.02237v1](http://arxiv.org/abs/2408.02237v1)|null|
+|**2024-08-04**|**Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models**|Yulei Qin et.al.|[2408.02085v1](http://arxiv.org/abs/2408.02085v1)|null|
 |**2024-08-02**|**Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting**|Xiangyu Zhao et.al.|[2408.01423v1](http://arxiv.org/abs/2408.01423v1)|null|
 |**2024-08-02**|**Conditional LoRA Parameter Generation**|Xiaolong Jin et.al.|[2408.01415v1](http://arxiv.org/abs/2408.01415v1)|null|
 |**2024-08-02**|**Reconsidering Token Embeddings with the Definitions for Pre-trained Language Models**|Ying Zhang et.al.|[2408.01308v1](http://arxiv.org/abs/2408.01308v1)|null|
@@ -3813,6 +3823,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Do Large Language Models Speak All Languages Equally? A Comparative Study in Low-Resource Settings**|Md. Arid Hasan et.al.|[2408.02237v1](http://arxiv.org/abs/2408.02237v1)|null|
+|**2024-08-04**|**Defining and Evaluating Decision and Composite Risk in Language Models Applied to Natural Language Inference**|Ke Shen et.al.|[2408.01935v1](http://arxiv.org/abs/2408.01935v1)|null|
 |**2024-08-01**|**CERT-ED: Certifiably Robust Text Classification for Edit Distance**|Zhuoqun Huang et.al.|[2408.00728v1](http://arxiv.org/abs/2408.00728v1)|null|
 |**2024-08-01**|**Leveraging Entailment Judgements in Cross-Lingual Summarisation**|Huajian Zhang et.al.|[2408.00675v1](http://arxiv.org/abs/2408.00675v1)|null|
 |**2024-08-01**|**Enhancing Semantic Similarity Understanding in Arabic NLP with Nested Embedding Learning**|Omer Nacar et.al.|[2407.21139v2](http://arxiv.org/abs/2407.21139v2)|null|
@@ -4950,6 +4962,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**OneLove beyond the field -- A few-shot pipeline for topic and sentiment analysis during the FIFA World Cup in Qatar**|Christoph Rauchegger et.al.|[2408.02520v1](http://arxiv.org/abs/2408.02520v1)|null|
+|**2024-08-04**|**Fine-tuning multilingual language models in Twitter/X sentiment analysis: a study on Eastern-European V4 languages**|Tomáš Filip et.al.|[2408.02044v1](http://arxiv.org/abs/2408.02044v1)|null|
+|**2024-08-03**|**Efficient Solutions For An Intriguing Failure of LLMs: Long Context Window Does Not Mean LLMs Can Analyze Long Sequences Flawlessly**|Peyman Hosseini et.al.|[2408.01866v1](http://arxiv.org/abs/2408.01866v1)|null|
+|**2024-08-03**|**Tracking Emotional Dynamics in Chat Conversations: A Hybrid Approach using DistilBERT and Emoji Sentiment Analysis**|Ayan Igali et.al.|[2408.01838v1](http://arxiv.org/abs/2408.01838v1)|null|
+|**2024-08-02**|**Analyzing LLMs' Capabilities to Establish Implicit User Sentiment of Software Desirability**|Sherri Weitl-Harms et.al.|[2408.01527v1](http://arxiv.org/abs/2408.01527v1)|null|
 |**2024-08-02**|**Leveraging Large Language Models for Mobile App Review Feature Extraction**|Quim Motger et.al.|[2408.01063v1](http://arxiv.org/abs/2408.01063v1)|null|
 |**2024-08-02**|**Tensor Train Low-rank Approximation (TT-LoRA): Democratizing AI with Accelerated LLMs**|Afia Anjum et.al.|[2408.01008v1](http://arxiv.org/abs/2408.01008v1)|null|
 |**2024-08-02**|**Enhancing Financial Market Predictions: Causality-Driven Feature Selection**|Wenhao Liang et.al.|[2408.01005v1](http://arxiv.org/abs/2408.01005v1)|null|
@@ -5731,6 +5748,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|null|
+|**2024-08-05**|**Developing PUGG for Polish: A Modern Approach to KBQA, MRC, and IR Dataset Construction**|Albert Sawczyn et.al.|[2408.02337v1](http://arxiv.org/abs/2408.02337v1)|null|
+|**2024-08-05**|**PTM4Tag+: Tag Recommendation of Stack Overflow Posts with Pre-trained Models**|Junda He et.al.|[2408.02311v1](http://arxiv.org/abs/2408.02311v1)|null|
+|**2024-08-05**|**REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models**|Agneet Chatterjee et.al.|[2408.02231v1](http://arxiv.org/abs/2408.02231v1)|null|
+|**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v1](http://arxiv.org/abs/2408.01933v1)|null|
+|**2024-08-03**|**MMPKUBase: A Comprehensive and High-quality Chinese Multi-modal Knowledge Graph**|Xuan Yi et.al.|[2408.01679v1](http://arxiv.org/abs/2408.01679v1)|null|
 |**2024-08-02**|**DebateQA: Evaluating Question Answering on Debatable Knowledge**|Rongwu Xu et.al.|[2408.01419v1](http://arxiv.org/abs/2408.01419v1)|null|
 |**2024-08-02**|**RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework**|Kunlun Zhu et.al.|[2408.01262v1](http://arxiv.org/abs/2408.01262v1)|null|
 |**2024-08-02**|**BioRAG: A RAG-LLM Framework for Biological Question Reasoning**|Chengrui Wang et.al.|[2408.01107v1](http://arxiv.org/abs/2408.01107v1)|null|
@@ -8044,6 +8067,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization**|Ankan Mullick et.al.|[2408.02584v1](http://arxiv.org/abs/2408.02584v1)|null|
+|**2024-08-04**|**Single-Point Supervised High-Resolution Dynamic Network for Infrared Small Target Detection**|Jing Wu et.al.|[2408.01976v1](http://arxiv.org/abs/2408.01976v1)|null|
+|**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869v1](http://arxiv.org/abs/2408.01869v1)|null|
+|**2024-08-02**|**Multi-task SAR Image Processing via GAN-based Unsupervised Manipulation**|Xuran Hu et.al.|[2408.01553v1](http://arxiv.org/abs/2408.01553v1)|null|
 |**2024-08-02**|**Deep Learning based Visually Rich Document Content Understanding: A Survey**|Yihao Ding et.al.|[2408.01287v1](http://arxiv.org/abs/2408.01287v1)|null|
 |**2024-08-02**|**Leveraging Large Language Models for Mobile App Review Feature Extraction**|Quim Motger et.al.|[2408.01063v1](http://arxiv.org/abs/2408.01063v1)|null|
 |**2024-08-01**|**Task-oriented and Semantics-aware Communications for Augmented Reality**|Zhe Wang et.al.|[2408.00407v1](http://arxiv.org/abs/2408.00407v1)|null|
@@ -8935,6 +8962,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Enhancing Heterogeneous Knowledge Graph Completion with a Novel GAT-based Approach**|Wanxu Wei et.al.|[2408.02456v1](http://arxiv.org/abs/2408.02456v1)|null|
+|**2024-08-05**|**Feedback Reciprocal Graph Collaborative Filtering**|Weijun Chen et.al.|[2408.02404v1](http://arxiv.org/abs/2408.02404v1)|null|
+|**2024-08-05**|**RECE: Reduced Cross-Entropy Loss for Large-Catalogue Sequential Recommenders**|Danil Gusak et.al.|[2408.02354v1](http://arxiv.org/abs/2408.02354v1)|null|
+|**2024-08-05**|**Embedding Compression in Recommender Systems: A Survey**|Shiwei Li et.al.|[2408.02304v1](http://arxiv.org/abs/2408.02304v1)|null|
+|**2024-08-04**|**Sharpness-Aware Cross-Domain Recommendation to Cold-Start Users**|Guohang Zeng et.al.|[2408.01931v1](http://arxiv.org/abs/2408.01931v1)|null|
+|**2024-08-03**|**MMPKUBase: A Comprehensive and High-quality Chinese Multi-modal Knowledge Graph**|Xuan Yi et.al.|[2408.01679v1](http://arxiv.org/abs/2408.01679v1)|null|
 |**2024-08-02**|**Leveraging Knowledge Graph Embedding for Effective Conversational Recommendation**|Yunwen Xia et.al.|[2408.01342v1](http://arxiv.org/abs/2408.01342v1)|null|
 |**2024-08-01**|**LICM: Effective and Efficient Long Interest Chain Modeling for News Recommendation**|Zhen Yang et.al.|[2408.00859v1](http://arxiv.org/abs/2408.00859v1)|null|
 |**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716v1](http://arxiv.org/abs/2408.00716v1)|null|
@@ -10716,6 +10749,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph**|Zhao Kaichen et.al.|[2408.02535v1](http://arxiv.org/abs/2408.02535v1)|null|
+|**2024-08-05**|**Enhancing Heterogeneous Knowledge Graph Completion with a Novel GAT-based Approach**|Wanxu Wei et.al.|[2408.02456v1](http://arxiv.org/abs/2408.02456v1)|null|
+|**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377v1](http://arxiv.org/abs/2408.02377v1)|null|
+|**2024-08-05**|**Developing PUGG for Polish: A Modern Approach to KBQA, MRC, and IR Dataset Construction**|Albert Sawczyn et.al.|[2408.02337v1](http://arxiv.org/abs/2408.02337v1)|null|
+|**2024-08-04**|**Decide: Knowledge-Based Version Incompatibility Detection in Deep Learning Stacks**|Zihan Zhou et.al.|[2408.02133v1](http://arxiv.org/abs/2408.02133v1)|null|
+|**2024-08-04**|**MedSyn: LLM-based Synthetic Medical Text Generation Framework**|Gleb Kumichev et.al.|[2408.02056v1](http://arxiv.org/abs/2408.02056v1)|null|
+|**2024-08-04**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933v1](http://arxiv.org/abs/2408.01933v1)|null|
+|**2024-08-03**|**Walk Wisely on Graph: Knowledge Graph Reasoning with Dual Agents via Efficient Guidance-Exploration**|Zijian Wang et.al.|[2408.01880v1](http://arxiv.org/abs/2408.01880v1)|null|
+|**2024-08-03**|**Graph Stochastic Neural Process for Inductive Few-shot Knowledge Graph Completion**|Zicheng Zhao et.al.|[2408.01784v1](http://arxiv.org/abs/2408.01784v1)|null|
+|**2024-08-03**|**Integrating Large Language Models and Knowledge Graphs for Extraction and Validation of Textual Test Data**|Antonio De Santis et.al.|[2408.01700v1](http://arxiv.org/abs/2408.01700v1)|null|
 |**2024-08-02**|**Leveraging Knowledge Graph Embedding for Effective Conversational Recommendation**|Yunwen Xia et.al.|[2408.01342v1](http://arxiv.org/abs/2408.01342v1)|null|
 |**2024-08-02**|**DERA: Dense Entity Retrieval for Entity Alignment in Knowledge Graphs**|Zhichun Wang et.al.|[2408.01154v1](http://arxiv.org/abs/2408.01154v1)|null|
 |**2024-08-02**|**Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs**|Phillip Schneider et.al.|[2408.01088v1](http://arxiv.org/abs/2408.01088v1)|null|
@@ -12164,6 +12207,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Understanding Deep Learning via Notions of Rank**|Noam Razin et.al.|[2408.02111v1](http://arxiv.org/abs/2408.02111v1)|null|
+|**2024-08-04**|**Optimal and efficient text counterfactuals using Graph Neural Networks**|Dimitris Lymperopoulos et.al.|[2408.01969v1](http://arxiv.org/abs/2408.01969v1)|null|
+|**2024-08-04**|**Top K Enhanced Reinforcement Learning Attacks on Heterogeneous Graph Node Classification**|Honglin Gao et.al.|[2408.01964v1](http://arxiv.org/abs/2408.01964v1)|null|
+|**2024-08-04**|**Bilateral Trade Flow Prediction by Gravity-informed Graph Auto-encoder**|Naoto Minakawa et.al.|[2408.01938v1](http://arxiv.org/abs/2408.01938v1)|null|
+|**2024-08-04**|**A Comprehensive Survey on GNN Characterization**|Meng Wu et.al.|[2408.01902v1](http://arxiv.org/abs/2408.01902v1)|null|
+|**2024-08-03**|**Invariant Graph Learning Meets Information Bottleneck for Out-of-Distribution Generalization**|Wenyu Mao et.al.|[2408.01697v1](http://arxiv.org/abs/2408.01697v1)|null|
+|**2024-08-02**|**Efficient Graph Coloring with Neural Networks: A Physics-Inspired Approach for Large Graphs**|Lorenzo Colantonio et.al.|[2408.01503v1](http://arxiv.org/abs/2408.01503v1)|null|
 |**2024-08-02**|**Tailoring Graph Neural Network-based Flow-guided Localization to Individual Bloodstreams and Activities**|Pablo Galván et.al.|[2408.01239v1](http://arxiv.org/abs/2408.01239v1)|null|
 |**2024-08-02**|**HeteroMorpheus: Universal Control Based on Morphological Heterogeneity Modeling**|YiFan Hao et.al.|[2408.01230v1](http://arxiv.org/abs/2408.01230v1)|null|
 |**2024-08-02**|**GNN-MolKAN: Harnessing the Power of KAN to Advance Molecular Representation Learning with GNNs**|Ruifeng Li et.al.|[2408.01018v1](http://arxiv.org/abs/2408.01018v1)|null|
