@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**LOLgorithm: Integrating Semantic,Syntactic and Contextual Elements for Humor Classification**|Tanisha Khurana et.al.|[2408.06335v1](http://arxiv.org/abs/2408.06335v1)|null|
+|**2024-08-12**|**Body Transformer: Leveraging Robot Embodiment for Policy Learning**|Carmelo Sferrazza et.al.|[2408.06316v1](http://arxiv.org/abs/2408.06316v1)|null|
+|**2024-08-12**|**Quantum Algorithms for Compositional Text Processing**|Tuomas Laakkonen et.al.|[2408.06061v1](http://arxiv.org/abs/2408.06061v1)|null|
+|**2024-08-12**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040v1](http://arxiv.org/abs/2408.06040v1)|null|
+|**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952v1](http://arxiv.org/abs/2408.05952v1)|null|
+|**2024-08-12**|**Low-Rank Approximation, Adaptation, and Other Tales**|Jun Lu et.al.|[2408.05883v1](http://arxiv.org/abs/2408.05883v1)|null|
+|**2024-08-11**|**Training an NLP Scholar at a Small Liberal Arts College: A Backwards Designed Course Proposal**|Grusha Prasad et.al.|[2408.05664v1](http://arxiv.org/abs/2408.05664v1)|null|
+|**2024-08-10**|**Eigen Attention: Attention in Low-Rank Space for KV Cache Compression**|Utkarsh Saxena et.al.|[2408.05646v1](http://arxiv.org/abs/2408.05646v1)|null|
+|**2024-08-10**|**Document-Level Event Extraction with Definition-Driven ICL**|Zhuoyuan Liu et.al.|[2408.05566v1](http://arxiv.org/abs/2408.05566v1)|null|
+|**2024-08-10**|**P3: A Policy-Driven, Pace-Adaptive, and Diversity-Promoted Framework for Optimizing LLM Training**|Yingxuan Yang et.al.|[2408.05541v1](http://arxiv.org/abs/2408.05541v1)|null|
 |**2024-08-09**|**AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset**|Pritam Deka et.al.|[2408.05149v1](http://arxiv.org/abs/2408.05149v1)|null|
 |**2024-08-09**|**Quantitative Information Extraction from Humanitarian Documents**|Daniele Liberatore et.al.|[2408.04941v1](http://arxiv.org/abs/2408.04941v1)|null|
 |**2024-08-09**|**GlitchProber: Advancing Effective Detection and Mitigation of Glitch Tokens in Large Language Models**|Zhibo Zhang et.al.|[2408.04905v1](http://arxiv.org/abs/2408.04905v1)|null|
@@ -3247,7 +3257,7 @@ layout: default
 |**2024-08-05**|**MaterioMiner -- An ontology-based text mining dataset for extraction of process-structure-property entities**|Ali Riza Durmaz et.al.|[2408.04661v1](http://arxiv.org/abs/2408.04661v1)|null|
 |**2024-08-04**|**Knowledge AI: Fine-tuning NLP Models for Facilitating Scientific Knowledge Extraction and Understanding**|Balaji Muralidharan et.al.|[2408.04651v1](http://arxiv.org/abs/2408.04651v1)|null|
 |**2024-08-07**|**mucAI at WojoodNER 2024: Arabic Named Entity Recognition with Nearest Neighbor Search**|Ahmed Abdou et.al.|[2408.03652v1](http://arxiv.org/abs/2408.03652v1)|null|
-|**2024-08-02**|**UNER: A Unified Prediction Head for Named Entity Recognition in Visually-rich Documents**|Yi Tu et.al.|[2408.01038v1](http://arxiv.org/abs/2408.01038v1)|null|
+|**2024-08-12**|**UNER: A Unified Prediction Head for Named Entity Recognition in Visually-rich Documents**|Yi Tu et.al.|[2408.01038v2](http://arxiv.org/abs/2408.01038v2)|null|
 |**2024-08-08**|**Cross-domain Named Entity Recognition via Graph Matching**|Junhao Zheng et.al.|[2408.00981v2](http://arxiv.org/abs/2408.00981v2)|null|
 |**2024-08-01**|**Pathway to Secure and Trustworthy 6G for LLMs: Attacks, Defense, and Opportunities**|Sunder Ali Khowaja et.al.|[2408.00722v1](http://arxiv.org/abs/2408.00722v1)|null|
 |**2024-07-17**|**Multi-Grained Query-Guided Set Prediction Network for Grounded Multimodal Named Entity Recognition**|Jielong Tang et.al.|[2407.21033v1](http://arxiv.org/abs/2407.21033v1)|null|
@@ -3852,9 +3862,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341v1](http://arxiv.org/abs/2408.06341v1)|null|
+|**2024-08-11**|**HiLight: A Hierarchy-aware Light Global Model with Hierarchical Local ConTrastive Learning**|Zhijian Chen et.al.|[2408.05786v1](http://arxiv.org/abs/2408.05786v1)|null|
+|**2024-08-10**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517v1](http://arxiv.org/abs/2408.05517v1)|**[link](https://github.com/modelscope/swift)**|
+|**2024-08-09**|**Topological structure of projective Hilbert spaces associated with phase retrieval vectors**|Fahimeh Arabyani Neyshaburi et.al.|[2408.05317v1](http://arxiv.org/abs/2408.05317v1)|null|
 |**2024-08-09**|**In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation**|Dahyun Kang et.al.|[2408.04961v1](http://arxiv.org/abs/2408.04961v1)|**[link](https://github.com/dahyun-kang/lazygrounding)**|
 |**2024-08-08**|**SCENE: Evaluating Explainable AI Techniques Using Soft Counterfactuals**|Haoran Zheng et.al.|[2408.04575v1](http://arxiv.org/abs/2408.04575v1)|null|
-|**2024-08-07**|**Zero-shot Factual Consistency Evaluation Across Domains**|Raunak Agarwal et.al.|[2408.04114v1](http://arxiv.org/abs/2408.04114v1)|null|
+|**2024-08-07**|**Zero-shot Factual Consistency Evaluation Across Domains**|Raunak Agarwal et.al.|[2408.04114v1](http://arxiv.org/abs/2408.04114v1)|**[link](https://github.com/raunak-agarwal/factual-consistency-eval)**|
 |**2024-08-07**|**Leveraging Variation Theory in Counterfactual Data Augmentation for Optimized Active Learning**|Simret Araya Gebreegziabher et.al.|[2408.03819v1](http://arxiv.org/abs/2408.03819v1)|null|
 |**2024-08-06**|**A Debiased Nearest Neighbors Framework for Multi-Label Text Classification**|Zifeng Cheng et.al.|[2408.03202v1](http://arxiv.org/abs/2408.03202v1)|null|
 |**2024-08-06**|**Leveraging Parameter Efficient Training Methods for Low Resource Text Classification: A Case Study in Marathi**|Pranita Deshmukh et.al.|[2408.03172v1](http://arxiv.org/abs/2408.03172v1)|null|
@@ -5003,7 +5017,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-09**|**An Evaluation of Standard Statistical Models and LLMs on Time Series Forecasting**|Rui Cao et.al.|[2408.04867v1](http://arxiv.org/abs/2408.04867v1)|null|
+|**2024-08-10**|**WiDe-analysis: Enabling One-click Content Moderation Analysis on Wikipedia's Articles for Deletion**|Hsuvas Borkakoty et.al.|[2408.05655v1](http://arxiv.org/abs/2408.05655v1)|null|
+|**2024-08-09**|**An Evaluation of Standard Statistical Models and LLMs on Time Series Forecasting**|Rui Cao et.al.|[2408.04867v1](http://arxiv.org/abs/2408.04867v1)|**[link](https://github.com/crseu/llmtime_vs_arima)**|
 |**2024-08-08**|**Recognizing Emotion Regulation Strategies from Human Behavior with Large Language Models**|Philipp Müller et.al.|[2408.04420v1](http://arxiv.org/abs/2408.04420v1)|null|
 |**2024-08-08**|**Enhanced Semantic Graph Based Approach With Sentiment Analysis For User Interest Retrieval From Social Sites**|Usama Ahmed Jamal et.al.|[2408.04395v1](http://arxiv.org/abs/2408.04395v1)|null|
 |**2024-08-08**|**Analyzing Consumer Reviews for Understanding Drivers of Hotels Ratings: An Indian Perspective**|Subhasis Dasgupta et.al.|[2408.04369v1](http://arxiv.org/abs/2408.04369v1)|null|
@@ -5795,6 +5810,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection**|Yufei Huang et.al.|[2408.06333v1](http://arxiv.org/abs/2408.06333v1)|**[link](https://github.com/thunlp/fastfid)**|
+|**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303v1](http://arxiv.org/abs/2408.06303v1)|null|
+|**2024-08-12**|**A RAG-Based Question-Answering Solution for Cyber-Attack Investigation and Attribution**|Sampath Rajapaksha et.al.|[2408.06272v1](http://arxiv.org/abs/2408.06272v1)|null|
+|**2024-08-12**|**Quantum Algorithms for Compositional Text Processing**|Tuomas Laakkonen et.al.|[2408.06061v1](http://arxiv.org/abs/2408.06061v1)|null|
+|**2024-08-12**|**Adapting a Foundation Model for Space-based Tasks**|Matthew Foutter et.al.|[2408.05924v1](http://arxiv.org/abs/2408.05924v1)|null|
+|**2024-08-12**|**Creating Arabic LLM Prompts at Scale**|Abdelrahman El-Sheikh et.al.|[2408.05882v1](http://arxiv.org/abs/2408.05882v1)|null|
+|**2024-08-11**|**Reference-free Hallucination Detection for Large Vision-Language Models**|Qing Li et.al.|[2408.05767v1](http://arxiv.org/abs/2408.05767v1)|null|
+|**2024-08-10**|**Context-Driven Index Trimming: A Data Quality Perspective to Enhancing Precision of RALMs**|Kexin Ma et.al.|[2408.05524v1](http://arxiv.org/abs/2408.05524v1)|null|
+|**2024-08-10**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517v1](http://arxiv.org/abs/2408.05517v1)|**[link](https://github.com/modelscope/swift)**|
+|**2024-08-10**|**Chain of Condition: Construct, Verify and Solve Conditions for Conditional Question Answering**|Jiuheng Lin et.al.|[2408.05442v1](http://arxiv.org/abs/2408.05442v1)|null|
 |**2024-08-09**|**Sportify: Question Answering with Embedded Visualizations and Personified Narratives for Sports Video**|Chunggi Lee et.al.|[2408.05123v1](http://arxiv.org/abs/2408.05123v1)|null|
 |**2024-08-09**|**Surgical-VQLA++: Adversarial Contrastive Learning for Calibrated Robust Visual Question-Localized Answering in Robotic Surgery**|Long Bai et.al.|[2408.04958v1](http://arxiv.org/abs/2408.04958v1)|**[link](https://github.com/longbai1006/surgical-vqlaplus)**|
 |**2024-08-09**|**HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**|Bhaskarjit Sarmah et.al.|[2408.04948v1](http://arxiv.org/abs/2408.04948v1)|null|
@@ -8134,6 +8159,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Document-Level Event Extraction with Definition-Driven ICL**|Zhuoyuan Liu et.al.|[2408.05566v1](http://arxiv.org/abs/2408.05566v1)|null|
+|**2024-08-10**|**Multi-layer Sequence Labeling-based Joint Biomedical Event Extraction**|Gongchi Chen et.al.|[2408.05545v1](http://arxiv.org/abs/2408.05545v1)|null|
+|**2024-08-09**|**SHIELD: LLM-Driven Schema Induction for Predictive Analytics in EV Battery Supply Chain Disruptions**|Zhi-Qi Cheng et.al.|[2408.05357v1](http://arxiv.org/abs/2408.05357v1)|null|
 |**2024-08-09**|**Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images**|Shouyue Liu et.al.|[2408.05117v1](http://arxiv.org/abs/2408.05117v1)|null|
 |**2024-08-09**|**HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**|Bhaskarjit Sarmah et.al.|[2408.04948v1](http://arxiv.org/abs/2408.04948v1)|null|
 |**2024-08-09**|**Quantitative Information Extraction from Humanitarian Documents**|Daniele Liberatore et.al.|[2408.04941v1](http://arxiv.org/abs/2408.04941v1)|null|
@@ -9040,6 +9068,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341v1](http://arxiv.org/abs/2408.06341v1)|null|
+|**2024-08-12**|**Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**|Jieyong Kim et.al.|[2408.06276v1](http://arxiv.org/abs/2408.06276v1)|null|
+|**2024-08-12**|**Investigating Characteristics of Media Recommendation Solicitation in r/ifyoulikeblank**|Md Momen Bhuiyan et.al.|[2408.06201v1](http://arxiv.org/abs/2408.06201v1)|null|
+|**2024-08-12**|**Scalable recommender system based on factor analysis**|Disha Ghandwani et.al.|[2408.05896v1](http://arxiv.org/abs/2408.05896v1)|null|
+|**2024-08-11**|**A Decoding Acceleration Framework for Industrial Deployable LLM-based Recommender Systems**|Yunjia Xi et.al.|[2408.05676v1](http://arxiv.org/abs/2408.05676v1)|**[link](https://github.com/yunjiaxi/dare_code)**|
+|**2024-08-10**|**Exploring Applications of State Space Models and Advanced Training Techniques in Sequential Recommendations: A Comparative Study on Efficiency and Performance**|Mark Obozov et.al.|[2408.05606v1](http://arxiv.org/abs/2408.05606v1)|null|
+|**2024-08-10**|**Meta Clustering of Neural Bandits**|Yikun Ban et.al.|[2408.05586v1](http://arxiv.org/abs/2408.05586v1)|null|
+|**2024-08-09**|**AI-assisted Coding with Cody: Lessons from Context Retrieval and Evaluation for Code Recommendations**|Jan Hartman et.al.|[2408.05344v1](http://arxiv.org/abs/2408.05344v1)|null|
 |**2024-08-09**|**A GNN Model with Adaptive Weights for Session-Based Recommendation Systems**|Begüm Özbay et.al.|[2408.05051v1](http://arxiv.org/abs/2408.05051v1)|null|
 |**2024-08-09**|**Dual-Channel Latent Factor Analysis Enhanced Graph Contrastive Learning for Recommendation**|Junfeng Long et.al.|[2408.04838v1](http://arxiv.org/abs/2408.04838v1)|null|
 |**2024-08-07**|**AutoFAIR : Automatic Data FAIRification via Machine Reading**|Tingyan Ma et.al.|[2408.04673v1](http://arxiv.org/abs/2408.04673v1)|null|
@@ -10842,6 +10878,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment**|Sevinj Teymurova et.al.|[2408.06310v1](http://arxiv.org/abs/2408.06310v1)|null|
+|**2024-08-12**|**A Methodological Report on Anomaly Detection on Dynamic Knowledge Graphs**|Xiaohua Lu et.al.|[2408.06121v1](http://arxiv.org/abs/2408.06121v1)|null|
+|**2024-08-12**|**ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models**|Ronak Pradeep et.al.|[2408.05948v1](http://arxiv.org/abs/2408.05948v1)|null|
+|**2024-08-11**|**Leveraging Knowledge Graph-Based Human-Like Memory Systems to Solve Partially Observable Markov Decision Processes**|Taewoon Kim et.al.|[2408.05861v1](http://arxiv.org/abs/2408.05861v1)|null|
+|**2024-08-11**|**Low-Dimensional Federated Knowledge Graph Embedding via Knowledge Distillation**|Xiaoxiong Zhang et.al.|[2408.05748v1](http://arxiv.org/abs/2408.05748v1)|null|
+|**2024-08-10**|**SHREC: a SRE Behaviour Knowledge Graph Model for Shell Command Recommendations**|Andrea Tonon et.al.|[2408.05592v1](http://arxiv.org/abs/2408.05592v1)|null|
+|**2024-08-09**|**MUSE: Multi-Knowledge Passing on the Edges, Boosting Knowledge Graph Completion**|Pengjie Liu et.al.|[2408.05283v1](http://arxiv.org/abs/2408.05283v1)|null|
 |**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141v1](http://arxiv.org/abs/2408.05141v1)|null|
 |**2024-08-09**|**HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**|Bhaskarjit Sarmah et.al.|[2408.04948v1](http://arxiv.org/abs/2408.04948v1)|null|
 |**2024-08-09**|**Knowledge Base Embeddings: Semantics and Theoretical Properties**|Camille Bourgaux et.al.|[2408.04913v1](http://arxiv.org/abs/2408.04913v1)|null|
@@ -12311,6 +12354,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**What Ails Generative Structure-based Drug Design: Too Little or Too Much Expressivity?**|Rafał Karczewski et.al.|[2408.06050v1](http://arxiv.org/abs/2408.06050v1)|null|
+|**2024-08-12**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040v1](http://arxiv.org/abs/2408.06040v1)|null|
+|**2024-08-12**|**Spacetime $E(n)$ -Transformer: Equivariant Attention for Spatio-temporal Graphs**|Sergio G. Charles et.al.|[2408.06039v1](http://arxiv.org/abs/2408.06039v1)|null|
+|**2024-08-11**|**GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering**|Jiafeng Xia et.al.|[2408.05792v1](http://arxiv.org/abs/2408.05792v1)|null|
+|**2024-08-11**|**On zero-shot learning in neural state estimation of power distribution systems**|Aleksandr Berezin et.al.|[2408.05787v1](http://arxiv.org/abs/2408.05787v1)|**[link](https://gitlab.com/transense/nse-tl-paper)**|
+|**2024-08-11**|**Swarm-Net: Firmware Attestation in IoT Swarms using Graph Neural Networks and Volatile Memory**|Varun Kohli et.al.|[2408.05680v1](http://arxiv.org/abs/2408.05680v1)|null|
+|**2024-08-10**|**An Information-Theoretic Analysis of Temporal GNNs**|Amirmohammad Farzaneh et.al.|[2408.05624v1](http://arxiv.org/abs/2408.05624v1)|null|
+|**2024-08-10**|**A Laplacian-based Quantum Graph Neural Network for Semi-Supervised Learning**|Hamed Gholipour et.al.|[2408.05498v1](http://arxiv.org/abs/2408.05498v1)|null|
+|**2024-08-10**|**Path-LLM: A Shortest-Path-based LLM Learning for Unified Graph Representation**|Wenbo Shang et.al.|[2408.05456v1](http://arxiv.org/abs/2408.05456v1)|null|
+|**2024-08-10**|**Modeling Multi-Step Scientific Processes with Graph Transformer Networks**|Amanda A. Volk et.al.|[2408.05425v1](http://arxiv.org/abs/2408.05425v1)|null|
 |**2024-08-09**|**Decoding Quantum LDPC Codes Using Graph Neural Networks**|Vukan Ninkovic et.al.|[2408.05170v1](http://arxiv.org/abs/2408.05170v1)|null|
 |**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160v1](http://arxiv.org/abs/2408.05160v1)|null|
 |**2024-08-09**|**Variational Bayesian Phylogenetic Inference with Semi-implicit Branch Length Distributions**|Tianyu Xie et.al.|[2408.05058v1](http://arxiv.org/abs/2408.05058v1)|**[link](https://github.com/tyuxie/vbpi-sibranch)**|
