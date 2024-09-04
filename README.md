@@ -5145,7 +5145,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-30**|**SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic CheckLists**|Raoyuan Zhao et.al.|[2408.17437v1](http://arxiv.org/abs/2408.17437v1)|**[link](https://github.com/loreley99/syntheval_checklist)**|
-|**2024-08-30**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024v1](http://arxiv.org/abs/2408.17024v1)|null|
+|**2024-09-03**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024v2](http://arxiv.org/abs/2408.17024v2)|null|
 |**2024-08-29**|**A longitudinal sentiment analysis of Sinophobia during COVID-19 using large language models**|Chen Wang et.al.|[2408.16942v1](http://arxiv.org/abs/2408.16942v1)|null|
 |**2024-08-28**|**Meta-Learn Unimodal Signals with Weak Supervision for Multimodal Sentiment Analysis**|Sijie Mai et.al.|[2408.16029v1](http://arxiv.org/abs/2408.16029v1)|null|
 |**2024-08-28**|**Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings**|Lingyu Gao et.al.|[2408.15650v1](http://arxiv.org/abs/2408.15650v1)|null|
@@ -5961,7 +5961,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-30**|**Look, Learn and Leverage (L $^3$ ): Mitigating Visual-Domain Shift and Discovering Intrinsic Relations via Symbolic Alignment**|Hanchen Xie et.al.|[2408.17363v1](http://arxiv.org/abs/2408.17363v1)|null|
-|**2024-08-30**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024v1](http://arxiv.org/abs/2408.17024v1)|null|
+|**2024-09-03**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024v2](http://arxiv.org/abs/2408.17024v2)|null|
 |**2024-08-30**|**Evaluation of Table Representations to Answer Questions from Tables in Documents : A Case Study using 3GPP Specifications**|Sujoy Roychowdhury et.al.|[2408.17008v1](http://arxiv.org/abs/2408.17008v1)|null|
 |**2024-08-30**|**Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering**|Su Hyeon Lim et.al.|[2408.17006v1](http://arxiv.org/abs/2408.17006v1)|null|
 |**2024-08-29**|**Event Extraction for Portuguese: A QA-driven Approach using ACE-2005**|Luís Filipe Cunha et.al.|[2408.16932v1](http://arxiv.org/abs/2408.16932v1)|null|
@@ -12734,11 +12734,11 @@
 |**2024-08-30**|**Leveraging Graph Neural Networks to Forecast Electricity Consumption**|Eloi Campagne et.al.|[2408.17366v1](http://arxiv.org/abs/2408.17366v1)|null|
 |**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252v1](http://arxiv.org/abs/2408.17252v1)|null|
 |**2024-08-30**|**Search for $t\bar{t}H/A \rightarrow t\bar{t}t\bar{t}$ production in proton-proton collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2408.17164v1](http://arxiv.org/abs/2408.17164v1)|null|
-|**2024-08-30**|**Controllable Edge-Type-Specific Interpretation in Multi-Relational Graph Neural Networks for Drug Response Prediction**|Xiaodi Li et.al.|[2408.17129v1](http://arxiv.org/abs/2408.17129v1)|**[link](https://github.com/ahaubioinformatics/cetexplainer)**|
+|**2024-09-03**|**Controllable Edge-Type-Specific Interpretation in Multi-Relational Graph Neural Networks for Drug Response Prediction**|Xiaodi Li et.al.|[2408.17129v2](http://arxiv.org/abs/2408.17129v2)|**[link](https://github.com/ahaubioinformatics/cetexplainer)**|
 |**2024-08-29**|**H-SGANet: Hybrid Sparse Graph Attention Network for Deformable Medical Image Registration**|Yufeng Zhou et.al.|[2408.16719v1](http://arxiv.org/abs/2408.16719v1)|null|
 |**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717v1](http://arxiv.org/abs/2408.16717v1)|null|
 |**2024-08-29**|**SympGNNs: Symplectic Graph Neural Networks for identifiying high-dimensional Hamiltonian systems and node classification**|Alan John Varghese et.al.|[2408.16698v1](http://arxiv.org/abs/2408.16698v1)|null|
-|**2024-08-29**|**SFR-GNN: Simple and Fast Robust GNNs against Structural Attacks**|Xing Ai et.al.|[2408.16537v1](http://arxiv.org/abs/2408.16537v1)|null|
+|**2024-09-01**|**SFR-GNN: Simple and Fast Robust GNNs against Structural Attacks**|Xing Ai et.al.|[2408.16537v2](http://arxiv.org/abs/2408.16537v2)|null|
 |**2024-08-29**|**TempoKGAT: A Novel Graph Attention Network Approach for Temporal Graph Analysis**|Lena Sasal et.al.|[2408.16391v1](http://arxiv.org/abs/2408.16391v1)|null|
 |**2024-08-29**|**TG-PhyNN: An Enhanced Physically-Aware Graph Neural Network framework for forecasting Spatio-Temporal Data**|Zakaria Elabid et.al.|[2408.16379v1](http://arxiv.org/abs/2408.16379v1)|null|
 |**2024-08-29**|**Do Graph Neural Networks Work for High Entropy Alloys?**|Hengrui Zhang et.al.|[2408.16337v1](http://arxiv.org/abs/2408.16337v1)|**[link](https://github.com/Henrium/LESets)**|
