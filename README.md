@@ -21,7 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708v1](http://arxiv.org/abs/2409.03708v1)|null|
+|**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181v1](http://arxiv.org/abs/2409.04181v1)|null|
+|**2024-09-06**|**A Coin Has Two Sides: A Novel Detector-Corrector Framework for Chinese Spelling Correction**|Xiangke Zeng et.al.|[2409.04150v1](http://arxiv.org/abs/2409.04150v1)|null|
+|**2024-09-06**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708v2](http://arxiv.org/abs/2409.03708v2)|null|
 |**2024-09-05**|**Hardware Acceleration of LLMs: A comprehensive survey and comparison**|Nikoletta Koilia et.al.|[2409.03384v1](http://arxiv.org/abs/2409.03384v1)|null|
 |**2024-09-05**|**Leveraging Large Language Models through Natural Language Processing to provide interpretable Machine Learning predictions of mental deterioration in real time**|Francisco de Arriba-Pérez et.al.|[2409.03375v1](http://arxiv.org/abs/2409.03375v1)|null|
 |**2024-09-05**|**Bypassing DARCY Defense: Indistinguishable Universal Adversarial Triggers**|Zuquan Peng et.al.|[2409.03183v1](http://arxiv.org/abs/2409.03183v1)|null|
@@ -3979,6 +3981,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Large Margin Prototypical Network for Few-shot Relation Classification with Fine-grained Features**|Miao Fan et.al.|[2409.04009v1](http://arxiv.org/abs/2409.04009v1)|null|
 |**2024-09-05**|**The YMDB catalog: Young massive detached binaries for the determination of high-precision absolute stellar parameters**|Pablo Martín-Ravelo et.al.|[2409.03205v1](http://arxiv.org/abs/2409.03205v1)|null|
 |**2024-09-04**|**A Comparative Study of Pre-training and Self-training**|Yiheng Wang et.al.|[2409.02751v1](http://arxiv.org/abs/2409.02751v1)|**[link](https://github.com/PKUAI-LINGroup/PAS)**|
 |**2024-09-05**|**OpenFact at CheckThat! 2024: Combining Multiple Attack Methods for Effective Adversarial Text Generation**|Włodzimierz Lewoniewski et.al.|[2409.02649v2](http://arxiv.org/abs/2409.02649v2)|null|
@@ -5989,7 +5992,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708v1](http://arxiv.org/abs/2409.03708v1)|null|
+|**2024-09-06**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388v1](http://arxiv.org/abs/2409.04388v1)|null|
+|**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181v1](http://arxiv.org/abs/2409.04181v1)|null|
+|**2024-09-06**|**COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes**|Koen Kraaijveld et.al.|[2409.04053v1](http://arxiv.org/abs/2409.04053v1)|null|
+|**2024-09-06**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708v2](http://arxiv.org/abs/2409.03708v2)|null|
 |**2024-09-05**|**The representation landscape of few-shot learning and fine-tuning in large language models**|Diego Doimo et.al.|[2409.03662v1](http://arxiv.org/abs/2409.03662v1)|**[link](https://github.com/diegodoimo/geometry_icl_finetuning)**|
 |**2024-09-05**|**mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding**|Anwen Hu et.al.|[2409.03420v1](http://arxiv.org/abs/2409.03420v1)|**[link](https://github.com/x-plug/mplug-docowl)**|
 |**2024-09-05**|**OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving**|Julong Wei et.al.|[2409.03272v1](http://arxiv.org/abs/2409.03272v1)|null|
@@ -8447,6 +8453,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**CACER: Clinical Concept Annotations for Cancer Events and Relations**|Yujuan Fu et.al.|[2409.03905v1](http://arxiv.org/abs/2409.03905v1)|null|
 |**2024-09-04**|**How Privacy-Savvy Are Large Language Models? A Case Study on Compliance and Privacy Technical Review**|Xichou Zhu et.al.|[2409.02375v1](http://arxiv.org/abs/2409.02375v1)|null|
 |**2024-09-03**|**What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices**|Zhi Chen et.al.|[2409.01893v1](http://arxiv.org/abs/2409.01893v1)|**[link](https://github.com/wowcz/longmit)**|
 |**2024-09-03**|**SpannerLib: Embedding Declarative Information Extraction in an Imperative Workflow**|Dean Light et.al.|[2409.01736v1](http://arxiv.org/abs/2409.01736v1)|**[link](https://github.com/DeanLight/spannerlib)**|
@@ -9383,6 +9390,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339v1](http://arxiv.org/abs/2409.04339v1)|null|
+|**2024-09-06**|**Enhancing Sequential Music Recommendation with Personalized Popularity Awareness**|Davide Abbattista et.al.|[2409.04329v1](http://arxiv.org/abs/2409.04329v1)|**[link](https://github.com/sisinflab/personalized-popularity-awareness)**|
+|**2024-09-05**|**Understanding Fairness Metrics in Recommender Systems: A Healthcare Perspective**|Veronica Kecki et.al.|[2409.03893v1](http://arxiv.org/abs/2409.03893v1)|null|
 |**2024-09-04**|**Deep Adaptive Interest Network: Personalized Recommendation with Context-Aware Learning**|Shuaishuai Huang et.al.|[2409.02425v1](http://arxiv.org/abs/2409.02425v1)|null|
 |**2024-09-03**|**Laser: Parameter-Efficient LLM Bi-Tuning for Sequential Recommendation with Collaborative Information**|Xinyu Zhang et.al.|[2409.01605v1](http://arxiv.org/abs/2409.01605v1)|null|
 |**2024-09-03**|**Blockchain-based Federated Recommendation with Incentive Mechanism**|Jianhai Chen et.al.|[2409.01563v1](http://arxiv.org/abs/2409.01563v1)|null|
@@ -11273,6 +11283,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Using Large Language Models to Generate Authentic Multi-agent Knowledge Work Datasets**|Desiree Heim et.al.|[2409.04286v1](http://arxiv.org/abs/2409.04286v1)|null|
+|**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181v1](http://arxiv.org/abs/2409.04181v1)|null|
+|**2024-09-06**|**The Role of Graph Topology in the Performance of Biomedical Knowledge Graph Completion Models**|Alberto Cattaneo et.al.|[2409.04103v1](http://arxiv.org/abs/2409.04103v1)|null|
+|**2024-09-06**|**Large Margin Prototypical Network for Few-shot Relation Classification with Fine-grained Features**|Miao Fan et.al.|[2409.04009v1](http://arxiv.org/abs/2409.04009v1)|null|
+|**2024-09-06**|**Generating Faithful and Salient Text from Multimodal Data**|Tahsina Hashem et.al.|[2409.03961v1](http://arxiv.org/abs/2409.03961v1)|null|
 |**2024-09-05**|**Rx Strategist: Prescription Verification using LLM Agents System**|Phuc Phan Van et.al.|[2409.03440v1](http://arxiv.org/abs/2409.03440v1)|null|
 |**2024-09-05**|**Enhancing Clinical Data Warehouses with Provenance and Large File Management: The gitOmmix Approach for Clinical Omics Data**|Maxime Wack et.al.|[2409.03288v1](http://arxiv.org/abs/2409.03288v1)|null|
 |**2024-09-05**|**iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models**|Yassir Lairgi et.al.|[2409.03284v1](http://arxiv.org/abs/2409.03284v1)|**[link](https://github.com/AuvaLab/itext2kg)**|
@@ -12805,6 +12820,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Accelerating Training with Neuron Interaction and Nowcasting Networks**|Boris Knyazev et.al.|[2409.04434v1](http://arxiv.org/abs/2409.04434v1)|**[link](https://github.com/samsungsailmontreal/nino)**|
+|**2024-09-06**|**GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding**|Ziyin Zhang et.al.|[2409.04183v1](http://arxiv.org/abs/2409.04183v1)|null|
+|**2024-09-06**|**CUQ-GNN: Committee-based Graph Uncertainty Quantification using Posterior Networks**|Clemens Damke et.al.|[2409.04159v1](http://arxiv.org/abs/2409.04159v1)|null|
 |**2024-09-05**|**Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks**|Lorenzo Bini et.al.|[2409.03463v1](http://arxiv.org/abs/2409.03463v1)|**[link](https://github.com/msorbi/gnn-ma)**|
 |**2024-09-05**|**Efficient prediction of potential energy surface and physical properties with Kolmogorov-Arnold Networks**|Rui Wang et.al.|[2409.03430v1](http://arxiv.org/abs/2409.03430v1)|null|
 |**2024-09-04**|**Do We Trust What They Say or What They Do? A Multimodal User Embedding Provides Personalized Explanations**|Zhicheng Ren et.al.|[2409.02965v1](http://arxiv.org/abs/2409.02965v1)|null|
