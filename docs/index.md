@@ -25,6 +25,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Supervised Learning for Stochastic Optimal Control**|Vince Kurtz et.al.|[2409.05792v1](http://arxiv.org/abs/2409.05792v1)|null|
+|**2024-09-09**|**A Novel Idea Generation Tool using a Structured Conversational AI (CAI) System**|B. Sankar et.al.|[2409.05747v1](http://arxiv.org/abs/2409.05747v1)|null|
+|**2024-09-09**|**RegNLP in Action: Facilitating Compliance Through Automated Information Retrieval and Answer Generation**|Tuba Gokhan et.al.|[2409.05677v1](http://arxiv.org/abs/2409.05677v1)|null|
+|**2024-09-09**|**Tele-LLMs: A Series of Specialized Large Language Models for Telecommunications**|Ali Maatouk et.al.|[2409.05314v1](http://arxiv.org/abs/2409.05314v1)|null|
+|**2024-09-08**|**Advanced Machine Learning Framework for Efficient Plant Disease Prediction**|Aswath Muthuselvam et.al.|[2409.05174v1](http://arxiv.org/abs/2409.05174v1)|null|
+|**2024-09-07**|**Maximizing Relation Extraction Potential: A Data-Centric Study to Unveil Challenges and Opportunities**|Anushka Swarup et.al.|[2409.04934v1](http://arxiv.org/abs/2409.04934v1)|null|
+|**2024-09-07**|**Achieving Peak Performance for Large Language Models: A Systematic Review**|Zhyar Rzgar K Rostam et.al.|[2409.04833v1](http://arxiv.org/abs/2409.04833v1)|null|
+|**2024-09-06**|**Protein sequence classification using natural language processing techniques**|Huma Perveen et.al.|[2409.04491v1](http://arxiv.org/abs/2409.04491v1)|null|
 |**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181v1](http://arxiv.org/abs/2409.04181v1)|null|
 |**2024-09-06**|**A Coin Has Two Sides: A Novel Detector-Corrector Framework for Chinese Spelling Correction**|Xiangke Zeng et.al.|[2409.04150v1](http://arxiv.org/abs/2409.04150v1)|null|
 |**2024-09-06**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708v2](http://arxiv.org/abs/2409.03708v2)|null|
@@ -3985,6 +3993,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Application Specific Compression of Deep Learning Models**|Rohit Raj Rai et.al.|[2409.05368v1](http://arxiv.org/abs/2409.05368v1)|null|
+|**2024-09-09**|**RexUniNLU: Recursive Method with Explicit Schema Instructor for Universal NLU**|Chengyuan Liu et.al.|[2409.05275v1](http://arxiv.org/abs/2409.05275v1)|null|
 |**2024-09-06**|**Large Margin Prototypical Network for Few-shot Relation Classification with Fine-grained Features**|Miao Fan et.al.|[2409.04009v1](http://arxiv.org/abs/2409.04009v1)|null|
 |**2024-09-05**|**The YMDB catalog: Young massive detached binaries for the determination of high-precision absolute stellar parameters**|Pablo Martín-Ravelo et.al.|[2409.03205v1](http://arxiv.org/abs/2409.03205v1)|null|
 |**2024-09-04**|**A Comparative Study of Pre-training and Self-training**|Yiheng Wang et.al.|[2409.02751v1](http://arxiv.org/abs/2409.02751v1)|**[link](https://github.com/PKUAI-LINGroup/PAS)**|
@@ -5176,6 +5186,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Mpox Narrative on Instagram: A Labeled Multilingual Dataset of Instagram Posts on Mpox for Sentiment, Hate Speech, and Anxiety Analysis**|Nirmalya Thakur et.al.|[2409.05292v1](http://arxiv.org/abs/2409.05292v1)|null|
+|**2024-09-08**|**Evaluation of Google Translate for Mandarin Chinese translation using sentiment and semantic analysis**|Xuechun Wang et.al.|[2409.04964v1](http://arxiv.org/abs/2409.04964v1)|null|
+|**2024-09-06**|**Chain-of-Translation Prompting (CoTR): A Novel Prompting Technique for Low Resource Languages**|Tejas Deshpande et.al.|[2409.04512v1](http://arxiv.org/abs/2409.04512v1)|null|
+|**2024-09-05**|**Learning in Order! A Sequential Strategy to Learn Invariant Features for Multimodal Sentiment Analysis**|Xianbing Zhao et.al.|[2409.04473v1](http://arxiv.org/abs/2409.04473v1)|null|
 |**2024-09-04**|**A Comparative Study of Pre-training and Self-training**|Yiheng Wang et.al.|[2409.02751v1](http://arxiv.org/abs/2409.02751v1)|**[link](https://github.com/PKUAI-LINGroup/PAS)**|
 |**2024-09-04**|**Do Large Language Models Possess Sensitive to Sentiment?**|Yang Liu et.al.|[2409.02370v1](http://arxiv.org/abs/2409.02370v1)|null|
 |**2024-09-01**|**Entity-Aware Biaffine Attention Model for Improved Constituent Parsing with Reduced Entity Violations**|Xinyi Bai et.al.|[2409.00625v1](http://arxiv.org/abs/2409.00625v1)|null|
@@ -5996,7 +6010,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-06**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388v1](http://arxiv.org/abs/2409.04388v1)|null|
+|**2024-09-09**|**Breaking Neural Network Scaling Laws with Modularity**|Akhilan Boopathy et.al.|[2409.05780v1](http://arxiv.org/abs/2409.05780v1)|null|
+|**2024-09-09**|**MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery**|Hongjin Qian et.al.|[2409.05591v1](http://arxiv.org/abs/2409.05591v1)|null|
+|**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395v1](http://arxiv.org/abs/2409.05395v1)|null|
+|**2024-09-09**|**Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models**|Hong Xingyun Hong et.al.|[2409.05385v1](http://arxiv.org/abs/2409.05385v1)|null|
+|**2024-09-09**|**Seek and Solve Reasoning for Table Question Answering**|Ruya Jiang et.al.|[2409.05286v1](http://arxiv.org/abs/2409.05286v1)|null|
+|**2024-09-07**|**Just ASR + LLM? A Study on Speech Large Language Models' Ability to Identify and Understand Speaker in Spoken Dialogue**|Junkai Wu et.al.|[2409.04927v1](http://arxiv.org/abs/2409.04927v1)|**[link](https://github.com/wjk0925/slt2024-speechllm-speaker-understanding)**|
+|**2024-09-09**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388v2](http://arxiv.org/abs/2409.04388v2)|null|
 |**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181v1](http://arxiv.org/abs/2409.04181v1)|null|
 |**2024-09-06**|**COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes**|Koen Kraaijveld et.al.|[2409.04053v1](http://arxiv.org/abs/2409.04053v1)|null|
 |**2024-09-06**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708v2](http://arxiv.org/abs/2409.03708v2)|null|
@@ -8457,6 +8477,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**RexUniNLU: Recursive Method with Explicit Schema Instructor for Universal NLU**|Chengyuan Liu et.al.|[2409.05275v1](http://arxiv.org/abs/2409.05275v1)|null|
+|**2024-09-07**|**Maximizing Relation Extraction Potential: A Data-Centric Study to Unveil Challenges and Opportunities**|Anushka Swarup et.al.|[2409.04934v1](http://arxiv.org/abs/2409.04934v1)|null|
+|**2024-09-07**|**SSFam: Scribble Supervised Salient Object Detection Family**|Zhengyi Liu et.al.|[2409.04817v1](http://arxiv.org/abs/2409.04817v1)|**[link](https://github.com/liuzywen/ssfam)**|
 |**2024-09-05**|**CACER: Clinical Concept Annotations for Cancer Events and Relations**|Yujuan Fu et.al.|[2409.03905v1](http://arxiv.org/abs/2409.03905v1)|null|
 |**2024-09-04**|**How Privacy-Savvy Are Large Language Models? A Case Study on Compliance and Privacy Technical Review**|Xichou Zhu et.al.|[2409.02375v1](http://arxiv.org/abs/2409.02375v1)|null|
 |**2024-09-03**|**What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices**|Zhi Chen et.al.|[2409.01893v1](http://arxiv.org/abs/2409.01893v1)|**[link](https://github.com/wowcz/longmit)**|
@@ -9394,6 +9417,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Rs4rs: Semantically Find Recent Publications from Top Recommendation System-Related Venues**|Tri Kurniawan Wijaya et.al.|[2409.05570v1](http://arxiv.org/abs/2409.05570v1)|null|
+|**2024-09-09**|**End-to-End Learnable Item Tokenization for Generative Recommendation**|Enze Liu et.al.|[2409.05546v1](http://arxiv.org/abs/2409.05546v1)|null|
+|**2024-09-09**|**RBoard: A Unified Platform for Reproducible and Reusable Recommender System Benchmarks**|Tri Kurniawan Wijaya et.al.|[2409.05526v1](http://arxiv.org/abs/2409.05526v1)|null|
+|**2024-09-09**|**Recommender Systems Algorithm Selection for Ranking Prediction on Implicit Feedback Datasets**|Lukas Wegmeth et.al.|[2409.05461v1](http://arxiv.org/abs/2409.05461v1)|null|
+|**2024-09-08**|**A Survey on Diffusion Models for Recommender Systems**|Jianghao Lin et.al.|[2409.05033v1](http://arxiv.org/abs/2409.05033v1)|null|
+|**2024-09-07**|**Incorporate LLMs with Influential Recommender System**|Mingze Wang et.al.|[2409.04827v1](http://arxiv.org/abs/2409.04827v1)|null|
+|**2024-09-07**|**LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement Learning through Language Model Guided Trade-offs**|Yongxin Deng et.al.|[2409.04744v1](http://arxiv.org/abs/2409.04744v1)|null|
+|**2024-09-06**|**A Unified Framework for Cross-Domain Recommendation**|Jiangxia Cao et.al.|[2409.04540v1](http://arxiv.org/abs/2409.04540v1)|null|
 |**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339v1](http://arxiv.org/abs/2409.04339v1)|null|
 |**2024-09-06**|**Enhancing Sequential Music Recommendation with Personalized Popularity Awareness**|Davide Abbattista et.al.|[2409.04329v1](http://arxiv.org/abs/2409.04329v1)|**[link](https://github.com/sisinflab/personalized-popularity-awareness)**|
 |**2024-09-05**|**Understanding Fairness Metrics in Recommender Systems: A Healthcare Perspective**|Veronica Kecki et.al.|[2409.03893v1](http://arxiv.org/abs/2409.03893v1)|null|
@@ -11287,6 +11318,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556v1](http://arxiv.org/abs/2409.05556v1)|null|
+|**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370v1](http://arxiv.org/abs/2409.05370v1)|null|
+|**2024-09-06**|**Neurosymbolic Methods for Dynamic Knowledge Graphs**|Mehwish Alam et.al.|[2409.04572v1](http://arxiv.org/abs/2409.04572v1)|null|
+|**2024-09-06**|**ConVer-G: Concurrent versioning of knowledge graphs**|Jey Puget Gil et.al.|[2409.04499v1](http://arxiv.org/abs/2409.04499v1)|null|
+|**2024-09-06**|**Graph versioning for evolving urban data**|Jey Puget Gil et.al.|[2409.04498v1](http://arxiv.org/abs/2409.04498v1)|null|
 |**2024-09-06**|**Using Large Language Models to Generate Authentic Multi-agent Knowledge Work Datasets**|Desiree Heim et.al.|[2409.04286v1](http://arxiv.org/abs/2409.04286v1)|null|
 |**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181v1](http://arxiv.org/abs/2409.04181v1)|null|
 |**2024-09-06**|**The Role of Graph Topology in the Performance of Biomedical Knowledge Graph Completion Models**|Alberto Cattaneo et.al.|[2409.04103v1](http://arxiv.org/abs/2409.04103v1)|null|
@@ -12824,6 +12860,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Celcomen: spatial causal disentanglement for single-cell and tissue perturbation modeling**|Stathis Megas et.al.|[2409.05804v1](http://arxiv.org/abs/2409.05804v1)|null|
+|**2024-09-09**|**Are Heterophily-Specific GNNs and Homophily Metrics Really Effective? Evaluation Pitfalls and New Benchmarks**|Sitao Luan et.al.|[2409.05755v1](http://arxiv.org/abs/2409.05755v1)|null|
+|**2024-09-09**|**Enhancing Graph Contrastive Learning with Reliable and Informative Augmentation for Recommendation**|Bowen Zheng et.al.|[2409.05633v1](http://arxiv.org/abs/2409.05633v1)|null|
+|**2024-09-09**|**Learning to Model Graph Structural Information on MLPs via Graph Structure Self-Contrasting**|Lirong Wu et.al.|[2409.05573v1](http://arxiv.org/abs/2409.05573v1)|null|
+|**2024-09-09**|**Retrofitting Temporal Graph Neural Networks with Transformer**|Qiang Huang et.al.|[2409.05477v1](http://arxiv.org/abs/2409.05477v1)|**[link](https://github.com/qianghuangwhu/tf-tgn)**|
+|**2024-09-09**|**Graffin: Stand for Tails in Imbalanced Node Classification**|Xiaorui Qi et.al.|[2409.05339v1](http://arxiv.org/abs/2409.05339v1)|null|
+|**2024-09-09**|**Investigating Material Interface Diffusion Phenomena through Graph Neural Networks in Applied Materials**|Zirui Zhao et.al.|[2409.05306v1](http://arxiv.org/abs/2409.05306v1)|null|
+|**2024-09-08**|**Generalization of Geometric Graph Neural Networks**|Zhiyang Wang et.al.|[2409.05191v1](http://arxiv.org/abs/2409.05191v1)|null|
+|**2024-09-08**|**Learning polycrystal plasticity using mesh-based subgraph geometric deep learning**|Hanfeng Zhai et.al.|[2409.05169v1](http://arxiv.org/abs/2409.05169v1)|null|
+|**2024-09-08**|**MaxCutPool: differentiable feature-aware Maxcut for pooling in graph neural networks**|Carlo Abate et.al.|[2409.05100v1](http://arxiv.org/abs/2409.05100v1)|null|
 |**2024-09-06**|**Accelerating Training with Neuron Interaction and Nowcasting Networks**|Boris Knyazev et.al.|[2409.04434v1](http://arxiv.org/abs/2409.04434v1)|**[link](https://github.com/samsungsailmontreal/nino)**|
 |**2024-09-06**|**GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding**|Ziyin Zhang et.al.|[2409.04183v1](http://arxiv.org/abs/2409.04183v1)|null|
 |**2024-09-06**|**CUQ-GNN: Committee-based Graph Uncertainty Quantification using Posterior Networks**|Clemens Damke et.al.|[2409.04159v1](http://arxiv.org/abs/2409.04159v1)|null|
