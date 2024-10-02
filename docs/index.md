@@ -4114,7 +4114,7 @@ layout: default
 |**2024-09-27**|**Evaluation of OpenAI o1: Opportunities and Challenges of AGI**|Tianyang Zhong et.al.|[2409.18486v1](http://arxiv.org/abs/2409.18486v1)|null|
 |**2024-09-26**|**DisGeM: Distractor Generation for Multiple Choice Questions with Span Masking**|Devrim Cavusoglu et.al.|[2409.18263v1](http://arxiv.org/abs/2409.18263v1)|null|
 |**2024-09-26**|**The Lou Dataset -- Exploring the Impact of Gender-Fair Language in German Text Classification**|Andreas Waldis et.al.|[2409.17929v1](http://arxiv.org/abs/2409.17929v1)|null|
-|**2024-09-26**|**MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning**|Tieyuan Chen et.al.|[2409.17647v1](http://arxiv.org/abs/2409.17647v1)|null|
+|**2024-09-26**|**MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning**|Tieyuan Chen et.al.|[2409.17647v1](http://arxiv.org/abs/2409.17647v1)|**[link](https://github.com/tychen-SJTU/MECD-Benchmark)**|
 |**2024-09-26**|**Leveraging Annotator Disagreement for Text Classification**|Jin Xu et.al.|[2409.17577v1](http://arxiv.org/abs/2409.17577v1)|null|
 |**2024-09-26**|**What Would Happen Next? Predicting Consequences from An Event Causality Graph**|Chuanhong Zhan et.al.|[2409.17480v1](http://arxiv.org/abs/2409.17480v1)|null|
 |**2024-09-26**|**Reducing and Exploiting Data Augmentation Noise through Meta Reweighting Contrastive Learning for Text Classification**|Guanyi Mou et.al.|[2409.17474v1](http://arxiv.org/abs/2409.17474v1)|null|
@@ -11680,11 +11680,11 @@ layout: default
 |**2024-09-30**|**Constraining Anomaly Detection with Anomaly-Free Regions**|Maximilian Toller et.al.|[2409.20208v1](http://arxiv.org/abs/2409.20208v1)|null|
 |**2024-09-30**|**GUNDAM: Aligning Large Language Models with Graph Understanding**|Sheng Ouyang et.al.|[2409.20053v1](http://arxiv.org/abs/2409.20053v1)|null|
 |**2024-09-30**|**Customized Information and Domain-centric Knowledge Graph Construction with Large Language Models**|Frank Wawrzik et.al.|[2409.20010v1](http://arxiv.org/abs/2409.20010v1)|null|
-|**2024-09-30**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979v1](http://arxiv.org/abs/2409.19979v1)|null|
+|**2024-10-01**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979v2](http://arxiv.org/abs/2409.19979v2)|**[link](https://github.com/WangXFng/ELMRec)**|
 |**2024-09-30**|**Knowledge Graph Embedding by Normalizing Flows**|Changyi Xiao et.al.|[2409.19977v1](http://arxiv.org/abs/2409.19977v1)|**[link](https://github.com/changyi7231/nfe)**|
 |**2024-09-29**|**CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering**|Yike Wu et.al.|[2409.19753v1](http://arxiv.org/abs/2409.19753v1)|null|
 |**2024-09-27**|**CLLMate: A Multimodal LLM for Weather and Climate Events Forecasting**|Haobo Li et.al.|[2409.19058v1](http://arxiv.org/abs/2409.19058v1)|null|
-|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924v1](http://arxiv.org/abs/2409.18924v1)|null|
+|**2024-10-01**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924v2](http://arxiv.org/abs/2409.18924v2)|null|
 |**2024-09-27**|**Rehearsing Answers to Probable Questions with Perspective-Taking**|Yung-Yu Shih et.al.|[2409.18678v1](http://arxiv.org/abs/2409.18678v1)|null|
 |**2024-09-27**|**Explainable Enrichment-Driven GrAph Reasoner (EDGAR) for Large Knowledge Graphs with Applications in Drug Repurposing**|Olawumi Olasunkanmi et.al.|[2409.18659v1](http://arxiv.org/abs/2409.18659v1)|null|
 |**2024-09-26**|**Visual Data Diagnosis and Debiasing with Concept Graphs**|Rwiddhi Chakraborty et.al.|[2409.18055v1](http://arxiv.org/abs/2409.18055v1)|null|
@@ -13265,7 +13265,7 @@ layout: default
 |**2024-09-29**|**Generalizability of Graph Neural Networks for Decentralized Unlabeled Motion Planning**|Shreyas Muthusamy et.al.|[2409.19829v1](http://arxiv.org/abs/2409.19829v1)|null|
 |**2024-09-29**|**A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends**|Yucheng Wang et.al.|[2409.19629v1](http://arxiv.org/abs/2409.19629v1)|null|
 |**2024-09-29**|**DropEdge not Foolproof: Effective Augmentation Method for Signed Graph Neural Networks**|Zeyu Zhang et.al.|[2409.19620v1](http://arxiv.org/abs/2409.19620v1)|null|
-|**2024-09-29**|**DuoGNN: Topology-aware Graph Neural Network with Homophily and Heterophily Interaction-Decoupling**|K. Mancini et.al.|[2409.19616v1](http://arxiv.org/abs/2409.19616v1)|null|
+|**2024-09-29**|**DuoGNN: Topology-aware Graph Neural Network with Homophily and Heterophily Interaction-Decoupling**|K. Mancini et.al.|[2409.19616v1](http://arxiv.org/abs/2409.19616v1)|**[link](https://github.com/basiralab/duognn)**|
 |**2024-09-29**|**MASKDROID: Robust Android Malware Detection with Masked Graph Representations**|Jingnan Zheng et.al.|[2409.19594v1](http://arxiv.org/abs/2409.19594v1)|null|
 |**2024-09-29**|**One Node Per User: Node-Level Federated Learning for Graph Neural Networks**|Zhidong Gao et.al.|[2409.19513v1](http://arxiv.org/abs/2409.19513v1)|null|
 |**2024-09-28**|**Sequential Signal Mixing Aggregation for Message Passing Graph Neural Networks**|Mitchell Keren Taraday et.al.|[2409.19414v1](http://arxiv.org/abs/2409.19414v1)|null|
