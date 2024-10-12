@@ -26,7 +26,7 @@
 |**2024-10-10**|**Unsupervised Data Validation Methods for Efficient Model Training**|Yurii Paniv et.al.|[2410.07880v1](http://arxiv.org/abs/2410.07880v1)|null|
 |**2024-10-10**|**Why do objects have many names? A study on word informativeness in language use and lexical systems**|Eleonora Gualdoni et.al.|[2410.07827v1](http://arxiv.org/abs/2410.07827v1)|null|
 |**2024-10-10**|**MKGL: Mastery of a Three-Word Language**|Lingbing Guo et.al.|[2410.07526v1](http://arxiv.org/abs/2410.07526v1)|null|
-|**2024-10-10**|**Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)**|Abhijit Mishra et.al.|[2410.07507v1](http://arxiv.org/abs/2410.07507v1)|null|
+|**2024-10-10**|**Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)**|Abhijit Mishra et.al.|[2410.07507v1](http://arxiv.org/abs/2410.07507v1)|**[link](https://github.com/abhijitmishra/Thought2Text)**|
 |**2024-10-09**|**A Generalization Bound for a Family of Implicit Networks**|Samy Wu Fung et.al.|[2410.07427v1](http://arxiv.org/abs/2410.07427v1)|null|
 |**2024-10-09**|**Towards Generalisable Time Series Understanding Across Domains**|Özgün Turgut et.al.|[2410.07299v1](http://arxiv.org/abs/2410.07299v1)|null|
 |**2024-10-09**|**What Makes Programmers Laugh? Exploring the Subreddit r/ProgrammerHumor**|Miikka Kuutila et.al.|[2410.07020v1](http://arxiv.org/abs/2410.07020v1)|null|
