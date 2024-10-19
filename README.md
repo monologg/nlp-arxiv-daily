@@ -22,7 +22,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-17**|**$γ-$ MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models**|Yaxin Luo et.al.|[2410.13859v1](http://arxiv.org/abs/2410.13859v1)|null|
-|**2024-10-17**|**Analyzing Deep Transformer Models for Time Series Forecasting via Manifold Learning**|Ilya Kaufman et.al.|[2410.13792v1](http://arxiv.org/abs/2410.13792v1)|null|
+|**2024-10-17**|**Analyzing Deep Transformer Models for Time Series Forecasting via Manifold Learning**|Ilya Kaufman et.al.|[2410.13792v1](http://arxiv.org/abs/2410.13792v1)|**[link](https://github.com/azencot-group/gatlm)**|
 |**2024-10-17**|**GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning**|Guibin Zhang et.al.|[2410.13761v1](http://arxiv.org/abs/2410.13761v1)|**[link](https://github.com/ins1stenc3/gder)**|
 |**2024-10-17**|**Reducing the Transformer Architecture to a Minimum**|Bernhard Bermeitinger et.al.|[2410.13732v1](http://arxiv.org/abs/2410.13732v1)|null|
 |**2024-10-17**|**A new approach for fine-tuning sentence transformers for intent classification and out-of-scope detection tasks**|Tianyi Zhang et.al.|[2410.13649v1](http://arxiv.org/abs/2410.13649v1)|**[link](https://github.com/slanglab-nu/autoencoder-oos)**|
@@ -3580,7 +3580,7 @@
 |**2024-10-17**|**Retrieval-Enhanced Named Entity Recognition**|Enzo Shiraishi et.al.|[2410.13118v1](http://arxiv.org/abs/2410.13118v1)|null|
 |**2024-10-10**|**The Large Language Model GreekLegalRoBERTa**|Vasileios Saketos et.al.|[2410.12852v1](http://arxiv.org/abs/2410.12852v1)|null|
 |**2024-10-16**|**Comparative Analysis of Extrinsic Factors for NER in French**|Grace Yang et.al.|[2410.12750v1](http://arxiv.org/abs/2410.12750v1)|null|
-|**2024-10-15**|**Skill-LLM: Repurposing General-Purpose LLMs for Skill Extraction**|Amirhossein Herandi et.al.|[2410.12052v1](http://arxiv.org/abs/2410.12052v1)|null|
+|**2024-10-15**|**Skill-LLM: Repurposing General-Purpose LLMs for Skill Extraction**|Amirhossein Herandi et.al.|[2410.12052v1](http://arxiv.org/abs/2410.12052v1)|**[link](https://github.com/herandy/Skill-LLM)**|
 |**2024-10-16**|**Enhancing Assamese NLP Capabilities: Introducing a Centralized Dataset Repository**|S. Tamang et.al.|[2410.11291v2](http://arxiv.org/abs/2410.11291v2)|**[link](https://github.com/indian-nlp/assamese-dataset)**|
 |**2024-10-11**|**Long Range Named Entity Recognition for Marathi Documents**|Pranita Deshmukh et.al.|[2410.09192v1](http://arxiv.org/abs/2410.09192v1)|null|
 |**2024-10-10**|**Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions**|Kuleen Sasse et.al.|[2410.07951v1](http://arxiv.org/abs/2410.07951v1)|null|
@@ -5502,7 +5502,7 @@
 |**2024-10-17**|**Enhancing Sentiment Analysis with Collaborative AI: Architecture, Predictions, and Deployment Strategies**|Chaofeng Zhang et.al.|[2410.13247v1](http://arxiv.org/abs/2410.13247v1)|null|
 |**2024-10-16**|**PromptExp: Multi-granularity Prompt Explanation of Large Language Models**|Ximing Dong et.al.|[2410.13073v1](http://arxiv.org/abs/2410.13073v1)|null|
 |**2024-10-16**|**ERAS: Evaluating the Robustness of Chinese NLP Models to Morphological Garden Path Errors**|Qinchan Li et.al.|[2410.13057v1](http://arxiv.org/abs/2410.13057v1)|null|
-|**2024-10-16**|**Sarcasm Detection in a Less-Resourced Language**|Lazar Đoković et.al.|[2410.12704v1](http://arxiv.org/abs/2410.12704v1)|null|
+|**2024-10-16**|**Sarcasm Detection in a Less-Resourced Language**|Lazar Đoković et.al.|[2410.12704v1](http://arxiv.org/abs/2410.12704v1)|**[link](https://github.com/GalaxyGHz/Diploma)**|
 |**2024-10-16**|**Advancing Fairness in Natural Language Processing: From Traditional Methods to Explainability**|Fanny Jourdan et.al.|[2410.12511v1](http://arxiv.org/abs/2410.12511v1)|null|
 |**2024-10-16**|**Unifying Economic and Language Models for Enhanced Sentiment Analysis of the Oil Market**|Himmet Kaplan et.al.|[2410.12473v1](http://arxiv.org/abs/2410.12473v1)|null|
 |**2024-10-15**|**Reducing Labeling Costs in Sentiment Analysis via Semi-Supervised Learning**|Minoo Jafarlou et.al.|[2410.11355v1](http://arxiv.org/abs/2410.11355v1)|null|
@@ -6379,16 +6379,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-17**|**Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?**|Shailaja Keyur Sampat et.al.|[2410.13651v1](http://arxiv.org/abs/2410.13651v1)|null|
+|**2024-10-17**|**Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?**|Shailaja Keyur Sampat et.al.|[2410.13651v1](http://arxiv.org/abs/2410.13651v1)|**[link](https://github.com/shailaja183/objectconceptlearning)**|
 |**2024-10-17**|**RescueADI: Adaptive Disaster Interpretation in Remote Sensing Images with Autonomous Agents**|Zhuoran Liu et.al.|[2410.13384v1](http://arxiv.org/abs/2410.13384v1)|null|
-|**2024-10-17**|**Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant**|Haoran Hao et.al.|[2410.13360v1](http://arxiv.org/abs/2410.13360v1)|null|
+|**2024-10-17**|**Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant**|Haoran Hao et.al.|[2410.13360v1](http://arxiv.org/abs/2410.13360v1)|**[link](https://github.com/hoar012/rap-mllm)**|
 |**2024-10-17**|**Advancing Large Language Model Attribution through Self-Improving**|Lei Huang et.al.|[2410.13298v1](http://arxiv.org/abs/2410.13298v1)|null|
 |**2024-10-17**|**BQA: Body Language Question Answering Dataset for Video Large Language Models**|Shintaro Ozaki et.al.|[2410.13206v1](http://arxiv.org/abs/2410.13206v1)|null|
 |**2024-10-17**|**Measuring Free-Form Decision-Making Inconsistency of Language Models in Military Crisis Simulations**|Aryan Shrivastava et.al.|[2410.13204v1](http://arxiv.org/abs/2410.13204v1)|**[link](https://github.com/aashrivastava/llmwargaminginconsistency)**|
 |**2024-10-17**|**AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning**|Hao Sun et.al.|[2410.13181v1](http://arxiv.org/abs/2410.13181v1)|null|
 |**2024-10-17**|**Trust but Verify: Programmatic VLM Evaluation in the Wild**|Viraj Prabhu et.al.|[2410.13121v1](http://arxiv.org/abs/2410.13121v1)|null|
 |**2024-10-17**|**A Little Human Data Goes A Long Way**|Dhananjay Ashok et.al.|[2410.13098v1](http://arxiv.org/abs/2410.13098v1)|**[link](https://github.com/dhananjayashok/littlehumandata)**|
-|**2024-10-16**|**LEGAL-UQA: A Low-Resource Urdu-English Dataset for Legal Question Answering**|Faizan Faisal et.al.|[2410.13013v1](http://arxiv.org/abs/2410.13013v1)|null|
+|**2024-10-16**|**LEGAL-UQA: A Low-Resource Urdu-English Dataset for Legal Question Answering**|Faizan Faisal et.al.|[2410.13013v1](http://arxiv.org/abs/2410.13013v1)|**[link](https://github.com/nlp-anonymous-researcher/legal-uqa)**|
 |**2024-10-16**|**Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception**|Jihao Zhao et.al.|[2410.12788v1](http://arxiv.org/abs/2410.12788v1)|null|
 |**2024-10-16**|**WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines**|Genta Indra Winata et.al.|[2410.12705v1](http://arxiv.org/abs/2410.12705v1)|null|
 |**2024-10-16**|**VividMed: Vision Language Model with Versatile Visual Grounding for Medicine**|Lingxiao Luo et.al.|[2410.12694v1](http://arxiv.org/abs/2410.12694v1)|null|
@@ -13725,7 +13725,7 @@
 |**2024-10-17**|**GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning**|Guibin Zhang et.al.|[2410.13761v1](http://arxiv.org/abs/2410.13761v1)|**[link](https://github.com/ins1stenc3/gder)**|
 |**2024-10-17**|**Observation of a rare beta decay of the charmed baryon with a Graph Neural Network**|BESIII Collaboration et.al.|[2410.13515v1](http://arxiv.org/abs/2410.13515v1)|null|
 |**2024-10-17**|**CERES: Critical-Event Reconstruction via Temporal Scene Graph Completion**|Efimia Panagiotaki et.al.|[2410.13514v1](http://arxiv.org/abs/2410.13514v1)|null|
-|**2024-10-17**|**Interpreting Temporal Graph Neural Networks with Koopman Theory**|Michele Guerra et.al.|[2410.13469v1](http://arxiv.org/abs/2410.13469v1)|null|
+|**2024-10-17**|**Interpreting Temporal Graph Neural Networks with Koopman Theory**|Michele Guerra et.al.|[2410.13469v1](http://arxiv.org/abs/2410.13469v1)|**[link](https://github.com/ngmlgroup/koopman-tgnn-interpretability)**|
 |**2024-10-17**|**Multi-frame Detection via Graph Neural Networks: A Link Prediction Approach**|Zhihao Lin et.al.|[2410.13436v1](http://arxiv.org/abs/2410.13436v1)|null|
 |**2024-10-17**|**Addressing Heterogeneity and Heterophily in Graphs: A Heterogeneous Heterophilic Spectral Graph Neural Network**|Kangkang Lu et.al.|[2410.13373v1](http://arxiv.org/abs/2410.13373v1)|null|
 |**2024-10-17**|**GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation**|Ziwei Yang et.al.|[2410.13178v1](http://arxiv.org/abs/2410.13178v1)|null|
