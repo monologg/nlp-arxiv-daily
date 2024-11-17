@@ -3734,7 +3734,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599v1](http://arxiv.org/abs/2411.08599v1)|**[link](https://github.com/XGenerationLab/XiYan-SQL)**|
+|**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599v1](http://arxiv.org/abs/2411.08599v1)|**[link](https://github.com/XGenerationLab/M-Schema)**|
 |**2024-11-07**|**A Brief History of Named Entity Recognition**|Monica Munnangi et.al.|[2411.05057v1](http://arxiv.org/abs/2411.05057v1)|null|
 |**2024-11-07**|**When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun**|Seyoung Song et.al.|[2411.04822v1](http://arxiv.org/abs/2411.04822v1)|**[link](https://github.com/seyoungsong/classical-chinese-transfer)**|
 |**2024-11-05**|**Exploring the Benefits of Domain-Pretraining of Generative Large Language Models for Chemistry**|Anurag Acharya et.al.|[2411.03542v1](http://arxiv.org/abs/2411.03542v1)|null|
