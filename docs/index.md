@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Yankari: A Monolingual Yoruba Dataset**|Maro Akpobi et.al.|[2412.03334v1](http://arxiv.org/abs/2412.03334v1)|null|
+|**2024-12-04**|**LuxEmbedder: A Cross-Lingual Approach to Enhanced Luxembourgish Sentence Embeddings**|Fred Philippy et.al.|[2412.03331v1](http://arxiv.org/abs/2412.03331v1)|null|
+|**2024-12-04**|**DMP_AI: An AI-Aided K-12 System for Teaching and Learning in Diverse Schools**|Zhen-Qun Yang et.al.|[2412.03292v1](http://arxiv.org/abs/2412.03292v1)|null|
+|**2024-12-04**|**Sinkhorn Algorithm for Sequentially Composed Optimal Transports**|Kazuki Watanabe et.al.|[2412.03120v1](http://arxiv.org/abs/2412.03120v1)|null|
+|**2024-12-04**|**CredID: Credible Multi-Bit Watermark for Large Language Models Identification**|Haoyu Jiang et.al.|[2412.03107v1](http://arxiv.org/abs/2412.03107v1)|null|
+|**2024-12-04**|**Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization**|Peiyan Zhang et.al.|[2412.03092v1](http://arxiv.org/abs/2412.03092v1)|**[link](https://github.com/peiyance/revolve)**|
+|**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075v1](http://arxiv.org/abs/2412.03075v1)|null|
+|**2024-12-03**|**Enhancing Trust in Large Language Models with Uncertainty-Aware Fine-Tuning**|Ranganath Krishnan et.al.|[2412.02904v1](http://arxiv.org/abs/2412.02904v1)|null|
+|**2024-12-03**|**MLD-EA: Check and Complete Narrative Coherence by Introducing Emotions and Actions**|Jinming Zhang et.al.|[2412.02897v1](http://arxiv.org/abs/2412.02897v1)|null|
+|**2024-12-03**|**Were You Helpful -- Predicting Helpful Votes from Amazon Reviews**|Emin Kirimlioglu et.al.|[2412.02884v1](http://arxiv.org/abs/2412.02884v1)|null|
 |**2024-12-03**|**Semantic Tokens in Retrieval Augmented Generation**|Joel Suro et.al.|[2412.02563v1](http://arxiv.org/abs/2412.02563v1)|null|
 |**2024-12-03**|**Pay Attention to the Robustness of Chinese Minority Language Models! Syllable-level Textual Adversarial Attack on Tibetan Script**|Xi Cao et.al.|[2412.02323v1](http://arxiv.org/abs/2412.02323v1)|null|
 |**2024-12-03**|**A Comprehensive Evaluation of Large Language Models on Aspect-Based Sentiment Analysis**|Changzhi Zhou et.al.|[2412.02279v1](http://arxiv.org/abs/2412.02279v1)|null|
@@ -5870,6 +5880,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Were You Helpful -- Predicting Helpful Votes from Amazon Reviews**|Emin Kirimlioglu et.al.|[2412.02884v1](http://arxiv.org/abs/2412.02884v1)|null|
 |**2024-12-03**|**Multi-Granularity Tibetan Textual Adversarial Attack Method Based on Masked Language Model**|Xi Cao et.al.|[2412.02343v1](http://arxiv.org/abs/2412.02343v1)|null|
 |**2024-12-03**|**A Comprehensive Evaluation of Large Language Models on Aspect-Based Sentiment Analysis**|Changzhi Zhou et.al.|[2412.02279v1](http://arxiv.org/abs/2412.02279v1)|null|
 |**2024-12-02**|**Explaining the Unexplained: Revealing Hidden Correlations for Better Interpretability**|Wen-Dong Jiang et.al.|[2412.01365v1](http://arxiv.org/abs/2412.01365v1)|null|
@@ -6820,6 +6831,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**RedStone: Curating General, Code, Math, and QA Data for Large Language Models**|Yaoyao Chang et.al.|[2412.03398v1](http://arxiv.org/abs/2412.03398v1)|null|
+|**2024-12-04**|**Survey of different Large Language Model Architectures: Trends, Benchmarks, and Challenges**|Minghao Shao et.al.|[2412.03220v1](http://arxiv.org/abs/2412.03220v1)|null|
+|**2024-12-04**|**Geodesic Trees and Exceptional Directions in FPP on Hyperbolic Groups**|Riddhipratim Basu et.al.|[2412.03067v1](http://arxiv.org/abs/2412.03067v1)|null|
+|**2024-12-03**|**Enhancing Trust in Large Language Models with Uncertainty-Aware Fine-Tuning**|Ranganath Krishnan et.al.|[2412.02904v1](http://arxiv.org/abs/2412.02904v1)|null|
+|**2024-12-03**|**MLD-EA: Check and Complete Narrative Coherence by Introducing Emotions and Actions**|Jinming Zhang et.al.|[2412.02897v1](http://arxiv.org/abs/2412.02897v1)|null|
+|**2024-12-03**|**CAISSON: Concept-Augmented Inference Suite of Self-Organizing Neural Networks**|Igor Halperin et.al.|[2412.02835v1](http://arxiv.org/abs/2412.02835v1)|null|
+|**2024-12-03**|**An Evolutionary Large Language Model for Hallucination Mitigation**|Abdennour Boulesnane et.al.|[2412.02790v1](http://arxiv.org/abs/2412.02790v1)|null|
+|**2024-12-03**|**Hybrid-SQuAD: Hybrid Scholarly Question Answering Dataset**|Tilahun Abedissa Taffa et.al.|[2412.02788v1](http://arxiv.org/abs/2412.02788v1)|null|
 |**2024-12-03**|**QA-TOOLBOX: Conversational Question-Answering for process task guidance in manufacturing**|Ramesh Manuvinakurike et.al.|[2412.02638v1](http://arxiv.org/abs/2412.02638v1)|null|
 |**2024-12-03**|**GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot**|Aohan Zeng et.al.|[2412.02612v1](http://arxiv.org/abs/2412.02612v1)|**[link](https://github.com/thudm/glm-4-voice)**|
 |**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|Abhas Kumar et.al.|[2412.02602v1](http://arxiv.org/abs/2412.02602v1)|null|
@@ -9708,6 +9727,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Optimal estimation of three parallel spins with genuine and restricted collective measurements**|Changhao Yi et.al.|[2412.03383v1](http://arxiv.org/abs/2412.03383v1)|null|
+|**2024-12-04**|**Fab-ME: A Vision State-Space and Attention-Enhanced Framework for Fabric Defect Detection**|Shuai Wang et.al.|[2412.03200v1](http://arxiv.org/abs/2412.03200v1)|null|
+|**2024-12-04**|**Expanding Event Modality Applications through a Robust CLIP-Based Encoder**|Sungheon Jeong et.al.|[2412.03093v1](http://arxiv.org/abs/2412.03093v1)|null|
+|**2024-12-03**|**Patchfinder: Leveraging Visual Language Models for Accurate Information Retrieval using Model Uncertainty**|Roman Colman et.al.|[2412.02886v1](http://arxiv.org/abs/2412.02886v1)|null|
+|**2024-12-03**|**A Novel Compact LLM Framework for Local, High-Privacy EHR Data Applications**|Yixiang Qu et.al.|[2412.02868v1](http://arxiv.org/abs/2412.02868v1)|null|
 |**2024-12-03**|**CubeFormer: A Simple yet Effective Baseline for Lightweight Image Super-Resolution**|Jikai Wang et.al.|[2412.02234v1](http://arxiv.org/abs/2412.02234v1)|null|
 |**2024-12-03**|**CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**|Zhibo Yang et.al.|[2412.02210v1](http://arxiv.org/abs/2412.02210v1)|null|
 |**2024-12-02**|**Multimodal Medical Disease Classification with LLaMA II**|Christian Gapp et.al.|[2412.01306v1](http://arxiv.org/abs/2412.01306v1)|null|
@@ -10749,6 +10773,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**LuxEmbedder: A Cross-Lingual Approach to Enhanced Luxembourgish Sentence Embeddings**|Fred Philippy et.al.|[2412.03331v1](http://arxiv.org/abs/2412.03331v1)|null|
+|**2024-12-04**|**Enhancing Recommendation Systems with GNNs and Addressing Over-Smoothing**|Wenyi Liu et.al.|[2412.03097v1](http://arxiv.org/abs/2412.03097v1)|null|
 |**2024-12-03**|**Explainable CTR Prediction via LLM Reasoning**|Xiaohan Yu et.al.|[2412.02588v1](http://arxiv.org/abs/2412.02588v1)|null|
 |**2024-12-03**|**Knowledge-Enhanced Conversational Recommendation via Transformer-based Sequential Modelling**|Jie Zou et.al.|[2412.02415v1](http://arxiv.org/abs/2412.02415v1)|null|
 |**2024-12-03**|**CADMR: Cross-Attention and Disentangled Learning for Multimodal Recommender Systems**|Yasser Khalafaoui et.al.|[2412.02295v1](http://arxiv.org/abs/2412.02295v1)|null|
@@ -12936,6 +12962,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Learning Semantic Association Rules from Internet of Things Data**|Erkan Karabulut et.al.|[2412.03417v1](http://arxiv.org/abs/2412.03417v1)|null|
+|**2024-12-04**|**Enhancing Supply Chain Visibility with Generative AI: An Exploratory Case Study on Relationship Prediction in Knowledge Graphs**|Ge Zheng et.al.|[2412.03390v1](http://arxiv.org/abs/2412.03390v1)|null|
+|**2024-12-03**|**Hybrid-SQuAD: Hybrid Scholarly Question Answering Dataset**|Tilahun Abedissa Taffa et.al.|[2412.02788v1](http://arxiv.org/abs/2412.02788v1)|null|
 |**2024-12-03**|**Knowledge-Enhanced Conversational Recommendation via Transformer-based Sequential Modelling**|Jie Zou et.al.|[2412.02415v1](http://arxiv.org/abs/2412.02415v1)|null|
 |**2024-12-01**|**Learn to Unlearn: Meta-Learning-Based Knowledge Graph Embedding Unlearning**|Naixing Xu et.al.|[2412.00881v1](http://arxiv.org/abs/2412.00881v1)|null|
 |**2024-12-01**|**SelfPrompt: Autonomously Evaluating LLM Robustness via Domain-Constrained Knowledge Guidelines and Refined Adversarial Prompts**|Aihua Pei et.al.|[2412.00765v1](http://arxiv.org/abs/2412.00765v1)|null|
@@ -14700,6 +14729,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Dielectric tensor of perovskite oxides at finite temperature using equivariant graph neural network potentials**|Alex Kutana et.al.|[2412.03541v1](http://arxiv.org/abs/2412.03541v1)|null|
+|**2024-12-04**|**Contextual Data Integration for Bike-sharing Demand Prediction with Graph Neural Networks in Degraded Weather Conditions**|Romain Rochas et.al.|[2412.03307v1](http://arxiv.org/abs/2412.03307v1)|null|
+|**2024-12-04**|**Node Classification With Integrated Reject Option**|Uday Bhaskar et.al.|[2412.03190v1](http://arxiv.org/abs/2412.03190v1)|null|
+|**2024-12-04**|**Semi-decentralized Training of Spatio-Temporal Graph Neural Networks for Traffic Prediction**|Ivan Kralj et.al.|[2412.03188v1](http://arxiv.org/abs/2412.03188v1)|null|
+|**2024-12-04**|**Enhancing Recommendation Systems with GNNs and Addressing Over-Smoothing**|Wenyi Liu et.al.|[2412.03097v1](http://arxiv.org/abs/2412.03097v1)|null|
+|**2024-12-04**|**A Graph Neural Network Approach to Dispersed Systems**|Aref Hashemi et.al.|[2412.02967v1](http://arxiv.org/abs/2412.02967v1)|null|
+|**2024-12-03**|**CuXASNet: Rapid and Accurate Prediction of Copper L-edge X-Ray Absorption Spectra Using Machine Learning**|Samuel P. Gleason et.al.|[2412.02916v1](http://arxiv.org/abs/2412.02916v1)|null|
+|**2024-12-03**|**Geographical Information Alignment Boosts Traffic Analysis via Transpose Cross-attention**|Xiangyu Jiang et.al.|[2412.02839v1](http://arxiv.org/abs/2412.02839v1)|null|
 |**2024-12-03**|**MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images**|Aniruddha Ganguly et.al.|[2412.02601v1](http://arxiv.org/abs/2412.02601v1)|null|
 |**2024-12-03**|**Mobile Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning: A Scalable Framework**|Ziheng Liu et.al.|[2412.02581v1](http://arxiv.org/abs/2412.02581v1)|null|
 |**2024-12-03**|**An Automated Data Mining Framework Using Autoencoders for Feature Extraction and Dimensionality Reduction**|Yaxin Liang et.al.|[2412.02211v1](http://arxiv.org/abs/2412.02211v1)|null|
