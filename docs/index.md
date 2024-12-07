@@ -4535,12 +4535,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**Demonstration Selection for In-Context Learning via Reinforcement Learning**|Xubin Wang et.al.|[2412.03966v1](http://arxiv.org/abs/2412.03966v1)|null|
 |**2024-12-04**|**Language Model Meets Prototypes: Towards Interpretable Text Classification Models through Prototypical Networks**|Ximing Wen et.al.|[2412.03761v1](http://arxiv.org/abs/2412.03761v1)|null|
-|**2024-12-03**|**Multi-Granularity Tibetan Textual Adversarial Attack Method Based on Masked Language Model**|Xi Cao et.al.|[2412.02343v1](http://arxiv.org/abs/2412.02343v1)|null|
+|**2024-12-03**|**Multi-Granularity Tibetan Textual Adversarial Attack Method Based on Masked Language Model**|Xi Cao et.al.|[2412.02343v1](http://arxiv.org/abs/2412.02343v1)|**[link](https://github.com/UTibetNLP/TSTricker)**|
 |**2024-12-05**|**Concept Based Continuous Prompts for Interpretable Text Classification**|Qian Chen et.al.|[2412.01644v2](http://arxiv.org/abs/2412.01644v2)|**[link](https://github.com/qq31415926/cd)**|
 |**2024-12-02**|**NYT-Connections: A Deceptively Simple Text Classification Task that Stumps System-1 Thinkers**|Angel Yahir Loredo Lopez et.al.|[2412.01621v1](http://arxiv.org/abs/2412.01621v1)|null|
 |**2024-12-02**|**Explaining the Unexplained: Revealing Hidden Correlations for Better Interpretability**|Wen-Dong Jiang et.al.|[2412.01365v1](http://arxiv.org/abs/2412.01365v1)|null|
-|**2024-12-01**|**Lightweight Contenders: Navigating Semi-Supervised Text Mining through Peer Collaboration and Self Transcendence**|Qianren Mao et.al.|[2412.00883v1](http://arxiv.org/abs/2412.00883v1)|null|
-|**2024-11-30**|**TextClass Benchmark: A Continuous Elo Rating of LLMs in Social Sciences**|Bastián González-Bustamante et.al.|[2412.00539v1](http://arxiv.org/abs/2412.00539v1)|null|
+|**2024-12-01**|**Lightweight Contenders: Navigating Semi-Supervised Text Mining through Peer Collaboration and Self Transcendence**|Qianren Mao et.al.|[2412.00883v1](http://arxiv.org/abs/2412.00883v1)|**[link](https://github.com/LiteSSLHub/PSNET)**|
+|**2024-11-30**|**TextClass Benchmark: A Continuous Elo Rating of LLMs in Social Sciences**|Bastián González-Bustamante et.al.|[2412.00539v1](http://arxiv.org/abs/2412.00539v1)|**[link](https://github.com/bgonzalezbustamante/TextClass-Benchmark)**|
 |**2024-11-29**|**To Ensemble or Not: Assessing Majority Voting Strategies for Phishing Detection with Large Language Models**|Fouad Trad et.al.|[2412.00166v1](http://arxiv.org/abs/2412.00166v1)|null|
 |**2024-11-29**|**LLM Teacher-Student Framework for Text Classification With No Manually Annotated Data: A Case Study in IPTC News Topic Classification**|Taja Kuzman et.al.|[2411.19638v1](http://arxiv.org/abs/2411.19638v1)|**[link](https://github.com/TajaKuzman/IPTC-Media-Topic-Classification)**|
 |**2024-11-28**|**Consolidating and Developing Benchmarking Datasets for the Nepali Natural Language Understanding Tasks**|Jinu Nyachhyon et.al.|[2411.19244v1](http://arxiv.org/abs/2411.19244v1)|null|
@@ -5896,7 +5896,7 @@ layout: default
 |**2024-12-05**|**Fine-Grained Sentiment Analysis of Electric Vehicle User Reviews: A Bidirectional LSTM Approach to Capturing Emotional Intensity in Chinese Text**|Shuhao Chen et.al.|[2412.03873v1](http://arxiv.org/abs/2412.03873v1)|null|
 |**2024-12-04**|**Multimodal Sentiment Analysis Based on BERT and ResNet**|JiaLe Ren et.al.|[2412.03625v1](http://arxiv.org/abs/2412.03625v1)|null|
 |**2024-12-03**|**Were You Helpful -- Predicting Helpful Votes from Amazon Reviews**|Emin Kirimlioglu et.al.|[2412.02884v1](http://arxiv.org/abs/2412.02884v1)|null|
-|**2024-12-03**|**Multi-Granularity Tibetan Textual Adversarial Attack Method Based on Masked Language Model**|Xi Cao et.al.|[2412.02343v1](http://arxiv.org/abs/2412.02343v1)|null|
+|**2024-12-03**|**Multi-Granularity Tibetan Textual Adversarial Attack Method Based on Masked Language Model**|Xi Cao et.al.|[2412.02343v1](http://arxiv.org/abs/2412.02343v1)|**[link](https://github.com/UTibetNLP/TSTricker)**|
 |**2024-12-03**|**A Comprehensive Evaluation of Large Language Models on Aspect-Based Sentiment Analysis**|Changzhi Zhou et.al.|[2412.02279v1](http://arxiv.org/abs/2412.02279v1)|null|
 |**2024-12-02**|**Explaining the Unexplained: Revealing Hidden Correlations for Better Interpretability**|Wen-Dong Jiang et.al.|[2412.01365v1](http://arxiv.org/abs/2412.01365v1)|null|
 |**2024-12-02**|**Data Uncertainty-Aware Learning for Multimodal Aspect-based Sentiment Analysis**|Hao Yang et.al.|[2412.01249v1](http://arxiv.org/abs/2412.01249v1)|null|
@@ -9755,7 +9755,7 @@ layout: default
 |**2024-12-05**|**Diagnosing Systematic Effects Using the Inferred Initial Power Spectrum**|Tristan Hoellinger et.al.|[2412.04443v1](http://arxiv.org/abs/2412.04443v1)|null|
 |**2024-12-05**|**Boundary-Guided Learning for Gene Expression Prediction in Spatial Transcriptomics**|Mingcheng Qu et.al.|[2412.04072v1](http://arxiv.org/abs/2412.04072v1)|null|
 |**2024-12-05**|**M $^{3}$ D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction**|Jiang Liu et.al.|[2412.04026v1](http://arxiv.org/abs/2412.04026v1)|null|
-|**2024-12-05**|**Dual-Branch Subpixel-Guided Network for Hyperspectral Image Classification**|Zhu Han et.al.|[2412.03893v1](http://arxiv.org/abs/2412.03893v1)|null|
+|**2024-12-05**|**Dual-Branch Subpixel-Guided Network for Hyperspectral Image Classification**|Zhu Han et.al.|[2412.03893v1](http://arxiv.org/abs/2412.03893v1)|**[link](https://github.com/hanzhu97702/dsnet)**|
 |**2024-12-05**|**Meta-Reinforcement Learning With Mixture of Experts for Generalizable Multi Access in Heterogeneous Wireless Networks**|Zhaoyang Liu et.al.|[2412.03850v1](http://arxiv.org/abs/2412.03850v1)|null|
 |**2024-12-04**|**Optimal estimation of three parallel spins with genuine and restricted collective measurements**|Changhao Yi et.al.|[2412.03383v1](http://arxiv.org/abs/2412.03383v1)|null|
 |**2024-12-05**|**Fab-ME: A Vision State-Space and Attention-Enhanced Framework for Fabric Defect Detection**|Shuai Wang et.al.|[2412.03200v2](http://arxiv.org/abs/2412.03200v2)|null|
@@ -10804,10 +10804,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**User-item fairness tradeoffs in recommendations**|Sophie Greenwood et.al.|[2412.04466v1](http://arxiv.org/abs/2412.04466v1)|null|
-|**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276v1](http://arxiv.org/abs/2412.04276v1)|null|
+|**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276v1](http://arxiv.org/abs/2412.04276v1)|**[link](https://github.com/yuweicao-uic/gsau)**|
 |**2024-12-05**|**Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models**|Yuhao Wang et.al.|[2412.04107v1](http://arxiv.org/abs/2412.04107v1)|null|
 |**2024-12-05**|**Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation**|Weihua Wang et.al.|[2412.04076v1](http://arxiv.org/abs/2412.04076v1)|null|
-|**2024-12-05**|**Learning to Hash for Recommendation: A Survey**|Fangyuan Luo et.al.|[2412.03875v1](http://arxiv.org/abs/2412.03875v1)|null|
+|**2024-12-05**|**Learning to Hash for Recommendation: A Survey**|Fangyuan Luo et.al.|[2412.03875v1](http://arxiv.org/abs/2412.03875v1)|**[link](https://github.com/luo-fangyuan/hashrec)**|
 |**2024-12-04**|**Recommender Systems for Sustainability: Overview and Research Issues**|Alexander Felfernig et.al.|[2412.03620v1](http://arxiv.org/abs/2412.03620v1)|null|
 |**2024-12-05**|**LuxEmbedder: A Cross-Lingual Approach to Enhanced Luxembourgish Sentence Embeddings**|Fred Philippy et.al.|[2412.03331v2](http://arxiv.org/abs/2412.03331v2)|**[link](https://github.com/fredxlpy/luxembedder)**|
 |**2024-12-04**|**Enhancing Recommendation Systems with GNNs and Addressing Over-Smoothing**|Wenyi Liu et.al.|[2412.03097v1](http://arxiv.org/abs/2412.03097v1)|null|
@@ -14772,10 +14772,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters**|Hongyu Yan et.al.|[2412.04442v1](http://arxiv.org/abs/2412.04442v1)|null|
 |**2024-12-05**|**Machine Theory of Mind for Autonomous Cyber-Defence**|Luke Swaby et.al.|[2412.04367v1](http://arxiv.org/abs/2412.04367v1)|null|
-|**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276v1](http://arxiv.org/abs/2412.04276v1)|null|
+|**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276v1](http://arxiv.org/abs/2412.04276v1)|**[link](https://github.com/yuweicao-uic/gsau)**|
 |**2024-12-05**|**Graph Neural Networks Need Cluster-Normalize-Activate Modules**|Arseny Skryagin et.al.|[2412.04064v1](http://arxiv.org/abs/2412.04064v1)|null|
 |**2024-12-05**|**Graph Disentangle Causal Model: Enhancing Causal Inference in Networked Observational Data**|Binbin Hu et.al.|[2412.03913v1](http://arxiv.org/abs/2412.03913v1)|null|
-|**2024-12-05**|**Training MLPs on Graphs without Supervision**|Zehong Wang et.al.|[2412.03864v1](http://arxiv.org/abs/2412.03864v1)|null|
+|**2024-12-05**|**Training MLPs on Graphs without Supervision**|Zehong Wang et.al.|[2412.03864v1](http://arxiv.org/abs/2412.03864v1)|**[link](https://github.com/zehong-wang/simmlp)**|
 |**2024-12-05**|**Expressivity of Representation Learning on Continuous-Time Dynamic Graphs: An Information-Flow Centric Review**|Sofiane Ennadir et.al.|[2412.03783v1](http://arxiv.org/abs/2412.03783v1)|null|
 |**2024-12-04**|**Language Model Meets Prototypes: Towards Interpretable Text Classification Models through Prototypical Networks**|Ximing Wen et.al.|[2412.03761v1](http://arxiv.org/abs/2412.03761v1)|null|
 |**2024-12-04**|**Explainable Malware Detection through Integrated Graph Reduction and Learning Techniques**|Hesamodin Mohammadian et.al.|[2412.03634v1](http://arxiv.org/abs/2412.03634v1)|null|
