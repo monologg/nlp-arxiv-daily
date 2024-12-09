@@ -25,6 +25,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Project Report: Requirements for a Social Robot as an Information Provider in the Public Sector**|Thomas Sievers et.al.|[2412.05013v1](http://arxiv.org/abs/2412.05013v1)|null|
+|**2024-12-06**|**Probing the contents of semantic representations from text, behavior, and brain data using the psychNorms metabase**|Zak Hussain et.al.|[2412.04936v1](http://arxiv.org/abs/2412.04936v1)|**[link](https://github.com/zak-hussain/psychnorms)**|
+|**2024-12-06**|**$S^3$ : Synonymous Semantic Space for Improving Zero-Shot Generalization of Vision-Language Models**|Xiaojie Yin et.al.|[2412.04925v1](http://arxiv.org/abs/2412.04925v1)|null|
+|**2024-12-06**|**NLP-ADBench: NLP Anomaly Detection Benchmark**|Yuangang Li et.al.|[2412.04784v1](http://arxiv.org/abs/2412.04784v1)|**[link](https://github.com/usc-fortis/nlp-adbench)**|
+|**2024-12-06**|**Anomaly Detection and Classification in Knowledge Graphs**|Asara Senaratne et.al.|[2412.04780v1](http://arxiv.org/abs/2412.04780v1)|null|
+|**2024-12-06**|**Adaptive Optimization for Enhanced Efficiency in Large-Scale Language Model Training**|Jiajing Chen et.al.|[2412.04718v1](http://arxiv.org/abs/2412.04718v1)|null|
+|**2024-12-06**|**Superpixel Tokenization for Vision Transformers: Preserving Semantic Integrity in Visual Tokens**|Jaihyun Lew et.al.|[2412.04680v1](http://arxiv.org/abs/2412.04680v1)|null|
 |**2024-12-05**|**DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**|Yizhuo Li et.al.|[2412.04446v1](http://arxiv.org/abs/2412.04446v1)|null|
 |**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445v1](http://arxiv.org/abs/2412.04445v1)|null|
 |**2024-12-05**|**Arabic Stable LM: Adapting Stable LM 2 1.6B to Arabic**|Zaid Alyafeai et.al.|[2412.04277v1](http://arxiv.org/abs/2412.04277v1)|null|
@@ -5893,6 +5900,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.04913v1](http://arxiv.org/abs/2412.04913v1)|null|
+|**2024-12-06**|**PERCY: A Multimodal Dataset and Conversational System for Personalized and Emotionally Aware Human-Robot Interaction**|Mohammed Althubyani et.al.|[2412.04908v1](http://arxiv.org/abs/2412.04908v1)|null|
+|**2024-12-06**|**BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English**|Dipankar Srirag et.al.|[2412.04726v1](http://arxiv.org/abs/2412.04726v1)|null|
+|**2024-12-04**|**Pragmatic Metacognitive Prompting Improves LLM Performance on Sarcasm Detection**|Joshua Lee et.al.|[2412.04509v1](http://arxiv.org/abs/2412.04509v1)|null|
 |**2024-12-05**|**Fine-Grained Sentiment Analysis of Electric Vehicle User Reviews: A Bidirectional LSTM Approach to Capturing Emotional Intensity in Chinese Text**|Shuhao Chen et.al.|[2412.03873v1](http://arxiv.org/abs/2412.03873v1)|null|
 |**2024-12-04**|**Multimodal Sentiment Analysis Based on BERT and ResNet**|JiaLe Ren et.al.|[2412.03625v1](http://arxiv.org/abs/2412.03625v1)|null|
 |**2024-12-03**|**Were You Helpful -- Predicting Helpful Votes from Amazon Reviews**|Emin Kirimlioglu et.al.|[2412.02884v1](http://arxiv.org/abs/2412.02884v1)|null|
@@ -6846,6 +6857,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**CompCap: Improving Multimodal Large Language Models with Composite Captions**|Xiaohui Chen et.al.|[2412.05243v1](http://arxiv.org/abs/2412.05243v1)|null|
+|**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149v1](http://arxiv.org/abs/2412.05149v1)|null|
+|**2024-12-06**|**Steps are all you need: Rethinking STEM Education with Prompt Engineering**|Krishnasai Addala et.al.|[2412.05023v1](http://arxiv.org/abs/2412.05023v1)|null|
+|**2024-12-06**|**KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view Knowledge Graph Contrastive Learning**|Peng Yu et.al.|[2412.04948v1](http://arxiv.org/abs/2412.04948v1)|null|
+|**2024-12-06**|**EACO: Enhancing Alignment in Multimodal LLMs via Critical Observation**|Yongxin Wang et.al.|[2412.04903v1](http://arxiv.org/abs/2412.04903v1)|null|
+|**2024-12-06**|**Question Answering for Decisionmaking in Green Building Design: A Multimodal Data Reasoning Method Driven by Large Language Models**|Yihui Li et.al.|[2412.04741v1](http://arxiv.org/abs/2412.04741v1)|null|
+|**2024-12-05**|**Give me Some Hard Questions: Synthetic Data Generation for Clinical QA**|Fan Bai et.al.|[2412.04573v1](http://arxiv.org/abs/2412.04573v1)|null|
 |**2024-12-05**|**T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts**|Ziwei Huang et.al.|[2412.04300v1](http://arxiv.org/abs/2412.04300v1)|null|
 |**2024-12-05**|**SynFinTabs: A Dataset of Synthetic Financial Tables for Information and Table Extraction**|Ethan Bradley et.al.|[2412.04262v1](http://arxiv.org/abs/2412.04262v1)|**[link](https://github.com/ethanbradley/synfintabgen)**|
 |**2024-12-05**|**Addressing Hallucinations with RAG and NMISS in Italian Healthcare LLM Chatbots**|Maria Paola Priola et.al.|[2412.04235v1](http://arxiv.org/abs/2412.04235v1)|null|
@@ -10803,6 +10821,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**From Models to Systems: A Comprehensive Fairness Framework for Compositional Recommender Systems**|Brian Hsu et.al.|[2412.04655v1](http://arxiv.org/abs/2412.04655v1)|null|
+|**2024-12-05**|**Game-Theoretic Foundations for Cyber Resilience Against Deceptive Information Attacks in Intelligent Transportation Systems**|Ya-Ting Yang et.al.|[2412.04627v1](http://arxiv.org/abs/2412.04627v1)|null|
 |**2024-12-05**|**User-item fairness tradeoffs in recommendations**|Sophie Greenwood et.al.|[2412.04466v1](http://arxiv.org/abs/2412.04466v1)|**[link](https://github.com/vschiniah/ArXiv_Recommendation_Research)**|
 |**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276v1](http://arxiv.org/abs/2412.04276v1)|**[link](https://github.com/yuweicao-uic/gsau)**|
 |**2024-12-05**|**Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models**|Yuhao Wang et.al.|[2412.04107v1](http://arxiv.org/abs/2412.04107v1)|null|
@@ -12998,6 +13018,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248v1](http://arxiv.org/abs/2412.05248v1)|null|
+|**2024-12-06**|**A*Net and NBFNet Learn Negative Patterns on Knowledge Graphs**|Patrick Betz et.al.|[2412.05114v1](http://arxiv.org/abs/2412.05114v1)|null|
+|**2024-12-06**|**Unifying Dual-Space Embedding for Entity Alignment via Contrastive Learning**|Cunda Wang et.al.|[2412.05028v1](http://arxiv.org/abs/2412.05028v1)|**[link](https://github.com/wondercs1213/uniea)**|
+|**2024-12-06**|**Improving data sharing and knowledge transfer via the Neuroelectrophysiology Analysis Ontology (NEAO)**|Cristiano André Köhler et.al.|[2412.05021v1](http://arxiv.org/abs/2412.05021v1)|null|
+|**2024-12-06**|**ORKG ASK: a Neuro-symbolic Scholarly Search and Exploration System**|Allard Oelen et.al.|[2412.04977v1](http://arxiv.org/abs/2412.04977v1)|null|
+|**2024-12-06**|**KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view Knowledge Graph Contrastive Learning**|Peng Yu et.al.|[2412.04948v1](http://arxiv.org/abs/2412.04948v1)|null|
+|**2024-12-06**|**eXpath: Explaining Knowledge Graph Link Prediction with Ontological Closed Path Rules**|Ye Sun et.al.|[2412.04846v1](http://arxiv.org/abs/2412.04846v1)|null|
+|**2024-12-06**|**Anomaly Detection and Classification in Knowledge Graphs**|Asara Senaratne et.al.|[2412.04780v1](http://arxiv.org/abs/2412.04780v1)|null|
+|**2024-12-06**|**LLM-Align: Utilizing Large Language Models for Entity Alignment in Knowledge Graphs**|Xuan Chen et.al.|[2412.04690v1](http://arxiv.org/abs/2412.04690v1)|null|
 |**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342v1](http://arxiv.org/abs/2412.04342v1)|**[link](https://github.com/krystalan/RAGtrans)**|
 |**2024-12-05**|**GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**|Cristian-George Crăciun et.al.|[2412.04119v1](http://arxiv.org/abs/2412.04119v1)|null|
 |**2024-12-05**|**Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation**|Weihua Wang et.al.|[2412.04076v1](http://arxiv.org/abs/2412.04076v1)|null|
@@ -14770,6 +14799,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-k-Cut Problems**|Yeqing Qiu et.al.|[2412.05146v1](http://arxiv.org/abs/2412.05146v1)|null|
+|**2024-12-06**|**Unifying Dual-Space Embedding for Entity Alignment via Contrastive Learning**|Cunda Wang et.al.|[2412.05028v1](http://arxiv.org/abs/2412.05028v1)|**[link](https://github.com/wondercs1213/uniea)**|
+|**2024-12-06**|**GABAR: Graph Attention-Based Action Ranking for Relational Policy Learning**|Rajesh Mangannavar et.al.|[2412.04752v1](http://arxiv.org/abs/2412.04752v1)|null|
+|**2024-12-06**|**Code generation and runtime techniques for enabling data-efficient deep learning training on GPUs**|Kun Wu et.al.|[2412.04747v1](http://arxiv.org/abs/2412.04747v1)|null|
+|**2024-12-05**|**ProtBoost: protein function prediction with Py-Boost and Graph Neural Networks -- CAFA5 top2 solution**|Alexander Chervov et.al.|[2412.04529v1](http://arxiv.org/abs/2412.04529v1)|null|
 |**2024-12-05**|**PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters**|Hongyu Yan et.al.|[2412.04442v1](http://arxiv.org/abs/2412.04442v1)|**[link](https://github.com/TACC/PDMD)**|
 |**2024-12-05**|**Machine Theory of Mind for Autonomous Cyber-Defence**|Luke Swaby et.al.|[2412.04367v1](http://arxiv.org/abs/2412.04367v1)|null|
 |**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276v1](http://arxiv.org/abs/2412.04276v1)|**[link](https://github.com/yuweicao-uic/gsau)**|
