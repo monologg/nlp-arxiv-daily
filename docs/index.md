@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks**|Enis Baty et.al.|[2412.16146v1](http://arxiv.org/abs/2412.16146v1)|null|
+|**2024-12-20**|**PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation Metrics**|Daniil Larionov et.al.|[2412.16120v1](http://arxiv.org/abs/2412.16120v1)|null|
+|**2024-12-20**|**A Thorough Investigation into the Application of Deep CNN for Enhancing Natural Language Processing Capabilities**|Chang Weng et.al.|[2412.15900v1](http://arxiv.org/abs/2412.15900v1)|null|
+|**2024-12-20**|**$π$ -yalli: un nouveau corpus pour le nahuatl**|Juan-Manuel Torres-Moreno et.al.|[2412.15821v1](http://arxiv.org/abs/2412.15821v1)|null|
+|**2024-12-20**|**Learning from Impairment: Leveraging Insights from Clinical Linguistics in Language Modelling Research**|Dominique Brunato et.al.|[2412.15785v1](http://arxiv.org/abs/2412.15785v1)|null|
+|**2024-12-20**|**Contrastive Learning for Task-Independent SpeechLLM-Pretraining**|Maike Züfle et.al.|[2412.15712v1](http://arxiv.org/abs/2412.15712v1)|null|
+|**2024-12-20**|**Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework**|Zhenjie Xu et.al.|[2412.15504v1](http://arxiv.org/abs/2412.15504v1)|null|
+|**2024-12-20**|**A Review of the Marathi Natural Language Processing**|Asang Dani et.al.|[2412.15471v1](http://arxiv.org/abs/2412.15471v1)|null|
+|**2024-12-19**|**Systematic Evaluation of Long-Context LLMs on Financial Concepts**|Lavanya Gupta et.al.|[2412.15386v1](http://arxiv.org/abs/2412.15386v1)|null|
+|**2024-12-19**|**Decade of Natural Language Processing in Chronic Pain: A Systematic Review**|Swati Rajwal et.al.|[2412.15360v1](http://arxiv.org/abs/2412.15360v1)|null|
 |**2024-12-19**|**FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching**|Sucheng Ren et.al.|[2412.15205v1](http://arxiv.org/abs/2412.15205v1)|**[link](https://github.com/oliverrensu/flowar)**|
 |**2024-12-19**|**Face the Facts! Evaluating RAG-based Fact-checking Pipelines in Realistic Settings**|Daniel Russo et.al.|[2412.15189v1](http://arxiv.org/abs/2412.15189v1)|**[link](https://github.com/drusso98/face-the-facts)**|
 |**2024-12-19**|**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**|Marius Memmel et.al.|[2412.15182v1](http://arxiv.org/abs/2412.15182v1)|null|
@@ -3928,6 +3938,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-15**|**NER- RoBERTa: Fine-Tuning RoBERTa for Named Entity Recognition (NER) within low-resource languages**|Abdulhady Abas Abdullah et.al.|[2412.15252v1](http://arxiv.org/abs/2412.15252v1)|null|
 |**2024-12-19**|**Graph-Convolutional Networks: Named Entity Recognition and Large Language Model Embedding in Document Clustering**|Imed Keraghel et.al.|[2412.14867v1](http://arxiv.org/abs/2412.14867v1)|null|
 |**2024-12-16**|**The Role of Natural Language Processing Tasks in Automatic Literary Character Network Construction**|Arthur Amalvy et.al.|[2412.11560v1](http://arxiv.org/abs/2412.11560v1)|**[link](https://github.com/compnet/splice)**|
 |**2024-12-16**|**Towards Better Multi-task Learning: A Framework for Optimizing Dataset Combinations in Large Language Models**|Zaifu Zhan et.al.|[2412.11455v1](http://arxiv.org/abs/2412.11455v1)|null|
@@ -4627,6 +4638,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**A Thorough Investigation into the Application of Deep CNN for Enhancing Natural Language Processing Capabilities**|Chang Weng et.al.|[2412.15900v1](http://arxiv.org/abs/2412.15900v1)|null|
+|**2024-12-19**|**Time Will Tell: Timing Side Channels via Output Token Count in Large Language Models**|Tianchen Zhang et.al.|[2412.15431v1](http://arxiv.org/abs/2412.15431v1)|null|
 |**2024-12-17**|**In-Context Learning Distillation for Efficient Few-Shot Fine-Tuning**|Yifei Duan et.al.|[2412.13243v1](http://arxiv.org/abs/2412.13243v1)|null|
 |**2024-12-17**|**Token-Level Graphs for Short Text Classification**|Gregor Donabauer et.al.|[2412.12754v1](http://arxiv.org/abs/2412.12754v1)|**[link](https://github.com/dogregor/tokengraph)**|
 |**2024-12-17**|**Your Next State-of-the-Art Could Come from Another Domain: A Cross-Domain Analysis of Hierarchical Text Classification**|Nan Li et.al.|[2412.12744v1](http://arxiv.org/abs/2412.12744v1)|**[link](https://github.com/aida-ugent/cross-domain-HTC)**|
@@ -6011,6 +6024,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**A Thorough Investigation into the Application of Deep CNN for Enhancing Natural Language Processing Capabilities**|Chang Weng et.al.|[2412.15900v1](http://arxiv.org/abs/2412.15900v1)|null|
+|**2024-12-19**|**Fietje: An open, efficient LLM for Dutch**|Bram Vanroy et.al.|[2412.15450v1](http://arxiv.org/abs/2412.15450v1)|null|
 |**2024-12-19**|**DS $^2$ -ABSA: Dual-Stream Data Synthesis with Label Refinement for Few-Shot Aspect-Based Sentiment Analysis**|Hongling Xu et.al.|[2412.14849v1](http://arxiv.org/abs/2412.14849v1)|**[link](https://github.com/behappyplz/ds2-absa)**|
 |**2024-12-18**|**Enhancing Rhetorical Figure Annotation: An Ontology-Based Web Application with RAG Integration**|Ramona Kühn et.al.|[2412.13799v1](http://arxiv.org/abs/2412.13799v1)|**[link](https://github.com/kuehnram/findyourfigure)**|
 |**2024-12-19**|**LLM-SEM: A Sentiment-Based Student Engagement Metric Using LLMS for E-Learning Platforms**|Ali Hamdi et.al.|[2412.13765v2](http://arxiv.org/abs/2412.13765v2)|null|
@@ -6999,6 +7014,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100v1](http://arxiv.org/abs/2412.16100v1)|null|
+|**2024-12-20**|**Contrastive Learning for Task-Independent SpeechLLM-Pretraining**|Maike Züfle et.al.|[2412.15712v1](http://arxiv.org/abs/2412.15712v1)|null|
+|**2024-12-20**|**Template-Driven LLM-Paraphrased Framework for Tabular Math Word Problem Generation**|Xiaoqiang Kang et.al.|[2412.15594v1](http://arxiv.org/abs/2412.15594v1)|**[link](https://github.com/jason8kang/tell)**|
+|**2024-12-20**|**MORTAR: Metamorphic Multi-turn Testing for LLM-based Dialogue Systems**|Guoxiang Guo et.al.|[2412.15557v1](http://arxiv.org/abs/2412.15557v1)|null|
+|**2024-12-20**|**NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning**|Zheyuan Zhang et.al.|[2412.15547v1](http://arxiv.org/abs/2412.15547v1)|null|
+|**2024-12-20**|**MRAG: A Modular Retrieval Framework for Time-Sensitive Question Answering**|Zhang Siyue et.al.|[2412.15540v1](http://arxiv.org/abs/2412.15540v1)|null|
+|**2024-12-20**|**PolySmart @ TRECVid 2024 Medical Video Question Answering**|Jiaxin Wu et.al.|[2412.15514v1](http://arxiv.org/abs/2412.15514v1)|null|
+|**2024-12-20**|**ADEQA: A Question Answer based approach for joint ADE-Suspect Extraction using Sequence-To-Sequence Transformers**|Vinayak Arannil et.al.|[2412.15510v1](http://arxiv.org/abs/2412.15510v1)|null|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209v1](http://arxiv.org/abs/2412.15209v1)|null|
 |**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206v1](http://arxiv.org/abs/2412.15206v1)|**[link](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190v1](http://arxiv.org/abs/2412.15190v1)|null|
@@ -9995,6 +10018,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Dimension Reduction with Locally Adjusted Graphs**|Yingfan Wang et.al.|[2412.15426v1](http://arxiv.org/abs/2412.15426v1)|**[link](https://github.com/williamsyy/localmap)**|
 |**2024-12-19**|**LDP: Generalizing to Multilingual Visual Information Extraction by Language Decoupled Pretraining**|Huawen Shen et.al.|[2412.14596v1](http://arxiv.org/abs/2412.14596v1)|null|
 |**2024-12-19**|**Optimal Spatiotemporal Resolutions**|Domiziano Doria et.al.|[2412.13741v2](http://arxiv.org/abs/2412.13741v2)|**[link](https://github.com/GMPavanLab/Optimal-Spatiotemporal-Resolutions)**|
 |**2024-12-17**|**Testing inhomogeneous cosmography in our cosmic neighborhood using CosmicFlows-4**|S. M. Koksbang et.al.|[2412.12637v1](http://arxiv.org/abs/2412.12637v1)|null|
@@ -11063,6 +11087,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**From General to Specific: Tailoring Large Language Models for Personalized Healthcare**|Ruize Shi et.al.|[2412.15957v1](http://arxiv.org/abs/2412.15957v1)|null|
+|**2024-12-20**|**On the Power of Strategic Corpus Enrichment in Content Creation Games**|Haya Nachimovsky et.al.|[2412.15878v1](http://arxiv.org/abs/2412.15878v1)|null|
 |**2024-12-19**|**DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation**|Hourun Li et.al.|[2412.15005v1](http://arxiv.org/abs/2412.15005v1)|null|
 |**2024-12-19**|**Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**|Rongqing Kenneth Ong et.al.|[2412.14978v1](http://arxiv.org/abs/2412.14978v1)|**[link](https://github.com/kennethorq/smore)**|
 |**2024-12-19**|**A brief history of quantum vs classical computational advantage**|Ryan LaRose et.al.|[2412.14703v1](http://arxiv.org/abs/2412.14703v1)|null|
@@ -13307,6 +13333,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100v1](http://arxiv.org/abs/2412.16100v1)|null|
+|**2024-12-20**|**SUBMASSIVE: Resolving Subclass Cycles in Very Large Knowledge Graphs**|Shuai Wang et.al.|[2412.15829v1](http://arxiv.org/abs/2412.15829v1)|null|
+|**2024-12-20**|**S $^2$ DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion**|Tengfei Ma et.al.|[2412.15822v1](http://arxiv.org/abs/2412.15822v1)|null|
+|**2024-12-20**|**MORTAR: Metamorphic Multi-turn Testing for LLM-based Dialogue Systems**|Guoxiang Guo et.al.|[2412.15557v1](http://arxiv.org/abs/2412.15557v1)|null|
+|**2024-12-19**|**SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval**|Aakash Mahalingam et.al.|[2412.15443v1](http://arxiv.org/abs/2412.15443v1)|null|
 |**2024-12-19**|**Extending TWIG: Zero-Shot Predictive Hyperparameter Selection for KGEs based on Graph Structure**|Jeffrey Sardina et.al.|[2412.14801v1](http://arxiv.org/abs/2412.14801v1)|null|
 |**2024-12-18**|**Knowledge Editing with Dynamic Knowledge Graphs for Multi-hop Question Answering**|Yifan Lu et.al.|[2412.13782v1](http://arxiv.org/abs/2412.13782v1)|null|
 |**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684v1](http://arxiv.org/abs/2412.13684v1)|null|
@@ -15130,6 +15161,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Astrometric constraints on stochastic gravitational wave background with neural networks**|Marienza Caldarola et.al.|[2412.15879v1](http://arxiv.org/abs/2412.15879v1)|null|
+|**2024-12-20**|**GraphSeqLM: A Unified Graph Language Framework for Omic Graph Learning**|Heming Zhang et.al.|[2412.15790v1](http://arxiv.org/abs/2412.15790v1)|null|
+|**2024-12-20**|**Prompt-based Unifying Inference Attack on Graph Neural Networks**|Yuecen Wei et.al.|[2412.15735v1](http://arxiv.org/abs/2412.15735v1)|**[link](https://github.com/ringbdstack/proia)**|
+|**2024-12-20**|**Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck**|Van Thuy Hoang et.al.|[2412.15589v1](http://arxiv.org/abs/2412.15589v1)|null|
+|**2024-12-19**|**Investigating Relational State Abstraction in Collaborative MARL**|Sharlin Utke et.al.|[2412.15388v1](http://arxiv.org/abs/2412.15388v1)|**[link](https://github.com/gmontana/collaborativepickandplaceenv)**|
+|**2024-12-19**|**Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification**|Zijie Zhou et.al.|[2412.15302v1](http://arxiv.org/abs/2412.15302v1)|**[link](https://github.com/Dodo-D-Caster/Tokenphormer)**|
 |**2024-12-19**|**Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition**|Chiheb Ben Mahmoud et.al.|[2412.15063v1](http://arxiv.org/abs/2412.15063v1)|null|
 |**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814v1](http://arxiv.org/abs/2412.14814v1)|null|
 |**2024-12-19**|**Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.14738v1](http://arxiv.org/abs/2412.14738v1)|null|
