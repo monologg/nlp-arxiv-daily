@@ -4667,7 +4667,7 @@ layout: default
 |**2024-12-22**|**LH-Mix: Local Hierarchy Correlation Guided Mixup over Hierarchical Prompt Tuning**|Fanshuang Kong et.al.|[2412.16963v1](http://arxiv.org/abs/2412.16963v1)|**[link](https://github.com/fskong/lh-mix)**|
 |**2024-12-21**|**Research on Violent Text Detection System Based on BERT-fasttext Model**|Yongsheng Yang et.al.|[2412.16455v1](http://arxiv.org/abs/2412.16455v1)|null|
 |**2024-12-20**|**Decoding Linguistic Nuances in Mental Health Text Classification Using Expressive Narrative Stories**|Jinwen Tang et.al.|[2412.16302v1](http://arxiv.org/abs/2412.16302v1)|null|
-|**2024-12-19**|**Defeasible Visual Entailment: Benchmark, Evaluator, and Reward-Driven Optimization**|Yue Zhang et.al.|[2412.16232v1](http://arxiv.org/abs/2412.16232v1)|**[link](https://github.com/skywalkerzhang/Defeasible_Visual_Entailment)**|
+|**2024-12-19**|**Defeasible Visual Entailment: Benchmark, Evaluator, and Reward-Driven Optimization**|Yue Zhang et.al.|[2412.16232v1](http://arxiv.org/abs/2412.16232v1)|null|
 |**2024-12-20**|**A Thorough Investigation into the Application of Deep CNN for Enhancing Natural Language Processing Capabilities**|Chang Weng et.al.|[2412.15900v1](http://arxiv.org/abs/2412.15900v1)|null|
 |**2024-12-19**|**Time Will Tell: Timing Side Channels via Output Token Count in Large Language Models**|Tianchen Zhang et.al.|[2412.15431v1](http://arxiv.org/abs/2412.15431v1)|null|
 |**2024-12-17**|**In-Context Learning Distillation for Efficient Few-Shot Fine-Tuning**|Yifei Duan et.al.|[2412.13243v1](http://arxiv.org/abs/2412.13243v1)|null|
