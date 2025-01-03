@@ -26,7 +26,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-30**|**Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models**|Christos Petridis et.al.|[2412.21022v1](http://arxiv.org/abs/2412.21022v1)|null|
-|**2024-12-30**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787v1](http://arxiv.org/abs/2412.20787v1)|null|
+|**2024-12-31**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787v2](http://arxiv.org/abs/2412.20787v2)|null|
 |**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677v1](http://arxiv.org/abs/2412.20677v1)|null|
 |**2024-12-29**|**Integrating Natural Language Processing Techniques of Text Mining Into Financial System: Applications and Limitations**|Denisa Millo et.al.|[2412.20438v1](http://arxiv.org/abs/2412.20438v1)|null|
 |**2024-12-29**|**Comparative Performance of Advanced NLP Models and LLMs in Multilingual Geo-Entity Detection**|Kalin Kopanov et.al.|[2412.20414v1](http://arxiv.org/abs/2412.20414v1)|null|
@@ -4682,7 +4682,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-30**|**Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models**|Christos Petridis et.al.|[2412.21022v1](http://arxiv.org/abs/2412.21022v1)|null|
-|**2024-12-30**|**LINK: Adaptive Modality Interaction for Audio-Visual Video Parsing**|Langyu Wang et.al.|[2412.20872v1](http://arxiv.org/abs/2412.20872v1)|null|
+|**2024-12-31**|**LINK: Adaptive Modality Interaction for Audio-Visual Video Parsing**|Langyu Wang et.al.|[2412.20872v2](http://arxiv.org/abs/2412.20872v2)|null|
 |**2024-12-29**|**AmalREC: A Dataset for Relation Extraction and Classification Leveraging Amalgamation of Large Language Models**|Mansi et.al.|[2412.20427v1](http://arxiv.org/abs/2412.20427v1)|null|
 |**2024-12-29**|**HindiLLM: Large Language Model for Hindi**|Sanjay Chouhan et.al.|[2412.20357v1](http://arxiv.org/abs/2412.20357v1)|null|
 |**2024-12-28**|**A Nearly Optimal Single Loop Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness**|Xiaochuan Gong et.al.|[2412.20017v1](http://arxiv.org/abs/2412.20017v1)|**[link](https://github.com/MingruiLiu-ML-Lab/Single-Loop-bilevel-Optimizer-under-Unbounded-Smoothness)**|
@@ -10134,7 +10134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-28**|**Extract Information from Hybrid Long Documents Leveraging LLMs: A Framework and Dataset**|Chongjian Yue et.al.|[2412.20072v1](http://arxiv.org/abs/2412.20072v1)|null|
+|**2024-12-31**|**Extract Information from Hybrid Long Documents Leveraging LLMs: A Framework and Dataset**|Chongjian Yue et.al.|[2412.20072v2](http://arxiv.org/abs/2412.20072v2)|null|
 |**2024-12-28**|**STAYKATE: Hybrid In-Context Example Selection Combining Representativeness Sampling and Retrieval-based Approach -- A Case Study on Science Domains**|Chencheng Zhu et.al.|[2412.20043v1](http://arxiv.org/abs/2412.20043v1)|null|
 |**2024-12-23**|**Quantum simulation of Burgers turbulence: Nonlinear transformation and direct evaluation of statistical quantities**|Fumio Uchida et.al.|[2412.17206v1](http://arxiv.org/abs/2412.17206v1)|null|
 |**2024-12-22**|**SAIL: Sample-Centric In-Context Learning for Document Information Extraction**|Jinyu Zhang et.al.|[2412.17092v1](http://arxiv.org/abs/2412.17092v1)|**[link](https://github.com/sky-goldfish/sail)**|
@@ -11216,7 +11216,7 @@ layout: default
 |**2024-12-27**|**Toward Modality Gap: Vision Prototype Learning for Weakly-supervised Semantic Segmentation with CLIP**|Zhongxing Xu et.al.|[2412.19650v1](http://arxiv.org/abs/2412.19650v1)|null|
 |**2024-12-27**|**A Matrix Logic Approach to Efficient Frequent Itemset Discovery in Large Data Sets**|Xuan Li et.al.|[2412.19420v1](http://arxiv.org/abs/2412.19420v1)|null|
 |**2024-12-30**|**From Interests to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries**|Hugh Van Deventer et.al.|[2412.19312v2](http://arxiv.org/abs/2412.19312v2)|**[link](https://github.com/hughvd/um-cai-fellowship)**|
-|**2024-12-26**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302v1](http://arxiv.org/abs/2412.19302v1)|null|
+|**2025-01-01**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302v2](http://arxiv.org/abs/2412.19302v2)|**[link](https://github.com/hkuds/reclm)**|
 |**2024-12-26**|**Towards Popularity-Aware Recommendation: A Multi-Behavior Enhanced Framework with Orthogonality Constraint**|Yishan Han et.al.|[2412.19172v1](http://arxiv.org/abs/2412.19172v1)|null|
 |**2024-12-25**|**Recommending Pre-Trained Models for IoT Devices**|Parth V. Patil et.al.|[2412.18972v1](http://arxiv.org/abs/2412.18972v1)|null|
 |**2024-12-25**|**Don't Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network**|Zheyu Chen et.al.|[2412.18962v1](http://arxiv.org/abs/2412.18962v1)|null|
@@ -15340,7 +15340,7 @@ layout: default
 |**2024-12-28**|**Discrete Curvature Graph Information Bottleneck**|Xingcheng Fu et.al.|[2412.19993v1](http://arxiv.org/abs/2412.19993v1)|null|
 |**2024-12-27**|**ViDTA: Enhanced Drug-Target Affinity Prediction via Virtual Graph Nodes and Attention-based Feature Fusion**|Minghui Li et.al.|[2412.19589v1](http://arxiv.org/abs/2412.19589v1)|null|
 |**2024-12-27**|**Introduction to Graph Neural Networks: A Starting Point for Machine Learning Engineers**|James H. Tanis et.al.|[2412.19419v1](http://arxiv.org/abs/2412.19419v1)|null|
-|**2024-12-26**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302v1](http://arxiv.org/abs/2412.19302v1)|null|
+|**2025-01-01**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302v2](http://arxiv.org/abs/2412.19302v2)|**[link](https://github.com/hkuds/reclm)**|
 |**2024-12-26**|**Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning**|Xingbo Fu et.al.|[2412.19229v1](http://arxiv.org/abs/2412.19229v1)|null|
 |**2024-12-26**|**Large Language Models Meet Graph Neural Networks: A Perspective of Graph Mining**|Yuxin You et.al.|[2412.19211v1](http://arxiv.org/abs/2412.19211v1)|null|
 |**2024-12-26**|**ERGNN: Spectral Graph Neural Network with Explicitly-optimized Rational Graph Filters**|Guoming Li et.al.|[2412.19106v1](http://arxiv.org/abs/2412.19106v1)|null|
