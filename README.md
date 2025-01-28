@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**URAG: Implementing a Unified Hybrid RAG for Precise Answers in University Admission Chatbots -- A Case Study at HCMUT**|Long Nguyen et.al.|[2501.16276v1](http://arxiv.org/abs/2501.16276v1)|null|
+|**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191v1](http://arxiv.org/abs/2501.16191v1)|null|
+|**2025-01-27**|**Survey: Understand the challenges of MachineLearning Experts using Named EntityRecognition Tools**|Florian Freund et.al.|[2501.16112v1](http://arxiv.org/abs/2501.16112v1)|null|
+|**2025-01-27**|**3CEL: A corpus of legal Spanish contract clauses**|Nuria Aldama García et.al.|[2501.15990v1](http://arxiv.org/abs/2501.15990v1)|null|
+|**2025-01-27**|**Optimizing Sentence Embedding with Pseudo-Labeling and Model Ensembles: A Hierarchical Framework for Enhanced NLP Tasks**|Ziwei Liu et.al.|[2501.15876v1](http://arxiv.org/abs/2501.15876v1)|null|
+|**2025-01-27**|**Optimizing Deep Learning Models to Address Class Imbalance in Code Comment Classification**|Moritz Mock et.al.|[2501.15854v1](http://arxiv.org/abs/2501.15854v1)|null|
+|**2025-01-27**|**Automatic Feedback Generation for Short Answer Questions using Answer Diagnostic Graphs**|Momoka Furuhashi et.al.|[2501.15777v1](http://arxiv.org/abs/2501.15777v1)|null|
+|**2025-01-27**|**IndicMMLU-Pro: Benchmarking the Indic Large Language Models**|Sankalp KJ et.al.|[2501.15747v1](http://arxiv.org/abs/2501.15747v1)|null|
+|**2025-01-26**|**Quantum-Enhanced Attention Mechanism in NLP: A Hybrid Classical-Quantum Approach**|S. M. Yousuf Iqbal Tomal et.al.|[2501.15630v1](http://arxiv.org/abs/2501.15630v1)|null|
+|**2025-01-26**|**Instruction Tuning for Story Understanding and Generation with Weak Supervision**|Yangshu Yuan et.al.|[2501.15574v1](http://arxiv.org/abs/2501.15574v1)|null|
 |**2025-01-24**|**Towards Better Understanding Table Instruction Tuning: Decoupling the Effects from Data versus Models**|Naihao Deng et.al.|[2501.14717v1](http://arxiv.org/abs/2501.14717v1)|null|
 |**2025-01-24**|**FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing**|James Seale Smith et.al.|[2501.14713v1](http://arxiv.org/abs/2501.14713v1)|null|
 |**2025-01-24**|**NLP-based assessment of prescription appropriateness from Italian referrals**|Vittorio Torri et.al.|[2501.14701v1](http://arxiv.org/abs/2501.14701v1)|null|
@@ -3823,6 +3833,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**MEL: Legal Spanish Language Model**|David Betancur Sánchez et.al.|[2501.16011v1](http://arxiv.org/abs/2501.16011v1)|null|
 |**2025-01-22**|**Open or Closed LLM for Lesser-Resourced Languages? Lessons from Greek**|John Pavlopoulos et.al.|[2501.12826v1](http://arxiv.org/abs/2501.12826v1)|**[link](https://github.com/greek-nlp/benchmark)**|
 |**2025-01-15**|**Can Large Language Models Predict the Outcome of Judicial Decisions?**|Mohamed Bayan Kmainasi et.al.|[2501.09768v1](http://arxiv.org/abs/2501.09768v1)|null|
 |**2024-12-30**|**LicenseGPT: A Fine-tuned Foundation Model for Publicly Available Dataset License Compliance**|Jingwen Tan et.al.|[2501.00106v1](http://arxiv.org/abs/2501.00106v1)|null|
@@ -4092,6 +4103,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Survey: Understand the challenges of MachineLearning Experts using Named EntityRecognition Tools**|Florian Freund et.al.|[2501.16112v1](http://arxiv.org/abs/2501.16112v1)|null|
 |**2025-01-23**|**Academic Case Reports Lack Diversity: Assessing the Presence and Diversity of Sociodemographic and Behavioral Factors related to Post COVID-19 Condition**|Juan Andres Medina Florez et.al.|[2501.12538v2](http://arxiv.org/abs/2501.12538v2)|null|
 |**2025-01-21**|**HERITAGE: An End-to-End Web Platform for Processing Korean Historical Documents in Hanja**|Seyoung Song et.al.|[2501.11951v1](http://arxiv.org/abs/2501.11951v1)|**[link](https://github.com/seyoungsong/hanja-platform)**|
 |**2025-01-19**|**LegalGuardian: A Privacy-Preserving Framework for Secure Integration of Large Language Models in Legal Practice**|M. Mikail Demir et.al.|[2501.10915v1](http://arxiv.org/abs/2501.10915v1)|null|
@@ -4813,6 +4825,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-26**|**Quantum-Enhanced Attention Mechanism in NLP: A Hybrid Classical-Quantum Approach**|S. M. Yousuf Iqbal Tomal et.al.|[2501.15630v1](http://arxiv.org/abs/2501.15630v1)|null|
 |**2025-01-24**|**Idiom Detection in Sorani Kurdish Texts**|Skala Kamaran Omer et.al.|[2501.14528v1](http://arxiv.org/abs/2501.14528v1)|null|
 |**2025-01-24**|**A Comprehensive Framework for Semantic Similarity Detection Using Transformer Architectures and Enhanced Ensemble Techniques**|Lifu Gao et.al.|[2501.14288v1](http://arxiv.org/abs/2501.14288v1)|null|
 |**2025-01-23**|**A Study of the Plausibility of Attention between RNN Encoders in Natural Language Inference**|Duc Hau Nguyen et.al.|[2501.13735v1](http://arxiv.org/abs/2501.13735v1)|null|
@@ -6262,6 +6275,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**STAR: Stepwise Task Augmentation and Relation Learning for Aspect Sentiment Quad Prediction**|Wenna Lai et.al.|[2501.16093v1](http://arxiv.org/abs/2501.16093v1)|null|
+|**2025-01-27**|**Multi-View Attention Syntactic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis**|Xiang Huang et.al.|[2501.15968v1](http://arxiv.org/abs/2501.15968v1)|**[link](https://github.com/selgroup/masgcn)**|
+|**2025-01-26**|**Making Sense Of Distributed Representations With Activation Spectroscopy**|Kyle Reing et.al.|[2501.15435v1](http://arxiv.org/abs/2501.15435v1)|null|
 |**2025-01-24**|**Idiom Detection in Sorani Kurdish Texts**|Skala Kamaran Omer et.al.|[2501.14528v1](http://arxiv.org/abs/2501.14528v1)|null|
 |**2025-01-20**|**Longitudinal Abuse and Sentiment Analysis of Hollywood Movie Dialogues using LLMs**|Rohitash Chandra et.al.|[2501.13948v1](http://arxiv.org/abs/2501.13948v1)|null|
 |**2025-01-23**|**2-Tier SimCSE: Elevating BERT for Robust Sentence Embeddings**|Yumeng Wang et.al.|[2501.13758v1](http://arxiv.org/abs/2501.13758v1)|null|
@@ -7299,6 +7315,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**|Heting Gao et.al.|[2501.16327v1](http://arxiv.org/abs/2501.16327v1)|**[link](https://github.com/vita-mllm/lucy)**|
+|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300v1](http://arxiv.org/abs/2501.16300v1)|null|
+|**2025-01-27**|**URAG: Implementing a Unified Hybrid RAG for Precise Answers in University Admission Chatbots -- A Case Study at HCMUT**|Long Nguyen et.al.|[2501.16276v1](http://arxiv.org/abs/2501.16276v1)|null|
+|**2025-01-27**|**Provence: efficient and robust context pruning for retrieval-augmented generation**|Nadezhda Chirkova et.al.|[2501.16214v1](http://arxiv.org/abs/2501.16214v1)|null|
+|**2025-01-27**|**Options-Aware Dense Retrieval for Multiple-Choice query Answering**|Manish Singh et.al.|[2501.16111v1](http://arxiv.org/abs/2501.16111v1)|null|
+|**2025-01-27**|**PISCO: Pretty Simple Compression for Retrieval-Augmented Generation**|Maxime Louis et.al.|[2501.16075v1](http://arxiv.org/abs/2501.16075v1)|null|
+|**2025-01-27**|**MADP: Multi-Agent Deductive Planning for Enhanced Cognitive-Behavioral Mental Health Question Answer**|Qi Chen et.al.|[2501.15826v1](http://arxiv.org/abs/2501.15826v1)|null|
+|**2025-01-26**|**Adapting Biomedical Abstracts into Plain language using Large Language Models**|Haritha Gangavarapu et.al.|[2501.15700v1](http://arxiv.org/abs/2501.15700v1)|null|
+|**2025-01-26**|**How to Mitigate Information Loss in Knowledge Graphs for GraphRAG: Leveraging Triple Context Restoration and Query-Driven Feedback**|Manzong Huang et.al.|[2501.15378v1](http://arxiv.org/abs/2501.15378v1)|null|
+|**2025-01-26**|**Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis**|Robinson Umeike et.al.|[2501.15370v1](http://arxiv.org/abs/2501.15370v1)|null|
 |**2025-01-24**|**Towards Better Understanding Table Instruction Tuning: Decoupling the Effects from Data versus Models**|Naihao Deng et.al.|[2501.14717v1](http://arxiv.org/abs/2501.14717v1)|null|
 |**2025-01-24**|**Scene Understanding Enabled Semantic Communication with Open Channel Coding**|Zhe Xiang et.al.|[2501.14520v1](http://arxiv.org/abs/2501.14520v1)|null|
 |**2025-01-24**|**Interpretability Analysis of Domain Adapted Dense Retrievers**|Goksenin Yuksel et.al.|[2501.14459v1](http://arxiv.org/abs/2501.14459v1)|null|
@@ -10453,6 +10479,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**3CEL: A corpus of legal Spanish contract clauses**|Nuria Aldama García et.al.|[2501.15990v1](http://arxiv.org/abs/2501.15990v1)|null|
+|**2025-01-26**|**Exponential Improvement on Asian Option Pricing Through Quantum Preconditioning Methods**|Gumaro Rendon et.al.|[2501.15614v1](http://arxiv.org/abs/2501.15614v1)|null|
+|**2025-01-25**|**Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models**|Hulingxiao He et.al.|[2501.15140v1](http://arxiv.org/abs/2501.15140v1)|null|
 |**2025-01-24**|**Human Activity Recognition with a 6.5 GHz Reconfigurable Intelligent Surface for Wi-Fi 6E**|Nuno Paulino et.al.|[2501.14423v1](http://arxiv.org/abs/2501.14423v1)|null|
 |**2025-01-24**|**High-Precision Fabric Defect Detection via Adaptive Shape Convolutions and Large Kernel Spatial Modeling**|Shuai Wang et.al.|[2501.14190v1](http://arxiv.org/abs/2501.14190v1)|null|
 |**2025-01-23**|**Learning-based A Posteriori Speech Presence Probability Estimation and Applications**|Shuai Tao et.al.|[2501.13642v1](http://arxiv.org/abs/2501.13642v1)|null|
@@ -11552,6 +11581,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**|Jingtong Gao et.al.|[2501.16125v1](http://arxiv.org/abs/2501.16125v1)|null|
+|**2025-01-27**|**Demographic Benchmarking: Bridging Socio-Technical Gaps in Bias Detection**|Gemma Galdon Clavell et.al.|[2501.15985v1](http://arxiv.org/abs/2501.15985v1)|null|
+|**2025-01-27**|**Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System**|Yongchun Zhu et.al.|[2501.15817v1](http://arxiv.org/abs/2501.15817v1)|null|
+|**2025-01-27**|**AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System**|Yongchun Zhu et.al.|[2501.15816v1](http://arxiv.org/abs/2501.15816v1)|null|
+|**2025-01-26**|**Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model**|Chu Zhao et.al.|[2501.15555v1](http://arxiv.org/abs/2501.15555v1)|null|
+|**2025-01-25**|**Generating Negative Samples for Multi-Modal Recommendation**|Yanbiao Ji et.al.|[2501.15183v1](http://arxiv.org/abs/2501.15183v1)|null|
+|**2025-01-25**|**PatchRec: Multi-Grained Patching for Efficient LLM-based Sequential Recommendation**|Jiayi Liao et.al.|[2501.15087v1](http://arxiv.org/abs/2501.15087v1)|null|
 |**2025-01-24**|**Recommending Actionable Strategies: A Semantic Approach to Integrating Analytical Frameworks with Decision Heuristics**|Renato Ghisellini et.al.|[2501.14634v1](http://arxiv.org/abs/2501.14634v1)|null|
 |**2025-01-24**|**Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion**|Darnbi Sakong et.al.|[2501.14399v1](http://arxiv.org/abs/2501.14399v1)|null|
 |**2025-01-24**|**Graph Feedback Bandits on Similar Arms: With and Without Graph Structures**|Han Qi et.al.|[2501.14314v1](http://arxiv.org/abs/2501.14314v1)|**[link](https://github.com/qh1874/GraphBandits_SimilarArms)**|
@@ -13892,6 +13928,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191v1](http://arxiv.org/abs/2501.16191v1)|null|
+|**2025-01-27**|**Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs**|Yu Li et.al.|[2501.15791v1](http://arxiv.org/abs/2501.15791v1)|**[link](https://github.com/kse-eleven/makged)**|
+|**2025-01-26**|**Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts**|Haodi Ma et.al.|[2501.15688v1](http://arxiv.org/abs/2501.15688v1)|null|
+|**2025-01-26**|**Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion**|Guanglin Niu et.al.|[2501.15393v1](http://arxiv.org/abs/2501.15393v1)|null|
+|**2025-01-26**|**How to Mitigate Information Loss in Knowledge Graphs for GraphRAG: Leveraging Triple Context Restoration and Query-Driven Feedback**|Manzong Huang et.al.|[2501.15378v1](http://arxiv.org/abs/2501.15378v1)|null|
+|**2025-01-24**|**MISCON: A Mission-Driven Conversational Consultant for Pre-Venture Entrepreneurs in Food Deserts**|Subhasis Dasgupta et.al.|[2501.14954v1](http://arxiv.org/abs/2501.14954v1)|null|
+|**2025-01-24**|**Causal Graphs Meet Thoughts: Enhancing Complex Reasoning in Graph-Augmented LLMs**|Hang Luo et.al.|[2501.14892v1](http://arxiv.org/abs/2501.14892v1)|null|
 |**2025-01-24**|**Neural-Symbolic Message Passing with Dynamic Pruning**|Chongzhi Zhang et.al.|[2501.14661v1](http://arxiv.org/abs/2501.14661v1)|null|
 |**2025-01-24**|**Knowledge Graphs Construction from Criminal Court Appeals: Insights from the French Cassation Court**|Alexander V. Belikov et.al.|[2501.14579v1](http://arxiv.org/abs/2501.14579v1)|null|
 |**2025-01-24**|**Design and Implementation of a Psychiatry Resident Training System Based on Large Language Models**|Zhenguang Zhong et.al.|[2501.14530v1](http://arxiv.org/abs/2501.14530v1)|**[link](https://github.com/hakepai/LLM-based-Psychiatry-Resident-Training-System)**|
@@ -15792,6 +15835,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Graph Neural Network Based Hybrid Beamforming Design in Wideband Terahertz MIMO-OFDM Systems**|Beier Li et.al.|[2501.16306v1](http://arxiv.org/abs/2501.16306v1)|null|
+|**2025-01-27**|**From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases**|Gary Tom et.al.|[2501.16271v1](http://arxiv.org/abs/2501.16271v1)|null|
+|**2025-01-27**|**ReFill: Reinforcement Learning for Fill-In Minimization**|Elfarouk Harb et.al.|[2501.16130v1](http://arxiv.org/abs/2501.16130v1)|null|
+|**2025-01-27**|**ScaDyG:A New Paradigm for Large-scale Dynamic Graph Learning**|Xiang Wu et.al.|[2501.16002v1](http://arxiv.org/abs/2501.16002v1)|null|
+|**2025-01-27**|**Multi-View Attention Syntactic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis**|Xiang Huang et.al.|[2501.15968v1](http://arxiv.org/abs/2501.15968v1)|**[link](https://github.com/selgroup/masgcn)**|
+|**2025-01-27**|**Adaptive AI-based Decentralized Resource Management in the Cloud-Edge Continuum**|Lanpei Li et.al.|[2501.15802v1](http://arxiv.org/abs/2501.15802v1)|null|
+|**2025-01-27**|**GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design**|Yuanfu Sun et.al.|[2501.15755v1](http://arxiv.org/abs/2501.15755v1)|null|
+|**2025-01-26**|**Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model**|Chu Zhao et.al.|[2501.15555v1](http://arxiv.org/abs/2501.15555v1)|null|
+|**2025-01-26**|**Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space**|Xin He et.al.|[2501.15461v1](http://arxiv.org/abs/2501.15461v1)|null|
+|**2025-01-26**|**An Aspect Performance-aware Hypergraph Neural Network for Review-based Recommendation**|Junrui Liu et.al.|[2501.15429v1](http://arxiv.org/abs/2501.15429v1)|null|
 |**2025-01-24**|**An Attentive Graph Agent for Topology-Adaptive Cyber Defence**|Ilya Orson Sandoval et.al.|[2501.14700v1](http://arxiv.org/abs/2501.14700v1)|**[link](https://github.com/ilyaorson/cyberdreamcatcher)**|
 |**2025-01-24**|**On the Homophily of Heterogeneous Graphs: Understanding and Unleashing**|Zhen Tao et.al.|[2501.14600v1](http://arxiv.org/abs/2501.14600v1)|null|
 |**2025-01-24**|**Convergence of gradient based training for linear Graph Neural Networks**|Dhiraj Patel et.al.|[2501.14440v1](http://arxiv.org/abs/2501.14440v1)|null|
