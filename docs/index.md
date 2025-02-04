@@ -30,7 +30,7 @@ layout: default
 |**2025-01-31**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|Amogh Joshi et.al.|[2501.19259v1](http://arxiv.org/abs/2501.19259v1)|null|
 |**2025-01-31**|**FedRTS: Federated Robust Pruning via Combinatorial Thompson Sampling**|Hong Huang et.al.|[2501.19122v1](http://arxiv.org/abs/2501.19122v1)|null|
 |**2025-01-31**|**MPLinker: Multi-template Prompt-tuning with Adversarial Training for Issue-commit Link Recovery**|Bangchao Wang et.al.|[2501.19026v1](http://arxiv.org/abs/2501.19026v1)|null|
-|**2025-01-31**|**Scalable Multi-phase Word Embedding Using Conjunctive Propositional Clauses**|Ahmed K. Kadhim et.al.|[2501.19018v1](http://arxiv.org/abs/2501.19018v1)|null|
+|**2025-02-03**|**Scalable Multi-phase Word Embedding Using Conjunctive Propositional Clauses**|Ahmed K. Kadhim et.al.|[2501.19018v2](http://arxiv.org/abs/2501.19018v2)|null|
 |**2025-01-30**|**OT-Transformer: A Continuous-time Transformer Architecture with Optimal Transport Regularization**|Kelvin Kan et.al.|[2501.18793v1](http://arxiv.org/abs/2501.18793v1)|null|
 |**2025-01-30**|**Unraveling the Capabilities of Language Models in News Summarization**|Abdurrahman Odabaşı et.al.|[2501.18128v1](http://arxiv.org/abs/2501.18128v1)|null|
 |**2025-01-29**|**A Comprehensive Survey on Legal Summarization: Challenges and Future Directions**|Mousumi Akter et.al.|[2501.17830v1](http://arxiv.org/abs/2501.17830v1)|null|
@@ -6309,7 +6309,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-31**|**Mixed Feelings: Cross-Domain Sentiment Classification of Patient Feedback**|Egil Rønningstad et.al.|[2501.19134v1](http://arxiv.org/abs/2501.19134v1)|null|
-|**2025-01-31**|**Scalable Multi-phase Word Embedding Using Conjunctive Propositional Clauses**|Ahmed K. Kadhim et.al.|[2501.19018v1](http://arxiv.org/abs/2501.19018v1)|null|
+|**2025-02-03**|**Scalable Multi-phase Word Embedding Using Conjunctive Propositional Clauses**|Ahmed K. Kadhim et.al.|[2501.19018v2](http://arxiv.org/abs/2501.19018v2)|null|
 |**2025-01-29**|**Semantic Consistency Regularization with Large Language Models for Semi-supervised Sentiment Analysis**|Kunrong Li et.al.|[2501.17598v1](http://arxiv.org/abs/2501.17598v1)|null|
 |**2025-01-29**|**Bayesian BIM-Guided Construction Robot Navigation with NLP Safety Prompts in Dynamic Environments**|Mani Amani et.al.|[2501.17437v1](http://arxiv.org/abs/2501.17437v1)|null|
 |**2025-01-23**|**Document-Level Sentiment Analysis of Urdu Text Using Deep Learning Techniques**|Ammarah Irum et.al.|[2501.17175v1](http://arxiv.org/abs/2501.17175v1)|null|
@@ -11642,11 +11642,11 @@ layout: default
 |**2025-01-31**|**Collaborative Diffusion Model for Recommender System**|Gyuseok Lee et.al.|[2501.18997v1](http://arxiv.org/abs/2501.18997v1)|null|
 |**2025-01-30**|**Are Representation Disentanglement and Interpretability Linked in Recommendation Models? A Critical Review and Reproducibility Study**|Ervin Dervishaj et.al.|[2501.18805v1](http://arxiv.org/abs/2501.18805v1)|**[link](https://github.com/edervishaj/disentanglement-interpretability-recsys)**|
 |**2025-01-30**|**HyperZero: A Customized End-to-End Auto-Tuning System for Recommendation with Hourly Feedback**|Xufeng Cai et.al.|[2501.18126v1](http://arxiv.org/abs/2501.18126v1)|null|
-|**2025-01-29**|**Value Function Decomposition in Markov Recommendation Process**|Xiaobei Wang et.al.|[2501.17409v1](http://arxiv.org/abs/2501.17409v1)|null|
+|**2025-02-01**|**Value Function Decomposition in Markov Recommendation Process**|Xiaobei Wang et.al.|[2501.17409v2](http://arxiv.org/abs/2501.17409v2)|null|
 |**2025-01-28**|**Secure Federated Graph-Filtering for Recommender Systems**|Julien Nicolas et.al.|[2501.16888v1](http://arxiv.org/abs/2501.16888v1)|null|
 |**2025-01-28**|**Irony Detection, Reasoning and Understanding in Zero-shot Learning**|Peiling Yi et.al.|[2501.16884v1](http://arxiv.org/abs/2501.16884v1)|null|
 |**2025-01-28**|**Hypergraph Diffusion for High-Order Recommender Systems**|Darnbi Sakong et.al.|[2501.16722v1](http://arxiv.org/abs/2501.16722v1)|null|
-|**2025-01-27**|**360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**|Hamed Firooz et.al.|[2501.16450v1](http://arxiv.org/abs/2501.16450v1)|null|
+|**2025-02-01**|**360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**|Hamed Firooz et.al.|[2501.16450v2](http://arxiv.org/abs/2501.16450v2)|null|
 |**2025-01-31**|**SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**|Jingtong Gao et.al.|[2501.16125v2](http://arxiv.org/abs/2501.16125v2)|null|
 |**2025-01-27**|**Demographic Benchmarking: Bridging Socio-Technical Gaps in Bias Detection**|Gemma Galdon Clavell et.al.|[2501.15985v1](http://arxiv.org/abs/2501.15985v1)|null|
 |**2025-01-27**|**Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System**|Yongchun Zhu et.al.|[2501.15817v1](http://arxiv.org/abs/2501.15817v1)|null|
@@ -15910,7 +15910,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-31**|**\underline{E2}Former: A Linear-time \underline{E}fficient and \underline{E}quivariant Trans\underline{former} for Scalable Molecular Modeling**|Yunyang Li et.al.|[2501.19216v1](http://arxiv.org/abs/2501.19216v1)|null|
+|**2025-02-03**|**E2Former: A Linear-time Efficient and Equivariant Transformer for Scalable Molecular Modeling**|Yunyang Li et.al.|[2501.19216v2](http://arxiv.org/abs/2501.19216v2)|null|
 |**2025-01-31**|**RIGNO: A Graph-based framework for robust and accurate operator learning for PDEs on arbitrary domains**|Sepehr Mousavi et.al.|[2501.19205v1](http://arxiv.org/abs/2501.19205v1)|**[link](https://github.com/camlab-ethz/rigno)**|
 |**2025-01-31**|**Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration**|Paul Fuchs et.al.|[2501.19179v1](http://arxiv.org/abs/2501.19179v1)|null|
 |**2025-01-31**|**Learning the Hamiltonian Matrix of Large Atomic Systems**|Chen Hao Xia et.al.|[2501.19110v1](http://arxiv.org/abs/2501.19110v1)|null|
