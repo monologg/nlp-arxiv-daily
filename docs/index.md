@@ -4154,7 +4154,7 @@ layout: default
 |**2025-02-06**|**TriNER: A Series of Named Entity Recognition Models For Hindi, Bengali & Marathi**|Mohammed Amaan Dhamaskar et.al.|[2502.04245v1](http://arxiv.org/abs/2502.04245v1)|null|
 |**2025-02-05**|**Efficient extraction of medication information from clinical notes: an evaluation in two languages**|Thibaut Fabacher et.al.|[2502.03257v1](http://arxiv.org/abs/2502.03257v1)|null|
 |**2025-02-04**|**Cross-Lingual Transfer for Low-Resource Natural Language Processing**|Iker García-Ferrero et.al.|[2502.02722v1](http://arxiv.org/abs/2502.02722v1)|null|
-|**2025-02-04**|**FewTopNER: Integrating Few-Shot Learning with Topic Modeling and Named Entity Recognition in a Multilingual Framework**|Ibrahim Bouabdallaoui et.al.|[2502.02391v1](http://arxiv.org/abs/2502.02391v1)|null|
+|**2025-02-04**|**FewTopNER: Integrating Few-Shot Learning with Topic Modeling and Named Entity Recognition in a Multilingual Framework**|Ibrahim Bouabdallaoui et.al.|[2502.02391v1](http://arxiv.org/abs/2502.02391v1)|**[link](https://github.com/ibrahimself/fewtopner)**|
 |**2025-02-03**|**Query Brand Entity Linking in E-Commerce Search**|Dong Liu et.al.|[2502.01555v1](http://arxiv.org/abs/2502.01555v1)|null|
 |**2025-02-03**|**Meursault as a Data Point**|Abhinav Pratap et.al.|[2502.01364v1](http://arxiv.org/abs/2502.01364v1)|null|
 |**2025-01-30**|**A Multi-Layered Large Language Model Framework for Disease Prediction**|Malak Mohamed et.al.|[2502.00063v1](http://arxiv.org/abs/2502.00063v1)|null|
@@ -4889,7 +4889,7 @@ layout: default
 |**2025-02-06**|**OpenSTARLab: Open Approach for Spatio-Temporal Agent Data Analysis in Soccer**|Calvin Yeung et.al.|[2502.02785v2](http://arxiv.org/abs/2502.02785v2)|null|
 |**2025-02-04**|**Development and validation of a high-fidelity full-spectrum Monte Carlo model for the Swiss airborne gamma-ray spectrometry system**|David Breitenmoser et.al.|[2502.02102v1](http://arxiv.org/abs/2502.02102v1)|null|
 |**2025-02-02**|**Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications**|Yixin Wu et.al.|[2502.00808v1](http://arxiv.org/abs/2502.00808v1)|null|
-|**2025-02-01**|**OneForecast: A Universal Framework for Global and Regional Weather Forecasting**|Yuan Gao et.al.|[2502.00338v1](http://arxiv.org/abs/2502.00338v1)|null|
+|**2025-02-01**|**OneForecast: A Universal Framework for Global and Regional Weather Forecasting**|Yuan Gao et.al.|[2502.00338v1](http://arxiv.org/abs/2502.00338v1)|**[link](https://github.com/yuangao-yg/oneforecast)**|
 |**2025-02-01**|**DEUCE: Dual-diversity Enhancement and Uncertainty-awareness for Cold-start Active Learning**|Jiaxin Guo et.al.|[2502.00305v1](http://arxiv.org/abs/2502.00305v1)|null|
 |**2025-01-31**|**Through the Looking Glass: LLM-Based Analysis of AR/VR Android Applications Privacy Policies**|Abdulaziz Alghamdi et.al.|[2501.19223v1](http://arxiv.org/abs/2501.19223v1)|null|
 |**2025-01-31**|**Memory-Efficient Fine-Tuning of Transformers via Token Selection**|Antoine Simoulin et.al.|[2501.18824v1](http://arxiv.org/abs/2501.18824v1)|null|
@@ -10620,7 +10620,7 @@ layout: default
 |**2025-01-28**|**Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning**|Lindy Gan et.al.|[2501.16813v1](http://arxiv.org/abs/2501.16813v1)|null|
 |**2025-01-27**|**3CEL: A corpus of legal Spanish contract clauses**|Nuria Aldama García et.al.|[2501.15990v1](http://arxiv.org/abs/2501.15990v1)|null|
 |**2025-01-26**|**Exponential Improvement on Asian Option Pricing Through Quantum Preconditioning Methods**|Gumaro Rendon et.al.|[2501.15614v1](http://arxiv.org/abs/2501.15614v1)|null|
-|**2025-01-25**|**Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models**|Hulingxiao He et.al.|[2501.15140v1](http://arxiv.org/abs/2501.15140v1)|null|
+|**2025-01-25**|**Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models**|Hulingxiao He et.al.|[2501.15140v1](http://arxiv.org/abs/2501.15140v1)|**[link](https://github.com/pku-icst-mipl/finedefics_iclr2025)**|
 |**2025-01-24**|**Human Activity Recognition with a 6.5 GHz Reconfigurable Intelligent Surface for Wi-Fi 6E**|Nuno Paulino et.al.|[2501.14423v1](http://arxiv.org/abs/2501.14423v1)|null|
 |**2025-01-24**|**High-Precision Fabric Defect Detection via Adaptive Shape Convolutions and Large Kernel Spatial Modeling**|Shuai Wang et.al.|[2501.14190v1](http://arxiv.org/abs/2501.14190v1)|null|
 |**2025-01-23**|**Learning-based A Posteriori Speech Presence Probability Estimation and Applications**|Shuai Tao et.al.|[2501.13642v1](http://arxiv.org/abs/2501.13642v1)|null|
