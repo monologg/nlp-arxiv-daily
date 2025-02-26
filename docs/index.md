@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -3967,7 +3967,7 @@ layout: default
 |**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|**[link](https://github.com/shuhengl/acl2023_conllpp)**|
 |**2022-12-19**|**MANER: Mask Augmented Named Entity Recognition for Extreme Low-Resource Languages**|Shashank Sonkar et.al.|[2212.09723v1](http://arxiv.org/abs/2212.09723v1)|null|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Legal NLP
 
@@ -4197,7 +4197,7 @@ layout: default
 |**2014-11-03**|**Unsupervised Keyword Extraction from Polish Legal Texts**|Michał Jungiewicz et.al.|[1408.3731v2](http://arxiv.org/abs/1408.3731v2)|null|
 |**2011-03-16**|**Information and Entanglement Measures in Quantum Systems With Applications to Atomic Physics**|Daniel Manzano et.al.|[1103.3186v1](http://arxiv.org/abs/1103.3186v1)|null|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Sequence Annotation
 
@@ -4243,7 +4243,7 @@ layout: default
 |**2008-02-16**|**Radio-loudness of Active Galaxies and the Black Hole Evolution**|M. Sikora et.al.|[0802.2302v1](http://arxiv.org/abs/0802.2302v1)|null|
 |**2007-07-16**|**Radio Loudness of AGNs: Host Galaxy Morphology and the Spin Paradigm**|L. Stawarz et.al.|[0707.2369v1](http://arxiv.org/abs/0707.2369v1)|null|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Named Entity Recognition
 
@@ -4985,7 +4985,7 @@ layout: default
 |**2022-10-12**|**MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score**|Sunjae Kwon et.al.|[2210.05875v1](http://arxiv.org/abs/2210.05875v1)|**[link](https://github.com/mozzitastebitter/medjex)**|
 |**2022-10-11**|**SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition**|Zeng Yang et.al.|[2210.05632v1](http://arxiv.org/abs/2210.05632v1)|**[link](https://github.com/unveiled-the-red-hat/SEE-Few)**|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Text Classification
 
@@ -4996,7 +4996,7 @@ layout: default
 |**2025-02-21**|**MHQA: A Diverse, Knowledge Intensive Mental Health Question Answering Challenge for Language Models**|Suraj Racha et.al.|[2502.15418v1](http://arxiv.org/abs/2502.15418v1)|null|
 |**2025-02-23**|**Sparse Activations as Conformal Predictors**|Margarida M. Campos et.al.|[2502.14773v2](http://arxiv.org/abs/2502.14773v2)|**[link](https://github.com/deep-spin/sparse-activations-cp)**|
 |**2025-02-20**|**An Enhancement of Jiang, Z., et al.s Compression-Based Classification Algorithm Applied to News Article Categorization**|Sean Lester C. Benavides et.al.|[2502.14444v1](http://arxiv.org/abs/2502.14444v1)|null|
-|**2025-02-20**|**Token-Level Density-Based Uncertainty Quantification Methods for Eliciting Truthfulness of Large Language Models**|Artem Vazhentsev et.al.|[2502.14427v1](http://arxiv.org/abs/2502.14427v1)|**[link](https://github.com/ArtemVazh/token_mahalanobis_distance)**|
+|**2025-02-20**|**Token-Level Density-Based Uncertainty Quantification Methods for Eliciting Truthfulness of Large Language Models**|Artem Vazhentsev et.al.|[2502.14427v1](http://arxiv.org/abs/2502.14427v1)|null|
 |**2025-02-20**|**QUAD-LLM-MLTC: Large Language Models Ensemble Learning for Healthcare Text Multi-Label Classification**|Hajar Sakai et.al.|[2502.14189v1](http://arxiv.org/abs/2502.14189v1)|null|
 |**2025-02-21**|**Giving AI Personalities Leads to More Human-Like Reasoning**|Animesh Nighojkar et.al.|[2502.14155v2](http://arxiv.org/abs/2502.14155v2)|null|
 |**2025-02-19**|**Self-Regularization with Latent Space Explanations for Controllable LLM-based Classification**|Xuansheng Wu et.al.|[2502.14133v1](http://arxiv.org/abs/2502.14133v1)|null|
@@ -6494,7 +6494,7 @@ layout: default
 |**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/microsoft/scglab)**|
 |**2022-11-18**|**3d human motion generation from the text via gesture action classification and the autoregressive model**|Gwantae Kim et.al.|[2211.10003v1](http://arxiv.org/abs/2211.10003v1)|null|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Sentiment Analysis
 
@@ -6503,7 +6503,7 @@ layout: default
 |**2025-02-24**|**Sentiment analysis of texts from social networks based on machine learning methods for monitoring public sentiment**|Arsen Tolebay Nurlanuly et.al.|[2502.17143v1](http://arxiv.org/abs/2502.17143v1)|null|
 |**2025-02-24**|**Hotter and Colder: A New Approach to Annotating Sentiment, Emotions, and Bias in Icelandic Blog Comments**|Steinunn Rut Friðriksdóttir et.al.|[2502.16987v1](http://arxiv.org/abs/2502.16987v1)|null|
 |**2025-02-24**|**Applying LLMs to Active Learning: Towards Cost-Efficient Cross-Task Text Classification without Manually Labeled Data**|Yejian Zhang et.al.|[2502.16892v1](http://arxiv.org/abs/2502.16892v1)|null|
-|**2025-02-23**|**FanChuan: A Multilingual and Graph-Structured Benchmark For Parody Detection and Analysis**|Yilun Zheng et.al.|[2502.16503v1](http://arxiv.org/abs/2502.16503v1)|null|
+|**2025-02-23**|**FanChuan: A Multilingual and Graph-Structured Benchmark For Parody Detection and Analysis**|Yilun Zheng et.al.|[2502.16503v1](http://arxiv.org/abs/2502.16503v1)|**[link](https://github.com/lisaaa1017/fanchuan)**|
 |**2025-02-22**|**An End-to-End Homomorphically Encrypted Neural Network**|Marcos Florencio et.al.|[2502.16176v1](http://arxiv.org/abs/2502.16176v1)|null|
 |**2025-02-21**|**Advancing User-Voice Interaction: Exploring Emotion-Aware Voice Assistants Through a Role-Swapping Approach**|Yong Ma et.al.|[2502.15367v1](http://arxiv.org/abs/2502.15367v1)|null|
 |**2025-02-21**|**SentiFormer: Metadata Enhanced Transformer for Image Sentiment Analysis**|Bin Feng et.al.|[2502.15322v1](http://arxiv.org/abs/2502.15322v1)|null|
@@ -7587,22 +7587,22 @@ layout: default
 |**2022-10-18**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-10-14**|**Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**|Sishuo Chen et.al.|[2210.07907v1](http://arxiv.org/abs/2210.07907v1)|**[link](https://github.com/lancopku/dan)**|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Question Answering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422v1](http://arxiv.org/abs/2502.17422v1)|null|
+|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422v1](http://arxiv.org/abs/2502.17422v1)|**[link](https://github.com/saccharomycetes/mllms_know)**|
 |**2025-02-24**|**Turning Conversations into Workflows: A Framework to Extract and Evaluate Dialog Workflows for Service AI Agents**|Prafulla Kumar Choubey et.al.|[2502.17321v1](http://arxiv.org/abs/2502.17321v1)|null|
-|**2025-02-24**|**HIPPO: Enhancing the Table Understanding Capability of Large Language Models through Hybrid-Modal Preference Optimization**|Zhenghao Liu et.al.|[2502.17315v1](http://arxiv.org/abs/2502.17315v1)|null|
+|**2025-02-24**|**HIPPO: Enhancing the Table Understanding Capability of Large Language Models through Hybrid-Modal Preference Optimization**|Zhenghao Liu et.al.|[2502.17315v1](http://arxiv.org/abs/2502.17315v1)|**[link](https://github.com/neuir/hippo)**|
 |**2025-02-24**|**Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts**|Zhenghao Liu et.al.|[2502.17297v1](http://arxiv.org/abs/2502.17297v1)|null|
-|**2025-02-24**|**MULTITAT: Benchmarking Multilingual Table-and-Text Question Answering**|Xuanliang Zhang et.al.|[2502.17253v1](http://arxiv.org/abs/2502.17253v1)|null|
-|**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239v1](http://arxiv.org/abs/2502.17239v1)|null|
+|**2025-02-24**|**MULTITAT: Benchmarking Multilingual Table-and-Text Question Answering**|Xuanliang Zhang et.al.|[2502.17253v1](http://arxiv.org/abs/2502.17253v1)|**[link](https://github.com/zhxlia/multitat)**|
+|**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239v1](http://arxiv.org/abs/2502.17239v1)|**[link](https://github.com/baichuan-inc/baichuan-audio)**|
 |**2025-02-24**|**LettuceDetect: A Hallucination Detection Framework for RAG Applications**|Ádám Kovács et.al.|[2502.17125v1](http://arxiv.org/abs/2502.17125v1)|null|
 |**2025-02-24**|**All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark**|Davide Testa et.al.|[2502.16989v1](http://arxiv.org/abs/2502.16989v1)|null|
 |**2025-02-24**|**AAD-LLM: Neural Attention-Driven Auditory Scene Understanding**|Xilin Jiang et.al.|[2502.16794v1](http://arxiv.org/abs/2502.16794v1)|null|
-|**2025-02-24**|**MultiOCR-QA: Dataset for Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts**|Bhawna Piryani et.al.|[2502.16781v1](http://arxiv.org/abs/2502.16781v1)|null|
+|**2025-02-24**|**MultiOCR-QA: Dataset for Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts**|Bhawna Piryani et.al.|[2502.16781v1](http://arxiv.org/abs/2502.16781v1)|**[link](https://github.com/datascienceuibk/multiocr-qa)**|
 |**2025-02-21**|**Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?**|Yoshua Bengio et.al.|[2502.15657v1](http://arxiv.org/abs/2502.15657v1)|null|
 |**2025-02-21**|**Empowering LLMs with Logical Reasoning: A Comprehensive Survey**|Fengxiang Cheng et.al.|[2502.15652v1](http://arxiv.org/abs/2502.15652v1)|null|
 |**2025-02-21**|**Chats-Grid: An Iterative Retrieval Q&A Optimization Scheme Leveraging Large Model and Retrieval Enhancement Generation in smart grid**|Yunfeng Li et.al.|[2502.15583v1](http://arxiv.org/abs/2502.15583v1)|null|
@@ -10892,7 +10892,7 @@ layout: default
 |**2022-12-02**|**Compound Tokens: Channel Fusion for Vision-Language Representation Learning**|Maxwell Mbabilla Aladago et.al.|[2212.01447v1](http://arxiv.org/abs/2212.01447v1)|null|
 |**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|**[link](https://github.com/mlvlab/qat)**|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -10901,7 +10901,7 @@ layout: default
 |**2025-02-24**|**Real-time Monitoring of Economic Shocks using Company Websites**|Michael Koenig et.al.|[2502.17161v1](http://arxiv.org/abs/2502.17161v1)|null|
 |**2025-02-23**|**Few-shot Continual Relation Extraction via Open Information Extraction**|Thiem Nguyen et.al.|[2502.16648v1](http://arxiv.org/abs/2502.16648v1)|null|
 |**2025-02-22**|**Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines**|Saurabh Srivastava et.al.|[2502.16377v1](http://arxiv.org/abs/2502.16377v1)|null|
-|**2025-02-22**|**OmniParser V2: Structured-Points-of-Thought for Unified Visual Text Parsing and Its Generality to Multimodal Large Language Models**|Wenwen Yu et.al.|[2502.16161v1](http://arxiv.org/abs/2502.16161v1)|null|
+|**2025-02-22**|**OmniParser V2: Structured-Points-of-Thought for Unified Visual Text Parsing and Its Generality to Multimodal Large Language Models**|Wenwen Yu et.al.|[2502.16161v1](http://arxiv.org/abs/2502.16161v1)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
 |**2025-02-21**|**MMRAG: Multi-Mode Retrieval-Augmented Generation with Large Language Models for Biomedical In-Context Learning**|Zaifu Zhan et.al.|[2502.15954v1](http://arxiv.org/abs/2502.15954v1)|null|
 |**2025-02-21**|**Enhancing Domain-Specific Retrieval-Augmented Generation: Synthetic Data Generation and Evaluation using Reasoning Models**|Aryan Jadon et.al.|[2502.15854v1](http://arxiv.org/abs/2502.15854v1)|null|
 |**2025-02-21**|**Multimodal Graph-Based Variational Mixture of Experts Network for Zero-Shot Multimodal Information Extraction**|Baohang Zhou et.al.|[2502.15290v1](http://arxiv.org/abs/2502.15290v1)|null|
@@ -12025,7 +12025,7 @@ layout: default
 |**2022-10-17**|**Zero-Shot Ranking Socio-Political Texts with Transformer Language Models to Reduce Close Reading Time**|Kiymet Akdemir et.al.|[2210.09179v1](http://arxiv.org/abs/2210.09179v1)|null|
 |**2022-10-17**|**Modeling the Lighting in Scenes as Style for Auto White-Balance Correction**|Furkan Kınlı et.al.|[2210.09090v1](http://arxiv.org/abs/2210.09090v1)|**[link](https://github.com/birdortyedi/lighting-as-style-awb-correction)**|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Recommendation System
 
@@ -14480,7 +14480,7 @@ layout: default
 |**2022-11-27**|**Dense Text Retrieval based on Pretrained Language Models: A Survey**|Wayne Xin Zhao et.al.|[2211.14876v1](http://arxiv.org/abs/2211.14876v1)|**[link](https://github.com/paddlepaddle/rocketqa)**|
 |**2022-11-27**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|**[link](https://github.com/chengang95/unkd)**|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## Knowledge Graph
 
@@ -16472,7 +16472,7 @@ layout: default
 |**2022-11-18**|**Novelpy: A Python package to measure novelty and disruptiveness of bibliometric and patent data**|Pierre Pelletier et.al.|[2211.10346v1](http://arxiv.org/abs/2211.10346v1)|**[link](https://github.com/kwirtz/novelpy)**|
 |**2022-11-18**|**Contrastive Knowledge Graph Error Detection**|Qinggang Zhang et.al.|[2211.10030v1](http://arxiv.org/abs/2211.10030v1)|**[link](https://github.com/qing145/caged)**|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
 ## GNN
 
@@ -20140,5 +20140,5 @@ layout: default
 |**2022-12-14**|**On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|**[link](https://github.com/ethanchu7/nseg)**|
 |**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 
-<p align=right>(<a href='#updated-on-20250225'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250226'>back to top</a>)</p>
 
