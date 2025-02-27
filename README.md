@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Evaluating LLMs and Pre-trained Models for Text Summarization Across Diverse Datasets**|Tohida Rehman et.al.|[2502.19339v1](http://arxiv.org/abs/2502.19339v1)|null|
+|**2025-02-26**|**Disentangled VAD Representations via a Variational Framework for Political Stance Detection**|Beiyu Xu et.al.|[2502.19276v1](http://arxiv.org/abs/2502.19276v1)|null|
+|**2025-02-26**|**A Hybrid Transformer Architecture with a Quantized Self-Attention Mechanism Applied to Molecular Generation**|Anthony M. Smaldone et.al.|[2502.19214v1](http://arxiv.org/abs/2502.19214v1)|null|
+|**2025-02-26**|**UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering**|Langming Liu et.al.|[2502.19178v1](http://arxiv.org/abs/2502.19178v1)|null|
+|**2025-02-26**|**Improving customer service with automatic topic detection in user emails**|Bojana Bašaragin et.al.|[2502.19115v1](http://arxiv.org/abs/2502.19115v1)|null|
+|**2025-02-26**|**LongEval: A Comprehensive Analysis of Long-Text Generation Through a Plan-based Paradigm**|Siwei Wu et.al.|[2502.19103v1](http://arxiv.org/abs/2502.19103v1)|null|
+|**2025-02-26**|**Binary Neural Networks for Large Language Model: A Survey**|Liangdong Liu et.al.|[2502.19008v1](http://arxiv.org/abs/2502.19008v1)|null|
+|**2025-02-26**|**END: Early Noise Dropping for Efficient and Effective Context Denoising**|Hongye Jin et.al.|[2502.18915v1](http://arxiv.org/abs/2502.18915v1)|null|
+|**2025-02-26**|**Sentiment Analysis of Movie Reviews Using BERT**|Gibson Nkhata et.al.|[2502.18841v1](http://arxiv.org/abs/2502.18841v1)|null|
+|**2025-02-26**|**CAMEx: Curvature-aware Merging of Experts**|Dung V. Nguyen et.al.|[2502.18821v1](http://arxiv.org/abs/2502.18821v1)|null|
 |**2025-02-25**|**DBR: Divergence-Based Regularization for Debiasing Natural Language Understanding Models**|Zihao Li et.al.|[2502.18353v1](http://arxiv.org/abs/2502.18353v1)|null|
 |**2025-02-25**|**Mapping of Subjective Accounts into Interpreted Clusters (MOSAIC): Topic Modelling and LLM applied to Stroboscopic Phenomenology**|Romy Beauté et.al.|[2502.18318v1](http://arxiv.org/abs/2502.18318v1)|null|
 |**2025-02-25**|**GraphRank Pro+: Advancing Talent Analytics Through Knowledge Graphs and Sentiment-Enhanced Skill Profiling**|Sirisha Velampalli et.al.|[2502.18315v1](http://arxiv.org/abs/2502.18315v1)|null|
@@ -4252,6 +4262,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Plutus: Benchmarking Large Language Models in Low-Resource Greek Finance**|Xueqing Peng et.al.|[2502.18772v1](http://arxiv.org/abs/2502.18772v1)|null|
+|**2025-02-25**|**A Cooperative Multi-Agent Framework for Zero-Shot Named Entity Recognition**|Zihan Wang et.al.|[2502.18702v1](http://arxiv.org/abs/2502.18702v1)|null|
 |**2025-02-22**|**Iterative Auto-Annotation for Scientific Named Entity Recognition Using BERT-Based Models**|Kartik Gupta et.al.|[2502.16312v1](http://arxiv.org/abs/2502.16312v1)|null|
 |**2025-02-21**|**MMRAG: Multi-Mode Retrieval-Augmented Generation with Large Language Models for Biomedical In-Context Learning**|Zaifu Zhan et.al.|[2502.15954v1](http://arxiv.org/abs/2502.15954v1)|null|
 |**2025-02-20**|**Beyond the Surface: Uncovering Implicit Locations with LLMs for Personalized Local News**|Gali Katz et.al.|[2502.14660v1](http://arxiv.org/abs/2502.14660v1)|null|
@@ -4994,6 +5006,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Active Few-Shot Learning for Text Classification**|Saeed Ahmadnia et.al.|[2502.18782v1](http://arxiv.org/abs/2502.18782v1)|null|
+|**2025-02-25**|**Enhancing Text Classification with a Novel Multi-Agent Collaboration Framework Leveraging BERT**|Hediyeh Baban et.al.|[2502.18653v1](http://arxiv.org/abs/2502.18653v1)|null|
 |**2025-02-25**|**MAGE: Multi-Head Attention Guided Embeddings for Low Resource Sentiment Classification**|Varun Vashisht et.al.|[2502.17987v1](http://arxiv.org/abs/2502.17987v1)|null|
 |**2025-02-24**|**Applying LLMs to Active Learning: Towards Cost-Efficient Cross-Task Text Classification without Manually Labeled Data**|Yejian Zhang et.al.|[2502.16892v1](http://arxiv.org/abs/2502.16892v1)|null|
 |**2025-02-21**|**MMRAG: Multi-Mode Retrieval-Augmented Generation with Large Language Models for Biomedical In-Context Learning**|Zaifu Zhan et.al.|[2502.15954v1](http://arxiv.org/abs/2502.15954v1)|null|
@@ -6504,6 +6518,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Residual Speech Embeddings for Tone Classification: Removing Linguistic Content to Enhance Paralinguistic Analysis**|Hamdan Al Ahbabi et.al.|[2502.19387v1](http://arxiv.org/abs/2502.19387v1)|null|
+|**2025-02-26**|**Sentiment Analysis of Movie Reviews Using BERT**|Gibson Nkhata et.al.|[2502.18841v1](http://arxiv.org/abs/2502.18841v1)|null|
 |**2025-02-24**|**Sentiment analysis of texts from social networks based on machine learning methods for monitoring public sentiment**|Arsen Tolebay Nurlanuly et.al.|[2502.17143v1](http://arxiv.org/abs/2502.17143v1)|null|
 |**2025-02-24**|**Hotter and Colder: A New Approach to Annotating Sentiment, Emotions, and Bias in Icelandic Blog Comments**|Steinunn Rut Friðriksdóttir et.al.|[2502.16987v1](http://arxiv.org/abs/2502.16987v1)|null|
 |**2025-02-24**|**Applying LLMs to Active Learning: Towards Cost-Efficient Cross-Task Text Classification without Manually Labeled Data**|Yejian Zhang et.al.|[2502.16892v1](http://arxiv.org/abs/2502.16892v1)|null|
@@ -7597,6 +7613,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**FSPO: Few-Shot Preference Optimization of Synthetic Preference Data in LLMs Elicits Effective Personalization to Real Users**|Anikait Singh et.al.|[2502.19312v1](http://arxiv.org/abs/2502.19312v1)|null|
+|**2025-02-26**|**LiGT: Layout-infused Generative Transformer for Visual Question Answering on Vietnamese Receipts**|Thanh-Phong Le et.al.|[2502.19202v1](http://arxiv.org/abs/2502.19202v1)|null|
+|**2025-02-26**|**UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering**|Langming Liu et.al.|[2502.19178v1](http://arxiv.org/abs/2502.19178v1)|null|
+|**2025-02-26**|**Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey**|Anastasios Nentidis et.al.|[2502.19023v1](http://arxiv.org/abs/2502.19023v1)|null|
+|**2025-02-26**|**MEBench: Benchmarking Large Language Models for Cross-Document Multi-Entity Question Answering**|Teng Lin et.al.|[2502.18993v1](http://arxiv.org/abs/2502.18993v1)|null|
+|**2025-02-26**|**END: Early Noise Dropping for Efficient and Effective Context Denoising**|Hongye Jin et.al.|[2502.18915v1](http://arxiv.org/abs/2502.18915v1)|null|
+|**2025-02-26**|**Exploring Rewriting Approaches for Different Conversational Tasks**|Md Mehrab Tanjim et.al.|[2502.18860v1](http://arxiv.org/abs/2502.18860v1)|null|
+|**2025-02-26**|**Plutus: Benchmarking Large Language Models in Low-Resource Greek Finance**|Xueqing Peng et.al.|[2502.18772v1](http://arxiv.org/abs/2502.18772v1)|null|
+|**2025-02-26**|**Talking to the brain: Using Large Language Models as Proxies to Model Brain Semantic Representation**|Xin Liu et.al.|[2502.18725v1](http://arxiv.org/abs/2502.18725v1)|null|
+|**2025-02-25**|**What are Foundation Models Cooking in the Post-Soviet World?**|Anton Lavrouk et.al.|[2502.18583v1](http://arxiv.org/abs/2502.18583v1)|null|
 |**2025-02-25**|**KiRAG: Knowledge-Driven Iterative Retriever for Enhancing Retrieval-Augmented Generation**|Jinyuan Fang et.al.|[2502.18397v1](http://arxiv.org/abs/2502.18397v1)|null|
 |**2025-02-25**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Zhang Yuxuan et.al.|[2502.18168v1](http://arxiv.org/abs/2502.18168v1)|null|
 |**2025-02-25**|**LevelRAG: Enhancing Retrieval-Augmented Generation with Multi-hop Logic Planning over Rewriting Augmented Searchers**|Zhuocheng Zhang et.al.|[2502.18139v1](http://arxiv.org/abs/2502.18139v1)|null|
@@ -10912,6 +10938,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**MEBench: Benchmarking Large Language Models for Cross-Document Multi-Entity Question Answering**|Teng Lin et.al.|[2502.18993v1](http://arxiv.org/abs/2502.18993v1)|null|
+|**2025-02-26**|**Sherlock: Towards Multi-scene Video Abnormal Event Extraction and Localization via a Global-local Spatial-sensitive LLM**|Junxiao Ma et.al.|[2502.18863v1](http://arxiv.org/abs/2502.18863v1)|null|
 |**2025-02-25**|**GraphRank Pro+: Advancing Talent Analytics Through Knowledge Graphs and Sentiment-Enhanced Skill Profiling**|Sirisha Velampalli et.al.|[2502.18315v1](http://arxiv.org/abs/2502.18315v1)|null|
 |**2025-02-25**|**Improving Unstructured Data Quality via Updatable Extracted Views**|Besat Kassaie et.al.|[2502.18221v1](http://arxiv.org/abs/2502.18221v1)|null|
 |**2025-02-25**|**Problem Solved? Information Extraction Design Space for Layout-Rich Documents using LLMs**|Gaye Colakoglu et.al.|[2502.18179v1](http://arxiv.org/abs/2502.18179v1)|null|
@@ -12049,6 +12077,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Multiview graph dual-attention deep learning and contrastive learning for multi-criteria recommender systems**|Saman Forouzandeh et.al.|[2502.19271v1](http://arxiv.org/abs/2502.19271v1)|null|
+|**2025-02-26**|**A 106K Multi-Topic Multilingual Conversational User Dataset with Emoticons**|Heng Er Metilda Chee et.al.|[2502.19108v1](http://arxiv.org/abs/2502.19108v1)|null|
+|**2025-02-26**|**Overcoming the Price of Anarchy by Steering with Recommendations**|Cesare Carissimo et.al.|[2502.18988v1](http://arxiv.org/abs/2502.18988v1)|null|
+|**2025-02-26**|**OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment**|Jiaxin Deng et.al.|[2502.18965v1](http://arxiv.org/abs/2502.18965v1)|null|
+|**2025-02-26**|**Credible Intervals for Knowledge Graph Accuracy Estimation**|Stefano Marchesin et.al.|[2502.18961v1](http://arxiv.org/abs/2502.18961v1)|null|
+|**2025-02-26**|**Training Large Recommendation Models via Graph-Language Token Alignment**|Mingdai Yang et.al.|[2502.18757v1](http://arxiv.org/abs/2502.18757v1)|null|
+|**2025-02-26**|**AgentSociety Challenge: Designing LLM Agents for User Modeling and Recommendation on Web Platforms**|Yuwei Yan et.al.|[2502.18754v1](http://arxiv.org/abs/2502.18754v1)|null|
 |**2025-02-25**|**Unmasking Gender Bias in Recommendation Systems and Enhancing Category-Aware Fairness**|Tahsin Alamgir Kheya et.al.|[2502.17921v1](http://arxiv.org/abs/2502.17921v1)|null|
 |**2025-02-24**|**FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation**|Ruochen Liu et.al.|[2502.16924v1](http://arxiv.org/abs/2502.16924v1)|null|
 |**2025-02-24**|**The Blessing of Reasoning: LLM-Based Contrastive Explanations in Black-Box Recommender Systems**|Yuyan Wang et.al.|[2502.16759v1](http://arxiv.org/abs/2502.16759v1)|null|
@@ -14505,6 +14540,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Corporate Fraud Detection in Rich-yet-Noisy Financial Graph**|Shiqi Wang et.al.|[2502.19305v1](http://arxiv.org/abs/2502.19305v1)|null|
+|**2025-02-26**|**Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey**|Anastasios Nentidis et.al.|[2502.19023v1](http://arxiv.org/abs/2502.19023v1)|null|
+|**2025-02-26**|**OntologyRAG: Better and Faster Biomedical Code Mapping with Retrieval-Augmented Generation (RAG) Leveraging Ontology Knowledge Graphs and Large Language Models**|Hui Feng et.al.|[2502.18992v1](http://arxiv.org/abs/2502.18992v1)|null|
+|**2025-02-26**|**Credible Intervals for Knowledge Graph Accuracy Estimation**|Stefano Marchesin et.al.|[2502.18961v1](http://arxiv.org/abs/2502.18961v1)|null|
+|**2025-02-26**|**Talking like Piping and Instrumentation Diagrams (P&IDs)**|Achmad Anggawirya Alimin et.al.|[2502.18928v1](http://arxiv.org/abs/2502.18928v1)|null|
+|**2025-02-26**|**Holistic Audit Dataset Generation for LLM Unlearning via Knowledge Graph Traversal and Redundancy Removal**|Weipeng Jiang et.al.|[2502.18810v1](http://arxiv.org/abs/2502.18810v1)|null|
+|**2025-02-26**|**CommGPT: A Graph and Retrieval-Augmented Multimodal Communication Foundation Model**|Feibo Jiang et.al.|[2502.18763v1](http://arxiv.org/abs/2502.18763v1)|null|
 |**2025-02-25**|**GraphRank Pro+: Advancing Talent Analytics Through Knowledge Graphs and Sentiment-Enhanced Skill Profiling**|Sirisha Velampalli et.al.|[2502.18315v1](http://arxiv.org/abs/2502.18315v1)|null|
 |**2025-02-25**|**Quantum negative sampling strategy for knowledge graph embedding with variational circuit**|Pulak Ranjan Giri et.al.|[2502.17973v1](http://arxiv.org/abs/2502.17973v1)|null|
 |**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132v1](http://arxiv.org/abs/2502.17132v1)|null|
@@ -16499,6 +16541,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization**|Arman Mielke et.al.|[2502.19377v1](http://arxiv.org/abs/2502.19377v1)|null|
+|**2025-02-26**|**GraphBridge: Towards Arbitrary Transfer Learning in GNNs**|Li Ju et.al.|[2502.19252v1](http://arxiv.org/abs/2502.19252v1)|null|
+|**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181v1](http://arxiv.org/abs/2502.19181v1)|null|
+|**2025-02-26**|**Graph Neural Networks embedded into Margules model for vapor-liquid equilibria prediction**|Edgar Ivan Sanchez Medina et.al.|[2502.18998v1](http://arxiv.org/abs/2502.18998v1)|null|
+|**2025-02-26**|**SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation**|Fanglei Xue et.al.|[2502.18875v1](http://arxiv.org/abs/2502.18875v1)|null|
+|**2025-02-26**|**TabGLM: Tabular Graph Language Model for Learning Transferable Representations Through Multi-Modal Consistency Minimization**|Anay Majee et.al.|[2502.18847v1](http://arxiv.org/abs/2502.18847v1)|null|
+|**2025-02-26**|**Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation**|Yuxiang Wang et.al.|[2502.18771v1](http://arxiv.org/abs/2502.18771v1)|**[link](https://github.com/myflashbarry/LLM-benchmarking)**|
+|**2025-02-26**|**Robust Prediction of Frictional Contact Network in Near-Jamming Suspensions Employing Deep Graph Neural Networks**|Armin Aminimajd et.al.|[2502.18743v1](http://arxiv.org/abs/2502.18743v1)|null|
 |**2025-02-25**|**Graph Augmentation for Cross Graph Domain Generalization**|Guanzi Chen et.al.|[2502.18188v1](http://arxiv.org/abs/2502.18188v1)|null|
 |**2025-02-25**|**ExPath: Towards Explaining Targeted Pathways for Biological Knowledge Bases**|Rikuto Kotoge et.al.|[2502.18026v1](http://arxiv.org/abs/2502.18026v1)|null|
 |**2025-02-25**|**GNN-XAR: A Graph Neural Network for Explainable Activity Recognition in Smart Homes**|Michele Fiori et.al.|[2502.17999v1](http://arxiv.org/abs/2502.17999v1)|null|
