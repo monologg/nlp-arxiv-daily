@@ -25,6 +25,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models**|Dong Shu et.al.|[2503.05613v1](http://arxiv.org/abs/2503.05613v1)|null|
+|**2025-03-07**|**MatrixFlow: System-Accelerator co-design for high-performance transformer applications**|Qunyou Liu et.al.|[2503.05290v1](http://arxiv.org/abs/2503.05290v1)|null|
+|**2025-03-07**|**Revealing Hidden Mechanisms of Cross-Country Content Moderation with Natural Language Processing**|Neemesh Yadav et.al.|[2503.05280v1](http://arxiv.org/abs/2503.05280v1)|null|
+|**2025-03-07**|**AutoTestForge: A Multidimensional Automated Testing Framework for Natural Language Processing Models**|Hengrui Xing et.al.|[2503.05102v1](http://arxiv.org/abs/2503.05102v1)|null|
+|**2025-03-06**|**Quantifying the Relevance of Youth Research Cited in the US Policy Documents**|Miftahul Jannat Mokarrama et.al.|[2503.04977v1](http://arxiv.org/abs/2503.04977v1)|null|
+|**2025-03-06**|**Spectral Informed Mamba for Robust Point Cloud Processing**|Ali Bahri et.al.|[2503.04953v1](http://arxiv.org/abs/2503.04953v1)|null|
 |**2025-03-06**|**Compositional Translation: A Novel LLM-based Approach for Low-resource Machine Translation**|Armel Zebaze et.al.|[2503.04554v1](http://arxiv.org/abs/2503.04554v1)|null|
 |**2025-03-06**|**Comparative Study of Zero-Shot Cross-Lingual Transfer for Bodo POS and NER Tagging Using Gemini 2.0 Flash Thinking Experimental Model**|Sanjib Narzary et.al.|[2503.04405v1](http://arxiv.org/abs/2503.04405v1)|null|
 |**2025-03-05**|**SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches**|Hiroyuki Deguchi et.al.|[2503.03703v1](http://arxiv.org/abs/2503.03703v1)|null|
@@ -4306,6 +4312,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Leveraging Semantic Type Dependencies for Clinical Named Entity Recognition**|Linh Le et.al.|[2503.05373v1](http://arxiv.org/abs/2503.05373v1)|null|
+|**2025-03-06**|**From Voice to Safety: Language AI Powered Pilot-ATC Communication Understanding for Airport Surface Movement Collision Risk Assessment**|Yutian Pang et.al.|[2503.04974v1](http://arxiv.org/abs/2503.04974v1)|null|
+|**2025-02-27**|**Analyzing the temporal dynamics of linguistic features contained in misinformation**|Erik J Schlicht et.al.|[2503.04786v1](http://arxiv.org/abs/2503.04786v1)|null|
 |**2025-03-06**|**Comparative Study of Zero-Shot Cross-Lingual Transfer for Bodo POS and NER Tagging Using Gemini 2.0 Flash Thinking Experimental Model**|Sanjib Narzary et.al.|[2503.04405v1](http://arxiv.org/abs/2503.04405v1)|null|
 |**2025-03-04**|**NLI4DB: A Systematic Review of Natural Language Interfaces for Databases**|Mengyi Liu et.al.|[2503.02435v1](http://arxiv.org/abs/2503.02435v1)|null|
 |**2025-03-03**|**HREB-CRF: Hierarchical Reduced-bias EMA for Chinese Named Entity Recognition**|Sijin Sun et.al.|[2503.01217v1](http://arxiv.org/abs/2503.01217v1)|null|
@@ -5056,6 +5065,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Similarity-Based Domain Adaptation with LLMs**|Jie He et.al.|[2503.05281v1](http://arxiv.org/abs/2503.05281v1)|null|
+|**2025-03-07**|**Ensemble Debiasing Across Class and Sample Levels for Fairer Prompting Accuracy**|Ruixi Lin et.al.|[2503.05157v1](http://arxiv.org/abs/2503.05157v1)|null|
+|**2025-03-06**|**Biases in Large Language Model-Elicited Text: A Case Study in Natural Language Inference**|Grace Proebsting et.al.|[2503.05047v1](http://arxiv.org/abs/2503.05047v1)|null|
+|**2025-03-06**|**Label Distribution Learning-Enhanced Dual-KNN for Text Classification**|Bo Yuan et.al.|[2503.04869v1](http://arxiv.org/abs/2503.04869v1)|null|
 |**2025-03-06**|**Guiding LLMs to Generate High-Fidelity and High-Quality Counterfactual Explanations for Text Classification**|Van Bach Nguyen et.al.|[2503.04463v1](http://arxiv.org/abs/2503.04463v1)|null|
 |**2025-03-05**|**Psy-Insight: Explainable Multi-turn Bilingual Dataset for Mental Health Counseling**|Keqi Chen et.al.|[2503.03607v1](http://arxiv.org/abs/2503.03607v1)|null|
 |**2025-03-04**|**It Helps to Take a Second Opinion: Teaching Smaller LLMs to Deliberate Mutually via Selective Rationale Optimisation**|Sohan Patnaik et.al.|[2503.02463v1](http://arxiv.org/abs/2503.02463v1)|null|
@@ -6579,6 +6592,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**FinTMMBench: Benchmarking Temporal-Aware Multi-Modal RAG in Finance**|Fengbin Zhu et.al.|[2503.05185v1](http://arxiv.org/abs/2503.05185v1)|null|
+|**2025-03-07**|**AutoTestForge: A Multidimensional Automated Testing Framework for Natural Language Processing Models**|Hengrui Xing et.al.|[2503.05102v1](http://arxiv.org/abs/2503.05102v1)|null|
+|**2025-03-06**|**Are Large Language Models Good In-context Learners for Financial Sentiment Analysis?**|Xinyu Wei et.al.|[2503.04873v1](http://arxiv.org/abs/2503.04873v1)|null|
 |**2025-03-06**|**SynGraph: A Dynamic Graph-LLM Synthesis Framework for Sparse Streaming User Sentiment Modeling**|Xin Zhang et.al.|[2503.04619v1](http://arxiv.org/abs/2503.04619v1)|null|
 |**2025-03-05**|**Large language models in finance: estimating financial sentiment for stock prediction**|Kemal Kirtac et.al.|[2503.03612v1](http://arxiv.org/abs/2503.03612v1)|null|
 |**2025-03-05**|**An Aspect Extraction Framework using Different Embedding Types, Learning Models, and Dependency Structure**|Ali Erkan et.al.|[2503.03512v1](http://arxiv.org/abs/2503.03512v1)|null|
@@ -7684,6 +7700,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Understanding the Limits of Lifelong Knowledge Editing in LLMs**|Lukas Thede et.al.|[2503.05683v1](http://arxiv.org/abs/2503.05683v1)|null|
+|**2025-03-07**|**Statistical Guarantees of Correctness Coverage for Medical Multiple-Choice Question Answering**|Yusong Ke et.al.|[2503.05505v1](http://arxiv.org/abs/2503.05505v1)|null|
+|**2025-03-07**|**Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning**|Mufan Xu et.al.|[2503.05193v1](http://arxiv.org/abs/2503.05193v1)|null|
+|**2025-03-06**|**Dynamic-KGQA: A Scalable Framework for Generating Adaptive Question Answering Datasets**|Preetam Prabhu Srikar Dammu et.al.|[2503.05049v1](http://arxiv.org/abs/2503.05049v1)|null|
+|**2025-03-06**|**LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression**|Souvik Kundu et.al.|[2503.04982v1](http://arxiv.org/abs/2503.04982v1)|null|
+|**2025-03-06**|**Evaluating Answer Reranking Strategies in Time-sensitive Question Answering**|Mehmet Kardan et.al.|[2503.04972v1](http://arxiv.org/abs/2503.04972v1)|null|
+|**2025-03-06**|**Architecture for a Trustworthy Quantum Chatbot**|Yaiza Aragonés-Soria et.al.|[2503.04875v1](http://arxiv.org/abs/2503.04875v1)|null|
 |**2025-03-06**|**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**|Aishik Konwer et.al.|[2503.04639v1](http://arxiv.org/abs/2503.04639v1)|null|
 |**2025-03-06**|**Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**|Wenke Huang et.al.|[2503.04543v1](http://arxiv.org/abs/2503.04543v1)|null|
 |**2025-03-06**|**AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM**|Sunghyun Ahn et.al.|[2503.04504v1](http://arxiv.org/abs/2503.04504v1)|null|
@@ -11055,6 +11078,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**KIEval: Evaluation Metric for Document Key Information Extraction**|Minsoo Khang et.al.|[2503.05488v1](http://arxiv.org/abs/2503.05488v1)|null|
+|**2025-03-07**|**Bridging the Semantic Gap in Virtual Machine Introspection and Forensic Memory Analysis**|Christofer Fellicious et.al.|[2503.05482v1](http://arxiv.org/abs/2503.05482v1)|null|
+|**2025-03-07**|**FinTMMBench: Benchmarking Temporal-Aware Multi-Modal RAG in Finance**|Fengbin Zhu et.al.|[2503.05185v1](http://arxiv.org/abs/2503.05185v1)|null|
+|**2025-03-07**|**TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting**|Shibo Feng et.al.|[2503.05108v1](http://arxiv.org/abs/2503.05108v1)|null|
 |**2025-03-06**|**Conclusive exclusion of quantum states with group action**|Hongshun Yao et.al.|[2503.04605v1](http://arxiv.org/abs/2503.04605v1)|null|
 |**2025-03-03**|**A Survey on Semantic Communications in Internet of Vehicles**|Sha Ye et.al.|[2503.03767v1](http://arxiv.org/abs/2503.03767v1)|null|
 |**2025-03-06**|**DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms**|Xiaojun Bi et.al.|[2503.03644v2](http://arxiv.org/abs/2503.03644v2)|null|
@@ -12205,6 +12232,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659v1](http://arxiv.org/abs/2503.05659v1)|null|
+|**2025-03-07**|**Benchmarking LLMs in Recommendation Tasks: A Comparative Evaluation with Conventional Recommenders**|Qijiong Liu et.al.|[2503.05493v1](http://arxiv.org/abs/2503.05493v1)|null|
 |**2025-03-06**|**Matrix Factorization for Inferring Associations and Missing Links**|Ryan Barron et.al.|[2503.04680v1](http://arxiv.org/abs/2503.04680v1)|null|
 |**2025-03-06**|**Training-Free Graph Filtering via Multimodal Feature Refinement for Extremely Fast Multimodal Recommendation**|Yu-Seung Roh et.al.|[2503.04406v1](http://arxiv.org/abs/2503.04406v1)|null|
 |**2025-03-06**|**VirtualXAI: A User-Centric Framework for Explainability Assessment Leveraging GPT-Generated Personas**|Georgios Makridis et.al.|[2503.04261v1](http://arxiv.org/abs/2503.04261v1)|null|
@@ -14693,6 +14722,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**ZOGRASCOPE: A New Benchmark for Property Graphs**|Francesco Cazzaro et.al.|[2503.05268v1](http://arxiv.org/abs/2503.05268v1)|null|
+|**2025-03-07**|**Path Pooling: Train-Free Structure Enhancement for Efficient Knowledge Graph Retrieval-Augmented Generation**|Hairu Wang et.al.|[2503.05203v1](http://arxiv.org/abs/2503.05203v1)|null|
+|**2025-03-07**|**Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning**|Mufan Xu et.al.|[2503.05193v1](http://arxiv.org/abs/2503.05193v1)|null|
+|**2025-03-07**|**Every FLOP Counts: Scaling a 300B Mixture-of-Experts LING LLM without Premium GPUs**|Ling Team et.al.|[2503.05139v1](http://arxiv.org/abs/2503.05139v1)|null|
+|**2025-03-06**|**Dynamic-KGQA: A Scalable Framework for Generating Adaptive Question Answering Datasets**|Preetam Prabhu Srikar Dammu et.al.|[2503.05049v1](http://arxiv.org/abs/2503.05049v1)|null|
 |**2025-03-06**|**Matrix Factorization for Inferring Associations and Missing Links**|Ryan Barron et.al.|[2503.04680v1](http://arxiv.org/abs/2503.04680v1)|null|
 |**2025-03-05**|**A Conceptual Model for Attributions in Event-Centric Knowledge Graphs**|Florian Plötzky et.al.|[2503.03563v1](http://arxiv.org/abs/2503.03563v1)|null|
 |**2025-03-05**|**COSINT-Agent: A Knowledge-Driven Multimodal Agent for Chinese Open Source Intelligence**|Wentao Li et.al.|[2503.03215v1](http://arxiv.org/abs/2503.03215v1)|null|
