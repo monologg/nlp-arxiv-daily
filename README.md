@@ -21,6 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**A Grey-box Text Attack Framework using Explainable AI**|Esther Chiramal et.al.|[2503.08226v1](http://arxiv.org/abs/2503.08226v1)|null|
+|**2025-03-11**|**Recent Advances in Hypergraph Neural Networks**|Murong Yang et.al.|[2503.07959v1](http://arxiv.org/abs/2503.07959v1)|null|
+|**2025-03-11**|**EFPC: Towards Efficient and Flexible Prompt Compression**|Yun-Hao Cao et.al.|[2503.07956v1](http://arxiv.org/abs/2503.07956v1)|null|
+|**2025-03-11**|**Enhancing Sentiment Analysis through Multimodal Fusion: A BERT-DINOv2 Approach**|Taoxu Zhao et.al.|[2503.07943v1](http://arxiv.org/abs/2503.07943v1)|null|
+|**2025-03-10**|**Modern Models, Medieval Texts: A POS Tagging Study of Old Occitan**|Matthias Schöffel et.al.|[2503.07827v1](http://arxiv.org/abs/2503.07827v1)|null|
+|**2025-03-10**|**Instilling Doubts About Truth: Measuring the Impact of Tucker Carlson's Interview with Vladimir Putin Using Machine Learning and Natural Language Processing**|Loni Hagen et.al.|[2503.07695v1](http://arxiv.org/abs/2503.07695v1)|null|
+|**2025-03-10**|**SEAP: Training-free Sparse Expert Activation Pruning Unlock the Brainpower of Large Language Models**|Xun Liang et.al.|[2503.07605v1](http://arxiv.org/abs/2503.07605v1)|null|
 |**2025-03-10**|**Advancing Vietnamese Information Retrieval with Learning Objective and Benchmark**|Phu-Vinh Nguyen et.al.|[2503.07470v1](http://arxiv.org/abs/2503.07470v1)|null|
 |**2025-03-10**|**From Idea to Implementation: Evaluating the Influence of Large Language Models in Software Development -- An Opinion Paper**|Sargam Yadav et.al.|[2503.07450v1](http://arxiv.org/abs/2503.07450v1)|null|
 |**2025-03-10**|**Revisiting Noise in Natural Language Processing for Computational Social Science**|Nadav Borenstein et.al.|[2503.07395v1](http://arxiv.org/abs/2503.07395v1)|null|
@@ -4318,6 +4325,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Towards Scalable and Cross-Lingual Specialist Language Models for Oncology**|Morteza Rohanian et.al.|[2503.08323v1](http://arxiv.org/abs/2503.08323v1)|null|
+|**2025-03-11**|**Enhancing Multilingual Language Models for Code-Switched Input Data**|Katherine Xie et.al.|[2503.07990v1](http://arxiv.org/abs/2503.07990v1)|null|
 |**2025-03-10**|**Cross-Lingual IPA Contrastive Learning for Zero-Shot NER**|Jimin Sohn et.al.|[2503.07214v1](http://arxiv.org/abs/2503.07214v1)|null|
 |**2025-03-07**|**Leveraging Semantic Type Dependencies for Clinical Named Entity Recognition**|Linh Le et.al.|[2503.05373v1](http://arxiv.org/abs/2503.05373v1)|null|
 |**2025-03-06**|**From Voice to Safety: Language AI Powered Pilot-ATC Communication Understanding for Airport Surface Movement Collision Risk Assessment**|Yutian Pang et.al.|[2503.04974v1](http://arxiv.org/abs/2503.04974v1)|null|
@@ -5072,6 +5081,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Continuously updated estimation of conditional hazard functions**|Daphné Aurouet et.al.|[2503.08356v1](http://arxiv.org/abs/2503.08356v1)|null|
+|**2025-03-11**|**LabelCoRank: Revolutionizing Long Tail Multi-Label Classification with Co-Occurrence Reranking**|Yan Yan et.al.|[2503.07968v1](http://arxiv.org/abs/2503.07968v1)|null|
+|**2025-03-10**|**DW Cnc: a micronova with a negative superhump and a flickering spin**|M. Veresvarska et.al.|[2503.07704v1](http://arxiv.org/abs/2503.07704v1)|null|
+|**2025-03-10**|**Level curves for Zhang's Eta Function**|Jeffrey Stopple et.al.|[2503.07696v1](http://arxiv.org/abs/2503.07696v1)|null|
+|**2025-03-10**|**Fair Text Classification via Transferable Representations**|Thibaud Leteno et.al.|[2503.07691v1](http://arxiv.org/abs/2503.07691v1)|null|
+|**2025-03-08**|**Disrupting Model Merging: A Parameter-Level Defense Without Sacrificing Accuracy**|Wei Junhao et.al.|[2503.07661v1](http://arxiv.org/abs/2503.07661v1)|null|
 |**2025-03-10**|**Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs**|Gonzalo Mancera et.al.|[2503.07384v1](http://arxiv.org/abs/2503.07384v1)|null|
 |**2025-03-08**|**Breaking Free from MMI: A New Frontier in Rationalization by Probing Input Utilization**|Wei Liu et.al.|[2503.06202v1](http://arxiv.org/abs/2503.06202v1)|null|
 |**2025-03-07**|**Zero-shot Medical Event Prediction Using a Generative Pre-trained Transformer on Electronic Health Records**|Ekaterina Redekop et.al.|[2503.05893v1](http://arxiv.org/abs/2503.05893v1)|null|
@@ -6602,6 +6617,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Advancing Sentiment Analysis: A Novel LSTM Framework with Multi-head Attention**|Jingyuan Yi et.al.|[2503.08079v1](http://arxiv.org/abs/2503.08079v1)|null|
+|**2025-03-11**|**Enhancing Multilingual Language Models for Code-Switched Input Data**|Katherine Xie et.al.|[2503.07990v1](http://arxiv.org/abs/2503.07990v1)|null|
+|**2025-03-11**|**Enhancing Sentiment Analysis through Multimodal Fusion: A BERT-DINOv2 Approach**|Taoxu Zhao et.al.|[2503.07943v1](http://arxiv.org/abs/2503.07943v1)|null|
 |**2025-03-10**|**XMutant: XAI-based Fuzzing for Deep Learning Systems**|Xingcheng Chen et.al.|[2503.07222v1](http://arxiv.org/abs/2503.07222v1)|null|
 |**2025-03-10**|**Application of Multiple Chain-of-Thought in Contrastive Reasoning for Implicit Sentiment Analysis**|Liwei Yang et.al.|[2503.07140v1](http://arxiv.org/abs/2503.07140v1)|null|
 |**2025-03-09**|**Multimodal Emotion Recognition and Sentiment Analysis in Multi-Party Conversation Contexts**|Aref Farhadipour et.al.|[2503.06805v1](http://arxiv.org/abs/2503.06805v1)|null|
@@ -7715,6 +7733,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Self-Taught Self-Correction for Small Language Models**|Viktor Moskvoretskii et.al.|[2503.08681v1](http://arxiv.org/abs/2503.08681v1)|null|
+|**2025-03-11**|**HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding**|Shehreen Azad et.al.|[2503.08585v1](http://arxiv.org/abs/2503.08585v1)|null|
+|**2025-03-11**|**DAFE: LLM-Based Evaluation Through Dynamic Arbitration for Free-Form Question-Answering**|Sher Badshah et.al.|[2503.08542v1](http://arxiv.org/abs/2503.08542v1)|null|
+|**2025-03-11**|**Seeing and Reasoning with Confidence: Supercharging Multimodal LLMs with an Uncertainty-Aware Agentic Framework**|Zhuo Zhi et.al.|[2503.08308v1](http://arxiv.org/abs/2503.08308v1)|null|
+|**2025-03-11**|**FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[2503.08162v1](http://arxiv.org/abs/2503.08162v1)|null|
+|**2025-03-11**|**Bring Remote Sensing Object Detect Into Nature Language Model: Using SFT Method**|Fei Wang et.al.|[2503.08144v1](http://arxiv.org/abs/2503.08144v1)|null|
+|**2025-03-11**|**Uni $\textbf{F}^2$ ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models**|Junzhe Li et.al.|[2503.08120v1](http://arxiv.org/abs/2503.08120v1)|null|
+|**2025-03-10**|**MapQA: Open-domain Geospatial Question Answering on Map Data**|Zekun Li et.al.|[2503.07871v1](http://arxiv.org/abs/2503.07871v1)|null|
 |**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587v1](http://arxiv.org/abs/2503.07587v1)|null|
 |**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584v1](http://arxiv.org/abs/2503.07584v1)|null|
 |**2025-03-10**|**AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning**|Yangzhe Kong et.al.|[2503.07557v1](http://arxiv.org/abs/2503.07557v1)|null|
@@ -12263,10 +12289,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Weighted Tensor Decompositions for Context-aware Collaborative Filtering**|Joey De Pauw et.al.|[2503.08393v1](http://arxiv.org/abs/2503.08393v1)|null|
+|**2025-03-11**|**Counterfactual Language Reasoning for Explainable Recommendation Systems**|Guanrong Li et.al.|[2503.08051v1](http://arxiv.org/abs/2503.08051v1)|null|
+|**2025-03-10**|**Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender Systems Papers Based on Message Passing**|Maurizio Ferrari Dacrema et.al.|[2503.07823v1](http://arxiv.org/abs/2503.07823v1)|null|
+|**2025-03-10**|**Uncovering Cross-Domain Recommendation Ability of Large Language Models**|Xinyi Liu et.al.|[2503.07761v1](http://arxiv.org/abs/2503.07761v1)|null|
 |**2025-03-10**|**Process-Supervised LLM Recommenders via Flow-guided Tuning**|Chongming Gao et.al.|[2503.07377v1](http://arxiv.org/abs/2503.07377v1)|null|
 |**2025-03-10**|**Decision-Dependent Stochastic Optimization: The Role of Distribution Dynamics**|Zhiyu He et.al.|[2503.07324v1](http://arxiv.org/abs/2503.07324v1)|null|
 |**2025-03-10**|**Multi-Behavior Recommender Systems: A Survey**|Kyungho Kim et.al.|[2503.06963v1](http://arxiv.org/abs/2503.06963v1)|null|
-|**2025-03-10**|**AlignPxtr: Aligning Predicted Behavior Distributions for Bias-Free Video Recommendations**|Chengzhi Lin et.al.|[2503.06920v1](http://arxiv.org/abs/2503.06920v1)|null|
+|**2025-03-11**|**AlignPxtr: Aligning Predicted Behavior Distributions for Bias-Free Video Recommendations**|Chengzhi Lin et.al.|[2503.06920v2](http://arxiv.org/abs/2503.06920v2)|null|
 |**2025-03-09**|**OT-DETECTOR: Delving into Optimal Transport for Zero-shot Out-of-Distribution Detection**|Yu Liu et.al.|[2503.06442v1](http://arxiv.org/abs/2503.06442v1)|null|
 |**2025-03-09**|**Graph Retrieval-Augmented LLM for Conversational Recommendation Systems**|Zhangchi Qiu et.al.|[2503.06430v1](http://arxiv.org/abs/2503.06430v1)|null|
 |**2025-03-08**|**Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems**|Kibum Kim et.al.|[2503.06238v1](http://arxiv.org/abs/2503.06238v1)|null|
@@ -14762,6 +14792,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Graph of AI Ideas: Leveraging Knowledge Graphs and LLMs for AI Research Idea Generation**|Xian Gao et.al.|[2503.08549v1](http://arxiv.org/abs/2503.08549v1)|null|
+|**2025-03-11**|**SoTCKGE:Continual Knowledge Graph Embedding Based on Spatial Offset Transformation**|Xinyan Wang et.al.|[2503.08189v1](http://arxiv.org/abs/2503.08189v1)|null|
+|**2025-03-11**|**MuCoS: Efficient Drug Target Discovery via Multi Context Aware Sampling in Knowledge Graphs**|Haji Gul et.al.|[2503.08075v1](http://arxiv.org/abs/2503.08075v1)|null|
+|**2025-03-11**|**LLM-Powered Knowledge Graphs for Enterprise Intelligence and Analytics**|Rajeev Kumar et.al.|[2503.07993v1](http://arxiv.org/abs/2503.07993v1)|null|
+|**2025-03-10**|**A Time Series Multitask Framework Integrating a Large Language Model, Pre-Trained Time Series Model, and Knowledge Graph**|Shule Hao et.al.|[2503.07682v1](http://arxiv.org/abs/2503.07682v1)|null|
 |**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584v1](http://arxiv.org/abs/2503.07584v1)|null|
 |**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231v1](http://arxiv.org/abs/2503.07231v1)|null|
 |**2025-03-10**|**POINT: a web-based platform for pharmacological investigation enhanced by multi-omics networks and knowledge graphs**|Zihao He et.al.|[2503.07203v1](http://arxiv.org/abs/2503.07203v1)|null|
@@ -16799,6 +16834,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**i-WiViG: Interpretable Window Vision GNN**|Ivica Obadic et.al.|[2503.08321v1](http://arxiv.org/abs/2503.08321v1)|null|
+|**2025-03-11**|**Evidential Uncertainty Probes for Graph Neural Networks**|Linlin Yu et.al.|[2503.08097v1](http://arxiv.org/abs/2503.08097v1)|null|
+|**2025-03-10**|**CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders**|Jongwon Park et.al.|[2503.07852v1](http://arxiv.org/abs/2503.07852v1)|null|
 |**2025-03-10**|**Beyond the Edge of Function: Unraveling the Patterns of Type Recovery in Binary Code**|Gangyang Li et.al.|[2503.07243v1](http://arxiv.org/abs/2503.07243v1)|null|
 |**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231v1](http://arxiv.org/abs/2503.07231v1)|null|
 |**2025-03-10**|**Explainable Android Malware Detection and Malicious Code Localization Using Graph Attention**|Merve Cigdem Ipek et.al.|[2503.07109v1](http://arxiv.org/abs/2503.07109v1)|null|
