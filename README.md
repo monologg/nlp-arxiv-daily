@@ -21,6 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v1](http://arxiv.org/abs/2503.15469v1)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
+|**2025-03-19**|**VenusFactory: A Unified Platform for Protein Engineering Data Retrieval and Language Model Fine-Tuning**|Yang Tan et.al.|[2503.15438v1](http://arxiv.org/abs/2503.15438v1)|null|
+|**2025-03-19**|**Exploring Large Language Models for Word Games:Who is the Spy?**|Chentian Wei et.al.|[2503.15235v1](http://arxiv.org/abs/2503.15235v1)|null|
+|**2025-03-19**|**A Data-driven Investigation of Euphemistic Language: Comparing the usage of "slave" and "servant" in 19th century US newspapers**|Jaihyun Park et.al.|[2503.15057v1](http://arxiv.org/abs/2503.15057v1)|null|
+|**2025-03-19**|**DRoPE: Directional Rotary Position Embedding for Efficient Agent Interaction Modeling**|Jianbo Zhao et.al.|[2503.15029v1](http://arxiv.org/abs/2503.15029v1)|null|
+|**2025-03-19**|**A Language Vision Model Approach for Automated Tumor Contouring in Radiation Oncology**|Yi Luo et.al.|[2503.14933v1](http://arxiv.org/abs/2503.14933v1)|null|
+|**2025-03-19**|**Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices**|Ziyao Wang et.al.|[2503.14932v1](http://arxiv.org/abs/2503.14932v1)|null|
 |**2025-03-18**|**DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal**|Vaibhav Aggarwal et.al.|[2503.14269v1](http://arxiv.org/abs/2503.14269v1)|null|
 |**2025-03-18**|**Predicting Cardiopulmonary Exercise Testing Outcomes in Congenital Heart Disease Through Multi-modal Data Integration and Geometric Learning**|Muhammet Alkan et.al.|[2503.14239v1](http://arxiv.org/abs/2503.14239v1)|null|
 |**2025-03-18**|**NERCat: Fine-Tuning for Enhanced Named Entity Recognition in Catalan**|Guillem Cadevall Ferreres et.al.|[2503.14173v1](http://arxiv.org/abs/2503.14173v1)|null|
@@ -4367,6 +4374,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Entity-aware Cross-lingual Claim Detection for Automated Fact-checking**|Rrubaa Panchendrarajan et.al.|[2503.15220v1](http://arxiv.org/abs/2503.15220v1)|null|
+|**2025-03-18**|**Language Independent Named Entity Recognition via Orthogonal Transformation of Word Vectors**|Omar E. Rakha et.al.|[2503.14755v1](http://arxiv.org/abs/2503.14755v1)|null|
 |**2025-03-18**|**NERCat: Fine-Tuning for Enhanced Named Entity Recognition in Catalan**|Guillem Cadevall Ferreres et.al.|[2503.14173v1](http://arxiv.org/abs/2503.14173v1)|null|
 |**2025-03-16**|**UniBERTs: Adversarial Training for Language-Universal Representations**|Andrei-Marius Avram et.al.|[2503.12608v1](http://arxiv.org/abs/2503.12608v1)|null|
 |**2025-03-12**|**Generative AI for Named Entity Recognition in Low-Resource Language Nepali**|Sameer Neupane et.al.|[2503.09822v1](http://arxiv.org/abs/2503.09822v1)|null|
@@ -5126,6 +5135,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v1](http://arxiv.org/abs/2503.15469v1)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
+|**2025-03-19**|**Comparing Llama3 and DeepSeekR1 on Biomedical Text Classification Tasks**|Yuting Guo et.al.|[2503.15169v1](http://arxiv.org/abs/2503.15169v1)|null|
 |**2025-03-17**|**Micro Text Classification Based on Balanced Positive-Unlabeled Learning**|Lin-Han Jia et.al.|[2503.13562v1](http://arxiv.org/abs/2503.13562v1)|null|
 |**2025-03-16**|**UniBERTs: Adversarial Training for Language-Universal Representations**|Andrei-Marius Avram et.al.|[2503.12608v1](http://arxiv.org/abs/2503.12608v1)|null|
 |**2025-03-14**|**Neutralizing Bias in LLM Reasoning using Entailment Graphs**|Liang Cheng et.al.|[2503.11614v1](http://arxiv.org/abs/2503.11614v1)|null|
@@ -6672,6 +6683,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Model Hubs and Beyond: Analyzing Model Popularity, Performance, and Documentation**|Pritam Kadasi et.al.|[2503.15222v1](http://arxiv.org/abs/2503.15222v1)|null|
+|**2025-03-19**|**EmoGRACE: Aspect-based emotion analysis for social media data**|Christina Zorenböhmer et.al.|[2503.15133v1](http://arxiv.org/abs/2503.15133v1)|null|
 |**2025-03-14**|**Prompt Sentiment: The Catalyst for LLM Change**|Vishal Gandhi et.al.|[2503.13510v1](http://arxiv.org/abs/2503.13510v1)|null|
 |**2025-03-17**|**Leveraging Deep Neural Networks for Aspect-Based Sentiment Classification**|Chen Li et.al.|[2503.12803v1](http://arxiv.org/abs/2503.12803v1)|null|
 |**2025-03-16**|**Multi-Granular Multimodal Clue Fusion for Meme Understanding**|Li Zheng et.al.|[2503.12560v1](http://arxiv.org/abs/2503.12560v1)|null|
@@ -7799,6 +7812,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Evaluating Bias in Retrieval-Augmented Medical Question-Answering Systems**|Yuelyu Ji et.al.|[2503.15454v1](http://arxiv.org/abs/2503.15454v1)|null|
+|**2025-03-19**|**EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models**|Yinan Liang et.al.|[2503.15369v1](http://arxiv.org/abs/2503.15369v1)|null|
+|**2025-03-19**|**TruthLens:A Training-Free Paradigm for DeepFake Detection**|Ritabrata Chakraborty et.al.|[2503.15342v1](http://arxiv.org/abs/2503.15342v1)|null|
+|**2025-03-19**|**Solla: Towards a Speech-Oriented LLM That Hears Acoustic Context**|Junyi Ao et.al.|[2503.15338v1](http://arxiv.org/abs/2503.15338v1)|null|
+|**2025-03-19**|**MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration**|David Wan et.al.|[2503.15272v1](http://arxiv.org/abs/2503.15272v1)|null|
+|**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191v1](http://arxiv.org/abs/2503.15191v1)|null|
+|**2025-03-19**|**GraspCorrect: Robotic Grasp Correction via Vision-Language Model-Guided Feedback**|Sungjae Lee et.al.|[2503.15035v1](http://arxiv.org/abs/2503.15035v1)|null|
+|**2025-03-19**|**Right Answer, Wrong Score: Uncovering the Inconsistencies of LLM Evaluation in Multiple-Choice Question Answering**|Francesco Maria Molfese et.al.|[2503.14996v1](http://arxiv.org/abs/2503.14996v1)|null|
+|**2025-03-19**|**Neuro Symbolic Knowledge Reasoning for Procedural Video Question Answering**|Thanh-Son Nguyen et.al.|[2503.14957v1](http://arxiv.org/abs/2503.14957v1)|null|
+|**2025-03-19**|**UPME: An Unsupervised Peer Review Framework for Multimodal Large Language Model Evaluation**|Qihui Zhang et.al.|[2503.14941v1](http://arxiv.org/abs/2503.14941v1)|null|
 |**2025-03-18**|**How much do LLMs learn from negative examples?**|Shadi Hamdan et.al.|[2503.14391v1](http://arxiv.org/abs/2503.14391v1)|null|
 |**2025-03-18**|**Synthetic Clarification and Correction Dialogues about Data-Centric Tasks -- A Teacher-Student Approach**|Christian Poelitz et.al.|[2503.14167v1](http://arxiv.org/abs/2503.14167v1)|null|
 |**2025-03-18**|**EIAD: Explainable Industrial Anomaly Detection Via Multi-Modal Large Language Models**|Zongyun Zhang et.al.|[2503.14162v1](http://arxiv.org/abs/2503.14162v1)|null|
@@ -11241,7 +11264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-18**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v1](http://arxiv.org/abs/2503.14234v1)|null|
+|**2025-03-19**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v2](http://arxiv.org/abs/2503.14234v2)|null|
 |**2025-03-18**|**BI-RADS prediction of mammographic masses using uncertainty information extracted from a Bayesian Deep Learning model**|Mohaddeseh Chegini et.al.|[2503.13999v1](http://arxiv.org/abs/2503.13999v1)|null|
 |**2025-03-18**|**YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction**|Ziyu Lin et.al.|[2503.13883v1](http://arxiv.org/abs/2503.13883v1)|null|
 |**2025-03-17**|**How many simulations do we need for simulation-based inference in cosmology?**|Anirban Bairagi et.al.|[2503.13755v1](http://arxiv.org/abs/2503.13755v1)|null|
@@ -12411,6 +12434,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**ACE: A Cardinality Estimator for Set-Valued Queries**|Yufan Sheng et.al.|[2503.14929v1](http://arxiv.org/abs/2503.14929v1)|null|
+|**2025-03-19**|**Scaled Supervision is an Implicit Lipschitz Regularizer**|Zhongyu Ouyang et.al.|[2503.14813v1](http://arxiv.org/abs/2503.14813v1)|null|
 |**2025-03-18**|**Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation**|Ashraf Ghiye et.al.|[2503.14213v1](http://arxiv.org/abs/2503.14213v1)|null|
 |**2025-03-18**|**A Comprehensive Survey on Cross-Domain Recommendation: Taxonomy, Progress, and Prospects**|Hao Zhang et.al.|[2503.14110v1](http://arxiv.org/abs/2503.14110v1)|null|
 |**2025-03-14**|**Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce**|Jingying Zeng et.al.|[2503.13518v1](http://arxiv.org/abs/2503.13518v1)|null|
@@ -14930,7 +14955,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-18**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v1](http://arxiv.org/abs/2503.14234v1)|null|
+|**2025-03-19**|**Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities**|Md Shahir Zaoad et.al.|[2503.14802v1](http://arxiv.org/abs/2503.14802v1)|null|
+|**2025-03-19**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v2](http://arxiv.org/abs/2503.14234v2)|null|
 |**2025-03-18**|**Empowering GraphRAG with Knowledge Filtering and Integration**|Kai Guo et.al.|[2503.13804v1](http://arxiv.org/abs/2503.13804v1)|null|
 |**2025-03-14**|**RAG-KG-IL: A Multi-Agent Hybrid Framework for Reducing Hallucinations and Enhancing LLM Reasoning through RAG and Incremental Knowledge Graph Learning Integration**|Hong Qing Yu et.al.|[2503.13514v1](http://arxiv.org/abs/2503.13514v1)|null|
 |**2025-03-17**|**Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al.|[2503.12972v1](http://arxiv.org/abs/2503.12972v1)|null|
@@ -16988,6 +17014,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Modeling crystal defects using defect-informed neural networks**|Ziduo Yang et.al.|[2503.15391v1](http://arxiv.org/abs/2503.15391v1)|null|
+|**2025-03-19**|**Lyapunov-Based Graph Neural Networks for Adaptive Control of Multi-Agent Systems**|Brandon C. Fallin et.al.|[2503.15360v1](http://arxiv.org/abs/2503.15360v1)|null|
+|**2025-03-19**|**Learning to quantify graph nodes**|Alessio Micheli et.al.|[2503.15267v1](http://arxiv.org/abs/2503.15267v1)|null|
+|**2025-03-19**|**Classification of Electron and Muon Neutrino Events for the ESS $ν$ SB Near Water Cherenkov Detector using Graph Neural Networks**|J. Aguilar et.al.|[2503.15247v1](http://arxiv.org/abs/2503.15247v1)|null|
+|**2025-03-19**|**Learning Topology Actions for Power Grid Control: A Graph-Based Soft-Label Imitation Learning Approach**|Mohamed Hassouna et.al.|[2503.15190v1](http://arxiv.org/abs/2503.15190v1)|null|
+|**2025-03-19**|**Interpretability of Graph Neural Networks to Assert Effects of Global Change Drivers on Ecological Networks**|Emre Anakok et.al.|[2503.15107v1](http://arxiv.org/abs/2503.15107v1)|null|
+|**2025-03-19**|**Embedding spatial context in urban traffic forecasting with contrastive pre-training**|Matthew Low et.al.|[2503.14980v1](http://arxiv.org/abs/2503.14980v1)|null|
+|**2025-03-19**|**Deep Polycuboid Fitting for Compact 3D Representation of Indoor Scenes**|Gahye Lee et.al.|[2503.14912v1](http://arxiv.org/abs/2503.14912v1)|null|
+|**2025-03-19**|**DVHGNN: Multi-Scale Dilated Vision HGNN for Efficient Vision Recognition**|Caoshuo Li et.al.|[2503.14867v1](http://arxiv.org/abs/2503.14867v1)|null|
+|**2025-03-19**|**Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities**|Md Shahir Zaoad et.al.|[2503.14802v1](http://arxiv.org/abs/2503.14802v1)|null|
 |**2025-03-18**|**Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models**|Siwei Zhang et.al.|[2503.14411v1](http://arxiv.org/abs/2503.14411v1)|null|
 |**2025-03-18**|**Spatio-Temporal Graph Neural Networks for Infant Language Acquisition Prediction**|Andrew Roxburgh et.al.|[2503.14341v1](http://arxiv.org/abs/2503.14341v1)|null|
 |**2025-03-18**|**Higher-Order Graphon Neural Networks: Approximation and Cut Distance**|Daniel Herbst et.al.|[2503.14338v1](http://arxiv.org/abs/2503.14338v1)|null|
