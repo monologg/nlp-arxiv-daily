@@ -21,12 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-20**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304v1](http://arxiv.org/abs/2503.16304v1)|null|
+|**2025-03-21**|**A Language Anchor-Guided Method for Robust Noisy Domain Generalization**|Zilin Dai et.al.|[2503.17211v1](http://arxiv.org/abs/2503.17211v1)|null|
+|**2025-03-20**|**Natural Language Generation**|Emiel van Miltenburg et.al.|[2503.16728v1](http://arxiv.org/abs/2503.16728v1)|null|
+|**2025-03-20**|**Classification of User Reports for Detection of Faulty Computer Components using NLP Models: A Case Study**|Maria de Lourdes M. Silva et.al.|[2503.16614v1](http://arxiv.org/abs/2503.16614v1)|null|
+|**2025-03-20**|**Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions**|Hadi Amini et.al.|[2503.16585v1](http://arxiv.org/abs/2503.16585v1)|null|
+|**2025-03-21**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304v2](http://arxiv.org/abs/2503.16304v2)|null|
 |**2025-03-20**|**From Structured Prompts to Open Narratives: Measuring Gender Bias in LLMs Through Open-Ended Storytelling**|Evan Chen et.al.|[2503.15904v1](http://arxiv.org/abs/2503.15904v1)|null|
 |**2025-03-20**|**ATTENTION2D: Communication Efficient Distributed Self-Attention Mechanism**|Venmugil Elango et.al.|[2503.15758v1](http://arxiv.org/abs/2503.15758v1)|null|
 |**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737v1](http://arxiv.org/abs/2503.15737v1)|null|
 |**2025-03-20**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
-|**2025-03-19**|**VenusFactory: A Unified Platform for Protein Engineering Data Retrieval and Language Model Fine-Tuning**|Yang Tan et.al.|[2503.15438v1](http://arxiv.org/abs/2503.15438v1)|null|
+|**2025-03-19**|**VenusFactory: A Unified Platform for Protein Engineering Data Retrieval and Language Model Fine-Tuning**|Yang Tan et.al.|[2503.15438v1](http://arxiv.org/abs/2503.15438v1)|**[link](https://github.com/tyang816/venusfactory)**|
 |**2025-03-19**|**Exploring Large Language Models for Word Games:Who is the Spy?**|Chentian Wei et.al.|[2503.15235v1](http://arxiv.org/abs/2503.15235v1)|null|
 |**2025-03-19**|**A Data-driven Investigation of Euphemistic Language: Comparing the usage of "slave" and "servant" in 19th century US newspapers**|Jaihyun Park et.al.|[2503.15057v1](http://arxiv.org/abs/2503.15057v1)|null|
 |**2025-03-19**|**DRoPE: Directional Rotary Position Embedding for Efficient Agent Interaction Modeling**|Jianbo Zhao et.al.|[2503.15029v1](http://arxiv.org/abs/2503.15029v1)|null|
@@ -4379,7 +4383,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737v1](http://arxiv.org/abs/2503.15737v1)|null|
-|**2025-03-20**|**Entity-aware Cross-lingual Claim Detection for Automated Fact-checking**|Rrubaa Panchendrarajan et.al.|[2503.15220v2](http://arxiv.org/abs/2503.15220v2)|null|
+|**2025-03-20**|**Entity-aware Cross-lingual Claim Detection for Automated Fact-checking**|Rrubaa Panchendrarajan et.al.|[2503.15220v2](http://arxiv.org/abs/2503.15220v2)|**[link](https://github.com/RubaP/Ex-Claim)**|
 |**2025-03-18**|**Language Independent Named Entity Recognition via Orthogonal Transformation of Word Vectors**|Omar E. Rakha et.al.|[2503.14755v1](http://arxiv.org/abs/2503.14755v1)|null|
 |**2025-03-18**|**NERCat: Fine-Tuning for Enhanced Named Entity Recognition in Catalan**|Guillem Cadevall Ferreres et.al.|[2503.14173v1](http://arxiv.org/abs/2503.14173v1)|**[link](https://github.com/ugiat/nercat)**|
 |**2025-03-16**|**UniBERTs: Adversarial Training for Language-Universal Representations**|Andrei-Marius Avram et.al.|[2503.12608v1](http://arxiv.org/abs/2503.12608v1)|null|
@@ -5140,9 +5144,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-20**|**Corrective In-Context Learning: Evaluating Self-Correction in Large Language Models**|Mario Sanz-Guerrero et.al.|[2503.16022v1](http://arxiv.org/abs/2503.16022v1)|null|
-|**2025-03-20**|**Don't Fight Hallucinations, Use Them: Estimating Image Realism using NLI over Atomic Facts**|Elisei Rykov et.al.|[2503.15948v1](http://arxiv.org/abs/2503.15948v1)|null|
-|**2025-03-19**|**Am I eligible? Natural Language Inference for Clinical Trial Patient Recruitment: the Patient's Point of View**|Mathilde Aguiar et.al.|[2503.15718v1](http://arxiv.org/abs/2503.15718v1)|null|
+|**2025-03-19**|**A Comprehensive Survey on Architectural Advances in Deep CNNs: Challenges, Applications, and Emerging Research Directions**|Saddam Hussain Khan et.al.|[2503.16546v1](http://arxiv.org/abs/2503.16546v1)|null|
+|**2025-03-20**|**Corrective In-Context Learning: Evaluating Self-Correction in Large Language Models**|Mario Sanz-Guerrero et.al.|[2503.16022v1](http://arxiv.org/abs/2503.16022v1)|**[link](https://github.com/mario-sanz/cicl)**|
+|**2025-03-20**|**Don't Fight Hallucinations, Use Them: Estimating Image Realism using NLI over Atomic Facts**|Elisei Rykov et.al.|[2503.15948v1](http://arxiv.org/abs/2503.15948v1)|**[link](https://github.com/s-nlp/dont-fight-hallucinations)**|
+|**2025-03-19**|**Am I eligible? Natural Language Inference for Clinical Trial Patient Recruitment: the Patient's Point of View**|Mathilde Aguiar et.al.|[2503.15718v1](http://arxiv.org/abs/2503.15718v1)|**[link](https://github.com/ctinfer/nli4pr)**|
 |**2025-03-20**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
 |**2025-03-19**|**Comparing Llama3 and DeepSeekR1 on Biomedical Text Classification Tasks**|Yuting Guo et.al.|[2503.15169v1](http://arxiv.org/abs/2503.15169v1)|null|
 |**2025-03-17**|**Micro Text Classification Based on Balanced Positive-Unlabeled Learning**|Lin-Han Jia et.al.|[2503.13562v1](http://arxiv.org/abs/2503.13562v1)|**[link](https://github.com/BFGPU/BFGPU)**|
@@ -6691,6 +6696,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks**|Julian Junyan Wang et.al.|[2503.16974v1](http://arxiv.org/abs/2503.16974v1)|null|
 |**2025-03-20**|**InhibiDistilbert: Knowledge Distillation for a ReLU and Addition-based Transformer**|Tony Zhang et.al.|[2503.15983v1](http://arxiv.org/abs/2503.15983v1)|null|
 |**2025-03-19**|**Model Hubs and Beyond: Analyzing Model Popularity, Performance, and Documentation**|Pritam Kadasi et.al.|[2503.15222v1](http://arxiv.org/abs/2503.15222v1)|**[link](https://github.com/pskadasi/model-hubs)**|
 |**2025-03-19**|**EmoGRACE: Aspect-based emotion analysis for social media data**|Christina Zorenböhmer et.al.|[2503.15133v1](http://arxiv.org/abs/2503.15133v1)|null|
@@ -7821,8 +7827,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**A Study into Investigating Temporal Robustness of LLMs**|Jonas Wallat et.al.|[2503.17073v1](http://arxiv.org/abs/2503.17073v1)|null|
+|**2025-03-21**|**PVChat: Personalized Video Chat with One-Shot Learning**|Yufei Shi et.al.|[2503.17069v1](http://arxiv.org/abs/2503.17069v1)|null|
+|**2025-03-21**|**MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization**|Jian Zhang et.al.|[2503.16874v1](http://arxiv.org/abs/2503.16874v1)|null|
+|**2025-03-21**|**Joint Extraction Matters: Prompt-Based Visual Question Answering for Multi-Field Document Information Extraction**|Mengsay Loem et.al.|[2503.16868v1](http://arxiv.org/abs/2503.16868v1)|null|
+|**2025-03-21**|**ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering**|Kaisi Guan et.al.|[2503.16867v1](http://arxiv.org/abs/2503.16867v1)|null|
+|**2025-03-21**|**MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering**|Jialin Chen et.al.|[2503.16858v1](http://arxiv.org/abs/2503.16858v1)|null|
+|**2025-03-21**|**Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study**|Li Zhang et.al.|[2503.16788v1](http://arxiv.org/abs/2503.16788v1)|null|
+|**2025-03-21**|**Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models**|Mengsong Wu et.al.|[2503.16779v1](http://arxiv.org/abs/2503.16779v1)|null|
 |**2025-03-20**|**GAEA: A Geolocation Aware Conversational Model**|Ron Campos et.al.|[2503.16423v1](http://arxiv.org/abs/2503.16423v1)|null|
-|**2025-03-20**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304v1](http://arxiv.org/abs/2503.16304v1)|null|
+|**2025-03-21**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304v2](http://arxiv.org/abs/2503.16304v2)|null|
 |**2025-03-20**|**MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering**|Feiyang Li et.al.|[2503.16131v1](http://arxiv.org/abs/2503.16131v1)|null|
 |**2025-03-20**|**Agentic Keyframe Search for Video Question Answering**|Sunqi Fan et.al.|[2503.16032v1](http://arxiv.org/abs/2503.16032v1)|null|
 |**2025-03-20**|**GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping under Flexible Language Instructions**|Xiaomeng Chu et.al.|[2503.16013v1](http://arxiv.org/abs/2503.16013v1)|null|
@@ -11283,6 +11297,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Automating Adjudication of Cardiovascular Events Using Large Language Models**|Sonish Sivarajkumar et.al.|[2503.17222v1](http://arxiv.org/abs/2503.17222v1)|null|
+|**2025-03-21**|**Joint Extraction Matters: Prompt-Based Visual Question Answering for Multi-Field Document Information Extraction**|Mengsay Loem et.al.|[2503.16868v1](http://arxiv.org/abs/2503.16868v1)|null|
+|**2025-03-21**|**Generative Compositor for Few-Shot Visual Information Extraction**|Zhibo Yang et.al.|[2503.16854v1](http://arxiv.org/abs/2503.16854v1)|null|
 |**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737v1](http://arxiv.org/abs/2503.15737v1)|null|
 |**2025-03-19**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234v2](http://arxiv.org/abs/2503.14234v2)|null|
 |**2025-03-18**|**BI-RADS prediction of mammographic masses using uncertainty information extracted from a Bayesian Deep Learning model**|Mohaddeseh Chegini et.al.|[2503.13999v1](http://arxiv.org/abs/2503.13999v1)|null|
@@ -12454,6 +12471,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Towards Carbon Footprint-Aware Recommender Systems for Greener Item Recommendation**|Raoul Kalisvaart et.al.|[2503.17201v1](http://arxiv.org/abs/2503.17201v1)|null|
+|**2025-03-21**|**Rankformer: A Graph Transformer for Recommendation based on Ranking Objective**|Sirui Chen et.al.|[2503.16927v1](http://arxiv.org/abs/2503.16927v1)|null|
+|**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[2503.16734v1](http://arxiv.org/abs/2503.16734v1)|null|
+|**2025-03-20**|**ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning for Static Link Prediction (aka Personalized Item Recommendation)**|Alejandro Ariza-Casabona et.al.|[2503.16661v1](http://arxiv.org/abs/2503.16661v1)|null|
 |**2025-03-20**|**Diffusion-augmented Graph Contrastive Learning for Collaborative Filter**|Fan Huang et.al.|[2503.16290v1](http://arxiv.org/abs/2503.16290v1)|null|
 |**2025-03-19**|**ACE: A Cardinality Estimator for Set-Valued Queries**|Yufan Sheng et.al.|[2503.14929v1](http://arxiv.org/abs/2503.14929v1)|null|
 |**2025-03-19**|**Scaled Supervision is an Implicit Lipschitz Regularizer**|Zhongyu Ouyang et.al.|[2503.14813v1](http://arxiv.org/abs/2503.14813v1)|null|
@@ -14976,7 +14997,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-20**|**MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering**|Feiyang Li et.al.|[2503.16131v1](http://arxiv.org/abs/2503.16131v1)|null|
+|**2025-03-21**|**FactSelfCheck: Fact-Level Black-Box Hallucination Detection for LLMs**|Albert Sawczyn et.al.|[2503.17229v1](http://arxiv.org/abs/2503.17229v1)|null|
+|**2025-03-20**|**Natural Language Generation**|Emiel van Miltenburg et.al.|[2503.16728v1](http://arxiv.org/abs/2503.16728v1)|null|
+|**2025-03-20**|**Accelerating Antibiotic Discovery with Large Language Models and Knowledge Graphs**|Maxime Delmas et.al.|[2503.16655v1](http://arxiv.org/abs/2503.16655v1)|null|
+|**2025-03-18**|**From Patient Consultations to Graphs: Leveraging LLMs for Patient Journey Knowledge Graph Construction**|Hassan S. Al Khatib et.al.|[2503.16533v1](http://arxiv.org/abs/2503.16533v1)|null|
+|**2025-03-21**|**MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering**|Feiyang Li et.al.|[2503.16131v2](http://arxiv.org/abs/2503.16131v2)|null|
 |**2025-03-20**|**ECKGBench: Benchmarking Large Language Models in E-commerce Leveraging Knowledge Graph**|Langming Liu et.al.|[2503.15990v1](http://arxiv.org/abs/2503.15990v1)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980v1](http://arxiv.org/abs/2503.15980v1)|null|
 |**2025-03-20**|**A metadata model for profiling multidimensional sources in data ecosystems**|Claudia Diamantini et.al.|[2503.15951v1](http://arxiv.org/abs/2503.15951v1)|null|
@@ -17040,6 +17065,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability**|Sanjif Shanmugavelu et.al.|[2503.17173v1](http://arxiv.org/abs/2503.17173v1)|null|
+|**2025-03-21**|**Enhancing Steering Estimation with Semantic-Aware GNNs**|Fouad Makiyeh et.al.|[2503.17153v1](http://arxiv.org/abs/2503.17153v1)|null|
+|**2025-03-21**|**TeMP-TraG: Edge-based Temporal Message Passing in Transaction Graphs**|Steve Gounoue et.al.|[2503.16901v1](http://arxiv.org/abs/2503.16901v1)|null|
+|**2025-03-20**|**Ordered Topological Deep Learning: a Network Modeling Case Study**|Guillermo Bernárdez et.al.|[2503.16746v1](http://arxiv.org/abs/2503.16746v1)|null|
+|**2025-03-20**|**ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks**|Zhan Cheng et.al.|[2503.16693v1](http://arxiv.org/abs/2503.16693v1)|null|
+|**2025-03-20**|**ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning for Static Link Prediction (aka Personalized Item Recommendation)**|Alejandro Ariza-Casabona et.al.|[2503.16661v1](http://arxiv.org/abs/2503.16661v1)|null|
 |**2025-03-20**|**Beyond Local Selection: Global Cut Selection for Enhanced Mixed-Integer Programming**|Shuli Zeng et.al.|[2503.15847v1](http://arxiv.org/abs/2503.15847v1)|null|
 |**2025-03-20**|**GraPLUS: Graph-based Placement Using Semantics for Image Composition**|Mir Mohammad Khaleghi et.al.|[2503.15761v1](http://arxiv.org/abs/2503.15761v1)|null|
 |**2025-03-19**|**Survey on Generalization Theory for Graph Neural Networks**|Antonis Vasileiou et.al.|[2503.15650v1](http://arxiv.org/abs/2503.15650v1)|null|
