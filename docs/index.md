@@ -7882,7 +7882,7 @@ layout: default
 |**2025-03-27**|**SWI: Speaking with Intent in Large Language Models**|Yuwei Yin et.al.|[2503.21544v1](http://arxiv.org/abs/2503.21544v1)|**[link](https://github.com/YuweiYin/SWI)**|
 |**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[2503.21505v1](http://arxiv.org/abs/2503.21505v1)|null|
 |**2025-03-27**|**RoadSocial: A Diverse VideoQA Dataset and Benchmark for Road Event Understanding from Social Video Narratives**|Chirag Parikh et.al.|[2503.21459v1](http://arxiv.org/abs/2503.21459v1)|null|
-|**2025-03-27**|**FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs**|Xiaoqin Wang et.al.|[2503.21457v1](http://arxiv.org/abs/2503.21457v1)|null|
+|**2025-03-27**|**FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs**|Xiaoqin Wang et.al.|[2503.21457v1](http://arxiv.org/abs/2503.21457v1)|**[link](https://github.com/cvi-szu/facebench)**|
 |**2025-03-27**|**Leveraging LLMs with Iterative Loop Structure for Enhanced Social Intelligence in Video Question Answering**|Erika Mori et.al.|[2503.21190v1](http://arxiv.org/abs/2503.21190v1)|null|
 |**2025-03-27**|**AskSport: Web Application for Sports Question-Answering**|Enzo B Onofre et.al.|[2503.21067v1](http://arxiv.org/abs/2503.21067v1)|null|
 |**2025-03-26**|**Unified Multimodal Discrete Diffusion**|Alexander Swerdlow et.al.|[2503.20853v1](http://arxiv.org/abs/2503.20853v1)|**[link](https://github.com/alexanderswerdlow/unidisc)**|
@@ -12570,7 +12570,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-27**|**CombiGCN: An effective GCN model for Recommender System**|Loc Tan Nguyen et.al.|[2503.21471v1](http://arxiv.org/abs/2503.21471v1)|null|
-|**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468v1](http://arxiv.org/abs/2503.21468v1)|null|
+|**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468v1](http://arxiv.org/abs/2503.21468v1)|**[link](https://github.com/trantin84/wigcn)**|
 |**2025-03-27**|**An NLP-Driven Approach Using Twitter Data for Tailored K-pop Artist Recommendations**|Sora Kang et.al.|[2503.21189v1](http://arxiv.org/abs/2503.21189v1)|null|
 |**2025-03-27**|**Are We Solving a Well-Defined Problem? A Task-Centric Perspective on Recommendation Tasks**|Aixin Sun et.al.|[2503.21188v1](http://arxiv.org/abs/2503.21188v1)|null|
 |**2025-03-27**|**FAIR-QR: Enhancing Fairness-aware Information Retrieval through Query Refinement**|Fumian Chen et.al.|[2503.21092v1](http://arxiv.org/abs/2503.21092v1)|null|
@@ -17193,13 +17193,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681v1](http://arxiv.org/abs/2503.21681v1)|null|
+|**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681v1](http://arxiv.org/abs/2503.21681v1)|**[link](https://github.com/cgoliver/rnaglib)**|
 |**2025-03-27**|**Fusion of Graph Neural Networks via Optimal Transport**|Weronika Ormaniec et.al.|[2503.21579v1](http://arxiv.org/abs/2503.21579v1)|null|
 |**2025-03-27**|**CombiGCN: An effective GCN model for Recommender System**|Loc Tan Nguyen et.al.|[2503.21471v1](http://arxiv.org/abs/2503.21471v1)|null|
-|**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468v1](http://arxiv.org/abs/2503.21468v1)|null|
+|**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468v1](http://arxiv.org/abs/2503.21468v1)|**[link](https://github.com/trantin84/wigcn)**|
 |**2025-03-27**|**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**|Ruizhou Li et.al.|[2503.21435v1](http://arxiv.org/abs/2503.21435v1)|null|
 |**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105v1](http://arxiv.org/abs/2503.21105v1)|null|
-|**2025-03-26**|**BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology**|Amaya Gallagher-Syed et.al.|[2503.20880v1](http://arxiv.org/abs/2503.20880v1)|null|
+|**2025-03-26**|**BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology**|Amaya Gallagher-Syed et.al.|[2503.20880v1](http://arxiv.org/abs/2503.20880v1)|**[link](https://github.com/amayags/biox-cpath)**|
 |**2025-03-26**|**$β$ -GNN: A Robust Ensemble Approach Against Graph Structure Perturbation**|Haci Ismail Aslan et.al.|[2503.20630v1](http://arxiv.org/abs/2503.20630v1)|null|
 |**2025-03-26**|**Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs**|Rita T. Sousa et.al.|[2503.20400v1](http://arxiv.org/abs/2503.20400v1)|null|
 |**2025-03-26**|**Emergent properties and the multiscale characterization challenge in condensed matter, from crystals to complex materials: a Review**|Elisabetta Nocerino et.al.|[2503.20266v1](http://arxiv.org/abs/2503.20266v1)|null|
