@@ -25,10 +25,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Lobster: A GPU-Accelerated Framework for Neurosymbolic Programming**|Paul Biberstein et.al.|[2503.21937v1](http://arxiv.org/abs/2503.21937v1)|null|
+|**2025-03-27**|**Hybrid Emotion Recognition: Enhancing Customer Interactions Through Acoustic and Textual Analysis**|Sahan Hewage Wewelwala et.al.|[2503.21927v1](http://arxiv.org/abs/2503.21927v1)|null|
 |**2025-03-27**|**LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning**|Hui Wang et.al.|[2503.21683v1](http://arxiv.org/abs/2503.21683v1)|null|
 |**2025-03-27**|**An NLP-Driven Approach Using Twitter Data for Tailored K-pop Artist Recommendations**|Sora Kang et.al.|[2503.21189v1](http://arxiv.org/abs/2503.21189v1)|null|
 |**2025-03-27**|**Mitigating Low-Level Visual Hallucinations Requires Self-Awareness: Database, Model and Training Strategy**|Yinan Sun et.al.|[2503.20673v2](http://arxiv.org/abs/2503.20673v2)|null|
-|**2025-03-27**|**LLPut: Investigating Large Language Models for Bug Report-Based Input Generation**|Alif Al Hasan et.al.|[2503.20578v2](http://arxiv.org/abs/2503.20578v2)|null|
+|**2025-03-28**|**LLPut: Investigating Large Language Models for Bug Report-Based Input Generation**|Alif Al Hasan et.al.|[2503.20578v3](http://arxiv.org/abs/2503.20578v3)|null|
 |**2025-03-26**|**CFunModel: A "Funny" Language Model Capable of Chinese Humor Generation and Processing**|Zhenghan Yu et.al.|[2503.20417v1](http://arxiv.org/abs/2503.20417v1)|null|
 |**2025-03-26**|**Advancements in Natural Language Processing: Exploring Transformer-Based Architectures for Text Understanding**|Tianhao Wu et.al.|[2503.20227v1](http://arxiv.org/abs/2503.20227v1)|null|
 |**2025-03-26**|**BeLightRec: A lightweight recommender system enhanced with BERT**|Manh Mai Van et.al.|[2503.20206v1](http://arxiv.org/abs/2503.20206v1)|null|
@@ -5180,13 +5182,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Negation: A Pink Elephant in the Large Language Models' Room?**|Tereza Vrabcová et.al.|[2503.22395v1](http://arxiv.org/abs/2503.22395v1)|null|
+|**2025-03-27**|**Benchmarking Deep Learning-Based Methods for Irradiance Nowcasting with Sky Images**|Lorenzo F. C. Varaschin et.al.|[2503.21966v1](http://arxiv.org/abs/2503.21966v1)|null|
 |**2025-03-27**|**Bayesian Pseudo Posterior Mechanism for Differentially Private Machine Learning**|Robert Chew et.al.|[2503.21528v1](http://arxiv.org/abs/2503.21528v1)|null|
 |**2025-03-27**|**Fine-Tuning LLMs on Small Medical Datasets: Text Classification and Normalization Effectiveness on Cardiology reports and Discharge records**|Noah Losch et.al.|[2503.21349v1](http://arxiv.org/abs/2503.21349v1)|null|
 |**2025-03-26**|**BeLightRec: A lightweight recommender system enhanced with BERT**|Manh Mai Van et.al.|[2503.20206v1](http://arxiv.org/abs/2503.20206v1)|null|
 |**2025-03-25**|**HausaNLP at SemEval-2025 Task 3: Towards a Fine-Grained Model-Aware Hallucination Detection**|Maryam Bala et.al.|[2503.19650v1](http://arxiv.org/abs/2503.19650v1)|null|
-|**2025-03-25**|**Enhancing Small Language Models for Cross-Lingual Generalized Zero-Shot Classification with Soft Prompt Tuning**|Fred Philippy et.al.|[2503.19469v1](http://arxiv.org/abs/2503.19469v1)|null|
+|**2025-03-28**|**Enhancing Small Language Models for Cross-Lingual Generalized Zero-Shot Classification with Soft Prompt Tuning**|Fred Philippy et.al.|[2503.19469v2](http://arxiv.org/abs/2503.19469v2)|null|
 |**2025-03-24**|**Teaching LLMs for Step-Level Automatic Math Correction via Reinforcement Learning**|Junsong Li et.al.|[2503.18432v1](http://arxiv.org/abs/2503.18432v1)|null|
-|**2025-03-24**|**Sun-Shine: A Large Language Model for Tibetan Culture**|Cheng Huang et.al.|[2503.18288v1](http://arxiv.org/abs/2503.18288v1)|**[link](https://github.com/vicentvankor/sun-shine)**|
+|**2025-03-28**|**Sun-Shine: A Large Language Model for Tibetan Culture**|Cheng Huang et.al.|[2503.18288v2](http://arxiv.org/abs/2503.18288v2)|**[link](https://github.com/vicentvankor/sun-shine)**|
 |**2025-03-19**|**A Comprehensive Survey on Architectural Advances in Deep CNNs: Challenges, Applications, and Emerging Research Directions**|Saddam Hussain Khan et.al.|[2503.16546v1](http://arxiv.org/abs/2503.16546v1)|null|
 |**2025-03-20**|**Corrective In-Context Learning: Evaluating Self-Correction in Large Language Models**|Mario Sanz-Guerrero et.al.|[2503.16022v1](http://arxiv.org/abs/2503.16022v1)|**[link](https://github.com/mario-sanz/cicl)**|
 |**2025-03-20**|**Don't Fight Hallucinations, Use Them: Estimating Image Realism using NLI over Atomic Facts**|Elisei Rykov et.al.|[2503.15948v1](http://arxiv.org/abs/2503.15948v1)|**[link](https://github.com/s-nlp/dont-fight-hallucinations)**|
@@ -6739,6 +6743,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Sentiment Classification of Thai Central Bank Press Releases Using Supervised Learning**|Stefano Grassi et.al.|[2503.22629v1](http://arxiv.org/abs/2503.22629v1)|null|
+|**2025-03-28**|**Historical Ink: Exploring Large Language Models for Irony Detection in 19th-Century Spanish**|Kevin Cohen et.al.|[2503.22585v1](http://arxiv.org/abs/2503.22585v1)|**[link](https://github.com/historicalink/ironydetection)**|
+|**2025-03-27**|**Hybrid Emotion Recognition: Enhancing Customer Interactions Through Acoustic and Textual Analysis**|Sahan Hewage Wewelwala et.al.|[2503.21927v1](http://arxiv.org/abs/2503.21927v1)|null|
 |**2025-03-27**|**An evaluation of LLMs and Google Translate for translation of selected Indian languages via sentiment and semantic analyses**|Rohitash Chandra et.al.|[2503.21393v1](http://arxiv.org/abs/2503.21393v1)|null|
 |**2025-03-26**|**From Annotation to Adaptation: Metrics, Synthetic Data, and Aspect Extraction for Aspect-Based Sentiment Analysis with Large Language Models**|Nikita Neveditsin et.al.|[2503.20715v1](http://arxiv.org/abs/2503.20715v1)|null|
 |**2025-03-24**|**Group Decision-Making System with Sentiment Analysis of Discussion Chat and Fuzzy Consensus Modeling**|Adilet Yerkin et.al.|[2503.18765v1](http://arxiv.org/abs/2503.18765v1)|null|
@@ -7876,6 +7883,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis**|Jiangyong Huang et.al.|[2503.22420v1](http://arxiv.org/abs/2503.22420v1)|null|
+|**2025-03-28**|**Preference-based Learning with Retrieval Augmented Generation for Conversational Question Answering**|Magdalena Kaiser et.al.|[2503.22303v1](http://arxiv.org/abs/2503.22303v1)|null|
+|**2025-03-28**|**EgoToM: Benchmarking Theory of Mind Reasoning from Egocentric Videos**|Yuxuan Li et.al.|[2503.22152v1](http://arxiv.org/abs/2503.22152v1)|**[link](https://github.com/facebookresearch/egotom)**|
+|**2025-03-28**|**How Well Can Vison-Language Models Understand Humans' Intention? An Open-ended Theory of Mind Question Evaluation Benchmark**|Ximing Wen et.al.|[2503.22093v1](http://arxiv.org/abs/2503.22093v1)|null|
+|**2025-03-27**|**JEEM: Vision-Language Understanding in Four Arabic Dialects**|Karima Kadaoui et.al.|[2503.21910v1](http://arxiv.org/abs/2503.21910v1)|null|
+|**2025-03-27**|**AssistPDA: An Online Video Surveillance Assistant for Video Anomaly Prediction, Detection, and Analysis**|Zhiwei Yang et.al.|[2503.21904v1](http://arxiv.org/abs/2503.21904v1)|null|
 |**2025-03-27**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760v1](http://arxiv.org/abs/2503.21760v1)|null|
 |**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747v1](http://arxiv.org/abs/2503.21747v1)|null|
 |**2025-03-27**|**ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation**|Zhicheng Lee et.al.|[2503.21729v1](http://arxiv.org/abs/2503.21729v1)|null|
@@ -12569,6 +12582,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation**|Jiakai Tang et.al.|[2503.22675v1](http://arxiv.org/abs/2503.22675v1)|null|
+|**2025-03-28**|**Briteller: Shining a Light on AI Recommendations for Children**|Xiaofei Zhou et.al.|[2503.22113v1](http://arxiv.org/abs/2503.22113v1)|null|
+|**2025-03-27**|**Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences**|Heejin Kook et.al.|[2503.22005v1](http://arxiv.org/abs/2503.22005v1)|null|
 |**2025-03-27**|**CombiGCN: An effective GCN model for Recommender System**|Loc Tan Nguyen et.al.|[2503.21471v1](http://arxiv.org/abs/2503.21471v1)|null|
 |**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468v1](http://arxiv.org/abs/2503.21468v1)|**[link](https://github.com/trantin84/wigcn)**|
 |**2025-03-27**|**An NLP-Driven Approach Using Twitter Data for Tailored K-pop Artist Recommendations**|Sora Kang et.al.|[2503.21189v1](http://arxiv.org/abs/2503.21189v1)|null|
@@ -15111,6 +15127,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Reasoning of Large Language Models over Knowledge Graphs with Super-Relations**|Song Wang et.al.|[2503.22166v1](http://arxiv.org/abs/2503.22166v1)|null|
 |**2025-03-27**|**Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs**|Boyang Yang et.al.|[2503.21710v1](http://arxiv.org/abs/2503.21710v1)|null|
 |**2025-03-27**|**KRAFT -- A Knowledge-Graph-Based Resource Allocation Framework**|Leon Bein et.al.|[2503.21636v1](http://arxiv.org/abs/2503.21636v1)|null|
 |**2025-03-27**|**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**|Ruizhou Li et.al.|[2503.21435v1](http://arxiv.org/abs/2503.21435v1)|null|
@@ -17193,6 +17210,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Comparing Methods for Bias Mitigation in Graph Neural Networks**|Barbara Hoffmann et.al.|[2503.22569v1](http://arxiv.org/abs/2503.22569v1)|null|
+|**2025-03-28**|**CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills**|Fabian Schmidt et.al.|[2503.22277v1](http://arxiv.org/abs/2503.22277v1)|null|
+|**2025-03-28**|**Data-driven modeling of fluid flow around rotating structures with graph neural networks**|Rui Gao et.al.|[2503.22252v1](http://arxiv.org/abs/2503.22252v1)|null|
+|**2025-03-28**|**Few-Shot Graph Out-of-Distribution Detection with LLMs**|Haoyan Xu et.al.|[2503.22097v1](http://arxiv.org/abs/2503.22097v1)|null|
+|**2025-03-27**|**Improving Equivariant Networks with Probabilistic Symmetry Breaking**|Hannah Lawrence et.al.|[2503.21985v1](http://arxiv.org/abs/2503.21985v1)|null|
 |**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681v1](http://arxiv.org/abs/2503.21681v1)|**[link](https://github.com/cgoliver/rnaglib)**|
 |**2025-03-27**|**Fusion of Graph Neural Networks via Optimal Transport**|Weronika Ormaniec et.al.|[2503.21579v1](http://arxiv.org/abs/2503.21579v1)|null|
 |**2025-03-27**|**CombiGCN: An effective GCN model for Recommender System**|Loc Tan Nguyen et.al.|[2503.21471v1](http://arxiv.org/abs/2503.21471v1)|null|
