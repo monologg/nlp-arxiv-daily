@@ -4387,7 +4387,7 @@ layout: default
 |**2006-12-22**|**bdbms -- A Database Management System for Biological Data**|Mohamed Y. Eltabakh et.al.|[cs/0612127v1](http://arxiv.org/abs/cs/0612127v1)|null|
 |**2025-01-24**|**The best two-term underapproximation using numbers from Fibonacci-type sequences**|Mark Shiliaev et.al.|[2501.14580v1](http://arxiv.org/abs/2501.14580v1)|null|
 |**2024-11-23**|**The Updated Genome Warehouse: Enhancing Data Value, Security, and Usability to Address Data Expansion**|Yingke Ma et.al.|[2411.15467v1](http://arxiv.org/abs/2411.15467v1)|null|
-|**2024-09-10**|**The molecular gas content throughout the low-z merger sequence**|Mark T. Sargent et.al.|[2409.06572v1](http://arxiv.org/abs/2409.06572v1)|null|
+|**2025-03-31**|**The molecular gas content throughout the low-z merger sequence**|Mark T. Sargent et.al.|[2409.06572v2](http://arxiv.org/abs/2409.06572v2)|null|
 |**2024-07-16**|**Estimating Agreement by Chance for Sequence Annotation**|Diya Li et.al.|[2407.11371v1](http://arxiv.org/abs/2407.11371v1)|null|
 |**2024-02-21**|**PQA: Zero-shot Protein Question Answering for Free-form Scientific Enquiry with Large Language Models**|Eli M Carrami et.al.|[2402.13653v1](http://arxiv.org/abs/2402.13653v1)|**[link](https://github.com/emcarrami/pika)**|
 |**2023-11-26**|**Difference ascent sequences**|Mark Dukes et.al.|[2311.15370v1](http://arxiv.org/abs/2311.15370v1)|null|
@@ -17259,7 +17259,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-31**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305v1](http://arxiv.org/abs/2503.24305v1)|**[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**|
+|**2025-04-01**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305v2](http://arxiv.org/abs/2503.24305v2)|**[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**|
 |**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259v1](http://arxiv.org/abs/2503.24259v1)|null|
 |**2025-03-31**|**Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks**|Fangtong Zhou et.al.|[2503.24203v1](http://arxiv.org/abs/2503.24203v1)|null|
 |**2025-03-31**|**Graph Neural Network-Based Predictive Modeling for Robotic Plaster Printing**|Diego Machain Rivera et.al.|[2503.24130v1](http://arxiv.org/abs/2503.24130v1)|null|
