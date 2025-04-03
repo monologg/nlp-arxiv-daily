@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Graphically Speaking: Unmasking Abuse in Social Media with Conversation Insights**|Célia Nouri et.al.|[2504.01902v1](http://arxiv.org/abs/2504.01902v1)|null|
+|**2025-04-02**|**Buggin: Automatic intrinsic bugs classification model using NLP and ML**|Pragya Bhandari et.al.|[2504.01869v1](http://arxiv.org/abs/2504.01869v1)|null|
+|**2025-04-02**|**Breaking BERT: Gradient Attack on Twitter Sentiment Analysis for Targeted Misclassification**|Akil Raj Subedi et.al.|[2504.01345v1](http://arxiv.org/abs/2504.01345v1)|null|
+|**2025-04-02**|**Foundations and Evaluations in NLP**|Jungyeul Park et.al.|[2504.01342v1](http://arxiv.org/abs/2504.01342v1)|null|
+|**2025-04-02**|**Bi-LAT: Bilateral Control-Based Imitation Learning via Natural Language and Action Chunking with Transformers**|Takumi Kobayashi et.al.|[2504.01301v1](http://arxiv.org/abs/2504.01301v1)|null|
+|**2025-04-01**|**Catastrophic Forgetting in LLMs: A Comparative Analysis Across Language Tasks**|Naimul Haque et.al.|[2504.01241v1](http://arxiv.org/abs/2504.01241v1)|null|
+|**2025-04-01**|**Detecting PTSD in Clinical Interviews: A Comparative Analysis of NLP Methods and Large Language Models**|Feng Chen et.al.|[2504.01216v1](http://arxiv.org/abs/2504.01216v1)|null|
+|**2025-04-01**|**Information Retrieval for Climate Impact**|Maarten de Rijke et.al.|[2504.01162v1](http://arxiv.org/abs/2504.01162v1)|null|
+|**2025-04-01**|**Chinese Grammatical Error Correction: A Survey**|Mengyang Qiu et.al.|[2504.00977v1](http://arxiv.org/abs/2504.00977v1)|null|
+|**2025-04-01**|**Generalized Tensor-based Parameter-Efficient Fine-Tuning via Lie Group Transformations**|Chongjie Si et.al.|[2504.00851v1](http://arxiv.org/abs/2504.00851v1)|null|
 |**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245v1](http://arxiv.org/abs/2503.24245v1)|null|
 |**2025-03-31**|**Multi-Task Learning for Extracting Menstrual Characteristics from Clinical Notes**|Anna Shopova et.al.|[2503.24116v1](http://arxiv.org/abs/2503.24116v1)|null|
 |**2025-03-31**|**Is LLM the Silver Bullet to Low-Resource Languages Machine Translation?**|Yewei Song et.al.|[2503.24102v1](http://arxiv.org/abs/2503.24102v1)|null|
@@ -4149,6 +4159,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Tasks and Roles in Legal AI: Data Curation, Annotation, and Verification**|Allison Koenecke et.al.|[2504.01349v1](http://arxiv.org/abs/2504.01349v1)|null|
+|**2025-04-01**|**Aplicação de Large Language Models na Análise e Síntese de Documentos Jurídicos: Uma Revisão de Literatura**|Matheus Belarmino et.al.|[2504.00725v1](http://arxiv.org/abs/2504.00725v1)|null|
 |**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364v1](http://arxiv.org/abs/2502.20364v1)|null|
 |**2025-03-08**|**NitiBench: A Comprehensive Study of LLM Framework Capabilities for Thai Legal Question Answering**|Pawitsapak Akarajaradwong et.al.|[2502.10868v3](http://arxiv.org/abs/2502.10868v3)|**[link](https://github.com/vistec-ai/nitibench)**|
 |**2025-02-13**|**LegalViz: Legal Text Visualization by Text To Diagram Generation**|Eri Onami et.al.|[2502.06147v2](http://arxiv.org/abs/2502.06147v2)|null|
@@ -4385,6 +4397,7 @@ layout: default
 |**2005-07-08**|**Root invariants in the Adams spectral sequence**|Mark Behrens et.al.|[math/0507182v1](http://arxiv.org/abs/math/0507182v1)|null|
 |**2002-02-15**|**Frequencies of f-modes in differentially rotating relativistic stars and secular stability limits**|Shin'ichirou Yoshida et.al.|[gr-qc/0112017v3](http://arxiv.org/abs/gr-qc/0112017v3)|null|
 |**2006-12-22**|**bdbms -- A Database Management System for Biological Data**|Mohamed Y. Eltabakh et.al.|[cs/0612127v1](http://arxiv.org/abs/cs/0612127v1)|null|
+|**2025-04-01**|**Zero-Shot 4D Lidar Panoptic Segmentation**|Yushan Zhang et.al.|[2504.00848v1](http://arxiv.org/abs/2504.00848v1)|null|
 |**2025-01-24**|**The best two-term underapproximation using numbers from Fibonacci-type sequences**|Mark Shiliaev et.al.|[2501.14580v1](http://arxiv.org/abs/2501.14580v1)|null|
 |**2024-11-23**|**The Updated Genome Warehouse: Enhancing Data Value, Security, and Usability to Address Data Expansion**|Yingke Ma et.al.|[2411.15467v1](http://arxiv.org/abs/2411.15467v1)|null|
 |**2025-03-31**|**The molecular gas content throughout the low-z merger sequence**|Mark T. Sargent et.al.|[2409.06572v2](http://arxiv.org/abs/2409.06572v2)|null|
@@ -4426,6 +4439,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Track and Trace: Automatically Uncovering Cross-chain Transactions in the Multi-blockchain Ecosystems**|Dan Lin et.al.|[2504.01822v1](http://arxiv.org/abs/2504.01822v1)|null|
+|**2025-04-02**|**Foundations and Evaluations in NLP**|Jungyeul Park et.al.|[2504.01342v1](http://arxiv.org/abs/2504.01342v1)|null|
+|**2025-04-01**|**GLiNER-biomed: A Suite of Efficient Models for Open Biomedical Named Entity Recognition**|Anthony Yazdani et.al.|[2504.00676v1](http://arxiv.org/abs/2504.00676v1)|**[link](https://github.com/ds4dh/GLiNER-biomed)**|
+|**2025-04-01**|**Do LLMs Surpass Encoders for Biomedical NER?**|Motasem S Obeidat et.al.|[2504.00664v1](http://arxiv.org/abs/2504.00664v1)|null|
+|**2025-04-01**|**Multimodal LLMs for OCR, OCR Post-Correction, and Named Entity Recognition in Historical Documents**|Gavin Greif et.al.|[2504.00414v1](http://arxiv.org/abs/2504.00414v1)|null|
+|**2025-03-28**|**Opioid Named Entity Recognition (ONER-2025) from Reddit**|Muhammad Ahmad et.al.|[2504.00027v1](http://arxiv.org/abs/2504.00027v1)|null|
 |**2025-03-31**|**WHERE and WHICH: Iterative Debate for Biomedical Synthetic Data Augmentation**|Zhengyi Zhao et.al.|[2503.23673v1](http://arxiv.org/abs/2503.23673v1)|null|
 |**2025-03-29**|**Student-Powered Digital Scholarship CoLab Project in the HKUST Library: Develop a Chinese Named-Entity Recognition (NER) Tool within One Semester from the Ground Up**|Sherry S. L. Yip et.al.|[2503.22967v1](http://arxiv.org/abs/2503.22967v1)|**[link](https://github.com/hkust-lib-ds/P001-PUBLIC_Chinese-NER-Tool)**|
 |**2025-03-25**|**TRIDIS: A Comprehensive Medieval and Early Modern Corpus for HTR and NER**|Sergio Torres Aguilar et.al.|[2503.22714v1](http://arxiv.org/abs/2503.22714v1)|null|
@@ -5195,6 +5214,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930v1](http://arxiv.org/abs/2504.01930v1)|null|
+|**2025-04-02**|**A Novel Approach To Implementing Knowledge Distillation In Tsetlin Machines**|Calvin Kinateder et.al.|[2504.01798v1](http://arxiv.org/abs/2504.01798v1)|null|
+|**2025-04-02**|**Time-to-event prediction for grouped variables using Exclusive Lasso**|Dayasri Ravi et.al.|[2504.01520v1](http://arxiv.org/abs/2504.01520v1)|null|
+|**2025-04-02**|**PROPHET: An Inferable Future Forecasting Benchmark with Causal Intervened Likelihood Estimation**|Zhengwei Tao et.al.|[2504.01509v1](http://arxiv.org/abs/2504.01509v1)|null|
+|**2025-04-01**|**Enhancing Negation Awareness in Universal Text Embeddings: A Data-efficient and Computational-efficient Approach**|Hongliu Cao et.al.|[2504.00584v1](http://arxiv.org/abs/2504.00584v1)|null|
 |**2025-03-31**|**Synthetic News Generation for Fake News Classification**|Abdul Sittar et.al.|[2503.24206v1](http://arxiv.org/abs/2503.24206v1)|null|
 |**2025-03-31**|**WHERE and WHICH: Iterative Debate for Biomedical Synthetic Data Augmentation**|Zhengyi Zhao et.al.|[2503.23673v1](http://arxiv.org/abs/2503.23673v1)|null|
 |**2025-03-29**|**TRACE: Intra-visit Clinical Event Nowcasting via Effective Patient Trajectory Encoding**|Yuyang Liang et.al.|[2503.23072v1](http://arxiv.org/abs/2503.23072v1)|**[link](https://github.com/amehi/trace)**|
@@ -6759,6 +6783,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930v1](http://arxiv.org/abs/2504.01930v1)|null|
+|**2025-04-02**|**Breaking BERT: Gradient Attack on Twitter Sentiment Analysis for Targeted Misclassification**|Akil Raj Subedi et.al.|[2504.01345v1](http://arxiv.org/abs/2504.01345v1)|null|
+|**2025-04-01**|**Enhancing Negation Awareness in Universal Text Embeddings: A Data-efficient and Computational-efficient Approach**|Hongliu Cao et.al.|[2504.00584v1](http://arxiv.org/abs/2504.00584v1)|null|
+|**2025-04-01**|**Using complex prompts to identify fine-grained biases in image generation through ChatGPT-4o**|Marinus Ferreira et.al.|[2504.00388v1](http://arxiv.org/abs/2504.00388v1)|null|
+|**2025-03-31**|**Multilingual Sentiment Analysis of Summarized Texts: A Cross-Language Study of Text Shortening Effects**|Mikhail Krasitskii et.al.|[2504.00265v1](http://arxiv.org/abs/2504.00265v1)|null|
 |**2025-03-31**|**BAR-Analytics: A Web-based Platform for Analyzing Information Spreading Barriers in News: Comparative Analysis Across Multiple Barriers and Events**|Abdul Sittar et.al.|[2503.24220v1](http://arxiv.org/abs/2503.24220v1)|null|
 |**2025-03-31**|**Agent-Based Simulations of Online Political Discussions: A Case Study on Elections in Germany**|Abdul Sittar et.al.|[2503.24199v1](http://arxiv.org/abs/2503.24199v1)|null|
 |**2025-03-30**|**Advancing Sentiment Analysis in Tamil-English Code-Mixed Texts: Challenges and Transformer-Based Solutions**|Mikhail Krasitskii et.al.|[2503.23295v1](http://arxiv.org/abs/2503.23295v1)|null|
@@ -7904,6 +7933,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning**|Yanzhou Su et.al.|[2504.01886v1](http://arxiv.org/abs/2504.01886v1)|null|
+|**2025-04-02**|**CoRAG: Collaborative Retrieval-Augmented Generation**|Aashiq Muhamed et.al.|[2504.01883v1](http://arxiv.org/abs/2504.01883v1)|null|
+|**2025-04-02**|**YourBench: Easy Custom Evaluation Sets for Everyone**|Sumuk Shashidhar et.al.|[2504.01833v1](http://arxiv.org/abs/2504.01833v1)|null|
+|**2025-04-02**|**Bhakti: A Lightweight Vector Database Management System for Endowing Large Language Models with Semantic Search Capabilities and Memory**|Zihao Wu et.al.|[2504.01553v1](http://arxiv.org/abs/2504.01553v1)|null|
+|**2025-04-02**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458v1](http://arxiv.org/abs/2504.01458v1)|null|
+|**2025-04-02**|**GTR: Graph-Table-RAG for Cross-Table Question Answering**|Jiaru Zou et.al.|[2504.01346v1](http://arxiv.org/abs/2504.01346v1)|null|
+|**2025-04-02**|**Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**|Lingxiao Guan et.al.|[2504.01309v1](http://arxiv.org/abs/2504.01309v1)|null|
+|**2025-04-02**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281v1](http://arxiv.org/abs/2504.01281v1)|null|
+|**2025-04-01**|**Automated Factual Benchmarking for In-Car Conversational Systems using Large Language Models**|Rafael Giebisch et.al.|[2504.01248v1](http://arxiv.org/abs/2504.01248v1)|null|
+|**2025-04-01**|**Scaling Language-Free Visual Representation Learning**|David Fan et.al.|[2504.01017v1](http://arxiv.org/abs/2504.01017v1)|null|
 |**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245v1](http://arxiv.org/abs/2503.24245v1)|null|
 |**2025-03-31**|**Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up**|Ziming Cheng et.al.|[2503.24180v1](http://arxiv.org/abs/2503.24180v1)|null|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164v1](http://arxiv.org/abs/2503.24164v1)|null|
@@ -11428,6 +11467,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Buggin: Automatic intrinsic bugs classification model using NLP and ML**|Pragya Bhandari et.al.|[2504.01869v1](http://arxiv.org/abs/2504.01869v1)|null|
+|**2025-04-01**|**Do LLMs Surpass Encoders for Biomedical NER?**|Motasem S Obeidat et.al.|[2504.00664v1](http://arxiv.org/abs/2504.00664v1)|null|
+|**2025-03-31**|**Evaluating the Feasibility and Accuracy of Large Language Models for Medical History-Taking in Obstetrics and Gynecology**|Dou Liu et.al.|[2504.00061v1](http://arxiv.org/abs/2504.00061v1)|null|
 |**2025-03-31**|**Aud-Sur: An Audio Analyzer Assistant for Audio Surveillance Applications**|Phat Lam et.al.|[2503.23827v1](http://arxiv.org/abs/2503.23827v1)|null|
 |**2025-03-31**|**Detecting Functional Bugs in Smart Contracts through LLM-Powered and Bug-Oriented Composite Analysis**|Binbin Zhao et.al.|[2503.23718v1](http://arxiv.org/abs/2503.23718v1)|null|
 |**2025-03-27**|**Unveiling the Power of Uncertainty: A Journey into Bayesian Neural Networks for Stellar dating**|Víctor Tamames-Rodero et.al.|[2503.21153v1](http://arxiv.org/abs/2503.21153v1)|null|
@@ -12615,6 +12657,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Extending MovieLens-32M to Provide New Evaluation Objectives**|Mark D. Smucker et.al.|[2504.01863v1](http://arxiv.org/abs/2504.01863v1)|null|
+|**2025-04-02**|**Hyperbolic Diffusion Recommender Model**|Meng Yuan et.al.|[2504.01541v1](http://arxiv.org/abs/2504.01541v1)|null|
+|**2025-04-02**|**Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation**|Changshuo Zhang et.al.|[2504.01489v1](http://arxiv.org/abs/2504.01489v1)|null|
+|**2025-04-01**|**Preference-Centric Route Recommendation: Equilibrium, Learning, and Provable Efficiency**|Ya-Ting Yang et.al.|[2504.01192v1](http://arxiv.org/abs/2504.01192v1)|null|
+|**2025-04-01**|**Data Sourcing Random Access using Semantic Queries for Massive IoT Scenarios**|Anders E. Kalør et.al.|[2504.00619v1](http://arxiv.org/abs/2504.00619v1)|null|
+|**2025-04-01**|**SCRec: A Scalable Computational Storage System with Statistical Sharding and Tensor-train Decomposition for Recommendation Models**|Jinho Yang et.al.|[2504.00520v1](http://arxiv.org/abs/2504.00520v1)|null|
 |**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289v1](http://arxiv.org/abs/2503.24289v1)|**[link](https://github.com/linjc16/Rec-R1)**|
 |**2025-03-31**|**Crossing Boundaries: Leveraging Semantic Divergences to Explore Cultural Novelty in Cooking Recipes**|Florian Carichon et.al.|[2503.24027v1](http://arxiv.org/abs/2503.24027v1)|**[link](https://github.com/fcarichon/Cultural_Novelty)**|
 |**2025-03-31**|**Get the Agents Drunk: Memory Perturbations in Autonomous Agent-based Recommender Systems**|Shiyi Yang et.al.|[2503.23804v1](http://arxiv.org/abs/2503.23804v1)|null|
@@ -15170,6 +15218,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**|Lingxiao Guan et.al.|[2504.01309v1](http://arxiv.org/abs/2504.01309v1)|null|
+|**2025-04-01**|**MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs**|Juncheng Wu et.al.|[2504.00993v1](http://arxiv.org/abs/2504.00993v1)|**[link](https://github.com/UCSC-VLAA/MedReason)**|
+|**2025-04-01**|**ReaLitE: Enrichment of Relation Embeddings in Knowledge Graphs using Numeric Literals**|Antonis Klironomos et.al.|[2504.00852v1](http://arxiv.org/abs/2504.00852v1)|null|
+|**2025-04-01**|**Semantic Mastery: Enhancing LLMs with Advanced Natural Language Understanding**|Mohanakrishnan Hariharan et.al.|[2504.00409v1](http://arxiv.org/abs/2504.00409v1)|null|
+|**2025-04-01**|**Detecting and Mitigating Bias in LLMs through Knowledge Graph-Augmented Training**|Rajeev Kumar et.al.|[2504.00310v1](http://arxiv.org/abs/2504.00310v1)|null|
 |**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245v1](http://arxiv.org/abs/2503.24245v1)|null|
 |**2025-03-30**|**Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models**|Haochen Liu et.al.|[2503.23523v1](http://arxiv.org/abs/2503.23523v1)|**[link](https://github.com/HaochenLiu2000/QAP)**|
 |**2025-03-30**|**SCORE: Story Coherence and Retrieval Enhancement for AI Narratives**|Qiang Yi et.al.|[2503.23512v1](http://arxiv.org/abs/2503.23512v1)|null|
@@ -17259,6 +17312,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Graphically Speaking: Unmasking Abuse in Social Media with Conversation Insights**|Célia Nouri et.al.|[2504.01902v1](http://arxiv.org/abs/2504.01902v1)|null|
+|**2025-04-02**|**Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code**|Roxane Cohen et.al.|[2504.01481v1](http://arxiv.org/abs/2504.01481v1)|null|
+|**2025-04-02**|**Deep Graph Reinforcement Learning for UAV-Enabled Multi-User Secure Communications**|Xiao Tang et.al.|[2504.01446v1](http://arxiv.org/abs/2504.01446v1)|null|
+|**2025-04-02**|**Refining Interactions: Enhancing Anisotropy in Graph Neural Networks with Language Semantics**|Zhaoxing Li et.al.|[2504.01429v1](http://arxiv.org/abs/2504.01429v1)|null|
+|**2025-04-02**|**Flexible and Explainable Graph Analysis for EEG-based Alzheimer's Disease Classification**|Jing Wang et.al.|[2504.01329v1](http://arxiv.org/abs/2504.01329v1)|null|
+|**2025-04-01**|**Neural Approaches to SAT Solving: Design Choices and Interpretability**|David Mojžíšek et.al.|[2504.01173v1](http://arxiv.org/abs/2504.01173v1)|null|
+|**2025-04-01**|**Efficient n-body simulations using physics informed graph neural networks**|Víctor Ramos-Osuna et.al.|[2504.01169v1](http://arxiv.org/abs/2504.01169v1)|null|
+|**2025-04-01**|**GKAN: Explainable Diagnosis of Alzheimer's Disease Using Graph Neural Network with Kolmogorov-Arnold Networks**|Tianqi Ding et.al.|[2504.00946v1](http://arxiv.org/abs/2504.00946v1)|null|
+|**2025-04-02**|**Adversarial Curriculum Graph-Free Knowledge Distillation for Graph Neural Networks**|Yuang Jia et.al.|[2504.00540v2](http://arxiv.org/abs/2504.00540v2)|null|
+|**2025-04-01**|**Output Prediction of Quantum Circuits based on Graph Neural Networks**|Yuxiang Liu et.al.|[2504.00464v1](http://arxiv.org/abs/2504.00464v1)|null|
 |**2025-04-01**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305v2](http://arxiv.org/abs/2503.24305v2)|**[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**|
 |**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259v1](http://arxiv.org/abs/2503.24259v1)|null|
 |**2025-03-31**|**Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks**|Fangtong Zhou et.al.|[2503.24203v1](http://arxiv.org/abs/2503.24203v1)|null|
