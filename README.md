@@ -1,4 +1,4 @@
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +24,7 @@
 |**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245v1](http://arxiv.org/abs/2503.24245v1)|null|
 |**2025-03-31**|**Multi-Task Learning for Extracting Menstrual Characteristics from Clinical Notes**|Anna Shopova et.al.|[2503.24116v1](http://arxiv.org/abs/2503.24116v1)|null|
 |**2025-03-31**|**Is LLM the Silver Bullet to Low-Resource Languages Machine Translation?**|Yewei Song et.al.|[2503.24102v1](http://arxiv.org/abs/2503.24102v1)|null|
-|**2025-03-31**|**Crossing Boundaries: Leveraging Semantic Divergences to Explore Cultural Novelty in Cooking Recipes**|Florian Carichon et.al.|[2503.24027v1](http://arxiv.org/abs/2503.24027v1)|null|
+|**2025-03-31**|**Crossing Boundaries: Leveraging Semantic Divergences to Explore Cultural Novelty in Cooking Recipes**|Florian Carichon et.al.|[2503.24027v1](http://arxiv.org/abs/2503.24027v1)|**[link](https://github.com/fcarichon/Cultural_Novelty)**|
 |**2025-03-31**|**Model Hemorrhage and the Robustness Limits of Large Language Models**|Ziyang Ma et.al.|[2503.23924v1](http://arxiv.org/abs/2503.23924v1)|null|
 |**2025-03-31**|**WHERE and WHICH: Iterative Debate for Biomedical Synthetic Data Augmentation**|Zhengyi Zhao et.al.|[2503.23673v1](http://arxiv.org/abs/2503.23673v1)|null|
 |**2025-03-30**|**Beyond Detection: Designing AI-Resilient Assessments with Automated Feedback Tool to Foster Critical Thinking**|Muhammad Sajjad Akbar et.al.|[2503.23622v1](http://arxiv.org/abs/2503.23622v1)|null|
@@ -4139,7 +4139,7 @@
 |**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|**[link](https://github.com/shuhengl/acl2023_conllpp)**|
 |**2022-12-19**|**MANER: Mask Augmented Named Entity Recognition for Extreme Low-Resource Languages**|Shashank Sonkar et.al.|[2212.09723v1](http://arxiv.org/abs/2212.09723v1)|null|
 
-<p align=right>(<a href='#updated-on-20250402'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250403'>back to top</a>)</p>
 
 ## Legal NLP
 
@@ -4370,7 +4370,7 @@
 |**2014-11-03**|**Unsupervised Keyword Extraction from Polish Legal Texts**|Michał Jungiewicz et.al.|[1408.3731v2](http://arxiv.org/abs/1408.3731v2)|null|
 |**2011-03-16**|**Information and Entanglement Measures in Quantum Systems With Applications to Atomic Physics**|Daniel Manzano et.al.|[1103.3186v1](http://arxiv.org/abs/1103.3186v1)|null|
 
-<p align=right>(<a href='#updated-on-20250402'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250403'>back to top</a>)</p>
 
 ## Sequence Annotation
 
@@ -4416,7 +4416,7 @@
 |**2008-02-16**|**Radio-loudness of Active Galaxies and the Black Hole Evolution**|M. Sikora et.al.|[0802.2302v1](http://arxiv.org/abs/0802.2302v1)|null|
 |**2007-07-16**|**Radio Loudness of AGNs: Host Galaxy Morphology and the Spin Paradigm**|L. Stawarz et.al.|[0707.2369v1](http://arxiv.org/abs/0707.2369v1)|null|
 
-<p align=right>(<a href='#updated-on-20250402'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250403'>back to top</a>)</p>
 
 ## Named Entity Recognition
 
@@ -5185,7 +5185,7 @@
 |**2022-10-12**|**MedJEx: A Medical Jargon Extraction Model with Wiki's Hyperlink Span and Contextualized Masked Language Model Score**|Sunjae Kwon et.al.|[2210.05875v1](http://arxiv.org/abs/2210.05875v1)|**[link](https://github.com/mozzitastebitter/medjex)**|
 |**2022-10-11**|**SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition**|Zeng Yang et.al.|[2210.05632v1](http://arxiv.org/abs/2210.05632v1)|**[link](https://github.com/unveiled-the-red-hat/SEE-Few)**|
 
-<p align=right>(<a href='#updated-on-20250402'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250403'>back to top</a>)</p>
 
 ## Text Classification
 
@@ -6749,7 +6749,7 @@
 |**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/microsoft/scglab)**|
 |**2022-11-18**|**3d human motion generation from the text via gesture action classification and the autoregressive model**|Gwantae Kim et.al.|[2211.10003v1](http://arxiv.org/abs/2211.10003v1)|null|
 
-<p align=right>(<a href='#updated-on-20250402'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250403'>back to top</a>)</p>
 
 ## Sentiment Analysis
 
@@ -7894,7 +7894,7 @@
 |**2022-10-18**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-10-14**|**Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**|Sishuo Chen et.al.|[2210.07907v1](http://arxiv.org/abs/2210.07907v1)|**[link](https://github.com/lancopku/dan)**|
 
-<p align=right>(<a href='#updated-on-20250402'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250403'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -7904,7 +7904,7 @@
 |**2025-03-31**|**Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up**|Ziming Cheng et.al.|[2503.24180v1](http://arxiv.org/abs/2503.24180v1)|null|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164v1](http://arxiv.org/abs/2503.24164v1)|null|
 |**2025-03-31**|**KOFFVQA: An Objectively Evaluated Free-form VQA Benchmark for Large Vision-Language Models in the Korean Language**|Yoonshik Kim et.al.|[2503.23730v1](http://arxiv.org/abs/2503.23730v1)|**[link](https://github.com/maum-ai/koffvqa)**|
-|**2025-03-30**|**Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models**|Haochen Liu et.al.|[2503.23523v1](http://arxiv.org/abs/2503.23523v1)|null|
+|**2025-03-30**|**Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models**|Haochen Liu et.al.|[2503.23523v1](http://arxiv.org/abs/2503.23523v1)|**[link](https://github.com/HaochenLiu2000/QAP)**|
 |**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463v1](http://arxiv.org/abs/2503.23463v1)|null|
 |**2025-03-30**|**An Analysis of Decoding Methods for LLM-based Agents for Faithful Multi-Hop Question Answering**|Alexander Murphy et.al.|[2503.23415v1](http://arxiv.org/abs/2503.23415v1)|null|
 |**2025-03-29**|**The Challenge of Achieving Attributability in Multilingual Table-to-Text Generation with Question-Answer Blueprints**|Aden Haussmann et.al.|[2503.23204v1](http://arxiv.org/abs/2503.23204v1)|null|
@@ -11418,7 +11418,7 @@
 |**2022-12-02**|**Compound Tokens: Channel Fusion for Vision-Language Representation Learning**|Maxwell Mbabilla Aladago et.al.|[2212.01447v1](http://arxiv.org/abs/2212.01447v1)|null|
 |**2022-12-02**|**Relation-aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v1](http://arxiv.org/abs/2212.00975v1)|**[link](https://github.com/mlvlab/qat)**|
 
-<p align=right>(<a href='#updated-on-20250402'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250403'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -12605,14 +12605,14 @@
 |**2022-10-17**|**Zero-Shot Ranking Socio-Political Texts with Transformer Language Models to Reduce Close Reading Time**|Kiymet Akdemir et.al.|[2210.09179v1](http://arxiv.org/abs/2210.09179v1)|null|
 |**2022-10-17**|**Modeling the Lighting in Scenes as Style for Auto White-Balance Correction**|Furkan Kınlı et.al.|[2210.09090v1](http://arxiv.org/abs/2210.09090v1)|**[link](https://github.com/birdortyedi/lighting-as-style-awb-correction)**|
 
-<p align=right>(<a href='#updated-on-20250402'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250403'>back to top</a>)</p>
 
 ## Recommendation System
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289v1](http://arxiv.org/abs/2503.24289v1)|null|
-|**2025-03-31**|**Crossing Boundaries: Leveraging Semantic Divergences to Explore Cultural Novelty in Cooking Recipes**|Florian Carichon et.al.|[2503.24027v1](http://arxiv.org/abs/2503.24027v1)|null|
+|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289v1](http://arxiv.org/abs/2503.24289v1)|**[link](https://github.com/linjc16/Rec-R1)**|
+|**2025-03-31**|**Crossing Boundaries: Leveraging Semantic Divergences to Explore Cultural Novelty in Cooking Recipes**|Florian Carichon et.al.|[2503.24027v1](http://arxiv.org/abs/2503.24027v1)|**[link](https://github.com/fcarichon/Cultural_Novelty)**|
 |**2025-03-31**|**Get the Agents Drunk: Memory Perturbations in Autonomous Agent-based Recommender Systems**|Shiyi Yang et.al.|[2503.23804v1](http://arxiv.org/abs/2503.23804v1)|null|
 |**2025-03-31**|**Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure**|Amit Jaspal et.al.|[2503.23630v1](http://arxiv.org/abs/2503.23630v1)|null|
 |**2025-03-30**|**Filtering with Time-frequency Analysis: An Adaptive and Lightweight Model for Sequential Recommender Systems Based on Discrete Wavelet Transform**|Sheng Lu et.al.|[2503.23436v1](http://arxiv.org/abs/2503.23436v1)|null|
@@ -15160,14 +15160,14 @@
 |**2022-11-27**|**Dense Text Retrieval based on Pretrained Language Models: A Survey**|Wayne Xin Zhao et.al.|[2211.14876v1](http://arxiv.org/abs/2211.14876v1)|**[link](https://github.com/paddlepaddle/rocketqa)**|
 |**2022-11-27**|**Unbiased Knowledge Distillation for Recommendation**|Gang Chen et.al.|[2211.14729v1](http://arxiv.org/abs/2211.14729v1)|**[link](https://github.com/chengang95/unkd)**|
 
-<p align=right>(<a href='#updated-on-20250402'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250403'>back to top</a>)</p>
 
 ## Knowledge Graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245v1](http://arxiv.org/abs/2503.24245v1)|null|
-|**2025-03-30**|**Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models**|Haochen Liu et.al.|[2503.23523v1](http://arxiv.org/abs/2503.23523v1)|null|
+|**2025-03-30**|**Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models**|Haochen Liu et.al.|[2503.23523v1](http://arxiv.org/abs/2503.23523v1)|**[link](https://github.com/HaochenLiu2000/QAP)**|
 |**2025-03-30**|**SCORE: Story Coherence and Retrieval Enhancement for AI Narratives**|Qiang Yi et.al.|[2503.23512v1](http://arxiv.org/abs/2503.23512v1)|null|
 |**2025-03-29**|**Enhancing Knowledge Graph Completion with Entity Neighborhood and Relation Context**|Jianfang Chen et.al.|[2503.23205v1](http://arxiv.org/abs/2503.23205v1)|null|
 |**2025-03-29**|**A Retrieval-Augmented Knowledge Mining Method with Deep Thinking LLMs for Biomedical Research and Clinical Support**|Yichun Feng et.al.|[2503.23029v1](http://arxiv.org/abs/2503.23029v1)|null|
@@ -17249,7 +17249,7 @@
 |**2022-11-18**|**Novelpy: A Python package to measure novelty and disruptiveness of bibliometric and patent data**|Pierre Pelletier et.al.|[2211.10346v1](http://arxiv.org/abs/2211.10346v1)|**[link](https://github.com/kwirtz/novelpy)**|
 |**2022-11-18**|**Contrastive Knowledge Graph Error Detection**|Qinggang Zhang et.al.|[2211.10030v1](http://arxiv.org/abs/2211.10030v1)|**[link](https://github.com/qing145/caged)**|
 
-<p align=right>(<a href='#updated-on-20250402'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250403'>back to top</a>)</p>
 
 ## GNN
 
@@ -17261,7 +17261,7 @@
 |**2025-03-31**|**Graph Neural Network-Based Predictive Modeling for Robotic Plaster Printing**|Diego Machain Rivera et.al.|[2503.24130v1](http://arxiv.org/abs/2503.24130v1)|null|
 |**2025-03-31**|**Inductive Graph Representation Learning with Quantum Graph Neural Networks**|Arthur M. Faria et.al.|[2503.24111v1](http://arxiv.org/abs/2503.24111v1)|null|
 |**2025-03-31**|**Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning**|Jiangjie Qiu et.al.|[2503.23766v1](http://arxiv.org/abs/2503.23766v1)|null|
-|**2025-03-31**|**GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs**|Priyanka Gautam et.al.|[2503.23713v1](http://arxiv.org/abs/2503.23713v1)|null|
+|**2025-03-31**|**GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs**|Priyanka Gautam et.al.|[2503.23713v1](http://arxiv.org/abs/2503.23713v1)|**[link](https://github.com/Priyankagautam08/DynamicGraphInfluenceMaximization-AAAI2025)**|
 |**2025-03-31**|**Predicting the von Neumann Entanglement Entropy Using a Graph Neural Network**|Anas Saleh et.al.|[2503.23635v1](http://arxiv.org/abs/2503.23635v1)|null|
 |**2025-03-30**|**Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting**|Fan-Keng Sun et.al.|[2503.23621v1](http://arxiv.org/abs/2503.23621v1)|null|
 |**2025-03-30**|**Graph-Eq: Discovering Mathematical Equations using Graph Generative Models**|Nisal Ranasinghe et.al.|[2503.23617v1](http://arxiv.org/abs/2503.23617v1)|null|
@@ -21078,5 +21078,5 @@
 |**2022-12-14**|**On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|**[link](https://github.com/ethanchu7/nseg)**|
 |**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 
-<p align=right>(<a href='#updated-on-20250402'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20250403'>back to top</a>)</p>
 
