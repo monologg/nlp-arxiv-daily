@@ -21,9 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Reservoir Computing: A New Paradigm for Neural Networks**|Felix Grezes et.al.|[2504.02639v1](http://arxiv.org/abs/2504.02639v1)|null|
+|**2025-04-03**|**Large (Vision) Language Models are Unsupervised In-Context Learners**|Artyom Gadetsky et.al.|[2504.02349v1](http://arxiv.org/abs/2504.02349v1)|**[link](https://github.com/mlbio-epfl/joint-inference)**|
+|**2025-04-03**|**Quantum Deep Sets and Sequences**|Vladimir Vargas-Calderón et.al.|[2504.02241v1](http://arxiv.org/abs/2504.02241v1)|null|
+|**2025-04-02**|**From Text to Graph: Leveraging Graph Neural Networks for Enhanced Explainability in NLP**|Fabio Yáñez-Romero et.al.|[2504.02064v1](http://arxiv.org/abs/2504.02064v1)|null|
 |**2025-04-02**|**Graphically Speaking: Unmasking Abuse in Social Media with Conversation Insights**|Célia Nouri et.al.|[2504.01902v1](http://arxiv.org/abs/2504.01902v1)|null|
 |**2025-04-02**|**Buggin: Automatic intrinsic bugs classification model using NLP and ML**|Pragya Bhandari et.al.|[2504.01869v1](http://arxiv.org/abs/2504.01869v1)|null|
-|**2025-04-02**|**Breaking BERT: Gradient Attack on Twitter Sentiment Analysis for Targeted Misclassification**|Akil Raj Subedi et.al.|[2504.01345v1](http://arxiv.org/abs/2504.01345v1)|null|
+|**2025-04-02**|**Breaking BERT: Gradient Attack on Twitter Sentiment Analysis for Targeted Misclassification**|Akil Raj Subedi et.al.|[2504.01345v1](http://arxiv.org/abs/2504.01345v1)|**[link](https://github.com/akil003/bert-attack)**|
 |**2025-04-02**|**Foundations and Evaluations in NLP**|Jungyeul Park et.al.|[2504.01342v1](http://arxiv.org/abs/2504.01342v1)|null|
 |**2025-04-02**|**Bi-LAT: Bilateral Control-Based Imitation Learning via Natural Language and Action Chunking with Transformers**|Takumi Kobayashi et.al.|[2504.01301v1](http://arxiv.org/abs/2504.01301v1)|null|
 |**2025-04-01**|**Catastrophic Forgetting in LLMs: A Comparative Analysis Across Language Tasks**|Naimul Haque et.al.|[2504.01241v1](http://arxiv.org/abs/2504.01241v1)|null|
@@ -5210,7 +5214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930v1](http://arxiv.org/abs/2504.01930v1)|null|
+|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930v1](http://arxiv.org/abs/2504.01930v1)|**[link](https://github.com/waashk/atcbench)**|
 |**2025-04-02**|**A Novel Approach To Implementing Knowledge Distillation In Tsetlin Machines**|Calvin Kinateder et.al.|[2504.01798v1](http://arxiv.org/abs/2504.01798v1)|null|
 |**2025-04-02**|**Time-to-event prediction for grouped variables using Exclusive Lasso**|Dayasri Ravi et.al.|[2504.01520v1](http://arxiv.org/abs/2504.01520v1)|null|
 |**2025-04-02**|**PROPHET: An Inferable Future Forecasting Benchmark with Causal Intervened Likelihood Estimation**|Zhengwei Tao et.al.|[2504.01509v1](http://arxiv.org/abs/2504.01509v1)|null|
@@ -6779,8 +6783,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930v1](http://arxiv.org/abs/2504.01930v1)|null|
-|**2025-04-02**|**Breaking BERT: Gradient Attack on Twitter Sentiment Analysis for Targeted Misclassification**|Akil Raj Subedi et.al.|[2504.01345v1](http://arxiv.org/abs/2504.01345v1)|null|
+|**2025-04-03**|**A Multi-Level Sentiment Analysis Framework for Financial Texts**|Yiwei Liu et.al.|[2504.02429v1](http://arxiv.org/abs/2504.02429v1)|null|
+|**2025-04-02**|**Increasing happiness through conversations with artificial intelligence**|Joseph Heffner et.al.|[2504.02091v1](http://arxiv.org/abs/2504.02091v1)|null|
+|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930v1](http://arxiv.org/abs/2504.01930v1)|**[link](https://github.com/waashk/atcbench)**|
+|**2025-04-02**|**Breaking BERT: Gradient Attack on Twitter Sentiment Analysis for Targeted Misclassification**|Akil Raj Subedi et.al.|[2504.01345v1](http://arxiv.org/abs/2504.01345v1)|**[link](https://github.com/akil003/bert-attack)**|
 |**2025-04-01**|**Enhancing Negation Awareness in Universal Text Embeddings: A Data-efficient and Computational-efficient Approach**|Hongliu Cao et.al.|[2504.00584v1](http://arxiv.org/abs/2504.00584v1)|null|
 |**2025-04-01**|**Using complex prompts to identify fine-grained biases in image generation through ChatGPT-4o**|Marinus Ferreira et.al.|[2504.00388v1](http://arxiv.org/abs/2504.00388v1)|null|
 |**2025-03-31**|**Multilingual Sentiment Analysis of Summarized Texts: A Cross-Language Study of Text Shortening Effects**|Mikhail Krasitskii et.al.|[2504.00265v1](http://arxiv.org/abs/2504.00265v1)|null|
@@ -7929,10 +7935,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Divya Velayudhan et.al.|[2504.02823v1](http://arxiv.org/abs/2504.02823v1)|null|
+|**2025-04-03**|**LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning**|Kepu Zhang et.al.|[2504.02590v1](http://arxiv.org/abs/2504.02590v1)|null|
+|**2025-04-03**|**Leveraging Static Relationships for Intra-Type and Inter-Type Message Passing in Video Question Answering**|Lili Liang et.al.|[2504.02417v1](http://arxiv.org/abs/2504.02417v1)|null|
+|**2025-04-03**|**Adapting Large Language Models for Multi-Domain Retrieval-Augmented-Generation**|Alexandre Misrahi et.al.|[2504.02411v1](http://arxiv.org/abs/2504.02411v1)|null|
+|**2025-04-03**|**SocialGesture: Delving into Multi-person Gesture Understanding**|Xu Cao et.al.|[2504.02244v1](http://arxiv.org/abs/2504.02244v1)|null|
+|**2025-04-02**|**Aligned Better, Listen Better for Audio-Visual Large Language Models**|Yuxin Guo et.al.|[2504.02061v1](http://arxiv.org/abs/2504.02061v1)|null|
 |**2025-04-02**|**GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning**|Yanzhou Su et.al.|[2504.01886v1](http://arxiv.org/abs/2504.01886v1)|null|
 |**2025-04-02**|**CoRAG: Collaborative Retrieval-Augmented Generation**|Aashiq Muhamed et.al.|[2504.01883v1](http://arxiv.org/abs/2504.01883v1)|null|
 |**2025-04-02**|**YourBench: Easy Custom Evaluation Sets for Everyone**|Sumuk Shashidhar et.al.|[2504.01833v1](http://arxiv.org/abs/2504.01833v1)|null|
-|**2025-04-02**|**Bhakti: A Lightweight Vector Database Management System for Endowing Large Language Models with Semantic Search Capabilities and Memory**|Zihao Wu et.al.|[2504.01553v1](http://arxiv.org/abs/2504.01553v1)|null|
+|**2025-04-02**|**Bhakti: A Lightweight Vector Database Management System for Endowing Large Language Models with Semantic Search Capabilities and Memory**|Zihao Wu et.al.|[2504.01553v1](http://arxiv.org/abs/2504.01553v1)|**[link](https://github.com/vortezwohl/bhakti)**|
 |**2025-04-02**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458v1](http://arxiv.org/abs/2504.01458v1)|null|
 |**2025-04-02**|**GTR: Graph-Table-RAG for Cross-Table Question Answering**|Jiaru Zou et.al.|[2504.01346v1](http://arxiv.org/abs/2504.01346v1)|null|
 |**2025-04-02**|**Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**|Lingxiao Guan et.al.|[2504.01309v1](http://arxiv.org/abs/2504.01309v1)|null|
@@ -11463,6 +11475,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Sampling the spatial coherence of light**|M. Vitek et.al.|[2504.02031v1](http://arxiv.org/abs/2504.02031v1)|null|
 |**2025-04-02**|**Buggin: Automatic intrinsic bugs classification model using NLP and ML**|Pragya Bhandari et.al.|[2504.01869v1](http://arxiv.org/abs/2504.01869v1)|null|
 |**2025-04-01**|**Do LLMs Surpass Encoders for Biomedical NER?**|Motasem S Obeidat et.al.|[2504.00664v1](http://arxiv.org/abs/2504.00664v1)|null|
 |**2025-03-31**|**Evaluating the Feasibility and Accuracy of Large Language Models for Medical History-Taking in Obstetrics and Gynecology**|Dou Liu et.al.|[2504.00061v1](http://arxiv.org/abs/2504.00061v1)|null|
@@ -12653,6 +12666,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification**|Aman Singh et.al.|[2504.02615v1](http://arxiv.org/abs/2504.02615v1)|null|
+|**2025-04-03**|**Graphs are everywhere -- Psst! In Music Recommendation too**|Bharani Jayakumar et.al.|[2504.02598v1](http://arxiv.org/abs/2504.02598v1)|null|
+|**2025-04-03**|**Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation**|Liangbo Ning et.al.|[2504.02458v1](http://arxiv.org/abs/2504.02458v1)|null|
+|**2025-04-03**|**Research Paper Recommender System by Considering Users' Information Seeking Behaviors**|Zhelin Xu et.al.|[2504.02377v1](http://arxiv.org/abs/2504.02377v1)|null|
+|**2025-04-03**|**FEASE: Shallow AutoEncoding Recommender with Cold Start Handling via Side Features**|Edward DongBo Cui et.al.|[2504.02288v1](http://arxiv.org/abs/2504.02288v1)|null|
+|**2025-04-03**|**Characterizing Creativity in Visualization Design**|Naimul Hoque et.al.|[2504.02204v1](http://arxiv.org/abs/2504.02204v1)|null|
+|**2025-04-03**|**LLM-Augmented Graph Neural Recommenders: Integrating User Reviews**|Hiroki Kanezashi et.al.|[2504.02195v1](http://arxiv.org/abs/2504.02195v1)|null|
+|**2025-04-02**|**Enhancing Embedding Representation Stability in Recommendation Systems with Semantic ID**|Carolina Zheng et.al.|[2504.02137v1](http://arxiv.org/abs/2504.02137v1)|null|
 |**2025-04-02**|**Extending MovieLens-32M to Provide New Evaluation Objectives**|Mark D. Smucker et.al.|[2504.01863v1](http://arxiv.org/abs/2504.01863v1)|null|
 |**2025-04-02**|**Hyperbolic Diffusion Recommender Model**|Meng Yuan et.al.|[2504.01541v1](http://arxiv.org/abs/2504.01541v1)|null|
 |**2025-04-02**|**Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation**|Changshuo Zhang et.al.|[2504.01489v1](http://arxiv.org/abs/2504.01489v1)|null|
@@ -15214,6 +15235,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Affordable AI Assistants with Knowledge Graph of Thoughts**|Maciej Besta et.al.|[2504.02670v1](http://arxiv.org/abs/2504.02670v1)|null|
+|**2025-04-03**|**Knowledge Graph Completion with Mixed Geometry Tensor Factorization**|Viacheslav Yusupov et.al.|[2504.02589v1](http://arxiv.org/abs/2504.02589v1)|null|
+|**2025-04-03**|**Reasoning Inconsistencies and How to Mitigate Them in Deep Learning**|Erik Arakelyan et.al.|[2504.02577v1](http://arxiv.org/abs/2504.02577v1)|null|
+|**2025-04-03**|**Improving Harmful Text Detection with Joint Retrieval and External Knowledge**|Zidong Yu et.al.|[2504.02310v1](http://arxiv.org/abs/2504.02310v1)|null|
+|**2025-04-02**|**Graph Analytics for Cyber-Physical System Resilience Quantification**|Romain Dagnas et.al.|[2504.02120v1](http://arxiv.org/abs/2504.02120v1)|null|
+|**2025-04-02**|**PolyG: Effective and Efficient GraphRAG with Adaptive Graph Traversal**|Renjie Liu et.al.|[2504.02112v1](http://arxiv.org/abs/2504.02112v1)|null|
 |**2025-04-02**|**Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**|Lingxiao Guan et.al.|[2504.01309v1](http://arxiv.org/abs/2504.01309v1)|null|
 |**2025-04-01**|**MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs**|Juncheng Wu et.al.|[2504.00993v1](http://arxiv.org/abs/2504.00993v1)|**[link](https://github.com/UCSC-VLAA/MedReason)**|
 |**2025-04-01**|**ReaLitE: Enrichment of Relation Embeddings in Knowledge Graphs using Numeric Literals**|Antonis Klironomos et.al.|[2504.00852v1](http://arxiv.org/abs/2504.00852v1)|null|
@@ -17308,6 +17335,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification**|Aman Singh et.al.|[2504.02615v1](http://arxiv.org/abs/2504.02615v1)|null|
+|**2025-04-03**|**Toward General and Robust LLM-enhanced Text-attributed Graph Learning**|Zihao Zhang et.al.|[2504.02343v1](http://arxiv.org/abs/2504.02343v1)|null|
+|**2025-04-03**|**Enhancing Customer Contact Efficiency with Graph Neural Networks in Credit Card Fraud Detection Workflow**|Menghao Huo et.al.|[2504.02275v1](http://arxiv.org/abs/2504.02275v1)|null|
+|**2025-04-03**|**LLM-Augmented Graph Neural Recommenders: Integrating User Reviews**|Hiroki Kanezashi et.al.|[2504.02195v1](http://arxiv.org/abs/2504.02195v1)|null|
+|**2025-04-02**|**OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling**|Heming Zhang et.al.|[2504.02148v1](http://arxiv.org/abs/2504.02148v1)|null|
+|**2025-04-02**|**LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection**|Lingzhi Shen et.al.|[2504.02146v1](http://arxiv.org/abs/2504.02146v1)|null|
+|**2025-04-02**|**From Text to Graph: Leveraging Graph Neural Networks for Enhanced Explainability in NLP**|Fabio Yáñez-Romero et.al.|[2504.02064v1](http://arxiv.org/abs/2504.02064v1)|null|
+|**2025-04-02**|**Geometric Reasoning in the Embedding Space**|Jan Hůla et.al.|[2504.02018v1](http://arxiv.org/abs/2504.02018v1)|null|
 |**2025-04-02**|**Graphically Speaking: Unmasking Abuse in Social Media with Conversation Insights**|Célia Nouri et.al.|[2504.01902v1](http://arxiv.org/abs/2504.01902v1)|null|
 |**2025-04-02**|**Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code**|Roxane Cohen et.al.|[2504.01481v1](http://arxiv.org/abs/2504.01481v1)|null|
 |**2025-04-02**|**Deep Graph Reinforcement Learning for UAV-Enabled Multi-User Secure Communications**|Xiao Tang et.al.|[2504.01446v1](http://arxiv.org/abs/2504.01446v1)|null|
