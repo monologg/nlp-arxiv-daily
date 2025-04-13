@@ -21,13 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-10**|**Enhancing Large Language Models through Neuro-Symbolic Integration and Ontological Reasoning**|Ruslan Idelfonso Magana Vsevolodovna et.al.|[2504.07640v1](http://arxiv.org/abs/2504.07640v1)|null|
+|**2025-04-10**|**Enhancing Large Language Models through Neuro-Symbolic Integration and Ontological Reasoning**|Ruslan Idelfonso Magana Vsevolodovna et.al.|[2504.07640v1](http://arxiv.org/abs/2504.07640v1)|**[link](https://github.com/ruslanmv/neuro-symbolic-interaction)**|
 |**2025-04-10**|**Geological Inference from Textual Data using Word Embeddings**|Nanmanas Linphrachaya et.al.|[2504.07490v1](http://arxiv.org/abs/2504.07490v1)|null|
 |**2025-04-10**|**UniCAIM: A Unified CAM/CIM Architecture with Static-Dynamic KV Cache Pruning for Efficient Long-Context LLM Inference**|Weikai Xu et.al.|[2504.07479v1](http://arxiv.org/abs/2504.07479v1)|null|
 |**2025-04-10**|**Transformer-Based Temporal Information Extraction and Application: A Review**|Xin Su et.al.|[2504.07470v1](http://arxiv.org/abs/2504.07470v1)|null|
 |**2025-04-10**|**Enhancing Time Series Forecasting via Multi-Level Text Alignment with LLMs**|Taibiao Zhao et.al.|[2504.07360v1](http://arxiv.org/abs/2504.07360v1)|**[link](https://github.com/ztb-35/MLTA)**|
 |**2025-04-09**|**Language Modeling for the Future of Finance: A Quantitative Survey into Metrics, Tasks, and Data Opportunities**|Nikita Tatarinov et.al.|[2504.07274v1](http://arxiv.org/abs/2504.07274v1)|null|
-|**2025-04-09**|**TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2504.07053v1](http://arxiv.org/abs/2504.07053v1)|null|
+|**2025-04-09**|**TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2504.07053v1](http://arxiv.org/abs/2504.07053v1)|**[link](https://github.com/mtkresearch/taste-spokenlm)**|
 |**2025-04-09**|**Data Augmentation for Fake Reviews Detection in Multiple Languages and Multiple Domains**|Ming Liu et.al.|[2504.06917v1](http://arxiv.org/abs/2504.06917v1)|null|
 |**2025-04-09**|**Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions**|Angela Lopez-Cardona et.al.|[2504.06843v1](http://arxiv.org/abs/2504.06843v1)|null|
 |**2025-04-09**|**Green building blocks reveal the complex anatomy of climate change mitigation technologies**|Yang Li et.al.|[2504.06834v1](http://arxiv.org/abs/2504.06834v1)|null|
@@ -5260,7 +5260,7 @@
 |**2025-04-07**|**Batch Aggregation: An Approach to Enhance Text Classification with Correlated Augmented Data**|Charco Hui et.al.|[2504.05020v1](http://arxiv.org/abs/2504.05020v1)|null|
 |**2025-04-05**|**GlotEval: A Test Suite for Massively Multilingual Evaluation of Large Language Models**|Hengyu Luo et.al.|[2504.04155v1](http://arxiv.org/abs/2504.04155v1)|null|
 |**2025-04-04**|**Bonsai: Interpretable Tree-Adaptive Grounded Reasoning**|Kate Sanders et.al.|[2504.03640v1](http://arxiv.org/abs/2504.03640v1)|null|
-|**2025-04-04**|**Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**|Junlang Qian et.al.|[2504.03159v1](http://arxiv.org/abs/2504.03159v1)|null|
+|**2025-04-04**|**Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**|Junlang Qian et.al.|[2504.03159v1](http://arxiv.org/abs/2504.03159v1)|**[link](https://github.com/qianjunlang/placeholdingparallelprediction)**|
 |**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930v1](http://arxiv.org/abs/2504.01930v1)|**[link](https://github.com/waashk/atcbench)**|
 |**2025-04-02**|**A Novel Approach To Implementing Knowledge Distillation In Tsetlin Machines**|Calvin Kinateder et.al.|[2504.01798v1](http://arxiv.org/abs/2504.01798v1)|null|
 |**2025-04-02**|**Time-to-event prediction for grouped variables using Exclusive Lasso**|Dayasri Ravi et.al.|[2504.01520v1](http://arxiv.org/abs/2504.01520v1)|null|
@@ -7989,13 +7989,13 @@
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956v1](http://arxiv.org/abs/2504.07956v1)|null|
 |**2025-04-10**|**Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**|Rundong Luo et.al.|[2504.07940v1](http://arxiv.org/abs/2504.07940v1)|null|
 |**2025-04-10**|**The KL3M Data Project: Copyright-Clean Training Resources for Large Language Models**|Michael J Bommarito II et.al.|[2504.07854v1](http://arxiv.org/abs/2504.07854v1)|null|
-|**2025-04-10**|**Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation**|Alireza Salemi et.al.|[2504.07794v1](http://arxiv.org/abs/2504.07794v1)|null|
-|**2025-04-10**|**MRD-RAG: Enhancing Medical Diagnosis with Multi-Round Retrieval-Augmented Generation**|Yixiang Chen et.al.|[2504.07724v1](http://arxiv.org/abs/2504.07724v1)|null|
+|**2025-04-10**|**Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation**|Alireza Salemi et.al.|[2504.07794v1](http://arxiv.org/abs/2504.07794v1)|**[link](https://github.com/alirezasalemi7/pr-rag)**|
+|**2025-04-10**|**MRD-RAG: Enhancing Medical Diagnosis with Multi-Round Retrieval-Augmented Generation**|Yixiang Chen et.al.|[2504.07724v1](http://arxiv.org/abs/2504.07724v1)|**[link](https://github.com/yixiangch/mrd-rag)**|
 |**2025-04-10**|**PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization**|Yang Jiao et.al.|[2504.07717v1](http://arxiv.org/abs/2504.07717v1)|null|
 |**2025-04-10**|**On the Temporal Question-Answering Capabilities of Large Language Models Over Anonymized Data**|Alfredo Garrachón Ruiz et.al.|[2504.07646v1](http://arxiv.org/abs/2504.07646v1)|null|
 |**2025-04-10**|**Do LLMs Understand Your Translations? Evaluating Paragraph-level MT with Question Answering**|Patrick Fernandes et.al.|[2504.07583v1](http://arxiv.org/abs/2504.07583v1)|null|
 |**2025-04-10**|**TokenFocus-VQA: Enhancing Text-to-Image Alignment with Position-Aware Focus and Multi-Perspective Aggregations on LVLMs**|Zijian Zhang et.al.|[2504.07556v1](http://arxiv.org/abs/2504.07556v1)|null|
-|**2025-04-10**|**Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models**|Yuxiang Lin et.al.|[2504.07521v1](http://arxiv.org/abs/2504.07521v1)|null|
+|**2025-04-10**|**Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models**|Yuxiang Lin et.al.|[2504.07521v1](http://arxiv.org/abs/2504.07521v1)|**[link](https://github.com/lum1104/eibench)**|
 |**2025-04-09**|**Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions**|Angela Lopez-Cardona et.al.|[2504.06843v1](http://arxiv.org/abs/2504.06843v1)|null|
 |**2025-04-09**|**SCI-Reason: A Dataset with Chain-of-Thought Rationales for Complex Multimodal Reasoning in Academic Areas**|Chenghao Ma et.al.|[2504.06637v1](http://arxiv.org/abs/2504.06637v1)|null|
 |**2025-04-09**|**Lugha-Llama: Adapting Large Language Models for African Languages**|Happy Buzaaba et.al.|[2504.06536v1](http://arxiv.org/abs/2504.06536v1)|null|
@@ -15373,7 +15373,7 @@
 |**2025-04-10**|**ConceptFormer: Towards Efficient Use of Knowledge-Graph Embeddings in Large Language Models**|Joel Barmettler et.al.|[2504.07624v1](http://arxiv.org/abs/2504.07624v1)|null|
 |**2025-04-10**|**CyberAlly: Leveraging LLMs and Knowledge Graphs to Empower Cyber Defenders**|Minjune Kim et.al.|[2504.07457v1](http://arxiv.org/abs/2504.07457v1)|null|
 |**2025-04-10**|**LLM-Enabled Data Transmission in End-to-End Semantic Communication**|Shavbo Salehi et.al.|[2504.07431v1](http://arxiv.org/abs/2504.07431v1)|null|
-|**2025-04-09**|**Skill Demand Forecasting Using Temporal Knowledge Graph Embeddings**|Yousra Fettacha et.al.|[2504.07233v1](http://arxiv.org/abs/2504.07233v1)|null|
+|**2025-04-09**|**Skill Demand Forecasting Using Temporal Knowledge Graph Embeddings**|Yousra Fettacha et.al.|[2504.07233v1](http://arxiv.org/abs/2504.07233v1)|**[link](https://github.com/team611/jobed)**|
 |**2025-04-09**|**KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on Textualized Knowledge Graphs**|Elan Markowitz et.al.|[2504.07087v1](http://arxiv.org/abs/2504.07087v1)|null|
 |**2025-04-09**|**FamilyTool: A Multi-hop Personalized Tool Use Benchmark**|Yuxin Wang et.al.|[2504.06766v1](http://arxiv.org/abs/2504.06766v1)|null|
 |**2025-04-09**|**DiffusionCom: Structure-Aware Multimodal Diffusion Model for Multimodal Knowledge Graph Completion**|Wei Huang et.al.|[2504.06543v1](http://arxiv.org/abs/2504.06543v1)|null|
@@ -17496,7 +17496,7 @@
 |**2025-04-10**|**Trading Graph Neural Network**|Xian Wu et.al.|[2504.07923v1](http://arxiv.org/abs/2504.07923v1)|null|
 |**2025-04-10**|**Harnessing Equivariance: Modeling Turbulence with Graph Neural Networks**|Marius Kurz et.al.|[2504.07741v1](http://arxiv.org/abs/2504.07741v1)|null|
 |**2025-04-10**|**Prediction of Usage Probabilities of Shopping-Mall Corridors Using Heterogeneous Graph Neural Networks**|Malik M Barakathullah et.al.|[2504.07645v1](http://arxiv.org/abs/2504.07645v1)|null|
-|**2025-04-10**|**DWFS-Obfuscation: Dynamic Weighted Feature Selection for Robust Malware Familial Classification under Obfuscation**|Xingyuan Wei et.al.|[2504.07590v1](http://arxiv.org/abs/2504.07590v1)|null|
+|**2025-04-10**|**DWFS-Obfuscation: Dynamic Weighted Feature Selection for Robust Malware Familial Classification under Obfuscation**|Xingyuan Wei et.al.|[2504.07590v1](http://arxiv.org/abs/2504.07590v1)|**[link](https://github.com/xingyuanwei/dwfs-obfuscation)**|
 |**2025-04-09**|**FLASH: Flexible Learning of Adaptive Sampling from History in Temporal Graph Neural Networks**|Or Feldman et.al.|[2504.07337v1](http://arxiv.org/abs/2504.07337v1)|null|
 |**2025-04-09**|**Machine Learning Approach towards Quantum Error Mitigation for Accurate Molecular Energetics**|Srushti Patil et.al.|[2504.07077v1](http://arxiv.org/abs/2504.07077v1)|null|
 |**2025-04-09**|**Benchmarking Convolutional Neural Network and Graph Neural Network based Surrogate Models on a Real-World Car External Aerodynamics Dataset**|Sam Jacob Jacob et.al.|[2504.06699v1](http://arxiv.org/abs/2504.06699v1)|null|
