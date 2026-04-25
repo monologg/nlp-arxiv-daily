@@ -1,14 +1,11 @@
 from __future__ import annotations
 
-import datetime
-import json
 import logging
-import os
-import re
 
 import yaml
 
 from nlp_arxiv_daily.fetcher import fetch_papers
+from nlp_arxiv_daily.renderer import json_to_md, render_archive_pages
 from nlp_arxiv_daily.storage import write_papers_split
 
 
@@ -51,20 +48,11 @@ def load_config(config_file: str) -> dict:
     return config
 
 
-def sort_papers(papers):
-    output = {}
-    keys = list(papers.keys())
-    keys.sort(reverse=True)
-    for key in keys:
-        output[key] = papers[key]
-    return output
-
-
 def get_daily_papers(topic, query="nlp", max_results=2):
     """
     Backward-compat adapter: fetch via `fetcher.fetch_papers`, then pre-render
-    markdown rows in the legacy shape. The pre-rendering lives here only until
-    PRSL-66 splits a proper renderer module out.
+    markdown rows in the legacy shape. Kept here because `demo()` still feeds
+    its output back through `write_papers_split`.
     """
     papers = fetch_papers(query=query, max_results=max_results)
 
@@ -83,169 +71,6 @@ def get_daily_papers(topic, query="nlp", max_results=2):
         content_to_web[p.paper_id] = web_line + "\n"
 
     return {topic: content}, {topic: content_to_web}
-
-
-def json_to_md(
-    filename,
-    md_filename,
-    task="",
-    to_web=False,
-    use_title=True,
-    use_tc=True,
-    show_badge=True,
-    user_name="",
-    repo_name="",
-    archive_index_link="",
-):
-    """
-    @param filename: str
-    @param md_filename: str
-    @return None
-    """
-
-    def pretty_math(s: str) -> str:
-        ret = ""
-        match = re.search(r"\$.*\$", s)
-        if match is None:
-            return s
-        math_start, math_end = match.span()
-        space_trail = space_leading = ""
-        if s[:math_start][-1] != " " and "*" != s[:math_start][-1]:
-            space_trail = " "
-        if s[math_end:][0] != " " and "*" != s[math_end:][0]:
-            space_leading = " "
-        ret += s[:math_start]
-        ret += f"{space_trail}${match.group()[1:-1].strip()}${space_leading}"
-        ret += s[math_end:]
-        return ret
-
-    DateNow = datetime.date.today()
-    DateNow = str(DateNow)
-    DateNow = DateNow.replace("-", ".")
-
-    with open(filename, "r") as f:
-        content = f.read()
-    data = json.loads(content) if content else {}
-
-    repo_slug = f"{user_name}/{repo_name}"
-    with open(md_filename, "w") as f:
-        if (use_title is True) and (to_web is True):
-            f.write("---\n" + "layout: default\n" + "---\n\n")
-
-        if show_badge is True:
-            f.write("[![Contributors][contributors-shield]][contributors-url]\n")
-            f.write("[![Forks][forks-shield]][forks-url]\n")
-            f.write("[![Stargazers][stars-shield]][stars-url]\n")
-            f.write("[![Issues][issues-shield]][issues-url]\n\n")
-
-        if use_title is True:
-            f.write("## Updated on " + DateNow + "\n\n")
-        else:
-            f.write("> Updated on " + DateNow + "\n\n")
-
-        if archive_index_link:
-            f.write(f"> Older months: [archive]({archive_index_link})\n\n")
-
-        # Add: table of contents
-        if use_tc is True:
-            f.write("<details>\n")
-            f.write("  <summary>Table of Contents</summary>\n")
-            f.write("  <ol>\n")
-            for keyword in data.keys():
-                day_content = data[keyword]
-                if not day_content:
-                    continue
-                kw = keyword.replace(" ", "-")
-                f.write(f"    <li><a href='#{kw.lower()}'>{keyword}</a></li>\n")
-            f.write("  </ol>\n")
-            f.write("</details>\n\n")
-
-        for keyword in data.keys():
-            day_content = data[keyword]
-            if not day_content:
-                continue
-            # the head of each part
-            f.write(f"## {keyword}\n\n")
-
-            if use_title is True and to_web is False:
-                f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-
-            # sort papers by date
-            day_content = sort_papers(day_content)
-
-            for _, v in day_content.items():
-                if v is not None:
-                    f.write(pretty_math(v))  # make latex pretty
-
-            f.write("\n")
-
-            # Add: back to top
-            top_info = f"#Updated on {DateNow}"
-            top_info = top_info.replace(" ", "-").replace(".", "")
-            f.write(f"<p align=right>(<a href='{top_info.lower()}'>back to top</a>)</p>\n\n")
-
-        if show_badge is True:
-            f.write(
-                f"[contributors-shield]: https://img.shields.io/github/contributors/{repo_slug}.svg?style=for-the-badge\n"
-            )
-            f.write(f"[contributors-url]: https://github.com/{repo_slug}/graphs/contributors\n")
-            f.write(f"[forks-shield]: https://img.shields.io/github/forks/{repo_slug}.svg?style=for-the-badge\n")
-            f.write(f"[forks-url]: https://github.com/{repo_slug}/network/members\n")
-            f.write(f"[stars-shield]: https://img.shields.io/github/stars/{repo_slug}.svg?style=for-the-badge\n")
-            f.write(f"[stars-url]: https://github.com/{repo_slug}/stargazers\n")
-            f.write(f"[issues-shield]: https://img.shields.io/github/issues/{repo_slug}.svg?style=for-the-badge\n")
-            f.write(f"[issues-url]: https://github.com/{repo_slug}/issues\n\n")
-
-    logging.info(f"{task} finished")
-
-
-def render_archive_pages(
-    archive_json_dir: str,
-    archive_md_dir: str,
-    to_web: bool = False,
-    show_badge: bool = False,
-    user_name: str = "",
-    repo_name: str = "",
-) -> None:
-    """
-    Render every {YYYY-MM}.json under archive_json_dir to a sibling
-    {YYYY-MM}.md under archive_md_dir, plus an index.md listing months desc.
-    No-op when archive_json_dir doesn't exist.
-    """
-    if not os.path.isdir(archive_json_dir):
-        return
-    os.makedirs(archive_md_dir, exist_ok=True)
-
-    months = []
-    for name in sorted(os.listdir(archive_json_dir)):
-        if not name.endswith(".json"):
-            continue
-        stem = name[:-5]
-        json_to_md(
-            os.path.join(archive_json_dir, name),
-            os.path.join(archive_md_dir, f"{stem}.md"),
-            task=f"archive {stem}",
-            to_web=to_web,
-            show_badge=show_badge,
-            user_name=user_name,
-            repo_name=repo_name,
-        )
-        months.append(stem)
-
-    _write_archive_index(archive_md_dir, months, to_web=to_web)
-
-
-def _write_archive_index(archive_md_dir: str, months: list, to_web: bool = False) -> None:
-    path = os.path.join(archive_md_dir, "index.md")
-    months_desc = sorted(months, reverse=True)
-    with open(path, "w") as f:
-        if to_web:
-            f.write("---\nlayout: default\n---\n\n")
-        f.write("# Archive\n\n")
-        f.write("Older monthly snapshots.\n\n")
-        f.write("| Month |\n|---|\n")
-        for m in months_desc:
-            f.write(f"| [{m}]({m}.md) |\n")
 
 
 def demo(**config):

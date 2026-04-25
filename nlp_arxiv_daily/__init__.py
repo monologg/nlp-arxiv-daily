@@ -1,11 +1,4 @@
-from nlp_arxiv_daily.core import (
-    demo,
-    get_daily_papers,
-    json_to_md,
-    load_config,
-    render_archive_pages,
-    sort_papers,
-)
+from nlp_arxiv_daily.core import demo, get_daily_papers, load_config
 from nlp_arxiv_daily.fetcher import (
     GITHUB_URL_RE,
     HF_PAPERS_API,
@@ -13,6 +6,12 @@ from nlp_arxiv_daily.fetcher import (
     fetch_papers,
     find_code_link,
     get_authors,
+)
+from nlp_arxiv_daily.renderer import (
+    json_to_md,
+    render_archive_pages,
+    render_index,
+    sort_papers,
 )
 from nlp_arxiv_daily.storage import (
     ARXIV_KEY_RE,
@@ -41,6 +40,7 @@ __all__ = [
     "json_to_md",
     "load_config",
     "render_archive_pages",
+    "render_index",
     "sort_papers",
     "update_json_file",
     "write_papers_split",
