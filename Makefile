@@ -26,7 +26,7 @@ set-test:
 	uv run --frozen --group test pytest tests/
 
 set-test-integration:
-	uv run --frozen --group test pytest -m integration tests/
+	uv run --frozen --group test pytest -m integration --no-cov tests/
 
 set-style:
 	uv run --frozen --only-group quality ruff check --fix .
