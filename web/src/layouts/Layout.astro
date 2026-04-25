@@ -1,12 +1,19 @@
 ---
 import "../styles/global.css";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
 
 interface Props {
   title: string;
   description?: string;
+  current?: "home" | "archive";
 }
 
-const { title, description = "Daily-updated NLP arxiv paper digest" } = Astro.props;
+const {
+  title,
+  description = "Daily-updated NLP arxiv paper digest",
+  current = "home",
+} = Astro.props;
 ---
 
 <!doctype html>
@@ -17,7 +24,11 @@ const { title, description = "Daily-updated NLP arxiv paper digest" } = Astro.pr
     <meta name="description" content={description} />
     <title>{title}</title>
   </head>
-  <body class="bg-[--color-bg] text-[--color-fg] font-sans min-h-screen antialiased">
-    <slot />
+  <body class="bg-[--color-bg] text-[--color-fg] font-sans min-h-screen flex flex-col antialiased">
+    <Header current={current} />
+    <div class="flex-1">
+      <slot />
+    </div>
+    <Footer />
   </body>
 </html>

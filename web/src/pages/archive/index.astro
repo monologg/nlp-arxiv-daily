@@ -1,28 +1,46 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import { withBase } from "../../utils/url.ts";
 import { getCollection } from "astro:content";
 
-const months = (await getCollection("archive")).map((entry) => entry.id).sort().reverse();
+const entries = await getCollection("archive");
+// Sort newest first.
+const months = entries.map((e) => e.id).sort().reverse();
+
+// Group by year so the long list is browsable on a dense screen.
+const byYear = new Map<string, string[]>();
+for (const month of months) {
+  const year = month.slice(0, 4);
+  if (!byYear.has(year)) byYear.set(year, []);
+  byYear.get(year)!.push(month);
+}
 ---
 
-<Layout title="Archive — NLP Arxiv Daily">
-  <main class="max-w-3xl mx-auto px-6 py-12">
+<Layout title="Archive — NLP Arxiv Daily" current="archive">
+  <main class="max-w-3xl mx-auto px-6 py-10">
     <header class="mb-10">
       <h1 class="text-4xl font-bold mb-2">Archive</h1>
-      <p class="text-[--color-muted]">
-        {months.length} monthly snapshots.
-        <a class="text-[--color-accent] underline" href="/nlp-arxiv-daily/">Back to current month</a>.
+      <p class="text-[--color-muted] text-sm">
+        {months.length} monthly snapshots since {months[months.length - 1]}.
       </p>
     </header>
 
-    <ul class="space-y-1">
-      {months.map((month) => (
-        <li class="border-b border-[--color-muted]/20 py-2">
-          <a class="text-[--color-accent] hover:underline" href={`/nlp-arxiv-daily/archive/${month}/`}>
-            {month}
-          </a>
-        </li>
-      ))}
-    </ul>
+    {Array.from(byYear.entries()).map(([year, items]) => (
+      <section class="mb-8">
+        <h2 class="text-xl font-semibold mb-2">{year}</h2>
+        <ul class="flex flex-wrap gap-2">
+          {items.map((month) => (
+            <li>
+              <a
+                class="inline-block px-3 py-1 rounded border border-[--color-muted]/30 hover:border-[--color-accent] hover:text-[--color-accent] text-sm"
+                href={withBase(`/archive/${month}/`)}
+              >
+                {month}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
   </main>
 </Layout>

@@ -1,41 +1,41 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import KeywordSection from "../components/KeywordSection.astro";
+import TableOfContents from "../components/TableOfContents.astro";
 import currentPapers from "../../../docs/nlp-arxiv-daily-web.json";
 import { paperBucketSchema } from "../content.config.ts";
 
-// Validate the current-month JSON at build time using the same Zod schema
-// as the archive collection. Catches malformed Python output before deploy.
 const data = paperBucketSchema.parse(currentPapers);
-const keywords = Object.entries(data).filter(([, papers]) => Object.keys(papers).length > 0);
-const totalPapers = keywords.reduce((sum, [, papers]) => sum + Object.keys(papers).length, 0);
+const keywords = Object.entries(data).filter(
+  ([, papers]) => Object.keys(papers).length > 0,
+);
+const totalPapers = keywords.reduce(
+  (sum, [, papers]) => sum + Object.keys(papers).length,
+  0,
+);
+const today = new Date().toISOString().slice(0, 10);
 ---
 
-<Layout title="NLP Arxiv Daily">
-  <main class="max-w-3xl mx-auto px-6 py-12">
+<Layout title="NLP Arxiv Daily" current="home">
+  <main class="max-w-3xl mx-auto px-6 py-10">
     <header class="mb-10">
-      <h1 class="text-4xl font-bold mb-2">NLP Arxiv Daily</h1>
-      <p class="text-[--color-muted]">
+      <h1 class="text-4xl font-bold mb-2">Updated {today}</h1>
+      <p class="text-[--color-muted] text-sm">
         {totalPapers} papers across {keywords.length} keywords this month.
-        Older months: <a class="text-[--color-accent] underline" href="/nlp-arxiv-daily/archive/">archive</a>.
       </p>
     </header>
 
-    <section>
-      <h2 class="text-xl font-semibold mb-4">Keywords</h2>
-      <ul class="space-y-1">
+    {keywords.length > 0 ? (
+      <>
+        <TableOfContents keywords={keywords} />
         {keywords.map(([keyword, papers]) => (
-          <li class="flex justify-between border-b border-[--color-muted]/20 py-2">
-            <a class="text-[--color-accent] hover:underline" href={`#${keyword.toLowerCase().replace(/\s+/g, "-")}`}>
-              {keyword}
-            </a>
-            <span class="text-[--color-muted] text-sm">{Object.keys(papers).length}</span>
-          </li>
+          <KeywordSection keyword={keyword} papers={papers} />
         ))}
-      </ul>
-    </section>
-
-    <p class="mt-12 text-[--color-muted] text-sm">
-      Real paper rendering lands in PRSL-72.
-    </p>
+      </>
+    ) : (
+      <p class="text-[--color-muted]">
+        No papers published yet this month — the cron picks them up daily.
+      </p>
+    )}
   </main>
 </Layout>
