@@ -1,3 +1,4 @@
+from nlp_arxiv_daily.cli import cmd_fetch, cmd_render, cmd_run
 from nlp_arxiv_daily.core import demo, get_daily_papers, load_config
 from nlp_arxiv_daily.fetcher import (
     GITHUB_URL_RE,
@@ -32,6 +33,9 @@ __all__ = [
     "PapersByKeyword",
     "PapersByMonth",
     "bucket_by_month",
+    "cmd_fetch",
+    "cmd_render",
+    "cmd_run",
     "demo",
     "fetch_papers",
     "find_code_link",

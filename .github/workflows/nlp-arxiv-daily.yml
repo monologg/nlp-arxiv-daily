@@ -30,7 +30,7 @@ jobs:
         run: make set-dev
 
       - name: Run daily arxiv
-        run: uv run --frozen python daily_arxiv.py
+        run: uv run --frozen python -m nlp_arxiv_daily run
 
       - name: Push new nlp-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
