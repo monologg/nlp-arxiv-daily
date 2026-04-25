@@ -151,19 +151,32 @@ def cmd_backfill(
     months = list(_iter_month_ranges(start, end))
     logging.info(f"BACKFILL begin: {start.isoformat()} → {end.isoformat()} ({len(months)} months)")
 
+    failed_queries: list[str] = []
     for month_start, month_end in months:
         logging.info(f"=== {month_start.strftime('%Y-%m')} ===")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            papers = fetch_papers_in_range(
-                query=keyword,
-                start=month_start,
-                end=month_end,
-                max_results=max_results,
-            )
+            try:
+                papers = fetch_papers_in_range(
+                    query=keyword,
+                    start=month_start,
+                    end=month_end,
+                    max_results=max_results,
+                )
+            except Exception as e:
+                # One bad keyword × month must not kill the rest of the backfill.
+                # Persisted JSON splits are write-on-success in storage; partial
+                # progress is still safe to commit.
+                tag = f"{month_start.strftime('%Y-%m')}/{topic}"
+                logging.warning(f"BACKFILL skip {tag}: {e}")
+                failed_queries.append(tag)
+                continue
             data, data_web = papers_to_legacy_rows(papers, topic)
             data_collector.append(data)
             data_collector_web.append(data_web)
+
+    if failed_queries:
+        logging.warning(f"BACKFILL completed with {len(failed_queries)} skipped queries: " + ", ".join(failed_queries))
 
     logging.info("BACKFILL fetch end — persisting JSON splits")
     if config["publish_readme"]:
