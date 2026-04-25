@@ -14,9 +14,12 @@ from nlp_arxiv_daily.types import Paper
 HF_PAPERS_API = "https://huggingface.co/api/papers/"
 REQUEST_TIMEOUT = 10
 GITHUB_URL_RE = re.compile(r"https?://github\.com/[\w.-]+/[\w.-]+")
-# arxiv API publishes a 3s minimum between requests; keep this for backfill
-# loops that fire many keyword × month queries back-to-back.
-BACKFILL_RATE_LIMIT_SECONDS = 3
+# arxiv API publishes a 3s minimum between requests, but bulk backfill
+# pagination triggers 429s in practice — use a more conservative gap.
+BACKFILL_RATE_LIMIT_SECONDS = 5
+# arxiv.Client default is 3 retries; bump it so transient 429 storms during
+# a multi-page query don't kill the whole backfill.
+BACKFILL_NUM_RETRIES = 10
 # Default upper bound per (keyword, month) backfill query — busy keywords
 # can return hundreds of arxiv submissions in a single month.
 BACKFILL_DEFAULT_MAX_RESULTS = 2000
@@ -110,6 +113,9 @@ def fetch_papers_in_range(
     )
     composite = f"({query}) AND {range_clause}"
 
-    client = arxiv.Client(delay_seconds=BACKFILL_RATE_LIMIT_SECONDS)
+    client = arxiv.Client(
+        delay_seconds=BACKFILL_RATE_LIMIT_SECONDS,
+        num_retries=BACKFILL_NUM_RETRIES,
+    )
     search = arxiv.Search(query=composite, max_results=max_results, sort_by=arxiv.SortCriterion.SubmittedDate)
     return [_result_to_paper(r) for r in client.results(search)]
