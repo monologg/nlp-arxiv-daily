@@ -1,15 +1,25 @@
-name: Astro Build
+name: Astro Build & Deploy
 
-# Build-only verification of the Astro migration scaffold (PRSL-70).
-# Deploy is intentionally NOT wired up here — the existing Jekyll site
-# at docs/ keeps serving via GitHub Pages until the cutover (PRSL-77)
-# flips the Pages source to GitHub Actions.
+# Builds the Astro site under web/ and deploys to GitHub Pages.
+#
+# Triggers:
+# - web/**            — frontend code or theme changes
+# - docs/**.json      — cron-committed paper data the Astro build consumes
+#                       (cron runs `python -m nlp_arxiv_daily run`, which
+#                       writes the gitpage JSONs; this workflow then
+#                       rebuilds + redeploys)
+# - the workflow yaml — self-changes
+#
+# Repo Settings → Pages → Source must be set to "GitHub Actions" for the
+# deploy job to publish.
 
 on:
   push:
     branches: [master]
     paths:
       - "web/**"
+      - "docs/nlp-arxiv-daily-web.json"
+      - "docs/archive-web/**.json"
       - ".github/workflows/astro-build.yml"
   pull_request:
     paths:
@@ -19,6 +29,16 @@ on:
 
 permissions:
   contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between
+# the run in-progress and latest queued. However, do NOT cancel
+# in-progress runs as we want to allow these production deployments
+# to complete.
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -51,9 +71,20 @@ jobs:
           NODE_ENV: production
         run: pnpm build
 
-      - name: Upload artifact (verification only — no deploy)
-        uses: actions/upload-artifact@v4
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: astro-dist
           path: web/dist
-          retention-days: 7
+
+  deploy:
+    name: deploy
+    needs: build
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

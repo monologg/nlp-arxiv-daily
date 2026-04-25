@@ -161,7 +161,7 @@ class TestEndToEndPipeline:
         web_march = json.loads((workspace["archive_web"] / "2026-03.json").read_text())
         assert "2603.00099" in web_march["NLP"]
 
-        # Markdown was written for README + gitpage
+        # README markdown rendered for the README flavor.
         readme = workspace["readme"].read_text()
         assert "## NLP" in readme
         assert "April Paper" in readme
@@ -171,20 +171,24 @@ class TestEndToEndPipeline:
         # Versioned id appears in the link text
         assert "[2604.00001v1](http://arxiv.org/abs/2604.00001v1)" in readme
 
-        index = workspace["index"].read_text()
-        assert index.startswith("---\nlayout: default\n---")
-        assert "April Paper" in index
-        assert "March Paper" not in index
+        # Gitpage markdown is NOT written post-cutover (PRSL-77) — Astro
+        # consumes the gitpage JSON files directly. The current-month JSON
+        # is in place above; markdown should be absent.
+        assert not workspace["index"].exists()
 
-        # Archive month markdown has the older paper
+        # README archive markdown still rendered (used by GitHub repo browser).
         march_md = (workspace["archive"] / "2026-03.md").read_text()
         assert "March Paper" in march_md
         aug_md = (workspace["archive"] / "2025-08.md").read_text()
         assert "August Paper" in aug_md
 
-        # Archive index lists every month, descending
+        # README archive index lists every month, descending
         archive_index = (workspace["archive"] / "index.md").read_text()
         assert archive_index.index("2026-03") < archive_index.index("2025-08")
+
+        # Gitpage archive directory has JSON only — no markdown.
+        assert (workspace["archive_web"] / "2026-03.json").exists()
+        assert not (workspace["archive_web"] / "2026-03.md").exists()
 
     def test_fetch_then_render_separately_matches_run(self, monkeypatch, workspace):
         """`fetch` followed by `render` must produce the same artifacts as `run`."""
@@ -209,9 +213,10 @@ class TestEndToEndPipeline:
         assert not workspace["index"].exists()
 
         cli.main(["--config_path", workspace["config"], "render"])
-        # Render alone produces both markdowns
+        # Render produces README markdown only — gitpage markdown was retired
+        # in PRSL-77 (Astro reads the JSON directly).
         assert workspace["readme"].exists()
-        assert workspace["index"].exists()
+        assert not workspace["index"].exists()
         assert "Paper A" in workspace["readme"].read_text()
 
 
