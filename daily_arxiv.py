@@ -5,10 +5,15 @@ import logging
 import re
 
 import arxiv
+import requests
 import yaml
 
 
 logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s", datefmt="%m/%d/%Y %H:%M:%S", level=logging.INFO)
+
+HF_PAPERS_API = "https://huggingface.co/api/papers/"
+REQUEST_TIMEOUT = 10
+GITHUB_URL_RE = re.compile(r"https?://github\.com/[\w.-]+/[\w.-]+")
 
 
 def load_config(config_file: str) -> dict:
@@ -65,6 +70,28 @@ def sort_papers(papers):
     return output
 
 
+def find_code_link(arxiv_id: str, summary: str | None = None) -> str | None:
+    """
+    Best-effort code repo URL lookup. Returns None when nothing is found.
+    Order: HuggingFace Papers `githubRepo` → github.com URL in arxiv summary.
+    """
+    try:
+        r = requests.get(f"{HF_PAPERS_API}{arxiv_id}", timeout=REQUEST_TIMEOUT)
+        if r.status_code == 200:
+            repo = r.json().get("githubRepo")
+            if repo:
+                return repo
+    except requests.RequestException as e:
+        logging.warning(f"HF Papers lookup failed for {arxiv_id}: {e}")
+
+    if summary:
+        m = GITHUB_URL_RE.search(summary)
+        if m:
+            return m.group(0).rstrip(".,);")
+
+    return None
+
+
 def get_daily_papers(topic, query="nlp", max_results=2):
     """
     @param topic: str
@@ -92,14 +119,17 @@ def get_daily_papers(topic, query="nlp", max_results=2):
         else:
             paper_key = paper_id[0:ver_pos]
 
-        # Code 컬럼은 항상 |null| — paperswithcode 종료 후 lookup 소스 없음.
-        # 기존 JSON 의 [link] 가 있는 행과 한 테이블에 섞여도 컬럼 수가 일치해 렌더링 OK.
-        content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-            update_time, paper_title, paper_first_author, paper_id, paper_url
+        code_link = find_code_link(paper_key, summary=result.summary)
+        code_md = f"**[link]({code_link})**" if code_link else "null"
+        content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|{}|\n".format(
+            update_time, paper_title, paper_first_author, paper_id, paper_url, code_md
         )
-        content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})\n".format(
+        web_line = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
             update_time, paper_title, paper_first_author, paper_url, paper_url
         )
+        if code_link:
+            web_line += f", Code: **[{code_link}]({code_link})**"
+        content_to_web[paper_key] = web_line + "\n"
 
     data = {topic: content}
     data_web = {topic: content_to_web}

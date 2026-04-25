@@ -1,8 +1,10 @@
 import textwrap
 
 import pytest
+import requests
 
-from daily_arxiv import get_authors, load_config, sort_papers
+import daily_arxiv
+from daily_arxiv import find_code_link, get_authors, load_config, sort_papers
 
 
 class TestGetAuthors:
@@ -88,3 +90,58 @@ class TestLoadConfig:
     def test_single_word_filter_left_unquoted(self, config_file):
         config = load_config(config_file)
         assert config["kv"]["QA"] == "QA"
+
+
+class _FakeResponse:
+    def __init__(self, status_code: int, payload: dict | None = None):
+        self.status_code = status_code
+        self._payload = payload or {}
+
+    def json(self):
+        return self._payload
+
+
+class TestFindCodeLink:
+    def _patch_get(self, monkeypatch, *, status_code=200, payload=None, raises=None):
+        calls = []
+
+        def fake_get(url, timeout=None):
+            calls.append(url)
+            if raises is not None:
+                raise raises
+            return _FakeResponse(status_code, payload)
+
+        monkeypatch.setattr(daily_arxiv.requests, "get", fake_get)
+        return calls
+
+    def test_returns_hf_github_repo_when_present(self, monkeypatch):
+        self._patch_get(monkeypatch, payload={"githubRepo": "https://github.com/foo/bar"})
+        assert find_code_link("2307.09288") == "https://github.com/foo/bar"
+
+    def test_falls_back_to_summary_regex_when_hf_has_no_repo(self, monkeypatch):
+        self._patch_get(monkeypatch, payload={"title": "...", "githubRepo": None})
+        summary = "Code is available at https://github.com/acme/proj for reproducibility."
+        assert find_code_link("2604.21637", summary=summary) == "https://github.com/acme/proj"
+
+    def test_falls_back_to_summary_regex_on_404(self, monkeypatch):
+        self._patch_get(monkeypatch, status_code=404, payload={"error": "not found"})
+        summary = "See https://github.com/acme/proj."
+        assert find_code_link("9999.00000", summary=summary) == "https://github.com/acme/proj"
+
+    def test_falls_back_to_summary_regex_on_network_error(self, monkeypatch):
+        self._patch_get(monkeypatch, raises=requests.ConnectionError("dns"))
+        summary = "Repo: https://github.com/acme/proj"
+        assert find_code_link("2604.21637", summary=summary) == "https://github.com/acme/proj"
+
+    def test_returns_none_when_nothing_matches(self, monkeypatch):
+        self._patch_get(monkeypatch, status_code=404)
+        assert find_code_link("9999.00000", summary="No code link here.") is None
+
+    def test_returns_none_when_summary_missing_and_hf_empty(self, monkeypatch):
+        self._patch_get(monkeypatch, payload={})
+        assert find_code_link("2604.21637") is None
+
+    def test_strips_trailing_punctuation_from_summary_url(self, monkeypatch):
+        self._patch_get(monkeypatch, status_code=404)
+        summary = "We release code at https://github.com/acme/proj)."
+        assert find_code_link("9999.00000", summary=summary) == "https://github.com/acme/proj"
