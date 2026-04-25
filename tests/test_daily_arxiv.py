@@ -5,7 +5,7 @@ import pytest
 import requests
 
 import daily_arxiv
-from daily_arxiv import find_code_link, get_authors, load_config, sort_papers, update_json_file
+from daily_arxiv import find_code_link, get_authors, json_to_md, load_config, sort_papers, update_json_file
 
 
 class TestGetAuthors:
@@ -167,3 +167,30 @@ class TestUpdateJsonFile:
         assert json.loads(path.read_text()) == {
             "NLP": {"2108.09112": "old", "2208.10000": "new"},
         }
+
+
+class TestJsonToMd:
+    @pytest.fixture
+    def json_file(self, tmp_path):
+        path = tmp_path / "papers.json"
+        path.write_text(json.dumps({"NLP": {"2208.10000": "|**2025-01-01**|**T**|A et.al.|[id](u)|null|\n"}}))
+        return str(path)
+
+    def test_truncates_existing_md_output(self, tmp_path, json_file):
+        md_path = tmp_path / "README.md"
+        md_path.write_text("STALE CONTENT FROM PRIOR RUN\n" * 100)
+        json_to_md(json_file, str(md_path), show_badge=False)
+        assert "STALE CONTENT" not in md_path.read_text()
+
+    def test_badge_urls_use_configured_user_and_repo(self, tmp_path, json_file):
+        md_path = tmp_path / "README.md"
+        json_to_md(
+            json_file,
+            str(md_path),
+            show_badge=True,
+            user_name="alice",
+            repo_name="my-proj",
+        )
+        rendered = md_path.read_text()
+        assert "alice/my-proj" in rendered
+        assert "monologg/nlp-arxiv-daily" not in rendered
