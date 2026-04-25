@@ -95,9 +95,10 @@ def get_daily_papers(topic, query="nlp", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
-    search_engine = arxiv.Search(query=query, max_results=max_results, sort_by=arxiv.SortCriterion.SubmittedDate)
+    client = arxiv.Client()
+    search = arxiv.Search(query=query, max_results=max_results, sort_by=arxiv.SortCriterion.SubmittedDate)
 
-    for result in search_engine.results():
+    for result in client.results(search):
 
         paper_id = result.get_short_id()
         paper_title = result.title
