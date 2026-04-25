@@ -12,10 +12,13 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.2",
     "@tailwindcss/vite": "^4.2.4",
     "astro": "^6.1.9",
+    "astro-og-canvas": "^0.11.1",
     "astro-pagefind": "^1.8.6",
+    "canvaskit-wasm": "^0.41.1",
     "pagefind": "^1.5.2",
     "tailwindcss": "^4.2.4"
   }
