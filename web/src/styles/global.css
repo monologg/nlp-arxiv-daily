@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Theme tokens — placeholder palette. Tightened in PRSL-73 (dark mode). */
+@theme {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --color-bg: oklch(0.99 0 0);
+  --color-fg: oklch(0.2 0.01 250);
+  --color-muted: oklch(0.55 0.01 250);
+  --color-accent: oklch(0.55 0.18 260);
+}

@@ -1,0 +1,59 @@
+name: Astro Build
+
+# Build-only verification of the Astro migration scaffold (PRSL-70).
+# Deploy is intentionally NOT wired up here — the existing Jekyll site
+# at docs/ keeps serving via GitHub Pages until the cutover (PRSL-77)
+# flips the Pages source to GitHub Actions.
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "web/**"
+      - ".github/workflows/astro-build.yml"
+  pull_request:
+    paths:
+      - "web/**"
+      - ".github/workflows/astro-build.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          cache-dependency-path: web/pnpm-lock.yaml
+
+      - name: Install
+        run: pnpm install --frozen-lockfile
+
+      - name: Build
+        env:
+          NODE_ENV: production
+        run: pnpm build
+
+      - name: Upload artifact (verification only — no deploy)
+        uses: actions/upload-artifact@v4
+        with:
+          name: astro-dist
+          path: web/dist
+          retention-days: 7
