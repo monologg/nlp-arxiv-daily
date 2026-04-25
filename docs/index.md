@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.25
+## Updated on 2026.04.26
 
 > Older months: [archive](archive-web/index.md)
 
@@ -25,8 +25,6 @@ layout: default
 
 ## NLP
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 - 2026-04-22, **HyperFM: An Efficient Hyperspectral Foundation Model with Spectral Grouping**, Zahid Hassan Tushar et.al., Paper: [http://arxiv.org/abs/2604.21127v1](http://arxiv.org/abs/2604.21127v1)
 - 2026-04-22, **Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies**, Shuai Chen et.al., Paper: [http://arxiv.org/abs/2604.20548v1](http://arxiv.org/abs/2604.20548v1), Code: **[https://github.com/ChenShuai00/MAGenIdeas](https://github.com/ChenShuai00/MAGenIdeas)**
 - 2026-04-21, **Structured Disagreement in Health-Literacy Annotation: Epistemic Stability, Conceptual Difficulty, and Agreement-Stratified Inference**, Olga Kellert et.al., Paper: [http://arxiv.org/abs/2604.19943v1](http://arxiv.org/abs/2604.19943v1)
@@ -38,12 +36,10 @@ layout: default
 - 2026-04-19, **Cloud-native and Distributed Systems for Efficient and Scalable Large Language Models -- A Research Agenda**, Minxian Xu et.al., Paper: [http://arxiv.org/abs/2604.17227v1](http://arxiv.org/abs/2604.17227v1)
 - 2026-04-19, **Beyond the Basics: Leveraging Large Language Model for Fine-Grained Medical Entity Recognition**, Nwe Ni Win et.al., Paper: [http://arxiv.org/abs/2604.17214v1](http://arxiv.org/abs/2604.17214v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Legal NLP
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 - 2026-04-23, **Engaged AI Governance: Addressing the Last Mile Challenge Through Internal Expert Collaboration**, Simon Jarvers et.al., Paper: [http://arxiv.org/abs/2604.21554v1](http://arxiv.org/abs/2604.21554v1)
 - 2026-04-23, **Cross-Domain Data Selection and Augmentation for Automatic Compliance Detection**, Fariz Ikhwantri et.al., Paper: [http://arxiv.org/abs/2604.21469v1](http://arxiv.org/abs/2604.21469v1)
 - 2026-04-20, **LegalBench-BR: A Benchmark for Evaluating Large Language Models on Brazilian Legal Decision Classification**, Pedro Barbosa de Carvalho Neto et.al., Paper: [http://arxiv.org/abs/2604.18878v1](http://arxiv.org/abs/2604.18878v1)
@@ -55,20 +51,16 @@ layout: default
 - 2026-04-06, **HUKUKBERT: Domain-Specific Language Model for Turkish Law**, Mehmet Utku Öztürk et.al., Paper: [http://arxiv.org/abs/2604.04790v1](http://arxiv.org/abs/2604.04790v1)
 - 2026-04-02, **De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules**, Keerat Guliani et.al., Paper: [http://arxiv.org/abs/2604.02276v1](http://arxiv.org/abs/2604.02276v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Sequence Annotation
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 - 2026-04-10, **CAMotion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild**, Siyuan Yao et.al., Paper: [http://arxiv.org/abs/2604.08287v2](http://arxiv.org/abs/2604.08287v2)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Named Entity Recognition
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 - 2026-04-23, **Differentially Private De-identification of Dutch Clinical Notes: A Comparative Evaluation**, Michele Miranda et.al., Paper: [http://arxiv.org/abs/2604.21421v1](http://arxiv.org/abs/2604.21421v1)
 - 2026-04-22, **Decoding Text Spans for Efficient and Accurate Named-Entity Recognition**, Andrea Maracani et.al., Paper: [http://arxiv.org/abs/2604.20447v1](http://arxiv.org/abs/2604.20447v1)
 - 2026-04-22, **SAKE: Self-aware Knowledge Exploitation-Exploration for Grounded Multimodal Named Entity Recognition**, Jielong Tang et.al., Paper: [http://arxiv.org/abs/2604.20146v1](http://arxiv.org/abs/2604.20146v1)
@@ -80,12 +72,10 @@ layout: default
 - 2026-04-17, **DiZiNER: Disagreement-guided Instruction Refinement via Pilot Annotation Simulation for Zero-shot Named Entity Recognition**, Siun Kim et.al., Paper: [http://arxiv.org/abs/2604.15866v1](http://arxiv.org/abs/2604.15866v1)
 - 2026-04-17, **PIIBench: A Unified Multi-Source Benchmark Corpus for Personally Identifiable Information Detection**, Pritesh Jha et.al., Paper: [http://arxiv.org/abs/2604.15776v1](http://arxiv.org/abs/2604.15776v1), Code: **[https://github.com/pritesh-2711/pii-bench](https://github.com/pritesh-2711/pii-bench)**
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Text Classification
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 - 2026-04-23, **Fine-Grained Perspectives: Modeling Explanations with Annotator-Specific Rationales**, Olufunke O. Sarumi et.al., Paper: [http://arxiv.org/abs/2604.21667v1](http://arxiv.org/abs/2604.21667v1)
 - 2026-04-23, **Cross-Domain Data Selection and Augmentation for Automatic Compliance Detection**, Fariz Ikhwantri et.al., Paper: [http://arxiv.org/abs/2604.21469v1](http://arxiv.org/abs/2604.21469v1)
 - 2026-04-23, **Differentially Private De-identification of Dutch Clinical Notes: A Comparative Evaluation**, Michele Miranda et.al., Paper: [http://arxiv.org/abs/2604.21421v1](http://arxiv.org/abs/2604.21421v1)
@@ -97,12 +87,10 @@ layout: default
 - 2026-04-19, **Frequency-guided Multi-level Reasoning for Scene Graph Generation in Video**, Chenxing Li et.al., Paper: [http://arxiv.org/abs/2604.17298v1](http://arxiv.org/abs/2604.17298v1)
 - 2026-04-17, **SCHK-HTC: Sibling Contrastive Learning with Hierarchical Knowledge-Aware Prompt Tuning for Hierarchical Text Classification**, Ke Xiong et.al., Paper: [http://arxiv.org/abs/2604.15998v1](http://arxiv.org/abs/2604.15998v1), Code: **[https://github.com/happywinder/SCHK-HTC](https://github.com/happywinder/SCHK-HTC)**
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Sentiment Analysis
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 - 2026-04-22, **Scalable AI Inference: Performance Analysis and Optimization of AI Model Serving**, Hung Cuong Pham et.al., Paper: [http://arxiv.org/abs/2604.20420v1](http://arxiv.org/abs/2604.20420v1)
 - 2026-04-21, **SAHM: A Benchmark for Arabic Financial and Shari'ah-Compliant Reasoning**, Rania Elbadry et.al., Paper: [http://arxiv.org/abs/2604.19098v1](http://arxiv.org/abs/2604.19098v1)
 - 2026-04-20, **Model in Distress: Sentiment Analysis on French Synthetic Social Media**, Pierre-Carl Langlais et.al., Paper: [http://arxiv.org/abs/2604.18226v1](http://arxiv.org/abs/2604.18226v1)
@@ -114,12 +102,10 @@ layout: default
 - 2026-04-15, **From Prediction to Justification: Aligning Sentiment Reasoning with Human Rationale via Reinforcement Learning**, Shihao Zhang et.al., Paper: [http://arxiv.org/abs/2604.13398v1](http://arxiv.org/abs/2604.13398v1)
 - 2026-04-19, **Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**, Kang He et.al., Paper: [http://arxiv.org/abs/2604.12518v2](http://arxiv.org/abs/2604.12518v2)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Question Answering
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 - 2026-04-23, **AUDITA: A New Dataset to Audit Humans vs. AI Skill at Audio QA**, Tasnim Kabir et.al., Paper: [http://arxiv.org/abs/2604.21766v1](http://arxiv.org/abs/2604.21766v1)
 - 2026-04-23, **StructMem: Structured Memory for Long-Horizon Behavior in LLMs**, Buqiang Xu et.al., Paper: [http://arxiv.org/abs/2604.21748v1](http://arxiv.org/abs/2604.21748v1), Code: **[https://github.com/zjunlp/LightMem](https://github.com/zjunlp/LightMem)**
 - 2026-04-23, **Encoder-Free Human Motion Understanding via Structured Motion Descriptions**, Yao Zhang et.al., Paper: [http://arxiv.org/abs/2604.21668v1](http://arxiv.org/abs/2604.21668v1), Code: **[https://github.com/yaozhang182/motion-smd](https://github.com/yaozhang182/motion-smd)**
@@ -131,12 +117,10 @@ layout: default
 - 2026-04-22, **GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons**, Sebastian Walter et.al., Paper: [http://arxiv.org/abs/2604.21133v1](http://arxiv.org/abs/2604.21133v1)
 - 2026-04-22, **HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering**, Yuyu Liu et.al., Paper: [http://arxiv.org/abs/2604.21027v1](http://arxiv.org/abs/2604.21027v1), Code: **[https://github.com/yuyuliu11037/HypEHR](https://github.com/yuyuliu11037/HypEHR)**
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Information Extraction
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 - 2026-04-23, **EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents**, Praval Sharma et.al., Paper: [http://arxiv.org/abs/2604.21890v1](http://arxiv.org/abs/2604.21890v1)
 - 2026-04-23, **A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**, Praval Sharma et.al., Paper: [http://arxiv.org/abs/2604.21885v1](http://arxiv.org/abs/2604.21885v1)
 - 2026-04-22, **Automated Extraction of Pharmacokinetic Parameters from Structured XML Scientific Articles: Enhancing Data Accessibility at Scale**, Remya Ampadi Ramachandran et.al., Paper: [http://arxiv.org/abs/2604.21063v1](http://arxiv.org/abs/2604.21063v1)
@@ -148,12 +132,10 @@ layout: default
 - 2026-04-17, **CBRS: Cognitive Blood Request System with Bilingual Dataset and Dual-Layer Filtering for Multi-Platform Social Streams**, Anik Saha et.al., Paper: [http://arxiv.org/abs/2604.16665v1](http://arxiv.org/abs/2604.16665v1), Code: **[https://github.com/aaniksahaa/CBRS](https://github.com/aaniksahaa/CBRS)**
 - 2026-04-17, **DiZiNER: Disagreement-guided Instruction Refinement via Pilot Annotation Simulation for Zero-shot Named Entity Recognition**, Siun Kim et.al., Paper: [http://arxiv.org/abs/2604.15866v1](http://arxiv.org/abs/2604.15866v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Recommendation System
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 - 2026-04-23, **Multistakeholder Impacts of Profile Portability in a Recommender Ecosystem**, Anas Buhayh et.al., Paper: [http://arxiv.org/abs/2604.21750v1](http://arxiv.org/abs/2604.21750v1)
 - 2026-04-23, **Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**, Nikita Severin et.al., Paper: [http://arxiv.org/abs/2604.21536v1](http://arxiv.org/abs/2604.21536v1)
 - 2026-04-23, **A single algorithm for both restless and rested rotting bandits**, Julien Seznec et.al., Paper: [http://arxiv.org/abs/2604.21432v1](http://arxiv.org/abs/2604.21432v1)
@@ -165,12 +147,10 @@ layout: default
 - 2026-04-20, **Multi-LLM Token Filtering and Routing for Sequential Recommendation**, Wuhan Chen et.al., Paper: [http://arxiv.org/abs/2604.18200v1](http://arxiv.org/abs/2604.18200v1), Code: **[https://github.com/ccwwhhh/MLTFR](https://github.com/ccwwhhh/MLTFR)**
 - 2026-04-21, **Modular Representation Compression: Adapting LLMs for Efficient and Effective Recommendations**, Yunjia Xi et.al., Paper: [http://arxiv.org/abs/2604.18146v2](http://arxiv.org/abs/2604.18146v2)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Knowledge Graph
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 - 2026-04-23, **GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**, Qizhuo Xie et.al., Paper: [http://arxiv.org/abs/2604.21649v1](http://arxiv.org/abs/2604.21649v1), Code: **[https://github.com/mikumifa/GS-Quant](https://github.com/mikumifa/GS-Quant)**
 - 2026-04-22, **GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons**, Sebastian Walter et.al., Paper: [http://arxiv.org/abs/2604.21133v1](http://arxiv.org/abs/2604.21133v1)
 - 2026-04-22, **Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**, Pavel Salovskii et.al., Paper: [http://arxiv.org/abs/2604.20795v1](http://arxiv.org/abs/2604.20795v1)
@@ -182,12 +162,10 @@ layout: default
 - 2026-04-21, **Demonstrating Online Schema Alignment in Decentralized Knowledge Graphs Querying**, Bryan-Elliott Tam et.al., Paper: [http://arxiv.org/abs/2604.19205v1](http://arxiv.org/abs/2604.19205v1)
 - 2026-04-21, **Construction of Knowledge Graph based on Language Model**, Qiubai Zhu et.al., Paper: [http://arxiv.org/abs/2604.19137v1](http://arxiv.org/abs/2604.19137v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## GNN
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 - 2026-04-23, **Scalable Multimodal Beam Alignment in V2X: An Anti-Imbalance Graph Learning Approach**, Jiahui Liang et.al., Paper: [http://arxiv.org/abs/2604.21585v1](http://arxiv.org/abs/2604.21585v1)
 - 2026-04-23, **Drug Synergy Prediction via Residual Graph Isomorphism Networks and Attention Mechanisms**, Jiyan Song et.al., Paper: [http://arxiv.org/abs/2604.21473v1](http://arxiv.org/abs/2604.21473v1)
 - 2026-04-23, **GraphLeap: Decoupling Graph Construction and Convolution for Vision GNN Acceleration on FPGA**, Anvitha Ramachandran et.al., Paper: [http://arxiv.org/abs/2604.21290v1](http://arxiv.org/abs/2604.21290v1)
@@ -199,5 +177,5 @@ layout: default
 - 2026-04-23, **StormNet: Improving storm surge predictions with a GNN-based spatio-temporal offset forecasting model**, Noujoud Nader et.al., Paper: [http://arxiv.org/abs/2604.20688v2](http://arxiv.org/abs/2604.20688v2)
 - 2026-04-22, **Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge**, Naizhong Xu et.al., Paper: [http://arxiv.org/abs/2604.20598v1](http://arxiv.org/abs/2604.20598v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 

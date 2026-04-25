@@ -329,12 +329,8 @@ def json_to_md(
             # the head of each part
             f.write(f"## {keyword}\n\n")
 
-            if use_title is True:
-                if to_web is False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-                else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+            if use_title is True and to_web is False:
+                f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)
