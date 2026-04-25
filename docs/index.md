@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.25
+## Updated on 2026.04.26
 
 > Older months: [archive](archive-web/index.md)
 
@@ -26,6 +26,7 @@ layout: default
 ## NLP
 
 - 2026-04-22, **HyperFM: An Efficient Hyperspectral Foundation Model with Spectral Grouping**, Zahid Hassan Tushar et.al., Paper: [http://arxiv.org/abs/2604.21127v1](http://arxiv.org/abs/2604.21127v1)
+- 2026-02-23, **A Systematic Study of Biomedical Retrieval Pipeline Trade-offs in Performance and Efficiency**, Hayk Stepanyan et.al., Paper: [http://arxiv.org/abs/2604.20853v1](http://arxiv.org/abs/2604.20853v1)
 - 2026-04-22, **Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies**, Shuai Chen et.al., Paper: [http://arxiv.org/abs/2604.20548v1](http://arxiv.org/abs/2604.20548v1), Code: **[https://github.com/ChenShuai00/MAGenIdeas](https://github.com/ChenShuai00/MAGenIdeas)**
 - 2026-04-21, **Structured Disagreement in Health-Literacy Annotation: Epistemic Stability, Conceptual Difficulty, and Agreement-Stratified Inference**, Olga Kellert et.al., Paper: [http://arxiv.org/abs/2604.19943v1](http://arxiv.org/abs/2604.19943v1)
 - 2026-04-21, **A Bolu: A Structured Dataset for the Computational Analysis of Sardinian Improvisational Poetry**, Silvio Calderaro et.al., Paper: [http://arxiv.org/abs/2604.19584v1](http://arxiv.org/abs/2604.19584v1)
@@ -35,8 +36,15 @@ layout: default
 - 2026-04-22, **Does Welsh media need a review? Detecting bias in Nation.Cymru's political reporting**, Cai Parry-Jones et.al., Paper: [http://arxiv.org/abs/2604.17628v2](http://arxiv.org/abs/2604.17628v2)
 - 2026-04-19, **Cloud-native and Distributed Systems for Efficient and Scalable Large Language Models -- A Research Agenda**, Minxian Xu et.al., Paper: [http://arxiv.org/abs/2604.17227v1](http://arxiv.org/abs/2604.17227v1)
 - 2026-04-19, **Beyond the Basics: Leveraging Large Language Model for Fine-Grained Medical Entity Recognition**, Nwe Ni Win et.al., Paper: [http://arxiv.org/abs/2604.17214v1](http://arxiv.org/abs/2604.17214v1)
+- 2026-03-31, **On the Use of Commit Messages for Corrective Software Maintenance: A Systematic Mapping Study**, Syful Islam et.al., Paper: [http://arxiv.org/abs/2604.16404v1](http://arxiv.org/abs/2604.16404v1)
+- 2026-03-21, **IWLV-Ramayana: A Sarga-Aligned Parallel Corpus of Valmiki's Ramayana Across Indian Languages**, Sumesh VP et.al., Paper: [http://arxiv.org/abs/2604.13078v1](http://arxiv.org/abs/2604.13078v1)
+- 2026-03-17, **WorkRB: A Community-Driven Evaluation Framework for AI in the Work Domain**, Matthias De Lange et.al., Paper: [http://arxiv.org/abs/2604.13055v1](http://arxiv.org/abs/2604.13055v1), Code: **[https://github.com/techwolf-ai/WorkRB](https://github.com/techwolf-ai/WorkRB)**
+- 2026-03-25, **Generating High Quality Synthetic Data for Dutch Medical Conversations**, Cecilia Kuan et.al., Paper: [http://arxiv.org/abs/2604.09645v1](http://arxiv.org/abs/2604.09645v1)
+- 2026-03-13, **Cross-Lingual Transfer and Parameter-Efficient Adaptation in the Turkic Language Family: A Theoretical Framework for Low-Resource Language Models**, O. Ibrahimzade et.al., Paper: [http://arxiv.org/abs/2604.06202v1](http://arxiv.org/abs/2604.06202v1)
+- 2026-03-13, **TDA-RC: Task-Driven Alignment for Knowledge-Based Reasoning Chains in Large Language Models**, Jiaquan Zhang et.al., Paper: [http://arxiv.org/abs/2604.04942v1](http://arxiv.org/abs/2604.04942v1)
+- 2026-03-24, **Customized User Plane Processing via Code Generating AI Agents for Next Generation Mobile Networks**, Xiaowen Ma et.al., Paper: [http://arxiv.org/abs/2604.03282v1](http://arxiv.org/abs/2604.03282v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Legal NLP
 
@@ -51,13 +59,13 @@ layout: default
 - 2026-04-06, **HUKUKBERT: Domain-Specific Language Model for Turkish Law**, Mehmet Utku Öztürk et.al., Paper: [http://arxiv.org/abs/2604.04790v1](http://arxiv.org/abs/2604.04790v1)
 - 2026-04-02, **De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules**, Keerat Guliani et.al., Paper: [http://arxiv.org/abs/2604.02276v1](http://arxiv.org/abs/2604.02276v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Sequence Annotation
 
 - 2026-04-10, **CAMotion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild**, Siyuan Yao et.al., Paper: [http://arxiv.org/abs/2604.08287v2](http://arxiv.org/abs/2604.08287v2)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Named Entity Recognition
 
@@ -72,7 +80,7 @@ layout: default
 - 2026-04-17, **DiZiNER: Disagreement-guided Instruction Refinement via Pilot Annotation Simulation for Zero-shot Named Entity Recognition**, Siun Kim et.al., Paper: [http://arxiv.org/abs/2604.15866v1](http://arxiv.org/abs/2604.15866v1)
 - 2026-04-17, **PIIBench: A Unified Multi-Source Benchmark Corpus for Personally Identifiable Information Detection**, Pritesh Jha et.al., Paper: [http://arxiv.org/abs/2604.15776v1](http://arxiv.org/abs/2604.15776v1), Code: **[https://github.com/pritesh-2711/pii-bench](https://github.com/pritesh-2711/pii-bench)**
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Text Classification
 
@@ -81,13 +89,20 @@ layout: default
 - 2026-04-23, **Differentially Private De-identification of Dutch Clinical Notes: A Comparative Evaluation**, Michele Miranda et.al., Paper: [http://arxiv.org/abs/2604.21421v1](http://arxiv.org/abs/2604.21421v1)
 - 2026-04-22, **ActuBench: A Multi-Agent LLM Pipeline for Generation and Evaluation of Actuarial Reasoning Tasks**, Jan-Philipp Schmidt et.al., Paper: [http://arxiv.org/abs/2604.20273v1](http://arxiv.org/abs/2604.20273v1)
 - 2026-04-23, **Tracing Relational Knowledge Recall in Large Language Models**, Nicholas Popovič et.al., Paper: [http://arxiv.org/abs/2604.19934v2](http://arxiv.org/abs/2604.19934v2)
+- 2026-03-31, **Can LLMs Infer Conversational Agent Users' Personality Traits from Chat History?**, Derya Cögendez et.al., Paper: [http://arxiv.org/abs/2604.19785v1](http://arxiv.org/abs/2604.19785v1)
+- 2026-03-25, **Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM**, Mohammad AL-Smadi et.al., Paper: [http://arxiv.org/abs/2604.19759v1](http://arxiv.org/abs/2604.19759v1)
+- 2026-03-21, **Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom**, Prudence Djagba et.al., Paper: [http://arxiv.org/abs/2604.19754v1](http://arxiv.org/abs/2604.19754v1)
 - 2026-04-21, **Product-of-Experts Training Reduces Dataset Artifacts in Natural Language Inference**, Aby Mammen Mathew et.al., Paper: [http://arxiv.org/abs/2604.19069v1](http://arxiv.org/abs/2604.19069v1)
 - 2026-04-20, **LegalBench-BR: A Benchmark for Evaluating Large Language Models on Brazilian Legal Decision Classification**, Pedro Barbosa de Carvalho Neto et.al., Paper: [http://arxiv.org/abs/2604.18878v1](http://arxiv.org/abs/2604.18878v1)
 - 2026-04-19, **Peerispect: Claim Verification in Scientific Peer Reviews**, Ali Ghorbanpour et.al., Paper: [http://arxiv.org/abs/2604.17667v1](http://arxiv.org/abs/2604.17667v1), Code: **[https://github.com/Reviewerly-Inc/Peerispect](https://github.com/Reviewerly-Inc/Peerispect)**
 - 2026-04-19, **Frequency-guided Multi-level Reasoning for Scene Graph Generation in Video**, Chenxing Li et.al., Paper: [http://arxiv.org/abs/2604.17298v1](http://arxiv.org/abs/2604.17298v1)
 - 2026-04-17, **SCHK-HTC: Sibling Contrastive Learning with Hierarchical Knowledge-Aware Prompt Tuning for Hierarchical Text Classification**, Ke Xiong et.al., Paper: [http://arxiv.org/abs/2604.15998v1](http://arxiv.org/abs/2604.15998v1), Code: **[https://github.com/happywinder/SCHK-HTC](https://github.com/happywinder/SCHK-HTC)**
+- 2026-03-24, **Detecting Corporate AI-Washing via Cross-Modal Semantic Inconsistency Learning**, Zhanjie Wen et.al., Paper: [http://arxiv.org/abs/2604.09644v1](http://arxiv.org/abs/2604.09644v1)
+- 2026-03-17, **Uncertainty Estimation for the Open-Set Text Classification systems**, Leonid Erlygin et.al., Paper: [http://arxiv.org/abs/2604.08560v1](http://arxiv.org/abs/2604.08560v1), Code: **[https://github.com/Leonid-Erlygin/text_uncertainty.git](https://github.com/Leonid-Erlygin/text_uncertainty.git)**
+- 2026-01-16, **VerifAI: A Verifiable Open-Source Search Engine for Biomedical Question Answering**, Miloš Košprdić et.al., Paper: [http://arxiv.org/abs/2604.08549v1](http://arxiv.org/abs/2604.08549v1)
+- 2026-03-11, **Detecting Abnormal User Feedback Patterns through Temporal Sentiment Aggregation**, Yalun Qi et.al., Paper: [http://arxiv.org/abs/2604.00020v1](http://arxiv.org/abs/2604.00020v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Sentiment Analysis
 
@@ -101,8 +116,11 @@ layout: default
 - 2026-04-15, **Sentiment analysis for software engineering: How far can zero-shot learning (ZSL) go?**, Reem Alfayez et.al., Paper: [http://arxiv.org/abs/2604.13826v1](http://arxiv.org/abs/2604.13826v1)
 - 2026-04-15, **From Prediction to Justification: Aligning Sentiment Reasoning with Human Rationale via Reinforcement Learning**, Shihao Zhang et.al., Paper: [http://arxiv.org/abs/2604.13398v1](http://arxiv.org/abs/2604.13398v1)
 - 2026-04-19, **Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**, Kang He et.al., Paper: [http://arxiv.org/abs/2604.12518v2](http://arxiv.org/abs/2604.12518v2)
+- 2026-02-16, **Skin-Deep Bias: How Avatar Appearances Shape Perceptions of AI Hiring**, Ka Hei Carrie Lau et.al., Paper: [http://arxiv.org/abs/2604.06187v1](http://arxiv.org/abs/2604.06187v1)
+- 2026-03-11, **Detecting Abnormal User Feedback Patterns through Temporal Sentiment Aggregation**, Yalun Qi et.al., Paper: [http://arxiv.org/abs/2604.00020v1](http://arxiv.org/abs/2604.00020v1)
+- 2026-04-12, **C2F-Thinker: Coarse-to-Fine Reasoning with Hint-Guided Reinforcement Learning for Multimodal Sentiment Analysis**, Miaosen Luo et.al., Paper: [http://arxiv.org/abs/2604.00013v2](http://arxiv.org/abs/2604.00013v2)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Question Answering
 
@@ -116,8 +134,34 @@ layout: default
 - 2026-04-23, **ARFBench: Benchmarking Time Series Question Answering Ability for Software Incident Response**, Stephan Xie et.al., Paper: [http://arxiv.org/abs/2604.21199v1](http://arxiv.org/abs/2604.21199v1)
 - 2026-04-22, **GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons**, Sebastian Walter et.al., Paper: [http://arxiv.org/abs/2604.21133v1](http://arxiv.org/abs/2604.21133v1)
 - 2026-04-22, **HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering**, Yuyu Liu et.al., Paper: [http://arxiv.org/abs/2604.21027v1](http://arxiv.org/abs/2604.21027v1), Code: **[https://github.com/yuyuliu11037/HypEHR](https://github.com/yuyuliu11037/HypEHR)**
+- 2026-02-12, **SPIRE: Structure-Preserving Interpretable Retrieval of Evidence**, Mike Rainey et.al., Paper: [http://arxiv.org/abs/2604.20849v1](http://arxiv.org/abs/2604.20849v1)
+- 2026-03-30, **KoALa-Bench: Evaluating Large Audio Language Models on Korean Speech Understanding and Faithfulness**, Jinyoung Kim et.al., Paper: [http://arxiv.org/abs/2604.19782v1](http://arxiv.org/abs/2604.19782v1)
+- 2026-03-29, **ESGLens: An LLM-Based RAG Framework for Interactive ESG Report Analysis and Score Prediction**, Tsung-Yu Yang et.al., Paper: [http://arxiv.org/abs/2604.19779v1](http://arxiv.org/abs/2604.19779v1)
+- 2026-03-27, **Do Hallucination Neurons Generalize? Evidence from Cross-Domain Transfer in LLMs**, Snehit Vaddi et.al., Paper: [http://arxiv.org/abs/2604.19765v1](http://arxiv.org/abs/2604.19765v1)
+- 2026-03-31, **GraphRAG-Router: Learning Cost-Efficient Routing over GraphRAGs and LLMs with Reinforcement Learning**, Dongzhe Fan et.al., Paper: [http://arxiv.org/abs/2604.16401v1](http://arxiv.org/abs/2604.16401v1)
+- 2026-03-16, **Benchmarking Real-Time Question Answering via Executable Code Workflows**, Wenjie Zhou et.al., Paper: [http://arxiv.org/abs/2604.16349v1](http://arxiv.org/abs/2604.16349v1)
+- 2026-03-13, **HR-Agents: Using Multiple LLM-based Agents to Improve Q&A about Brazilian Labor Legislation**, Abriel K. Moraes et.al., Paper: [http://arxiv.org/abs/2604.16337v1](http://arxiv.org/abs/2604.16337v1)
+- 2026-02-01, **MARA: A Multimodal Adaptive Retrieval-Augmented Framework for Document Question Answering**, Hui Wu et.al., Paper: [http://arxiv.org/abs/2604.16313v1](http://arxiv.org/abs/2604.16313v1)
+- 2026-02-01, **Multimodal Claim Extraction for Fact-Checking**, Joycelyn Teo et.al., Paper: [http://arxiv.org/abs/2604.16311v1](http://arxiv.org/abs/2604.16311v1)
+- 2026-03-06, **Analyzing the Presentation, Content, and Utilization of References in LLM-powered Conversational AI Systems**, Jianheng Ouyang et.al., Paper: [http://arxiv.org/abs/2604.15326v1](http://arxiv.org/abs/2604.15326v1)
+- 2026-03-30, **An Underexplored Frontier: Large Language Models for Rare Disease Patient Education and Communication -- A scoping review**, Zaifu Zhan et.al., Paper: [http://arxiv.org/abs/2604.14179v1](http://arxiv.org/abs/2604.14179v1)
+- 2026-03-26, **QU-NLP at ArchEHR-QA 2026: Two-Stage QLoRA Fine-Tuning of Qwen3-4B for Patient-Oriented Clinical Question Answering and Evidence Sentence Alignment**, Mohammad AL-Smadi et.al., Paper: [http://arxiv.org/abs/2604.14175v1](http://arxiv.org/abs/2604.14175v1)
+- 2026-03-25, **Stateful Evidence-Driven Retrieval-Augmented Generation with Iterative Reasoning**, Qi Dong et.al., Paper: [http://arxiv.org/abs/2604.14170v1](http://arxiv.org/abs/2604.14170v1)
+- 2026-03-23, **MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios**, Yihang Ding et.al., Paper: [http://arxiv.org/abs/2604.14158v1](http://arxiv.org/abs/2604.14158v1)
+- 2026-03-20, **EVE: A Domain-Specific LLM Framework for Earth Intelligence**, Àlex R. Atrio et.al., Paper: [http://arxiv.org/abs/2604.13071v1](http://arxiv.org/abs/2604.13071v1)
+- 2026-03-17, **Caption First, VQA Second: Knowledge Density, Not Task Format, Drives Multimodal Scaling**, Hongjian Zou et.al., Paper: [http://arxiv.org/abs/2604.13054v1](http://arxiv.org/abs/2604.13054v1)
+- 2026-03-05, **Spatial Competence Benchmark**, Jash Vira et.al., Paper: [http://arxiv.org/abs/2604.09594v1](http://arxiv.org/abs/2604.09594v1)
+- 2026-01-31, **MCERF: Advancing Multimodal LLM Evaluation of Engineering Documentation with Enhanced Retrieval**, Kiarash Naghavi Khanghah et.al., Paper: [http://arxiv.org/abs/2604.09552v1](http://arxiv.org/abs/2604.09552v1)
+- 2026-03-18, **Dynamic sparsity in tree-structured feed-forward layers at scale**, Reza Sedghi et.al., Paper: [http://arxiv.org/abs/2604.08565v1](http://arxiv.org/abs/2604.08565v1)
+- 2026-01-16, **VerifAI: A Verifiable Open-Source Search Engine for Biomedical Question Answering**, Miloš Košprdić et.al., Paper: [http://arxiv.org/abs/2604.08549v1](http://arxiv.org/abs/2604.08549v1)
+- 2026-03-12, **Consistency-Guided Decoding with Proof-Driven Disambiguation for Three-Way Logical Question Answering**, Tianyi Huang et.al., Paper: [http://arxiv.org/abs/2604.06196v1](http://arxiv.org/abs/2604.06196v1)
+- 2026-03-30, **From PDF to RAG-Ready: Evaluating Document Conversion Frameworks for Domain-Specific Question Answering**, José Guilherme Marques dos Santos et.al., Paper: [http://arxiv.org/abs/2604.04948v1](http://arxiv.org/abs/2604.04948v1)
+- 2026-03-31, **Prompt-Guided Prefiltering for VLM Image Compression**, Bardia Azizian et.al., Paper: [http://arxiv.org/abs/2604.00314v1](http://arxiv.org/abs/2604.00314v1), Code: **[https://github.com/bardia-az/pgp-vlm-compression](https://github.com/bardia-az/pgp-vlm-compression)**
+- 2026-04-02, **Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**, Zaifu Zhan et.al., Paper: [http://arxiv.org/abs/2604.00261v2](http://arxiv.org/abs/2604.00261v2)
+- 2026-04-21, **Q-Mask: Query-driven Causal Masks for Text Anchoring in OCR-Oriented Vision-Language Models**, Longwei Xu et.al., Paper: [http://arxiv.org/abs/2604.00161v2](http://arxiv.org/abs/2604.00161v2)
+- 2026-03-10, **Disentangling Prompt Element Level Risk Factors for Hallucinations and Omissions in Mental Health LLM Responses**, Congning Ni et.al., Paper: [http://arxiv.org/abs/2604.00014v1](http://arxiv.org/abs/2604.00014v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -125,20 +169,28 @@ layout: default
 - 2026-04-23, **A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**, Praval Sharma et.al., Paper: [http://arxiv.org/abs/2604.21885v1](http://arxiv.org/abs/2604.21885v1)
 - 2026-04-22, **Automated Extraction of Pharmacokinetic Parameters from Structured XML Scientific Articles: Enhancing Data Accessibility at Scale**, Remya Ampadi Ramachandran et.al., Paper: [http://arxiv.org/abs/2604.21063v1](http://arxiv.org/abs/2604.21063v1)
 - 2026-04-22, **Decoding Text Spans for Efficient and Accurate Named-Entity Recognition**, Andrea Maracani et.al., Paper: [http://arxiv.org/abs/2604.20447v1](http://arxiv.org/abs/2604.20447v1)
+- 2026-03-29, **ESGLens: An LLM-Based RAG Framework for Interactive ESG Report Analysis and Score Prediction**, Tsung-Yu Yang et.al., Paper: [http://arxiv.org/abs/2604.19779v1](http://arxiv.org/abs/2604.19779v1)
 - 2026-04-21, **When Active Learning Falls Short: An Empirical Study on Chemical Reaction Extraction**, Simin Yu et.al., Paper: [http://arxiv.org/abs/2604.19335v1](http://arxiv.org/abs/2604.19335v1)
 - 2026-04-19, **DuConTE: Dual-Granularity Text Encoder with Topology-Constrained Attention for Text-attributed Graphs**, Lexuan Liang et.al., Paper: [http://arxiv.org/abs/2604.17411v1](http://arxiv.org/abs/2604.17411v1)
 - 2026-04-18, **Beyond Word Boundaries: A Hebrew Coreference Benchmark and an Evaluation Protocol for Morphologically Complex Text**, Refael Shaked Greenfeld et.al., Paper: [http://arxiv.org/abs/2604.17108v1](http://arxiv.org/abs/2604.17108v1)
 - 2026-04-18, **Comparing Human and Large Language Model Interpretation of Implicit Information**, Antonio De Santis et.al., Paper: [http://arxiv.org/abs/2604.17085v1](http://arxiv.org/abs/2604.17085v1), Code: **[https://github.com/Antonio-Dee/IIE_from_LLM](https://github.com/Antonio-Dee/IIE_from_LLM)**
 - 2026-04-17, **CBRS: Cognitive Blood Request System with Bilingual Dataset and Dual-Layer Filtering for Multi-Platform Social Streams**, Anik Saha et.al., Paper: [http://arxiv.org/abs/2604.16665v1](http://arxiv.org/abs/2604.16665v1), Code: **[https://github.com/aaniksahaa/CBRS](https://github.com/aaniksahaa/CBRS)**
+- 2026-03-21, **Clinical Note Bloat Reduction for Efficient LLM Use**, Jordan L. Cahoon et.al., Paper: [http://arxiv.org/abs/2604.16364v1](http://arxiv.org/abs/2604.16364v1)
 - 2026-04-17, **DiZiNER: Disagreement-guided Instruction Refinement via Pilot Annotation Simulation for Zero-shot Named Entity Recognition**, Siun Kim et.al., Paper: [http://arxiv.org/abs/2604.15866v1](http://arxiv.org/abs/2604.15866v1)
+- 2026-03-23, **SeaAlert: Critical Information Extraction From Maritime Distress Communications with Large Language Models**, Tomer Atia et.al., Paper: [http://arxiv.org/abs/2604.14163v1](http://arxiv.org/abs/2604.14163v1)
+- 2026-03-16, **AdaQE-CG: Adaptive Query Expansion for Web-Scale Generative AI Model and Data Card Generation**, Haoxuan Zhang et.al., Paper: [http://arxiv.org/abs/2604.09617v1](http://arxiv.org/abs/2604.09617v1), Code: **[https://github.com/haoxuan-unt2024/AdaQE-CG](https://github.com/haoxuan-unt2024/AdaQE-CG)**
+- 2026-03-16, **Extracting Breast Cancer Phenotypes from Clinical Notes: Comparing LLMs with Classical Ontology Methods**, Abdullah Bin Faiz et.al., Paper: [http://arxiv.org/abs/2604.06208v1](http://arxiv.org/abs/2604.06208v1)
+- 2026-03-09, **A Reliability Evaluation of Hybrid Deterministic-LLM Based Approaches for Academic Course Registration PDF Information Extraction**, Muhammad Anis Al Hilmi et.al., Paper: [http://arxiv.org/abs/2604.00003v1](http://arxiv.org/abs/2604.00003v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Recommendation System
 
 - 2026-04-23, **Multistakeholder Impacts of Profile Portability in a Recommender Ecosystem**, Anas Buhayh et.al., Paper: [http://arxiv.org/abs/2604.21750v1](http://arxiv.org/abs/2604.21750v1)
 - 2026-04-23, **Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**, Nikita Severin et.al., Paper: [http://arxiv.org/abs/2604.21536v1](http://arxiv.org/abs/2604.21536v1)
 - 2026-04-23, **A single algorithm for both restless and rested rotting bandits**, Julien Seznec et.al., Paper: [http://arxiv.org/abs/2604.21432v1](http://arxiv.org/abs/2604.21432v1)
+- 2026-02-11, **MATRAG: Multi-Agent Transparent Retrieval-Augmented Generation for Explainable Recommendations**, Sushant Mehta et.al., Paper: [http://arxiv.org/abs/2604.20848v1](http://arxiv.org/abs/2604.20848v1)
+- 2026-02-10, **Revisiting Content-Based Music Recommendation: Efficient Feature Aggregation from Large-Scale Music Models**, Yizhi Zhou et.al., Paper: [http://arxiv.org/abs/2604.20847v1](http://arxiv.org/abs/2604.20847v1), Code: **[https://github.com/zreach/TASTE](https://github.com/zreach/TASTE)**
 - 2026-04-22, **From Hidden Profiles to Governable Personalization: Recommender Systems in the Age of LLM Agents**, Jiahao Liu et.al., Paper: [http://arxiv.org/abs/2604.20065v1](http://arxiv.org/abs/2604.20065v1)
 - 2026-04-21, **From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems**, Quang-Huy Nguyen et.al., Paper: [http://arxiv.org/abs/2604.19663v1](http://arxiv.org/abs/2604.19663v1), Code: **[https://github.com/L2R-UET/CFExpRec](https://github.com/L2R-UET/CFExpRec)**
 - 2026-04-21, **MOSA: Motion-Guided Semantic Alignment for Dynamic Scene Graph Generation**, Xuejiao Wang et.al., Paper: [http://arxiv.org/abs/2604.19631v1](http://arxiv.org/abs/2604.19631v1)
@@ -146,13 +198,22 @@ layout: default
 - 2026-04-20, **Balanced Co-Clustering of Users and Items for Embedding Table Compression in Recommender Systems**, Runhao Jiang et.al., Paper: [http://arxiv.org/abs/2604.18351v1](http://arxiv.org/abs/2604.18351v1)
 - 2026-04-20, **Multi-LLM Token Filtering and Routing for Sequential Recommendation**, Wuhan Chen et.al., Paper: [http://arxiv.org/abs/2604.18200v1](http://arxiv.org/abs/2604.18200v1), Code: **[https://github.com/ccwwhhh/MLTFR](https://github.com/ccwwhhh/MLTFR)**
 - 2026-04-21, **Modular Representation Compression: Adapting LLMs for Efficient and Effective Recommendations**, Yunjia Xi et.al., Paper: [http://arxiv.org/abs/2604.18146v2](http://arxiv.org/abs/2604.18146v2)
+- 2026-03-11, **Beyond Single-Score Ranking: Facet-Aware Reranking for Controllable Diversity in Paper Recommendation**, Duan Ming Tao et.al., Paper: [http://arxiv.org/abs/2604.16329v1](http://arxiv.org/abs/2604.16329v1)
+- 2026-02-09, **Diagnosing LLM-based Rerankers in Cold-Start Recommender Systems: Coverage, Exposure and Practical Mitigations**, Ekaterina Lemdiasova et.al., Paper: [http://arxiv.org/abs/2604.16318v1](http://arxiv.org/abs/2604.16318v1)
+- 2026-03-17, **WorkRB: A Community-Driven Evaluation Framework for AI in the Work Domain**, Matthias De Lange et.al., Paper: [http://arxiv.org/abs/2604.13055v1](http://arxiv.org/abs/2604.13055v1), Code: **[https://github.com/techwolf-ai/WorkRB](https://github.com/techwolf-ai/WorkRB)**
+- 2026-03-16, **Hijacking online reviews: sparse manipulation and behavioral buffering in popularity-biased rating systems**, Itsuki Fujisaki et.al., Paper: [http://arxiv.org/abs/2604.13049v1](http://arxiv.org/abs/2604.13049v1)
+- 2026-01-26, **Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation**, Nicolas Bougie et.al., Paper: [http://arxiv.org/abs/2604.09549v1](http://arxiv.org/abs/2604.09549v1)
+- 2026-01-24, **Unbiased Rectification for Sequential Recommender Systems Under Fake Orders**, Qiyu Qin et.al., Paper: [http://arxiv.org/abs/2604.08550v1](http://arxiv.org/abs/2604.08550v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## Knowledge Graph
 
 - 2026-04-23, **GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**, Qizhuo Xie et.al., Paper: [http://arxiv.org/abs/2604.21649v1](http://arxiv.org/abs/2604.21649v1), Code: **[https://github.com/mikumifa/GS-Quant](https://github.com/mikumifa/GS-Quant)**
 - 2026-04-22, **GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons**, Sebastian Walter et.al., Paper: [http://arxiv.org/abs/2604.21133v1](http://arxiv.org/abs/2604.21133v1)
+- 2026-02-24, **Caesar: Deep Agentic Web Exploration for Creative Answer Synthesis**, Jason Liang et.al., Paper: [http://arxiv.org/abs/2604.20855v1](http://arxiv.org/abs/2604.20855v1)
+- 2026-02-11, **MATRAG: Multi-Agent Transparent Retrieval-Augmented Generation for Explainable Recommendations**, Sushant Mehta et.al., Paper: [http://arxiv.org/abs/2604.20848v1](http://arxiv.org/abs/2604.20848v1)
+- 2026-02-10, **AtomicRAG: Atom-Entity Graphs for Retrieval-Augmented Generation**, Yanning Hou et.al., Paper: [http://arxiv.org/abs/2604.20844v1](http://arxiv.org/abs/2604.20844v1), Code: **[https://github.com/7HHHHH/AtomicRAG](https://github.com/7HHHHH/AtomicRAG)**
 - 2026-04-22, **Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**, Pavel Salovskii et.al., Paper: [http://arxiv.org/abs/2604.20795v1](http://arxiv.org/abs/2604.20795v1)
 - 2026-04-22, **ORPHEAS: A Cross-Lingual Greek-English Embedding Model for Retrieval-Augmented Generation**, Ioannis E. Livieris et.al., Paper: [http://arxiv.org/abs/2604.20666v1](http://arxiv.org/abs/2604.20666v1)
 - 2026-04-22, **Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge**, Naizhong Xu et.al., Paper: [http://arxiv.org/abs/2604.20598v1](http://arxiv.org/abs/2604.20598v1)
@@ -161,8 +222,14 @@ layout: default
 - 2026-04-21, **Revisiting Catastrophic Forgetting in Continual Knowledge Graph Embedding**, Gerard Pons et.al., Paper: [http://arxiv.org/abs/2604.19401v1](http://arxiv.org/abs/2604.19401v1)
 - 2026-04-21, **Demonstrating Online Schema Alignment in Decentralized Knowledge Graphs Querying**, Bryan-Elliott Tam et.al., Paper: [http://arxiv.org/abs/2604.19205v1](http://arxiv.org/abs/2604.19205v1)
 - 2026-04-21, **Construction of Knowledge Graph based on Language Model**, Qiubai Zhu et.al., Paper: [http://arxiv.org/abs/2604.19137v1](http://arxiv.org/abs/2604.19137v1)
+- 2026-03-12, **BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning**, Xiaoyu Ma et.al., Paper: [http://arxiv.org/abs/2604.16331v1](http://arxiv.org/abs/2604.16331v1)
+- 2026-02-08, **CrossTraffic: An Open-Source Framework for Reproducible and Executable Transportation Analysis and Knowledge Management**, Rei Tamaru et.al., Paper: [http://arxiv.org/abs/2604.16316v1](http://arxiv.org/abs/2604.16316v1)
+- 2026-02-01, **FlexStructRAG: Flexible Structure-Aware Multi-Granular Relational Retrieval for RAG**, Mengzhu Chen et.al., Paper: [http://arxiv.org/abs/2604.16312v1](http://arxiv.org/abs/2604.16312v1)
+- 2026-03-09, **CID-TKG: Collaborative Historical Invariance and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**, Shuai-Long Lei et.al., Paper: [http://arxiv.org/abs/2604.09600v1](http://arxiv.org/abs/2604.09600v1)
+- 2026-03-31, **Ontology-based knowledge graph infrastructure for interoperable atomistic simulation data**, Abril Azocar Guzman et.al., Paper: [http://arxiv.org/abs/2604.06230v1](http://arxiv.org/abs/2604.06230v1)
+- 2026-03-30, **From PDF to RAG-Ready: Evaluating Document Conversion Frameworks for Domain-Specific Question Answering**, José Guilherme Marques dos Santos et.al., Paper: [http://arxiv.org/abs/2604.04948v1](http://arxiv.org/abs/2604.04948v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
 ## GNN
 
@@ -176,6 +243,10 @@ layout: default
 - 2026-04-22, **F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel**, Yutong Shen et.al., Paper: [http://arxiv.org/abs/2604.20736v1](http://arxiv.org/abs/2604.20736v1)
 - 2026-04-23, **StormNet: Improving storm surge predictions with a GNN-based spatio-temporal offset forecasting model**, Noujoud Nader et.al., Paper: [http://arxiv.org/abs/2604.20688v2](http://arxiv.org/abs/2604.20688v2)
 - 2026-04-22, **Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge**, Naizhong Xu et.al., Paper: [http://arxiv.org/abs/2604.20598v1](http://arxiv.org/abs/2604.20598v1)
+- 2026-03-11, **GNN-as-Judge: Unleashing the Power of LLMs for Graph Learning with GNN Feedback**, Ruiyao Xu et.al., Paper: [http://arxiv.org/abs/2604.08553v1](http://arxiv.org/abs/2604.08553v1)
+- 2026-03-24, **Multi-Agent Training-free Urban Food Delivery System using Resilient UMST Network**, Md Nahid Hasan et.al., Paper: [http://arxiv.org/abs/2604.03280v1](http://arxiv.org/abs/2604.03280v1)
+- 2026-02-08, **Homophily-aware Supervised Contrastive Counterfactual Augmented Fair Graph Neural Network**, Mahdi Tavassoli Kejani et.al., Paper: [http://arxiv.org/abs/2604.02342v1](http://arxiv.org/abs/2604.02342v1)
+- 2026-03-31, **Speeding Up Mixed-Integer Programming Solvers with Sparse Learning for Branching**, Selin Bayramoğlu et.al., Paper: [http://arxiv.org/abs/2604.00094v1](http://arxiv.org/abs/2604.00094v1)
 
-<p align=right>(<a href='#updated-on-20260425'>back to top</a>)</p>
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
