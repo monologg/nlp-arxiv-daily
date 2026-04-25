@@ -10,17 +10,32 @@ dependencies = [
 ]
 
 [dependency-groups]
-test = ["pytest==9.0.3"]
+test = ["pytest==9.0.3", "pytest-cov==7.1.0"]
 quality = ["pre-commit==4.6.0", "ruff==0.15.12"]
 
 [tool.uv]
 package = false
 
 [tool.pytest.ini_options]
-addopts = "-ra -v -l -m 'not integration'"
+addopts = "-ra -v -l -m 'not integration' --cov=nlp_arxiv_daily --cov-report=term-missing --cov-fail-under=90"
 markers = [
   "integration: 실제 외부 API/네트워크 호출이 필요한 통합 테스트 (arxiv, HF Papers)",
 ]
+
+[tool.coverage.run]
+source = ["nlp_arxiv_daily"]
+branch = true
+omit = ["nlp_arxiv_daily/__main__.py"]
+
+[tool.coverage.report]
+exclude_lines = [
+  "pragma: no cover",
+  "raise NotImplementedError",
+  "if __name__ == .__main__.:",
+  "if TYPE_CHECKING:",
+]
+show_missing = true
+skip_covered = false
 
 [tool.ruff]
 line-length = 120
@@ -42,10 +57,12 @@ exclude = [
 
 [tool.ruff.lint]
 ignore = ["C901", "E501", "E402"]
-select = ["C", "E", "F", "I", "W"]
+select = ["B", "C", "E", "F", "I", "SIM", "UP", "W"]
 
 [tool.ruff.lint.per-file-ignores]
 "__init__.py" = ["E402", "F401", "F403", "F811"]
+# Tests favor terse one-liner file reads and broad pytest.raises checks.
+"tests/*" = ["SIM115", "B017"]
 
 [tool.ruff.lint.isort]
 lines-after-imports = 2
