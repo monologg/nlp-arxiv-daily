@@ -13,7 +13,7 @@ set-style-dep:
 	uv sync --only-group quality --frozen --no-install-project --inexact
 
 set-test-dep:
-	uv sync --only-group test --frozen --no-install-project --inexact
+	uv sync --group test --frozen --no-install-project --inexact
 
 set-precommit:
 	uv run --frozen --only-group quality pre-commit install
@@ -22,7 +22,7 @@ set-dev:
 	uv sync --frozen --no-install-project
 
 set-test:
-	uv run --frozen --only-group test pytest tests/
+	uv run --frozen --group test pytest tests/
 
 set-style:
 	uv run --frozen --only-group quality ruff check --fix .
