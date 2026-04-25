@@ -1,0 +1,54 @@
+---
+import { parsePaperRow } from "../utils/paperRow.ts";
+
+interface Props {
+  paperId: string;
+  row: string;
+}
+
+const { paperId, row } = Astro.props;
+const parsed = parsePaperRow(row);
+---
+
+{parsed ? (
+  <article class="py-3 border-b border-[--color-muted]/15 last:border-b-0">
+    <div class="flex items-baseline justify-between gap-3 mb-1">
+      <h3 class="font-medium leading-snug">
+        <a
+          class="hover:text-[--color-accent] hover:underline"
+          href={parsed.paperUrl}
+          target="_blank"
+          rel="noopener"
+        >
+          {parsed.title}
+        </a>
+      </h3>
+      <time class="text-[--color-muted] text-xs whitespace-nowrap shrink-0">{parsed.date}</time>
+    </div>
+    <div class="flex items-center gap-3 text-sm text-[--color-muted]">
+      <span>{parsed.firstAuthor} et al.</span>
+      <a
+        class="text-[--color-accent] hover:underline"
+        href={parsed.paperUrl}
+        target="_blank"
+        rel="noopener"
+      >
+        arxiv:{paperId}
+      </a>
+      {parsed.codeLink && (
+        <a
+          class="text-[--color-accent] hover:underline"
+          href={parsed.codeLink}
+          target="_blank"
+          rel="noopener"
+        >
+          code
+        </a>
+      )}
+    </div>
+  </article>
+) : (
+  <article class="py-3 border-b border-[--color-muted]/15 last:border-b-0 text-[--color-muted] text-sm">
+    <span>{paperId}</span> — unparseable row
+  </article>
+)}
