@@ -6,18 +6,14 @@ import logging
 import os
 import re
 
-import arxiv
-import requests
 import yaml
 
+from nlp_arxiv_daily.fetcher import fetch_papers
 from nlp_arxiv_daily.types import PapersByKeyword, PapersByMonth
 
 
 logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s", datefmt="%m/%d/%Y %H:%M:%S", level=logging.INFO)
 
-HF_PAPERS_API = "https://huggingface.co/api/papers/"
-REQUEST_TIMEOUT = 10
-GITHUB_URL_RE = re.compile(r"https?://github\.com/[\w.-]+/[\w.-]+")
 ARXIV_KEY_RE = re.compile(r"^(\d{4})\.\d{4,5}")
 
 
@@ -75,15 +71,6 @@ def bucket_by_month(papers_by_keyword: PapersByKeyword) -> PapersByMonth:
     return by_month
 
 
-def get_authors(authors, first_author=False):
-    output = str()
-    if first_author is False:
-        output = ", ".join(str(author) for author in authors)
-    else:
-        output = authors[0]
-    return output
-
-
 def sort_papers(papers):
     output = {}
     keys = list(papers.keys())
@@ -93,70 +80,29 @@ def sort_papers(papers):
     return output
 
 
-def find_code_link(arxiv_id: str, summary: str | None = None) -> str | None:
-    """
-    Best-effort code repo URL lookup. Returns None when nothing is found.
-    Order: HuggingFace Papers `githubRepo` → github.com URL in arxiv summary.
-    """
-    try:
-        r = requests.get(f"{HF_PAPERS_API}{arxiv_id}", timeout=REQUEST_TIMEOUT)
-        if r.status_code == 200:
-            repo = r.json().get("githubRepo")
-            if repo:
-                return repo
-    except requests.RequestException as e:
-        logging.warning(f"HF Papers lookup failed for {arxiv_id}: {e}")
-
-    if summary:
-        m = GITHUB_URL_RE.search(summary)
-        if m:
-            return m.group(0).rstrip(".,);")
-
-    return None
-
-
 def get_daily_papers(topic, query="nlp", max_results=2):
     """
-    @param topic: str
-    @param query: str
-    @return paper_with_code: dict
+    Backward-compat adapter: fetch via `fetcher.fetch_papers`, then pre-render
+    markdown rows in the legacy shape. The pre-rendering lives here only until
+    PRSL-66 splits a proper renderer module out.
     """
-    content = {}
-    content_to_web = {}
-    client = arxiv.Client()
-    search = arxiv.Search(query=query, max_results=max_results, sort_by=arxiv.SortCriterion.SubmittedDate)
+    papers = fetch_papers(query=query, max_results=max_results)
 
-    for result in client.results(search):
-        paper_id = result.get_short_id()
-        paper_title = result.title
-        paper_url = result.entry_id
-        paper_first_author = get_authors(result.authors, first_author=True)
-        update_time = result.updated.date()
-
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
-
-        # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find("v")
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]
-
-        code_link = find_code_link(paper_key, summary=result.summary)
-        code_md = f"**[link]({code_link})**" if code_link else "null"
-        content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|{}|\n".format(
-            update_time, paper_title, paper_first_author, paper_id, paper_url, code_md
+    content: dict[str, str] = {}
+    content_to_web: dict[str, str] = {}
+    for p in papers:
+        code_md = f"**[link]({p.code_link})**" if p.code_link else "null"
+        content[p.paper_id] = "|**{}**|**{}**|{} et.al.|[{}]({})|{}|\n".format(
+            p.update_time, p.title, p.first_author, p.arxiv_short_id, p.paper_url, code_md
         )
         web_line = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-            update_time, paper_title, paper_first_author, paper_url, paper_url
+            p.update_time, p.title, p.first_author, p.paper_url, p.paper_url
         )
-        if code_link:
-            web_line += f", Code: **[{code_link}]({code_link})**"
-        content_to_web[paper_key] = web_line + "\n"
+        if p.code_link:
+            web_line += f", Code: **[{p.code_link}]({p.code_link})**"
+        content_to_web[p.paper_id] = web_line + "\n"
 
-    data = {topic: content}
-    data_web = {topic: content_to_web}
-    return data, data_web
+    return {topic: content}, {topic: content_to_web}
 
 
 def _yymm_to_archive_basename(yymm: str) -> str:

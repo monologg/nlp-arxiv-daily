@@ -9,14 +9,14 @@ This module exists so that:
 
 import requests  # noqa: F401  re-exported for tests that monkeypatch daily_arxiv.requests
 
-from nlp_arxiv_daily.__main__ import main
-from nlp_arxiv_daily.core import (
+from nlp_arxiv_daily import (
     ARXIV_KEY_RE,
     GITHUB_URL_RE,
     HF_PAPERS_API,
     REQUEST_TIMEOUT,
     bucket_by_month,
     demo,
+    fetch_papers,
     find_code_link,
     get_authors,
     get_daily_papers,
@@ -27,6 +27,7 @@ from nlp_arxiv_daily.core import (
     update_json_file,
     write_papers_split,
 )
+from nlp_arxiv_daily.__main__ import main
 
 
 __all__ = [
@@ -36,6 +37,7 @@ __all__ = [
     "REQUEST_TIMEOUT",
     "bucket_by_month",
     "demo",
+    "fetch_papers",
     "find_code_link",
     "get_authors",
     "get_daily_papers",
