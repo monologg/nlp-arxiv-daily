@@ -1,0 +1,9 @@
+{
+  "NLP": {
+    "2604.00002": "|**2026-04-22**|**Second Paper**|Bob et.al.|[2604.00002v1](http://arxiv.org/abs/2604.00002v1)|**[link](https://github.com/foo/bar)**|\n",
+    "2604.00001": "|**2026-04-21**|**First Paper**|Alice et.al.|[2604.00001v1](http://arxiv.org/abs/2604.00001v1)|null|\n"
+  },
+  "Question Answering": {
+    "2604.99999": "|**2026-04-20**|**A QA Paper**|Carol et.al.|[2604.99999v2](http://arxiv.org/abs/2604.99999v2)|null|\n"
+  }
+}
