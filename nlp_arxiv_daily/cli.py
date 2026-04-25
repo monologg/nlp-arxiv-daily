@@ -19,7 +19,7 @@ import sys
 from collections.abc import Iterator
 
 from nlp_arxiv_daily.core import get_daily_papers, load_config, papers_to_legacy_rows
-from nlp_arxiv_daily.fetcher import fetch_papers_in_range
+from nlp_arxiv_daily.fetcher import BACKFILL_DEFAULT_MAX_RESULTS, fetch_papers_in_range
 from nlp_arxiv_daily.renderer import json_to_md, render_archive_pages
 from nlp_arxiv_daily.storage import write_papers_split
 
@@ -127,14 +127,23 @@ def _iter_month_ranges(start: datetime.date, end: datetime.date) -> Iterator[tup
         cur = next_first
 
 
-def cmd_backfill(config: dict, *, start: datetime.date, end: datetime.date) -> None:
+def cmd_backfill(
+    config: dict,
+    *,
+    start: datetime.date,
+    end: datetime.date,
+    max_results: int = BACKFILL_DEFAULT_MAX_RESULTS,
+) -> None:
     """Fetch every (keyword × month) in [start, end] and merge into the archive.
 
     Idempotent — the underlying `write_papers_split` re-buckets all known
     papers, so re-running over an already-populated range is safe.
+
+    `max_results` controls per (keyword × month) cap. Defaults to the backfill-
+    appropriate ceiling (NOT `config["max_results"]`, which is the daily-fetch
+    cap of ~10 — far too low for a months-wide recovery).
     """
     keywords = config["kv"]
-    max_results = config["max_results"]
 
     data_collector = []
     data_collector_web = []
@@ -201,6 +210,12 @@ def build_parser() -> argparse.ArgumentParser:
         default=None,
         help="end month (inclusive), YYYY-MM (default: current month)",
     )
+    backfill.add_argument(
+        "--max-results",
+        type=int,
+        default=BACKFILL_DEFAULT_MAX_RESULTS,
+        help=f"max results per (keyword × month) query (default: {BACKFILL_DEFAULT_MAX_RESULTS})",
+    )
     return parser
 
 
@@ -216,7 +231,7 @@ def main(argv: list[str] | None = None) -> int:
 
     if command == "backfill":
         end = args.end if args.end is not None else _current_month_first()
-        cmd_backfill(config, start=args.start, end=end)
+        cmd_backfill(config, start=args.start, end=end, max_results=args.max_results)
         return 0
 
     # Resolve handler at call time so tests can monkeypatch cmd_* on this module.

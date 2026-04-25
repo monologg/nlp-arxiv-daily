@@ -178,9 +178,10 @@ class TestBackfillDispatch:
     def test_backfill_with_explicit_end_invokes_cmd_backfill(self, monkeypatch, fake_config_file):
         captured = {}
 
-        def fake(config, *, start, end):
+        def fake(config, *, start, end, max_results):
             captured["start"] = start
             captured["end"] = end
+            captured["max_results"] = max_results
 
         monkeypatch.setattr(cli, "cmd_backfill", fake)
         cli.main(
@@ -196,18 +197,42 @@ class TestBackfillDispatch:
         )
         assert captured["start"] == datetime.date(2025, 8, 1)
         assert captured["end"] == datetime.date(2026, 3, 1)
+        # Backfill default must NOT inherit config["max_results"] (which is the
+        # daily-fetch top-N cap of ~10) — it ignores config and uses the
+        # backfill-appropriate ceiling from fetcher.BACKFILL_DEFAULT_MAX_RESULTS.
+        assert captured["max_results"] >= 1000
 
     def test_backfill_default_end_is_current_month(self, monkeypatch, fake_config_file):
         captured = {}
         monkeypatch.setattr(
             cli,
             "cmd_backfill",
-            lambda config, *, start, end: captured.setdefault("end", end),
+            lambda config, *, start, end, max_results: captured.setdefault("end", end),
         )
         # Pin "today" so the test is deterministic.
         monkeypatch.setattr(cli, "_current_month_first", lambda: datetime.date(2026, 4, 1))
         cli.main(["--config_path", fake_config_file, "backfill", "--start", "2025-08"])
         assert captured["end"] == datetime.date(2026, 4, 1)
+
+    def test_backfill_max_results_override(self, monkeypatch, fake_config_file):
+        captured = {}
+        monkeypatch.setattr(
+            cli,
+            "cmd_backfill",
+            lambda config, *, start, end, max_results: captured.setdefault("max_results", max_results),
+        )
+        cli.main(
+            [
+                "--config_path",
+                fake_config_file,
+                "backfill",
+                "--start",
+                "2025-08",
+                "--max-results",
+                "50",
+            ]
+        )
+        assert captured["max_results"] == 50
 
     def test_backfill_requires_start(self, fake_config_file):
         with pytest.raises(SystemExit):
