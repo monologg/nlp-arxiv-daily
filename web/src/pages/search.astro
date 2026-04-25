@@ -1,0 +1,75 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Search from "astro-pagefind/components/Search";
+---
+
+<Layout title="Search — NLP Arxiv Daily" current="search">
+  <main class="max-w-3xl mx-auto px-6 py-10">
+    <header class="mb-6">
+      <h1 class="text-4xl font-bold mb-2">Search</h1>
+      <p class="text-[--color-muted] text-sm">
+        Full-text across every paper in the archive.
+      </p>
+    </header>
+
+    <Search
+      id="search"
+      className="pagefind-ui"
+      uiOptions={{
+        showImages: false,
+        showSubResults: true,
+        autofocus: true,
+        debounceTimeoutMs: 150,
+      }}
+    />
+  </main>
+
+  <script>
+    // Keep the URL ?q= in sync with the search input — makes results
+    // shareable via plain link copy/paste.
+    const sync = () => {
+      const input = document.querySelector<HTMLInputElement>(
+        "#search input[type='text']",
+      );
+      if (!input) return;
+
+      const url = new URL(window.location.href);
+      const initial = url.searchParams.get("q");
+      if (initial) {
+        input.value = initial;
+        input.dispatchEvent(new Event("input", { bubbles: true }));
+      }
+
+      input.addEventListener("input", (e) => {
+        const v = (e.target as HTMLInputElement).value;
+        const u = new URL(window.location.href);
+        if (v) {
+          u.searchParams.set("q", v);
+        } else {
+          u.searchParams.delete("q");
+        }
+        window.history.replaceState({}, "", u);
+      });
+    };
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", sync);
+    } else {
+      sync();
+    }
+  </script>
+
+  <style is:global>
+    /* Match Pagefind UI to our token palette so it inherits dark mode. */
+    :root {
+      --pagefind-ui-scale: 0.9;
+      --pagefind-ui-primary: var(--color-accent);
+      --pagefind-ui-text: var(--color-fg);
+      --pagefind-ui-background: var(--color-bg);
+      --pagefind-ui-border: var(--color-border);
+      --pagefind-ui-tag: var(--color-surface);
+      --pagefind-ui-border-radius: 6px;
+      --pagefind-ui-font: var(--font-sans);
+    }
+  </style>
+</Layout>

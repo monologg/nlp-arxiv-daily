@@ -3,7 +3,7 @@ import { withBase } from "../utils/url.ts";
 import ThemeToggle from "./ThemeToggle.astro";
 
 interface Props {
-  current?: "home" | "archive";
+  current?: "home" | "archive" | "search";
 }
 
 const { current = "home" } = Astro.props;
@@ -33,7 +33,29 @@ const { current = "home" } = Astro.props;
       >
         Archive
       </a>
-      {/* Search button slot — Pagefind wires up in PRSL-74 */}
+      <a
+        class:list={[
+          "inline-flex items-center justify-center w-9 h-9 rounded border border-[--color-border] hover:border-[--color-accent] hover:text-[--color-accent] transition-colors",
+          current === "search" && "border-[--color-accent] text-[--color-accent]",
+        ]}
+        href={withBase("/search/")}
+        aria-label="Search"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.8"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          class="w-4 h-4"
+          aria-hidden="true"
+        >
+          <circle cx="11" cy="11" r="7"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </a>
       <ThemeToggle />
     </nav>
   </div>

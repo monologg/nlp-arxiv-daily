@@ -11,9 +11,12 @@ const parsed = parsePaperRow(row);
 ---
 
 {parsed ? (
-  <article class="py-3 border-b border-[--color-muted]/15 last:border-b-0">
+  <article
+    class="py-3 border-b border-[--color-border] last:border-b-0"
+    data-pagefind-body
+  >
     <div class="flex items-baseline justify-between gap-3 mb-1">
-      <h3 class="font-medium leading-snug">
+      <h3 class="font-medium leading-snug" data-pagefind-meta="title">
         <a
           class="hover:text-[--color-accent] hover:underline"
           href={parsed.paperUrl}
@@ -23,15 +26,18 @@ const parsed = parsePaperRow(row);
           {parsed.title}
         </a>
       </h3>
-      <time class="text-[--color-muted] text-xs whitespace-nowrap shrink-0">{parsed.date}</time>
+      <time class="text-[--color-muted] text-xs whitespace-nowrap shrink-0" data-pagefind-meta="date">
+        {parsed.date}
+      </time>
     </div>
     <div class="flex items-center gap-3 text-sm text-[--color-muted]">
-      <span>{parsed.firstAuthor} et al.</span>
+      <span data-pagefind-meta="author">{parsed.firstAuthor} et al.</span>
       <a
         class="text-[--color-accent] hover:underline"
         href={parsed.paperUrl}
         target="_blank"
         rel="noopener"
+        data-pagefind-ignore
       >
         arxiv:{paperId}
       </a>
@@ -41,6 +47,7 @@ const parsed = parsePaperRow(row);
           href={parsed.codeLink}
           target="_blank"
           rel="noopener"
+          data-pagefind-ignore
         >
           code
         </a>
