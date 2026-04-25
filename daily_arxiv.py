@@ -2,6 +2,7 @@ import argparse
 import datetime
 import json
 import logging
+import os
 import re
 
 import arxiv
@@ -140,12 +141,12 @@ def update_json_file(filename, data_dict):
     """
     daily update json file using data_dict
     """
-    with open(filename, "r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
+    if os.path.exists(filename):
+        with open(filename, "r") as f:
+            content = f.read()
+        m = json.loads(content) if content else {}
+    else:
+        m = {}
 
     json_data = m.copy()
 

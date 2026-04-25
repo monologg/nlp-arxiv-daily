@@ -1,10 +1,11 @@
+import json
 import textwrap
 
 import pytest
 import requests
 
 import daily_arxiv
-from daily_arxiv import find_code_link, get_authors, load_config, sort_papers
+from daily_arxiv import find_code_link, get_authors, load_config, sort_papers, update_json_file
 
 
 class TestGetAuthors:
@@ -145,3 +146,24 @@ class TestFindCodeLink:
         self._patch_get(monkeypatch, status_code=404)
         summary = "We release code at https://github.com/acme/proj)."
         assert find_code_link("9999.00000", summary=summary) == "https://github.com/acme/proj"
+
+
+class TestUpdateJsonFile:
+    def test_creates_file_on_first_run_when_missing(self, tmp_path):
+        path = tmp_path / "papers.json"
+        update_json_file(str(path), [{"NLP": {"2208.10000": "row"}}])
+        assert json.loads(path.read_text()) == {"NLP": {"2208.10000": "row"}}
+
+    def test_treats_empty_file_as_empty_dict(self, tmp_path):
+        path = tmp_path / "papers.json"
+        path.write_text("")
+        update_json_file(str(path), [{"NLP": {"2208.10000": "row"}}])
+        assert json.loads(path.read_text()) == {"NLP": {"2208.10000": "row"}}
+
+    def test_merges_into_existing_keyword(self, tmp_path):
+        path = tmp_path / "papers.json"
+        path.write_text(json.dumps({"NLP": {"2108.09112": "old"}}))
+        update_json_file(str(path), [{"NLP": {"2208.10000": "new"}}])
+        assert json.loads(path.read_text()) == {
+            "NLP": {"2108.09112": "old", "2208.10000": "new"},
+        }
