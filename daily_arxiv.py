@@ -15,6 +15,7 @@ logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s", datefmt="%
 HF_PAPERS_API = "https://huggingface.co/api/papers/"
 REQUEST_TIMEOUT = 10
 GITHUB_URL_RE = re.compile(r"https?://github\.com/[\w.-]+/[\w.-]+")
+ARXIV_KEY_RE = re.compile(r"^(\d{4})\.\d{4,5}")
 
 
 def load_config(config_file: str) -> dict:
@@ -51,6 +52,24 @@ def load_config(config_file: str) -> dict:
         config["kv"] = pretty_filters(**config)
         logging.info(f"config = {config}")
     return config
+
+
+def bucket_by_month(papers_by_keyword: dict) -> dict:
+    """
+    {keyword: {paper_key: line}} → {yymm: {keyword: {paper_key: line}}}.
+    paper_key matching ARXIV_KEY_RE (e.g. "2604.21637") is bucketed by its YYMM
+    prefix. Keys that don't match are silently dropped — defensive against any
+    legacy entries that don't follow arxiv's id format.
+    """
+    by_month: dict = {}
+    for keyword, papers in papers_by_keyword.items():
+        for key, line in papers.items():
+            m = ARXIV_KEY_RE.match(key)
+            if not m:
+                continue
+            yymm = m.group(1)
+            by_month.setdefault(yymm, {}).setdefault(keyword, {})[key] = line
+    return by_month
 
 
 def get_authors(authors, first_author=False):
@@ -137,6 +156,70 @@ def get_daily_papers(topic, query="nlp", max_results=2):
     return data, data_web
 
 
+def _yymm_to_archive_basename(yymm: str) -> str:
+    return f"20{yymm[:2]}-{yymm[2:]}"
+
+
+def _current_yymm() -> str:
+    today = datetime.date.today()
+    return f"{today.year % 100:02d}{today.month:02d}"
+
+
+def _load_papers_json(path: str, into: dict) -> None:
+    if not os.path.exists(path):
+        return
+    with open(path, "r") as f:
+        content = f.read()
+    if not content:
+        return
+    for kw, papers in json.loads(content).items():
+        into.setdefault(kw, {}).update(papers)
+
+
+def write_papers_split(
+    new_papers_list: list,
+    main_json_path: str,
+    archive_dir: str,
+    current_yymm: str | None = None,
+) -> None:
+    """
+    Re-bucket all known papers (existing main + archive + new daily) by YYMM and
+    write current month → main_json_path, older months → archive_dir/YYYY-MM.json.
+
+    Idempotent: running with new_papers_list=[] re-distributes existing data.
+    Migration is implicit — first run with a legacy "all months in main" file
+    splits it.
+    """
+    if current_yymm is None:
+        current_yymm = _current_yymm()
+
+    accumulated: dict = {}
+    _load_papers_json(main_json_path, accumulated)
+    if os.path.isdir(archive_dir):
+        for name in sorted(os.listdir(archive_dir)):
+            if name.endswith(".json"):
+                _load_papers_json(os.path.join(archive_dir, name), accumulated)
+
+    for new_papers in new_papers_list:
+        for kw, papers in new_papers.items():
+            accumulated.setdefault(kw, {}).update(papers)
+
+    by_month = bucket_by_month(accumulated)
+
+    main_dir = os.path.dirname(main_json_path)
+    if main_dir:
+        os.makedirs(main_dir, exist_ok=True)
+    main_bucket = by_month.pop(current_yymm, {})
+    with open(main_json_path, "w") as f:
+        json.dump(main_bucket, f)
+
+    os.makedirs(archive_dir, exist_ok=True)
+    for yymm, bucket in by_month.items():
+        archive_path = os.path.join(archive_dir, f"{_yymm_to_archive_basename(yymm)}.json")
+        with open(archive_path, "w") as f:
+            json.dump(bucket, f)
+
+
 def update_json_file(filename, data_dict):
     """
     daily update json file using data_dict
@@ -174,6 +257,7 @@ def json_to_md(
     show_badge=True,
     user_name="",
     repo_name="",
+    archive_index_link="",
 ):
     """
     @param filename: str
@@ -220,6 +304,9 @@ def json_to_md(
             f.write("## Updated on " + DateNow + "\n\n")
         else:
             f.write("> Updated on " + DateNow + "\n\n")
+
+        if archive_index_link:
+            f.write(f"> Older months: [archive]({archive_index_link})\n\n")
 
         # Add: table of contents
         if use_tc is True:
@@ -278,6 +365,55 @@ def json_to_md(
     logging.info(f"{task} finished")
 
 
+def render_archive_pages(
+    archive_json_dir: str,
+    archive_md_dir: str,
+    to_web: bool = False,
+    show_badge: bool = False,
+    user_name: str = "",
+    repo_name: str = "",
+) -> None:
+    """
+    Render every {YYYY-MM}.json under archive_json_dir to a sibling
+    {YYYY-MM}.md under archive_md_dir, plus an index.md listing months desc.
+    No-op when archive_json_dir doesn't exist.
+    """
+    if not os.path.isdir(archive_json_dir):
+        return
+    os.makedirs(archive_md_dir, exist_ok=True)
+
+    months = []
+    for name in sorted(os.listdir(archive_json_dir)):
+        if not name.endswith(".json"):
+            continue
+        stem = name[:-5]
+        json_to_md(
+            os.path.join(archive_json_dir, name),
+            os.path.join(archive_md_dir, f"{stem}.md"),
+            task=f"archive {stem}",
+            to_web=to_web,
+            show_badge=show_badge,
+            user_name=user_name,
+            repo_name=repo_name,
+        )
+        months.append(stem)
+
+    _write_archive_index(archive_md_dir, months, to_web=to_web)
+
+
+def _write_archive_index(archive_md_dir: str, months: list, to_web: bool = False) -> None:
+    path = os.path.join(archive_md_dir, "index.md")
+    months_desc = sorted(months, reverse=True)
+    with open(path, "w") as f:
+        if to_web:
+            f.write("---\nlayout: default\n---\n\n")
+        f.write("# Archive\n\n")
+        f.write("Older monthly snapshots.\n\n")
+        f.write("| Month |\n|---|\n")
+        for m in months_desc:
+            f.write(f"| [{m}]({m}.md) |\n")
+
+
 def demo(**config):
     data_collector = []
     data_collector_web = []
@@ -299,15 +435,25 @@ def demo(**config):
         print("\n")
     logging.info("GET daily papers end")
 
-    # 1. update README.md file
+    # 1. update README.md file (current month only; older months → docs/archive/)
     if publish_readme:
         json_file = config["json_readme_path"]
         md_file = config["md_readme_path"]
-        update_json_file(json_file, data_collector)
+        archive_json_dir = config["archive_readme_json_dir"]
+        archive_md_dir = config["archive_readme_md_dir"]
+        write_papers_split(data_collector, json_file, archive_json_dir)
         json_to_md(
             json_file,
             md_file,
             task="Update Readme",
+            show_badge=show_badge,
+            user_name=user_name,
+            repo_name=repo_name,
+            archive_index_link="docs/archive/index.md",
+        )
+        render_archive_pages(
+            archive_json_dir,
+            archive_md_dir,
             show_badge=show_badge,
             user_name=user_name,
             repo_name=repo_name,
@@ -317,11 +463,22 @@ def demo(**config):
     if publish_gitpage:
         json_file = config["json_gitpage_path"]
         md_file = config["md_gitpage_path"]
-        update_json_file(json_file, data_collector)
+        archive_json_dir = config["archive_gitpage_json_dir"]
+        archive_md_dir = config["archive_gitpage_md_dir"]
+        write_papers_split(data_collector_web, json_file, archive_json_dir)
         json_to_md(
             json_file,
             md_file,
             task="Update GitPage",
+            to_web=True,
+            show_badge=show_badge,
+            user_name=user_name,
+            repo_name=repo_name,
+            archive_index_link="archive-web/index.md",
+        )
+        render_archive_pages(
+            archive_json_dir,
+            archive_md_dir,
             to_web=True,
             show_badge=show_badge,
             user_name=user_name,
