@@ -221,6 +221,17 @@ class TestJsonToMd:
         json_to_md(json_file, str(md_path), show_badge=False)
         assert "archive" not in md_path.read_text().lower()
 
+    def test_to_web_omits_markdown_table_header(self, tmp_path):
+        path = tmp_path / "papers.json"
+        path.write_text(json.dumps({"NLP": {"2604.21637": "- 2026-04-22, **T**, A et.al., Paper: [u](u)\n"}}))
+        md_path = tmp_path / "index.md"
+        json_to_md(str(path), str(md_path), to_web=True, show_badge=False)
+        rendered = md_path.read_text()
+        assert "| Publish Date |" not in rendered
+        assert "|:---------|" not in rendered
+        assert "## NLP" in rendered
+        assert "- 2026-04-22" in rendered
+
 
 class TestBucketByMonth:
     def test_groups_by_yymm_prefix(self):
