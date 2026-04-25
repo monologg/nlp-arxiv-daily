@@ -6,14 +6,24 @@ import Footer from "../components/Footer.astro";
 interface Props {
   title: string;
   description?: string;
-  current?: "home" | "archive";
+  current?: "home" | "archive" | "search";
+  /** Slug under /og/ that maps to the page (e.g. "index", "archive",
+   * "archive/2026-03"). Layout builds the absolute og:image URL. */
+  ogSlug?: string;
 }
 
 const {
   title,
   description = "Daily-updated NLP arxiv paper digest",
   current = "home",
+  ogSlug = "index",
 } = Astro.props;
+
+const ogImage = new URL(
+  `${import.meta.env.BASE_URL.replace(/\/$/, "")}/og/${ogSlug}.png`,
+  Astro.site,
+).toString();
+const canonical = new URL(Astro.url.pathname, Astro.site).toString();
 ---
 
 <!doctype html>
@@ -22,7 +32,23 @@ const {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
     <title>{title}</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="NLP Arxiv Daily"
+      href={new URL(`${import.meta.env.BASE_URL.replace(/\/$/, "")}/rss.xml`, Astro.site).toString()}
+    />
     <!-- Pre-paint theme bootstrap. Reads stored preference, falls back to
          system pref, sets the .dark class before first paint to avoid FOUC.
          is:inline so Astro doesn't bundle it as a deferred module. -->
