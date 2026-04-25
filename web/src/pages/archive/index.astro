@@ -1,0 +1,28 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+const months = (await getCollection("archive")).map((entry) => entry.id).sort().reverse();
+---
+
+<Layout title="Archive — NLP Arxiv Daily">
+  <main class="max-w-3xl mx-auto px-6 py-12">
+    <header class="mb-10">
+      <h1 class="text-4xl font-bold mb-2">Archive</h1>
+      <p class="text-[--color-muted]">
+        {months.length} monthly snapshots.
+        <a class="text-[--color-accent] underline" href="/nlp-arxiv-daily/">Back to current month</a>.
+      </p>
+    </header>
+
+    <ul class="space-y-1">
+      {months.map((month) => (
+        <li class="border-b border-[--color-muted]/20 py-2">
+          <a class="text-[--color-accent] hover:underline" href={`/nlp-arxiv-daily/archive/${month}/`}>
+            {month}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </main>
+</Layout>

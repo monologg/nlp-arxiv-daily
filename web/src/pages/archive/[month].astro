@@ -1,22 +1,30 @@
 ---
-import Layout from "../layouts/Layout.astro";
-import currentPapers from "../../../docs/nlp-arxiv-daily-web.json";
-import { paperBucketSchema } from "../content.config.ts";
+import Layout from "../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
 
-// Validate the current-month JSON at build time using the same Zod schema
-// as the archive collection. Catches malformed Python output before deploy.
-const data = paperBucketSchema.parse(currentPapers);
+export async function getStaticPaths() {
+  const entries = await getCollection("archive");
+  return entries.map((entry) => ({
+    params: { month: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const data = entry.data;
 const keywords = Object.entries(data).filter(([, papers]) => Object.keys(papers).length > 0);
 const totalPapers = keywords.reduce((sum, [, papers]) => sum + Object.keys(papers).length, 0);
 ---
 
-<Layout title="NLP Arxiv Daily">
+<Layout title={`${entry.id} — NLP Arxiv Daily`}>
   <main class="max-w-3xl mx-auto px-6 py-12">
     <header class="mb-10">
-      <h1 class="text-4xl font-bold mb-2">NLP Arxiv Daily</h1>
+      <p class="text-[--color-muted] text-sm mb-2">
+        <a class="text-[--color-accent] hover:underline" href="/nlp-arxiv-daily/archive/">← all archives</a>
+      </p>
+      <h1 class="text-4xl font-bold mb-2">{entry.id}</h1>
       <p class="text-[--color-muted]">
-        {totalPapers} papers across {keywords.length} keywords this month.
-        Older months: <a class="text-[--color-accent] underline" href="/nlp-arxiv-daily/archive/">archive</a>.
+        {totalPapers} papers across {keywords.length} keywords.
       </p>
     </header>
 
@@ -25,9 +33,7 @@ const totalPapers = keywords.reduce((sum, [, papers]) => sum + Object.keys(paper
       <ul class="space-y-1">
         {keywords.map(([keyword, papers]) => (
           <li class="flex justify-between border-b border-[--color-muted]/20 py-2">
-            <a class="text-[--color-accent] hover:underline" href={`#${keyword.toLowerCase().replace(/\s+/g, "-")}`}>
-              {keyword}
-            </a>
+            <span>{keyword}</span>
             <span class="text-[--color-muted] text-sm">{Object.keys(papers).length}</span>
           </li>
         ))}
