@@ -56,7 +56,14 @@ def cmd_fetch(config: dict) -> None:
 
 
 def cmd_render(config: dict) -> None:
-    """Read the persisted JSON splits, render README/gitpage/archive markdown."""
+    """Render README + README-archive markdown.
+
+    The gitpage flavor (docs/index.md + docs/archive-web/*.md) was retired
+    in PRSL-77's cutover — the Astro site under web/ now consumes the
+    gitpage JSON files directly, so there's no markdown to write for it.
+    `publish_gitpage` therefore controls only the JSON persistence in
+    `cmd_fetch`, not anything in this function.
+    """
     show_badge = config["show_badge"]
     user_name = config["user_name"]
     repo_name = config["repo_name"]
@@ -74,26 +81,6 @@ def cmd_render(config: dict) -> None:
         render_archive_pages(
             config["archive_readme_json_dir"],
             config["archive_readme_md_dir"],
-            show_badge=show_badge,
-            user_name=user_name,
-            repo_name=repo_name,
-        )
-
-    if config["publish_gitpage"]:
-        json_to_md(
-            config["json_gitpage_path"],
-            config["md_gitpage_path"],
-            task="Update GitPage",
-            to_web=True,
-            show_badge=show_badge,
-            user_name=user_name,
-            repo_name=repo_name,
-            archive_index_link="archive-web/index.md",
-        )
-        render_archive_pages(
-            config["archive_gitpage_json_dir"],
-            config["archive_gitpage_md_dir"],
-            to_web=True,
             show_badge=show_badge,
             user_name=user_name,
             repo_name=repo_name,

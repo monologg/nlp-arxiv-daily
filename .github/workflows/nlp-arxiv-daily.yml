@@ -37,7 +37,11 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update NLP Arxiv Papers"
-          files: README.md docs/nlp-arxiv-daily.json docs/nlp-arxiv-daily-web.json docs/index.md docs/archive docs/archive-web
+          # docs/index.md and docs/archive-web/*.md were retired in PRSL-77
+          # cutover — Astro renders the gitpage flavor at build time. We still
+          # commit the gitpage JSON files (Astro reads them) and the README
+          # archive markdown (rendered for the GitHub repo browser).
+          files: README.md docs/nlp-arxiv-daily.json docs/nlp-arxiv-daily-web.json docs/archive docs/archive-web
           rebase: "true"
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
