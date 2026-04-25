@@ -164,7 +164,17 @@ def update_json_file(filename, data_dict):
         json.dump(json_data, f)
 
 
-def json_to_md(filename, md_filename, task="", to_web=False, use_title=True, use_tc=True, show_badge=True):
+def json_to_md(
+    filename,
+    md_filename,
+    task="",
+    to_web=False,
+    use_title=True,
+    use_tc=True,
+    show_badge=True,
+    user_name="",
+    repo_name="",
+):
     """
     @param filename: str
     @param md_filename: str
@@ -193,17 +203,10 @@ def json_to_md(filename, md_filename, task="", to_web=False, use_title=True, use
 
     with open(filename, "r") as f:
         content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+    data = json.loads(content) if content else {}
 
-    # clean README.md if daily already exist else create it
-    with open(md_filename, "w+") as f:
-        pass
-
-    # write data into README.md
-    with open(md_filename, "a+") as f:
+    repo_slug = f"{user_name}/{repo_name}"
+    with open(md_filename, "w") as f:
         if (use_title is True) and (to_web is True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
 
@@ -262,33 +265,15 @@ def json_to_md(filename, md_filename, task="", to_web=False, use_title=True, use
 
         if show_badge is True:
             f.write(
-                (
-                    "[contributors-shield]: https://img.shields.io/github/"
-                    "contributors/monologg/nlp-arxiv-daily.svg?style=for-the-badge\n"
-                )
+                f"[contributors-shield]: https://img.shields.io/github/contributors/{repo_slug}.svg?style=for-the-badge\n"
             )
-            f.write(("[contributors-url]: https://github.com/monologg/nlp-arxiv-daily/graphs/contributors\n"))
-            f.write(
-                (
-                    "[forks-shield]: https://img.shields.io/github/forks/monologg/"
-                    "nlp-arxiv-daily.svg?style=for-the-badge\n"
-                )
-            )
-            f.write(("[forks-url]: https://github.com/monologg/nlp-arxiv-daily/network/members\n"))
-            f.write(
-                (
-                    "[stars-shield]: https://img.shields.io/github/stars/monologg/"
-                    "nlp-arxiv-daily.svg?style=for-the-badge\n"
-                )
-            )
-            f.write(("[stars-url]: https://github.com/monologg/nlp-arxiv-daily/stargazers\n"))
-            f.write(
-                (
-                    "[issues-shield]: https://img.shields.io/github/issues/monologg/"
-                    "nlp-arxiv-daily.svg?style=for-the-badge\n"
-                )
-            )
-            f.write(("[issues-url]: https://github.com/monologg/nlp-arxiv-daily/issues\n\n"))
+            f.write(f"[contributors-url]: https://github.com/{repo_slug}/graphs/contributors\n")
+            f.write(f"[forks-shield]: https://img.shields.io/github/forks/{repo_slug}.svg?style=for-the-badge\n")
+            f.write(f"[forks-url]: https://github.com/{repo_slug}/network/members\n")
+            f.write(f"[stars-shield]: https://img.shields.io/github/stars/{repo_slug}.svg?style=for-the-badge\n")
+            f.write(f"[stars-url]: https://github.com/{repo_slug}/stargazers\n")
+            f.write(f"[issues-shield]: https://img.shields.io/github/issues/{repo_slug}.svg?style=for-the-badge\n")
+            f.write(f"[issues-url]: https://github.com/{repo_slug}/issues\n\n")
 
     logging.info(f"{task} finished")
 
@@ -302,6 +287,8 @@ def demo(**config):
     publish_readme = config["publish_readme"]
     publish_gitpage = config["publish_gitpage"]
     show_badge = config["show_badge"]
+    user_name = config["user_name"]
+    repo_name = config["repo_name"]
 
     logging.info("GET daily papers begin")
     for topic, keyword in keywords.items():
@@ -317,14 +304,29 @@ def demo(**config):
         json_file = config["json_readme_path"]
         md_file = config["md_readme_path"]
         update_json_file(json_file, data_collector)
-        json_to_md(json_file, md_file, task="Update Readme", show_badge=show_badge)
+        json_to_md(
+            json_file,
+            md_file,
+            task="Update Readme",
+            show_badge=show_badge,
+            user_name=user_name,
+            repo_name=repo_name,
+        )
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
         json_file = config["json_gitpage_path"]
         md_file = config["md_gitpage_path"]
         update_json_file(json_file, data_collector)
-        json_to_md(json_file, md_file, task="Update GitPage", to_web=True, show_badge=show_badge)
+        json_to_md(
+            json_file,
+            md_file,
+            task="Update GitPage",
+            to_web=True,
+            show_badge=show_badge,
+            user_name=user_name,
+            repo_name=repo_name,
+        )
 
 
 if __name__ == "__main__":
