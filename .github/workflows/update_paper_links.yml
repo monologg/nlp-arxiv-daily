@@ -1,48 +1,36 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Run Update Paper Links Weekly
 
-# Controls when the workflow will run
 on:
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron: "0 8 * * 1" #Run At 08:00 on Monday
-  # Triggers the workflow on push or pull request events but only for the main branch
-#   push:
-#     branches:
-#     - main
+    - cron: "0 8 * * 1"
 
 env:
   GITHUB_USER_NAME: nlp-arxiv-daily-bot
   GITHUB_USER_EMAIL: nlp-arxiv-daily-bot@gmail.com
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
     name: update
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Set up Python Env
-        uses: actions/setup-python@v4
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
-          #architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+          python-version: "3.13"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          make set-dev
+        run: make set-dev
 
       - name: Run daily arxiv
-        run: |
-          python daily_arxiv.py --update_paper_links
+        run: uv run --frozen python daily_arxiv.py --update_paper_links
 
       - name: Push new nlp-arxiv-daily.md
         uses: github-actions-x/commit@v2.9

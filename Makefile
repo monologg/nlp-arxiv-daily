@@ -1,7 +1,8 @@
-clean: clean-pyc clean-test
+clean: clean-pyc clean-test clean-lint-and-formatter clean-uv
 quality: set-style-dep check-quality
 style: set-style-dep set-style
-setup: set-precommit set-style-dep set-test-dep set-git set-dev
+setup: set-git set-dev set-style-dep set-test-dep set-precommit
+test: set-test-dep set-test
 
 
 ##### basic #####
@@ -9,30 +10,30 @@ set-git:
 	git config --local commit.template .gitmessage
 
 set-style-dep:
-	pip3 install isort==5.10.1 black==22.3.0 flake8==4.0.1
+	uv sync --only-group quality --frozen --no-install-project --inexact
 
 set-test-dep:
-	pip3 install pytest==7.0.1
+	uv sync --group test --frozen --no-install-project --inexact
 
 set-precommit:
-	pip3 install pre-commit==2.17.0
-	pre-commit install
+	uv run --frozen --only-group quality pre-commit install
 
 set-dev:
-	pip3 install -r requirements.txt
+	uv sync --frozen --no-install-project
 
 set-test:
-	python3 -m pytest tests/
+	uv run --frozen --group test pytest tests/
 
 set-style:
-	black --config pyproject.toml .
-	isort --settings-path pyproject.toml .
-	flake8 .
+	uv run --frozen --only-group quality ruff check --fix .
+	uv run --frozen --only-group quality ruff format .
 
 check-quality:
-	black --config pyproject.toml --check .
-	isort --settings-path pyproject.toml --check-only .
-	flake8 .
+	uv run --frozen --only-group quality ruff check .
+	uv run --frozen --only-group quality ruff format --check .
+
+check-lock:
+	uv lock --check
 
 #####  clean  #####
 clean-pyc:
@@ -46,3 +47,10 @@ clean-test:
 	rm -f .coverage.*
 	rm -rf .pytest_cache
 	rm -rf .mypy_cache
+
+clean-lint-and-formatter:
+	rm -rf .ruff_cache
+
+clean-uv:
+	uv cache clean
+	uv cache prune

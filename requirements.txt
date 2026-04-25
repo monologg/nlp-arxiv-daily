@@ -1,3 +1,0 @@
-requests>=2.28.2
-arxiv>=3.0.0
-pyyaml>=6.0

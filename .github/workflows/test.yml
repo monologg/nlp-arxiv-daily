@@ -1,9 +1,9 @@
-name: check-lint
+name: test
 
 on: [pull_request]
 
 jobs:
-  check-lint:
+  test:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,8 +18,5 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v6
 
-      - name: Check lock file
-        run: make check-lock
-
-      - name: Check Lint
-        run: make quality
+      - name: Run tests
+        run: make test

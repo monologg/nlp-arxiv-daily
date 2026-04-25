@@ -8,6 +8,7 @@ import arxiv
 import requests
 import yaml
 
+
 logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s", datefmt="%m/%d/%Y %H:%M:%S", level=logging.INFO)
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
@@ -20,9 +21,10 @@ def load_config(config_file: str) -> dict:
     config_file: input config file path
     return: a dict of configuration
     """
+
     # make filters pretty
     def pretty_filters(**config) -> dict:
-        keywords = dict()
+        keywords = {}
         EXCAPE = '"'
         QUOTA = ""  # NO-USE
         OR = "OR"  # TODO
@@ -60,7 +62,7 @@ def get_authors(authors, first_author=False):
 
 
 def sort_papers(papers):
-    output = dict()
+    output = {}
     keys = list(papers.keys())
     keys.sort(reverse=True)
     for key in keys:
@@ -93,13 +95,12 @@ def get_daily_papers(topic, query="nlp", max_results=2):
     @return paper_with_code: dict
     """
     # output
-    content = dict()
-    content_to_web = dict()
+    content = {}
+    content_to_web = {}
     client = arxiv.Client()
     search = arxiv.Search(query=query, max_results=max_results, sort_by=arxiv.SortCriterion.SubmittedDate)
 
     for result in client.results(search):
-
         paper_id = result.get_short_id()
         paper_title = result.title
         paper_url = result.entry_id
@@ -268,7 +269,6 @@ def json_to_md(filename, md_filename, task="", to_web=False, use_title=True, use
 
     # write data into README.md
     with open(md_filename, "a+") as f:
-
         if (use_title is True) and (to_web is True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
 
@@ -335,28 +335,28 @@ def json_to_md(filename, md_filename, task="", to_web=False, use_title=True, use
                     "contributors/monologg/nlp-arxiv-daily.svg?style=for-the-badge\n"
                 )
             )
-            f.write(("[contributors-url]: https://github.com/monologg/" "nlp-arxiv-daily/graphs/contributors\n"))
+            f.write(("[contributors-url]: https://github.com/monologg/nlp-arxiv-daily/graphs/contributors\n"))
             f.write(
                 (
                     "[forks-shield]: https://img.shields.io/github/forks/monologg/"
                     "nlp-arxiv-daily.svg?style=for-the-badge\n"
                 )
             )
-            f.write(("[forks-url]: https://github.com/monologg/" "nlp-arxiv-daily/network/members\n"))
+            f.write(("[forks-url]: https://github.com/monologg/nlp-arxiv-daily/network/members\n"))
             f.write(
                 (
                     "[stars-shield]: https://img.shields.io/github/stars/monologg/"
                     "nlp-arxiv-daily.svg?style=for-the-badge\n"
                 )
             )
-            f.write(("[stars-url]: https://github.com/monologg/" "nlp-arxiv-daily/stargazers\n"))
+            f.write(("[stars-url]: https://github.com/monologg/nlp-arxiv-daily/stargazers\n"))
             f.write(
                 (
                     "[issues-shield]: https://img.shields.io/github/issues/monologg/"
                     "nlp-arxiv-daily.svg?style=for-the-badge\n"
                 )
             )
-            f.write(("[issues-url]: https://github.com/monologg/" "nlp-arxiv-daily/issues\n\n"))
+            f.write(("[issues-url]: https://github.com/monologg/nlp-arxiv-daily/issues\n\n"))
 
     logging.info(f"{task} finished")
 
