@@ -1,10 +1,42 @@
 @import "tailwindcss";
 
-/* Theme tokens — placeholder palette. Tightened in PRSL-73 (dark mode). */
+/* Tailwind v4 dark variant — `dark:` utilities resolve when an ancestor has
+   the `dark` class. Layout.astro adds it to <html> based on system pref or
+   stored preference, before first paint. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Light-mode palette. The token names are referenced by Tailwind's arbitrary
+   value syntax (e.g. `bg-[--color-bg]`) and via plain CSS vars. */
 @theme {
   --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --color-bg: oklch(0.99 0 0);
-  --color-fg: oklch(0.2 0.01 250);
-  --color-muted: oklch(0.55 0.01 250);
-  --color-accent: oklch(0.55 0.18 260);
+  --color-surface: oklch(0.97 0.005 260);
+  --color-fg: oklch(0.22 0.02 260);
+  --color-muted: oklch(0.5 0.02 260);
+  --color-border: oklch(0.88 0.01 260);
+  --color-accent: oklch(0.5 0.18 260);
+  --color-accent-fg: oklch(0.99 0 0);
+}
+
+/* Dark-mode overrides. Token *names* stay identical so component code
+   doesn't branch — only the values change. */
+:where(.dark) {
+  --color-bg: oklch(0.16 0.015 260);
+  --color-surface: oklch(0.21 0.015 260);
+  --color-fg: oklch(0.95 0.005 260);
+  --color-muted: oklch(0.65 0.02 260);
+  --color-border: oklch(0.32 0.015 260);
+  --color-accent: oklch(0.78 0.16 260);
+  --color-accent-fg: oklch(0.16 0.015 260);
+}
+
+/* Smooth color crossfade when toggling theme. */
+html {
+  color-scheme: light dark;
+}
+html.dark {
+  color-scheme: dark;
+}
+body {
+  transition: background-color 150ms ease, color 150ms ease;
 }
