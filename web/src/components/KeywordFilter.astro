@@ -1,0 +1,101 @@
+---
+interface Props {
+  keywords: string[];
+}
+
+const { keywords } = Astro.props;
+---
+
+<div
+  id="keyword-filter"
+  class="mb-6 flex flex-wrap items-center gap-2"
+  data-pagefind-ignore="all"
+>
+  <button
+    type="button"
+    data-filter-all
+    class="filter-pill px-3 py-1 text-sm rounded border border-[--color-border] hover:border-[--color-accent] data-[active=true]:bg-[--color-accent] data-[active=true]:text-[--color-accent-fg] data-[active=true]:border-[--color-accent] transition-colors"
+    data-active="true"
+  >
+    All
+  </button>
+  {keywords.map((keyword) => {
+    const slug = keyword.toLowerCase().replace(/\s+/g, "-");
+    return (
+      <button
+        type="button"
+        data-filter-keyword={slug}
+        data-keyword-label={keyword}
+        class="filter-pill px-3 py-1 text-sm rounded border border-[--color-border] hover:border-[--color-accent] data-[active=true]:bg-[--color-accent] data-[active=true]:text-[--color-accent-fg] data-[active=true]:border-[--color-accent] transition-colors"
+        data-active="false"
+      >
+        {keyword}
+      </button>
+    );
+  })}
+</div>
+
+<script>
+  // The filter is index-only client behavior. Reads ?kw=foo,bar on load,
+  // writes back via history.replaceState as the user toggles. State is
+  // a Set<string> of active keyword slugs; empty = "All".
+  const QUERY_KEY = "kw";
+  const filterRoot = document.getElementById("keyword-filter");
+
+  if (filterRoot) {
+    const allBtn = filterRoot.querySelector<HTMLButtonElement>("[data-filter-all]")!;
+    const keywordBtns = Array.from(
+      filterRoot.querySelectorAll<HTMLButtonElement>("[data-filter-keyword]"),
+    );
+    const sections = Array.from(
+      document.querySelectorAll<HTMLElement>("section[id]"),
+    ).filter((el) => keywordBtns.some((b) => b.dataset.filterKeyword === el.id));
+
+    const readUrl = (): Set<string> => {
+      const url = new URL(window.location.href);
+      const raw = url.searchParams.get(QUERY_KEY);
+      return new Set(raw ? raw.split(",").filter(Boolean) : []);
+    };
+
+    const writeUrl = (active: Set<string>) => {
+      const url = new URL(window.location.href);
+      if (active.size === 0) {
+        url.searchParams.delete(QUERY_KEY);
+      } else {
+        url.searchParams.set(QUERY_KEY, Array.from(active).sort().join(","));
+      }
+      window.history.replaceState({}, "", url);
+    };
+
+    const apply = (active: Set<string>) => {
+      const showAll = active.size === 0;
+      allBtn.dataset.active = String(showAll);
+      for (const btn of keywordBtns) {
+        const slug = btn.dataset.filterKeyword!;
+        btn.dataset.active = String(!showAll && active.has(slug));
+      }
+      for (const section of sections) {
+        const matches = showAll || active.has(section.id);
+        section.style.display = matches ? "" : "none";
+      }
+    };
+
+    let active = readUrl();
+    apply(active);
+
+    allBtn.addEventListener("click", () => {
+      active = new Set();
+      apply(active);
+      writeUrl(active);
+    });
+    for (const btn of keywordBtns) {
+      btn.addEventListener("click", () => {
+        const slug = btn.dataset.filterKeyword!;
+        if (active.has(slug)) active.delete(slug);
+        else active.add(slug);
+        apply(active);
+        writeUrl(active);
+      });
+    }
+  }
+</script>
