@@ -1,0 +1,23 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "Daily-updated NLP arxiv paper digest" } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+  <body class="bg-[--color-bg] text-[--color-fg] font-sans min-h-screen antialiased">
+    <slot />
+  </body>
+</html>
