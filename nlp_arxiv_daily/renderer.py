@@ -132,7 +132,7 @@ def render_index(
         today = datetime.date.today()
     date_now = _date_now_str(today)
 
-    with open(json_path, "r") as f:
+    with open(json_path) as f:
         content = f.read()
     data: PapersByKeyword = json.loads(content) if content else {}
 

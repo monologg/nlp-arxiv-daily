@@ -39,7 +39,7 @@ def load_config(config_file: str) -> dict:
             keywords[k] = parse_filters(v["filters"])
         return keywords
 
-    with open(config_file, "r") as f:
+    with open(config_file) as f:
         config = yaml.load(f, Loader=yaml.FullLoader)
         config["kv"] = pretty_filters(**config)
         logging.info(f"config = {config}")
@@ -58,12 +58,10 @@ def get_daily_papers(topic, query="nlp", max_results=2):
     content_to_web: dict[str, str] = {}
     for p in papers:
         code_md = f"**[link]({p.code_link})**" if p.code_link else "null"
-        content[p.paper_id] = "|**{}**|**{}**|{} et.al.|[{}]({})|{}|\n".format(
-            p.update_time, p.title, p.first_author, p.arxiv_short_id, p.paper_url, code_md
+        content[p.paper_id] = (
+            f"|**{p.update_time}**|**{p.title}**|{p.first_author} et.al.|[{p.arxiv_short_id}]({p.paper_url})|{code_md}|\n"
         )
-        web_line = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-            p.update_time, p.title, p.first_author, p.paper_url, p.paper_url
-        )
+        web_line = f"- {p.update_time}, **{p.title}**, {p.first_author} et.al., Paper: [{p.paper_url}]({p.paper_url})"
         if p.code_link:
             web_line += f", Code: **[{p.code_link}]({p.code_link})**"
         content_to_web[p.paper_id] = web_line + "\n"

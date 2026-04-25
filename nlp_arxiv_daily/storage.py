@@ -41,7 +41,7 @@ def _current_yymm() -> str:
 def _load_papers_json(path: str, into: dict) -> None:
     if not os.path.exists(path):
         return
-    with open(path, "r") as f:
+    with open(path) as f:
         content = f.read()
     if not content:
         return
@@ -98,7 +98,7 @@ def update_json_file(filename, data_dict):
     daily update json file using data_dict
     """
     if os.path.exists(filename):
-        with open(filename, "r") as f:
+        with open(filename) as f:
             content = f.read()
         m = json.loads(content) if content else {}
     else:
@@ -108,10 +108,10 @@ def update_json_file(filename, data_dict):
 
     # update papers in each keywords
     for data in data_dict:
-        for keyword in data.keys():
+        for keyword in data:
             papers = data[keyword]
 
-            if keyword in json_data.keys():
+            if keyword in json_data:
                 json_data[keyword].update(papers)
             else:
                 json_data[keyword] = papers
