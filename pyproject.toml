@@ -17,7 +17,10 @@ quality = ["pre-commit==4.6.0", "ruff==0.15.12"]
 package = false
 
 [tool.pytest.ini_options]
-addopts = "-ra -v -l"
+addopts = "-ra -v -l -m 'not integration'"
+markers = [
+  "integration: 실제 외부 API/네트워크 호출이 필요한 통합 테스트 (arxiv, HF Papers)",
+]
 
 [tool.ruff]
 line-length = 120

@@ -18,5 +18,8 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v6
 
-      - name: Run tests
+      - name: Run unit tests
         run: make test
+
+      - name: Run integration tests
+        run: make test-integration
