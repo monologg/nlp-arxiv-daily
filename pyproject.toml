@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "Automatically update NLP arxiv papers daily"
 requires-python = ">=3.13,<3.14"
 dependencies = [
-  "requests==2.33.1",
   "arxiv==3.0.0",
   "pyyaml==6.0.3",
 ]
