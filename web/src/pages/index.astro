@@ -1,5 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import KeywordFilter from "../components/KeywordFilter.astro";
 import KeywordSection from "../components/KeywordSection.astro";
 import TableOfContents from "../components/TableOfContents.astro";
 import currentPapers from "../../../docs/nlp-arxiv-daily-web.json";
@@ -27,6 +28,7 @@ const today = new Date().toISOString().slice(0, 10);
 
     {keywords.length > 0 ? (
       <>
+        <KeywordFilter keywords={keywords.map(([k]) => k)} />
         <TableOfContents keywords={keywords} />
         {keywords.map(([keyword, papers]) => (
           <KeywordSection keyword={keyword} papers={papers} />
