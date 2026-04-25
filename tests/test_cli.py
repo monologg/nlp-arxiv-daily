@@ -7,6 +7,7 @@ persisted JSON), and `fetch`-only must NOT touch markdown. The cron path
 
 from __future__ import annotations
 
+import datetime
 import textwrap
 
 import pytest
@@ -134,3 +135,80 @@ class TestCmdRunInvocation:
         monkeypatch.setattr(cli, "cmd_render", lambda config: order.append("render"))
         cli.main(["--config_path", fake_config_file, "run"])
         assert order == ["fetch", "render"]
+
+
+class TestParseYyyyMm:
+    def test_parses_valid_yyyy_mm(self):
+        assert cli._parse_yyyy_mm("2025-08") == datetime.date(2025, 8, 1)
+
+    @pytest.mark.parametrize("bad", ["", "2025", "2025-13-01", "abc-08", "2025/08"])
+    def test_rejects_invalid(self, bad):
+        with pytest.raises(Exception):
+            cli._parse_yyyy_mm(bad)
+
+
+class TestIterMonthRanges:
+    def test_single_month(self):
+        ranges = list(cli._iter_month_ranges(datetime.date(2025, 8, 1), datetime.date(2025, 8, 1)))
+        assert ranges == [(datetime.date(2025, 8, 1), datetime.date(2025, 8, 31))]
+
+    def test_year_boundary(self):
+        # Dec 2025 → Feb 2026
+        ranges = list(cli._iter_month_ranges(datetime.date(2025, 12, 1), datetime.date(2026, 2, 1)))
+        assert [m[0] for m in ranges] == [
+            datetime.date(2025, 12, 1),
+            datetime.date(2026, 1, 1),
+            datetime.date(2026, 2, 1),
+        ]
+        assert ranges[0][1] == datetime.date(2025, 12, 31)
+        assert ranges[1][1] == datetime.date(2026, 1, 31)
+        assert ranges[2][1] == datetime.date(2026, 2, 28)
+
+    def test_normalizes_mid_month_inputs(self):
+        # _parse_yyyy_mm always emits day=1, but the helper should still cope
+        # with mid-month inputs by clamping to month boundaries.
+        ranges = list(cli._iter_month_ranges(datetime.date(2025, 8, 17), datetime.date(2025, 9, 5)))
+        assert [m[0] for m in ranges] == [
+            datetime.date(2025, 8, 1),
+            datetime.date(2025, 9, 1),
+        ]
+
+
+class TestBackfillDispatch:
+    def test_backfill_with_explicit_end_invokes_cmd_backfill(self, monkeypatch, fake_config_file):
+        captured = {}
+
+        def fake(config, *, start, end):
+            captured["start"] = start
+            captured["end"] = end
+
+        monkeypatch.setattr(cli, "cmd_backfill", fake)
+        cli.main(
+            [
+                "--config_path",
+                fake_config_file,
+                "backfill",
+                "--start",
+                "2025-08",
+                "--end",
+                "2026-03",
+            ]
+        )
+        assert captured["start"] == datetime.date(2025, 8, 1)
+        assert captured["end"] == datetime.date(2026, 3, 1)
+
+    def test_backfill_default_end_is_current_month(self, monkeypatch, fake_config_file):
+        captured = {}
+        monkeypatch.setattr(
+            cli,
+            "cmd_backfill",
+            lambda config, *, start, end: captured.setdefault("end", end),
+        )
+        # Pin "today" so the test is deterministic.
+        monkeypatch.setattr(cli, "_current_month_first", lambda: datetime.date(2026, 4, 1))
+        cli.main(["--config_path", fake_config_file, "backfill", "--start", "2025-08"])
+        assert captured["end"] == datetime.date(2026, 4, 1)
+
+    def test_backfill_requires_start(self, fake_config_file):
+        with pytest.raises(SystemExit):
+            cli.main(["--config_path", fake_config_file, "backfill"])

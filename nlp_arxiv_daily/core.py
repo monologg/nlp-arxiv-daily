@@ -5,9 +5,32 @@ import logging
 import yaml
 
 from nlp_arxiv_daily.fetcher import fetch_papers
+from nlp_arxiv_daily.types import Paper
 
 
 logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s", datefmt="%m/%d/%Y %H:%M:%S", level=logging.INFO)
+
+
+def papers_to_legacy_rows(papers: list[Paper], topic: str) -> tuple[dict, dict]:
+    """Render a list[Paper] into ({topic: {paper_id: row}}, {topic: {paper_id: web_row}}).
+
+    Shared by `get_daily_papers` (daily cron) and `cli.cmd_backfill` so both
+    persist data in the same JSON shape the renderer expects.
+    """
+    content: dict[str, str] = {}
+    content_to_web: dict[str, str] = {}
+    for p in papers:
+        code_md = f"**[link]({p.code_link})**" if p.code_link else "null"
+        content[p.paper_id] = (
+            f"|**{p.update_time}**|**{p.title}**|{p.first_author} et.al."
+            f"|[{p.arxiv_short_id}]({p.paper_url})|{code_md}|\n"
+        )
+        web_line = f"- {p.update_time}, **{p.title}**, {p.first_author} et.al., Paper: [{p.paper_url}]({p.paper_url})"
+        if p.code_link:
+            web_line += f", Code: **[{p.code_link}]({p.code_link})**"
+        content_to_web[p.paper_id] = web_line + "\n"
+
+    return {topic: content}, {topic: content_to_web}
 
 
 def load_config(config_file: str) -> dict:
@@ -53,20 +76,7 @@ def get_daily_papers(topic, query="nlp", max_results=2):
     JSON files in the existing format the renderer expects.
     """
     papers = fetch_papers(query=query, max_results=max_results)
-
-    content: dict[str, str] = {}
-    content_to_web: dict[str, str] = {}
-    for p in papers:
-        code_md = f"**[link]({p.code_link})**" if p.code_link else "null"
-        content[p.paper_id] = (
-            f"|**{p.update_time}**|**{p.title}**|{p.first_author} et.al.|[{p.arxiv_short_id}]({p.paper_url})|{code_md}|\n"
-        )
-        web_line = f"- {p.update_time}, **{p.title}**, {p.first_author} et.al., Paper: [{p.paper_url}]({p.paper_url})"
-        if p.code_link:
-            web_line += f", Code: **[{p.code_link}]({p.code_link})**"
-        content_to_web[p.paper_id] = web_line + "\n"
-
-    return {topic: content}, {topic: content_to_web}
+    return papers_to_legacy_rows(papers, topic)
 
 
 def demo(**config) -> None:

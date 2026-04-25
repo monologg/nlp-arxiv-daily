@@ -213,3 +213,104 @@ class TestEndToEndPipeline:
         assert workspace["readme"].exists()
         assert workspace["index"].exists()
         assert "Paper A" in workspace["readme"].read_text()
+
+
+class TestBackfillE2E:
+    def test_backfill_populates_archives_for_each_month(self, monkeypatch, workspace):
+        """Backfill 3 months → 3 separate archive files, each holding only its
+        own month's papers, plus README/index regenerated end-to-end."""
+        # arxiv.Client + Search are recreated per-call inside fetch_papers_in_range.
+        # Fake them to return a different paper per month based on the search query.
+        from nlp_arxiv_daily import fetcher
+
+        # Map "submittedDate prefix YYYYMM" → list of fake results
+        results_by_month = {
+            "202508": [
+                _FakeArxivResult(
+                    short_id="2508.00001v1",
+                    title="August Paper",
+                    updated=datetime.datetime(2025, 8, 12),
+                    entry_id="http://arxiv.org/abs/2508.00001v1",
+                )
+            ],
+            "202509": [
+                _FakeArxivResult(
+                    short_id="2509.00099v1",
+                    title="September Paper",
+                    updated=datetime.datetime(2025, 9, 5),
+                    entry_id="http://arxiv.org/abs/2509.00099v1",
+                )
+            ],
+            "202510": [
+                _FakeArxivResult(
+                    short_id="2510.12345v2",
+                    title="October Paper",
+                    updated=datetime.datetime(2025, 10, 30),
+                    entry_id="http://arxiv.org/abs/2510.12345v2",
+                )
+            ],
+        }
+
+        captured_queries = []
+
+        class _RangeFakeClient:
+            def results(self, search):
+                # Look at the search's query at call time, after _CapturingSearch ran.
+                for prefix, papers in results_by_month.items():
+                    if f"submittedDate:[{prefix}" in search.query:
+                        return iter(papers)
+                return iter([])
+
+        class _CapturingSearch:
+            def __init__(self, query, max_results, sort_by):
+                self.query = query
+                self.max_results = max_results
+                self.sort_by = sort_by
+                captured_queries.append(self)
+
+        monkeypatch.setattr(fetcher.arxiv, "Client", lambda **kw: _RangeFakeClient())
+        monkeypatch.setattr(fetcher.arxiv, "Search", _CapturingSearch)
+        monkeypatch.setattr(fetcher, "find_code_link", lambda *a, **kw: None)
+
+        # Pin "today" so the storage layer files are placed deterministically.
+        from nlp_arxiv_daily import storage
+
+        monkeypatch.setattr(storage, "_current_yymm", lambda: "2604")
+
+        rc = cli.main(
+            [
+                "--config_path",
+                workspace["config"],
+                "backfill",
+                "--start",
+                "2025-08",
+                "--end",
+                "2025-10",
+            ]
+        )
+        assert rc == 0
+
+        # Each month became its own archive JSON
+        aug = json.loads((workspace["archive"] / "2025-08.json").read_text())
+        assert "2508.00001" in aug["NLP"]
+        sep = json.loads((workspace["archive"] / "2025-09.json").read_text())
+        assert "2509.00099" in sep["NLP"]
+        octj = json.loads((workspace["archive"] / "2025-10.json").read_text())
+        assert "2510.12345" in octj["NLP"]
+
+        # And rendered markdown for each
+        aug_md = (workspace["archive"] / "2025-08.md").read_text()
+        sep_md = (workspace["archive"] / "2025-09.md").read_text()
+        assert "August Paper" in aug_md
+        assert "September Paper" not in aug_md
+        assert "September Paper" in sep_md
+
+        # Archive index lists all three months descending
+        index = (workspace["archive"] / "index.md").read_text()
+        assert index.index("2025-10") < index.index("2025-09") < index.index("2025-08")
+
+        # 3 months × 1 keyword = 3 arxiv queries
+        assert len(captured_queries) == 3
+        # Sanity: each query has the date-range clause
+        for q in captured_queries:
+            assert "submittedDate:[" in q.query
