@@ -1,15 +1,3 @@
-"""Backward-compat shim. Real logic lives in `nlp_arxiv_daily`.
-
-This module exists so that:
-- `python daily_arxiv.py` (the cron workflow entrypoint) keeps working.
-- `from daily_arxiv import ...` (used by tests) keeps resolving the same names.
-- `monkeypatch.setattr(daily_arxiv.requests, "get", ...)` keeps working,
-  because `requests` is imported here.
-"""
-
-import requests  # noqa: F401  re-exported for tests that monkeypatch daily_arxiv.requests
-
-from nlp_arxiv_daily.__main__ import main
 from nlp_arxiv_daily.core import (
     ARXIV_KEY_RE,
     GITHUB_URL_RE,
@@ -27,6 +15,7 @@ from nlp_arxiv_daily.core import (
     update_json_file,
     write_papers_split,
 )
+from nlp_arxiv_daily.types import KeywordConfig, Paper, PapersByKeyword, PapersByMonth
 
 
 __all__ = [
@@ -34,6 +23,10 @@ __all__ = [
     "GITHUB_URL_RE",
     "HF_PAPERS_API",
     "REQUEST_TIMEOUT",
+    "KeywordConfig",
+    "Paper",
+    "PapersByKeyword",
+    "PapersByMonth",
     "bucket_by_month",
     "demo",
     "find_code_link",
@@ -46,7 +39,3 @@ __all__ = [
     "update_json_file",
     "write_papers_split",
 ]
-
-
-if __name__ == "__main__":
-    main()
