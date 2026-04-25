@@ -3,6 +3,7 @@ quality: set-style-dep check-quality
 style: set-style-dep set-style
 setup: set-git set-dev set-style-dep set-test-dep set-precommit
 test: set-test-dep set-test
+test-integration: set-test-dep set-test-integration
 
 
 ##### basic #####
@@ -23,6 +24,9 @@ set-dev:
 
 set-test:
 	uv run --frozen --group test pytest tests/
+
+set-test-integration:
+	uv run --frozen --group test pytest -m integration tests/
 
 set-style:
 	uv run --frozen --only-group quality ruff check --fix .
