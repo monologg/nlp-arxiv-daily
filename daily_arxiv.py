@@ -12,6 +12,7 @@ logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s", datefmt="%
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
+REQUEST_TIMEOUT = 10
 
 
 def load_config(config_file: str) -> dict:
@@ -77,7 +78,7 @@ def get_code_link(qword: str) -> str:
     # query = f"arxiv:{arxiv_id}"
     query = f"{qword}"
     params = {"q": query, "sort": "stars", "order": "desc"}
-    r = requests.get(github_url, params=params)
+    r = requests.get(github_url, params=params, timeout=REQUEST_TIMEOUT)
     results = r.json()
     code_link = None
     if results["total_count"] > 0:
@@ -121,7 +122,7 @@ def get_daily_papers(topic, query="nlp", max_results=2):
 
         try:
             # source code link
-            r = requests.get(code_url).json()
+            r = requests.get(code_url, timeout=REQUEST_TIMEOUT).json()
             repo_url = None
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
@@ -184,7 +185,7 @@ def update_paper_links(filename):
                     continue
                 try:
                     code_url = base_url + paper_id  # TODO
-                    r = requests.get(code_url).json()
+                    r = requests.get(code_url, timeout=REQUEST_TIMEOUT).json()
                     repo_url = None
                     if "official" in r and r["official"]:
                         repo_url = r["official"]["url"]
