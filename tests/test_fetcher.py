@@ -3,7 +3,12 @@ import datetime
 import pytest
 
 from nlp_arxiv_daily import fetcher
-from nlp_arxiv_daily.fetcher import _strip_version_suffix, fetch_papers, get_authors
+from nlp_arxiv_daily.fetcher import (
+    _strip_version_suffix,
+    fetch_papers,
+    fetch_papers_in_range,
+    get_authors,
+)
 from nlp_arxiv_daily.types import Paper
 
 
@@ -38,15 +43,27 @@ class _FakeClient:
 
 
 def _patch_arxiv(monkeypatch, results):
-    monkeypatch.setattr(fetcher.arxiv, "Client", lambda: _FakeClient(results))
+    """Patch arxiv with a single result list. Captures the last constructed
+    Search and Client(...) kwargs on `fetcher._last_search` / `_last_client_kwargs`
+    so tests can assert query / delay_seconds.
+    """
+    captured = {"search": None, "client_kwargs": None}
+
+    def fake_client(**kwargs):
+        captured["client_kwargs"] = kwargs
+        return _FakeClient(results)
+
+    monkeypatch.setattr(fetcher.arxiv, "Client", fake_client)
 
     class _FakeSearch:
         def __init__(self, query, max_results, sort_by):
             self.query = query
             self.max_results = max_results
             self.sort_by = sort_by
+            captured["search"] = self
 
     monkeypatch.setattr(fetcher.arxiv, "Search", _FakeSearch)
+    return captured
 
 
 def _silence_code_link(monkeypatch):
@@ -134,6 +151,92 @@ class TestFetchPapers:
 
         papers = fetch_papers(query="x", max_results=1)
         assert papers[0].code_link == "https://github.com/foo/bar"
+
+
+class TestFetchPapersInRange:
+    def test_builds_composite_query_with_submitted_date(self, monkeypatch):
+        _silence_code_link(monkeypatch)
+        captured = _patch_arxiv(monkeypatch, [])
+
+        fetch_papers_in_range(
+            query='NLPOR"Natural Language Processing"',
+            start=datetime.date(2025, 8, 1),
+            end=datetime.date(2025, 8, 31),
+            max_results=500,
+        )
+
+        assert captured["search"] is not None
+        q = captured["search"].query
+        # Combined: keyword filter wrapped in parens AND submittedDate range.
+        assert '(NLPOR"Natural Language Processing")' in q
+        assert "submittedDate:[202508010000 TO 202508312359]" in q
+        assert " AND " in q
+        assert captured["search"].max_results == 500
+
+    def test_uses_arxiv_client_with_rate_limit(self, monkeypatch):
+        _silence_code_link(monkeypatch)
+        captured = _patch_arxiv(monkeypatch, [])
+
+        fetch_papers_in_range(
+            query="NLP",
+            start=datetime.date(2025, 8, 1),
+            end=datetime.date(2025, 8, 31),
+        )
+
+        # arxiv.Client must be constructed with delay_seconds >= 3 to respect
+        # the API's published 3s minimum between requests.
+        kwargs = captured["client_kwargs"]
+        assert kwargs is not None
+        assert kwargs.get("delay_seconds", 0) >= 3
+
+    def test_returns_typed_papers_for_in_range_results(self, monkeypatch):
+        _silence_code_link(monkeypatch)
+        results = [
+            _FakeArxivResult(
+                short_id="2508.00001v1",
+                title="Aug paper",
+                authors=["Alice"],
+                updated=datetime.datetime(2025, 8, 15, 10, 0, 0),
+                entry_id="http://arxiv.org/abs/2508.00001v1",
+            )
+        ]
+        _patch_arxiv(monkeypatch, results)
+
+        papers = fetch_papers_in_range(
+            query="NLP",
+            start=datetime.date(2025, 8, 1),
+            end=datetime.date(2025, 8, 31),
+        )
+        assert len(papers) == 1
+        p = papers[0]
+        assert isinstance(p, Paper)
+        assert p.paper_id == "2508.00001"
+        assert p.update_time == datetime.date(2025, 8, 15)
+
+    def test_default_max_results_is_high_for_backfill(self, monkeypatch):
+        _silence_code_link(monkeypatch)
+        captured = _patch_arxiv(monkeypatch, [])
+
+        fetch_papers_in_range(
+            query="NLP",
+            start=datetime.date(2025, 8, 1),
+            end=datetime.date(2025, 8, 31),
+        )
+        # The default should be high enough that a busy keyword for one month
+        # doesn't get truncated. Daily fetch uses 10; backfill needs hundreds.
+        assert captured["search"].max_results >= 1000
+
+    def test_end_date_includes_full_day(self, monkeypatch):
+        _silence_code_link(monkeypatch)
+        captured = _patch_arxiv(monkeypatch, [])
+
+        fetch_papers_in_range(
+            query="NLP",
+            start=datetime.date(2025, 8, 1),
+            end=datetime.date(2025, 8, 31),
+        )
+        # Otherwise we miss anything submitted on the 31st after 00:00.
+        assert "202508312359" in captured["search"].query
 
 
 class TestGetDailyPapersAdapter:
