@@ -1,5 +1,6 @@
 ---
 import { withBase } from "../utils/url.ts";
+import ThemeToggle from "./ThemeToggle.astro";
 
 interface Props {
   current?: "home" | "archive";
@@ -8,7 +9,7 @@ interface Props {
 const { current = "home" } = Astro.props;
 ---
 
-<header class="border-b border-[--color-muted]/20">
+<header class="border-b border-[--color-border]">
   <div class="max-w-3xl mx-auto px-6 py-4 flex items-center justify-between">
     <a class="font-semibold tracking-tight" href={withBase("/")}>
       NLP Arxiv Daily
@@ -17,7 +18,7 @@ const { current = "home" } = Astro.props;
       <a
         class:list={[
           "hover:text-[--color-accent]",
-          current === "home" && "font-medium",
+          current === "home" && "font-medium text-[--color-accent]",
         ]}
         href={withBase("/")}
       >
@@ -26,14 +27,14 @@ const { current = "home" } = Astro.props;
       <a
         class:list={[
           "hover:text-[--color-accent]",
-          current === "archive" && "font-medium",
+          current === "archive" && "font-medium text-[--color-accent]",
         ]}
         href={withBase("/archive/")}
       >
         Archive
       </a>
       {/* Search button slot — Pagefind wires up in PRSL-74 */}
-      {/* Theme toggle slot — lands in PRSL-73 */}
+      <ThemeToggle />
     </nav>
   </div>
 </header>

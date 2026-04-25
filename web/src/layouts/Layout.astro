@@ -23,6 +23,24 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <title>{title}</title>
+    <!-- Pre-paint theme bootstrap. Reads stored preference, falls back to
+         system pref, sets the .dark class before first paint to avoid FOUC.
+         is:inline so Astro doesn't bundle it as a deferred module. -->
+    <script is:inline>
+      (function () {
+        try {
+          var stored = localStorage.getItem("theme");
+          var prefersDark = window.matchMedia(
+            "(prefers-color-scheme: dark)",
+          ).matches;
+          if (stored === "dark" || (!stored && prefersDark)) {
+            document.documentElement.classList.add("dark");
+          }
+        } catch (_) {
+          /* localStorage may be blocked in private mode — fall back to light */
+        }
+      })();
+    </script>
   </head>
   <body class="bg-[--color-bg] text-[--color-fg] font-sans min-h-screen flex flex-col antialiased">
     <Header current={current} />
