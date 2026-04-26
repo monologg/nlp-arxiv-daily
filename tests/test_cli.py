@@ -178,7 +178,7 @@ class TestBackfillDispatch:
     def test_backfill_with_explicit_end_invokes_cmd_backfill(self, monkeypatch, fake_config_file):
         captured = {}
 
-        def fake(config, *, start, end, max_results):
+        def fake(config, *, start, end, max_results, **_):
             captured["start"] = start
             captured["end"] = end
             captured["max_results"] = max_results
@@ -207,7 +207,7 @@ class TestBackfillDispatch:
         monkeypatch.setattr(
             cli,
             "cmd_backfill",
-            lambda config, *, start, end, max_results: captured.setdefault("end", end),
+            lambda config, *, start, end, max_results, **_: captured.setdefault("end", end),
         )
         # Pin "today" so the test is deterministic.
         monkeypatch.setattr(cli, "_current_month_first", lambda: datetime.date(2026, 4, 1))
@@ -219,7 +219,7 @@ class TestBackfillDispatch:
         monkeypatch.setattr(
             cli,
             "cmd_backfill",
-            lambda config, *, start, end, max_results: captured.setdefault("max_results", max_results),
+            lambda config, *, start, end, max_results, **_: captured.setdefault("max_results", max_results),
         )
         cli.main(
             [

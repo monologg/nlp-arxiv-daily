@@ -59,3 +59,42 @@ keywords:
     filters: ["Knowledge Graph", "Knowledge Graphs"]
   "GNN":
     filters: ["GNN", "Graph Neural Network"]
+
+  # --- LLM-era tags (added 2026-04 to track post-ChatGPT research themes) ---
+
+  "LLM":
+    filters: ["Large Language Model", "Large Language Models", "LLM"]
+  "LLM Agent":
+    filters: ["LLM Agent", "Language Agent", "Autonomous Agent", "AI Agent", "Agentic"]
+  "Multi-Agent":
+    filters: ["Multi-Agent", "Multi Agent System", "Multi-Agent System"]
+  "RAG":
+    filters: ["Retrieval-Augmented Generation", "Retrieval Augmented Generation", "RAG"]
+  "Reasoning":
+    filters: ["LLM Reasoning", "Chain-of-Thought", "Chain of Thought", "Reasoning Model"]
+  "Multimodal LLM":
+    filters: ["Multimodal LLM", "Vision-Language Model", "Vision Language Model", "VLM", "MLLM"]
+  "LLM Evaluation":
+    filters: ["LLM Evaluation", "LLM Benchmark", "LLM-as-a-Judge", "LLM as a Judge"]
+
+  "Alignment":
+    filters: ["RLHF", "DPO", "Preference Learning", "LLM Alignment"]
+  "Hallucination":
+    filters: ["Hallucination", "Faithfulness", "Factuality"]
+  "LLM Efficiency":
+    filters: ["LoRA", "PEFT", "Parameter-Efficient Fine-Tuning", "Quantization"]
+  "Long Context":
+    filters: ["Long Context", "Long-Context"]
+  "Code LLM":
+    filters: ["Code Generation", "Code LLM", "Program Synthesis"]
+
+  "Medical NLP":
+    filters: ["Medical LLM", "Clinical NLP", "Biomedical NLP", "Clinical Language Model"]
+  "Multilingual NLP":
+    filters: ["Multilingual NLP", "Low-Resource Language", "Cross-Lingual"]
+  "LLM Safety":
+    filters: ["Jailbreak", "LLM Safety", "Red Teaming", "Adversarial Attack"]
+  "Tool Use":
+    filters: ["Tool Use", "Function Calling", "Tool-Augmented LLM"]
+  "Speech LLM":
+    filters: ["Speech Language Model", "Speech LLM", "Spoken Language Model"]
