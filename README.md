@@ -30,7 +30,7 @@
 |**2026-04-21**|**Enhancing Unsupervised Keyword Extraction in Academic Papers through Integrating Highlights with Abstract**|Yi Xiang et.al.|[2604.19505v1](http://arxiv.org/abs/2604.19505v1)|**[link](https://github.com/xiangyi-njust/Highlight-KPE)**|
 |**2026-04-20**|**On the Importance and Evaluation of Narrativity in Natural Language AI Explanations**|Mateusz Cedro et.al.|[2604.18311v1](http://arxiv.org/abs/2604.18311v1)|null|
 |**2026-04-20**|**ltzGLUE: Luxembourgish General Language Understanding Evaluation**|Alistair Plum et.al.|[2604.17976v1](http://arxiv.org/abs/2604.17976v1)|null|
-|**2026-04-22**|**Does Welsh media need a review? Detecting bias in Nation.Cymru's political reporting**|Cai Parry-Jones et.al.|[2604.17628v2](http://arxiv.org/abs/2604.17628v2)|null|
+|**2026-04-19**|**Does Welsh media need a review? Detecting bias in Nation.Cymru's political reporting**|Cai Parry-Jones et.al.|[2604.17628v2](http://arxiv.org/abs/2604.17628v2)|null|
 |**2026-04-19**|**Cloud-native and Distributed Systems for Efficient and Scalable Large Language Models -- A Research Agenda**|Minxian Xu et.al.|[2604.17227v1](http://arxiv.org/abs/2604.17227v1)|null|
 |**2026-04-19**|**Beyond the Basics: Leveraging Large Language Model for Fine-Grained Medical Entity Recognition**|Nwe Ni Win et.al.|[2604.17214v1](http://arxiv.org/abs/2604.17214v1)|null|
 |**2026-03-31**|**On the Use of Commit Messages for Corrective Software Maintenance: A Systematic Mapping Study**|Syful Islam et.al.|[2604.16404v1](http://arxiv.org/abs/2604.16404v1)|null|
@@ -53,8 +53,8 @@
 |**2026-04-18**|**From Legal Text to Executable Decision Models: Evaluating Structured Representations for Legal Decision Model Generation**|David Graus et.al.|[2604.17153v1](http://arxiv.org/abs/2604.17153v1)|null|
 |**2026-04-17**|**From Benchmarking to Reasoning: A Dual-Aspect, Large-Scale Evaluation of LLMs on Vietnamese Legal Text**|Van-Truong Le et.al.|[2604.16270v1](http://arxiv.org/abs/2604.16270v1)|null|
 |**2026-04-13**|**Legal2LogicICL: Improving Generalization in Transforming Legal Cases to Logical Formulas via Diverse Few-Shot Learning**|Jieying Xue et.al.|[2604.11699v1](http://arxiv.org/abs/2604.11699v1)|**[link](https://github.com/yingjie7/Legal2LogicICL)**|
-|**2026-04-10**|**WisdomInterrogatory (LuWen): An Open-Source Legal Large Language Model Technical Report**|Yiquan Wu et.al.|[2604.06737v2](http://arxiv.org/abs/2604.06737v2)|null|
-|**2026-04-08**|**JUÁ -- A Benchmark for Information Retrieval in Brazilian Legal Text Collections**|Jayr Pereira et.al.|[2604.06098v2](http://arxiv.org/abs/2604.06098v2)|null|
+|**2026-04-08**|**WisdomInterrogatory (LuWen): An Open-Source Legal Large Language Model Technical Report**|Yiquan Wu et.al.|[2604.06737v2](http://arxiv.org/abs/2604.06737v2)|null|
+|**2026-04-07**|**JUÁ -- A Benchmark for Information Retrieval in Brazilian Legal Text Collections**|Jayr Pereira et.al.|[2604.06098v2](http://arxiv.org/abs/2604.06098v2)|null|
 |**2026-04-06**|**HUKUKBERT: Domain-Specific Language Model for Turkish Law**|Mehmet Utku Öztürk et.al.|[2604.04790v1](http://arxiv.org/abs/2604.04790v1)|null|
 |**2026-04-02**|**De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules**|Keerat Guliani et.al.|[2604.02276v1](http://arxiv.org/abs/2604.02276v1)|null|
 
@@ -70,7 +70,7 @@
 |**2026-04-21**|**A Mechanism and Optimization Study on the Impact of Information Density on User-Generated Content Named Entity Recognition**|Jiang Xiaobo et.al.|[2604.18944v1](http://arxiv.org/abs/2604.18944v1)|null|
 |**2026-04-20**|**ltzGLUE: Luxembourgish General Language Understanding Evaluation**|Alistair Plum et.al.|[2604.17976v1](http://arxiv.org/abs/2604.17976v1)|null|
 |**2026-04-20**|**ContraPrompt: Contrastive Prompt Optimization via Dyadic Reasoning Trace Analysis**|Rishav Rishav et.al.|[2604.17937v1](http://arxiv.org/abs/2604.17937v1)|null|
-|**2026-04-21**|**EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval**|Yifan Song et.al.|[2604.17458v2](http://arxiv.org/abs/2604.17458v2)|**[link](https://github.com/yfsong00/EHRAG)**|
+|**2026-04-19**|**EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval**|Yifan Song et.al.|[2604.17458v2](http://arxiv.org/abs/2604.17458v2)|**[link](https://github.com/yfsong00/EHRAG)**|
 |**2026-04-19**|**E2E-GMNER: End-to-End Generative Grounded Multimodal Named Entity Recognition**|Meng Zhang et.al.|[2604.17319v1](http://arxiv.org/abs/2604.17319v1)|**[link](https://github.com/Finch-coder/E2E-GMNER)**|
 |**2026-04-17**|**DiZiNER: Disagreement-guided Instruction Refinement via Pilot Annotation Simulation for Zero-shot Named Entity Recognition**|Siun Kim et.al.|[2604.15866v1](http://arxiv.org/abs/2604.15866v1)|null|
 |**2026-04-17**|**PIIBench: A Unified Multi-Source Benchmark Corpus for Personally Identifiable Information Detection**|Pritesh Jha et.al.|[2604.15776v1](http://arxiv.org/abs/2604.15776v1)|**[link](https://github.com/pritesh-2711/pii-bench)**|
@@ -85,7 +85,7 @@
 |**2026-04-23**|**Cross-Domain Data Selection and Augmentation for Automatic Compliance Detection**|Fariz Ikhwantri et.al.|[2604.21469v1](http://arxiv.org/abs/2604.21469v1)|null|
 |**2026-04-23**|**Differentially Private De-identification of Dutch Clinical Notes: A Comparative Evaluation**|Michele Miranda et.al.|[2604.21421v1](http://arxiv.org/abs/2604.21421v1)|null|
 |**2026-04-22**|**ActuBench: A Multi-Agent LLM Pipeline for Generation and Evaluation of Actuarial Reasoning Tasks**|Jan-Philipp Schmidt et.al.|[2604.20273v1](http://arxiv.org/abs/2604.20273v1)|null|
-|**2026-04-23**|**Tracing Relational Knowledge Recall in Large Language Models**|Nicholas Popovič et.al.|[2604.19934v2](http://arxiv.org/abs/2604.19934v2)|null|
+|**2026-04-21**|**Tracing Relational Knowledge Recall in Large Language Models**|Nicholas Popovič et.al.|[2604.19934v2](http://arxiv.org/abs/2604.19934v2)|null|
 |**2026-03-31**|**Can LLMs Infer Conversational Agent Users' Personality Traits from Chat History?**|Derya Cögendez et.al.|[2604.19785v1](http://arxiv.org/abs/2604.19785v1)|null|
 |**2026-03-25**|**Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM**|Mohammad AL-Smadi et.al.|[2604.19759v1](http://arxiv.org/abs/2604.19759v1)|null|
 |**2026-03-21**|**Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom**|Prudence Djagba et.al.|[2604.19754v1](http://arxiv.org/abs/2604.19754v1)|null|
@@ -114,7 +114,7 @@
 |**2026-04-17**|**JFinTEB: Japanese Financial Text Embedding Benchmark**|Masahiro Suzuki et.al.|[2604.15882v1](http://arxiv.org/abs/2604.15882v1)|**[link](https://github.com/retarfi/JFinTEB)**|
 |**2026-04-15**|**Sentiment analysis for software engineering: How far can zero-shot learning (ZSL) go?**|Reem Alfayez et.al.|[2604.13826v1](http://arxiv.org/abs/2604.13826v1)|null|
 |**2026-04-15**|**From Prediction to Justification: Aligning Sentiment Reasoning with Human Rationale via Reinforcement Learning**|Shihao Zhang et.al.|[2604.13398v1](http://arxiv.org/abs/2604.13398v1)|null|
-|**2026-04-19**|**Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**|Kang He et.al.|[2604.12518v2](http://arxiv.org/abs/2604.12518v2)|null|
+|**2026-04-14**|**Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**|Kang He et.al.|[2604.12518v2](http://arxiv.org/abs/2604.12518v2)|null|
 |**2026-02-16**|**Skin-Deep Bias: How Avatar Appearances Shape Perceptions of AI Hiring**|Ka Hei Carrie Lau et.al.|[2604.06187v1](http://arxiv.org/abs/2604.06187v1)|null|
 |**2026-03-11**|**Detecting Abnormal User Feedback Patterns through Temporal Sentiment Aggregation**|Yalun Qi et.al.|[2604.00020v1](http://arxiv.org/abs/2604.00020v1)|null|
 |**2026-03-10**|**C2F-Thinker: Coarse-to-Fine Reasoning with Hint-Guided Reinforcement Learning for Multimodal Sentiment Analysis**|Miaosen Luo et.al.|[2604.00013v2](http://arxiv.org/abs/2604.00013v2)|null|
@@ -202,7 +202,7 @@
 |**2026-04-21**|**CS3: Efficient Online Capability Synergy for Two-Tower Recommendation**|Lixiang Wang et.al.|[2604.19269v1](http://arxiv.org/abs/2604.19269v1)|null|
 |**2026-04-20**|**Balanced Co-Clustering of Users and Items for Embedding Table Compression in Recommender Systems**|Runhao Jiang et.al.|[2604.18351v1](http://arxiv.org/abs/2604.18351v1)|null|
 |**2026-04-20**|**Multi-LLM Token Filtering and Routing for Sequential Recommendation**|Wuhan Chen et.al.|[2604.18200v1](http://arxiv.org/abs/2604.18200v1)|**[link](https://github.com/ccwwhhh/MLTFR)**|
-|**2026-04-21**|**Modular Representation Compression: Adapting LLMs for Efficient and Effective Recommendations**|Yunjia Xi et.al.|[2604.18146v2](http://arxiv.org/abs/2604.18146v2)|null|
+|**2026-04-20**|**Modular Representation Compression: Adapting LLMs for Efficient and Effective Recommendations**|Yunjia Xi et.al.|[2604.18146v2](http://arxiv.org/abs/2604.18146v2)|null|
 |**2026-03-11**|**Beyond Single-Score Ranking: Facet-Aware Reranking for Controllable Diversity in Paper Recommendation**|Duan Ming Tao et.al.|[2604.16329v1](http://arxiv.org/abs/2604.16329v1)|null|
 |**2026-02-09**|**Diagnosing LLM-based Rerankers in Cold-Start Recommender Systems: Coverage, Exposure and Practical Mitigations**|Ekaterina Lemdiasova et.al.|[2604.16318v1](http://arxiv.org/abs/2604.16318v1)|null|
 |**2026-03-17**|**WorkRB: A Community-Driven Evaluation Framework for AI in the Work Domain**|Matthias De Lange et.al.|[2604.13055v1](http://arxiv.org/abs/2604.13055v1)|**[link](https://github.com/techwolf-ai/WorkRB)**|
@@ -250,7 +250,7 @@
 |**2026-04-22**|**TRAVELFRAUDBENCH: A Configurable Evaluation Framework for GNN Fraud Ring Detection in Travel Networks**|Bhavana Sajja et.al.|[2604.21093v1](http://arxiv.org/abs/2604.21093v1)|null|
 |**2026-04-22**|**Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories**|Ali Rayat et.al.|[2604.20797v1](http://arxiv.org/abs/2604.20797v1)|null|
 |**2026-04-22**|**F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel**|Yutong Shen et.al.|[2604.20736v1](http://arxiv.org/abs/2604.20736v1)|null|
-|**2026-04-23**|**StormNet: Improving storm surge predictions with a GNN-based spatio-temporal offset forecasting model**|Noujoud Nader et.al.|[2604.20688v2](http://arxiv.org/abs/2604.20688v2)|null|
+|**2026-04-22**|**StormNet: Improving storm surge predictions with a GNN-based spatio-temporal offset forecasting model**|Noujoud Nader et.al.|[2604.20688v2](http://arxiv.org/abs/2604.20688v2)|null|
 |**2026-04-22**|**Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge**|Naizhong Xu et.al.|[2604.20598v1](http://arxiv.org/abs/2604.20598v1)|null|
 |**2026-03-11**|**GNN-as-Judge: Unleashing the Power of LLMs for Graph Learning with GNN Feedback**|Ruiyao Xu et.al.|[2604.08553v1](http://arxiv.org/abs/2604.08553v1)|null|
 |**2026-03-24**|**Multi-Agent Training-free Urban Food Delivery System using Resilient UMST Network**|Md Nahid Hasan et.al.|[2604.03280v1](http://arxiv.org/abs/2604.03280v1)|null|
