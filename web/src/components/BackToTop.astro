@@ -1,0 +1,56 @@
+---
+// Floating "Back to top" button. Appears after the user scrolls past one
+// viewport height and smoothly returns to the top on click. Honors
+// prefers-reduced-motion (no smooth animation for users who opted out).
+---
+
+<button
+  id="back-to-top"
+  type="button"
+  aria-label="Back to top"
+  title="Back to top"
+  class="fixed bottom-6 right-6 z-50 inline-flex items-center justify-center w-10 h-10 rounded-full border border-(--color-border) bg-(--color-surface) text-(--color-fg) shadow-md opacity-0 pointer-events-none translate-y-2 transition-[opacity,transform,border-color,color] duration-200 ease-out hover:border-(--color-accent) hover:text-(--color-accent) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-(--color-accent)"
+>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="1.8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    class="w-4 h-4"
+    aria-hidden="true"
+  >
+    <path d="M12 19V5"></path>
+    <path d="m5 12 7-7 7 7"></path>
+  </svg>
+</button>
+
+<script>
+  const btn = document.getElementById("back-to-top");
+  if (btn) {
+    // rAF-throttled scroll handler: avoid re-toggling on every scroll event.
+    let ticking = false;
+    const update = () => {
+      const visible = window.scrollY > window.innerHeight;
+      btn.classList.toggle("opacity-0", !visible);
+      btn.classList.toggle("pointer-events-none", !visible);
+      btn.classList.toggle("translate-y-2", !visible);
+      ticking = false;
+    };
+    const onScroll = () => {
+      if (!ticking) {
+        requestAnimationFrame(update);
+        ticking = true;
+      }
+    };
+    document.addEventListener("scroll", onScroll, { passive: true });
+    update();
+
+    btn.addEventListener("click", () => {
+      const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      window.scrollTo({ top: 0, behavior: reduce ? "auto" : "smooth" });
+    });
+  }
+</script>
