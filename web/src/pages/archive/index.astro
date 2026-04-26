@@ -20,7 +20,7 @@ for (const month of months) {
   <main class="max-w-3xl mx-auto px-6 py-10">
     <header class="mb-10">
       <h1 class="text-4xl font-bold mb-2">Archive</h1>
-      <p class="text-[--color-muted] text-sm">
+      <p class="text-(--color-muted) text-sm">
         {months.length} monthly snapshots since {months[months.length - 1]}.
       </p>
     </header>
@@ -32,7 +32,7 @@ for (const month of months) {
           {items.map((month) => (
             <li>
               <a
-                class="inline-block px-3 py-1 rounded border border-[--color-muted]/30 hover:border-[--color-accent] hover:text-[--color-accent] text-sm"
+                class="inline-block px-3 py-1 rounded border border-(--color-muted)/30 hover:border-(--color-accent) hover:text-(--color-accent) text-sm"
                 href={withBase(`/archive/${month}/`)}
               >
                 {month}

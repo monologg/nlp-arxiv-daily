@@ -9,7 +9,7 @@ interface Props {
 const { current = "home" } = Astro.props;
 ---
 
-<header class="border-b border-[--color-border]">
+<header class="border-b border-(--color-border)">
   <div class="max-w-3xl mx-auto px-6 py-4 flex items-center justify-between">
     <a class="font-semibold tracking-tight" href={withBase("/")}>
       NLP Arxiv Daily
@@ -17,8 +17,8 @@ const { current = "home" } = Astro.props;
     <nav class="flex items-center gap-5 text-sm">
       <a
         class:list={[
-          "hover:text-[--color-accent]",
-          current === "home" && "font-medium text-[--color-accent]",
+          "hover:text-(--color-accent)",
+          current === "home" && "font-medium text-(--color-accent)",
         ]}
         href={withBase("/")}
       >
@@ -26,8 +26,8 @@ const { current = "home" } = Astro.props;
       </a>
       <a
         class:list={[
-          "hover:text-[--color-accent]",
-          current === "archive" && "font-medium text-[--color-accent]",
+          "hover:text-(--color-accent)",
+          current === "archive" && "font-medium text-(--color-accent)",
         ]}
         href={withBase("/archive/")}
       >
@@ -35,8 +35,8 @@ const { current = "home" } = Astro.props;
       </a>
       <a
         class:list={[
-          "inline-flex items-center justify-center w-9 h-9 rounded border border-[--color-border] hover:border-[--color-accent] hover:text-[--color-accent] transition-colors",
-          current === "search" && "border-[--color-accent] text-[--color-accent]",
+          "inline-flex items-center justify-center w-9 h-9 rounded border border-(--color-border) hover:border-(--color-accent) hover:text-(--color-accent) transition-colors",
+          current === "search" && "border-(--color-accent) text-(--color-accent)",
         ]}
         href={withBase("/search/")}
         aria-label="Search"
