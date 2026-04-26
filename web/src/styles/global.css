@@ -5,8 +5,10 @@
    stored preference, before first paint. */
 @custom-variant dark (&:where(.dark, .dark *));
 
-/* Light-mode palette. The token names are referenced by Tailwind's arbitrary
-   value syntax (e.g. `bg-[--color-bg]`) and via plain CSS vars. */
+/* Light-mode palette. Referenced via Tailwind v4's CSS-variable shorthand
+   (`bg-(--color-bg)`) — note parens, not brackets. The bracket form
+   `bg-[--color-bg]` is a Tailwind v4 footgun: it emits the literal token
+   `--color-bg` as the property value (invalid CSS) instead of `var(...)`. */
 @theme {
   --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --color-bg: oklch(0.99 0 0);

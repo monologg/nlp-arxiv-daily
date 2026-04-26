@@ -14,7 +14,7 @@ const { keywords } = Astro.props;
   <button
     type="button"
     data-filter-all
-    class="filter-pill px-3 py-1 text-sm rounded border border-[--color-border] hover:border-[--color-accent] data-[active=true]:bg-[--color-accent] data-[active=true]:text-[--color-accent-fg] data-[active=true]:border-[--color-accent] transition-colors"
+    class="filter-pill px-3 py-1 text-sm rounded border border-(--color-border) hover:border-(--color-accent) data-[active=true]:bg-(--color-accent) data-[active=true]:text-(--color-accent-fg) data-[active=true]:border-(--color-accent) transition-colors"
     data-active="true"
   >
     All
@@ -26,7 +26,7 @@ const { keywords } = Astro.props;
         type="button"
         data-filter-keyword={slug}
         data-keyword-label={keyword}
-        class="filter-pill px-3 py-1 text-sm rounded border border-[--color-border] hover:border-[--color-accent] data-[active=true]:bg-[--color-accent] data-[active=true]:text-[--color-accent-fg] data-[active=true]:border-[--color-accent] transition-colors"
+        class="filter-pill px-3 py-1 text-sm rounded border border-(--color-border) hover:border-(--color-accent) data-[active=true]:bg-(--color-accent) data-[active=true]:text-(--color-accent-fg) data-[active=true]:border-(--color-accent) transition-colors"
         data-active="false"
       >
         {keyword}

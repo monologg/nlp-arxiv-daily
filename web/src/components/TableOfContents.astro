@@ -6,8 +6,8 @@ interface Props {
 const { keywords } = Astro.props;
 ---
 
-<nav class="mb-10 p-4 rounded border border-[--color-muted]/20 bg-[--color-muted]/5">
-  <h2 class="text-sm font-semibold uppercase tracking-wide text-[--color-muted] mb-2">
+<nav class="mb-10 p-4 rounded border border-(--color-muted)/20 bg-(--color-muted)/5">
+  <h2 class="text-sm font-semibold uppercase tracking-wide text-(--color-muted) mb-2">
     Table of Contents
   </h2>
   <ul class="flex flex-wrap gap-x-4 gap-y-1 text-sm">
@@ -15,10 +15,10 @@ const { keywords } = Astro.props;
       const slug = keyword.toLowerCase().replace(/\s+/g, "-");
       return (
         <li>
-          <a class="text-[--color-accent] hover:underline" href={`#${slug}`}>
+          <a class="text-(--color-accent) hover:underline" href={`#${slug}`}>
             {keyword}
           </a>
-          <span class="text-[--color-muted]"> ({Object.keys(papers).length})</span>
+          <span class="text-(--color-muted)"> ({Object.keys(papers).length})</span>
         </li>
       );
     })}

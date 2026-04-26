@@ -13,9 +13,9 @@ const ordered = sortPapersDesc(papers);
 ---
 
 <section id={slug} class="mb-12 scroll-mt-20">
-  <header class="flex items-baseline justify-between mb-3 pb-2 border-b border-[--color-muted]/30">
+  <header class="flex items-baseline justify-between mb-3 pb-2 border-b border-(--color-muted)/30">
     <h2 class="text-2xl font-semibold">{keyword}</h2>
-    <span class="text-[--color-muted] text-sm">{ordered.length} paper{ordered.length === 1 ? "" : "s"}</span>
+    <span class="text-(--color-muted) text-sm">{ordered.length} paper{ordered.length === 1 ? "" : "s"}</span>
   </header>
   {ordered.map(([paperId, row]) => (
     <PaperCard paperId={paperId} row={row} />
