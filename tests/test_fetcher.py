@@ -20,6 +20,7 @@ class _FakeArxivResult:
         title: str = "A Title",
         authors: list[str] | None = None,
         updated: datetime.datetime | None = None,
+        published: datetime.datetime | None = None,
         entry_id: str = "http://arxiv.org/abs/X",
         summary: str = "no code link here",
     ):
@@ -27,6 +28,9 @@ class _FakeArxivResult:
         self.title = title
         self.authors = authors or ["Alice", "Bob"]
         self.updated = updated or datetime.datetime(2026, 4, 22, 0, 0, 0)
+        # Default published == updated unless overridden — keeps existing
+        # tests stable; the bucket-month bug case sets them differently.
+        self.published = published or self.updated
         self.entry_id = entry_id
         self.summary = summary
 
@@ -125,6 +129,29 @@ class TestFetchPapers:
         assert p.update_time == datetime.date(2026, 4, 22)
         assert p.paper_url == "http://arxiv.org/abs/2604.21637v1"
         assert p.code_link is None
+
+    def test_uses_published_not_updated_for_display_date(self, monkeypatch):
+        """Backfill regression: a Aug-2025 submission with a Jan-2026 revision
+        should show the submission date, not the revision date. Prior bug:
+        Paper.update_time = result.updated.date() bucketed Aug 2025 papers
+        in /archive/2025-08/ but rendered them with date 2026-01-XX.
+        """
+        _silence_code_link(monkeypatch)
+        _patch_arxiv(
+            monkeypatch,
+            [
+                _FakeArxivResult(
+                    short_id="2508.00001v2",
+                    published=datetime.datetime(2025, 8, 12, 9, 0, 0),
+                    updated=datetime.datetime(2026, 1, 27, 14, 0, 0),
+                )
+            ],
+        )
+
+        papers = fetch_papers(query="NLP", max_results=1)
+
+        assert papers[0].update_time == datetime.date(2025, 8, 12)
+        assert papers[0].update_time != datetime.date(2026, 1, 27)
 
     def test_handles_empty_result_set(self, monkeypatch):
         _silence_code_link(monkeypatch)

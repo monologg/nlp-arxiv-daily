@@ -22,11 +22,15 @@ from nlp_arxiv_daily import cli, fetcher
 
 
 class _FakeArxivResult:
-    def __init__(self, *, short_id, title, updated, entry_id, summary="no code"):
+    def __init__(self, *, short_id, title, updated, entry_id, summary="no code", published=None):
         self._short_id = short_id
         self.title = title
         self.authors = ["Alice"]
         self.updated = updated
+        # Most tests don't care about the distinction; default published to
+        # `updated`. Tests that want to exercise the published vs updated
+        # mismatch (e.g. /archive/2025-08 bucket bug) pass it explicitly.
+        self.published = published or updated
         self.entry_id = entry_id
         self.summary = summary
 

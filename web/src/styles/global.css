@@ -19,8 +19,11 @@
 }
 
 /* Dark-mode overrides. Token *names* stay identical so component code
-   doesn't branch — only the values change. */
-:where(.dark) {
+   doesn't branch — only the values change.
+   Use `html.dark` (not `:where(.dark)`) so the override has specificity
+   (0,1,1) > the (0,1,0) from `@theme`'s :root rule. With `:where()` the
+   selector specificity collapses to 0 and the override silently loses. */
+html.dark {
   --color-bg: oklch(0.16 0.015 260);
   --color-surface: oklch(0.21 0.015 260);
   --color-fg: oklch(0.95 0.005 260);
