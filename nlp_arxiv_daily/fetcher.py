@@ -60,10 +60,20 @@ def _strip_version_suffix(short_id: str) -> str:
 
 
 def _result_to_paper(result) -> Paper:
+    """Convert an arxiv.Result to our Paper dataclass.
+
+    Uses `result.published.date()` (submission date), NOT
+    `result.updated.date()` (latest revision). Backfilled papers can have
+    revisions long after submission — the revision date scrambles them
+    across the wrong months in the archive UI (e.g. an Aug-2025 submission
+    revised in Jan 2026 was showing up dated 2026-01 inside /archive/2025-08/).
+    The arxiv id (`2508.xxxxx`) already encodes the submission month and
+    that's what we bucket by; the display date should match.
+    """
     short_id = result.get_short_id()
     paper_id = _strip_version_suffix(short_id)
     first_author = get_authors(result.authors, first_author=True)
-    update_time = result.updated.date()
+    update_time = result.published.date()
 
     logging.info(f"Time = {update_time} title = {result.title} author = {first_author}")
 
