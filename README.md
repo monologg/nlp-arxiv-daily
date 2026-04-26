@@ -12,9 +12,7 @@
     <li><a href='#sentiment-analysis'>Sentiment Analysis</a></li>
     <li><a href='#question-answering'>Question Answering</a></li>
     <li><a href='#information-extraction'>Information Extraction</a></li>
-    <li><a href='#recommendation-system'>Recommendation System</a></li>
     <li><a href='#knowledge-graph'>Knowledge Graph</a></li>
-    <li><a href='#gnn'>GNN</a></li>
     <li><a href='#tool-use'>Tool Use</a></li>
     <li><a href='#speech-llm'>Speech LLM</a></li>
   </ol>
@@ -189,31 +187,6 @@
 
 <p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
-## Recommendation System
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2026-04-23**|**Multistakeholder Impacts of Profile Portability in a Recommender Ecosystem**|Anas Buhayh et.al.|[2604.21750v1](http://arxiv.org/abs/2604.21750v1)|null|
-|**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin et.al.|[2604.21536v1](http://arxiv.org/abs/2604.21536v1)|null|
-|**2026-04-23**|**A single algorithm for both restless and rested rotting bandits**|Julien Seznec et.al.|[2604.21432v1](http://arxiv.org/abs/2604.21432v1)|null|
-|**2026-02-11**|**MATRAG: Multi-Agent Transparent Retrieval-Augmented Generation for Explainable Recommendations**|Sushant Mehta et.al.|[2604.20848v1](http://arxiv.org/abs/2604.20848v1)|null|
-|**2026-02-10**|**Revisiting Content-Based Music Recommendation: Efficient Feature Aggregation from Large-Scale Music Models**|Yizhi Zhou et.al.|[2604.20847v1](http://arxiv.org/abs/2604.20847v1)|**[link](https://github.com/zreach/TASTE)**|
-|**2026-04-22**|**From Hidden Profiles to Governable Personalization: Recommender Systems in the Age of LLM Agents**|Jiahao Liu et.al.|[2604.20065v1](http://arxiv.org/abs/2604.20065v1)|null|
-|**2026-04-21**|**From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems**|Quang-Huy Nguyen et.al.|[2604.19663v1](http://arxiv.org/abs/2604.19663v1)|**[link](https://github.com/L2R-UET/CFExpRec)**|
-|**2026-04-21**|**MOSA: Motion-Guided Semantic Alignment for Dynamic Scene Graph Generation**|Xuejiao Wang et.al.|[2604.19631v1](http://arxiv.org/abs/2604.19631v1)|null|
-|**2026-04-21**|**CS3: Efficient Online Capability Synergy for Two-Tower Recommendation**|Lixiang Wang et.al.|[2604.19269v1](http://arxiv.org/abs/2604.19269v1)|null|
-|**2026-04-20**|**Balanced Co-Clustering of Users and Items for Embedding Table Compression in Recommender Systems**|Runhao Jiang et.al.|[2604.18351v1](http://arxiv.org/abs/2604.18351v1)|null|
-|**2026-04-20**|**Multi-LLM Token Filtering and Routing for Sequential Recommendation**|Wuhan Chen et.al.|[2604.18200v1](http://arxiv.org/abs/2604.18200v1)|**[link](https://github.com/ccwwhhh/MLTFR)**|
-|**2026-04-20**|**Modular Representation Compression: Adapting LLMs for Efficient and Effective Recommendations**|Yunjia Xi et.al.|[2604.18146v2](http://arxiv.org/abs/2604.18146v2)|null|
-|**2026-03-11**|**Beyond Single-Score Ranking: Facet-Aware Reranking for Controllable Diversity in Paper Recommendation**|Duan Ming Tao et.al.|[2604.16329v1](http://arxiv.org/abs/2604.16329v1)|null|
-|**2026-02-09**|**Diagnosing LLM-based Rerankers in Cold-Start Recommender Systems: Coverage, Exposure and Practical Mitigations**|Ekaterina Lemdiasova et.al.|[2604.16318v1](http://arxiv.org/abs/2604.16318v1)|null|
-|**2026-03-17**|**WorkRB: A Community-Driven Evaluation Framework for AI in the Work Domain**|Matthias De Lange et.al.|[2604.13055v1](http://arxiv.org/abs/2604.13055v1)|**[link](https://github.com/techwolf-ai/WorkRB)**|
-|**2026-03-16**|**Hijacking online reviews: sparse manipulation and behavioral buffering in popularity-biased rating systems**|Itsuki Fujisaki et.al.|[2604.13049v1](http://arxiv.org/abs/2604.13049v1)|null|
-|**2026-01-26**|**Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation**|Nicolas Bougie et.al.|[2604.09549v1](http://arxiv.org/abs/2604.09549v1)|null|
-|**2026-01-24**|**Unbiased Rectification for Sequential Recommender Systems Under Fake Orders**|Qiyu Qin et.al.|[2604.08550v1](http://arxiv.org/abs/2604.08550v1)|null|
-
-<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
-
 ## Knowledge Graph
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -237,27 +210,6 @@
 |**2026-03-09**|**CID-TKG: Collaborative Historical Invariance and Evolutionary Dynamics Learning for Temporal Knowledge Graph Reasoning**|Shuai-Long Lei et.al.|[2604.09600v1](http://arxiv.org/abs/2604.09600v1)|null|
 |**2026-03-31**|**Ontology-based knowledge graph infrastructure for interoperable atomistic simulation data**|Abril Azocar Guzman et.al.|[2604.06230v1](http://arxiv.org/abs/2604.06230v1)|null|
 |**2026-03-30**|**From PDF to RAG-Ready: Evaluating Document Conversion Frameworks for Domain-Specific Question Answering**|José Guilherme Marques dos Santos et.al.|[2604.04948v1](http://arxiv.org/abs/2604.04948v1)|null|
-
-<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
-
-## GNN
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2026-04-23**|**Scalable Multimodal Beam Alignment in V2X: An Anti-Imbalance Graph Learning Approach**|Jiahui Liang et.al.|[2604.21585v1](http://arxiv.org/abs/2604.21585v1)|null|
-|**2026-04-23**|**Drug Synergy Prediction via Residual Graph Isomorphism Networks and Attention Mechanisms**|Jiyan Song et.al.|[2604.21473v1](http://arxiv.org/abs/2604.21473v1)|null|
-|**2026-04-23**|**GraphLeap: Decoupling Graph Construction and Convolution for Vision GNN Acceleration on FPGA**|Anvitha Ramachandran et.al.|[2604.21290v1](http://arxiv.org/abs/2604.21290v1)|null|
-|**2026-04-23**|**Graph Neural Network-Informed Predictive Flows for Faster Ford-Fulkerson and PAC-Learnability**|Eleanor Wiesler et.al.|[2604.21175v1](http://arxiv.org/abs/2604.21175v1)|null|
-|**2026-04-22**|**Spectral Embeddings Leak Graph Topology: Theory, Benchmark, and Adaptive Reconstruction**|Thinh Nguyen-Cong et.al.|[2604.21094v1](http://arxiv.org/abs/2604.21094v1)|null|
-|**2026-04-22**|**TRAVELFRAUDBENCH: A Configurable Evaluation Framework for GNN Fraud Ring Detection in Travel Networks**|Bhavana Sajja et.al.|[2604.21093v1](http://arxiv.org/abs/2604.21093v1)|null|
-|**2026-04-22**|**Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories**|Ali Rayat et.al.|[2604.20797v1](http://arxiv.org/abs/2604.20797v1)|null|
-|**2026-04-22**|**F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel**|Yutong Shen et.al.|[2604.20736v1](http://arxiv.org/abs/2604.20736v1)|null|
-|**2026-04-22**|**StormNet: Improving storm surge predictions with a GNN-based spatio-temporal offset forecasting model**|Noujoud Nader et.al.|[2604.20688v2](http://arxiv.org/abs/2604.20688v2)|null|
-|**2026-04-22**|**Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge**|Naizhong Xu et.al.|[2604.20598v1](http://arxiv.org/abs/2604.20598v1)|null|
-|**2026-03-11**|**GNN-as-Judge: Unleashing the Power of LLMs for Graph Learning with GNN Feedback**|Ruiyao Xu et.al.|[2604.08553v1](http://arxiv.org/abs/2604.08553v1)|null|
-|**2026-03-24**|**Multi-Agent Training-free Urban Food Delivery System using Resilient UMST Network**|Md Nahid Hasan et.al.|[2604.03280v1](http://arxiv.org/abs/2604.03280v1)|null|
-|**2026-02-08**|**Homophily-aware Supervised Contrastive Counterfactual Augmented Fair Graph Neural Network**|Mahdi Tavassoli Kejani et.al.|[2604.02342v1](http://arxiv.org/abs/2604.02342v1)|null|
-|**2026-03-31**|**Speeding Up Mixed-Integer Programming Solvers with Sparse Learning for Branching**|Selin Bayramoğlu et.al.|[2604.00094v1](http://arxiv.org/abs/2604.00094v1)|null|
 
 <p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 

@@ -53,12 +53,8 @@ keywords:
         "Title Generation",
         "Event Extraction",
       ]
-  "Recommendation System":
-    filters: ["Recommendation System", "Semantic Matching", "Chatbots"]
   "Knowledge Graph":
     filters: ["Knowledge Graph", "Knowledge Graphs"]
-  "GNN":
-    filters: ["GNN", "Graph Neural Network"]
 
   # --- LLM-era tags (added 2026-04 to track post-ChatGPT research themes) ---
 
