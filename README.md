@@ -126,7 +126,7 @@
 |**2026-04-19**|**Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**|Kang He et.al.|[2604.12518v2](http://arxiv.org/abs/2604.12518v2)|null|
 |**2026-02-16**|**Skin-Deep Bias: How Avatar Appearances Shape Perceptions of AI Hiring**|Ka Hei Carrie Lau et.al.|[2604.06187v1](http://arxiv.org/abs/2604.06187v1)|null|
 |**2026-03-11**|**Detecting Abnormal User Feedback Patterns through Temporal Sentiment Aggregation**|Yalun Qi et.al.|[2604.00020v1](http://arxiv.org/abs/2604.00020v1)|null|
-|**2026-04-12**|**C2F-Thinker: Coarse-to-Fine Reasoning with Hint-Guided Reinforcement Learning for Multimodal Sentiment Analysis**|Miaosen Luo et.al.|[2604.00013v2](http://arxiv.org/abs/2604.00013v2)|null|
+|**2026-03-10**|**C2F-Thinker: Coarse-to-Fine Reasoning with Hint-Guided Reinforcement Learning for Multimodal Sentiment Analysis**|Miaosen Luo et.al.|[2604.00013v2](http://arxiv.org/abs/2604.00013v2)|null|
 
 <p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 
@@ -160,15 +160,15 @@
 |**2026-03-23**|**MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios**|Yihang Ding et.al.|[2604.14158v1](http://arxiv.org/abs/2604.14158v1)|null|
 |**2026-03-20**|**EVE: A Domain-Specific LLM Framework for Earth Intelligence**|Àlex R. Atrio et.al.|[2604.13071v1](http://arxiv.org/abs/2604.13071v1)|null|
 |**2026-03-17**|**Caption First, VQA Second: Knowledge Density, Not Task Format, Drives Multimodal Scaling**|Hongjian Zou et.al.|[2604.13054v1](http://arxiv.org/abs/2604.13054v1)|null|
-|**2026-03-05**|**Spatial Competence Benchmark**|Jash Vira et.al.|[2604.09594v1](http://arxiv.org/abs/2604.09594v1)|null|
+|**2026-03-05**|**Spatial Competence Benchmark**|Jash Vira et.al.|[2604.09594v1](http://arxiv.org/abs/2604.09594v1)|**[link](https://github.com/ashleyharris-maptek-com-au/SpatialCompetenceBenchmark)**|
 |**2026-01-31**|**MCERF: Advancing Multimodal LLM Evaluation of Engineering Documentation with Enhanced Retrieval**|Kiarash Naghavi Khanghah et.al.|[2604.09552v1](http://arxiv.org/abs/2604.09552v1)|null|
 |**2026-03-18**|**Dynamic sparsity in tree-structured feed-forward layers at scale**|Reza Sedghi et.al.|[2604.08565v1](http://arxiv.org/abs/2604.08565v1)|null|
 |**2026-01-16**|**VerifAI: A Verifiable Open-Source Search Engine for Biomedical Question Answering**|Miloš Košprdić et.al.|[2604.08549v1](http://arxiv.org/abs/2604.08549v1)|null|
 |**2026-03-12**|**Consistency-Guided Decoding with Proof-Driven Disambiguation for Three-Way Logical Question Answering**|Tianyi Huang et.al.|[2604.06196v1](http://arxiv.org/abs/2604.06196v1)|null|
 |**2026-03-30**|**From PDF to RAG-Ready: Evaluating Document Conversion Frameworks for Domain-Specific Question Answering**|José Guilherme Marques dos Santos et.al.|[2604.04948v1](http://arxiv.org/abs/2604.04948v1)|null|
 |**2026-03-31**|**Prompt-Guided Prefiltering for VLM Image Compression**|Bardia Azizian et.al.|[2604.00314v1](http://arxiv.org/abs/2604.00314v1)|**[link](https://github.com/bardia-az/pgp-vlm-compression)**|
-|**2026-04-02**|**Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**|Zaifu Zhan et.al.|[2604.00261v2](http://arxiv.org/abs/2604.00261v2)|null|
-|**2026-04-21**|**Q-Mask: Query-driven Causal Masks for Text Anchoring in OCR-Oriented Vision-Language Models**|Longwei Xu et.al.|[2604.00161v2](http://arxiv.org/abs/2604.00161v2)|null|
+|**2026-03-31**|**Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**|Zaifu Zhan et.al.|[2604.00261v2](http://arxiv.org/abs/2604.00261v2)|null|
+|**2026-03-31**|**Q-Mask: Query-driven Causal Masks for Text Anchoring in OCR-Oriented Vision-Language Models**|Longwei Xu et.al.|[2604.00161v2](http://arxiv.org/abs/2604.00161v2)|null|
 |**2026-03-10**|**Disentangling Prompt Element Level Risk Factors for Hallucinations and Omissions in Mental Health LLM Responses**|Congning Ni et.al.|[2604.00014v1](http://arxiv.org/abs/2604.00014v1)|null|
 
 <p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
