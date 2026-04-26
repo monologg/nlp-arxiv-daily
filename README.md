@@ -7,7 +7,6 @@
   <ol>
     <li><a href='#nlp'>NLP</a></li>
     <li><a href='#legal-nlp'>Legal NLP</a></li>
-    <li><a href='#sequence-annotation'>Sequence Annotation</a></li>
     <li><a href='#named-entity-recognition'>Named Entity Recognition</a></li>
     <li><a href='#text-classification'>Text Classification</a></li>
     <li><a href='#sentiment-analysis'>Sentiment Analysis</a></li>
@@ -58,14 +57,6 @@
 |**2026-04-08**|**JUÁ -- A Benchmark for Information Retrieval in Brazilian Legal Text Collections**|Jayr Pereira et.al.|[2604.06098v2](http://arxiv.org/abs/2604.06098v2)|null|
 |**2026-04-06**|**HUKUKBERT: Domain-Specific Language Model for Turkish Law**|Mehmet Utku Öztürk et.al.|[2604.04790v1](http://arxiv.org/abs/2604.04790v1)|null|
 |**2026-04-02**|**De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules**|Keerat Guliani et.al.|[2604.02276v1](http://arxiv.org/abs/2604.02276v1)|null|
-
-<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
-
-## Sequence Annotation
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2026-04-10**|**CAMotion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild**|Siyuan Yao et.al.|[2604.08287v2](http://arxiv.org/abs/2604.08287v2)|null|
 
 <p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 

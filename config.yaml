@@ -28,8 +28,6 @@ keywords:
     filters: ["NLP", "Natural Language Processing"]
   "Legal NLP":
     filters: ["Legal NLP", "Legal Language", "Legal Text"]
-  "Sequence Annotation":
-    filters: ["Sequence Annotation", "Sequence Marking"]
   "Named Entity Recognition":
     filters: ["Named Entity Recognition"]
   "Text Classification":
