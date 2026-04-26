@@ -110,12 +110,16 @@ def fetch_papers_in_range(
     start: datetime.date,
     end: datetime.date,
     max_results: int = BACKFILL_DEFAULT_MAX_RESULTS,
+    delay_seconds: int = BACKFILL_RATE_LIMIT_SECONDS,
 ) -> list[Paper]:
     """
     Same as `fetch_papers`, but constrained to arxiv submissions in
     [start 00:00, end 23:59]. Used by the backfill subcommand. Constructs an
     arxiv.Client with the published 3s rate-limit baked in so a backfill loop
     can fire many (keyword × month) queries back-to-back without throttling.
+
+    `delay_seconds` overrides the default per-request gap — bump it when
+    running large multi-keyword backfills that have been seeing 429s.
     """
     range_clause = (
         f"submittedDate:[{_format_arxiv_datetime(start, end_of_day=False)}"
@@ -124,7 +128,7 @@ def fetch_papers_in_range(
     composite = f"({query}) AND {range_clause}"
 
     client = arxiv.Client(
-        delay_seconds=BACKFILL_RATE_LIMIT_SECONDS,
+        delay_seconds=delay_seconds,
         num_retries=BACKFILL_NUM_RETRIES,
     )
     search = arxiv.Search(query=composite, max_results=max_results, sort_by=arxiv.SortCriterion.SubmittedDate)

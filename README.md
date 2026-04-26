@@ -15,6 +15,8 @@
     <li><a href='#recommendation-system'>Recommendation System</a></li>
     <li><a href='#knowledge-graph'>Knowledge Graph</a></li>
     <li><a href='#gnn'>GNN</a></li>
+    <li><a href='#tool-use'>Tool Use</a></li>
+    <li><a href='#speech-llm'>Speech LLM</a></li>
   </ol>
 </details>
 
@@ -256,6 +258,66 @@
 |**2026-03-24**|**Multi-Agent Training-free Urban Food Delivery System using Resilient UMST Network**|Md Nahid Hasan et.al.|[2604.03280v1](http://arxiv.org/abs/2604.03280v1)|null|
 |**2026-02-08**|**Homophily-aware Supervised Contrastive Counterfactual Augmented Fair Graph Neural Network**|Mahdi Tavassoli Kejani et.al.|[2604.02342v1](http://arxiv.org/abs/2604.02342v1)|null|
 |**2026-03-31**|**Speeding Up Mixed-Integer Programming Solvers with Sparse Learning for Branching**|Selin Bayramoğlu et.al.|[2604.00094v1](http://arxiv.org/abs/2604.00094v1)|null|
+
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
+
+## Tool Use
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-04-23**|**Less Is More: Measuring How LLM Involvement affects Chatbot Accuracy in Static Analysis**|Krishna Narasimhan et.al.|[2604.21746v1](http://arxiv.org/abs/2604.21746v1)|null|
+|**2026-04-23**|**Speed-oriented quantum circuit backend**|Sören Wilkening et.al.|[2604.21656v1](http://arxiv.org/abs/2604.21656v1)|null|
+|**2026-04-23**|**AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use**|Yuanjie Lyu et.al.|[2604.21590v1](http://arxiv.org/abs/2604.21590v1)|**[link](https://github.com/haruhi-sudo/data_synth_and_rl)**|
+|**2026-04-23**|**When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors**|Chenghao Yang et.al.|[2604.21255v1](http://arxiv.org/abs/2604.21255v1)|**[link](https://github.com/Syuchin/AgentEcho)**|
+|**2026-04-22**|**Breaking MCP with Function Hijacking Attacks: Novel Threats for Function Calling and Agentic Models**|Yannis Belkhiter et.al.|[2604.20994v1](http://arxiv.org/abs/2604.20994v1)|null|
+|**2026-04-22**|**R2IF: Aligning Reasoning with Decisions via Composite Rewards for Interpretable LLM Function Calling**|Aijia Cheng et.al.|[2604.20316v1](http://arxiv.org/abs/2604.20316v1)|null|
+|**2026-04-22**|**Meta-Tool: Efficient Few-Shot Tool Adaptation for Small Language Models**|Sachin Kumar et.al.|[2604.20148v1](http://arxiv.org/abs/2604.20148v1)|null|
+|**2026-04-22**|**SAKE: Self-aware Knowledge Exploitation-Exploration for Grounded Multimodal Named Entity Recognition**|Jielong Tang et.al.|[2604.20146v1](http://arxiv.org/abs/2604.20146v1)|null|
+|**2026-04-21**|**Visual Reasoning through Tool-supervised Reinforcement Learning**|Qihua Dong et.al.|[2604.19945v1](http://arxiv.org/abs/2604.19945v1)|null|
+|**2026-04-21**|**Rethinking Reinforcement Fine-Tuning in LVLM: Convergence, Reward Decomposition, and Generalization**|Carter Adams et.al.|[2604.19857v1](http://arxiv.org/abs/2604.19857v1)|null|
+|**2026-04-20**|**JTPRO: A Joint Tool-Prompt Reflective Optimization Framework for Language Agents**|Sandip Ghoshal et.al.|[2604.19821v1](http://arxiv.org/abs/2604.19821v1)|null|
+|**2026-04-21**|**Recent Advances in Causal Analysis of the Stochastic Frontier Model**|Samuele Centorrino et.al.|[2604.19693v1](http://arxiv.org/abs/2604.19693v1)|null|
+|**2026-04-21**|**Time Series Augmented Generation for Financial Applications**|Anton Kolonin et.al.|[2604.19633v1](http://arxiv.org/abs/2604.19633v1)|null|
+|**2026-04-21**|**Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies**|Jess Jones et.al.|[2604.19509v1](http://arxiv.org/abs/2604.19509v1)|null|
+|**2026-04-21**|**Rethinking Scale: Deployment Trade-offs of Small Language Models under Agent Paradigms**|Xinlin Wang et.al.|[2604.19299v1](http://arxiv.org/abs/2604.19299v1)|null|
+|**2026-04-21**|**iCoRe: An Iterative Correlation-Aware Retriever for Bug Reproduction Test Generation**|Junyi Wang et.al.|[2604.19224v1](http://arxiv.org/abs/2604.19224v1)|null|
+|**2026-04-20**|**Towards Optimal Agentic Architectures for Offensive Security Tasks**|Isaac David et.al.|[2604.18718v1](http://arxiv.org/abs/2604.18718v1)|null|
+|**2026-04-20**|**Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs**|Kevin Murphy et.al.|[2604.18576v2](http://arxiv.org/abs/2604.18576v2)|null|
+|**2026-04-20**|**Train Separately, Merge Together: Modular Post-Training with Mixture-of-Experts**|Jacob Morrison et.al.|[2604.18473v1](http://arxiv.org/abs/2604.18473v1)|null|
+|**2026-04-20**|**StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning**|Daoyu Wang et.al.|[2604.18401v1](http://arxiv.org/abs/2604.18401v1)|null|
+|**2026-04-20**|**Capturing Monetarily Exploitable Vulnerability in Smart Contracts via Auditor Knowledge-Learning Fuzzing**|Bowen Cai et.al.|[2604.18395v1](http://arxiv.org/abs/2604.18395v1)|null|
+|**2026-04-20**|**ComPASS: Towards Personalized Agentic Social Support via Tool-Augmented Companionship**|Zhaopei Huang et.al.|[2604.18356v1](http://arxiv.org/abs/2604.18356v1)|**[link](https://github.com/hzp3517/ComPASS)**|
+|**2026-04-20**|**AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum**|Jiaqi Li et.al.|[2604.17989v1](http://arxiv.org/abs/2604.17989v1)|null|
+|**2026-04-20**|**Latent Preference Modeling for Cross-Session Personalized Tool Calling**|Yejin Yoon et.al.|[2604.17886v1](http://arxiv.org/abs/2604.17886v1)|null|
+|**2026-04-20**|**SelfHeal: Empirical Fix Pattern Analysis and Bug Repair in LLM Agents**|Niful Islam et.al.|[2604.17699v1](http://arxiv.org/abs/2604.17699v1)|null|
+|**2026-04-18**|**GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)**|Jiaqing Liang et.al.|[2604.17091v1](http://arxiv.org/abs/2604.17091v1)|**[link](https://github.com/lsdefine/GenericAgent)**|
+|**2026-04-18**|**ClimAgent: LLM as Agents for Autonomous Open-ended Climate Science Analysis**|Hao Wang et.al.|[2604.16922v1](http://arxiv.org/abs/2604.16922v1)|**[link](https://github.com/usail-hkust/ClimAgent)**|
+|**2026-04-17**|**Agentic Large Language Models for Training-Free Neuro-Radiological Image Analysis**|Ayhan Can Erdur et.al.|[2604.16729v1](http://arxiv.org/abs/2604.16729v1)|null|
+|**2026-04-17**|**Evaluating Tool-Using Language Agents: Judge Reliability, Propagation Cascades, and Runtime Mitigation in AgentProp-Bench**|Bhaskar Gurram et.al.|[2604.16706v1](http://arxiv.org/abs/2604.16706v1)|**[link](https://github.com/bhaskargurram-ai/agenthallu-bench)**|
+|**2026-04-17**|**AgentV-RL: Scaling Reward Modeling with Agentic Verifier**|Jiazheng Zhang et.al.|[2604.16004v1](http://arxiv.org/abs/2604.16004v1)|null|
+
+<p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
+
+## Speech LLM
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-04-20**|**LLM-Codec: Neural Audio Codec Meets Language Model Objectives**|Ho-Lam Chung et.al.|[2604.17852v1](http://arxiv.org/abs/2604.17852v1)|null|
+|**2026-04-19**|**Still Between Us? Evaluating and Improving Voice Assistant Robustness to Third-Party Interruptions**|Dongwook Lee et.al.|[2604.17358v1](http://arxiv.org/abs/2604.17358v1)|null|
+|**2026-04-16**|**VoxSafeBench: Not Just What Is Said, but Who, How, and Where**|Yuxiang Wang et.al.|[2604.14548v2](http://arxiv.org/abs/2604.14548v2)|null|
+|**2026-04-14**|**MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models**|Chung-Ming Chien et.al.|[2604.12928v2](http://arxiv.org/abs/2604.12928v2)|null|
+|**2026-04-14**|**Contextual Biasing for ASR in Speech LLM with Common Word Cues and Bias Word Position Prediction**|Sashi Novitasari et.al.|[2604.12398v1](http://arxiv.org/abs/2604.12398v1)|null|
+|**2026-04-13**|**Bridging What the Model Thinks and How It Speaks: Self-Aware Speech Language Models for Expressive Speech Generation**|Kuang Wang et.al.|[2604.11424v1](http://arxiv.org/abs/2604.11424v1)|null|
+|**2026-04-13**|**Ti-Audio: The First Multi-Dialectal End-to-End Speech LLM for Tibetan**|Jialing Wang et.al.|[2604.11110v1](http://arxiv.org/abs/2604.11110v1)|null|
+|**2026-04-13**|**Efficient Training for Cross-lingual Speech Language Models**|Yan Zhou et.al.|[2604.11096v1](http://arxiv.org/abs/2604.11096v1)|**[link](https://github.com/ictnlp/CSLM)**|
+|**2026-04-11**|**ASPIRin: Action Space Projection for Interactivity-Optimized Reinforcement Learning in Full-Duplex Speech Language Models**|Chi-Yuan Hsiao et.al.|[2604.10065v1](http://arxiv.org/abs/2604.10065v1)|null|
+|**2026-04-09**|**TASU2: Controllable CTC Simulation for Alignment and Low-Resource Adaptation of Speech LLMs**|Jing Peng et.al.|[2604.08384v1](http://arxiv.org/abs/2604.08384v1)|null|
+|**2026-04-08**|**Do We Need Distinct Representations for Every Speech Token? Unveiling and Exploiting Redundancy in Large Speech Language Models**|Bajian Xiang et.al.|[2604.06871v1](http://arxiv.org/abs/2604.06871v1)|null|
+|**2026-04-07**|**In-Context Learning in Speech Language Models: Analyzing the Role of Acoustic Features, Linguistic Structure, and Induction Heads**|Charlotte Pouw et.al.|[2604.06356v1](http://arxiv.org/abs/2604.06356v1)|null|
+|**2026-04-06**|**Full-Duplex-Bench-v3: Benchmarking Tool Use for Full-Duplex Voice Agents Under Real-World Disfluency**|Guan-Ting Lin et.al.|[2604.04847v1](http://arxiv.org/abs/2604.04847v1)|null|
+|**2026-04-03**|**Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR**|Zhennan Lin et.al.|[2604.03074v1](http://arxiv.org/abs/2604.03074v1)|null|
+|**2026-04-01**|**Speech LLMs are Contextual Reasoning Transcribers**|Keqi Deng et.al.|[2604.00610v1](http://arxiv.org/abs/2604.00610v1)|null|
+|**2026-04-01**|**Adapting Text LLMs to Speech via Multimodal Depth Up-Scaling**|Kazuki Yano et.al.|[2604.00489v1](http://arxiv.org/abs/2604.00489v1)|null|
 
 <p align=right>(<a href='#updated-on-20260426'>back to top</a>)</p>
 

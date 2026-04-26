@@ -19,7 +19,11 @@ import sys
 from collections.abc import Iterator
 
 from nlp_arxiv_daily.core import get_daily_papers, load_config, papers_to_legacy_rows
-from nlp_arxiv_daily.fetcher import BACKFILL_DEFAULT_MAX_RESULTS, fetch_papers_in_range
+from nlp_arxiv_daily.fetcher import (
+    BACKFILL_DEFAULT_MAX_RESULTS,
+    BACKFILL_RATE_LIMIT_SECONDS,
+    fetch_papers_in_range,
+)
 from nlp_arxiv_daily.renderer import json_to_md, render_archive_pages
 from nlp_arxiv_daily.storage import write_papers_split
 
@@ -120,6 +124,8 @@ def cmd_backfill(
     start: datetime.date,
     end: datetime.date,
     max_results: int = BACKFILL_DEFAULT_MAX_RESULTS,
+    delay_seconds: int = BACKFILL_RATE_LIMIT_SECONDS,
+    only_keywords: list[str] | None = None,
 ) -> None:
     """Fetch every (keyword × month) in [start, end] and merge into the archive.
 
@@ -129,11 +135,18 @@ def cmd_backfill(
     `max_results` controls per (keyword × month) cap. Defaults to the backfill-
     appropriate ceiling (NOT `config["max_results"]`, which is the daily-fetch
     cap of ~10 — far too low for a months-wide recovery).
+
+    `delay_seconds` overrides the per-request gap to dodge 429s on large runs.
+    `only_keywords` restricts fetch to a subset of config keys — useful when
+    seeding newly-added tags without re-querying the existing ones.
     """
     keywords = config["kv"]
-
-    data_collector = []
-    data_collector_web = []
+    if only_keywords:
+        unknown = [k for k in only_keywords if k not in keywords]
+        if unknown:
+            raise ValueError(f"Unknown keyword(s) in --keywords: {unknown}. Available: {list(keywords)}")
+        keywords = {k: keywords[k] for k in only_keywords}
+        logging.info(f"BACKFILL restricted to {len(keywords)} keyword(s): {list(keywords)}")
 
     months = list(_iter_month_ranges(start, end))
     logging.info(f"BACKFILL begin: {start.isoformat()} → {end.isoformat()} ({len(months)} months)")
@@ -141,6 +154,12 @@ def cmd_backfill(
     failed_queries: list[str] = []
     for month_start, month_end in months:
         logging.info(f"=== {month_start.strftime('%Y-%m')} ===")
+        # Per-month checkpoint: collect this month's results and flush before
+        # moving on. A SIGTERM/Ctrl-C mid-run then loses at most the in-flight
+        # month, not the whole backfill. write_papers_split is idempotent so
+        # restarting the same range merges cleanly.
+        month_data: list = []
+        month_data_web: list = []
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
             try:
@@ -149,35 +168,34 @@ def cmd_backfill(
                     start=month_start,
                     end=month_end,
                     max_results=max_results,
+                    delay_seconds=delay_seconds,
                 )
             except Exception as e:
                 # One bad keyword × month must not kill the rest of the backfill.
-                # Persisted JSON splits are write-on-success in storage; partial
-                # progress is still safe to commit.
                 tag = f"{month_start.strftime('%Y-%m')}/{topic}"
                 logging.warning(f"BACKFILL skip {tag}: {e}")
                 failed_queries.append(tag)
                 continue
             data, data_web = papers_to_legacy_rows(papers, topic)
-            data_collector.append(data)
-            data_collector_web.append(data_web)
+            month_data.append(data)
+            month_data_web.append(data_web)
+
+        if config["publish_readme"] and month_data:
+            write_papers_split(
+                month_data,
+                config["json_readme_path"],
+                config["archive_readme_json_dir"],
+            )
+        if config["publish_gitpage"] and month_data_web:
+            write_papers_split(
+                month_data_web,
+                config["json_gitpage_path"],
+                config["archive_gitpage_json_dir"],
+            )
+        logging.info(f"checkpoint flushed for {month_start.strftime('%Y-%m')}")
 
     if failed_queries:
         logging.warning(f"BACKFILL completed with {len(failed_queries)} skipped queries: " + ", ".join(failed_queries))
-
-    logging.info("BACKFILL fetch end — persisting JSON splits")
-    if config["publish_readme"]:
-        write_papers_split(
-            data_collector,
-            config["json_readme_path"],
-            config["archive_readme_json_dir"],
-        )
-    if config["publish_gitpage"]:
-        write_papers_split(
-            data_collector_web,
-            config["json_gitpage_path"],
-            config["archive_gitpage_json_dir"],
-        )
 
     logging.info("BACKFILL render begin")
     cmd_render(config)
@@ -216,6 +234,18 @@ def build_parser() -> argparse.ArgumentParser:
         default=BACKFILL_DEFAULT_MAX_RESULTS,
         help=f"max results per (keyword × month) query (default: {BACKFILL_DEFAULT_MAX_RESULTS})",
     )
+    backfill.add_argument(
+        "--delay-seconds",
+        type=int,
+        default=BACKFILL_RATE_LIMIT_SECONDS,
+        help=f"per-request gap to the arxiv API (default: {BACKFILL_RATE_LIMIT_SECONDS}s). Bump on 429s.",
+    )
+    backfill.add_argument(
+        "--keywords",
+        type=str,
+        default=None,
+        help="comma-separated subset of config keyword names to backfill (default: all)",
+    )
     return parser
 
 
@@ -231,7 +261,15 @@ def main(argv: list[str] | None = None) -> int:
 
     if command == "backfill":
         end = args.end if args.end is not None else _current_month_first()
-        cmd_backfill(config, start=args.start, end=end, max_results=args.max_results)
+        only_keywords = [k.strip() for k in args.keywords.split(",")] if args.keywords else None
+        cmd_backfill(
+            config,
+            start=args.start,
+            end=end,
+            max_results=args.max_results,
+            delay_seconds=args.delay_seconds,
+            only_keywords=only_keywords,
+        )
         return 0
 
     # Resolve handler at call time so tests can monkeypatch cmd_* on this module.
