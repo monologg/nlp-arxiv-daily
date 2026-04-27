@@ -2305,7 +2305,7 @@
 |**2026-04-24**|**AgentSearchBench: A Benchmark for AI Agent Search in the Wild**|Bin Wu et.al.|[2604.22436v1](http://arxiv.org/abs/2604.22436v1)|**[link](https://github.com/Bingo-W/AgentSearchBench)**|
 |**2026-04-24**|**Automation-Exploit: A Multi-Agent LLM Framework for Adaptive Offensive Security with Digital Twin-Based Risk-Mitigated Exploitation**|Biagio Andreucci et.al.|[2604.22427v1](http://arxiv.org/abs/2604.22427v1)|null|
 |**2026-04-24**|**Sovereign Agentic Loops: Decoupling AI Reasoning from Execution in Real-World Systems**|Jun He et.al.|[2604.22136v1](http://arxiv.org/abs/2604.22136v1)|null|
-|**2026-04-23**|**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents**|Seyed Moein Abtahi et.al.|[2604.22085v1](http://arxiv.org/abs/2604.22085v1)|null|
+|**2026-04-23**|**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents**|Seyed Moein Abtahi et.al.|[2604.22085v1](http://arxiv.org/abs/2604.22085v1)|**[link](https://github.com/moorcheh-ai/memanto-evaluation)**|
 |**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896v1](http://arxiv.org/abs/2604.21896v1)|null|
 |**2026-04-23**|**Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study**|Zihan Wang et.al.|[2604.21829v1](http://arxiv.org/abs/2604.21829v1)|null|
 |**2026-04-23**|**Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows**|Anuj Sadani et.al.|[2604.21816v1](http://arxiv.org/abs/2604.21816v1)|**[link](https://github.com/asadani/tool-attention)**|
@@ -2809,7 +2809,7 @@
 |---|---|---|---|---|
 |**2026-04-24**|**Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems**|Mengzhuo Chen et.al.|[2604.22708v1](http://arxiv.org/abs/2604.22708v1)|null|
 |**2026-04-24**|**Dr.Sai: An agentic AI for real-world physics analysis at BESIII**|Mingfeng He et.al.|[2604.22541v1](http://arxiv.org/abs/2604.22541v1)|null|
-|**2026-04-24**|**From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company**|Zhengxu Yu et.al.|[2604.22446v1](http://arxiv.org/abs/2604.22446v1)|null|
+|**2026-04-24**|**From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company**|Zhengxu Yu et.al.|[2604.22446v1](http://arxiv.org/abs/2604.22446v1)|**[link](https://github.com/1mancompany/OneManCompany)**|
 |**2026-04-24**|**Automation-Exploit: A Multi-Agent LLM Framework for Adaptive Offensive Security with Digital Twin-Based Risk-Mitigated Exploitation**|Biagio Andreucci et.al.|[2604.22427v1](http://arxiv.org/abs/2604.22427v1)|null|
 |**2026-04-24**|**Control of Multi-agent Systems under STL Specifications based on Prescribed Performance Observers**|Tommaso Zaccherini et.al.|[2604.22315v1](http://arxiv.org/abs/2604.22315v1)|null|
 |**2026-04-24**|**Reliable Self-Harm Risk Screening via Adaptive Multi-Agent LLM Systems**|Meghana Karnam et.al.|[2604.22154v1](http://arxiv.org/abs/2604.22154v1)|null|
@@ -4242,7 +4242,7 @@
 |**2026-04-24**|**Learning Evidence Highlighting for Frozen LLMs**|Shaoang Li et.al.|[2604.22565v1](http://arxiv.org/abs/2604.22565v1)|null|
 |**2026-04-24**|**R2Code: A Self-Reflective LLM Framework for Requirements-to-Code Traceability**|Yifei Wang et.al.|[2604.22432v1](http://arxiv.org/abs/2604.22432v1)|null|
 |**2026-04-24**|**Guess-Verify-Refine: Data-Aware Top-K for Sparse-Attention Decoding on Blackwell via Temporal Correlation**|Long Cheng et.al.|[2604.22312v1](http://arxiv.org/abs/2604.22312v1)|null|
-|**2026-04-24**|**Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets**|Harshit Joshi et.al.|[2604.22294v1](http://arxiv.org/abs/2604.22294v1)|null|
+|**2026-04-24**|**Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets**|Harshit Joshi et.al.|[2604.22294v1](http://arxiv.org/abs/2604.22294v1)|**[link](https://github.com/stanford-oval/sliders)**|
 |**2026-04-23**|**MambaCSP: Hybrid-Attention State Space Models for Hardware-Efficient Channel State Prediction**|Aladin Djuhera et.al.|[2604.21957v1](http://arxiv.org/abs/2604.21957v1)|null|
 |**2026-04-23**|**How English Print Media Frames Human-Elephant Conflicts in India**|Bonala Sai Punith et.al.|[2604.21496v1](http://arxiv.org/abs/2604.21496v1)|null|
 |**2026-04-23**|**Planning Beyond Text: Graph-based Reasoning for Complex Narrative Generation**|Hanwen Gu et.al.|[2604.21253v1](http://arxiv.org/abs/2604.21253v1)|null|
@@ -5060,7 +5060,7 @@
 |**2026-04-24**|**Learning Evidence Highlighting for Frozen LLMs**|Shaoang Li et.al.|[2604.22565v1](http://arxiv.org/abs/2604.22565v1)|null|
 |**2026-04-24**|**Cross-Stage Coherence in Hierarchical Driving VQA: Explicit Baselines and Learned Gated Context Projectors**|Gautam Kumar Jain et.al.|[2604.22560v1](http://arxiv.org/abs/2604.22560v1)|null|
 |**2026-04-24**|**Context-Fidelity Boosting: Enhancing Faithful Generation through Watermark-Inspired Decoding**|Weixu Zhang et.al.|[2604.22335v1](http://arxiv.org/abs/2604.22335v1)|null|
-|**2026-04-24**|**Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets**|Harshit Joshi et.al.|[2604.22294v1](http://arxiv.org/abs/2604.22294v1)|null|
+|**2026-04-24**|**Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets**|Harshit Joshi et.al.|[2604.22294v1](http://arxiv.org/abs/2604.22294v1)|**[link](https://github.com/stanford-oval/sliders)**|
 |**2026-04-24**|**STEM: Structure-Tracing Evidence Mining for Knowledge Graphs-Driven Retrieval-Augmented Generation**|Peng Yu et.al.|[2604.22282v1](http://arxiv.org/abs/2604.22282v1)|null|
 |**2026-04-24**|**DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning**|Joonmyung Choi et.al.|[2604.22281v1](http://arxiv.org/abs/2604.22281v1)|null|
 |**2026-04-24**|**Towards Safe Mobility: A Unified Transportation Foundation Model enabled by Open-Ended Vision-Language Dataset**|Wenhui Huang et.al.|[2604.22260v1](http://arxiv.org/abs/2604.22260v1)|null|
@@ -5131,7 +5131,7 @@
 |---|---|---|---|---|
 |**2026-04-24**|**STEM: Structure-Tracing Evidence Mining for Knowledge Graphs-Driven Retrieval-Augmented Generation**|Peng Yu et.al.|[2604.22282v1](http://arxiv.org/abs/2604.22282v1)|null|
 |**2026-04-24**|**FixV2W: Correcting Invalid CVE-CWE Mappings with Knowledge Graph Embeddings**|Sevval Simsek et.al.|[2604.22176v1](http://arxiv.org/abs/2604.22176v1)|null|
-|**2026-04-23**|**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents**|Seyed Moein Abtahi et.al.|[2604.22085v1](http://arxiv.org/abs/2604.22085v1)|null|
+|**2026-04-23**|**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents**|Seyed Moein Abtahi et.al.|[2604.22085v1](http://arxiv.org/abs/2604.22085v1)|**[link](https://github.com/moorcheh-ai/memanto-evaluation)**|
 |**2026-04-23**|**PrivUn: Unveiling Latent Ripple Effects and Shallow Forgetting in Privacy Unlearning**|Xiaoyi Chen et.al.|[2604.22076v1](http://arxiv.org/abs/2604.22076v1)|null|
 |**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|Qizhuo Xie et.al.|[2604.21649v1](http://arxiv.org/abs/2604.21649v1)|**[link](https://github.com/mikumifa/GS-Quant)**|
 |**2026-04-22**|**GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons**|Sebastian Walter et.al.|[2604.21133v1](http://arxiv.org/abs/2604.21133v1)|null|
