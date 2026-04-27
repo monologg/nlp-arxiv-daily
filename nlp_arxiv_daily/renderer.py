@@ -73,9 +73,21 @@ def _archive_link_line(archive_index_link: str) -> str:
     return f"> Older months: [archive]({archive_index_link})\n\n"
 
 
-def _toc(data: PapersByKeyword) -> str:
+def _ordered_data(data: PapersByKeyword, keyword_order: list[str] | None) -> PapersByKeyword:
+    """Return `data` reordered to follow `keyword_order`. Unknown keys keep
+    their original relative order at the end. `None` is identity."""
+    if not keyword_order:
+        return data
+    ordered: PapersByKeyword = {k: data[k] for k in keyword_order if k in data}
+    for k, v in data.items():
+        if k not in ordered:
+            ordered[k] = v
+    return ordered
+
+
+def _toc(data: PapersByKeyword, keyword_order: list[str] | None = None) -> str:
     lines = ["<details>\n", "  <summary>Table of Contents</summary>\n", "  <ol>\n"]
-    for keyword, day_content in data.items():
+    for keyword, day_content in _ordered_data(data, keyword_order).items():
         if not day_content:
             continue
         kw = keyword.replace(" ", "-")
@@ -122,11 +134,16 @@ def render_index(
     repo_name: str = "",
     archive_index_link: str = "",
     today: datetime.date | None = None,
+    keyword_order: list[str] | None = None,
 ) -> None:
     """Render a JSON of {keyword: {paper_id: row}} to a markdown index page.
 
     `today` is exposed for deterministic testing; production calls leave it
     None so it defaults to today's date.
+
+    `keyword_order` (when given) overrides the JSON file's key order so the
+    rendered TOC + sections follow config.yaml. Keys present in the JSON but
+    missing from `keyword_order` are appended at the end.
     """
     if today is None:
         today = datetime.date.today()
@@ -135,6 +152,7 @@ def render_index(
     with open(json_path) as f:
         content = f.read()
     data: PapersByKeyword = json.loads(content) if content else {}
+    data = _ordered_data(data, keyword_order)
 
     parts: list[str] = []
     if use_title and to_web:
@@ -169,6 +187,7 @@ def render_archive_pages(
     user_name: str = "",
     repo_name: str = "",
     today: datetime.date | None = None,
+    keyword_order: list[str] | None = None,
 ) -> None:
     """
     Render every {YYYY-MM}.json under archive_json_dir to a sibling
@@ -193,6 +212,7 @@ def render_archive_pages(
             user_name=user_name,
             repo_name=repo_name,
             today=today,
+            keyword_order=keyword_order,
         )
         months.append(stem)
 

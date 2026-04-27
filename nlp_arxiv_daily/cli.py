@@ -71,6 +71,7 @@ def cmd_render(config: dict) -> None:
     show_badge = config["show_badge"]
     user_name = config["user_name"]
     repo_name = config["repo_name"]
+    keyword_order = list(config["kv"].keys())
 
     if config["publish_readme"]:
         json_to_md(
@@ -81,6 +82,7 @@ def cmd_render(config: dict) -> None:
             user_name=user_name,
             repo_name=repo_name,
             archive_index_link="docs/archive/index.md",
+            keyword_order=keyword_order,
         )
         render_archive_pages(
             config["archive_readme_json_dir"],
@@ -88,6 +90,7 @@ def cmd_render(config: dict) -> None:
             show_badge=show_badge,
             user_name=user_name,
             repo_name=repo_name,
+            keyword_order=keyword_order,
         )
 
 

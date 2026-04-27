@@ -174,6 +174,34 @@ class TestSmallHelpers:
         out = _toc(data)
         assert "<a href='#question-answering'>Question Answering</a>" in out
 
+    def test_toc_respects_keyword_order(self):
+        data = {"NLP": {"2604.00001": "row"}, "RAG": {"2604.00002": "row"}}
+        out = _toc(data, keyword_order=["RAG", "NLP"])
+        assert out.index("'#rag'") < out.index("'#nlp'")
+
+    def test_toc_keyword_order_appends_unknown_keys(self):
+        data = {"NLP": {"2604.00001": "row"}, "Surprise": {"2604.00002": "row"}}
+        out = _toc(data, keyword_order=["NLP"])
+        # Unknown keys still rendered, after the ordered ones
+        assert "'#surprise'" in out
+        assert out.index("'#nlp'") < out.index("'#surprise'")
+
+
+class TestRenderIndexKeywordOrder:
+    def test_render_index_orders_sections_by_keyword_order(self, tmp_path):
+        json_path = tmp_path / "data.json"
+        json_path.write_text('{"NLP": {"2604.00001": "|row a|\\n"}, "RAG": {"2604.00002": "|row b|\\n"}}')
+        out = tmp_path / "out.md"
+        render_index(
+            str(out.parent / "data.json"),
+            str(out),
+            show_badge=False,
+            today=TODAY,
+            keyword_order=["RAG", "NLP"],
+        )
+        text = out.read_text()
+        assert text.index("## RAG") < text.index("## NLP")
+
 
 class TestKeywordSection:
     def test_readme_flavor_includes_table_header(self):
