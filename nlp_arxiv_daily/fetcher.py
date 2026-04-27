@@ -3,10 +3,19 @@ from __future__ import annotations
 import datetime
 import logging
 import re
+import time
 from collections.abc import Iterable
 
 import arxiv
 import requests
+from tenacity import (
+    retry,
+    retry_if_exception,
+    retry_if_exception_type,
+    stop_after_attempt,
+    wait_exponential,
+    wait_random,
+)
 
 from nlp_arxiv_daily.types import Paper
 
@@ -14,15 +23,40 @@ from nlp_arxiv_daily.types import Paper
 HF_PAPERS_API = "https://huggingface.co/api/papers/"
 REQUEST_TIMEOUT = 10
 GITHUB_URL_RE = re.compile(r"https?://github\.com/[\w.-]+/[\w.-]+")
-# arxiv API publishes a 3s minimum between requests, but bulk backfill
-# pagination triggers 429s in practice — use a more conservative gap.
+
+# arxiv API publishes a 3s minimum between requests, but multi-keyword
+# back-to-back fetches and bulk backfill pagination both trigger 429s in
+# practice — use a more conservative gap shared between daily and backfill.
+DAILY_RATE_LIMIT_SECONDS = 5
 BACKFILL_RATE_LIMIT_SECONDS = 5
-# arxiv.Client default is 3 retries; bump it so transient 429 storms during
-# a multi-page query don't kill the whole backfill.
+# arxiv.Client default is 3 in-library retries (fixed interval); bump it
+# before our outer tenacity retry kicks in.
+DAILY_NUM_RETRIES = 10
 BACKFILL_NUM_RETRIES = 10
 # Default upper bound per (keyword, month) backfill query — busy keywords
 # can return hundreds of arxiv submissions in a single month.
 BACKFILL_DEFAULT_MAX_RESULTS = 2000
+
+# HuggingFace Papers gets one lookup per arxiv result. Without throttle, a
+# 100-paper page fires ~10 req/s. 0.5s gap = 2 req/s, polite and still fast
+# enough that a daily run finishes in seconds.
+HF_MIN_INTERVAL_SECONDS = 0.5
+_hf_last_call_ts: float = 0.0
+
+# Module-level singleton so every keyword in cmd_fetch shares the same
+# client, and the arxiv library's per-client rate limiter governs *across*
+# keyword boundaries (not just within a single fetch_papers call).
+_DAILY_CLIENT: arxiv.Client | None = None
+
+
+def _get_daily_client() -> arxiv.Client:
+    global _DAILY_CLIENT
+    if _DAILY_CLIENT is None:
+        _DAILY_CLIENT = arxiv.Client(
+            delay_seconds=DAILY_RATE_LIMIT_SECONDS,
+            num_retries=DAILY_NUM_RETRIES,
+        )
+    return _DAILY_CLIENT
 
 
 def get_authors(authors: Iterable, first_author: bool = False) -> str:
@@ -31,18 +65,55 @@ def get_authors(authors: Iterable, first_author: bool = False) -> str:
     return ", ".join(str(author) for author in authors)
 
 
+def _is_retryable_hf_error(exc: BaseException) -> bool:
+    """Retry HF Papers calls only on 429/5xx and connection-level failures."""
+    if isinstance(exc, requests.HTTPError):
+        resp = getattr(exc, "response", None)
+        status = getattr(resp, "status_code", None)
+        return status == 429 or (status is not None and 500 <= status < 600)
+    return isinstance(exc, requests.ConnectionError | requests.Timeout)
+
+
+@retry(
+    retry=retry_if_exception(_is_retryable_hf_error),
+    wait=wait_exponential(multiplier=2, min=2, max=30) + wait_random(0, 2),
+    stop=stop_after_attempt(3),
+    reraise=True,
+)
+def _hf_lookup(arxiv_id: str) -> dict | None:
+    """Hit HF Papers API once with module-level throttle. Returns parsed
+    JSON dict on 200, None on 404. Raises on retryable errors so the
+    tenacity decorator can back off; non-retryable HTTP errors surface.
+    """
+    global _hf_last_call_ts
+    elapsed = time.monotonic() - _hf_last_call_ts
+    if elapsed < HF_MIN_INTERVAL_SECONDS:
+        time.sleep(HF_MIN_INTERVAL_SECONDS - elapsed)
+    _hf_last_call_ts = time.monotonic()
+
+    r = requests.get(f"{HF_PAPERS_API}{arxiv_id}", timeout=REQUEST_TIMEOUT)
+    if r.status_code == 404:
+        return None
+    r.raise_for_status()
+    return r.json()
+
+
 def find_code_link(arxiv_id: str, summary: str | None = None) -> str | None:
     """
     Best-effort code repo URL lookup. Returns None when nothing is found.
     Order: HuggingFace Papers `githubRepo` → github.com URL in arxiv summary.
+
+    Failure here is non-fatal: a flaky HF Papers API should not kill the
+    whole daily run, so retry-exhausted errors are swallowed and the
+    summary fallback still gets a chance.
     """
     try:
-        r = requests.get(f"{HF_PAPERS_API}{arxiv_id}", timeout=REQUEST_TIMEOUT)
-        if r.status_code == 200:
-            repo = r.json().get("githubRepo")
+        payload = _hf_lookup(arxiv_id)
+        if payload:
+            repo = payload.get("githubRepo")
             if repo:
                 return repo
-    except requests.RequestException as e:
+    except (requests.RequestException, requests.HTTPError) as e:
         logging.warning(f"HF Papers lookup failed for {arxiv_id}: {e}")
 
     if summary:
@@ -88,12 +159,22 @@ def _result_to_paper(result) -> Paper:
     )
 
 
+@retry(
+    retry=retry_if_exception_type(arxiv.HTTPError),
+    wait=wait_exponential(multiplier=10, min=10, max=120) + wait_random(0, 5),
+    stop=stop_after_attempt(4),
+    reraise=True,
+)
 def fetch_papers(query: str, max_results: int) -> list[Paper]:
     """
     Hit arxiv with `query`, sorted by submission date desc, and look up code
     links via HF Papers / arxiv summary fallback. No markdown rendering.
+
+    Wrapped in tenacity outer retry so a 429 storm that exhausts the
+    arxiv library's in-client retries (10 × 5s) gets another 4 attempts
+    with exponential backoff (~10s → 80s + jitter) before giving up.
     """
-    client = arxiv.Client()
+    client = _get_daily_client()
     search = arxiv.Search(query=query, max_results=max_results, sort_by=arxiv.SortCriterion.SubmittedDate)
     return [_result_to_paper(r) for r in client.results(search)]
 
@@ -105,6 +186,12 @@ def _format_arxiv_datetime(dt: datetime.date, *, end_of_day: bool) -> str:
     return f"{dt.year:04d}{dt.month:02d}{dt.day:02d}{suffix}"
 
 
+@retry(
+    retry=retry_if_exception_type(arxiv.HTTPError),
+    wait=wait_exponential(multiplier=10, min=10, max=120) + wait_random(0, 5),
+    stop=stop_after_attempt(4),
+    reraise=True,
+)
 def fetch_papers_in_range(
     query: str,
     start: datetime.date,

@@ -1,6 +1,8 @@
 import datetime
 
+import arxiv
 import pytest
+import requests
 
 from nlp_arxiv_daily import fetcher
 from nlp_arxiv_daily.fetcher import (
@@ -311,3 +313,240 @@ class TestGetDailyPapersAdapter:
         assert "**[link](https://github.com/x/y)**" in row
         web_row = data_web["NLP"]["2604.00001"]
         assert "Code: **[https://github.com/x/y](https://github.com/x/y)**" in web_row
+
+
+class _FlakyFakeClient:
+    """Raises arxiv.HTTPError for the first `raise_count` calls to results(),
+    then returns the supplied list. Lets us drive tenacity retry behavior
+    without real network."""
+
+    def __init__(self, raise_count: int, results: list, status: int = 429):
+        self.calls = 0
+        self.raise_count = raise_count
+        self._results = results
+        self._status = status
+
+    def results(self, search):  # noqa: ARG002 — mirror real signature
+        self.calls += 1
+        if self.calls <= self.raise_count:
+            raise arxiv.HTTPError(url="http://x", retry=0, status=self._status)
+        return iter(self._results)
+
+
+def _patch_arxiv_with_client(monkeypatch, client):
+    """Replace arxiv.Client with a constructor that always returns `client`,
+    capturing kwargs."""
+    captured = {"client_kwargs": None}
+
+    def fake_ctor(**kwargs):
+        captured["client_kwargs"] = kwargs
+        return client
+
+    monkeypatch.setattr(fetcher.arxiv, "Client", fake_ctor)
+    monkeypatch.setattr(
+        fetcher.arxiv,
+        "Search",
+        lambda query, max_results, sort_by: type("S", (), {"query": query})(),
+    )
+    return captured
+
+
+class TestFetchPapersSharedClient:
+    def test_uses_rate_limited_client_kwargs(self, monkeypatch):
+        _silence_code_link(monkeypatch)
+        captured = _patch_arxiv(monkeypatch, [])
+        fetch_papers(query="x", max_results=1)
+        kwargs = captured["client_kwargs"]
+        assert kwargs is not None
+        # arxiv API publishes 3s minimum; we go higher to survive multi-keyword
+        # back-to-back fetches that share the daily client.
+        assert kwargs.get("delay_seconds", 0) >= 5
+        # Library default is 3; bump so transient 429 storms don't kill the run.
+        assert kwargs.get("num_retries", 0) >= 10
+
+    def test_shares_client_across_calls(self, monkeypatch):
+        _silence_code_link(monkeypatch)
+        ctor_calls = {"n": 0}
+
+        class _CountingClient:
+            def results(self, search):  # noqa: ARG002
+                return iter([])
+
+        def fake_ctor(**_kwargs):
+            ctor_calls["n"] += 1
+            return _CountingClient()
+
+        monkeypatch.setattr(fetcher.arxiv, "Client", fake_ctor)
+        monkeypatch.setattr(
+            fetcher.arxiv,
+            "Search",
+            lambda query, max_results, sort_by: type("S", (), {})(),
+        )
+
+        fetch_papers(query="a", max_results=1)
+        fetch_papers(query="b", max_results=1)
+        # Singleton: arxiv.Client(...) constructed once, reused across keywords.
+        assert ctor_calls["n"] == 1
+
+
+class TestFetchPapersRetry:
+    def test_retries_on_http_429_and_succeeds(self, monkeypatch):
+        _silence_code_link(monkeypatch)
+        result = _FakeArxivResult(short_id="2604.00001v1")
+        flaky = _FlakyFakeClient(raise_count=2, results=[result], status=429)
+        _patch_arxiv_with_client(monkeypatch, flaky)
+
+        papers = fetch_papers(query="x", max_results=1)
+
+        assert flaky.calls == 3  # 2 failures + 1 success
+        assert len(papers) == 1
+        assert papers[0].paper_id == "2604.00001"
+
+    def test_gives_up_and_reraises_after_max_attempts(self, monkeypatch):
+        _silence_code_link(monkeypatch)
+        flaky = _FlakyFakeClient(raise_count=99, results=[], status=429)
+        _patch_arxiv_with_client(monkeypatch, flaky)
+
+        with pytest.raises(arxiv.HTTPError):
+            fetch_papers(query="x", max_results=1)
+        # Don't pin the exact attempt count, but it must be bounded — not infinite.
+        assert flaky.calls < 99
+        assert flaky.calls >= 2  # at least one retry happened
+
+    def test_in_range_retries_on_http_429(self, monkeypatch):
+        _silence_code_link(monkeypatch)
+        result = _FakeArxivResult(short_id="2508.00001v1")
+        flaky = _FlakyFakeClient(raise_count=1, results=[result], status=429)
+        _patch_arxiv_with_client(monkeypatch, flaky)
+
+        papers = fetch_papers_in_range(
+            query="x",
+            start=datetime.date(2025, 8, 1),
+            end=datetime.date(2025, 8, 31),
+        )
+
+        assert flaky.calls == 2
+        assert len(papers) == 1
+
+
+class TestFindCodeLinkThrottle:
+    def test_throttles_consecutive_calls(self, monkeypatch):
+        sleeps: list[float] = []
+
+        # Fake monotonic clock advances only when we explicitly say so.
+        clock = {"t": 1000.0}
+        monkeypatch.setattr(fetcher.time, "monotonic", lambda: clock["t"])
+
+        def fake_sleep(seconds):
+            sleeps.append(seconds)
+            clock["t"] += seconds
+
+        monkeypatch.setattr(fetcher.time, "sleep", fake_sleep)
+
+        def fake_get(url, timeout):  # noqa: ARG001
+            class R:
+                status_code = 200
+
+                def json(self):
+                    return {"githubRepo": None}
+
+                def raise_for_status(self):
+                    pass
+
+            return R()
+
+        monkeypatch.setattr(fetcher.requests, "get", fake_get)
+
+        fetcher.find_code_link("2604.00001")
+        # Second call lands within the minimum interval -> must sleep.
+        fetcher.find_code_link("2604.00002")
+
+        assert len(sleeps) >= 1
+        assert sleeps[-1] >= fetcher.HF_MIN_INTERVAL_SECONDS - 1e-6
+
+
+class TestFindCodeLinkRetry:
+    def _patch_summary_only(self, monkeypatch):
+        # Force the github-from-summary fallback to also yield nothing, so
+        # tests assert only the HF path's behavior.
+        pass
+
+    def test_retries_on_429_then_succeeds(self, monkeypatch):
+        # Disable throttle to keep test fast.
+        monkeypatch.setattr(fetcher.time, "sleep", lambda *_a, **_k: None)
+        monkeypatch.setattr(fetcher.time, "monotonic", lambda: 1e9)  # well past throttle window
+
+        calls = {"n": 0}
+
+        def fake_get(url, timeout):  # noqa: ARG001
+            calls["n"] += 1
+
+            class R:
+                status_code = 429 if calls["n"] == 1 else 200
+
+                def json(self):
+                    return {"githubRepo": "https://github.com/foo/bar"}
+
+                def raise_for_status(self):
+                    if self.status_code >= 400:
+                        raise requests.HTTPError(response=self)
+
+            return R()
+
+        monkeypatch.setattr(fetcher.requests, "get", fake_get)
+
+        repo = fetcher.find_code_link("2604.00001")
+        assert calls["n"] >= 2  # retried at least once
+        assert repo == "https://github.com/foo/bar"
+
+    def test_retries_on_5xx_then_succeeds(self, monkeypatch):
+        monkeypatch.setattr(fetcher.time, "sleep", lambda *_a, **_k: None)
+        monkeypatch.setattr(fetcher.time, "monotonic", lambda: 1e9)
+
+        calls = {"n": 0}
+
+        def fake_get(url, timeout):  # noqa: ARG001
+            calls["n"] += 1
+
+            class R:
+                status_code = 503 if calls["n"] == 1 else 200
+
+                def json(self):
+                    return {"githubRepo": "https://github.com/x/y"}
+
+                def raise_for_status(self):
+                    if self.status_code >= 400:
+                        raise requests.HTTPError(response=self)
+
+            return R()
+
+        monkeypatch.setattr(fetcher.requests, "get", fake_get)
+
+        assert fetcher.find_code_link("2604.00002") == "https://github.com/x/y"
+        assert calls["n"] >= 2
+
+    def test_persistent_failure_returns_none(self, monkeypatch):
+        monkeypatch.setattr(fetcher.time, "sleep", lambda *_a, **_k: None)
+        monkeypatch.setattr(fetcher.time, "monotonic", lambda: 1e9)
+
+        calls = {"n": 0}
+
+        def fake_get(url, timeout):  # noqa: ARG001
+            calls["n"] += 1
+
+            class R:
+                status_code = 429
+
+                def json(self):
+                    return {}
+
+                def raise_for_status(self):
+                    raise requests.HTTPError(response=self)
+
+            return R()
+
+        monkeypatch.setattr(fetcher.requests, "get", fake_get)
+
+        # Persistent 429: graceful degradation — return None, don't raise.
+        assert fetcher.find_code_link("2604.00003") is None
+        assert calls["n"] >= 2  # actually retried, not a single failure

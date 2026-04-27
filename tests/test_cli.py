@@ -118,7 +118,11 @@ class TestCommandIsolation:
         # Mock fetch_papers so no network
         from nlp_arxiv_daily import fetcher
 
-        monkeypatch.setattr(fetcher.arxiv, "Client", lambda: type("X", (), {"results": lambda self, s: iter([])})())
+        monkeypatch.setattr(
+            fetcher.arxiv,
+            "Client",
+            lambda **_kw: type("X", (), {"results": lambda self, s: iter([])})(),
+        )
 
         class _FakeSearch:
             def __init__(self, *a, **kw):
