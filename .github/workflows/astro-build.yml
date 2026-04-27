@@ -4,11 +4,12 @@ name: Astro Build & Deploy
 #
 # Triggers:
 # - web/**            — frontend code or theme changes
-# - docs/**.json      — cron-committed paper data the Astro build consumes
-#                       (cron runs `python -m nlp_arxiv_daily run`, which
-#                       writes the gitpage JSONs; this workflow then
-#                       rebuilds + redeploys)
+# - docs/**.json      — paper data the Astro build consumes (human pushes only)
 # - the workflow yaml — self-changes
+# - workflow_run      — fires after the daily cron commits new JSONs.
+#                       Needed because the cron pushes via GITHUB_TOKEN,
+#                       which by design does NOT trigger downstream `push`
+#                       events; without this hook the site never rebuilds.
 #
 # Repo Settings → Pages → Source must be set to "GitHub Actions" for the
 # deploy job to publish.
@@ -25,6 +26,10 @@ on:
     paths:
       - "web/**"
       - ".github/workflows/astro-build.yml"
+  workflow_run:
+    workflows: ["Run Arxiv Papers Daily"]
+    types: [completed]
+    branches: [master]
   workflow_dispatch:
 
 permissions:
@@ -43,6 +48,8 @@ concurrency:
 jobs:
   build:
     name: build
+    # Skip when the upstream cron failed — no point rebuilding stale data.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -79,7 +86,7 @@ jobs:
   deploy:
     name: deploy
     needs: build
-    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch' || github.event_name == 'workflow_run'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
