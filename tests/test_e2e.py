@@ -95,7 +95,7 @@ def workspace(tmp_path):
 
 
 def _patch_arxiv(monkeypatch, results_by_query):
-    monkeypatch.setattr(fetcher.arxiv, "Client", lambda: _FakeClient(results_by_query))
+    monkeypatch.setattr(fetcher.arxiv, "Client", lambda **_kw: _FakeClient(results_by_query))
 
     class _FakeSearch:
         def __init__(self, query, max_results, sort_by):

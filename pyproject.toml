@@ -7,6 +7,7 @@ dependencies = [
   "arxiv==3.0.0",
   "pyyaml==6.0.3",
   "requests==2.33.1",
+  "tenacity==9.1.2",
 ]
 
 [dependency-groups]
