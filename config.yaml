@@ -5,20 +5,14 @@ show_links: True
 show_badge: False
 max_results: 10
 
-publish_readme: True
+publish_readme: False
 publish_gitpage: True
 
-# file paths
-json_readme_path: "./docs/nlp-arxiv-daily.json"
+# file paths — current month JSON + monthly archive snapshots consumed by
+# the Astro site under web/. The README-flavored paths were removed when
+# README.md became a static project page (publish_readme: False).
 json_gitpage_path: "./docs/nlp-arxiv-daily-web.json"
-
-md_readme_path: "README.md"
 md_gitpage_path: "./docs/index.md"
-
-# archive (older months) — main JSON/README hold only the current calendar
-# month; everything older lives under these dirs as YYYY-MM.{json,md}
-archive_readme_json_dir: "./docs/archive"
-archive_readme_md_dir: "./docs/archive"
 archive_gitpage_json_dir: "./docs/archive-web"
 archive_gitpage_md_dir: "./docs/archive-web"
 
