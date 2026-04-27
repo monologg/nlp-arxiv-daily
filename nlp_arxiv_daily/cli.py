@@ -32,6 +32,7 @@ def cmd_fetch(config: dict) -> None:
     """Query arxiv for every keyword in `config["kv"]`, persist JSON splits."""
     keywords = config["kv"]
     max_results = config["max_results"]
+    keyword_order = list(keywords.keys())
 
     data_collector = []
     data_collector_web = []
@@ -50,12 +51,14 @@ def cmd_fetch(config: dict) -> None:
             data_collector,
             config["json_readme_path"],
             config["archive_readme_json_dir"],
+            keyword_order=keyword_order,
         )
     if config["publish_gitpage"]:
         write_papers_split(
             data_collector_web,
             config["json_gitpage_path"],
             config["archive_gitpage_json_dir"],
+            keyword_order=keyword_order,
         )
 
 
@@ -144,6 +147,7 @@ def cmd_backfill(
     seeding newly-added tags without re-querying the existing ones.
     """
     keywords = config["kv"]
+    keyword_order = list(keywords.keys())
     if only_keywords:
         unknown = [k for k in only_keywords if k not in keywords]
         if unknown:
@@ -188,12 +192,14 @@ def cmd_backfill(
                 month_data,
                 config["json_readme_path"],
                 config["archive_readme_json_dir"],
+                keyword_order=keyword_order,
             )
         if config["publish_gitpage"] and month_data_web:
             write_papers_split(
                 month_data_web,
                 config["json_gitpage_path"],
                 config["archive_gitpage_json_dir"],
+                keyword_order=keyword_order,
             )
         logging.info(f"checkpoint flushed for {month_start.strftime('%Y-%m')}")
 

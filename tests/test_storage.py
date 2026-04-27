@@ -167,3 +167,42 @@ class TestWritePapersSplitRoundTrip:
         )
         main = json.loads(open(paths["main"]).read())
         assert main == {"NLP": {"2604.00001": "v2"}}
+
+    def test_keyword_order_reorders_main_and_archive_keys(self, tmp_path):
+        """Astro site reads JSON keys in insertion order — write_papers_split must
+        emit keys per `keyword_order` so config.yaml is the source of truth."""
+        paths = self._seed(tmp_path)
+        # Seed in NLP, QA order
+        write_papers_split(
+            [{"NLP": {"2604.00001": "apr", "2603.00001": "mar"}, "QA": {"2604.00099": "apr-qa"}}],
+            paths["main"],
+            paths["archive_dir"],
+            current_yymm="2604",
+        )
+        # Re-run with reversed order; data is unchanged but key order should follow
+        write_papers_split(
+            [],
+            paths["main"],
+            paths["archive_dir"],
+            current_yymm="2604",
+            keyword_order=["QA", "NLP"],
+        )
+        main_keys = list(json.loads(open(paths["main"]).read()).keys())
+        archive_keys = list(json.loads(open(f"{paths['archive_dir']}/2026-03.json").read()).keys())
+        assert main_keys == ["QA", "NLP"]
+        # March archive only has NLP — no crash, unknown keys (none here) shouldn't appear
+        assert archive_keys == ["NLP"]
+
+    def test_keyword_order_appends_unknown_keywords(self, tmp_path):
+        """Keys present in the JSON but missing from `keyword_order` must still
+        be emitted, after the ordered ones — never dropped."""
+        paths = self._seed(tmp_path)
+        write_papers_split(
+            [{"NLP": {"2604.00001": "a"}, "Surprise": {"2604.00002": "b"}}],
+            paths["main"],
+            paths["archive_dir"],
+            current_yymm="2604",
+            keyword_order=["NLP"],  # "Surprise" not in config
+        )
+        main = json.loads(open(paths["main"]).read())
+        assert list(main.keys()) == ["NLP", "Surprise"]
