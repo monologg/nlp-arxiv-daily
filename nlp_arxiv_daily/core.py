@@ -44,7 +44,9 @@ def load_config(config_file: str) -> dict:
         keywords = {}
         EXCAPE = '"'
         QUOTA = ""  # NO-USE
-        OR = "OR"  # TODO
+        # Whitespace around OR is required — arxiv parses `NLPOR"..."` as a
+        # single token, which yields no results and triggers 429s on retry.
+        OR = " OR "
 
         def parse_filters(filters: list):
             ret = ""

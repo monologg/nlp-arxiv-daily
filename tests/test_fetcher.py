@@ -188,7 +188,7 @@ class TestFetchPapersInRange:
         captured = _patch_arxiv(monkeypatch, [])
 
         fetch_papers_in_range(
-            query='NLPOR"Natural Language Processing"',
+            query='NLP OR "Natural Language Processing"',
             start=datetime.date(2025, 8, 1),
             end=datetime.date(2025, 8, 31),
             max_results=500,
@@ -197,7 +197,7 @@ class TestFetchPapersInRange:
         assert captured["search"] is not None
         q = captured["search"].query
         # Combined: keyword filter wrapped in parens AND submittedDate range.
-        assert '(NLPOR"Natural Language Processing")' in q
+        assert '(NLP OR "Natural Language Processing")' in q
         assert "submittedDate:[202508010000 TO 202508312359]" in q
         assert " AND " in q
         assert captured["search"].max_results == 500
