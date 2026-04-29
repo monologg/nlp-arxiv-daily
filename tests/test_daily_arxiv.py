@@ -97,7 +97,9 @@ class TestLoadConfig:
 
     def test_quotes_multi_word_filters(self, config_file):
         config = load_config(config_file)
-        assert config["kv"]["NLP"] == 'NLPOR"Natural Language Processing"'
+        # arxiv requires whitespace around `OR`; without it the query becomes
+        # one token (e.g. `NLPOR"..."`) and arxiv 429s on retry storms.
+        assert config["kv"]["NLP"] == 'NLP OR "Natural Language Processing"'
 
     def test_single_word_filter_left_unquoted(self, config_file):
         config = load_config(config_file)
