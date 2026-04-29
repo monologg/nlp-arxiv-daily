@@ -26,13 +26,18 @@ GITHUB_URL_RE = re.compile(r"https?://github\.com/[\w.-]+/[\w.-]+")
 
 # arxiv API publishes a 3s minimum between requests, but multi-keyword
 # back-to-back fetches and bulk backfill pagination both trigger 429s in
-# practice — use a more conservative gap shared between daily and backfill.
-DAILY_RATE_LIMIT_SECONDS = 5
+# practice — and GH Actions IPs get throttled harder than typical clients,
+# so we go well above the published minimum.
+DAILY_RATE_LIMIT_SECONDS = 15
 BACKFILL_RATE_LIMIT_SECONDS = 5
 # arxiv.Client default is 3 in-library retries (fixed interval); bump it
 # before our outer tenacity retry kicks in.
 DAILY_NUM_RETRIES = 10
 BACKFILL_NUM_RETRIES = 10
+# config caps display at max_results=10 per keyword, so a library-default
+# page_size=100 just inflates response payloads without giving us anything.
+# Smaller pages also reduce the chance of tripping arxiv's per-IP throttle.
+DAILY_PAGE_SIZE = 20
 # Default upper bound per (keyword, month) backfill query — busy keywords
 # can return hundreds of arxiv submissions in a single month.
 BACKFILL_DEFAULT_MAX_RESULTS = 2000
@@ -53,6 +58,7 @@ def _get_daily_client() -> arxiv.Client:
     global _DAILY_CLIENT
     if _DAILY_CLIENT is None:
         _DAILY_CLIENT = arxiv.Client(
+            page_size=DAILY_PAGE_SIZE,
             delay_seconds=DAILY_RATE_LIMIT_SECONDS,
             num_retries=DAILY_NUM_RETRIES,
         )

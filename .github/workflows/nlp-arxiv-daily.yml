@@ -3,7 +3,9 @@ name: Run Arxiv Papers Daily
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0/12 * * *"
+    # Off-peak (avoid the top-of-hour herd of cron jobs that compete for
+    # GH-Actions egress IPs and tend to trip arxiv's per-IP 429 throttle).
+    - cron: "17 1,13 * * *"
 
 env:
   GITHUB_USER_NAME: nlp-arxiv-daily-bot

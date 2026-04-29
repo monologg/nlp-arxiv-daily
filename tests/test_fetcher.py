@@ -358,11 +358,15 @@ class TestFetchPapersSharedClient:
         fetch_papers(query="x", max_results=1)
         kwargs = captured["client_kwargs"]
         assert kwargs is not None
-        # arxiv API publishes 3s minimum; we go higher to survive multi-keyword
-        # back-to-back fetches that share the daily client.
-        assert kwargs.get("delay_seconds", 0) >= 5
+        # arxiv API publishes 3s minimum; we go far higher because GH Actions
+        # IPs get throttled hard and 5s wasn't enough to keep daily cron green.
+        assert kwargs.get("delay_seconds", 0) >= 15
         # Library default is 3; bump so transient 429 storms don't kill the run.
         assert kwargs.get("num_retries", 0) >= 10
+        # page_size caps response payload size — config asks for max_results=10
+        # per keyword, so 100 (library default) wastes bandwidth and is more
+        # likely to trip arxiv's per-IP throttle.
+        assert kwargs.get("page_size", 100) <= 20
 
     def test_shares_client_across_calls(self, monkeypatch):
         _silence_code_link(monkeypatch)
