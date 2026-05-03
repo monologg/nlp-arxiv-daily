@@ -45,7 +45,7 @@ def test_get_daily_papers_end_to_end():
     for line in papers.values():
         assert line.startswith("|**"), f"unexpected row prefix: {line!r}"
         assert "et.al." in line
-        assert "|[link](" in line or "|null|" in line
+        assert "|**[link](" in line or "|null|" in line
 
     for line in web_papers.values():
         assert line.startswith("- ")
