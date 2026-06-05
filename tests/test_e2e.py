@@ -133,7 +133,7 @@ class TestEndToEndPipeline:
                 entry_id="http://arxiv.org/abs/2508.12345v2",
             ),
         ]
-        _patch_arxiv(monkeypatch, {"NLP": results})
+        _patch_arxiv(monkeypatch, {"all:NLP": results})
 
         # Force "today" through the storage current_yymm, since the renderer's
         # date-now is purely cosmetic ("Updated on YYYY.MM.DD") and doesn't
@@ -204,7 +204,7 @@ class TestEndToEndPipeline:
                 entry_id="http://arxiv.org/abs/2604.00001v1",
             ),
         ]
-        _patch_arxiv(monkeypatch, {"NLP": results})
+        _patch_arxiv(monkeypatch, {"all:NLP": results})
         from nlp_arxiv_daily import storage
 
         monkeypatch.setattr(storage, "_current_yymm", lambda: "2604")
