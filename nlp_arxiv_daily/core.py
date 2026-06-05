@@ -43,7 +43,12 @@ def load_config(config_file: str) -> dict:
     def pretty_filters(**config) -> dict:
         keywords = {}
         EXCAPE = '"'
-        QUOTA = ""  # NO-USE
+        # Explicit field prefix. arxiv defaults a bare term to an all-field
+        # search anyway, but only an explicit `all:` makes the query parser
+        # deterministic — a bare `NLP OR "..."` can be mis-grouped, which
+        # silently returns the wrong set (or nothing) and feeds the 429 retry
+        # storm. Prefixing every term sidesteps the parser's guesswork.
+        FIELD = "all:"
         # Whitespace around OR is required — arxiv parses `NLPOR"..."` as a
         # single token, which yields no results and triggers 429s on retry.
         OR = " OR "
@@ -53,9 +58,9 @@ def load_config(config_file: str) -> dict:
             for idx in range(0, len(filters)):
                 filter = filters[idx]
                 if len(filter.split()) > 1:
-                    ret += EXCAPE + filter + EXCAPE
+                    ret += FIELD + EXCAPE + filter + EXCAPE
                 else:
-                    ret += QUOTA + filter + QUOTA
+                    ret += FIELD + filter
                 if idx != len(filters) - 1:
                     ret += OR
             return ret
