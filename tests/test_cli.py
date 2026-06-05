@@ -132,6 +132,65 @@ class TestCommandIsolation:
         cli.main(["--config_path", fake_config_file, "fetch"])
 
 
+class TestCmdFetchResilience:
+    """A single keyword's arxiv failure (e.g. a 429/503 storm) must not kill
+    the whole daily run — the surviving keywords still get persisted."""
+
+    def _config(self, tmp_path):
+        json_dir = tmp_path / "docs"
+        json_dir.mkdir(exist_ok=True)
+        archive_web_dir = json_dir / "archive-web"
+        archive_web_dir.mkdir(exist_ok=True)
+        (json_dir / "main-web.json").write_text("{}")
+        return {
+            "kv": {"NLP": "NLP", "LLM": "LLM"},
+            "max_results": 1,
+            "publish_readme": False,
+            "publish_gitpage": True,
+            "json_gitpage_path": str(json_dir / "main-web.json"),
+            "archive_gitpage_json_dir": str(archive_web_dir),
+        }
+
+    def test_one_keyword_failure_does_not_abort_run(self, monkeypatch, tmp_path):
+        import json
+
+        import arxiv
+
+        def fake_get_daily_papers(topic, query, max_results):
+            if topic == "NLP":
+                raise arxiv.HTTPError("https://export.arxiv.org/api/query", 1, 429)
+            # YYMM prefix must match the current month so it lands in main-web.json
+            # (not the archive). bucket_by_month buckets by the id's YYMM prefix.
+            import datetime
+
+            today = datetime.date.today()
+            key = f"{today.year % 100:02d}{today.month:02d}.00001"
+            row = {topic: {key: "ok\n"}}
+            return row, row
+
+        monkeypatch.setattr(cli, "get_daily_papers", fake_get_daily_papers)
+
+        config = self._config(tmp_path)
+        # Must not raise even though NLP keyword 429s.
+        cli.cmd_fetch(config)
+
+        # The surviving keyword (LLM) was still persisted.
+        written = json.loads((tmp_path / "docs" / "main-web.json").read_text())
+        assert "LLM" in written
+        assert "NLP" not in written
+
+    def test_all_keywords_failing_raises(self, monkeypatch, tmp_path):
+        import arxiv
+
+        def boom(topic, query, max_results):
+            raise arxiv.HTTPError("https://export.arxiv.org/api/query", 1, 503)
+
+        monkeypatch.setattr(cli, "get_daily_papers", boom)
+
+        with pytest.raises(RuntimeError, match="all .* keyword fetches failed"):
+            cli.cmd_fetch(self._config(tmp_path))
+
+
 class TestCmdRunInvocation:
     def test_run_calls_fetch_then_render_in_order(self, monkeypatch, fake_config_file):
         order = []

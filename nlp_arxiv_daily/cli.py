@@ -38,13 +38,33 @@ def cmd_fetch(config: dict) -> None:
     data_collector_web = []
 
     logging.info("GET daily papers begin")
+    failed_keywords: list[str] = []
     for topic, keyword in keywords.items():
         logging.info(f"Keyword: {topic}")
-        data, data_web = get_daily_papers(topic, query=keyword, max_results=max_results)
+        try:
+            data, data_web = get_daily_papers(topic, query=keyword, max_results=max_results)
+        except Exception as e:
+            # One keyword exhausting arxiv's retries (429/503 storm) must not
+            # abort the whole daily run. write_papers_split merges onto existing
+            # main+archive JSON, so a skipped keyword simply keeps its prior data
+            # this run instead of nuking the published site. Mirrors cmd_backfill.
+            logging.warning(f"FETCH skip {topic}: {e}")
+            failed_keywords.append(topic)
+            continue
         data_collector.append(data)
         data_collector_web.append(data_web)
         logging.info("")
     logging.info("GET daily papers end")
+
+    if failed_keywords:
+        logging.warning(
+            f"FETCH completed with {len(failed_keywords)} skipped keyword(s): " + ", ".join(failed_keywords)
+        )
+        # Every keyword failing usually means a total arxiv outage / IP ban, not
+        # a per-keyword fluke — surface that as a hard failure so the cron run
+        # goes red instead of silently committing a no-op.
+        if len(failed_keywords) == len(keywords):
+            raise RuntimeError(f"all {len(keywords)} keyword fetches failed: {', '.join(failed_keywords)}")
 
     if config["publish_readme"]:
         write_papers_split(
