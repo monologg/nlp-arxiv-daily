@@ -1,6 +1,16 @@
 name: check-lint
 
-on: [pull_request]
+# Python lint/lock checks — skip web-only PRs.
+on:
+  pull_request:
+    paths:
+      - "nlp_arxiv_daily/**"
+      - "daily_arxiv.py"
+      - "tests/**"
+      - "pyproject.toml"
+      - "uv.lock"
+      - "Makefile"
+      - ".github/workflows/check-lint.yml"
 
 jobs:
   check-lint:

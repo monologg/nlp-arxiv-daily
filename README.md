@@ -108,6 +108,7 @@ make set-dev
 uv run python -m nlp_arxiv_daily run        # fetch + persist JSON
 uv run python -m nlp_arxiv_daily fetch      # fetch only
 make test                                   # run unit tests
+make test-integration                       # real arXiv/HF smoke (not run in PR CI)
 make quality                                # ruff lint + format
 
 # website

@@ -45,3 +45,17 @@ jobs:
           rebase: "true"
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
+
+      # This cron doubles as the integration test against the real arXiv/HF
+      # APIs (PR CI runs unit tests only), so a failure here is the signal
+      # that the external contract broke — make it loud. No-op when the
+      # webhook secret is absent (forks).
+      - name: Notify Discord on failure
+        if: failure()
+        env:
+          WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          [ -z "$WEBHOOK_URL" ] && exit 0
+          curl -sf -H "Content-Type: application/json" \
+            -d "{\"content\":\"🚨 **nlp-arxiv-daily cron failed** — arXiv/HF fetch pipeline broke.\\n${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}" \
+            "$WEBHOOK_URL"
