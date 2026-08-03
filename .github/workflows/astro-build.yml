@@ -76,6 +76,8 @@ jobs:
       - name: Build
         env:
           NODE_ENV: production
+          # Repo variable — not inherited by forks, so forks build ad-free.
+          PUBLIC_ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
         run: pnpm build
 
       - name: Upload Pages artifact

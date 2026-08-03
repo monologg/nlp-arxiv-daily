@@ -25,6 +25,10 @@ const ogImage = new URL(
   Astro.site,
 ).toString();
 const canonical = new URL(Astro.url.pathname, Astro.site).toString();
+
+// AdSense is opt-in: only injected when PUBLIC_ADSENSE_CLIENT is set at
+// build time (a CI repo variable, not committed), so forks build ad-free.
+const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT;
 ---
 
 <!doctype html>
@@ -55,6 +59,19 @@ const canonical = new URL(Astro.url.pathname, Astro.site).toString();
       title="NLP Arxiv Daily"
       href={new URL(`${import.meta.env.BASE_URL.replace(/\/$/, "")}/rss.xml`, Astro.site).toString()}
     />
+    {
+      adsenseClient && (
+        <>
+          <meta name="google-adsense-account" content={adsenseClient} />
+          <script
+            is:inline
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
+            crossorigin="anonymous"
+          />
+        </>
+      )
+    }
     <!-- Pre-paint theme bootstrap. Reads stored preference, falls back to
          system pref, sets the .dark class before first paint to avoid FOUC.
          is:inline so Astro doesn't bundle it as a deferred module. -->

@@ -94,6 +94,10 @@ uv run python -m nlp_arxiv_daily backfill --start 2024-01 --end 2025-12
 
 Idempotent — safe to re-run.
 
+### 6. (Optional) Serve AdSense ads
+
+The layout injects the AdSense script only when `PUBLIC_ADSENSE_CLIENT` is set at build time. Add a repository variable (**Settings → Secrets and variables → Actions → Variables**) named `ADSENSE_CLIENT` with your publisher ID (e.g. `ca-pub-XXXXXXXXXXXXXXXX`) — the build workflow passes it through. Without it the site builds ad-free.
+
 ## Local development
 
 Requires Python 3.13+ and Node 22+. The repo uses [`uv`](https://docs.astral.sh/uv/) and [`pnpm`](https://pnpm.io/).
