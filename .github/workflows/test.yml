@@ -1,6 +1,21 @@
 name: test
 
-on: [pull_request]
+# Unit tests only. Integration tests (real arXiv/HF calls) are NOT run here:
+# GH-Actions egress IPs share arxiv's per-IP 429 throttle with the rest of
+# GitHub, so they fail for reasons unrelated to the PR. The daily cron
+# (nlp-arxiv-daily.yml) exercises the real APIs and alerts on failure;
+# run `make test-integration` locally for the contract smoke.
+on:
+  pull_request:
+    paths:
+      - "nlp_arxiv_daily/**"
+      - "daily_arxiv.py"
+      - "tests/**"
+      - "config.yaml"
+      - "pyproject.toml"
+      - "uv.lock"
+      - "Makefile"
+      - ".github/workflows/test.yml"
 
 jobs:
   test:
@@ -20,6 +35,3 @@ jobs:
 
       - name: Run unit tests
         run: make test
-
-      - name: Run integration tests
-        run: make test-integration
