@@ -45,3 +45,21 @@ html.dark {
 body {
   transition: background-color 150ms ease, color 150ms ease;
 }
+
+/* AdSense auto ads occasionally render a unit that ignores the width of the
+   slot it was placed in. When a slot goes unfilled (`data-ad-status=unfilled`)
+   Google drops in a "Discover more" fallback that lays itself out at a fixed
+   1200px — measured live, that is its own capped width, and it renders at
+   exactly 1200px in the full-width body-level slot too. Inside <main>, whose
+   content box is 720px, the extra 480px pushed the document from 1385px to
+   1533px and gave the whole page a horizontal scrollbar. Reproduced in 1 of 8
+   cold loads; a reload usually serves a different unit, which is why it looked
+   random.
+
+   `clip` rather than `hidden` on purpose: `hidden` would turn <main> into a
+   scroll container, which breaks the `scroll-mt-20` anchor offsets the table
+   of contents relies on. `clip` just clips. Safari <16 ignores it and keeps
+   today's behaviour, which is an acceptable floor. */
+main {
+  overflow-x: clip;
+}
