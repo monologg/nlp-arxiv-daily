@@ -3,6 +3,7 @@ import PaperCard from "./PaperCard.astro";
 import { sortPapersDesc, type PaperValue } from "../utils/paperRow.ts";
 import { keywordSlug } from "../utils/keyword.ts";
 import { withBase } from "../utils/url.ts";
+import { PAGE_SIZE } from "../utils/papers.ts";
 
 interface Props {
   keyword: string;
@@ -13,7 +14,9 @@ interface Props {
   /** Show the per-keyword RSS link (Latest page only — archive months are
    * frozen, so a feed for them would never update). */
   rss?: boolean;
-  /** Render only the newest `limit` papers and link to `moreHref` for the rest. */
+  /** Render only the newest `limit` papers; the rest are reachable through
+   * `moreHref` (the keyword's month page), which the load-more script also
+   * fetches to append cards in place. */
   limit?: number;
   moreHref?: string;
 }
@@ -21,17 +24,31 @@ interface Props {
 const { keyword, papers, bibDir, rss = false, limit, moreHref } = Astro.props;
 const slug = keywordSlug(keyword);
 const all = sortPapersDesc(papers);
-const ordered = limit ? all.slice(0, limit) : all;
-const hidden = all.length - ordered.length;
+const total = all.length;
+// Never hide just one paper: the "view all" row would take the same space
+// as the card it replaces (Baymard truncation guideline #6).
+const truncate = Boolean(limit && moreHref) && total > (limit ?? 0) + 1;
+const ordered = truncate ? all.slice(0, limit) : all;
+const hidden = total - ordered.length;
+const pages = Math.ceil(total / PAGE_SIZE);
 const bibHref = bibDir ? withBase(`${bibDir}/${slug}.bib`) : null;
 const rssHref = rss ? withBase(`/rss/${slug}.xml`) : null;
+const fmt = (n: number) => n.toLocaleString("en-US");
 ---
 
 <section id={slug} class="mb-12 scroll-mt-20">
-  <header class="flex items-baseline justify-between mb-3 pb-2 border-b border-(--color-muted)/30">
+  <header class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1 mb-3 pb-2 border-b border-(--color-muted)/30">
     <h2 class="text-2xl font-semibold">{keyword}</h2>
     <span class="text-(--color-muted) text-sm flex items-center gap-3">
-      <span>{all.length} paper{all.length === 1 ? "" : "s"}</span>
+      {truncate ? (
+        <span>
+          Showing {fmt(ordered.length)} of <strong class="font-semibold text-(--color-fg) tabular-nums">{fmt(total)}</strong>
+          {" · "}
+          <a class="text-(--color-accent) hover:underline font-medium" href={moreHref} data-pagefind-ignore>View all →</a>
+        </span>
+      ) : (
+        <span><span class="tabular-nums">{fmt(total)}</span> paper{total === 1 ? "" : "s"}</span>
+      )}
       {bibHref && (
         <a
           class="text-(--color-accent) hover:underline"
@@ -55,15 +72,95 @@ const rssHref = rss ? withBase(`/rss/${slug}.xml`) : null;
       )}
     </span>
   </header>
-  {ordered.map(([paperId, row]) => (
-    <PaperCard paperId={paperId} row={row} keyword={keyword} />
-  ))}
-  {hidden > 0 && moreHref && (
-    <p class="mt-3 text-sm">
-      <a class="text-(--color-accent) hover:underline" href={moreHref} data-pagefind-ignore>
-        Show all {all.length} {keyword} papers →
+
+  <div class:list={["paper-list", truncate && "paper-list--truncated"]} data-paper-list>
+    {ordered.map(([paperId, row]) => (
+      <PaperCard paperId={paperId} row={row} keyword={keyword} />
+    ))}
+  </div>
+
+  {truncate && (
+    <div class="mt-3" data-pagefind-ignore>
+      <a
+        class="load-more flex items-center justify-center gap-2 w-full px-4 py-2.5 rounded border border-(--color-border) text-(--color-accent) font-medium hover:border-(--color-accent) hover:bg-(--color-surface) transition-colors"
+        href={moreHref}
+        data-load-more
+        data-base={moreHref}
+        data-keyword={keyword}
+        data-total={total}
+        data-shown={ordered.length}
+        data-page-size={PAGE_SIZE}
+        data-pages={pages}
+      >
+        <span data-load-more-label>View all {fmt(total)} {keyword} papers</span>
+        <span class="text-(--color-muted) font-normal" data-load-more-hint>({fmt(hidden)} more)</span>
+        <span aria-hidden="true">→</span>
       </a>
-      <span class="text-(--color-muted)"> ({hidden} more)</span>
-    </p>
+    </div>
   )}
 </section>
+
+<script>
+  // Progressive enhancement for the per-section "View all" row. Without
+  // JS it is a plain link to the keyword's month page. With JS, a click
+  // fetches that (static) page, lifts its cards out and appends them in
+  // place, one page of PAGE_SIZE at a time — so a reader who wants the
+  // whole month never has to leave the Latest page, and nothing hidden
+  // behind navigation can be missed. Cards fetched later are plain HTML,
+  // so the delegated "bibtex" copy button keeps working for them.
+  const fmt = (n: number) => n.toLocaleString("en-US");
+
+  document.addEventListener("click", async (event) => {
+    const btn = (event.target as HTMLElement).closest<HTMLAnchorElement>("a[data-load-more]");
+    if (!btn || btn.dataset.busy) return;
+    event.preventDefault();
+
+    const base = btn.dataset.base!;
+    const total = Number(btn.dataset.total);
+    const pageSize = Number(btn.dataset.pageSize);
+    const pages = Number(btn.dataset.pages);
+    let shown = Number(btn.dataset.shown);
+    const section = btn.closest("section")!;
+    const list = section.querySelector<HTMLElement>("[data-paper-list]")!;
+    const label = btn.querySelector<HTMLElement>("[data-load-more-label]")!;
+    const hint = btn.querySelector<HTMLElement>("[data-load-more-hint]")!;
+
+    // Which static page holds the next card, and how many of that page's
+    // cards are already on screen.
+    const page = Math.floor(shown / pageSize) + 1;
+    const skip = shown % pageSize;
+    const url = page === 1 ? base : `${base}${page}/`;
+
+    btn.dataset.busy = "1";
+    const prevLabel = label.textContent;
+    label.textContent = "Loading…";
+    try {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`${res.status} ${url}`);
+      const doc = new DOMParser().parseFromString(await res.text(), "text/html");
+      const cards = Array.from(doc.querySelectorAll<HTMLElement>("article.paper-card")).slice(skip);
+      if (cards.length === 0) throw new Error(`no cards found in ${url}`);
+      for (const card of cards) list.appendChild(document.adoptNode(card));
+      shown += cards.length;
+      btn.dataset.shown = String(shown);
+    } catch (err) {
+      // Fall back to plain navigation — the link target is the same list.
+      console.error(err);
+      window.location.href = base;
+      return;
+    } finally {
+      delete btn.dataset.busy;
+    }
+
+    const remaining = total - shown;
+    if (remaining <= 0 || page >= pages) {
+      list.classList.remove("paper-list--truncated");
+      btn.parentElement!.remove();
+      return;
+    }
+    const nextChunk = Math.min(pageSize, remaining);
+    label.textContent = `Load ${fmt(nextChunk)} more`;
+    hint.textContent = `(${fmt(remaining)} remaining of ${fmt(total)})`;
+    if (prevLabel === null) label.textContent = "";
+  });
+</script>
