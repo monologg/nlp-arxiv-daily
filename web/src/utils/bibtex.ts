@@ -125,7 +125,12 @@ export function buildBib(buckets: Array<[string, Record<string, PaperValue>]>, h
   return preamble + blocks.join("\n\n") + "\n";
 }
 
-/** Single-paper BibTeX for the per-card copy button. */
+/**
+ * Single-paper BibTeX for the per-card copy button. Deliberately drops the
+ * abstract: the entry is inlined as a data attribute on every card, and
+ * ~1.2 KB of abstract × 2000 cards was adding 2–3 MB to a list page. The
+ * downloadable .bib files keep the abstract.
+ */
 export function paperBibtex(paperId: string, paper: ParsedPaper): string {
-  return formatEntry({ paperId, paper, keywords: [] }, citeKey(paperId, paper));
+  return formatEntry({ paperId, paper: { ...paper, abstract: null }, keywords: [] }, citeKey(paperId, paper));
 }

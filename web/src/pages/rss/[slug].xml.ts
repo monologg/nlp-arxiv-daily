@@ -1,5 +1,5 @@
 import type { APIContext } from "astro";
-import { buildFeedItems, feedResponse } from "../../utils/feed.ts";
+import { KEYWORD_FEED_LIMIT, buildFeedItems, feedResponse } from "../../utils/feed.ts";
 import { keywordSlug } from "../../utils/keyword.ts";
 import { resolveLatest, type KeywordEntries } from "../../utils/papers.ts";
 
@@ -17,6 +17,6 @@ export async function GET(context: APIContext) {
   return feedResponse(context, {
     title: `NLP Arxiv Daily — ${keyword}`,
     description: `Daily-refreshed arxiv papers matching "${keyword}"`,
-    items: buildFeedItems(buckets),
+    items: buildFeedItems(buckets, KEYWORD_FEED_LIMIT),
   });
 }

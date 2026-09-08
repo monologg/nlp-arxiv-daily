@@ -11,12 +11,19 @@ export interface FeedItem {
   customData: string;
 }
 
+/** Item caps: feeds are re-fetched by readers every hour or so, and each
+ * item now carries an abstract, so an uncapped month (2000+ items, ~3 MB)
+ * is unreasonable. Readers keep older items they already saw. */
+export const MAIN_FEED_LIMIT = 200;
+export const KEYWORD_FEED_LIMIT = 100;
+
 /**
- * Flatten keyword buckets into RSS items, newest first. A paper matched by
- * several keywords appears once per keyword in the main feed — readers
- * de-duplicate on <link>, and the <category> tells them which keyword hit.
+ * Flatten keyword buckets into RSS items, newest first, capped at `limit`.
+ * A paper matched by several keywords appears once per keyword in the main
+ * feed — readers de-duplicate on <link>, and the <category> tells them
+ * which keyword hit.
  */
-export function buildFeedItems(buckets: KeywordEntries): FeedItem[] {
+export function buildFeedItems(buckets: KeywordEntries, limit: number): FeedItem[] {
   const items: FeedItem[] = [];
   for (const [keyword, papers] of buckets) {
     for (const [paperId, row] of Object.entries(papers)) {
@@ -35,7 +42,7 @@ export function buildFeedItems(buckets: KeywordEntries): FeedItem[] {
     }
   }
   items.sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
-  return items;
+  return items.slice(0, limit);
 }
 
 export function feedResponse(
