@@ -1,12 +1,11 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import { withBase } from "../../utils/url.ts";
-import { allMonths } from "../../utils/papers.ts";
+import { getCollection } from "astro:content";
 
-// Newest first; includes the live current month.
-const entries = await allMonths();
-const months = entries.map((e) => e.id);
-const currentId = entries.find((e) => e.current)?.id ?? null;
+const entries = await getCollection("archive");
+// Sort newest first.
+const months = entries.map((e) => e.id).sort().reverse();
 
 // Group by year so the long list is browsable on a dense screen.
 const byYear = new Map<string, string[]>();
@@ -36,7 +35,7 @@ for (const month of months) {
                 class="inline-block px-3 py-1 rounded border border-(--color-muted)/30 hover:border-(--color-accent) hover:text-(--color-accent) text-sm"
                 href={withBase(`/archive/${month}/`)}
               >
-                {month}{month === currentId && <span class="text-(--color-muted)"> · current</span>}
+                {month}
               </a>
             </li>
           ))}

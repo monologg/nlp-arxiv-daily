@@ -4,9 +4,9 @@ import KeywordFilter from "../components/KeywordFilter.astro";
 import KeywordSection from "../components/KeywordSection.astro";
 import TableOfContents from "../components/TableOfContents.astro";
 import { withBase } from "../utils/url.ts";
-import { resolveRecent } from "../utils/papers.ts";
+import { resolveLatest } from "../utils/papers.ts";
 
-const { keywords, windowDays, since, monthId, widened } = await resolveRecent();
+const { keywords, fallbackMonth } = await resolveLatest();
 
 const totalPapers = keywords.reduce(
   (sum, [, papers]) => sum + Object.keys(papers).length,
@@ -14,38 +14,30 @@ const totalPapers = keywords.reduce(
 );
 const today = new Date().toISOString().slice(0, 10);
 const bibDir = "/bibtex";
-const monthHref = monthId ? withBase(`/archive/${monthId}/`) : null;
 ---
 
 <Layout title="NLP Arxiv Daily" current="home">
-  {/* Pagefind indexes the month pages instead — the same papers would
-      otherwise show up twice in search results while they're recent. */}
-  <main class="max-w-3xl mx-auto px-6 py-10" data-pagefind-ignore="all">
+  <main class="max-w-3xl mx-auto px-6 py-10">
     <header class="mb-10">
       <h1 class="text-4xl font-bold mb-2">Updated {today}</h1>
-      {widened ? (
+      {fallbackMonth ? (
         <p class="text-(--color-muted) text-sm">
-          Nothing submitted in the last {windowDays} days yet — showing all of
-          {" "}{monthId} ({totalPapers} papers across {keywords.length} keywords).
+          No papers yet this month — showing the latest snapshot from
+          {" "}
+          <a class="hover:text-(--color-accent) hover:underline" href={withBase(`/archive/${fallbackMonth}/`)}>
+            {fallbackMonth}
+          </a>
+          {" "}({totalPapers} papers across {keywords.length} keywords).
         </p>
       ) : (
         <p class="text-(--color-muted) text-sm">
-          {totalPapers} papers across {keywords.length} keywords in the last {windowDays} days
-          (since {since}).
-          {monthHref && (
-            <>
-              {" "}
-              <a class="text-(--color-accent) hover:underline" href={monthHref}>
-                Browse all of {monthId} →
-              </a>
-            </>
-          )}
+          {totalPapers} papers across {keywords.length} keywords this month.
         </p>
       )}
       {keywords.length > 0 && (
         <p class="text-(--color-muted) text-sm mt-1">
           <a class="text-(--color-accent) hover:underline" href={withBase(`${bibDir}/all.bib`)} download>
-            Download this list as BibTeX
+            Download all as BibTeX
           </a>
           {" "}· <a class="text-(--color-accent) hover:underline" href={withBase("/rss.xml")}>RSS</a> (each keyword has its own feed, see section headers)
           {" "}· every paper on this page is also visible to the Zotero connector.

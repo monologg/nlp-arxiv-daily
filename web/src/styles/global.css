@@ -45,11 +45,3 @@ html.dark {
 body {
   transition: background-color 150ms ease, color 150ms ease;
 }
-
-/* Long lists (a whole month is 2000+ cards): let the browser skip layout
-   and paint for cards outside the viewport. The intrinsic size is a rough
-   collapsed-card height so the scrollbar stays stable. */
-.paper-card {
-  content-visibility: auto;
-  contain-intrinsic-size: auto 5rem;
-}

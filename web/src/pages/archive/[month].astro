@@ -3,22 +3,21 @@ import Layout from "../../layouts/Layout.astro";
 import KeywordSection from "../../components/KeywordSection.astro";
 import TableOfContents from "../../components/TableOfContents.astro";
 import { withBase } from "../../utils/url.ts";
-import { allMonths, nonEmptyKeywords, type MonthEntry } from "../../utils/papers.ts";
+import { getCollection } from "astro:content";
 
-// Archive snapshots plus the live current month (not in the archive dir
-// until the month rolls over, but it's where the Latest page's "browse all
-// of this month" link points).
 export async function getStaticPaths() {
-  const months = await allMonths();
-  return months.map((entry) => ({
+  const entries = await getCollection("archive");
+  return entries.map((entry) => ({
     params: { month: entry.id },
     props: { entry },
   }));
 }
 
-const { entry } = Astro.props as { entry: MonthEntry };
+const { entry } = Astro.props;
 const data = entry.data;
-const keywords = nonEmptyKeywords(data);
+const keywords = Object.entries(data).filter(
+  ([, papers]) => Object.keys(papers).length > 0,
+);
 const totalPapers = keywords.reduce(
   (sum, [, papers]) => sum + Object.keys(papers).length,
   0,
@@ -42,7 +41,6 @@ const bibDir = `/archive/${entry.id}`;
       <h1 class="text-4xl font-bold mb-2">{entry.id}</h1>
       <p class="text-(--color-muted) text-sm">
         {totalPapers} papers across {keywords.length} keywords.
-        {entry.current && " Current month — grows with every 12-hour update."}
       </p>
       {keywords.length > 0 && (
         <p class="text-(--color-muted) text-sm mt-1">
