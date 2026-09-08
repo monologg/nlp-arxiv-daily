@@ -30,7 +30,8 @@ export interface PaperRecord {
   authors: string[];
   url: string;
   code: string | null;
-  abstract: string;
+  /** Present only on records persisted during a few days in 2026-09. */
+  abstract?: string;
   categories: string[];
 }
 

@@ -1,0 +1,80 @@
+---
+import Layout from "../../../../layouts/Layout.astro";
+import PaperCard from "../../../../components/PaperCard.astro";
+import Pagination from "../../../../components/Pagination.astro";
+import { withBase } from "../../../../utils/url.ts";
+import { keywordSlug } from "../../../../utils/keyword.ts";
+import { PAGE_SIZE, isCurrentMonth, keywordPage, keywordStats, listMonths } from "../../../../utils/papers.ts";
+
+// /archive/<month>/<keyword>/        page 1
+// /archive/<month>/<keyword>/2/      page 2 …
+// Paths carry only ids and counts; the month file is read (and cached) at
+// render time, so the build never holds more than one month in memory.
+export async function getStaticPaths() {
+  const paths = [];
+  for (const month of listMonths()) {
+    for (const { keyword, count, pages } of keywordStats(month)) {
+      const slug = keywordSlug(keyword);
+      for (let page = 1; page <= pages; page++) {
+        paths.push({
+          params: { month, keyword: slug, page: page === 1 ? undefined : String(page) },
+          props: { month, keyword, page, pages, count },
+        });
+      }
+    }
+  }
+  return paths;
+}
+
+const { month, keyword, page, pages, count } = Astro.props as {
+  month: string;
+  keyword: string;
+  page: number;
+  pages: number;
+  count: number;
+};
+const slug = keywordSlug(keyword);
+const rows = keywordPage(month, keyword, page);
+const first = (page - 1) * PAGE_SIZE + 1;
+const last = first + rows.length - 1;
+const hrefFor = (p: number) => withBase(`/archive/${month}/${slug}/${p === 1 ? "" : `${p}/`}`);
+const current = isCurrentMonth(month);
+---
+
+<Layout
+  title={`${keyword} · ${month}${page > 1 ? ` · page ${page}` : ""} — NLP Arxiv Daily`}
+  description={`${count} ${keyword} arxiv papers from ${month}`}
+  current="archive"
+  ogSlug={`archive/${month}`}
+>
+  <main class="max-w-3xl mx-auto px-6 py-10">
+    <header class="mb-8" data-pagefind-ignore>
+      <p class="text-sm text-(--color-muted) mb-2">
+        <a class="hover:text-(--color-accent) hover:underline" href={withBase("/archive/")}>archives</a>
+        {" / "}
+        <a class="hover:text-(--color-accent) hover:underline" href={withBase(`/archive/${month}/`)}>{month}</a>
+      </p>
+      <h1 class="text-4xl font-bold mb-2">{keyword}</h1>
+      <p class="text-(--color-muted) text-sm">
+        {count} paper{count === 1 ? "" : "s"} in {month}{pages > 1 && `, showing ${first}–${last}`}.
+        {current && " Current month — grows with every 12-hour update."}
+        {" "}
+        <a class="text-(--color-accent) hover:underline" href={withBase(`/archive/${month}/${slug}.bib`)} download>
+          .bib
+        </a>
+        {current && (
+          <>
+            {" · "}
+            <a class="text-(--color-accent) hover:underline" href={withBase(`/rss/${slug}.xml`)}>rss</a>
+          </>
+        )}
+      </p>
+    </header>
+
+    <Pagination current={page} last={pages} hrefFor={hrefFor} />
+    {rows.map(([paperId, row]) => (
+      <PaperCard paperId={paperId} row={row} keyword={keyword} />
+    ))}
+    <Pagination current={page} last={pages} hrefFor={hrefFor} />
+  </main>
+</Layout>

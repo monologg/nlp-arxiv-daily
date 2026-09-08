@@ -13,11 +13,16 @@ interface Props {
   /** Show the per-keyword RSS link (Latest page only — archive months are
    * frozen, so a feed for them would never update). */
   rss?: boolean;
+  /** Render only the newest `limit` papers and link to `moreHref` for the rest. */
+  limit?: number;
+  moreHref?: string;
 }
 
-const { keyword, papers, bibDir, rss = false } = Astro.props;
+const { keyword, papers, bibDir, rss = false, limit, moreHref } = Astro.props;
 const slug = keywordSlug(keyword);
-const ordered = sortPapersDesc(papers);
+const all = sortPapersDesc(papers);
+const ordered = limit ? all.slice(0, limit) : all;
+const hidden = all.length - ordered.length;
 const bibHref = bibDir ? withBase(`${bibDir}/${slug}.bib`) : null;
 const rssHref = rss ? withBase(`/rss/${slug}.xml`) : null;
 ---
@@ -26,7 +31,7 @@ const rssHref = rss ? withBase(`/rss/${slug}.xml`) : null;
   <header class="flex items-baseline justify-between mb-3 pb-2 border-b border-(--color-muted)/30">
     <h2 class="text-2xl font-semibold">{keyword}</h2>
     <span class="text-(--color-muted) text-sm flex items-center gap-3">
-      <span>{ordered.length} paper{ordered.length === 1 ? "" : "s"}</span>
+      <span>{all.length} paper{all.length === 1 ? "" : "s"}</span>
       {bibHref && (
         <a
           class="text-(--color-accent) hover:underline"
@@ -53,4 +58,12 @@ const rssHref = rss ? withBase(`/rss/${slug}.xml`) : null;
   {ordered.map(([paperId, row]) => (
     <PaperCard paperId={paperId} row={row} keyword={keyword} />
   ))}
+  {hidden > 0 && moreHref && (
+    <p class="mt-3 text-sm">
+      <a class="text-(--color-accent) hover:underline" href={moreHref} data-pagefind-ignore>
+        Show all {all.length} {keyword} papers →
+      </a>
+      <span class="text-(--color-muted)"> ({hidden} more)</span>
+    </p>
+  )}
 </section>

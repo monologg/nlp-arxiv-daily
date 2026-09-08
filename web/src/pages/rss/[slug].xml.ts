@@ -5,7 +5,7 @@ import { resolveLatest, type KeywordEntries } from "../../utils/papers.ts";
 
 /** /rss/<keyword-slug>.xml — one keyword section of the Latest page. */
 export async function getStaticPaths() {
-  const { keywords } = await resolveLatest();
+  const { keywords } = resolveLatest();
   return keywords.map(([keyword, papers]) => ({
     params: { slug: keywordSlug(keyword) },
     props: { keyword, buckets: [[keyword, papers]] as KeywordEntries },

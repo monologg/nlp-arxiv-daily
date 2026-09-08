@@ -20,6 +20,9 @@ _LEGACY_CODE_RE = re.compile(r"\*\*\[[^\]]*\]\((https?://[^)]+)\)\*\*")
 
 
 def paper_to_web_record(p: Paper) -> WebRecord:
+    """Persisted shape. `Paper.abstract` is intentionally left out: abstracts
+    were ~60% of the JSON, the site does not render them, and they can be
+    re-fetched with `backfill` if a future feature needs them."""
     authors = list(p.authors) if p.authors else [p.first_author]
     return {
         "date": p.update_time.isoformat(),
@@ -27,7 +30,6 @@ def paper_to_web_record(p: Paper) -> WebRecord:
         "authors": authors,
         "url": p.paper_url,
         "code": p.code_link,
-        "abstract": p.abstract,
         "categories": list(p.categories),
     }
 

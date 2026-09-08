@@ -1,0 +1,42 @@
+---
+/** Prev / numbered / next links for a static paginated list. */
+interface Props {
+  current: number;
+  last: number;
+  /** Returns the href for a 1-based page number. */
+  hrefFor: (page: number) => string;
+}
+
+const { current, last, hrefFor } = Astro.props;
+const WINDOW = 2;
+const pages: Array<number | null> = [];
+for (let p = 1; p <= last; p++) {
+  if (p === 1 || p === last || Math.abs(p - current) <= WINDOW) pages.push(p);
+  else if (pages[pages.length - 1] !== null) pages.push(null);
+}
+const linkCls = "inline-block min-w-9 px-2 py-1 text-center rounded border border-(--color-border) hover:border-(--color-accent) hover:text-(--color-accent)";
+---
+
+{last > 1 && (
+  <nav class="flex flex-wrap items-center gap-1.5 text-sm my-6" aria-label="Pages" data-pagefind-ignore>
+    {current > 1 ? (
+      <a class={linkCls} href={hrefFor(current - 1)} rel="prev">← Prev</a>
+    ) : (
+      <span class={`${linkCls} opacity-40`}>← Prev</span>
+    )}
+    {pages.map((p) =>
+      p === null ? (
+        <span class="px-1 text-(--color-muted)">…</span>
+      ) : p === current ? (
+        <span class={`${linkCls} bg-(--color-accent) text-(--color-accent-fg) border-(--color-accent)`} aria-current="page">{p}</span>
+      ) : (
+        <a class={linkCls} href={hrefFor(p)}>{p}</a>
+      ),
+    )}
+    {current < last ? (
+      <a class={linkCls} href={hrefFor(current + 1)} rel="next">Next →</a>
+    ) : (
+      <span class={`${linkCls} opacity-40`}>Next →</span>
+    )}
+  </nav>
+)}
