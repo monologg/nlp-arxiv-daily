@@ -4,12 +4,13 @@ import { keywordSlug } from "../../utils/keyword.ts";
 import { resolveLatest, type KeywordEntries } from "../../utils/papers.ts";
 
 /**
- * /bibtex/<keyword-slug>.bib — every paper in one "Latest" keyword section.
- * /bibtex/all.bib          — the whole Latest page, de-duplicated.
+ * /bibtex/<keyword-slug>.bib — every paper in one "Latest" keyword section
+ *                              (the whole month, not just the cards shown).
+ * /bibtex/all.bib          — the whole Latest month, de-duplicated.
  */
 export async function getStaticPaths() {
-  const { keywords, fallbackMonth } = await resolveLatest();
-  const label = fallbackMonth ?? "latest";
+  const { keywords, monthId } = resolveLatest();
+  const label = monthId ?? "latest";
   const paths = keywords.map(([keyword, papers]) => ({
     params: { slug: keywordSlug(keyword) },
     props: { buckets: [[keyword, papers]] as KeywordEntries, header: `NLP Arxiv Daily — ${keyword} (${label})` },

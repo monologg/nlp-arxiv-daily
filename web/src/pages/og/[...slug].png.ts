@@ -1,7 +1,5 @@
 import { OGImageRoute } from "astro-og-canvas";
-import { getCollection } from "astro:content";
-import currentPapers from "../../../../docs/nlp-arxiv-daily-web.json";
-import { paperBucketSchema } from "../../content.config.ts";
+import { listMonths, loadMonth, resolveLatest, totalRows } from "../../utils/papers.ts";
 
 interface OgPage {
   title: string;
@@ -21,29 +19,18 @@ const pages: Record<string, OgPage> = {
   },
 };
 
-// Add per-month archive cards.
-const archiveEntries = await getCollection("archive");
-for (const entry of archiveEntries) {
-  const data = paperBucketSchema.parse(entry.data);
-  const total = Object.values(data).reduce(
-    (sum, papers) => sum + Object.keys(papers).length,
-    0,
-  );
-  pages[`archive/${entry.id}`] = {
-    title: entry.id,
+// Add per-month archive cards (archive snapshots + the live current month).
+// Months are loaded one at a time; only the count is kept.
+for (const id of listMonths()) {
+  const total = totalRows(loadMonth(id));
+  pages[`archive/${id}`] = {
+    title: id,
     description: `${total} papers — NLP Arxiv Daily`,
   };
 }
 
-// Current month also gets a "live" count.
-{
-  const data = paperBucketSchema.parse(currentPapers);
-  const total = Object.values(data).reduce(
-    (sum, papers) => sum + Object.keys(papers).length,
-    0,
-  );
-  pages.index.description = `${total} papers · Updated ${today}`;
-}
+// Latest card gets a "live" count.
+pages.index.description = `${totalRows(resolveLatest().data)} papers · Updated ${today}`;
 
 export const prerender = true;
 

@@ -603,7 +603,7 @@ class TestGetDailyPapersWebRecords:
         assert isinstance(rec, dict)
         assert rec["title"] == "T"
         assert rec["authors"] == ["Alice", "Bob"]
-        assert rec["abstract"] == "An abstract."
+        assert "abstract" not in rec
         assert rec["date"] == "2026-04-22"
         assert rec["url"] == "http://arxiv.org/abs/2604.21637v2"
         assert rec["code"] is None

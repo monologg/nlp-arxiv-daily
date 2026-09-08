@@ -51,9 +51,13 @@ class TestPaperToWebRecord:
             "authors": ["Alice", "Bob"],
             "url": "http://arxiv.org/abs/2604.21637v1",
             "code": "https://github.com/x/y",
-            "abstract": "We study things.",
             "categories": ["cs.CL", "cs.AI"],
         }
+
+    def test_abstract_is_not_persisted(self):
+        """Abstracts are fetched but deliberately not stored: they were 60% of
+        the JSON and the site does not render them (2026-09-08 decision)."""
+        assert "abstract" not in paper_to_web_record(_paper(abstract="long text"))
 
     def test_record_is_json_serialisable(self):
         json.dumps(paper_to_web_record(_paper()))

@@ -17,7 +17,7 @@ class Paper:
     # Structured extras captured since the web JSON moved to dict records.
     # Tuples (not lists) so the frozen dataclass stays hashable.
     authors: tuple[str, ...] = ()
-    abstract: str = ""
+    abstract: str = ""  # captured from arxiv, NOT persisted (see records.py)
     categories: tuple[str, ...] = ()  # arxiv categories, primary first
 
 
@@ -35,7 +35,6 @@ class WebRecord(TypedDict):
     authors: list[str]
     url: str  # arxiv abs URL incl. version
     code: str | None
-    abstract: str
     categories: list[str]
 
 
