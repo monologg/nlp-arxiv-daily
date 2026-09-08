@@ -3,7 +3,12 @@ repo_name: "nlp-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 10
+# Daily fetch = every submission in the last `daily_lookback_days` days per
+# keyword. `max_results` is only a safety cap on that query (LLM peaks around
+# 150/day). It used to be a top-10 newest-first query, which silently dropped
+# ~90% of high-volume keywords.
+daily_lookback_days: 7
+max_results: 1500
 
 publish_readme: False
 publish_gitpage: True

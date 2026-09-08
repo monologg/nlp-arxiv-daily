@@ -365,10 +365,10 @@ class TestFetchPapersSharedClient:
         assert kwargs.get("delay_seconds", 0) >= 15
         # Library default is 3; bump so transient 429 storms don't kill the run.
         assert kwargs.get("num_retries", 0) >= 10
-        # page_size caps response payload size — config asks for max_results=10
-        # per keyword, so 100 (library default) wastes bandwidth and is more
-        # likely to trip arxiv's per-IP throttle.
-        assert kwargs.get("page_size", 100) <= 20
+        # The daily fetch is a date-range query returning up to a few hundred
+        # results per keyword; full pages keep the number of (rate-limited)
+        # requests down.
+        assert kwargs.get("page_size", 100) == fetcher.DAILY_PAGE_SIZE == 100
 
     def test_shares_client_across_calls(self, monkeypatch):
         _silence_code_link(monkeypatch)
@@ -607,3 +607,50 @@ class TestGetDailyPapersWebRecords:
         assert rec["date"] == "2026-04-22"
         assert rec["url"] == "http://arxiv.org/abs/2604.21637v2"
         assert rec["code"] is None
+
+
+class TestKnownCodeLinksSkipLookup:
+    def test_known_id_reuses_stored_link_without_hf_call(self, monkeypatch):
+        from nlp_arxiv_daily.fetcher import _result_to_paper
+
+        def boom(*a, **kw):
+            raise AssertionError("find_code_link must not be called for a known id")
+
+        monkeypatch.setattr(fetcher, "find_code_link", boom)
+        r = _FakeArxivResult(short_id="2604.21637v1")
+        p = _result_to_paper(r, known_code_links={"2604.21637": "https://github.com/k/v"})
+        assert p.code_link == "https://github.com/k/v"
+        p2 = _result_to_paper(r, known_code_links={"2604.21637": None})
+        assert p2.code_link is None
+
+    def test_unknown_id_still_looks_up(self, monkeypatch):
+        from nlp_arxiv_daily.fetcher import _result_to_paper
+
+        monkeypatch.setattr(fetcher, "find_code_link", lambda *a, **kw: "https://github.com/new/one")
+        p = _result_to_paper(_FakeArxivResult(short_id="2604.21637v1"), known_code_links={"other": None})
+        assert p.code_link == "https://github.com/new/one"
+
+
+class TestFetchRecentPapers:
+    def test_queries_a_lookback_window_ending_today(self, monkeypatch):
+        from nlp_arxiv_daily.fetcher import fetch_recent_papers
+
+        _silence_code_link(monkeypatch)
+        captured = _patch_arxiv(monkeypatch, [_FakeArxivResult(short_id="2609.00001v1")])
+        today = datetime.date(2026, 9, 8)
+        papers = fetch_recent_papers("all:NLP", lookback_days=7, max_results=500, today=today)
+        assert [p.paper_id for p in papers] == ["2609.00001"]
+        q = captured["search"].query
+        assert q.startswith("(all:NLP) AND submittedDate:[202609020000 TO 202609082359]")
+        assert captured["search"].max_results == 500
+        # Shared daily client: polite delay + big pages, not the backfill client.
+        assert captured["client_kwargs"]["delay_seconds"] == fetcher.DAILY_RATE_LIMIT_SECONDS
+        assert captured["client_kwargs"]["page_size"] == 100
+
+    def test_lookback_of_one_day_is_today_only(self, monkeypatch):
+        from nlp_arxiv_daily.fetcher import fetch_recent_papers
+
+        _silence_code_link(monkeypatch)
+        captured = _patch_arxiv(monkeypatch, [])
+        fetch_recent_papers("x", lookback_days=1, max_results=10, today=datetime.date(2026, 9, 8))
+        assert "submittedDate:[202609080000 TO 202609082359]" in captured["search"].query

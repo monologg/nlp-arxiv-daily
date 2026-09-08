@@ -9,7 +9,14 @@ the pipeline fetches afterwards is a dict. `web_record_to_line` lets the
 
 from __future__ import annotations
 
+import re
+
 from nlp_arxiv_daily.types import Paper, PaperValue, WebRecord
+
+
+# Legacy rows carry the code link as `**[<text>](<url>)**` — bullet rows as
+# `Code: **[url](url)**`, README pipe rows as `|**[link](url)**|`.
+_LEGACY_CODE_RE = re.compile(r"\*\*\[[^\]]*\]\((https?://[^)]+)\)\*\*")
 
 
 def paper_to_web_record(p: Paper) -> WebRecord:
@@ -40,3 +47,12 @@ def web_record_to_line(value: PaperValue) -> str:
         return value
     authors = value.get("authors") or [""]
     return web_line(value["date"], value["title"], authors[0], value["url"], value.get("code"))
+
+
+def code_link_from_value(value: PaperValue) -> str | None:
+    """Code link already stored for a paper, from either value shape. Lets a
+    re-fetch reuse it instead of asking HuggingFace Papers again."""
+    if isinstance(value, dict):
+        return value.get("code") or None
+    m = _LEGACY_CODE_RE.search(value)
+    return m.group(1) if m else None

@@ -237,3 +237,50 @@ class TestWebRecordsStorage:
         out = json.loads(main.read_text())
         assert out["NLP"]["2604.00001"] == record
         assert out["NLP"]["2604.00002"].startswith("- 2026-04-22, **Keep**")
+
+
+class TestLoadKnownCodeLinks:
+    def test_collects_ids_and_links_across_main_and_archive(self, tmp_path):
+        from nlp_arxiv_daily.storage import load_known_code_links
+
+        main = tmp_path / "main.json"
+        archive = tmp_path / "archive"
+        archive.mkdir()
+        main.write_text(
+            json.dumps(
+                {
+                    "NLP": {
+                        "2609.00001": {
+                            "date": "2026-09-01",
+                            "title": "A",
+                            "authors": ["x"],
+                            "url": "u",
+                            "code": "https://github.com/a/a",
+                            "abstract": "",
+                            "categories": [],
+                        },
+                        "2609.00002": "- 2026-09-02, **B**, y et.al., Paper: [u](u)\n",
+                    }
+                }
+            )
+        )
+        (archive / "2026-08.json").write_text(
+            json.dumps(
+                {
+                    "LLM": {
+                        "2608.00009": "- 2026-08-09, **C**, z et.al., Paper: [u](u), Code: **[https://github.com/c/c](https://github.com/c/c)**\n"
+                    }
+                }
+            )
+        )
+        known = load_known_code_links(str(main), str(archive))
+        assert known == {
+            "2609.00001": "https://github.com/a/a",
+            "2609.00002": None,
+            "2608.00009": "https://github.com/c/c",
+        }
+
+    def test_missing_files_give_empty(self, tmp_path):
+        from nlp_arxiv_daily.storage import load_known_code_links
+
+        assert load_known_code_links(str(tmp_path / "nope.json"), str(tmp_path / "nodir")) == {}

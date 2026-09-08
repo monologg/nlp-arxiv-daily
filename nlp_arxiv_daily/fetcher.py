@@ -4,7 +4,7 @@ import datetime
 import logging
 import re
 import time
-from collections.abc import Iterable
+from collections.abc import Iterable, Mapping
 
 import arxiv
 import requests
@@ -34,10 +34,14 @@ BACKFILL_RATE_LIMIT_SECONDS = 5
 # before our outer tenacity retry kicks in.
 DAILY_NUM_RETRIES = 10
 BACKFILL_NUM_RETRIES = 10
-# config caps display at max_results=10 per keyword, so a library-default
-# page_size=100 just inflates response payloads without giving us anything.
-# Smaller pages also reduce the chance of tripping arxiv's per-IP throttle.
-DAILY_PAGE_SIZE = 20
+# The daily fetch is a date-range query that can return several hundred
+# results for a busy keyword; full pages mean fewer (rate-limited) requests.
+DAILY_PAGE_SIZE = 100
+# The daily fetch covers the last N days (inclusive of today). arxiv announces
+# once per weekday and a submission can surface days later, so a window of a
+# week — merged idempotently — catches late announcements a top-N sorted
+# query silently missed (config.yaml `daily_lookback_days` overrides this).
+DEFAULT_DAILY_LOOKBACK_DAYS = 7
 # Default upper bound per (keyword, month) backfill query — busy keywords
 # can return hundreds of arxiv submissions in a single month.
 BACKFILL_DEFAULT_MAX_RESULTS = 2000
@@ -136,8 +140,12 @@ def _strip_version_suffix(short_id: str) -> str:
     return short_id if ver_pos == -1 else short_id[:ver_pos]
 
 
-def _result_to_paper(result) -> Paper:
+def _result_to_paper(result, known_code_links: Mapping[str, str | None] | None = None) -> Paper:
     """Convert an arxiv.Result to our Paper dataclass.
+
+    `known_code_links` ({paper_id: link_or_None} for papers already persisted)
+    short-circuits the HuggingFace Papers lookup: a re-sighted paper reuses
+    its stored link instead of costing another throttled HF request.
 
     Uses `result.published.date()` (submission date), NOT
     `result.updated.date()` (latest revision). Backfilled papers can have
@@ -159,13 +167,18 @@ def _result_to_paper(result) -> Paper:
 
     logging.info(f"Time = {update_time} title = {result.title} author = {first_author}")
 
+    if known_code_links is not None and paper_id in known_code_links:
+        code_link = known_code_links[paper_id]
+    else:
+        code_link = find_code_link(paper_id, summary=result.summary)
+
     return Paper(
         paper_id=paper_id,
         title=result.title,
         first_author=first_author,
         update_time=update_time,
         paper_url=result.entry_id,
-        code_link=find_code_link(paper_id, summary=result.summary),
+        code_link=code_link,
         arxiv_short_id=short_id,
         authors=authors,
         abstract=abstract,
@@ -212,6 +225,8 @@ def fetch_papers_in_range(
     end: datetime.date,
     max_results: int = BACKFILL_DEFAULT_MAX_RESULTS,
     delay_seconds: int = BACKFILL_RATE_LIMIT_SECONDS,
+    known_code_links: Mapping[str, str | None] | None = None,
+    client: arxiv.Client | None = None,
 ) -> list[Paper]:
     """
     Same as `fetch_papers`, but constrained to arxiv submissions in
@@ -228,9 +243,40 @@ def fetch_papers_in_range(
     )
     composite = f"({query}) AND {range_clause}"
 
-    client = arxiv.Client(
-        delay_seconds=delay_seconds,
-        num_retries=BACKFILL_NUM_RETRIES,
-    )
+    if client is None:
+        client = arxiv.Client(
+            delay_seconds=delay_seconds,
+            num_retries=BACKFILL_NUM_RETRIES,
+        )
     search = arxiv.Search(query=composite, max_results=max_results, sort_by=arxiv.SortCriterion.SubmittedDate)
-    return [_result_to_paper(r) for r in client.results(search)]
+    return [_result_to_paper(r, known_code_links) for r in client.results(search)]
+
+
+def fetch_recent_papers(
+    query: str,
+    *,
+    lookback_days: int = DEFAULT_DAILY_LOOKBACK_DAYS,
+    max_results: int,
+    known_code_links: Mapping[str, str | None] | None = None,
+    today: datetime.date | None = None,
+) -> list[Paper]:
+    """
+    The daily fetch: every submission matching `query` in the last
+    `lookback_days` days (today inclusive), via the shared daily client.
+
+    This replaced a `max_results=10` newest-first query in 2026-09: arxiv
+    announces once a day, so that cap was an effective 10 papers/day/keyword
+    and dropped ~90% of high-volume keywords (LLM: ~150/day). A date window
+    scales with volume; `max_results` is only a safety cap now.
+    """
+    if today is None:
+        today = datetime.date.today()
+    start = today - datetime.timedelta(days=max(lookback_days, 1) - 1)
+    return fetch_papers_in_range(
+        query,
+        start,
+        today,
+        max_results=max_results,
+        known_code_links=known_code_links,
+        client=_get_daily_client(),
+    )

@@ -151,24 +151,37 @@ class TestCmdFetchResilience:
             "archive_gitpage_json_dir": str(archive_web_dir),
         }
 
+    @staticmethod
+    def _paper(topic):
+        # YYMM prefix must match the current month so it lands in main-web.json
+        # (not the archive). bucket_by_month buckets by the id's YYMM prefix.
+        import datetime
+
+        from nlp_arxiv_daily.types import Paper
+
+        today = datetime.date.today()
+        key = f"{today.year % 100:02d}{today.month:02d}.00001"
+        return Paper(
+            paper_id=key,
+            title=f"{topic} paper",
+            first_author="A",
+            update_time=today,
+            paper_url=f"http://arxiv.org/abs/{key}v1",
+            code_link=None,
+            arxiv_short_id=f"{key}v1",
+        )
+
     def test_one_keyword_failure_does_not_abort_run(self, monkeypatch, tmp_path):
         import json
 
         import arxiv
 
-        def fake_get_daily_papers(topic, query, max_results):
-            if topic == "NLP":
+        def fake_fetch_recent(query, **kw):
+            if query == "NLP":
                 raise arxiv.HTTPError("https://export.arxiv.org/api/query", 1, 429)
-            # YYMM prefix must match the current month so it lands in main-web.json
-            # (not the archive). bucket_by_month buckets by the id's YYMM prefix.
-            import datetime
+            return [self._paper(query)]
 
-            today = datetime.date.today()
-            key = f"{today.year % 100:02d}{today.month:02d}.00001"
-            row = {topic: {key: "ok\n"}}
-            return row, row
-
-        monkeypatch.setattr(cli, "get_daily_papers", fake_get_daily_papers)
+        monkeypatch.setattr(cli, "fetch_recent_papers", fake_fetch_recent)
 
         config = self._config(tmp_path)
         # Must not raise even though NLP keyword 429s.
@@ -182,13 +195,77 @@ class TestCmdFetchResilience:
     def test_all_keywords_failing_raises(self, monkeypatch, tmp_path):
         import arxiv
 
-        def boom(topic, query, max_results):
+        def boom(query, **kw):
             raise arxiv.HTTPError("https://export.arxiv.org/api/query", 1, 503)
 
-        monkeypatch.setattr(cli, "get_daily_papers", boom)
+        monkeypatch.setattr(cli, "fetch_recent_papers", boom)
 
         with pytest.raises(RuntimeError, match="all .* keyword fetches failed"):
             cli.cmd_fetch(self._config(tmp_path))
+
+
+class TestCmdFetchWindow:
+    """The daily fetch is a date-range query (last N days), not a top-N —
+    a top-10 cap silently dropped ~90% of high-volume keywords (2026-09)."""
+
+    def test_passes_lookback_cap_and_known_links(self, monkeypatch, tmp_path):
+        import json
+
+        json_dir = tmp_path / "docs"
+        json_dir.mkdir()
+        archive_web_dir = json_dir / "archive-web"
+        archive_web_dir.mkdir()
+        (json_dir / "main-web.json").write_text(
+            json.dumps(
+                {
+                    "NLP": {
+                        "2609.00001": "- 2026-09-01, **Old**, A et.al., Paper: [u](u), Code: **[https://github.com/o/o](https://github.com/o/o)**\n"
+                    }
+                }
+            )
+        )
+        config = {
+            "kv": {"NLP": "all:NLP"},
+            "max_results": 1000,
+            "daily_lookback_days": 5,
+            "publish_readme": False,
+            "publish_gitpage": True,
+            "json_gitpage_path": str(json_dir / "main-web.json"),
+            "archive_gitpage_json_dir": str(archive_web_dir),
+        }
+        calls = []
+
+        def fake_fetch_recent(query, **kw):
+            calls.append((query, kw))
+            return []
+
+        monkeypatch.setattr(cli, "fetch_recent_papers", fake_fetch_recent)
+        cli.cmd_fetch(config)
+        assert len(calls) == 1
+        query, kw = calls[0]
+        assert query == "all:NLP"
+        assert kw["lookback_days"] == 5
+        assert kw["max_results"] == 1000
+        assert kw["known_code_links"] == {"2609.00001": "https://github.com/o/o"}
+
+    def test_lookback_defaults_when_config_omits_it(self, monkeypatch, tmp_path):
+        json_dir = tmp_path / "docs"
+        json_dir.mkdir()
+        (json_dir / "main-web.json").write_text("{}")
+        config = {
+            "kv": {"NLP": "all:NLP"},
+            "max_results": 1000,
+            "publish_readme": False,
+            "publish_gitpage": True,
+            "json_gitpage_path": str(json_dir / "main-web.json"),
+            "archive_gitpage_json_dir": str(json_dir / "archive-web"),
+        }
+        seen = {}
+        monkeypatch.setattr(cli, "fetch_recent_papers", lambda query, **kw: seen.update(kw) or [])
+        cli.cmd_fetch(config)
+        from nlp_arxiv_daily.fetcher import DEFAULT_DAILY_LOOKBACK_DAYS
+
+        assert seen["lookback_days"] == DEFAULT_DAILY_LOOKBACK_DAYS
 
 
 class TestCmdRunInvocation:

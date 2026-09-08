@@ -43,7 +43,12 @@ class _FakeClient:
         self._results_by_query = results_by_query
 
     def results(self, search):
-        return iter(self._results_by_query.get(search.query, []))
+        # The daily fetch wraps the keyword query in a submittedDate range
+        # ("(all:NLP) AND submittedDate:[...]"), so match by substring.
+        for key, papers in self._results_by_query.items():
+            if key in search.query:
+                return iter(papers)
+        return iter([])
 
 
 @pytest.fixture
