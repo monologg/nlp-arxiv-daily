@@ -88,14 +88,8 @@ const primaryCategory = parsed?.categories[0] ?? null;
         bibtex
       </button>
     </div>
-    {parsed.abstract && (
-      <details class="mt-1 text-sm">
-        <summary class="cursor-pointer text-(--color-muted) hover:text-(--color-accent) select-none">
-          Abstract
-        </summary>
-        <p class="mt-1 leading-relaxed text-(--color-fg)/90">{parsed.abstract}</p>
-      </details>
-    )}
+    {/* Abstracts are stored in the JSON and shipped in the .bib downloads and
+        RSS, but not rendered here: on a 1000+ card page they tripled the HTML. */}
     {/* COinS: lets the Zotero connector save every paper on the page.
         Zero-size span by design — Zotero reads the title attribute only. */}
     <span class="Z3988" title={coins} aria-hidden="true" data-pagefind-ignore></span>

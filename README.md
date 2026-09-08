@@ -54,7 +54,7 @@ Each JSON file is `{keyword: {arxiv_id: paper}}`, where `paper` is a record like
 }
 ```
 
-Papers fetched before September 2026 are stored as a one-line markdown string instead (title, first author, date, links only); the site renders both. The JSON files are stable and safe to consume directly if you want the data without the website.
+Papers fetched before September 2026 are stored as a one-line markdown string instead (title, first author, date, links only); the site renders both. Abstracts are not shown on the pages (they made list pages several MB) but are included in the `.bib` downloads and RSS feeds. The JSON files are stable and safe to consume directly if you want the data without the website.
 
 Code lives in `nlp_arxiv_daily/` (Python pipeline) and `web/` (Astro site).
 
