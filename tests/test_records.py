@@ -78,3 +78,28 @@ class TestWebRecordToLine:
     def test_record_with_code_link(self):
         line = web_record_to_line(paper_to_web_record(_paper(code_link="https://github.com/x/y")))
         assert line.endswith(", Code: **[https://github.com/x/y](https://github.com/x/y)**\n")
+
+
+class TestCodeLinkFromValue:
+    def test_dict_record(self):
+        from nlp_arxiv_daily.records import code_link_from_value
+
+        assert code_link_from_value({"code": "https://github.com/x/y"}) == "https://github.com/x/y"
+        assert code_link_from_value({"code": None}) is None
+
+    def test_bullet_row(self):
+        from nlp_arxiv_daily.records import code_link_from_value
+
+        row = (
+            "- 2026-04-22, **T**, A et.al., Paper: [u](u), Code: **[https://github.com/x/y](https://github.com/x/y)**\n"
+        )
+        assert code_link_from_value(row) == "https://github.com/x/y"
+        assert code_link_from_value("- 2026-04-22, **T**, A et.al., Paper: [u](u)\n") is None
+
+    def test_pipe_row(self):
+        from nlp_arxiv_daily.records import code_link_from_value
+
+        assert code_link_from_value("|**2025-06-03**|**T**|A et.al.|[id](u)|**[link](https://github.com/x/y)**|\n") == (
+            "https://github.com/x/y"
+        )
+        assert code_link_from_value("|**2025-06-03**|**T**|A et.al.|[id](u)|null|\n") is None

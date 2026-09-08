@@ -18,31 +18,56 @@ import logging
 import sys
 from collections.abc import Iterator
 
-from nlp_arxiv_daily.core import get_daily_papers, load_config, papers_to_legacy_rows
+from nlp_arxiv_daily.core import load_config, papers_to_legacy_rows
 from nlp_arxiv_daily.fetcher import (
     BACKFILL_DEFAULT_MAX_RESULTS,
     BACKFILL_RATE_LIMIT_SECONDS,
+    DEFAULT_DAILY_LOOKBACK_DAYS,
     fetch_papers_in_range,
+    fetch_recent_papers,
 )
 from nlp_arxiv_daily.renderer import json_to_md, render_archive_pages
-from nlp_arxiv_daily.storage import write_papers_split
+from nlp_arxiv_daily.storage import load_known_code_links, write_papers_split
+
+
+def _known_code_links(config: dict) -> dict[str, str | None]:
+    """Stored code links for every persisted paper, across both JSON flavors."""
+    known: dict[str, str | None] = {}
+    if config["publish_readme"]:
+        known.update(load_known_code_links(config["json_readme_path"], config["archive_readme_json_dir"]))
+    if config["publish_gitpage"]:
+        for paper_id, link in load_known_code_links(
+            config["json_gitpage_path"], config["archive_gitpage_json_dir"]
+        ).items():
+            if paper_id not in known or link:
+                known[paper_id] = link
+    return known
 
 
 def cmd_fetch(config: dict) -> None:
-    """Query arxiv for every keyword in `config["kv"]`, persist JSON splits."""
+    """Query arxiv for every keyword in `config["kv"]` over the last
+    `daily_lookback_days` days, persist JSON splits."""
     keywords = config["kv"]
     max_results = config["max_results"]
+    lookback_days = int(config.get("daily_lookback_days", DEFAULT_DAILY_LOOKBACK_DAYS))
     keyword_order = list(keywords.keys())
+    known_code_links = _known_code_links(config)
 
     data_collector = []
     data_collector_web = []
 
-    logging.info("GET daily papers begin")
+    logging.info(f"GET daily papers begin (last {lookback_days} days, {len(known_code_links)} known papers)")
     failed_keywords: list[str] = []
     for topic, keyword in keywords.items():
         logging.info(f"Keyword: {topic}")
         try:
-            data, data_web = get_daily_papers(topic, query=keyword, max_results=max_results)
+            papers = fetch_recent_papers(
+                keyword,
+                lookback_days=lookback_days,
+                max_results=max_results,
+                known_code_links=known_code_links,
+            )
+            data, data_web = papers_to_legacy_rows(papers, topic)
         except Exception as e:
             # One keyword exhausting arxiv's retries (429/503 storm) must not
             # abort the whole daily run. write_papers_split merges onto existing
@@ -176,7 +201,11 @@ def cmd_backfill(
         logging.info(f"BACKFILL restricted to {len(keywords)} keyword(s): {list(keywords)}")
 
     months = list(_iter_month_ranges(start, end))
-    logging.info(f"BACKFILL begin: {start.isoformat()} → {end.isoformat()} ({len(months)} months)")
+    known_code_links = _known_code_links(config)
+    logging.info(
+        f"BACKFILL begin: {start.isoformat()} → {end.isoformat()} ({len(months)} months, "
+        f"{len(known_code_links)} known papers)"
+    )
 
     failed_queries: list[str] = []
     for month_start, month_end in months:
@@ -196,6 +225,7 @@ def cmd_backfill(
                     end=month_end,
                     max_results=max_results,
                     delay_seconds=delay_seconds,
+                    known_code_links=known_code_links,
                 )
             except Exception as e:
                 # One bad keyword × month must not kill the rest of the backfill.

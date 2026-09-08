@@ -5,6 +5,7 @@ import json
 import os
 import re
 
+from nlp_arxiv_daily.records import code_link_from_value
 from nlp_arxiv_daily.types import PapersByKeyword, PapersByMonth
 
 
@@ -47,6 +48,27 @@ def _load_papers_json(path: str, into: dict) -> None:
         return
     for kw, papers in json.loads(content).items():
         into.setdefault(kw, {}).update(papers)
+
+
+def load_known_code_links(main_json_path: str, archive_dir: str) -> dict[str, str | None]:
+    """{paper_id: code_link_or_None} for every paper already persisted (main +
+    archive). The fetcher skips the HuggingFace Papers lookup for these ids —
+    with a multi-day fetch window most results are re-sightings, and one HF
+    call per result was the dominant cost of a run."""
+    accumulated: PapersByKeyword = {}
+    _load_papers_json(main_json_path, accumulated)
+    if os.path.isdir(archive_dir):
+        for name in sorted(os.listdir(archive_dir)):
+            if name.endswith(".json"):
+                _load_papers_json(os.path.join(archive_dir, name), accumulated)
+    known: dict[str, str | None] = {}
+    for papers in accumulated.values():
+        for paper_id, value in papers.items():
+            link = code_link_from_value(value)
+            # A link seen under any keyword wins over None from another.
+            if paper_id not in known or link:
+                known[paper_id] = link
+    return known
 
 
 def _ordered_bucket(bucket: PapersByKeyword, keyword_order: list[str] | None) -> PapersByKeyword:

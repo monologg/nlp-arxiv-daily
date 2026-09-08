@@ -38,7 +38,7 @@ arXiv API ──► fetcher ──► JSON snapshots ──► Astro static site
                               └──► docs/nlp-arxiv-daily-web.json + docs/archive-web/*.json
 ```
 
-A GitHub Actions cron runs every 12 hours: it queries arXiv per keyword, merges results into the monthly JSON archives, then triggers an Astro rebuild and deploy.
+A GitHub Actions cron runs every 12 hours: for each keyword it fetches every submission from the last 7 days (idempotent merge, so re-sightings are free), stores the results in the monthly JSON archives, then triggers an Astro rebuild and deploy.
 
 Each JSON file is `{keyword: {arxiv_id: paper}}`, where `paper` is a record like:
 
@@ -74,7 +74,8 @@ Set your GitHub username/repo and replace the `keywords` block with whatever you
 user_name: "your-github-username"
 repo_name: "your-fork-name"
 
-max_results: 10            # papers per keyword per fetch
+daily_lookback_days: 7     # each run re-scans the last N days per keyword
+max_results: 1500          # safety cap per keyword per run (not a target)
 publish_gitpage: True      # keep True so the website still builds
 
 keywords:
