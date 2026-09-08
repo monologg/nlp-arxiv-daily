@@ -63,12 +63,24 @@ const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT;
       adsenseClient && (
         <>
           <meta name="google-adsense-account" content={adsenseClient} />
-          <script
-            is:inline
-            async
-            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
-            crossorigin="anonymous"
-          />
+          {/* Inject the auto-ads script only after `load`, when stylesheets are
+              applied and layout is final. Loaded async from <head>, the script
+              could measure the page before the bundled CSS constrained <main>
+              to 720px, see a full-viewport column, and place a fixed ~1200px
+              creative that then overflowed the styled column — which is why the
+              oversized unit showed up on cold loads but never after a reload
+              (cached CSS wins the race). */}
+          <script is:inline define:vars={{ adsenseClient }}>
+            window.addEventListener("load", function () {
+              var s = document.createElement("script");
+              s.async = true;
+              s.crossOrigin = "anonymous";
+              s.src =
+                "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=" +
+                adsenseClient;
+              document.head.appendChild(s);
+            });
+          </script>
         </>
       )
     }
