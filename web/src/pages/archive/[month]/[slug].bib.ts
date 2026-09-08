@@ -1,15 +1,14 @@
 import type { APIRoute } from "astro";
-import { getCollection } from "astro:content";
 import { buildBib } from "../../../utils/bibtex.ts";
 import { keywordSlug } from "../../../utils/keyword.ts";
-import { nonEmptyKeywords, type KeywordEntries } from "../../../utils/papers.ts";
+import { allMonths, nonEmptyKeywords, type KeywordEntries } from "../../../utils/papers.ts";
 
 /**
  * /archive/<YYYY-MM>/<keyword-slug>.bib — one keyword section of a month.
  * /archive/<YYYY-MM>/all.bib          — the whole month, de-duplicated.
  */
 export async function getStaticPaths() {
-  const entries = await getCollection("archive");
+  const entries = await allMonths();
   return entries.flatMap((entry) => {
     const keywords = nonEmptyKeywords(entry.data);
     const paths = keywords.map(([keyword, papers]) => ({
