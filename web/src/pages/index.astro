@@ -39,6 +39,7 @@ const bibDir = "/bibtex";
           <a class="text-(--color-accent) hover:underline" href={withBase(`${bibDir}/all.bib`)} download>
             Download all as BibTeX
           </a>
+          {" "}· <a class="text-(--color-accent) hover:underline" href={withBase("/rss.xml")}>RSS</a> (each keyword has its own feed, see section headers)
           {" "}· every paper on this page is also visible to the Zotero connector.
         </p>
       )}
@@ -49,7 +50,7 @@ const bibDir = "/bibtex";
         <KeywordFilter keywords={keywords.map(([k]) => k)} />
         <TableOfContents keywords={keywords} />
         {keywords.map(([keyword, papers]) => (
-          <KeywordSection keyword={keyword} papers={papers} bibDir={bibDir} />
+          <KeywordSection keyword={keyword} papers={papers} bibDir={bibDir} rss />
         ))}
       </>
     ) : (
