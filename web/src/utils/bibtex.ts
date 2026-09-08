@@ -1,12 +1,13 @@
-import { parsePaperRow, type ParsedPaper } from "./paperRow.ts";
+import { parsePaper, type ParsedPaper, type PaperValue } from "./paperRow.ts";
 
 /**
  * BibTeX export.
  *
- * The pipeline only stores the first author, so entries carry
- * `author = {First Author and others}` — BibTeX renders "and others" as
- * "et al.", which is the honest representation of what we know. arXiv's own
- * export (https://arxiv.org/bibtex/<id>) has the full list if a reader needs it.
+ * Dict records carry the full author list, abstract and arxiv categories,
+ * so those entries are complete. Legacy string rows only know the first
+ * author and become `author = {First Author and others}` — BibTeX renders
+ * "and others" as "et al.", which is the honest representation of what we
+ * have; arXiv's own export (https://arxiv.org/bibtex/<id>) has the rest.
  */
 
 export interface BibEntry {
@@ -54,21 +55,30 @@ export function escapeTitle(title: string): string {
   return title.replace(/(?<!\\)([&%#_^])/g, "\\$1");
 }
 
+/** Abstracts are prose, not LaTeX: escape braces and the usual specials. */
+export function escapeAbstract(text: string): string {
+  return text.replace(/[\\{}]/g, "\\$&").replace(/([&%#_])/g, "\\$1");
+}
+
 export function formatEntry(entry: BibEntry, key: string): string {
   const { paperId, paper, keywords } = entry;
   const year = paper.date.slice(0, 4);
   const month = MONTHS[Number(paper.date.slice(5, 7)) - 1];
+  const author =
+    paper.authors.length > 0 ? paper.authors.join(" and ") : `${paper.firstAuthor} and others`;
   const fields: Array<[string, string]> = [
     ["title", `{${escapeTitle(paper.title)}}`],
-    ["author", `{${paper.firstAuthor} and others}`],
+    ["author", `{${author}}`],
     ["year", `{${year}}`],
     ["month", month ?? ""],
     ["eprint", `{${paperId}}`],
     ["archivePrefix", "{arXiv}"],
+    ["primaryClass", paper.categories[0] ? `{${paper.categories[0]}}` : ""],
     ["url", `{${paper.paperUrl}}`],
   ];
   if (paper.codeLink) fields.push(["note", `{Code: \\url{${paper.codeLink}}}`]);
   if (keywords.length > 0) fields.push(["keywords", `{${keywords.join(", ")}}`]);
+  if (paper.abstract) fields.push(["abstract", `{${escapeAbstract(paper.abstract)}}`]);
 
   const width = Math.max(...fields.map(([k]) => k.length));
   const body = fields
@@ -83,7 +93,7 @@ export function formatEntry(entry: BibEntry, key: string): string {
  * keywords is emitted once, with all of them in its `keywords` field. Cite
  * keys are de-duplicated with a/b/c suffixes.
  */
-export function buildBib(buckets: Array<[string, Record<string, string>]>, header?: string): string {
+export function buildBib(buckets: Array<[string, Record<string, PaperValue>]>, header?: string): string {
   const byId = new Map<string, BibEntry>();
   for (const [keyword, papers] of buckets) {
     for (const [paperId, row] of Object.entries(papers)) {
@@ -92,7 +102,7 @@ export function buildBib(buckets: Array<[string, Record<string, string>]>, heade
         existing.keywords.push(keyword);
         continue;
       }
-      const paper = parsePaperRow(row);
+      const paper = parsePaper(row);
       if (!paper) continue;
       byId.set(paperId, { paperId, paper, keywords: [keyword] });
     }

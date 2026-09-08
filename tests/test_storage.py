@@ -206,3 +206,34 @@ class TestWritePapersSplitRoundTrip:
         )
         main = json.loads(open(paths["main"]).read())
         assert list(main.keys()) == ["NLP", "Surprise"]
+
+
+class TestWebRecordsStorage:
+    def test_dict_values_round_trip_and_override_strings(self, tmp_path):
+        """A re-fetched paper arrives as a dict and must replace its old
+        string row for the same id; untouched string rows survive as-is."""
+        main = tmp_path / "main.json"
+        archive = tmp_path / "archive"
+        main.write_text(
+            json.dumps(
+                {
+                    "NLP": {
+                        "2604.00001": "- 2026-04-21, **Old**, A et.al., Paper: [u](u)\n",
+                        "2604.00002": "- 2026-04-22, **Keep**, B et.al., Paper: [u](u)\n",
+                    }
+                }
+            )
+        )
+        record = {
+            "date": "2026-04-21",
+            "title": "Old",
+            "authors": ["A", "Z"],
+            "url": "u",
+            "code": None,
+            "abstract": "abs",
+            "categories": [],
+        }
+        write_papers_split([{"NLP": {"2604.00001": record}}], str(main), str(archive), current_yymm="2604")
+        out = json.loads(main.read_text())
+        assert out["NLP"]["2604.00001"] == record
+        assert out["NLP"]["2604.00002"].startswith("- 2026-04-22, **Keep**")
