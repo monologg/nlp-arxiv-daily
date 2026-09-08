@@ -377,3 +377,119 @@ class TestBackfillDispatch:
     def test_backfill_requires_start(self, fake_config_file):
         with pytest.raises(SystemExit):
             cli.main(["--config_path", fake_config_file, "backfill"])
+
+
+class TestIterWindows:
+    """A month can be split into fixed-size windows so a busy keyword (LLM is
+    2,000+/month) is not truncated by the per-query result cap."""
+
+    def test_none_is_the_whole_month(self):
+        assert cli._iter_windows(datetime.date(2025, 8, 1), datetime.date(2025, 8, 31), None) == [
+            (datetime.date(2025, 8, 1), datetime.date(2025, 8, 31))
+        ]
+
+    def test_seven_day_windows_clip_at_month_end(self):
+        got = cli._iter_windows(datetime.date(2025, 8, 1), datetime.date(2025, 8, 31), 7)
+        assert got == [
+            (datetime.date(2025, 8, 1), datetime.date(2025, 8, 7)),
+            (datetime.date(2025, 8, 8), datetime.date(2025, 8, 14)),
+            (datetime.date(2025, 8, 15), datetime.date(2025, 8, 21)),
+            (datetime.date(2025, 8, 22), datetime.date(2025, 8, 28)),
+            (datetime.date(2025, 8, 29), datetime.date(2025, 8, 31)),
+        ]
+
+    def test_window_longer_than_month_is_the_whole_month(self):
+        assert cli._iter_windows(datetime.date(2026, 2, 1), datetime.date(2026, 2, 28), 45) == [
+            (datetime.date(2026, 2, 1), datetime.date(2026, 2, 28))
+        ]
+
+
+class TestBackfillWindows:
+    def _config(self, tmp_path):
+        json_dir = tmp_path / "docs"
+        json_dir.mkdir()
+        (json_dir / "archive-web").mkdir()
+        (json_dir / "main-web.json").write_text("{}")
+        return {
+            "kv": {"LLM": "all:LLM"},
+            "publish_readme": False,
+            "publish_gitpage": True,
+            "json_gitpage_path": str(json_dir / "main-web.json"),
+            "archive_gitpage_json_dir": str(json_dir / "archive-web"),
+            "show_badge": False,
+            "user_name": "u",
+            "repo_name": "r",
+        }
+
+    @staticmethod
+    def _paper(pid, day):
+        from nlp_arxiv_daily.types import Paper
+
+        return Paper(
+            paper_id=pid,
+            title=pid,
+            first_author="A",
+            update_time=datetime.date(2025, 8, day),
+            paper_url=f"http://arxiv.org/abs/{pid}v1",
+            code_link=None,
+            arxiv_short_id=f"{pid}v1",
+        )
+
+    def test_windows_are_fetched_separately_and_merged(self, monkeypatch, tmp_path):
+        import json
+
+        calls = []
+
+        def fake_fetch(query, start, end, **kw):
+            calls.append((start, end))
+            # Same paper returned by two neighbouring windows must be stored once.
+            return (
+                [self._paper("2508.00001", 7)]
+                if start.day == 1
+                else [self._paper("2508.00001", 7), self._paper(f"2508.{start.day:05d}", start.day)]
+            )
+
+        monkeypatch.setattr(cli, "fetch_papers_in_range", fake_fetch)
+        monkeypatch.setattr(cli, "cmd_render", lambda config: None)
+        config = self._config(tmp_path)
+        cli.cmd_backfill(config, start=datetime.date(2025, 8, 1), end=datetime.date(2025, 8, 1), window_days=10)
+
+        assert [(s.day, e.day) for s, e in calls] == [(1, 10), (11, 20), (21, 30), (31, 31)]
+        written = json.loads((tmp_path / "docs" / "archive-web" / "2025-08.json").read_text())
+        assert set(written["LLM"]) == {"2508.00001", "2508.00011", "2508.00021", "2508.00031"}
+
+    def test_warns_when_a_window_hits_the_result_cap(self, monkeypatch, tmp_path, caplog):
+        monkeypatch.setattr(
+            cli,
+            "fetch_papers_in_range",
+            lambda query, start, end, **kw: [self._paper("2508.00001", 1), self._paper("2508.00002", 2)],
+        )
+        monkeypatch.setattr(cli, "cmd_render", lambda config: None)
+        with caplog.at_level("WARNING"):
+            cli.cmd_backfill(
+                self._config(tmp_path), start=datetime.date(2025, 8, 1), end=datetime.date(2025, 8, 1), max_results=2
+            )
+        assert any("cap" in r.message and "LLM" in r.message for r in caplog.records)
+
+    def test_no_warning_below_cap(self, monkeypatch, tmp_path, caplog):
+        monkeypatch.setattr(
+            cli, "fetch_papers_in_range", lambda query, start, end, **kw: [self._paper("2508.00001", 1)]
+        )
+        monkeypatch.setattr(cli, "cmd_render", lambda config: None)
+        with caplog.at_level("WARNING"):
+            cli.cmd_backfill(
+                self._config(tmp_path), start=datetime.date(2025, 8, 1), end=datetime.date(2025, 8, 1), max_results=2
+            )
+        assert not any("cap" in r.message for r in caplog.records)
+
+    def test_cli_passes_window_days(self, monkeypatch, fake_config_file):
+        captured = {}
+        monkeypatch.setattr(cli, "cmd_backfill", lambda config, **kw: captured.update(kw))
+        cli.main(["--config_path", fake_config_file, "backfill", "--start", "2025-08", "--window-days", "7"])
+        assert captured["window_days"] == 7
+
+    def test_cli_window_days_defaults_to_none(self, monkeypatch, fake_config_file):
+        captured = {}
+        monkeypatch.setattr(cli, "cmd_backfill", lambda config, **kw: captured.update(kw))
+        cli.main(["--config_path", fake_config_file, "backfill", "--start", "2025-08"])
+        assert captured["window_days"] is None

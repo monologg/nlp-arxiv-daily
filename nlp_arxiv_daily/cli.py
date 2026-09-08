@@ -169,6 +169,29 @@ def _iter_month_ranges(start: datetime.date, end: datetime.date) -> Iterator[tup
         cur = next_first
 
 
+def _iter_windows(
+    month_start: datetime.date, month_end: datetime.date, window_days: int | None
+) -> list[tuple[datetime.date, datetime.date]]:
+    """Split one month into consecutive windows of `window_days` (the last one
+    clipped to month end). None, or a window longer than the month, yields
+    the whole month as a single range.
+
+    arxiv caps a query's result set (`max_results`, default 2000), and busy
+    keywords exceed that per month — LLM sat at ~2,000 rows for every month
+    since 2024-10 because of it. Narrower date windows keep each query under
+    the cap; the idempotent merge de-duplicates papers seen in two windows.
+    """
+    if window_days is None or window_days <= 0:
+        return [(month_start, month_end)]
+    windows = []
+    cur = month_start
+    while cur <= month_end:
+        last = min(cur + datetime.timedelta(days=window_days - 1), month_end)
+        windows.append((cur, last))
+        cur = last + datetime.timedelta(days=1)
+    return windows
+
+
 def cmd_backfill(
     config: dict,
     *,
@@ -177,6 +200,7 @@ def cmd_backfill(
     max_results: int = BACKFILL_DEFAULT_MAX_RESULTS,
     delay_seconds: int = BACKFILL_RATE_LIMIT_SECONDS,
     only_keywords: list[str] | None = None,
+    window_days: int | None = None,
 ) -> None:
     """Fetch every (keyword × month) in [start, end] and merge into the archive.
 
@@ -190,6 +214,10 @@ def cmd_backfill(
     `delay_seconds` overrides the per-request gap to dodge 429s on large runs.
     `only_keywords` restricts fetch to a subset of config keys — useful when
     seeding newly-added tags without re-querying the existing ones.
+    `window_days` splits each month into shorter date windows so a keyword
+    with more than `max_results` papers a month is not truncated (see
+    `_iter_windows`). A window that returns exactly `max_results` papers is
+    logged as a cap hit either way.
     """
     keywords = config["kv"]
     keyword_order = list(keywords.keys())
@@ -216,24 +244,40 @@ def cmd_backfill(
         # restarting the same range merges cleanly.
         month_data: list = []
         month_data_web: list = []
+        windows = _iter_windows(month_start, month_end, window_days)
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            try:
-                papers = fetch_papers_in_range(
-                    query=keyword,
-                    start=month_start,
-                    end=month_end,
-                    max_results=max_results,
-                    delay_seconds=delay_seconds,
-                    known_code_links=known_code_links,
-                )
-            except Exception as e:
-                # One bad keyword × month must not kill the rest of the backfill.
-                tag = f"{month_start.strftime('%Y-%m')}/{topic}"
-                logging.warning(f"BACKFILL skip {tag}: {e}")
-                failed_queries.append(tag)
+            # Keyed by id so a paper returned by two neighbouring windows is
+            # stored once (the later window wins, same as the JSON merge).
+            papers_by_id: dict = {}
+            failed = False
+            for win_start, win_end in windows:
+                try:
+                    papers = fetch_papers_in_range(
+                        query=keyword,
+                        start=win_start,
+                        end=win_end,
+                        max_results=max_results,
+                        delay_seconds=delay_seconds,
+                        known_code_links=known_code_links,
+                    )
+                except Exception as e:
+                    # One bad keyword × window must not kill the rest of the backfill.
+                    tag = f"{win_start.isoformat()}..{win_end.isoformat()}/{topic}"
+                    logging.warning(f"BACKFILL skip {tag}: {e}")
+                    failed_queries.append(tag)
+                    failed = True
+                    continue
+                if len(papers) >= max_results:
+                    logging.warning(
+                        f"BACKFILL cap hit: {topic} {win_start.isoformat()}..{win_end.isoformat()} returned "
+                        f"{len(papers)} = max_results; results are truncated — use --window-days to split the month"
+                    )
+                for p in papers:
+                    papers_by_id[p.paper_id] = p
+            if failed and not papers_by_id:
                 continue
-            data, data_web = papers_to_legacy_rows(papers, topic)
+            data, data_web = papers_to_legacy_rows(list(papers_by_id.values()), topic)
             month_data.append(data)
             month_data_web.append(data_web)
 
@@ -305,6 +349,15 @@ def build_parser() -> argparse.ArgumentParser:
         default=None,
         help="comma-separated subset of config keyword names to backfill (default: all)",
     )
+    backfill.add_argument(
+        "--window-days",
+        type=int,
+        default=None,
+        help=(
+            "split each month into windows of N days so busy keywords stay under --max-results "
+            "(default: one query per month)"
+        ),
+    )
     return parser
 
 
@@ -328,6 +381,7 @@ def main(argv: list[str] | None = None) -> int:
             max_results=args.max_results,
             delay_seconds=args.delay_seconds,
             only_keywords=only_keywords,
+            window_days=args.window_days,
         )
         return 0
 
