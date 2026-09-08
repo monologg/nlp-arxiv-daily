@@ -9,6 +9,7 @@ Two layers:
 """
 
 import datetime
+import json
 import shutil
 from pathlib import Path
 
@@ -244,3 +245,35 @@ class TestKeywordSection:
 def _cleanup_logging_basic_config():
     """The renderer logs a 'finished' message; nothing to clean up — placeholder."""
     yield
+
+
+class TestWebRecordsRender:
+    def test_structured_record_renders_same_as_legacy_line(self, tmp_path):
+        """Mixed JSON (old string rows + new dict records) must render the
+        same markdown as an all-string file — the retired docs/index.md path
+        and its golden tests keep working during the format transition."""
+        legacy = (
+            "- 2026-04-21, **First Paper**, Alice et.al., "
+            "Paper: [http://arxiv.org/abs/2604.00001v1](http://arxiv.org/abs/2604.00001v1)\n"
+        )
+        record = {
+            "date": "2026-04-22",
+            "title": "Second Paper",
+            "authors": ["Bob", "Carol"],
+            "url": "http://arxiv.org/abs/2604.00002v1",
+            "code": "https://github.com/foo/bar",
+            "abstract": "Long abstract.",
+            "categories": ["cs.CL"],
+        }
+        mixed = tmp_path / "mixed.json"
+        mixed.write_text(json.dumps({"NLP": {"2604.00001": legacy, "2604.00002": record}}))
+        out = tmp_path / "out.md"
+        render_index(str(mixed), str(out), to_web=True, show_badge=False, today=TODAY)
+        text = out.read_text()
+        assert legacy in text
+        assert (
+            "- 2026-04-22, **Second Paper**, Bob et.al., "
+            "Paper: [http://arxiv.org/abs/2604.00002v1](http://arxiv.org/abs/2604.00002v1), "
+            "Code: **[https://github.com/foo/bar](https://github.com/foo/bar)**\n"
+        ) in text
+        assert "Long abstract." not in text

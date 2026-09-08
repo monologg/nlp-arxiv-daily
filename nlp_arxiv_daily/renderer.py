@@ -6,6 +6,7 @@ import logging
 import os
 import re
 
+from nlp_arxiv_daily.records import web_record_to_line
 from nlp_arxiv_daily.types import PapersByKeyword
 
 
@@ -115,7 +116,7 @@ def _keyword_section(
         lines.append("|Publish Date|Title|Authors|PDF|Code|\n|---|---|---|---|---|\n")
     for _, v in sort_papers(day_content).items():
         if v is not None:
-            lines.append(pretty_math(v))
+            lines.append(pretty_math(web_record_to_line(v)))
     lines.append("\n")
     lines.append(_back_to_top_line(date_now))
     return "".join(lines)

@@ -40,6 +40,22 @@ arXiv API ──► fetcher ──► JSON snapshots ──► Astro static site
 
 A GitHub Actions cron runs every 12 hours: it queries arXiv per keyword, merges results into the monthly JSON archives, then triggers an Astro rebuild and deploy.
 
+Each JSON file is `{keyword: {arxiv_id: paper}}`, where `paper` is a record like:
+
+```json
+{
+  "date": "2026-09-07",
+  "title": "…",
+  "authors": ["Ada Lovelace", "Alan Turing"],
+  "url": "http://arxiv.org/abs/2609.05339v1",
+  "code": "https://github.com/x/y",
+  "abstract": "…",
+  "categories": ["cs.CL", "cs.IR"]
+}
+```
+
+Papers fetched before September 2026 are stored as a one-line markdown string instead (title, first author, date, links only); the site renders both. The JSON files are stable and safe to consume directly if you want the data without the website.
+
 Code lives in `nlp_arxiv_daily/` (Python pipeline) and `web/` (Astro site).
 
 ## 🍴 Fork & make it yours

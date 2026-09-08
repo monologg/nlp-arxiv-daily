@@ -295,9 +295,11 @@ class TestGetDailyPapersAdapter:
         assert "[2604.21637v2](http://arxiv.org/abs/2604.21637v2)" in row
         assert "|null|" in row  # no code link
 
-        web_row = data_web["NLP"]["2604.21637"]
-        assert web_row.startswith("- 2026-04-22, **T**, Alice et.al.")
-        assert "Code:" not in web_row  # no code link
+        web_rec = data_web["NLP"]["2604.21637"]
+        assert web_rec["date"] == "2026-04-22"
+        assert web_rec["title"] == "T"
+        assert web_rec["authors"] == ["Alice"]
+        assert web_rec["code"] is None  # no code link
 
     def test_renders_code_link_when_present(self, monkeypatch):
         from nlp_arxiv_daily import get_daily_papers
@@ -311,8 +313,8 @@ class TestGetDailyPapersAdapter:
         data, data_web = get_daily_papers("NLP", query="x", max_results=1)
         row = data["NLP"]["2604.00001"]
         assert "**[link](https://github.com/x/y)**" in row
-        web_row = data_web["NLP"]["2604.00001"]
-        assert "Code: **[https://github.com/x/y](https://github.com/x/y)**" in web_row
+        web_rec = data_web["NLP"]["2604.00001"]
+        assert web_rec["code"] == "https://github.com/x/y"
 
 
 class _FlakyFakeClient:
@@ -554,3 +556,54 @@ class TestFindCodeLinkRetry:
         # Persistent 429: graceful degradation — return None, don't raise.
         assert fetcher.find_code_link("2604.00003") is None
         assert calls["n"] >= 2  # actually retried, not a single failure
+
+
+class TestResultToPaperStructuredFields:
+    def test_captures_authors_abstract_categories(self):
+        from nlp_arxiv_daily.fetcher import _result_to_paper
+
+        r = _FakeArxivResult(
+            short_id="2604.21637v1",
+            authors=["Alice", "Bob"],
+            summary="  Line one\nline two.  ",
+        )
+        r.categories = ["cs.CL", "cs.AI"]
+        p = _result_to_paper(r)
+        assert p.authors == ("Alice", "Bob")
+        assert p.abstract == "Line one line two."
+        assert p.categories == ("cs.CL", "cs.AI")
+
+    def test_missing_categories_is_empty(self):
+        from nlp_arxiv_daily.fetcher import _result_to_paper
+
+        p = _result_to_paper(_FakeArxivResult(short_id="2604.21637v1"))
+        assert p.categories == ()
+
+
+class TestGetDailyPapersWebRecords:
+    def test_web_flavor_is_structured_record(self, monkeypatch):
+        from nlp_arxiv_daily import get_daily_papers
+
+        _silence_code_link(monkeypatch)
+        _patch_arxiv(
+            monkeypatch,
+            [
+                _FakeArxivResult(
+                    short_id="2604.21637v2",
+                    title="T",
+                    authors=["Alice", "Bob"],
+                    updated=datetime.datetime(2026, 4, 22),
+                    entry_id="http://arxiv.org/abs/2604.21637v2",
+                    summary="An abstract.",
+                )
+            ],
+        )
+        _, data_web = get_daily_papers("NLP", query="x", max_results=1)
+        rec = data_web["NLP"]["2604.21637"]
+        assert isinstance(rec, dict)
+        assert rec["title"] == "T"
+        assert rec["authors"] == ["Alice", "Bob"]
+        assert rec["abstract"] == "An abstract."
+        assert rec["date"] == "2026-04-22"
+        assert rec["url"] == "http://arxiv.org/abs/2604.21637v2"
+        assert rec["code"] is None

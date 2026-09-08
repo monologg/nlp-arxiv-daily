@@ -1,8 +1,9 @@
 ---
 import { keywordSlug } from "../utils/keyword.ts";
+import type { KeywordEntries } from "../utils/papers.ts";
 
 interface Props {
-  keywords: Array<[string, Record<string, string>]>;
+  keywords: KeywordEntries;
 }
 
 const { keywords } = Astro.props;

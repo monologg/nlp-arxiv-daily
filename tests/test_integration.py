@@ -47,7 +47,7 @@ def test_get_daily_papers_end_to_end():
         assert "et.al." in line
         assert "|**[link](" in line or "|null|" in line
 
-    for line in web_papers.values():
-        assert line.startswith("- ")
-        assert "et.al." in line
-        assert "Paper: [" in line
+    for rec in web_papers.values():
+        assert isinstance(rec, dict)
+        assert rec["title"] and rec["authors"] and rec["url"].startswith("http")
+        assert rec["date"] and rec["abstract"]

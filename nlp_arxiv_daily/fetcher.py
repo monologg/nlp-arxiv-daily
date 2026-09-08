@@ -149,8 +149,13 @@ def _result_to_paper(result) -> Paper:
     """
     short_id = result.get_short_id()
     paper_id = _strip_version_suffix(short_id)
+    authors = tuple(str(a) for a in result.authors)
     first_author = get_authors(result.authors, first_author=True)
     update_time = result.published.date()
+    # arxiv summaries are hard-wrapped at ~80 cols; collapse to one line.
+    abstract = " ".join((result.summary or "").split())
+    # Fakes in tests (and very old arxiv library versions) may lack this.
+    categories = tuple(getattr(result, "categories", None) or ())
 
     logging.info(f"Time = {update_time} title = {result.title} author = {first_author}")
 
@@ -162,6 +167,9 @@ def _result_to_paper(result) -> Paper:
         paper_url=result.entry_id,
         code_link=find_code_link(paper_id, summary=result.summary),
         arxiv_short_id=short_id,
+        authors=authors,
+        abstract=abstract,
+        categories=categories,
     )
 
 

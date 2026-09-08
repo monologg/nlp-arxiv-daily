@@ -1,9 +1,10 @@
 import { getCollection } from "astro:content";
 import currentPapers from "../../../docs/nlp-arxiv-daily-web.json";
 import { paperBucketSchema } from "../content.config.ts";
+import type { PaperValue } from "./paperRow.ts";
 
-export type PaperBucket = Record<string, Record<string, string>>;
-export type KeywordEntries = Array<[string, Record<string, string>]>;
+export type PaperBucket = Record<string, Record<string, PaperValue>>;
+export type KeywordEntries = Array<[string, Record<string, PaperValue>]>;
 
 export function nonEmptyKeywords(data: PaperBucket): KeywordEntries {
   return Object.entries(data).filter(([, papers]) => Object.keys(papers).length > 0);

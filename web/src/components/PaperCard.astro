@@ -1,19 +1,33 @@
 ---
-import { parsePaperRow } from "../utils/paperRow.ts";
+import { parsePaper, type PaperValue } from "../utils/paperRow.ts";
 import { paperBibtex } from "../utils/bibtex.ts";
 import { coinsTitle } from "../utils/coins.ts";
 
 interface Props {
   paperId: string;
-  row: string;
+  row: PaperValue;
   /** Keyword section the card sits in — becomes a Zotero tag via COinS. */
   keyword?: string;
 }
 
+const MAX_AUTHORS_SHOWN = 3;
+
 const { paperId, row, keyword } = Astro.props;
-const parsed = parsePaperRow(row);
+const parsed = parsePaper(row);
 const bibtex = parsed ? paperBibtex(paperId, parsed) : null;
 const coins = parsed ? coinsTitle(paperId, parsed, keyword) : null;
+
+// Legacy rows only know the first author → "X et al.". Records list up to
+// three names and append "et al." only when there are more.
+let byline = "";
+if (parsed) {
+  if (parsed.authors.length === 0) byline = `${parsed.firstAuthor} et al.`;
+  else {
+    const shown = parsed.authors.slice(0, MAX_AUTHORS_SHOWN).join(", ");
+    byline = parsed.authors.length > MAX_AUTHORS_SHOWN ? `${shown}, et al.` : shown;
+  }
+}
+const primaryCategory = parsed?.categories[0] ?? null;
 ---
 
 {parsed ? (
@@ -36,8 +50,13 @@ const coins = parsed ? coinsTitle(paperId, parsed, keyword) : null;
         {parsed.date}
       </time>
     </div>
-    <div class="flex items-center gap-3 text-sm text-(--color-muted)">
-      <span data-pagefind-meta="author">{parsed.firstAuthor} et al.</span>
+    <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-(--color-muted)">
+      <span data-pagefind-meta="author">{byline}</span>
+      {primaryCategory && (
+        <span class="text-xs px-1.5 py-0.5 rounded border border-(--color-border)" title="arXiv primary category" data-pagefind-ignore>
+          {primaryCategory}
+        </span>
+      )}
       <a
         class="text-(--color-accent) hover:underline"
         href={parsed.paperUrl}
@@ -69,6 +88,14 @@ const coins = parsed ? coinsTitle(paperId, parsed, keyword) : null;
         bibtex
       </button>
     </div>
+    {parsed.abstract && (
+      <details class="mt-1 text-sm">
+        <summary class="cursor-pointer text-(--color-muted) hover:text-(--color-accent) select-none">
+          Abstract
+        </summary>
+        <p class="mt-1 leading-relaxed text-(--color-fg)/90">{parsed.abstract}</p>
+      </details>
+    )}
     {/* COinS: lets the Zotero connector save every paper on the page.
         Zero-size span by design — Zotero reads the title attribute only. */}
     <span class="Z3988" title={coins} aria-hidden="true" data-pagefind-ignore></span>

@@ -1,6 +1,6 @@
 import rss from "@astrojs/rss";
 import type { APIContext } from "astro";
-import { parsePaperRow } from "./paperRow.ts";
+import { parsePaper } from "./paperRow.ts";
 import type { KeywordEntries } from "./papers.ts";
 
 export interface FeedItem {
@@ -20,13 +20,16 @@ export function buildFeedItems(buckets: KeywordEntries): FeedItem[] {
   const items: FeedItem[] = [];
   for (const [keyword, papers] of buckets) {
     for (const [paperId, row] of Object.entries(papers)) {
-      const parsed = parsePaperRow(row);
+      const parsed = parsePaper(row);
       if (!parsed) continue;
+      const byline = `${parsed.firstAuthor} et al. — arxiv:${paperId} — ${keyword}`;
       items.push({
         title: parsed.title,
         link: parsed.paperUrl,
         pubDate: new Date(parsed.date),
-        description: `${parsed.firstAuthor} et al. — arxiv:${paperId} — ${keyword}`,
+        // Readers show the description inline, so lead with the abstract
+        // when we have one.
+        description: parsed.abstract ? `${parsed.abstract}\n\n${byline}` : byline,
         customData: `<category>${keyword}</category>`,
       });
     }

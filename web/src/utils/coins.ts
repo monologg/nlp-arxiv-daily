@@ -10,7 +10,8 @@ import type { ParsedPaper } from "./paperRow.ts";
  *
  * Field choices follow zotero/utilities openurl.js `parseContextObject`:
  *  - `mtx:dc` + `rft.type=preprint` → Zotero "Preprint" item
- *  - `rft.creator` → author, `rft.date` → date, `rft.source` → repository
+ *  - `rft.creator` (one per author) → authors, `rft.date` → date,
+ *    `rft.source` → repository
  *  - `rft_id=info:doi/…` → DOI (every arXiv paper has a DataCite DOI)
  *  - `rft_id=https://…` → URL, `rft.subject` → tag
  */
@@ -20,7 +21,9 @@ export function coinsTitle(paperId: string, paper: ParsedPaper, keyword?: string
     ["rft_val_fmt", "info:ofi/fmt:kev:mtx:dc"],
     ["rft.type", "preprint"],
     ["rft.title", paper.title],
-    ["rft.creator", paper.firstAuthor],
+    ...(paper.authors.length > 0 ? paper.authors : [paper.firstAuthor]).map(
+      (a): [string, string] => ["rft.creator", a],
+    ),
     ["rft.date", paper.date],
     ["rft.source", "arXiv"],
     ["rft_id", `info:doi/10.48550/arXiv.${paperId}`],

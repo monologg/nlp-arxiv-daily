@@ -5,30 +5,32 @@ import logging
 import yaml
 
 from nlp_arxiv_daily.fetcher import fetch_papers
-from nlp_arxiv_daily.types import Paper
+from nlp_arxiv_daily.records import paper_to_web_record
+from nlp_arxiv_daily.types import Paper, PaperValue
 
 
 logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s", datefmt="%m/%d/%Y %H:%M:%S", level=logging.INFO)
 
 
 def papers_to_legacy_rows(papers: list[Paper], topic: str) -> tuple[dict, dict]:
-    """Render a list[Paper] into ({topic: {paper_id: row}}, {topic: {paper_id: web_row}}).
+    """Render a list[Paper] into ({topic: {paper_id: row}}, {topic: {paper_id: record}}).
+
+    The README flavor keeps its pipe-table markdown row. The gitpage (web)
+    flavor is a structured `WebRecord` dict — the Astro site parses both this
+    and the older one-line string rows still present in the archive JSONs.
 
     Shared by `get_daily_papers` (daily cron) and `cli.cmd_backfill` so both
-    persist data in the same JSON shape the renderer expects.
+    persist data in the same JSON shape.
     """
     content: dict[str, str] = {}
-    content_to_web: dict[str, str] = {}
+    content_to_web: dict[str, PaperValue] = {}
     for p in papers:
         code_md = f"**[link]({p.code_link})**" if p.code_link else "null"
         content[p.paper_id] = (
             f"|**{p.update_time}**|**{p.title}**|{p.first_author} et.al."
             f"|[{p.arxiv_short_id}]({p.paper_url})|{code_md}|\n"
         )
-        web_line = f"- {p.update_time}, **{p.title}**, {p.first_author} et.al., Paper: [{p.paper_url}]({p.paper_url})"
-        if p.code_link:
-            web_line += f", Code: **[{p.code_link}]({p.code_link})**"
-        content_to_web[p.paper_id] = web_line + "\n"
+        content_to_web[p.paper_id] = paper_to_web_record(p)
 
     return {topic: content}, {topic: content_to_web}
 

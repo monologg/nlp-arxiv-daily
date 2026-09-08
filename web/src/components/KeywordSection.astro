@@ -1,12 +1,12 @@
 ---
 import PaperCard from "./PaperCard.astro";
-import { sortPapersDesc } from "../utils/paperRow.ts";
+import { sortPapersDesc, type PaperValue } from "../utils/paperRow.ts";
 import { keywordSlug } from "../utils/keyword.ts";
 import { withBase } from "../utils/url.ts";
 
 interface Props {
   keyword: string;
-  papers: Record<string, string>;
+  papers: Record<string, PaperValue>;
   /** Directory holding this dataset's `.bib` files, e.g. "/bibtex" for the
    * Latest page or "/archive/2026-08" for a month. Omit to hide the link. */
   bibDir?: string;
