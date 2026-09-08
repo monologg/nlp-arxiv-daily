@@ -1,0 +1,80 @@
+---
+/**
+ * Latest page header: title, one line of key figures, one row of page
+ * actions. Figures are static data (bold numbers, muted labels — never
+ * styled like controls); actions reuse the outlined pill the keyword
+ * filter already uses, so the page keeps a single visual language.
+ */
+import { withBase } from "../utils/url.ts";
+
+interface Props {
+  today: string;
+  totalPapers: number;
+  keywordCount: number;
+  perKeyword: number;
+  monthId: string | null;
+  /** True when the current month was empty and an older snapshot is shown. */
+  fallbackMonth: string | null;
+  bibHref: string;
+}
+
+const { today, totalPapers, keywordCount, perKeyword, monthId, fallbackMonth, bibHref } = Astro.props;
+const fmt = (n: number) => n.toLocaleString("en-US");
+const monthLabel = monthId
+  ? new Date(`${monthId}-01T00:00:00Z`).toLocaleDateString("en-US", { month: "long", year: "numeric", timeZone: "UTC" })
+  : null;
+const pill =
+  "inline-flex items-center gap-1.5 px-3 py-1.5 text-sm rounded border border-(--color-border) hover:border-(--color-accent) hover:text-(--color-accent) transition-colors";
+---
+
+<header class="mb-8">
+  <h1 class="text-4xl font-bold mb-3">Updated {today}</h1>
+
+  {fallbackMonth ? (
+    <p class="text-(--color-muted) text-sm mb-4">
+      No papers yet this month — showing the latest snapshot from
+      {" "}
+      <a class="text-(--color-accent) hover:underline" href={withBase(`/archive/${fallbackMonth}/`)}>{fallbackMonth}</a>.
+    </p>
+  ) : null}
+
+  <p class="flex flex-wrap items-baseline gap-x-2 gap-y-1 text-(--color-muted) text-sm mb-4">
+    <span><strong class="text-(--color-fg) text-base font-semibold tabular-nums">{fmt(totalPapers)}</strong> papers</span>
+    <span aria-hidden="true">·</span>
+    <span><strong class="text-(--color-fg) text-base font-semibold tabular-nums">{fmt(keywordCount)}</strong> keywords</span>
+    {monthLabel && (
+      <>
+        <span aria-hidden="true">·</span>
+        <span>{monthLabel}</span>
+      </>
+    )}
+    <span aria-hidden="true">·</span>
+    <span>newest <strong class="text-(--color-fg) font-semibold tabular-nums">{fmt(perKeyword)}</strong> shown per keyword</span>
+  </p>
+
+  <div class="flex flex-wrap items-center gap-2" data-pagefind-ignore>
+    <a class={pill} href={bibHref} download title="Every paper on this page, as one .bib file">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4" aria-hidden="true">
+        <path d="M12 3v12" /><path d="m7 10 5 5 5-5" /><path d="M5 21h14" />
+      </svg>
+      Download BibTeX
+    </a>
+    <a class={pill} href={withBase("/rss.xml")} title="Subscribe to every keyword; each section header also has its own feed">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4" aria-hidden="true">
+        <path d="M4 11a9 9 0 0 1 9 9" /><path d="M4 4a16 16 0 0 1 16 16" /><circle cx="5" cy="19" r="1" fill="currentColor" />
+      </svg>
+      RSS feed
+    </a>
+    <span
+      class="inline-flex items-center gap-1.5 px-3 py-1.5 text-sm rounded bg-(--color-surface) text-(--color-muted) cursor-help"
+      tabindex="0"
+      title="Every paper on this page carries COinS metadata, so the Zotero connector can save them all in one click."
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4" aria-hidden="true">
+        <circle cx="12" cy="12" r="9" /><path d="M12 16v-4" /><path d="M12 8h.01" />
+      </svg>
+      Zotero-ready
+      <span class="sr-only">: every paper on this page carries COinS metadata, so the Zotero connector can save them all in one click.</span>
+    </span>
+  </div>
+</header>

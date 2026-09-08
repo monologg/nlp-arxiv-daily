@@ -45,3 +45,29 @@ html.dark {
 body {
   transition: background-color 150ms ease, color 150ms ease;
 }
+
+/* Truncated keyword sections on the Latest page: fade the tail of the list
+   into the page background so the reader can see it continues, right
+   above the "View all / Load more" row (Baymard truncation guideline #5). */
+.paper-list--truncated {
+  position: relative;
+}
+.paper-list--truncated::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 7rem;
+  background: linear-gradient(to bottom, transparent, var(--color-bg));
+  pointer-events: none;
+}
+
+/* Long lists (a keyword month page is 200 cards, and load-more can grow a
+   Latest section to a whole month): let the browser skip layout and paint
+   for cards outside the viewport. The intrinsic size is a rough card
+   height so the scrollbar stays stable. */
+.paper-card {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 5rem;
+}

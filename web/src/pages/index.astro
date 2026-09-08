@@ -2,6 +2,7 @@
 import Layout from "../layouts/Layout.astro";
 import KeywordFilter from "../components/KeywordFilter.astro";
 import KeywordSection from "../components/KeywordSection.astro";
+import LatestHeader from "../components/LatestHeader.astro";
 import TableOfContents from "../components/TableOfContents.astro";
 import { withBase } from "../utils/url.ts";
 import { keywordSlug } from "../utils/keyword.ts";
@@ -15,40 +16,21 @@ const totalPapers = keywords.reduce(
 );
 const today = new Date().toISOString().slice(0, 10);
 const bibDir = "/bibtex";
-const monthHref = monthId ? withBase(`/archive/${monthId}/`) : null;
 ---
 
 <Layout title="NLP Arxiv Daily" current="home">
   {/* Search indexes the keyword month pages, which hold every paper; the
       Latest page would only duplicate them. */}
   <main class="max-w-3xl mx-auto px-6 py-10" data-pagefind-ignore="all">
-    <header class="mb-10">
-      <h1 class="text-4xl font-bold mb-2">Updated {today}</h1>
-      {fallbackMonth ? (
-        <p class="text-(--color-muted) text-sm">
-          No papers yet this month — showing the latest snapshot from
-          {" "}
-          <a class="hover:text-(--color-accent) hover:underline" href={monthHref!}>
-            {fallbackMonth}
-          </a>
-          {" "}({totalPapers} papers across {keywords.length} keywords).
-        </p>
-      ) : (
-        <p class="text-(--color-muted) text-sm">
-          {totalPapers} papers across {keywords.length} keywords this month.
-          Each section shows the newest {LATEST_PER_KEYWORD}; follow a section's link for the full list.
-        </p>
-      )}
-      {keywords.length > 0 && (
-        <p class="text-(--color-muted) text-sm mt-1">
-          <a class="text-(--color-accent) hover:underline" href={withBase(`${bibDir}/all.bib`)} download>
-            Download all as BibTeX
-          </a>
-          {" "}· <a class="text-(--color-accent) hover:underline" href={withBase("/rss.xml")}>RSS</a> (each keyword has its own feed, see section headers)
-          {" "}· every paper on this page is also visible to the Zotero connector.
-        </p>
-      )}
-    </header>
+    <LatestHeader
+      today={today}
+      totalPapers={totalPapers}
+      keywordCount={keywords.length}
+      perKeyword={LATEST_PER_KEYWORD}
+      monthId={monthId}
+      fallbackMonth={fallbackMonth}
+      bibHref={withBase(`${bibDir}/all.bib`)}
+    />
 
     {keywords.length > 0 ? (
       <>
