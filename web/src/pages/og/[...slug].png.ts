@@ -1,7 +1,7 @@
 import { OGImageRoute } from "astro-og-canvas";
-import { getCollection } from "astro:content";
 import currentPapers from "../../../../docs/nlp-arxiv-daily-web.json";
 import { paperBucketSchema } from "../../content.config.ts";
+import { allMonths } from "../../utils/papers.ts";
 
 interface OgPage {
   title: string;
@@ -21,11 +21,9 @@ const pages: Record<string, OgPage> = {
   },
 };
 
-// Add per-month archive cards.
-const archiveEntries = await getCollection("archive");
-for (const entry of archiveEntries) {
-  const data = paperBucketSchema.parse(entry.data);
-  const total = Object.values(data).reduce(
+// Add per-month archive cards (archive snapshots + the live current month).
+for (const entry of await allMonths()) {
+  const total = Object.values(entry.data).reduce(
     (sum, papers) => sum + Object.keys(papers).length,
     0,
   );
