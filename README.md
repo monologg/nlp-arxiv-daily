@@ -107,10 +107,10 @@ Each `filters` entry is an arXiv search query — phrases are quoted and OR'd to
 ### 5. (Optional) Backfill historical months
 
 ```bash
-uv run python -m nlp_arxiv_daily backfill --start 2024-01 --end 2025-12
+uv run python -m nlp_arxiv_daily backfill --start 2024-01 --end 2025-12 --delay-seconds 15
 ```
 
-Idempotent — safe to re-run.
+Idempotent — safe to re-run. Run it in chunks (`--keywords "A,B,C"`, a few months at a time): arXiv rate-limits aggressively. A keyword with more than 2,000 papers a month hits arXiv's per-query result cap; add `--window-days 7` to query the month in weekly windows, and watch the log for `cap hit` if a window still overflows.
 
 ### 6. (Optional) Serve AdSense ads
 
