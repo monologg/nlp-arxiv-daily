@@ -1,23 +1,42 @@
 ---
 import PaperCard from "./PaperCard.astro";
 import { sortPapersDesc } from "../utils/paperRow.ts";
+import { keywordSlug } from "../utils/keyword.ts";
+import { withBase } from "../utils/url.ts";
 
 interface Props {
   keyword: string;
   papers: Record<string, string>;
+  /** Directory holding this dataset's `.bib` files, e.g. "/bibtex" for the
+   * Latest page or "/archive/2026-08" for a month. Omit to hide the link. */
+  bibDir?: string;
 }
 
-const { keyword, papers } = Astro.props;
-const slug = keyword.toLowerCase().replace(/\s+/g, "-");
+const { keyword, papers, bibDir } = Astro.props;
+const slug = keywordSlug(keyword);
 const ordered = sortPapersDesc(papers);
+const bibHref = bibDir ? withBase(`${bibDir}/${slug}.bib`) : null;
 ---
 
 <section id={slug} class="mb-12 scroll-mt-20">
   <header class="flex items-baseline justify-between mb-3 pb-2 border-b border-(--color-muted)/30">
     <h2 class="text-2xl font-semibold">{keyword}</h2>
-    <span class="text-(--color-muted) text-sm">{ordered.length} paper{ordered.length === 1 ? "" : "s"}</span>
+    <span class="text-(--color-muted) text-sm flex items-center gap-3">
+      <span>{ordered.length} paper{ordered.length === 1 ? "" : "s"}</span>
+      {bibHref && (
+        <a
+          class="text-(--color-accent) hover:underline"
+          href={bibHref}
+          download
+          title={`Download all ${keyword} papers as BibTeX`}
+          data-pagefind-ignore
+        >
+          .bib
+        </a>
+      )}
+    </span>
   </header>
   {ordered.map(([paperId, row]) => (
-    <PaperCard paperId={paperId} row={row} />
+    <PaperCard paperId={paperId} row={row} keyword={keyword} />
   ))}
 </section>
