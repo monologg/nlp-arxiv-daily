@@ -3,46 +3,17 @@ import Layout from "../layouts/Layout.astro";
 import KeywordFilter from "../components/KeywordFilter.astro";
 import KeywordSection from "../components/KeywordSection.astro";
 import TableOfContents from "../components/TableOfContents.astro";
-import currentPapers from "../../../docs/nlp-arxiv-daily-web.json";
-import { paperBucketSchema } from "../content.config.ts";
 import { withBase } from "../utils/url.ts";
-import { getCollection } from "astro:content";
+import { resolveLatest } from "../utils/papers.ts";
 
-const currentData = paperBucketSchema.parse(currentPapers);
-const currentKeywords = Object.entries(currentData).filter(
-  ([, papers]) => Object.keys(papers).length > 0,
-);
-
-let data = currentData;
-let keywords = currentKeywords;
-let fallbackMonth: string | null = null;
-
-if (currentKeywords.length === 0) {
-  const entries = await getCollection("archive");
-  const candidates = entries
-    .map((e) => ({
-      id: e.id,
-      data: e.data,
-      keywords: Object.entries(e.data).filter(
-        ([, papers]) => Object.keys(papers).length > 0,
-      ),
-    }))
-    .filter((c) => c.keywords.length > 0)
-    .sort((a, b) => b.id.localeCompare(a.id));
-
-  if (candidates.length > 0) {
-    const latest = candidates[0];
-    data = latest.data;
-    keywords = latest.keywords;
-    fallbackMonth = latest.id;
-  }
-}
+const { keywords, fallbackMonth } = await resolveLatest();
 
 const totalPapers = keywords.reduce(
   (sum, [, papers]) => sum + Object.keys(papers).length,
   0,
 );
 const today = new Date().toISOString().slice(0, 10);
+const bibDir = "/bibtex";
 ---
 
 <Layout title="NLP Arxiv Daily" current="home">
@@ -63,6 +34,14 @@ const today = new Date().toISOString().slice(0, 10);
           {totalPapers} papers across {keywords.length} keywords this month.
         </p>
       )}
+      {keywords.length > 0 && (
+        <p class="text-(--color-muted) text-sm mt-1">
+          <a class="text-(--color-accent) hover:underline" href={withBase(`${bibDir}/all.bib`)} download>
+            Download all as BibTeX
+          </a>
+          {" "}· every paper on this page is also visible to the Zotero connector.
+        </p>
+      )}
     </header>
 
     {keywords.length > 0 ? (
@@ -70,7 +49,7 @@ const today = new Date().toISOString().slice(0, 10);
         <KeywordFilter keywords={keywords.map(([k]) => k)} />
         <TableOfContents keywords={keywords} />
         {keywords.map(([keyword, papers]) => (
-          <KeywordSection keyword={keyword} papers={papers} />
+          <KeywordSection keyword={keyword} papers={papers} bibDir={bibDir} />
         ))}
       </>
     ) : (

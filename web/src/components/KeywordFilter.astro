@@ -1,4 +1,6 @@
 ---
+import { keywordSlug } from "../utils/keyword.ts";
+
 interface Props {
   keywords: string[];
 }
@@ -20,7 +22,7 @@ const { keywords } = Astro.props;
     All
   </button>
   {keywords.map((keyword) => {
-    const slug = keyword.toLowerCase().replace(/\s+/g, "-");
+    const slug = keywordSlug(keyword);
     return (
       <button
         type="button"

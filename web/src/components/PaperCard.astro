@@ -1,13 +1,19 @@
 ---
 import { parsePaperRow } from "../utils/paperRow.ts";
+import { paperBibtex } from "../utils/bibtex.ts";
+import { coinsTitle } from "../utils/coins.ts";
 
 interface Props {
   paperId: string;
   row: string;
+  /** Keyword section the card sits in — becomes a Zotero tag via COinS. */
+  keyword?: string;
 }
 
-const { paperId, row } = Astro.props;
+const { paperId, row, keyword } = Astro.props;
 const parsed = parsePaperRow(row);
+const bibtex = parsed ? paperBibtex(paperId, parsed) : null;
+const coins = parsed ? coinsTitle(paperId, parsed, keyword) : null;
 ---
 
 {parsed ? (
@@ -52,10 +58,47 @@ const parsed = parsePaperRow(row);
           code
         </a>
       )}
+      <button
+        type="button"
+        class="text-(--color-accent) hover:underline cursor-pointer"
+        data-bibtex={bibtex}
+        title="Copy BibTeX entry"
+        aria-label={`Copy BibTeX for ${parsed.title}`}
+        data-pagefind-ignore
+      >
+        bibtex
+      </button>
     </div>
+    {/* COinS: lets the Zotero connector save every paper on the page.
+        Zero-size span by design — Zotero reads the title attribute only. */}
+    <span class="Z3988" title={coins} aria-hidden="true" data-pagefind-ignore></span>
   </article>
 ) : (
   <article class="py-3 border-b border-(--color-muted)/15 last:border-b-0 text-(--color-muted) text-sm">
     <span>{paperId}</span> — unparseable row
   </article>
 )}
+
+<script>
+  // One delegated listener for every card's "bibtex" button. Astro hoists
+  // this script once per page regardless of how many cards render.
+  const RESET_MS = 1500;
+  document.addEventListener("click", async (event) => {
+    const btn = (event.target as HTMLElement).closest<HTMLButtonElement>("button[data-bibtex]");
+    if (!btn) return;
+    const text = btn.dataset.bibtex ?? "";
+    const label = btn.textContent;
+    try {
+      await navigator.clipboard.writeText(text);
+      btn.textContent = "copied";
+    } catch {
+      // Clipboard API unavailable (insecure context, old browser) — show
+      // the entry so the reader can copy it by hand.
+      window.prompt("Copy BibTeX:", text);
+      return;
+    }
+    window.setTimeout(() => {
+      btn.textContent = label;
+    }, RESET_MS);
+  });
+</script>
