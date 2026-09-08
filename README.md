@@ -25,7 +25,7 @@
 - 🔎 **Full-text search** across every paper (powered by [Pagefind](https://pagefind.app))
 - 🏷️ **Keyword tabs** — NLP, LLM, RAG, Reasoning, Multimodal, Long Context, Code LLM, …
 - 🗓️ **Monthly archives** going back to launch
-- 📡 **[RSS feed](https://monologg.kr/nlp-arxiv-daily/rss.xml)** for your reader of choice
+- 📡 **[RSS feed](https://monologg.kr/nlp-arxiv-daily/rss.xml)** for your reader of choice — plus one feed per keyword (e.g. [`/rss/rag.xml`](https://monologg.kr/nlp-arxiv-daily/rss/rag.xml), `/rss/llm-agent.xml`)
 - 📥 **BibTeX export** — per paper (copy button), per keyword, or the whole page / month as one `.bib` file (e.g. [`/bibtex/all.bib`](https://monologg.kr/nlp-arxiv-daily/bibtex/all.bib), `/bibtex/rag.bib`, `/archive/2026-08/all.bib`)
 - 🗂️ **Zotero-ready** — every list page embeds [COinS](https://en.wikipedia.org/wiki/COinS) metadata, so the Zotero connector can save all papers on a page in one click (as Preprint items with DOI, URL, and the keyword as a tag)
 - 🌓 Light/dark theme, mobile-friendly, no tracking

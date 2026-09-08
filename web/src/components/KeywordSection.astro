@@ -10,12 +10,16 @@ interface Props {
   /** Directory holding this dataset's `.bib` files, e.g. "/bibtex" for the
    * Latest page or "/archive/2026-08" for a month. Omit to hide the link. */
   bibDir?: string;
+  /** Show the per-keyword RSS link (Latest page only — archive months are
+   * frozen, so a feed for them would never update). */
+  rss?: boolean;
 }
 
-const { keyword, papers, bibDir } = Astro.props;
+const { keyword, papers, bibDir, rss = false } = Astro.props;
 const slug = keywordSlug(keyword);
 const ordered = sortPapersDesc(papers);
 const bibHref = bibDir ? withBase(`${bibDir}/${slug}.bib`) : null;
+const rssHref = rss ? withBase(`/rss/${slug}.xml`) : null;
 ---
 
 <section id={slug} class="mb-12 scroll-mt-20">
@@ -32,6 +36,16 @@ const bibHref = bibDir ? withBase(`${bibDir}/${slug}.bib`) : null;
           data-pagefind-ignore
         >
           .bib
+        </a>
+      )}
+      {rssHref && (
+        <a
+          class="text-(--color-accent) hover:underline"
+          href={rssHref}
+          title={`RSS feed for ${keyword}`}
+          data-pagefind-ignore
+        >
+          rss
         </a>
       )}
     </span>
