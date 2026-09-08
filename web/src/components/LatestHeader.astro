@@ -1,9 +1,10 @@
 ---
 /**
  * Latest page header: title, one line of key figures, one row of page
- * actions. Figures are static data (bold numbers, muted labels — never
- * styled like controls); actions reuse the outlined pill the keyword
- * filter already uses, so the page keeps a single visual language.
+ * actions, one line of notes. Figures are static data (bold numbers, muted
+ * labels — never styled like controls); the action row holds only things
+ * the page can actually do, styled as the outlined pill the keyword filter
+ * already uses, so the page keeps a single visual language.
  */
 import { withBase } from "../utils/url.ts";
 
@@ -65,16 +66,13 @@ const pill =
       </svg>
       RSS feed
     </a>
-    <span
-      class="inline-flex items-center gap-1.5 px-3 py-1.5 text-sm rounded bg-(--color-surface) text-(--color-muted) cursor-help"
-      tabindex="0"
-      title="Every paper on this page carries COinS metadata, so the Zotero connector can save them all in one click."
-    >
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4" aria-hidden="true">
-        <circle cx="12" cy="12" r="9" /><path d="M12 16v-4" /><path d="M12 8h.01" />
-      </svg>
-      Zotero-ready
-      <span class="sr-only">: every paper on this page carries COinS metadata, so the Zotero connector can save them all in one click.</span>
-    </span>
   </div>
+  {/* Not an action: the page can't trigger Zotero itself. The connector
+      picks up the COinS metadata on its own; this line only tells people
+      who don't know the connector that it will. */}
+  <p class="mt-2 text-(--color-muted) text-sm">
+    Zotero users: the
+    {" "}<a class="text-(--color-accent) hover:underline" href="https://www.zotero.org/download/connectors" target="_blank" rel="noopener">connector</a>'s
+    folder icon saves every paper on this page at once.
+  </p>
 </header>
