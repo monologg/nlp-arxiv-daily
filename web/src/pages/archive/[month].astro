@@ -2,7 +2,7 @@
 import Layout from "../../layouts/Layout.astro";
 import { withBase } from "../../utils/url.ts";
 import { keywordSlug } from "../../utils/keyword.ts";
-import { PAGE_SIZE, isCurrentMonth, keywordStats, listMonths } from "../../utils/papers.ts";
+import { isCurrentMonth, keywordStats, listMonths } from "../../utils/papers.ts";
 
 // One index page per month (archive snapshots + the live current month).
 // The paper lists themselves live on the per-keyword pages under it: a
@@ -46,7 +46,7 @@ const current = isCurrentMonth(month);
 
     {stats.length > 0 ? (
       <ul class="divide-y divide-(--color-border)">
-        {stats.map(({ keyword, count, pages }) => {
+        {stats.map(({ keyword, count }) => {
           const slug = keywordSlug(keyword);
           return (
             <li class="py-3 flex items-baseline justify-between gap-4">
@@ -54,7 +54,7 @@ const current = isCurrentMonth(month);
                 {keyword}
               </a>
               <span class="text-sm text-(--color-muted) flex items-center gap-3 whitespace-nowrap">
-                <span>{count} paper{count === 1 ? "" : "s"}{pages > 1 && ` · ${pages} pages of ${PAGE_SIZE}`}</span>
+                <span>{count} paper{count === 1 ? "" : "s"}</span>
                 <a class="text-(--color-accent) hover:underline" href={withBase(`/archive/${month}/${slug}.bib`)} download>
                   .bib
                 </a>
