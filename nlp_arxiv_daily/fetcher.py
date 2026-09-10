@@ -69,6 +69,20 @@ def _get_daily_client() -> arxiv.Client:
     return _DAILY_CLIENT
 
 
+def make_backfill_client(delay_seconds: int = BACKFILL_RATE_LIMIT_SECONDS) -> arxiv.Client:
+    """Build the client a backfill run should reuse for every query.
+
+    The arxiv library's rate limiter is per-client, so it only spaces requests
+    made through the same instance. A client built per query therefore spaces
+    the *pages* of that one query and nothing else — for a keyword whose month
+    fits in a single page, `delay_seconds` ends up doing nothing at all and the
+    queries go out back-to-back. Callers own the returned client and pass it to
+    every `fetch_papers_in_range` call in the run (cf. `_get_daily_client`,
+    which is a module singleton because the daily fetch is a single pass).
+    """
+    return arxiv.Client(delay_seconds=delay_seconds, num_retries=BACKFILL_NUM_RETRIES)
+
+
 def get_authors(authors: Iterable, first_author: bool = False) -> str:
     if first_author:
         return list(authors)[0]

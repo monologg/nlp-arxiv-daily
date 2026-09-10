@@ -25,6 +25,7 @@ from nlp_arxiv_daily.fetcher import (
     DEFAULT_DAILY_LOOKBACK_DAYS,
     fetch_papers_in_range,
     fetch_recent_papers,
+    make_backfill_client,
 )
 from nlp_arxiv_daily.renderer import json_to_md, render_archive_pages
 from nlp_arxiv_daily.storage import load_known_code_links, write_papers_split
@@ -230,6 +231,9 @@ def cmd_backfill(
 
     months = list(_iter_month_ranges(start, end))
     known_code_links = _known_code_links(config)
+    # One client for the whole run: the library's rate limiter is per-client,
+    # so a fresh one per query would leave the queries themselves unspaced.
+    client = make_backfill_client(delay_seconds)
     logging.info(
         f"BACKFILL begin: {start.isoformat()} → {end.isoformat()} ({len(months)} months, "
         f"{len(known_code_links)} known papers)"
@@ -258,8 +262,8 @@ def cmd_backfill(
                         start=win_start,
                         end=win_end,
                         max_results=max_results,
-                        delay_seconds=delay_seconds,
                         known_code_links=known_code_links,
+                        client=client,
                     )
                 except Exception as e:
                     # One bad keyword × window must not kill the rest of the backfill.

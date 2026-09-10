@@ -654,3 +654,24 @@ class TestFetchRecentPapers:
         captured = _patch_arxiv(monkeypatch, [])
         fetch_recent_papers("x", lookback_days=1, max_results=10, today=datetime.date(2026, 9, 8))
         assert "submittedDate:[202609080000 TO 202609082359]" in captured["search"].query
+
+
+class TestMakeBackfillClient:
+    def test_carries_the_requested_delay_and_retries(self, monkeypatch):
+        captured = _patch_arxiv(monkeypatch, [])
+        fetcher.make_backfill_client(delay_seconds=15)
+        kwargs = captured["client_kwargs"]
+        assert kwargs["delay_seconds"] == 15
+        # Library default is 3; bump so transient 429s don't kill a long run.
+        assert kwargs.get("num_retries", 0) >= 10
+
+    def test_defaults_to_the_backfill_rate_limit(self, monkeypatch):
+        captured = _patch_arxiv(monkeypatch, [])
+        fetcher.make_backfill_client()
+        assert captured["client_kwargs"]["delay_seconds"] == fetcher.BACKFILL_RATE_LIMIT_SECONDS
+
+    def test_returns_a_new_client_each_call(self, monkeypatch):
+        _patch_arxiv(monkeypatch, [])
+        # Unlike the daily singleton, the backfill client is per-run: the
+        # caller owns it and passes it to every fetch_papers_in_range call.
+        assert fetcher.make_backfill_client() is not fetcher.make_backfill_client()
