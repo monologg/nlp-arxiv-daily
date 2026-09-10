@@ -493,3 +493,61 @@ class TestBackfillWindows:
         monkeypatch.setattr(cli, "cmd_backfill", lambda config, **kw: captured.update(kw))
         cli.main(["--config_path", fake_config_file, "backfill", "--start", "2025-08"])
         assert captured["window_days"] is None
+
+
+class TestBackfillSharedClient:
+    """The arxiv library's rate limiter lives on the client, so the backfill
+    has to reuse one across queries. A fresh client per query only spaces the
+    *pages* of a single query, which leaves `--delay-seconds` doing nothing
+    for keywords that fit in one page."""
+
+    def _config(self, tmp_path):
+        json_dir = tmp_path / "docs"
+        json_dir.mkdir()
+        (json_dir / "archive-web").mkdir()
+        (json_dir / "main-web.json").write_text("{}")
+        return {
+            "kv": {"LLM": "all:LLM", "NLP": "all:NLP"},
+            "publish_readme": False,
+            "publish_gitpage": True,
+            "json_gitpage_path": str(json_dir / "main-web.json"),
+            "archive_gitpage_json_dir": str(json_dir / "archive-web"),
+            "show_badge": False,
+            "user_name": "u",
+            "repo_name": "r",
+        }
+
+    def _run(self, monkeypatch, tmp_path, **kw):
+        clients = []
+
+        def fake_fetch(query, start, end, **kwargs):
+            clients.append(kwargs.get("client"))
+            return []
+
+        monkeypatch.setattr(cli, "fetch_papers_in_range", fake_fetch)
+        monkeypatch.setattr(cli, "cmd_render", lambda config: None)
+        cli.cmd_backfill(
+            self._config(tmp_path),
+            start=datetime.date(2025, 8, 1),
+            end=datetime.date(2025, 9, 1),
+            **kw,
+        )
+        return clients
+
+    def test_one_client_is_shared_by_every_query(self, monkeypatch, tmp_path):
+        clients = self._run(monkeypatch, tmp_path, window_days=15)
+        # 2 keywords × (August: 1-15, 16-30, 31 + September: 1-15, 16-30)
+        assert len(clients) == 10
+        assert all(c is not None for c in clients)
+        assert len({id(c) for c in clients}) == 1
+
+    def test_client_is_built_with_the_requested_delay(self, monkeypatch, tmp_path):
+        captured = {}
+
+        def fake_make(delay_seconds):
+            captured["delay_seconds"] = delay_seconds
+            return object()
+
+        monkeypatch.setattr(cli, "make_backfill_client", fake_make)
+        self._run(monkeypatch, tmp_path, delay_seconds=15)
+        assert captured["delay_seconds"] == 15
