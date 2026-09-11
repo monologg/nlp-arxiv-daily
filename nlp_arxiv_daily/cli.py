@@ -15,6 +15,7 @@ from __future__ import annotations
 import argparse
 import datetime
 import logging
+import re
 import sys
 from collections.abc import Iterator
 
@@ -25,10 +26,11 @@ from nlp_arxiv_daily.fetcher import (
     DEFAULT_DAILY_LOOKBACK_DAYS,
     fetch_papers_in_range,
     fetch_recent_papers,
+    find_code_link,
     make_backfill_client,
 )
 from nlp_arxiv_daily.renderer import json_to_md, render_archive_pages
-from nlp_arxiv_daily.storage import load_known_code_links, write_papers_split
+from nlp_arxiv_daily.storage import fill_code_links, load_known_code_links, write_papers_split
 
 
 def _known_code_links(config: dict) -> dict[str, str | None]:
@@ -309,6 +311,59 @@ def cmd_backfill(
     logging.info("BACKFILL done")
 
 
+# `HF Papers lookup failed for 2302.09127: 429 Client Error ...`
+_HF_FAILURE_RE = re.compile(r"HF Papers lookup failed for (\S+?):")
+
+
+def _ids_from_log(path: str) -> list[str]:
+    """Arxiv ids whose code-link lookup failed, in first-seen order, deduped."""
+    ids: dict[str, None] = {}
+    with open(path) as f:
+        for line in f:
+            m = _HF_FAILURE_RE.search(line)
+            if m:
+                ids[m.group(1)] = None
+    return list(ids)
+
+
+def cmd_recheck_code_links(config: dict, *, ids: list[str], dry_run: bool = False) -> None:
+    """Re-ask HuggingFace Papers for `ids` and fill in the links that come back.
+
+    A lookup that failed during a fetch or backfill was stored as `code: null`,
+    and `load_known_code_links` then treats the paper as settled — no later run
+    re-asks. Feed this the ids from that run's log (`--from-log`) to repair them.
+
+    Ids that still have no link are left as they are: the null is then simply
+    correct. One id failing again does not stop the rest.
+    """
+    logging.info(f"RECHECK begin: {len(ids)} paper(s)")
+    links: dict[str, str] = {}
+    failed: list[str] = []
+    for paper_id in ids:
+        try:
+            link = find_code_link(paper_id)
+        except Exception as e:
+            logging.warning(f"RECHECK skip {paper_id}: {e}")
+            failed.append(paper_id)
+            continue
+        if link:
+            links[paper_id] = link
+            logging.info(f"RECHECK {paper_id} -> {link}")
+    logging.info(f"RECHECK found links for {len(links)}/{len(ids)} paper(s)")
+
+    if dry_run:
+        logging.info("RECHECK dry run, nothing written")
+    elif links:
+        updated = fill_code_links(
+            config["json_gitpage_path"],
+            config["archive_gitpage_json_dir"],
+            links,
+        )
+        logging.info(f"RECHECK wrote {updated} row(s)")
+    if failed:
+        logging.warning(f"RECHECK {len(failed)} lookup(s) failed again: " + ", ".join(failed))
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="nlp_arxiv_daily")
     parser.add_argument(
@@ -353,6 +408,28 @@ def build_parser() -> argparse.ArgumentParser:
         default=None,
         help="comma-separated subset of config keyword names to backfill (default: all)",
     )
+    recheck = sub.add_parser(
+        "recheck-code-links",
+        help="re-ask HuggingFace for papers stored with no code link (e.g. after a 429 storm)",
+    )
+    recheck.add_argument(
+        "--ids",
+        type=str,
+        default=None,
+        help="comma-separated arxiv ids to re-check",
+    )
+    recheck.add_argument(
+        "--from-log",
+        type=str,
+        default=None,
+        help="run log to scrape 'HF Papers lookup failed for <id>' lines from",
+    )
+    recheck.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="look the ids up and report, but write nothing",
+    )
+
     backfill.add_argument(
         "--window-days",
         type=int,
@@ -387,6 +464,16 @@ def main(argv: list[str] | None = None) -> int:
             only_keywords=only_keywords,
             window_days=args.window_days,
         )
+        return 0
+
+    if command == "recheck-code-links":
+        ids = [i.strip() for i in args.ids.split(",") if i.strip()] if args.ids else []
+        if args.from_log:
+            seen = set(ids)
+            ids += [i for i in _ids_from_log(args.from_log) if i not in seen]
+        if not ids:
+            raise SystemExit("recheck-code-links needs --ids or --from-log")
+        cmd_recheck_code_links(config, ids=ids, dry_run=args.dry_run)
         return 0
 
     # Resolve handler at call time so tests can monkeypatch cmd_* on this module.

@@ -4,6 +4,7 @@ import datetime
 import json
 import os
 import re
+from collections.abc import Mapping
 
 from nlp_arxiv_daily.records import code_link_from_value
 from nlp_arxiv_daily.types import PapersByKeyword, PapersByMonth
@@ -69,6 +70,50 @@ def load_known_code_links(main_json_path: str, archive_dir: str) -> dict[str, st
             if paper_id not in known or link:
                 known[paper_id] = link
     return known
+
+
+def fill_code_links(main_json_path: str, archive_dir: str, links: Mapping[str, str]) -> int:
+    """Write `links` ({paper_id: url}) into every stored record that is still
+    missing a code link. Returns the number of rows updated.
+
+    A HuggingFace lookup that fails mid-run is persisted as `code: null`,
+    which reads exactly like "no repo exists" — and since the id then counts
+    as known, `load_known_code_links` stops any later fetch from re-asking.
+    This is the way back: look the ids up again, then fill them in here.
+
+    Only falsy `code` fields are touched, so a link already stored (possibly a
+    better one, from the arxiv summary fallback) always wins. Legacy string
+    rows are skipped — their link lives inside the markdown, and rewriting
+    that is not worth it for the handful of rows involved.
+    """
+    if not links:
+        return 0
+    paths = [main_json_path]
+    if os.path.isdir(archive_dir):
+        paths += [os.path.join(archive_dir, n) for n in sorted(os.listdir(archive_dir)) if n.endswith(".json")]
+
+    updated = 0
+    for path in paths:
+        if not os.path.exists(path):
+            continue
+        with open(path) as f:
+            content = f.read()
+        if not content:
+            continue
+        bucket = json.loads(content)
+        touched = 0
+        for papers in bucket.values():
+            for paper_id, link in links.items():
+                value = papers.get(paper_id)
+                if isinstance(value, dict) and not value.get("code"):
+                    value["code"] = link
+                    touched += 1
+        # Leave the file (and its mtime) alone when nothing matched.
+        if touched:
+            with open(path, "w") as f:
+                json.dump(bucket, f)
+            updated += touched
+    return updated
 
 
 def _ordered_bucket(bucket: PapersByKeyword, keyword_order: list[str] | None) -> PapersByKeyword:

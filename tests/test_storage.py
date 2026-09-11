@@ -1,5 +1,7 @@
 import json
+import pathlib
 
+from nlp_arxiv_daily import storage
 from nlp_arxiv_daily.storage import (
     _current_yymm,
     _yymm_to_archive_basename,
@@ -284,3 +286,85 @@ class TestLoadKnownCodeLinks:
         from nlp_arxiv_daily.storage import load_known_code_links
 
         assert load_known_code_links(str(tmp_path / "nope.json"), str(tmp_path / "nodir")) == {}
+
+
+class TestFillCodeLinks:
+    """A code-link lookup that failed mid-run persists as `code: null`, which
+    is indistinguishable from "HF has no repo for this paper" — and because
+    the id is then `known`, no later backfill re-asks. Filling them back in
+    needs a targeted, id-driven write."""
+
+    def _tree(self, tmp_path):
+        archive = tmp_path / "archive"
+        archive.mkdir()
+        main = tmp_path / "main.json"
+        main.write_text(
+            json.dumps(
+                {
+                    "LLM": {
+                        "2601.00001": {"date": "2026-01-02", "title": "a", "authors": ["A"], "url": "u", "code": None},
+                        "2601.00002": {"date": "2026-01-03", "title": "b", "authors": ["B"], "url": "u", "code": None},
+                    }
+                }
+            )
+        )
+        (archive / "2025-06.json").write_text(
+            json.dumps(
+                {
+                    "LLM": {
+                        "2506.00001": {"date": "2025-06-02", "title": "c", "authors": ["C"], "url": "u", "code": None},
+                        "2506.00009": {
+                            "date": "2025-06-04",
+                            "title": "kept",
+                            "authors": ["D"],
+                            "url": "u",
+                            "code": "http://github.com/keep/me",
+                        },
+                    },
+                    # The same paper under a second keyword must be filled too.
+                    "RAG": {
+                        "2506.00001": {"date": "2025-06-02", "title": "c", "authors": ["C"], "url": "u", "code": None},
+                    },
+                }
+            )
+        )
+        (archive / "2019-04.json").write_text(
+            json.dumps({"NLP": {"1904.00001": "- 2019-04-01, **legacy**, X et.al., Paper: [u](u)\n"}})
+        )
+        return str(main), str(archive)
+
+    def test_fills_only_the_requested_ids(self, tmp_path):
+        main, archive = self._tree(tmp_path)
+        n = storage.fill_code_links(main, archive, {"2601.00001": "http://github.com/o/r"})
+        assert n == 1
+        got = json.loads(pathlib.Path(main).read_text())
+        assert got["LLM"]["2601.00001"]["code"] == "http://github.com/o/r"
+        assert got["LLM"]["2601.00002"]["code"] is None
+
+    def test_fills_every_keyword_holding_the_paper(self, tmp_path):
+        main, archive = self._tree(tmp_path)
+        n = storage.fill_code_links(main, archive, {"2506.00001": "http://github.com/o/r"})
+        assert n == 2
+        got = json.loads((pathlib.Path(archive) / "2025-06.json").read_text())
+        assert got["LLM"]["2506.00001"]["code"] == "http://github.com/o/r"
+        assert got["RAG"]["2506.00001"]["code"] == "http://github.com/o/r"
+
+    def test_never_overwrites_a_link_already_stored(self, tmp_path):
+        main, archive = self._tree(tmp_path)
+        n = storage.fill_code_links(main, archive, {"2506.00009": "http://github.com/other/repo"})
+        assert n == 0
+        got = json.loads((pathlib.Path(archive) / "2025-06.json").read_text())
+        assert got["LLM"]["2506.00009"]["code"] == "http://github.com/keep/me"
+
+    def test_legacy_string_rows_are_left_alone(self, tmp_path):
+        main, archive = self._tree(tmp_path)
+        before = (pathlib.Path(archive) / "2019-04.json").read_text()
+        assert storage.fill_code_links(main, archive, {"1904.00001": "http://github.com/o/r"}) == 0
+        assert (pathlib.Path(archive) / "2019-04.json").read_text() == before
+
+    def test_untouched_files_are_not_rewritten(self, tmp_path):
+        main, archive = self._tree(tmp_path)
+        target = pathlib.Path(archive) / "2019-04.json"
+        mtime = target.stat().st_mtime_ns
+        storage.fill_code_links(main, archive, {"2601.00001": "http://github.com/o/r"})
+        assert target.stat().st_mtime_ns == mtime
