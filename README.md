@@ -110,9 +110,23 @@ Each `filters` entry is an arXiv search query — phrases are quoted and OR'd to
 uv run python -m nlp_arxiv_daily backfill --start 2024-01 --end 2025-12 --delay-seconds 15
 ```
 
-Idempotent — safe to re-run. Run it in chunks (`--keywords "A,B,C"`, a few months at a time): arXiv rate-limits aggressively. A keyword with more than 2,000 papers a month hits arXiv's per-query result cap; add `--window-days 7` to query the month in weekly windows, and watch the log for `cap hit` if a window still overflows.
+Idempotent — safe to re-run. Run it in chunks (`--keywords "A,B,C"`, a few months at a time): arXiv rate-limits aggressively. `--delay-seconds` applies between every request, and 15s is what keeps a long run 429-free; 10s earned a 429 (and a ~40 minute IP throttle) about an hour in. A keyword with more than 2,000 papers a month hits arXiv's per-query result cap; add `--window-days 7` to query the month in weekly windows, and watch the log for `cap hit` if a window still overflows.
 
-### 6. (Optional) Serve AdSense ads
+### 6. (Optional) Repair code links after a throttled run
+
+A HuggingFace Papers lookup that fails is stored as `code: null`, which is
+indistinguishable from "this paper has no repo" — and the paper then counts as
+known, so no later fetch re-asks. Feed the run's log back in to repair them:
+
+```bash
+uv run python -m nlp_arxiv_daily recheck-code-links --from-log run.log --dry-run
+uv run python -m nlp_arxiv_daily recheck-code-links --from-log run.log
+```
+
+It scrapes `HF Papers lookup failed for <id>` lines (or takes `--ids a,b,c`),
+re-asks HuggingFace, and fills in only the rows still missing a link.
+
+### 7. (Optional) Serve AdSense ads
 
 The layout injects the AdSense script only when `PUBLIC_ADSENSE_CLIENT` is set at build time. Add a repository variable (**Settings → Secrets and variables → Actions → Variables**) named `ADSENSE_CLIENT` with your publisher ID (e.g. `ca-pub-XXXXXXXXXXXXXXXX`) — the build workflow passes it through. Without it the site builds ad-free.
 

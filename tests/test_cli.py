@@ -551,3 +551,82 @@ class TestBackfillSharedClient:
         monkeypatch.setattr(cli, "make_backfill_client", fake_make)
         self._run(monkeypatch, tmp_path, delay_seconds=15)
         assert captured["delay_seconds"] == 15
+
+
+class TestCmdRecheckCodeLinks:
+    """`recheck-code-links` re-asks HuggingFace for papers whose lookup failed
+    during a run and were persisted with `code: null`."""
+
+    def _config(self, tmp_path):
+        json_dir = tmp_path / "docs"
+        json_dir.mkdir()
+        (json_dir / "archive-web").mkdir()
+        (json_dir / "main-web.json").write_text("{}")
+        return {
+            "kv": {"LLM": "all:LLM"},
+            "publish_readme": False,
+            "publish_gitpage": True,
+            "json_gitpage_path": str(json_dir / "main-web.json"),
+            "archive_gitpage_json_dir": str(json_dir / "archive-web"),
+            "show_badge": False,
+            "user_name": "u",
+            "repo_name": "r",
+        }
+
+    def test_looks_up_each_id_and_writes_what_it_finds(self, monkeypatch, tmp_path):
+        looked = []
+        monkeypatch.setattr(
+            cli, "find_code_link", lambda pid, summary=None: (looked.append(pid), f"http://github.com/o/{pid}")[1]
+        )
+        written = {}
+        monkeypatch.setattr(cli, "fill_code_links", lambda m, a, links: written.update(links) or len(links))
+        cli.cmd_recheck_code_links(self._config(tmp_path), ids=["2601.00001", "2601.00002"])
+        assert looked == ["2601.00001", "2601.00002"]
+        assert written == {
+            "2601.00001": "http://github.com/o/2601.00001",
+            "2601.00002": "http://github.com/o/2601.00002",
+        }
+
+    def test_ids_without_a_link_are_not_written(self, monkeypatch, tmp_path):
+        monkeypatch.setattr(cli, "find_code_link", lambda pid, summary=None: None)
+        written = {}
+        monkeypatch.setattr(cli, "fill_code_links", lambda m, a, links: written.update(links) or len(links))
+        cli.cmd_recheck_code_links(self._config(tmp_path), ids=["2601.00001"])
+        assert written == {}
+
+    def test_a_failing_lookup_does_not_abort_the_rest(self, monkeypatch, tmp_path):
+        def flaky(pid, summary=None):
+            if pid == "bad":
+                raise RuntimeError("HF down")
+            return "http://github.com/o/r"
+
+        monkeypatch.setattr(cli, "find_code_link", flaky)
+        written = {}
+        monkeypatch.setattr(cli, "fill_code_links", lambda m, a, links: written.update(links) or len(links))
+        cli.cmd_recheck_code_links(self._config(tmp_path), ids=["bad", "2601.00002"])
+        assert list(written) == ["2601.00002"]
+
+    def test_dry_run_writes_nothing(self, monkeypatch, tmp_path):
+        monkeypatch.setattr(cli, "find_code_link", lambda pid, summary=None: "http://github.com/o/r")
+        calls = []
+        monkeypatch.setattr(cli, "fill_code_links", lambda m, a, links: calls.append(links) or 0)
+        cli.cmd_recheck_code_links(self._config(tmp_path), ids=["2601.00001"], dry_run=True)
+        assert calls == []
+
+
+class TestRecheckIdSources:
+    def test_ids_from_a_log_file(self, tmp_path):
+        log = tmp_path / "run.log"
+        log.write_text(
+            "[09/10/2026 19:39:58 WARNING] HF Papers lookup failed for 2302.09127: 429 Client Error\n"
+            "[09/10/2026 19:40:07 INFO] Time = 2025-04-30 title = something\n"
+            "[09/10/2026 19:50:02 WARNING] HF Papers lookup failed for 2305.17198: 429 Client Error\n"
+            "[09/10/2026 19:51:02 WARNING] HF Papers lookup failed for 2302.09127: 429 Client Error\n"
+        )
+        assert cli._ids_from_log(str(log)) == ["2302.09127", "2305.17198"]
+
+    def test_cli_passes_ids_and_dry_run(self, monkeypatch, fake_config_file):
+        captured = {}
+        monkeypatch.setattr(cli, "cmd_recheck_code_links", lambda config, **kw: captured.update(kw))
+        cli.main(["--config_path", fake_config_file, "recheck-code-links", "--ids", "2601.1, 2601.2", "--dry-run"])
+        assert captured == {"ids": ["2601.1", "2601.2"], "dry_run": True}
