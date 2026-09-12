@@ -110,6 +110,19 @@ Each `filters` entry is an arXiv search query — phrases are quoted and OR'd to
 uv run python -m nlp_arxiv_daily backfill --start 2024-01 --end 2025-12 --delay-seconds 15
 ```
 
+**Keywords are not era-neutral.** The LLM-era tags (`LLM Agent`, `LLM Efficiency`,
+`Code LLM`, …) were added in 2026-04 to follow post-ChatGPT work, and their
+filters are ordinary words elsewhere: `Autonomous Agent` and `AI Agent` are
+1990s multi-agent-systems vocabulary, `Quantization` is signal processing,
+`LoRA` is a radio protocol, `Code Generation` is a compiler term. Backfilling
+them into the pre-2022 years fills the archive with unrelated papers — a 2016
+`LLM Agent` query returned work on kinetic wealth distribution and DNS
+tunneling. History before 2022-10 is therefore covered by the era-neutral NLP
+keywords only (`NLP`, `Question Answering`, `Knowledge Graph`,
+`Text Classification`, `Information Extraction`, `Named Entity Recognition`,
+`Sentiment Analysis`, `Multilingual NLP`, `Medical NLP`, `Legal NLP`); the
+LLM-era tags start where the keyword did.
+
 Idempotent — safe to re-run. Run it in chunks (`--keywords "A,B,C"`, a few months at a time): arXiv rate-limits aggressively. `--delay-seconds` applies between every request, and 15s is what keeps a long run 429-free; 10s earned a 429 (and a ~40 minute IP throttle) about an hour in. A keyword with more than 2,000 papers a month hits arXiv's per-query result cap; add `--window-days 7` to query the month in weekly windows, and watch the log for `cap hit` if a window still overflows.
 
 ### 6. (Optional) Repair code links after a throttled run
