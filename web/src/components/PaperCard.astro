@@ -88,8 +88,8 @@ const primaryCategory = parsed?.categories[0] ?? null;
         bibtex
       </button>
     </div>
-    {/* Abstracts are stored in the JSON and shipped in the .bib downloads and
-        RSS, but not rendered here: on a 1000+ card page they tripled the HTML. */}
+    {/* No abstract here: on a 1000+ card page abstracts tripled the HTML,
+        and the pipeline no longer stores them in the JSON anyway. */}
     {/* COinS: lets the Zotero connector save every paper on the page.
         Zero-size span by design — Zotero reads the title attribute only. */}
     <span class="Z3988" title={coins} aria-hidden="true" data-pagefind-ignore></span>

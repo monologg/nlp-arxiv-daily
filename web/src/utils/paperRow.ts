@@ -2,10 +2,10 @@
  * Parse one paper value from the JSON files into structured fields.
  *
  * Since the format switch the pipeline writes dict records
- * ({date, title, authors, url, code, abstract, categories}); everything
- * fetched before that is a one-line markdown string. Both coexist in the
- * same files forever (the archive is append-only), so `parsePaper` accepts
- * either. The string grammar is documented below.
+ * ({date, title, authors, url, code, categories}); everything fetched before
+ * that was a one-line markdown string. This repo's data has since been
+ * rewritten as records, but `parsePaper` still accepts either so older data
+ * keeps rendering. The string grammar is documented below.
  *
  * The Python pipeline historically emitted TWO row formats and the
  * gitpage-flavor archive JSONs ended up with both mixed in: bullet rows

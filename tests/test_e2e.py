@@ -233,8 +233,8 @@ class TestBackfillE2E:
     def test_backfill_populates_archives_for_each_month(self, monkeypatch, workspace):
         """Backfill 3 months → 3 separate archive files, each holding only its
         own month's papers, plus README/index regenerated end-to-end."""
-        # arxiv.Client + Search are recreated per-call inside fetch_papers_in_range.
-        # Fake them to return a different paper per month based on the search query.
+        # Fake arxiv.Client + Search to return a different paper per month,
+        # keyed on the submittedDate range in the search query.
         from nlp_arxiv_daily import fetcher
 
         # Map "submittedDate prefix YYYYMM" → list of fake results

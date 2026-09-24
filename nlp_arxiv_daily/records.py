@@ -1,9 +1,9 @@
 """Conversions between `Paper`, the structured `WebRecord` persisted in the
 gitpage JSON files, and the legacy one-line markdown row.
 
-The JSON files under docs/ are append-only across years, so both shapes
-coexist indefinitely: rows written before the switch stay strings, anything
-the pipeline fetches afterwards is a dict. `web_record_to_line` lets the
+The pipeline writes dicts only. Rows written before the switch were strings;
+this repo's data has since been rewritten as dicts, but readers still accept
+both shapes so older data keeps working. `web_record_to_line` lets the
 (retired, but still tested) markdown renderer treat both uniformly.
 """
 

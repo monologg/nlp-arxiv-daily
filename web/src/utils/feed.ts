@@ -11,9 +11,9 @@ export interface FeedItem {
   customData: string;
 }
 
-/** Item caps: feeds are re-fetched by readers every hour or so, and each
- * item now carries an abstract, so an uncapped month (2000+ items, ~3 MB)
- * is unreasonable. Readers keep older items they already saw. */
+/** Item caps: feeds are re-fetched by readers every hour or so, and an
+ * uncapped month runs to thousands of items. Readers keep older items they
+ * already saw. */
 export const MAIN_FEED_LIMIT = 200;
 export const KEYWORD_FEED_LIMIT = 100;
 
@@ -35,7 +35,8 @@ export function buildFeedItems(buckets: KeywordEntries, limit: number): FeedItem
         link: parsed.paperUrl,
         pubDate: new Date(parsed.date),
         // Readers show the description inline, so lead with the abstract
-        // when we have one.
+        // when a record has one (the pipeline no longer stores abstracts, so
+        // this is normally just the byline).
         description: parsed.abstract ? `${parsed.abstract}\n\n${byline}` : byline,
         customData: `<category>${keyword}</category>`,
       });

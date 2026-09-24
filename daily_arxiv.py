@@ -1,7 +1,7 @@
 """Backward-compat shim. Real logic lives in `nlp_arxiv_daily`.
 
-This module exists so that:
-- `python daily_arxiv.py` (the cron workflow entrypoint) keeps working.
+The cron runs `python -m nlp_arxiv_daily run`. This module exists so that:
+- `python daily_arxiv.py` (the cron's entrypoint before the package) keeps working.
 - `from daily_arxiv import ...` (used by tests) keeps resolving the same names.
 - `monkeypatch.setattr(daily_arxiv.requests, "get", ...)` keeps working,
   because `requests` is imported here.

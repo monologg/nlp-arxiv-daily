@@ -3,11 +3,13 @@ import { parsePaper, type ParsedPaper, type PaperValue } from "./paperRow.ts";
 /**
  * BibTeX export.
  *
- * Dict records carry the full author list, abstract and arxiv categories,
- * so those entries are complete. Legacy string rows only know the first
- * author and become `author = {First Author and others}` — BibTeX renders
- * "and others" as "et al.", which is the honest representation of what we
- * have; arXiv's own export (https://arxiv.org/bibtex/<id>) has the rest.
+ * Dict records carry the full author list and arxiv categories, so those
+ * entries are complete apart from the abstract, which the pipeline does not
+ * store (an `abstract` field is emitted only when a record still has one).
+ * Legacy string rows (older data only) know just the first author and
+ * become `author = {First Author and others}` — BibTeX renders "and others"
+ * as "et al.", which is the honest representation of what we have; arXiv's
+ * own export (https://arxiv.org/bibtex/<id>) has the rest.
  */
 
 export interface BibEntry {
@@ -126,10 +128,9 @@ export function buildBib(buckets: Array<[string, Record<string, PaperValue>]>, h
 }
 
 /**
- * Single-paper BibTeX for the per-card copy button. Deliberately drops the
+ * Single-paper BibTeX for the per-card copy button. Always drops the
  * abstract: the entry is inlined as a data attribute on every card, and
- * ~1.2 KB of abstract × 2000 cards was adding 2–3 MB to a list page. The
- * downloadable .bib files keep the abstract.
+ * ~1.2 KB of abstract × 2000 cards was adding 2–3 MB to a list page.
  */
 export function paperBibtex(paperId: string, paper: ParsedPaper): string {
   return formatEntry({ paperId, paper: { ...paper, abstract: null }, keywords: [] }, citeKey(paperId, paper));
