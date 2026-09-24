@@ -32,7 +32,7 @@ Notes for contributors and coding agents. [README.md](README.md) explains the pr
 - Data-only PRs trigger no CI: `astro-build` runs on PRs only for `web/**`, and `test` / `check-lint` ignore `docs/`. Build the site locally before merging (`cd web && pnpm build`). Merging data into `master` builds and deploys the site.
 - `make test` runs the unit tests with the coverage gate in `pyproject.toml`. `make style` fixes lint and formatting, `make quality` only checks (CI runs it with `make check-lock`).
 - `pnpm dev` needs `NODE_ENV=production`; see [web/README.md](web/README.md).
-- Unit tests fake arXiv and HuggingFace. `make test-integration` calls the real APIs, but only through the older top-N path (`get_daily_papers` / `fetch_papers`), not the date-window path the cron uses, and it currently fails on its `abstract` assertion. The next daily cron run is the first real test of a fetcher change — check it.
+- Unit tests fake arXiv and HuggingFace. `make test-integration` calls the real APIs: one plain `arxiv.Search` field check, and one run of the cron's fetch path (`cmd_fetch` → `fetch_recent_papers`) with one keyword and a two-result cap. CI never runs it. The next daily cron run is still the first full-scale test of a fetcher change — check it.
 
 ## Commits and PRs
 

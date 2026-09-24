@@ -4,7 +4,8 @@ name: test
 # GH-Actions egress IPs share arxiv's per-IP 429 throttle with the rest of
 # GitHub, so they fail for reasons unrelated to the PR. The daily cron
 # (nlp-arxiv-daily.yml) exercises the real APIs and alerts on failure;
-# run `make test-integration` locally for the contract smoke.
+# run `make test-integration` locally for a contract smoke of the same
+# daily fetch path against the real APIs.
 on:
   pull_request:
     paths:
