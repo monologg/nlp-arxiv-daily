@@ -1,3 +1,4 @@
+import { SITE_NAME } from "../../config.ts";
 import type { APIContext } from "astro";
 import { KEYWORD_FEED_LIMIT, buildFeedItems, feedResponse } from "../../utils/feed.ts";
 import { keywordSlug } from "../../utils/keyword.ts";
@@ -15,7 +16,7 @@ export async function getStaticPaths() {
 export async function GET(context: APIContext) {
   const { keyword, buckets } = context.props as { keyword: string; buckets: KeywordEntries };
   return feedResponse(context, {
-    title: `NLP Arxiv Daily — ${keyword}`,
+    title: `${SITE_NAME} — ${keyword}`,
     description: `Daily-refreshed arxiv papers matching "${keyword}"`,
     items: buildFeedItems(buckets, KEYWORD_FEED_LIMIT),
   });

@@ -1,4 +1,5 @@
 ---
+import { SITE_NAME } from "../../config.ts";
 import Layout from "../../layouts/Layout.astro";
 import { withBase } from "../../utils/url.ts";
 import { getCurrentMonthId, listMonths } from "../../utils/papers.ts";
@@ -16,7 +17,7 @@ for (const month of months) {
 }
 ---
 
-<Layout title="Archive — NLP Arxiv Daily" current="archive" ogSlug="archive">
+<Layout title={`Archive — ${SITE_NAME}`} current="archive" ogSlug="archive">
   <main class="max-w-3xl mx-auto px-6 py-10" data-pagefind-ignore="all">
     <header class="mb-10">
       <h1 class="text-4xl font-bold mb-2">Archive</h1>
