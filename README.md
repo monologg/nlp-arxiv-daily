@@ -98,7 +98,6 @@ The pipeline only ever adds papers. Everything your fork inherited stays in the 
 
 ```bash
 rm docs/archive-web/*.json
-touch docs/archive-web/.gitkeep             # the site build needs this directory to exist
 echo '{}' > docs/nlp-arxiv-daily-web.json
 ```
 
@@ -106,9 +105,8 @@ Commit the result. The first daily run then collects the last `daily_lookback_da
 
 ### 4. Update site identity
 
-- `web/astro.config.mjs` — set `site` and `base` to where GitHub Pages serves your fork. Usually that is `https://<user>.github.io` and `/<repo>`. If your `<user>.github.io` site has a custom domain, project sites live under it: `https://<that-domain>` and `/<repo>` (this repo's case). If the fork itself gets a custom domain, use that domain and `/`. Both settings apply to production builds only.
-- `web/public/CNAME` — delete it. Pages deploys from GitHub Actions ignore this file; set a custom domain under **Settings → Pages** instead.
-- The site name and the GitHub link are hard-coded across `web/src` (header, footer, page titles, RSS, OG images, BibTeX headers, the default description in `Layout.astro`). `grep -rniE "nlp arxiv|monologg" web/src` lists every place.
+- `web/astro.config.mjs` — set `site` and `base` to where GitHub Pages serves your fork. Usually that is `https://<user>.github.io` and `/<repo>`. If your `<user>.github.io` site has a custom domain, project sites live under it: `https://<that-domain>` and `/<repo>` (this repo's case). If the fork itself gets a custom domain (set it under **Settings → Pages**; a `CNAME` file is ignored by Actions deploys), use that domain and `/`. Both settings apply to production builds only.
+- `web/src/config.ts` — the site name (header, page titles, RSS, OG images, BibTeX headers), the default description and the GitHub link. A few descriptions still say "NLP arxiv" on their own (footer, RSS, month pages); `grep -rniE "nlp arxiv|monologg" web/src` lists them.
 - `README.md` — the badges, hero image, website links and feature list all describe this repo.
 - Optional: the commit author name and email of the daily run are set at the top of `.github/workflows/nlp-arxiv-daily.yml`.
 

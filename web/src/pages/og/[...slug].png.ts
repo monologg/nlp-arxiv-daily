@@ -1,3 +1,4 @@
+import { SITE_NAME } from "../../config.ts";
 import { OGImageRoute } from "astro-og-canvas";
 import { listMonths, loadMonth, resolveLatest, totalRows } from "../../utils/papers.ts";
 
@@ -10,12 +11,12 @@ const today = new Date().toISOString().slice(0, 10);
 
 const pages: Record<string, OgPage> = {
   index: {
-    title: "NLP Arxiv Daily",
+    title: SITE_NAME,
     description: `Updated ${today}`,
   },
   archive: {
     title: "Archive",
-    description: "Monthly snapshots — NLP Arxiv Daily",
+    description: `Monthly snapshots — ${SITE_NAME}`,
   },
 };
 
@@ -25,7 +26,7 @@ for (const id of listMonths()) {
   const total = totalRows(loadMonth(id));
   pages[`archive/${id}`] = {
     title: id,
-    description: `${total} papers — NLP Arxiv Daily`,
+    description: `${total} papers — ${SITE_NAME}`,
   };
 }
 

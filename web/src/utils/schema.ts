@@ -1,9 +1,10 @@
 import { z } from "astro/zod";
 
 // Structured record the Python pipeline writes (nlp_arxiv_daily/records.py).
-// Older rows in the same files are one-line markdown strings; utils/paperRow.ts
-// parses both. `abstract` is optional: it was persisted for a few days in
-// 2026-09 and then dropped from storage.
+// Older data may still hold one-line markdown strings (this repo's no longer
+// does); utils/paperRow.ts parses both. `abstract` is optional: the pipeline
+// does not store it, and only records written during a few days in 2026-09
+// ever had one.
 export const paperRecordSchema = z.object({
   date: z.string(),
   title: z.string(),

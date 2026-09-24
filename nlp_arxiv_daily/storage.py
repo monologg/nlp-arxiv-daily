@@ -83,8 +83,8 @@ def fill_code_links(main_json_path: str, archive_dir: str, links: Mapping[str, s
 
     Only falsy `code` fields are touched, so a link already stored (possibly a
     better one, from the arxiv summary fallback) always wins. Legacy string
-    rows are skipped — their link lives inside the markdown, and rewriting
-    that is not worth it for the handful of rows involved.
+    rows (none left in this repo's data) are skipped — their link lives
+    inside the markdown, and rewriting that is not worth it.
     """
     if not links:
         return 0

@@ -1,4 +1,5 @@
 ---
+import { REPO_URL, SITE_NAME } from "../config.ts";
 import { withBase } from "../utils/url.ts";
 import ThemeToggle from "./ThemeToggle.astro";
 
@@ -12,7 +13,7 @@ const { current = "home" } = Astro.props;
 <header class="border-b border-(--color-border)">
   <div class="max-w-3xl mx-auto px-6 py-4 flex items-center justify-between">
     <a class="font-semibold tracking-tight" href={withBase("/")}>
-      NLP Arxiv Daily
+      {SITE_NAME}
     </a>
     <nav class="flex items-center gap-5 text-sm">
       <a
@@ -58,7 +59,7 @@ const { current = "home" } = Astro.props;
       </a>
       <a
         class="inline-flex items-center justify-center w-9 h-9 rounded border border-(--color-border) hover:border-(--color-accent) hover:text-(--color-accent) transition-colors"
-        href="https://github.com/monologg/nlp-arxiv-daily"
+        href={REPO_URL}
         target="_blank"
         rel="noopener noreferrer"
         aria-label="GitHub repository"

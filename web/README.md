@@ -21,7 +21,7 @@ Defaults and minimums are in `src/utils/papers.ts`.
 
 | Variable                    | Effect                                                                   |
 | :-------------------------- | :----------------------------------------------------------------------- |
-| `DOCS_DIR`                  | Where to read the JSON from (default `../docs`, then `./docs`); the directory must contain `archive-web/` |
+| `DOCS_DIR`                  | Where to read the JSON from (default `../docs`, then `./docs`); the directory must contain `nlp-arxiv-daily-web.json` or `archive-web/` |
 | `PUBLIC_PAGE_SIZE`          | Papers per page on the keyword × month archive pages                     |
 | `PUBLIC_LATEST_PER_KEYWORD` | Papers per keyword on the Latest page before the "View all" link         |
 | `PUBLIC_ADSENSE_CLIENT`     | AdSense publisher ID; when unset, no ad script is added                  |

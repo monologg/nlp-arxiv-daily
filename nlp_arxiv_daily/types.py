@@ -27,8 +27,8 @@ class KeywordConfig(TypedDict):
 
 class WebRecord(TypedDict):
     """One paper in the gitpage JSON files (docs/*.json). Replaces the
-    one-line markdown string; old files still hold strings, so consumers
-    must accept `str | WebRecord`."""
+    one-line markdown string; older data may still hold strings, so consumers
+    accept `str | WebRecord`."""
 
     date: str  # ISO YYYY-MM-DD submission date
     title: str
@@ -38,7 +38,7 @@ class WebRecord(TypedDict):
     categories: list[str]
 
 
-# Value is a legacy markdown row (str) or a WebRecord (dict).
+# Value is a WebRecord (dict) or, in older data, a legacy markdown row (str).
 PaperValue = str | dict[str, Any]
 PapersByKeyword = dict[str, dict[str, PaperValue]]
 PapersByMonth = dict[str, dict[str, dict[str, PaperValue]]]

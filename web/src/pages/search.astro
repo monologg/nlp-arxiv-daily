@@ -1,14 +1,16 @@
 ---
+import { SITE_NAME } from "../config.ts";
 import Layout from "../layouts/Layout.astro";
 import Search from "astro-pagefind/components/Search";
 ---
 
-<Layout title="Search — NLP Arxiv Daily" current="search">
+<Layout title={`Search — ${SITE_NAME}`} current="search">
   <main class="max-w-3xl mx-auto px-6 py-10">
     <header class="mb-6">
       <h1 class="text-4xl font-bold mb-2">Search</h1>
       <p class="text-(--color-muted) text-sm">
-        Full-text across every paper in the archive.
+        Matches the title, date and author line of every paper in the archive.
+        Each result is one page of a keyword's list for a month, not a single paper.
       </p>
     </header>
 

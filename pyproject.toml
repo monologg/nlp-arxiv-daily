@@ -20,7 +20,7 @@ package = false
 [tool.pytest.ini_options]
 addopts = "-ra -v -l -m 'not integration' --cov=nlp_arxiv_daily --cov-report=term-missing --cov-fail-under=90"
 markers = [
-  "integration: 실제 외부 API/네트워크 호출이 필요한 통합 테스트 (arxiv, HF Papers)",
+  "integration: calls the real arXiv and HuggingFace Papers APIs (network required)",
 ]
 
 [tool.coverage.run]

@@ -1,3 +1,4 @@
+import { SITE_NAME } from "../../../config.ts";
 import type { APIRoute } from "astro";
 import { buildBib } from "../../../utils/bibtex.ts";
 import { keywordSlug } from "../../../utils/keyword.ts";
@@ -23,7 +24,7 @@ export const GET: APIRoute = ({ props }) => {
   const { month, keyword } = props as { month: string; keyword: string | null };
   const data = loadMonth(month);
   const buckets = keyword ? nonEmptyKeywords(data).filter(([k]) => k === keyword) : nonEmptyKeywords(data);
-  const header = `NLP Arxiv Daily — ${keyword ?? "all keywords"} (${month})`;
+  const header = `${SITE_NAME} — ${keyword ?? "all keywords"} (${month})`;
   return new Response(buildBib(buckets, header), {
     headers: { "Content-Type": "application/x-bibtex; charset=utf-8" },
   });

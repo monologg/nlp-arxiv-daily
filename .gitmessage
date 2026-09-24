@@ -1,15 +1,16 @@
-# Title: Summary, imperative, start upper case, don't end with a period
-# No more than 50 chars. #### 50 chars is here: #
+# <type>(<optional scope>): <summary, usually lower case, no period>
+# Keep the subject short (usually well under 100 chars), e.g.
+#   fix(backfill): retry a window that hit the result cap
+# Scopes in use: astro (the web/ site), cli, backfill.
+#
+#   feat     : new behavior
+#   fix      : bug fix
+#   refactor : restructure without changing behavior
+#   docs     : documentation and comments only
+#   test     : tests only
+#   ci       : GitHub Actions workflows
+#   chore    : tooling, dependencies, housekeeping
+#   data     : docs/*.json changes (backfills, cleanups)
 
-# Remember blank line between title and body.
-
-# Body: Explain *what* and *why* (not *how*). Include task ID (Jira issue).
-# Wrap at 72 chars. ################################## which is here: #
-
-#   feat    : 기능 (새로운 기능)
-#   fix     : 버그 (버그 수정)
-#   refactor: 리팩토링
-#   style   : 스타일 (코드 형식, 세미콜론 추가: 비즈니스 로직에 변경 없음)
-#   docs    : 문서 (문서 추가, 수정, 삭제)
-#   test    : 테스트 (테스트 코드 추가, 수정, 삭제: 비즈니스 로직에 변경 없음)
-#   chore   : 기타 변경사항 (빌드 스크립트 수정 등)
+# Blank line, then the body: what changed and why, wrapped at 72 chars.
+# Keep it self-contained; reference only this repo's public issues and PRs.

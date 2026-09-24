@@ -16,11 +16,11 @@ def papers_to_legacy_rows(papers: list[Paper], topic: str) -> tuple[dict, dict]:
     """Render a list[Paper] into ({topic: {paper_id: row}}, {topic: {paper_id: record}}).
 
     The README flavor keeps its pipe-table markdown row. The gitpage (web)
-    flavor is a structured `WebRecord` dict — the Astro site parses both this
-    and the older one-line string rows still present in the archive JSONs.
+    flavor is a structured `WebRecord` dict. (The Astro site still parses the
+    older one-line string rows too, though this repo's data no longer has any.)
 
-    Shared by `get_daily_papers` (daily cron) and `cli.cmd_backfill` so both
-    persist data in the same JSON shape.
+    Shared by `cli.cmd_fetch` (daily cron), `cli.cmd_backfill` and
+    `get_daily_papers` so all of them persist data in the same JSON shape.
     """
     content: dict[str, str] = {}
     content_to_web: dict[str, PaperValue] = {}
@@ -80,9 +80,10 @@ def load_config(config_file: str) -> dict:
 
 def get_daily_papers(topic, query="nlp", max_results=2):
     """
-    Backward-compat adapter: fetch via `fetcher.fetch_papers`, then pre-render
-    markdown rows in the legacy shape. Used by `cli.cmd_fetch` to keep the
-    JSON files in the existing format the renderer expects.
+    Backward-compat adapter: fetch via `fetcher.fetch_papers` (the old top-N
+    newest-first query), then pre-render rows with `papers_to_legacy_rows`.
+    Nothing in the pipeline calls it any more — `cli.cmd_fetch` uses
+    `fetcher.fetch_recent_papers` — it is kept only as a public export.
     """
     papers = fetch_papers(query=query, max_results=max_results)
     return papers_to_legacy_rows(papers, topic)
