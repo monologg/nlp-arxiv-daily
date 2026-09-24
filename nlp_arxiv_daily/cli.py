@@ -1,10 +1,12 @@
 """CLI subcommand dispatch for the nlp_arxiv_daily pipeline.
 
-Four subcommands:
+Five subcommands:
 - `fetch`    — query arxiv per keyword, persist current/archive JSON splits.
-- `render`   — read the persisted JSON, write README/gitpage/archive markdown.
+- `render`   — read the persisted JSON, write README + README-archive markdown
+               (only when `publish_readme` is on).
 - `run`      — fetch then render (this is what the cron workflow calls).
 - `backfill` — date-range fetch (across many months) merged into the archive.
+- `recheck-code-links` — re-ask HuggingFace for papers stored without a code link.
 
 JSON is the boundary between fetch and render, so the two subcommands can
 also be run independently — useful for backfills and golden-output testing.
@@ -114,8 +116,8 @@ def cmd_render(config: dict) -> None:
     """Render README + README-archive markdown.
 
     The gitpage flavor (docs/index.md + docs/archive-web/*.md) was retired
-    in PRSL-77's cutover — the Astro site under web/ now consumes the
-    gitpage JSON files directly, so there's no markdown to write for it.
+    when the site moved to Astro — web/ now consumes the gitpage JSON
+    files directly, so there's no markdown to write for it.
     `publish_gitpage` therefore controls only the JSON persistence in
     `cmd_fetch`, not anything in this function.
     """
@@ -179,7 +181,8 @@ def _iter_windows(
     clipped to month end). None, or a window longer than the month, yields
     the whole month as a single range.
 
-    arxiv caps a query's result set (`max_results`, default 2000), and busy
+    A query returns at most `max_results` results (`--max-results`; its
+    default matches the per-call maximum in arxiv's API manual), and busy
     keywords exceed that per month — LLM sat at ~2,000 rows for every month
     since 2024-10 because of it. Narrower date windows keep each query under
     the cap; the idempotent merge de-duplicates papers seen in two windows.
@@ -211,8 +214,9 @@ def cmd_backfill(
     papers, so re-running over an already-populated range is safe.
 
     `max_results` controls per (keyword × month) cap. Defaults to the backfill-
-    appropriate ceiling (NOT `config["max_results"]`, which is the daily-fetch
-    cap of ~10 — far too low for a months-wide recovery).
+    appropriate ceiling (NOT `config["max_results"]`, which is the daily
+    fetch's safety cap in config.yaml, sized for a few days of papers rather
+    than a month).
 
     `delay_seconds` overrides the per-request gap to dodge 429s on large runs.
     `only_keywords` restricts fetch to a subset of config keys — useful when

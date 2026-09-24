@@ -6,9 +6,9 @@ import tailwindcss from "@tailwindcss/vite";
 
 const isProd = process.env.NODE_ENV === "production";
 
-// Custom domain (monologg.kr) is the production target. The repo is also
-// deployed under the /nlp-arxiv-daily path historically, so we keep that
-// base prefix to preserve external links once cutover happens (PRSL-77).
+// Production URL is https://monologg.kr/nlp-arxiv-daily/: GitHub Pages serves
+// this project site under the account's custom domain, at the repo-name path
+// it has always used, so existing external links keep working.
 export default defineConfig({
   site: isProd ? "https://monologg.kr" : undefined,
   base: isProd ? "/nlp-arxiv-daily" : undefined,

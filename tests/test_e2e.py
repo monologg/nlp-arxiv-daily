@@ -180,7 +180,7 @@ class TestEndToEndPipeline:
         # Versioned id appears in the link text
         assert "[2604.00001v1](http://arxiv.org/abs/2604.00001v1)" in readme
 
-        # Gitpage markdown is NOT written post-cutover (PRSL-77) — Astro
+        # Gitpage markdown is no longer written — the Astro site
         # consumes the gitpage JSON files directly. The current-month JSON
         # is in place above; markdown should be absent.
         assert not workspace["index"].exists()
@@ -223,7 +223,7 @@ class TestEndToEndPipeline:
 
         cli.main(["--config_path", workspace["config"], "render"])
         # Render produces README markdown only — gitpage markdown was retired
-        # in PRSL-77 (Astro reads the JSON directly).
+        # when the site moved to Astro (it reads the JSON directly).
         assert workspace["readme"].exists()
         assert not workspace["index"].exists()
         assert "Paper A" in workspace["readme"].read_text()
