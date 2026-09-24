@@ -98,7 +98,6 @@ The pipeline only ever adds papers. Everything your fork inherited stays in the 
 
 ```bash
 rm docs/archive-web/*.json
-touch docs/archive-web/.gitkeep             # the site build needs this directory to exist
 echo '{}' > docs/nlp-arxiv-daily-web.json
 ```
 

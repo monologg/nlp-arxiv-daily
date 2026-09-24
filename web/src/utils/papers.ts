@@ -11,23 +11,37 @@ export const PAGE_SIZE = Math.max(25, Number(import.meta.env.PUBLIC_PAGE_SIZE ??
 /** Newest papers shown per keyword on the Latest page before the "show all" link. */
 export const LATEST_PER_KEYWORD = Math.max(5, Number(import.meta.env.PUBLIC_LATEST_PER_KEYWORD ?? 50) || 50);
 
+const CURRENT_FILE = "nlp-arxiv-daily-web.json";
+const ARCHIVE_SUBDIR = "archive-web";
+
 // docs/ lives one level above web/. Modules are bundled into dist/ at build
 // time, so import.meta.url is useless here; resolve from the working
 // directory instead (astro runs from web/ locally and in CI, but accept the
 // repo root too) or from an explicit DOCS_DIR.
+//
+// A data directory is recognized by the current-month JSON or the archive
+// directory; either may be missing. Git does not keep empty directories, so
+// a fork that deleted every archive month has no archive-web/ in its
+// checkout until the first month rolls over.
 function findDocsDir(): string {
   const candidates = [
     process.env.DOCS_DIR,
     path.resolve(process.cwd(), "../docs"),
     path.resolve(process.cwd(), "docs"),
   ].filter((c): c is string => Boolean(c));
-  const hit = candidates.find((c) => fs.existsSync(path.join(c, "archive-web")));
-  if (!hit) throw new Error(`docs/ directory not found; tried ${candidates.join(", ")}`);
+  const hit = candidates.find(
+    (c) => fs.existsSync(path.join(c, CURRENT_FILE)) || fs.existsSync(path.join(c, ARCHIVE_SUBDIR)),
+  );
+  if (!hit) {
+    throw new Error(
+      `docs/ directory not found: none of ${candidates.join(", ")} has ${CURRENT_FILE} or ${ARCHIVE_SUBDIR}/`,
+    );
+  }
   return hit;
 }
 const DOCS_DIR = findDocsDir();
-const CURRENT_PATH = path.join(DOCS_DIR, "nlp-arxiv-daily-web.json");
-const ARCHIVE_DIR = path.join(DOCS_DIR, "archive-web");
+const CURRENT_PATH = path.join(DOCS_DIR, CURRENT_FILE);
+const ARCHIVE_DIR = path.join(DOCS_DIR, ARCHIVE_SUBDIR);
 
 /**
  * The month files are large (a full month is ~10k rows) and there are 100+
@@ -72,22 +86,21 @@ export function currentMonthId(data: PaperBucket): string | null {
 let currentIdMemo: string | null | undefined;
 /** Id of the live current month (from the main JSON), or null if empty. */
 export function getCurrentMonthId(): string | null {
-  if (currentIdMemo === undefined) currentIdMemo = currentMonthId(readBucket(CURRENT_PATH));
+  if (currentIdMemo === undefined) {
+    currentIdMemo = fs.existsSync(CURRENT_PATH) ? currentMonthId(readBucket(CURRENT_PATH)) : null;
+  }
   return currentIdMemo;
 }
 
 /**
  * Every month with a page: archive snapshots plus the live current month
  * (not in the archive dir until the month rolls over). Newest first.
- * Cheap — reads directory names, not file contents.
+ * Cheap — reads directory names, not file contents. A missing archive
+ * directory means no archived months yet.
  */
 export function listMonths(): string[] {
-  const ids = new Set(
-    fs
-      .readdirSync(ARCHIVE_DIR)
-      .filter((n) => /^\d{4}-\d{2}\.json$/.test(n))
-      .map((n) => n.replace(/\.json$/, "")),
-  );
+  const names = fs.existsSync(ARCHIVE_DIR) ? fs.readdirSync(ARCHIVE_DIR) : [];
+  const ids = new Set(names.filter((n) => /^\d{4}-\d{2}\.json$/.test(n)).map((n) => n.replace(/\.json$/, "")));
   const current = getCurrentMonthId();
   if (current) ids.add(current);
   return Array.from(ids).sort().reverse();

@@ -21,7 +21,9 @@ for (const month of months) {
     <header class="mb-10">
       <h1 class="text-4xl font-bold mb-2">Archive</h1>
       <p class="text-(--color-muted) text-sm">
-        {months.length} monthly snapshots since {months[months.length - 1]}.
+        {months.length > 0
+          ? `${months.length} monthly snapshot${months.length === 1 ? "" : "s"} since ${months[months.length - 1]}.`
+          : "No months collected yet — the cron picks papers up daily."}
       </p>
     </header>
 
