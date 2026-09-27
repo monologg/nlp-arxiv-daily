@@ -162,6 +162,10 @@ re-asks HuggingFace, and fills in only the rows still missing a link.
 
 The layout injects the AdSense script only when `PUBLIC_ADSENSE_CLIENT` is set at build time. Add a repository variable (**Settings → Secrets and variables → Actions → Variables**) named `ADSENSE_CLIENT` with your publisher ID (e.g. `ca-pub-XXXXXXXXXXXXXXXX`) — the build workflow passes it through. Without it the site builds ad-free.
 
+### 9. (Optional) Notify search engines with IndexNow
+
+After each deploy, the `indexnow` job sends the pages that were added, changed or removed to [IndexNow](https://www.indexnow.org/) (Bing, Naver, Yandex and others; Google does not take part). To turn it on, serve a key file at the root of your host, `https://<host>/<key>.txt`, containing the key itself: in `web/public/` if the site is served at `/` of its own domain, otherwise in whatever serves that root (for a project site under `<user>.github.io`, the `<user>.github.io` repo). Then add a repository variable named `INDEXNOW_KEY` with the key. Without it the job only logs a warning. [`web/README.md`](web/README.md) explains how changed pages are detected.
+
 ## Local development
 
 Requires Python 3.13 (see `requires-python` in `pyproject.toml`) and Node (see `engines` in `web/package.json`). The repo uses [`uv`](https://docs.astral.sh/uv/) and [`pnpm`](https://pnpm.io/).

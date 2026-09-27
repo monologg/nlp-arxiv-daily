@@ -30,6 +30,7 @@ Notes for contributors and coding agents. [README.md](README.md) explains the pr
 ## Checks and CI
 
 - Data-only PRs trigger no CI: `astro-build` runs on PRs only for `web/**`, and `test` / `check-lint` ignore `docs/`. Build the site locally before merging (`cd web && pnpm build`). Merging data into `master` builds and deploys the site.
+- Every deploy is followed by the `indexnow` job, which submits only the pages whose content hash differs from the live `indexnow-manifest.json` (how, and what the hash leaves out: [web/README.md](web/README.md)). Its failures never fail the deploy; they show as a red job and an annotation. Keep that file in `dist/` — without it the next deploy can't tell which pages changed. `cd web && pnpm test` runs its unit tests.
 - `make test` runs the unit tests with the coverage gate in `pyproject.toml`. `make style` fixes lint and formatting, `make quality` only checks (CI runs it with `make check-lock`).
 - `pnpm dev` needs `NODE_ENV=production`; see [web/README.md](web/README.md).
 - Unit tests fake arXiv and HuggingFace. `make test-integration` calls the real APIs: one plain `arxiv.Search` field check, and one run of the cron's fetch path (`cmd_fetch` → `fetch_recent_papers`) with one keyword and a two-result cap. CI never runs it. The next daily cron run is still the first full-scale test of a fetcher change — check it.

@@ -12,6 +12,8 @@ Run from `web/`. Node version: `engines` in `package.json`; pnpm version: `.gith
 | `NODE_ENV=production pnpm dev` | Dev server at `http://localhost:4321/<base>/`                 |
 | `pnpm build`                   | Build the whole archive into `dist/` and index it for search  |
 | `pnpm preview`                 | Serve `dist/` at `http://localhost:4321/<base>/`              |
+| `pnpm test`                    | Unit tests for `scripts/` (`node:test`, no dependencies)      |
+| `node scripts/indexnow.mjs plan --dry-run` | After a build: list the pages IndexNow would get, against the live site; writes and submits nothing |
 
 `<base>` is the `base` in `astro.config.mjs` (`nlp-arxiv-daily` here). `pnpm dev` needs `NODE_ENV=production`: `site` and `base` are set only in production, and without a `site` every page fails with `Invalid URL`. `astro build` and `astro preview` run in production mode on their own.
 
@@ -29,4 +31,5 @@ Defaults and minimums are in `src/utils/papers.ts`.
 ## Things that break quietly
 
 - Month files are read one at a time through `src/utils/papers.ts`, not through a content collection, which would hold the whole archive in memory for the entire build.
+- IndexNow gets only the pages a deploy added, changed or removed. The sitemap has no `<lastmod>`, so `scripts/indexnow.mjs` hashes each sitemap page's title, description, canonical and the text and links inside `<main>` into `dist/indexnow-manifest.json`, which is deployed with the site; the next deploy diffs its own hashes against that live copy. Anything outside `<main>` — the header, the footer with its build date — is not compared, so content a page shows outside `<main>` never counts as a change. When the live manifest is missing (the first deploy with it), only URLs new to or removed from the live sitemap are sent.
 - Search indexes the keyword × month pages, not single papers: each result is a whole page of cards, titled after the last card on it (every card sets `data-pagefind-meta="title"` and Pagefind keeps one per page). A paper filed under several keywords is found on each of those pages. Latest, the month index and the archive index carry `data-pagefind-ignore="all"` so they add no further copies; a new page that lists papers needs it too.
