@@ -40,6 +40,8 @@ skip_covered = false
 
 [tool.ruff]
 line-length = 120
+# Respect exclude even for paths passed explicitly (pre-commit hooks)
+force-exclude = true
 target-version = "py313"
 
 exclude = [
