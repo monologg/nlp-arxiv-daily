@@ -13,6 +13,10 @@ name: Astro Build & Deploy
 #
 # Repo Settings → Pages → Source must be set to "GitHub Actions" for the
 # deploy job to publish.
+#
+# After a deploy, the indexnow job tells IndexNow engines (Bing, Naver, ...)
+# which pages were added, changed or removed (web/scripts/indexnow.mjs). It
+# needs the INDEXNOW_KEY repository variable; without it the job only warns.
 
 on:
   push:
@@ -51,6 +55,8 @@ jobs:
     # Skip when the upstream cron failed — no point rebuilding stale data.
     if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
+    outputs:
+      indexnow-plan: ${{ steps.indexnow-plan.outcome }}
     defaults:
       run:
         working-directory: web
@@ -73,12 +79,34 @@ jobs:
       - name: Install
         run: pnpm install --frozen-lockfile
 
+      - name: Test scripts
+        run: pnpm test
+
       - name: Build
         env:
           NODE_ENV: production
           # Repo variable — not inherited by forks, so forks build ad-free.
           PUBLIC_ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
         run: pnpm build
+
+      - name: Plan IndexNow submission
+        id: indexnow-plan
+        # Hashes every sitemap page into dist/indexnow-manifest.json (deployed
+        # with the site as the next run's baseline) and lists the URLs that
+        # are new, changed or removed against the live manifest. Runs before
+        # the deploy, so "live" is still the previous deploy. A failure shows
+        # as an annotation and skips the indexnow job; it never blocks the
+        # deploy.
+        continue-on-error: true
+        run: node scripts/indexnow.mjs plan --out "$RUNNER_TEMP/indexnow-plan.json"
+
+      - name: Upload IndexNow plan
+        if: ${{ steps.indexnow-plan.outcome == 'success' && github.event_name != 'pull_request' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: indexnow-plan
+          path: ${{ runner.temp }}/indexnow-plan.json
+          retention-days: 7
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
@@ -97,3 +125,39 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  indexnow:
+    name: indexnow
+    # Runs only after a successful deploy. It waits until the new manifest is
+    # served, then posts the planned URLs. A failure turns this job red but
+    # leaves the deploy as it is; "Re-run failed jobs" retries it with the
+    # same plan.
+    needs: [build, deploy]
+    if: ${{ needs.build.outputs.indexnow-plan == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: web/scripts
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Download IndexNow plan
+        uses: actions/download-artifact@v4
+        with:
+          name: indexnow-plan
+          path: ${{ runner.temp }}
+
+      - name: Submit changed URLs to IndexNow
+        env:
+          # Repo variable — not inherited by forks. The key file must be
+          # served at https://<host>/<key>.txt.
+          INDEXNOW_KEY: ${{ vars.INDEXNOW_KEY }}
+        run: node web/scripts/indexnow.mjs submit --plan "$RUNNER_TEMP/indexnow-plan.json"
