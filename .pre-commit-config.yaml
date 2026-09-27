@@ -1,8 +1,17 @@
 repos:
+  # Fix only the staged Python files with the ruff pinned in uv.lock (whole repo: make style; CI: make quality).
+  # Hooking make style instead rewrites files outside the commit. Pairs with force-exclude = true in pyproject.toml.
   - repo: local
     hooks:
-      - id: style
-        name: style
+      - id: ruff-check
+        name: ruff check
         language: system
-        entry: make style
-        types: [python]
+        entry: uv run --frozen --only-group quality ruff check --fix
+        types_or: [python, pyi]
+        require_serial: true
+      - id: ruff-format
+        name: ruff format
+        language: system
+        entry: uv run --frozen --only-group quality ruff format
+        types_or: [python, pyi]
+        require_serial: true
