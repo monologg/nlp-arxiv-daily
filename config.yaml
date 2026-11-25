@@ -10,6 +10,12 @@ show_badge: False
 daily_lookback_days: 7
 max_results: 1500
 
+# Papers kept out of the data (removal requests). An id listed here is never
+# stored, and a copy stored earlier is dropped by the next run. Bare ids as
+# quoted strings — unquoted, YAML reads 2604.10000 as the number 2604.1.
+excluded_ids:
+  - "2611.32297"
+
 publish_readme: False
 publish_gitpage: True
 

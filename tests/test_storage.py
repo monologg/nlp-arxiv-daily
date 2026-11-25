@@ -368,3 +368,74 @@ class TestFillCodeLinks:
         mtime = target.stat().st_mtime_ns
         storage.fill_code_links(main, archive, {"2601.00001": "http://github.com/o/r"})
         assert target.stat().st_mtime_ns == mtime
+
+
+class TestWritePapersSplitExcludedIds:
+    """`excluded_ids` is the one way a paper leaves the data: an id listed
+    there is never written, and a copy stored earlier is dropped on the next
+    write."""
+
+    def _paths(self, tmp_path):
+        return str(tmp_path / "main.json"), str(tmp_path / "archive")
+
+    def test_excluded_id_in_new_papers_is_not_written(self, tmp_path):
+        main, archive = self._paths(tmp_path)
+        write_papers_split(
+            [{"NLP": {"2604.00001": "keep", "2604.00002": "drop"}}],
+            main,
+            archive,
+            current_yymm="2604",
+            excluded_ids={"2604.00002"},
+        )
+        assert json.loads(open(main).read()) == {"NLP": {"2604.00001": "keep"}}
+
+    def test_stored_copy_is_dropped_from_every_keyword(self, tmp_path):
+        main, archive = self._paths(tmp_path)
+        write_papers_split(
+            [{"NLP": {"2604.00001": "keep", "2604.00002": "drop"}, "QA": {"2604.00002": "drop-qa"}}],
+            main,
+            archive,
+            current_yymm="2604",
+        )
+        # No new papers: the next run alone removes what is already stored.
+        write_papers_split([], main, archive, current_yymm="2604", excluded_ids={"2604.00002"})
+        got = json.loads(open(main).read())
+        assert got["NLP"] == {"2604.00001": "keep"}
+        assert "2604.00002" not in got.get("QA", {})
+
+    def test_stored_copy_is_dropped_from_an_archived_month(self, tmp_path):
+        main, archive = self._paths(tmp_path)
+        write_papers_split(
+            [{"NLP": {"2603.00001": "keep", "2603.00002": "drop"}}],
+            main,
+            archive,
+            current_yymm="2604",
+        )
+        write_papers_split([], main, archive, current_yymm="2604", excluded_ids={"2603.00002"})
+        assert json.loads(open(f"{archive}/2026-03.json").read()) == {"NLP": {"2603.00001": "keep"}}
+
+    def test_archived_month_left_with_no_papers_is_emptied(self, tmp_path):
+        """A month that only held the excluded paper has no rows to write, so
+        its file must be emptied explicitly — skipping it would leave the row
+        published."""
+        main, archive = self._paths(tmp_path)
+        write_papers_split(
+            [{"NLP": {"2604.00001": "keep", "2603.00002": "drop"}}],
+            main,
+            archive,
+            current_yymm="2604",
+        )
+        write_papers_split([], main, archive, current_yymm="2604", excluded_ids={"2603.00002"})
+        assert json.loads(open(f"{archive}/2026-03.json").read()) == {}
+
+    def test_excluded_id_creates_no_file_for_a_month_never_stored(self, tmp_path):
+        main, archive = self._paths(tmp_path)
+        write_papers_split(
+            [{"NLP": {"2604.00001": "keep"}}], main, archive, current_yymm="2604", excluded_ids={"2603.00002"}
+        )
+        assert not pathlib.Path(archive, "2026-03.json").exists()
+
+    def test_no_excluded_ids_keeps_everything(self, tmp_path):
+        main, archive = self._paths(tmp_path)
+        write_papers_split([{"NLP": {"2604.00001": "a"}}], main, archive, current_yymm="2604", excluded_ids=None)
+        assert json.loads(open(main).read()) == {"NLP": {"2604.00001": "a"}}
