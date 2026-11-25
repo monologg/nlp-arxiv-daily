@@ -203,6 +203,40 @@ class TestCmdFetchResilience:
         with pytest.raises(RuntimeError, match="all .* keyword fetches failed"):
             cli.cmd_fetch(self._config(tmp_path))
 
+    def test_excluded_id_is_not_persisted(self, monkeypatch, tmp_path):
+        """A paper listed in `excluded_ids` stays out even though arxiv keeps
+        returning it inside the lookback window."""
+        import json
+
+        monkeypatch.setattr(cli, "fetch_recent_papers", lambda query, **kw: [self._paper(query)])
+
+        config = self._config(tmp_path)
+        config["excluded_ids"] = [self._paper("x").paper_id]
+        cli.cmd_fetch(config)
+
+        written = json.loads((tmp_path / "docs" / "main-web.json").read_text())
+        assert all(not papers for papers in written.values())
+
+
+class TestExcludedIdsConfig:
+    def test_missing_key_means_nothing_excluded(self):
+        assert cli._excluded_ids({}) == set()
+        assert cli._excluded_ids({"excluded_ids": None}) == set()
+
+    def test_returns_the_listed_ids(self):
+        assert cli._excluded_ids({"excluded_ids": ["2611.32297", "2604.00001"]}) == {"2611.32297", "2604.00001"}
+
+    def test_unquoted_id_is_rejected(self):
+        # YAML reads an unquoted 2604.10000 as the float 2604.1, which would
+        # match nothing and silently leave the paper in place.
+        with pytest.raises(ValueError, match="excluded_ids"):
+            cli._excluded_ids({"excluded_ids": [2604.10000]})
+
+    @pytest.mark.parametrize("bad", ["2611.32297v1", "arXiv:2611.32297", "http://arxiv.org/abs/2611.32297", ""])
+    def test_anything_but_a_bare_id_is_rejected(self, bad):
+        with pytest.raises(ValueError, match="excluded_ids"):
+            cli._excluded_ids({"excluded_ids": [bad]})
+
 
 class TestCmdFetchWindow:
     """The daily fetch is a date-range query (last N days), not a top-N —
@@ -457,6 +491,22 @@ class TestBackfillWindows:
         assert [(s.day, e.day) for s, e in calls] == [(1, 10), (11, 20), (21, 30), (31, 31)]
         written = json.loads((tmp_path / "docs" / "archive-web" / "2025-08.json").read_text())
         assert set(written["LLM"]) == {"2508.00001", "2508.00011", "2508.00021", "2508.00031"}
+
+    def test_excluded_id_is_not_backfilled(self, monkeypatch, tmp_path):
+        import json
+
+        monkeypatch.setattr(
+            cli,
+            "fetch_papers_in_range",
+            lambda query, start, end, **kw: [self._paper("2508.00001", 7), self._paper("2508.00002", 8)],
+        )
+        monkeypatch.setattr(cli, "cmd_render", lambda config: None)
+        config = self._config(tmp_path)
+        config["excluded_ids"] = ["2508.00002"]
+        cli.cmd_backfill(config, start=datetime.date(2025, 8, 1), end=datetime.date(2025, 8, 1))
+
+        written = json.loads((tmp_path / "docs" / "archive-web" / "2025-08.json").read_text())
+        assert set(written["LLM"]) == {"2508.00001"}
 
     def test_warns_when_a_window_hits_the_result_cap(self, monkeypatch, tmp_path, caplog):
         monkeypatch.setattr(

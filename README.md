@@ -94,7 +94,7 @@ Each `filters` entry is a plain word or phrase, not an arXiv query: the pipeline
 
 ### 3. Start from empty data (recommended)
 
-The pipeline only ever adds papers. Everything your fork inherited stays in the JSON — including keywords you removed from `config.yaml`, which keep showing up on the site. To start clean:
+The pipeline only ever adds papers (the one exception: ids listed under `excluded_ids` in `config.yaml` are kept out and dropped if already stored — use it to honor a removal request). Everything your fork inherited stays in the JSON — including keywords you removed from `config.yaml`, which keep showing up on the site. To start clean:
 
 ```bash
 rm docs/archive-web/*.json

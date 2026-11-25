@@ -49,6 +49,27 @@ def _known_code_links(config: dict) -> dict[str, str | None]:
     return known
 
 
+_BARE_ARXIV_ID_RE = re.compile(r"\d{4}\.\d{4,5}")
+
+
+def _excluded_ids(config: dict) -> set[str]:
+    """Paper ids listed under `excluded_ids` in the config — papers that must
+    stay out of the data (see `write_papers_split`).
+
+    An entry that is not a bare, quoted id would match no stored key and leave
+    the paper published without any sign of it, so it is an error instead.
+    YAML reads an unquoted 2604.10000 as the float 2604.1.
+    """
+    ids = config.get("excluded_ids") or []
+    for entry in ids:
+        if not isinstance(entry, str) or not _BARE_ARXIV_ID_RE.fullmatch(entry):
+            raise ValueError(
+                f"excluded_ids: {entry!r} is not a bare arxiv id — write it as a quoted string "
+                'without a version or URL, e.g. "2604.21637"'
+            )
+    return set(ids)
+
+
 def cmd_fetch(config: dict) -> None:
     """Query arxiv for every keyword in `config["kv"]` over the last
     `daily_lookback_days` days, persist JSON splits."""
@@ -56,6 +77,7 @@ def cmd_fetch(config: dict) -> None:
     max_results = config["max_results"]
     lookback_days = int(config.get("daily_lookback_days", DEFAULT_DAILY_LOOKBACK_DAYS))
     keyword_order = list(keywords.keys())
+    excluded_ids = _excluded_ids(config)
     known_code_links = _known_code_links(config)
 
     data_collector = []
@@ -102,6 +124,7 @@ def cmd_fetch(config: dict) -> None:
             config["json_readme_path"],
             config["archive_readme_json_dir"],
             keyword_order=keyword_order,
+            excluded_ids=excluded_ids,
         )
     if config["publish_gitpage"]:
         write_papers_split(
@@ -109,6 +132,7 @@ def cmd_fetch(config: dict) -> None:
             config["json_gitpage_path"],
             config["archive_gitpage_json_dir"],
             keyword_order=keyword_order,
+            excluded_ids=excluded_ids,
         )
 
 
@@ -228,6 +252,7 @@ def cmd_backfill(
     """
     keywords = config["kv"]
     keyword_order = list(keywords.keys())
+    excluded_ids = _excluded_ids(config)
     if only_keywords:
         unknown = [k for k in only_keywords if k not in keywords]
         if unknown:
@@ -297,6 +322,7 @@ def cmd_backfill(
                 config["json_readme_path"],
                 config["archive_readme_json_dir"],
                 keyword_order=keyword_order,
+                excluded_ids=excluded_ids,
             )
         if config["publish_gitpage"] and month_data_web:
             write_papers_split(
@@ -304,6 +330,7 @@ def cmd_backfill(
                 config["json_gitpage_path"],
                 config["archive_gitpage_json_dir"],
                 keyword_order=keyword_order,
+                excluded_ids=excluded_ids,
             )
         logging.info(f"checkpoint flushed for {month_start.strftime('%Y-%m')}")
 

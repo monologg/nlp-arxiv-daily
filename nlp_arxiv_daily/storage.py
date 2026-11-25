@@ -4,7 +4,7 @@ import datetime
 import json
 import os
 import re
-from collections.abc import Mapping
+from collections.abc import Collection, Mapping
 
 from nlp_arxiv_daily.records import code_link_from_value
 from nlp_arxiv_daily.types import PapersByKeyword, PapersByMonth
@@ -134,6 +134,7 @@ def write_papers_split(
     archive_dir: str,
     current_yymm: str | None = None,
     keyword_order: list[str] | None = None,
+    excluded_ids: Collection[str] | None = None,
 ) -> None:
     """
     Re-bucket all known papers (existing main + archive + new daily) by YYMM and
@@ -142,6 +143,10 @@ def write_papers_split(
     Idempotent: running with new_papers_list=[] re-distributes existing data.
     Migration is implicit — first run with a legacy "all months in main" file
     splits it.
+
+    `excluded_ids` (bare arxiv ids, e.g. "2604.21637") never reach the output:
+    a new sighting is not written, and a copy stored by an earlier run is
+    dropped from every keyword. This is the only path that removes a row.
 
     `keyword_order` (when given) controls the order of top-level keyword keys
     in every emitted JSON file. The Astro site iterates JSON entries in
@@ -163,7 +168,23 @@ def write_papers_split(
         for kw, papers in new_papers.items():
             accumulated.setdefault(kw, {}).update(papers)
 
+    excluded = set(excluded_ids or ())
+    for papers in accumulated.values():
+        for paper_id in excluded:
+            papers.pop(paper_id, None)
+
     by_month = bucket_by_month(accumulated)
+
+    # A month whose only rows were excluded has nothing left to bucket, and a
+    # month missing from `by_month` is never rewritten — its file would keep
+    # the excluded row. Give such a month an empty bucket so the file is
+    # overwritten, but only if the file exists.
+    for paper_id in excluded:
+        m = ARXIV_KEY_RE.match(paper_id)
+        if not m or m.group(1) == current_yymm or m.group(1) in by_month:
+            continue
+        if os.path.exists(os.path.join(archive_dir, f"{_yymm_to_archive_basename(m.group(1))}.json")):
+            by_month[m.group(1)] = {}
 
     main_dir = os.path.dirname(main_json_path)
     if main_dir:
